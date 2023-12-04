@@ -7,15 +7,15 @@ ol.git-wiki-toc { display: none; }
 </style>
 -->
 
-## Overview
+<!-- ## Overview -->
+<br />
 
 Welcome to the [/r/htpc](https://www.reddit.com/r/htpc) sub-reddit's wiki page.
 
 You can use this page to browse and search information relating to HTPCs.
 
-Contact us with any text corrections, broken links or suggested content via [Reddit](https://www.reddit.com/message/compose?to=/r/htpc) or via <a href="mailto:htpc-wiki@biacciconsulting.com">E-mail</a>.
-
-## Content
+<!-- ## Content -->
+---
 
 ### [FAQ](/wiki/faq) 
 - Information about getting help, building a HTPC, quick-fire RECs, components, client media devices, HTPC tech, common questions, etc..
@@ -46,6 +46,10 @@ Contact us with any text corrections, broken links or suggested content via [Red
 
 ### [Verified HDMI 2.0/HDCP 2.2 motherboards](/wiki/hdmi20) 
 - A list of motherboards that have HDMI 2.0/HDCP 2.2 support
+
+---
+
+Contact us with any text corrections, broken links or suggested content via [Reddit](https://www.reddit.com/message/compose?to=/r/htpc) or via <a href="mailto:htpc-wiki@biacciconsulting.com">E-mail</a>.
 
 <!-- OLD LINKS - to get google to index us instead of old reddit-based wiki -->
 <!-- /r/htpc/wiki -->
