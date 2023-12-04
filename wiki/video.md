@@ -407,7 +407,7 @@ Nearest Neighbor, Bilinear, DXVA, Cubic (Mitchell Netravali), Cubic (BiCubic), C
 
 The Anti-Ringing/AR option added on to any algo is ideal, where available.  
 
-These are OBJECTIVE rankings, and not SUBJECTIVE. Visual preferences are subjective i.e. different for each person. Test the algos to find the sweet spot for your own visual and GPU load/noise preferences. Do not go past the [recommended algos for your particular GPU](/wiki/hdr#wiki_madvr_performance_settings_per_gpu) without extensive performance testing.  
+These are OBJECTIVE rankings, and not SUBJECTIVE. Visual preferences are subjective i.e. different for each person. Test the algos to find the sweet spot for your own visual and GPU load/noise preferences. Do not go past the [recommended algos for your particular GPU](/wiki/hdr#madvr-performance-settings-per-gpu) without extensive performance testing.  
 
 Any algo beyond **Jinc** will produce diminishing returns compared to the amount of load and noise it subjects your GPU to and may be detrimental to your HT listening environment.  
 
