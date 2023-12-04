@@ -1,14 +1,4 @@
-<!--
-ol.git-wiki-toc { display: none; }
--->
-<!--
-<style>
-  #git-wiki-toc { display: none;}
-</style>
--->
-
 <!-- ## Overview -->
-<br />
 
 ### Welcome to the [/r/htpc](https://www.reddit.com/r/htpc) sub-reddit's wiki page.
 
