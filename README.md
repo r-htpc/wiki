@@ -1,5 +1,5 @@
-<div id="git-wiki-toc">
-</div>
+ol.git-wiki-toc { display: none; }
+<body style="ol.git-wiki-toc { display: none; }">
 <!--
 <style>
   #git-wiki-toc { display: none;}
