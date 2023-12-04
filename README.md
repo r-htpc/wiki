@@ -1,6 +1,5 @@
----
-git-wiki-toc: null
----
+<div id="git-wiki-toc">
+</div>
 <!--
 <style>
   #git-wiki-toc { display: none;}
