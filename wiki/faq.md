@@ -21,13 +21,13 @@ Traditionally a HTPC is a PC with a purpose to play and/or serve media in a thea
 
 Specific hardware can be a TV tuner card, high-end sound card, other decoder cards, remotes or a case optimized for noise and/or space.
 
-[Specific software can be media players, codecs, certain operating systems and specialized media software interfaces](/htpc-wiki/faq#what-software-will-i-need-and-how-do-i-set-it-up).
+[Specific software can be media players, codecs, certain operating systems and specialized media software interfaces](/wiki/faq#what-software-will-i-need-and-how-do-i-set-it-up).
 
-Media can be video content from [ripped personal discs](/htpc-wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use), [streaming services](/htpc-wiki/faq#can-i-use-my-htpc-for-streaming-from-services-such-as-netflix-amazon-hulu-etc), audio, photos, or emulation gaming content.  
+Media can be video content from [ripped personal discs](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use), [streaming services](/wiki/faq#can-i-use-my-htpc-for-streaming-from-services-such-as-netflix-amazon-hulu-etc), audio, photos, or emulation gaming content.  
 
 As computing power has gotten smaller and smaller, traditional PCs have given way to integrated media devices which have blurred the line over what a PC is.
 
-A media device such as a Roku player is very small and performs most of the functions a PC does, with CPU, memory, storage, operating system, etc.. The biggest distinction is that [these devices](/htpc-wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) are usually designed specifically for playing media in a Home Theater setting.
+A media device such as a Roku player is very small and performs most of the functions a PC does, with CPU, memory, storage, operating system, etc.. The biggest distinction is that [these devices](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) are usually designed specifically for playing media in a Home Theater setting.
 
 MOST of these small devices simply act as clients (they may not even connect to a server in your setup, but simply to internet streaming services, like Netflix), 
 but a small, powerful few also can act as servers.
@@ -46,28 +46,28 @@ What is NOT a HTPC: Playing media just on your laptop. Playing media at your des
 
 A HTPC whether it be a PC or media device, can act as a client, a server, both or standalone.  
 
-For instance, it can act standalone and play media from [internal storage](/htpc-wiki/storage) or [streaming services](/htpc-wiki/faq#can-i-use-my-htpc-for-streaming-from-services-such-as-netflix-amazon-hulu-etc) to a connected TV/sound system.  
+For instance, it can act standalone and play media from [internal storage](/wiki/storage) or [streaming services](/wiki/faq#can-i-use-my-htpc-for-streaming-from-services-such-as-netflix-amazon-hulu-etc) to a connected TV/sound system.  
 
-It can be a client connected to a TV/sound system and then [connect to a server](/htpc-wiki/faq#can-i-streamhow-do-i-serve-my-content-from-another-computer-or-a-networked-storage-device) which provides it the media to play.  
+It can be a client connected to a TV/sound system and then [connect to a server](/wiki/faq#can-i-streamhow-do-i-serve-my-content-from-another-computer-or-a-networked-storage-device) which provides it the media to play.  
 
 It can be a server which provides the media to the client as fore-mentioned.  
 
-It can be client and server as well; connected to a TV as a client, playing internal media, but also has [server software](/htpc-wiki/faq#what-software-will-i-need-and-how-do-i-set-it-up) installed, which it uses to [send media to 
-other clients in the home](/htpc-wiki/faq#can-i-streamhow-do-i-serve-my-content-from-another-computer-or-a-networked-storage-device).
+It can be client and server as well; connected to a TV as a client, playing internal media, but also has [server software](/wiki/faq#what-software-will-i-need-and-how-do-i-set-it-up) installed, which it uses to [send media to 
+other clients in the home](/wiki/faq#can-i-streamhow-do-i-serve-my-content-from-another-computer-or-a-networked-storage-device).
 
 You should first decide which of these roles you need based on your use-case, budget, and hardware available.  
 
-You should reference the [video](/htpc-wiki/video)/[audio](/htpc-wiki/audio)/[storage](/htpc-wiki/storage) sections of the wiki as a guide to overall concepts if you're not familiar with them while researching a solution.  
+You should reference the [video](/wiki/video)/[audio](/wiki/audio)/[storage](/wiki/storage) sections of the wiki as a guide to overall concepts if you're not familiar with them while researching a solution.  
 
-A simple setup may just have a standalone PC (pre-built or DiY) with the [appropriate software](/htpc-wiki/faq#what-software-will-i-need-and-how-do-i-set-it-up) 
-or a [media device](/htpc-wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc). Usually if streaming or a remote-based interface is a priority, then a media device is best, where a PC is better for more customization, 
+A simple setup may just have a standalone PC (pre-built or DiY) with the [appropriate software](/wiki/faq#what-software-will-i-need-and-how-do-i-set-it-up) 
+or a [media device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc). Usually if streaming or a remote-based interface is a priority, then a media device is best, where a PC is better for more customization, 
 keyboard/mouse interaction or lots of storage.  
 
 An advanced setup with might have a server/storage tucked away somewhere and one or more client PCs/media devices connected to each display.  
 
 Setups vary and there are many ways to do things. Finding the best way for you takes some time and research.  
 
-In the next section are listed some quick-fire pre-built solution recommendations for client and server hardware based on common use-cases, with DiY [components](/htpc-wiki/faq#what-hardware-should-i-choose-for-my-htpc) and special scenarios further below. Detailed, complete PC solutions can be found in the [Building/Buying](/htpc-wiki/sample-builds) page of the Wiki. 
+In the next section are listed some quick-fire pre-built solution recommendations for client and server hardware based on common use-cases, with DiY [components](/wiki/faq#what-hardware-should-i-choose-for-my-htpc) and special scenarios further below. Detailed, complete PC solutions can be found in the [Building/Buying](/wiki/sample-builds) page of the Wiki. 
 
 Once you build/buy your solution, you can then follow the setup in the appropriate sections of the video/audio/storage pages of the Wiki mentioned above to connect and configure the individual pieces.  
 
@@ -108,9 +108,9 @@ Media Server (no/1080p transcoding): Used: [SFF/USFF PC - CPU >= i3-7100T, 4GB R
 
 Media Server (4k transcoding):  Used: [SFF/USFF PC - CPU >= i5-7500T, 8GB RAM, SSD](https://www.ebay.com/sch/i.html?_fsrp=1&rt=nc&_from=R40&_nkw=\(hp%2Cdell%2Clenovo\)+\(i5-7500%2Ci5-8400\)+\(sff%2Cdt%2Cmt%2Cusff%2Cmicro%2Ctiny%2Cmini\)+ssd&_sacat=179&LH_BIN=1&LH_TitleDesc=0&_sop=15&_udhi=175&LH_ItemCondition=2010%7C2020%7C3000) ($75) OR New: >= [N95/N100 Mini PC](https://www.amazon.com/Beelink-Desktop-Computer-Ethernet-Family-NAS/dp/B0BWDGVCV7) ($150)   
 
-Network Storage: [Storage Setup Guide](/htpc-wiki/storage)
+Network Storage: [Storage Setup Guide](/wiki/storage)
 
-Everything else: [Sample Builds/Pre-builts](/htpc-wiki/sample-builds)  
+Everything else: [Sample Builds/Pre-builts](/wiki/sample-builds)  
 
 *HD Audio means Dolby TrueHD, DTS-HD, DTS:X, and/or Lossless version of Dolby Atmos*
 
@@ -122,7 +122,7 @@ If you can't find an answer to your question in this FAQ, and are planning to po
 
 We ask that you answer the following questions and paste them in your post, otherwise your post may be removed for lack of details.  
 
-Do NOT ask for help with playing media on [laptop screens or PC monitors](/htpc-wiki/faq#displays).
+Do NOT ask for help with playing media on [laptop screens or PC monitors](/wiki/faq#displays).
 
 **General Help**
 
@@ -187,10 +187,10 @@ First, choose a case that fits the space you will put it in. For HTPCs, there ar
 looking like just another piece of equipment, short and wide. If this is a frontend player in such a space, media watching is usually not the place you want to be distracted by RGB, so choose a case that blends in, rather than stands out. Smaller cases also tend to be hotter and therefore louder, due to smaller fans and heatsinks. Be mindful of this.  
 
 Second, choose a case that will fit your motherboard and the components in it, paying special attention to the motherboard/cpu cooler/psu.  
-It should be as large as the motherboard. For instance, don't use a Mini-ITX case with a Micro-ATX motherboard ([Micro-ATX > Mini-ITX](/htpc-wiki/reference)). But you may be able to use a Micro-ATX case with a Mini-ITX motherboard.  
+It should be as large as the motherboard. For instance, don't use a Mini-ITX case with a Micro-ATX motherboard ([Micro-ATX > Mini-ITX](/wiki/reference)). But you may be able to use a Micro-ATX case with a Mini-ITX motherboard.  
 Be aware of the PSU size. Some cases may take a regular ATX sized PSU, while others may take only SFX, TFX or even Pico sized PSUs. **Avoid** cases where you need a Flex ATX PSU as the fans are small and loud.  
 
-**If you don't have specific requirements and/or just want something decent to build around without much thought, look at the [Silverstone ML03/ML04](https://www.amazon.com/SilverStone-Technology-Aluminum-Micro-ATX-ML03B/dp/B004GGUAUE/) and the [sample builds](/htpc-wiki/sample-builds) wiki page.**  
+**If you don't have specific requirements and/or just want something decent to build around without much thought, look at the [Silverstone ML03/ML04](https://www.amazon.com/SilverStone-Technology-Aluminum-Micro-ATX-ML03B/dp/B004GGUAUE/) and the [sample builds](/wiki/sample-builds) wiki page.**  
 
 Here are some popular case options by size:  
 
@@ -201,7 +201,7 @@ Cube|*ITX:* ASRock Deskmeet, Raijintek Metis, Silverstone SG13/SG05, Golden Fiel
 Long Cube|*ITX:* Sharkoon QB One, Fractal Design Core 500, **[Node 304](https://www.fractal-design.com/products/cases/node/node-304/black/)**, Coolermaster Elite 130, *uATX:* Silverstone SG02/SG11
 Short - media cabinet|*ITX/uATX/ATX:* [**Silverstone ML**/RVZ/GD](https://www.silverstonetek.com/en/product/computer-chassis/?filter=HTPC_Desktop,grandia,milo,RAVEN&sort=Newsest) series. *ITX:* [Node 202](https://www.fractal-design.com/products/cases/node/node-202/black/), [Fractal Ridge](https://www.fractal-design.com/products/cases/ridge), Raijintek Pan, Inwin [BP](https://www.in-win.com/en/computer-chassis/bp-series)/[BQ](https://www.in-win.com/en/computer-chassis/bq-series). *uATX:* Apex DM-387/MI-008, Inwin BL/CE (BL040/CE685), Antec VSK2000.
 Fanless|[HDPLEX](http://www.hdplex.com), [Streacom](http://www.streacom.com/products/), [Akasa Maxwell Pro, Euler M/S/T](https://www.akasa.com.tw/update.php?tpl=product/product.list.tpl&type=Fanless%20Chassis&type_sub=Fanless%20Mini%20ITX)
-NAS|[Wiki: DIY NAS Case List](/htpc-wiki/storage#diy-nas-case-list), Fractal **[Node 804](https://www.fractal-design.com/products/cases/node/node-804/Black/)**/Node 304/Define R5, Jonsbo N1/N2/N3, Silverstone CS380/DS380/GD07/GD08, iStarUSA S-35
+NAS|[Wiki: DIY NAS Case List](/wiki/storage#diy-nas-case-list), Fractal **[Node 804](https://www.fractal-design.com/products/cases/node/node-804/Black/)**/Node 304/Define R5, Jonsbo N1/N2/N3, Silverstone CS380/DS380/GD07/GD08, iStarUSA S-35
 Full dGPU (Sandwich)|**[Geeek G1/M5/A40/A50/A60](https://www.geeekstore.com/product-category/case/)**, Raijintek Ophion ALS, Nouvolo Steck, Lian Li A4, Fractal Terra, Sliger SM550, SGPC K49
 Full dGPU (Other)|[Silverstone GD (short), RVZ/ML07/ML08 (shorter), SG13 (cube)](https://www.silverstonetek.com/en/product/computer-chassis/?filter=Small_Form_Factor,HTPC_Desktop,grandia,RAVEN,sugo&sort=Newsest), [Jonsbo C6](https://www.newegg.com/p/2AM-006A-000C4)/C2, Node 202/304, Core 500 
 ATX mobo|**[Silverstone GD09 - 27L/$95](https://www.silverstonetek.com/en/product/info/computer-chassis/GD09/)**, [GD11 - 31L/$170](https://www.silverstonetek.com/en/product/info/computer-chassis/GD11/), [SSUPD Meshroom S - 15L/$160](https://www.ssupd.co/products/new-meshroom-s), [SFFTime P-ATX - 10L/$170](https://www.sfftime.com/p-atx), Sliger Cerberus X - 24L/$265, [HDPLEX H5 - 17L/$300](http://www.hdplex.com/hdplex-h5-fanless-computer-case.html), Thermaltake Core G3 - 23.6L/EoL
@@ -243,7 +243,7 @@ Below are the minimum CPUs required for each scenario and a recommendation. **Al
 
 - AV1 decoding: >= Intel i3/i5/i7-11xxx iGPU, >= Ryzen 7xxx/6600U iGPU (REC: Intel i3-12100)  
 
-- UHD Blu-Ray disc playing: Intel i3/5/7/9 7th-10th Gen iGPU ONLY + [Motherboard BIOS supporting Intel SGX](/htpc-wiki/hdmi20) (REC: Intel i3-10100)  
+- UHD Blu-Ray disc playing: Intel i3/5/7/9 7th-10th Gen iGPU ONLY + [Motherboard BIOS supporting Intel SGX](/wiki/hdmi20) (REC: Intel i3-10100)  
 
 - HDMI 2.1 4K@120Hz: >= Ryzen 7xxx/6600U iGPU  
 
@@ -322,8 +322,8 @@ Nvidia RTX 40xx								|	Y		|	Y		|	Y	|	Y		|2.1		|1.4	|	Y	|	Y		|	Y		|Ada Lovelace
 (EM) Embedded. Mobile, Mini PC, etc..  
 (HEVC 8b/VP9 8b) Used for HW accel 4k non-HDR  
 (HEVC 10b/VP9 10b) Used for HW accel 4k HDR  
-(1) [HDMI 2.0 possible w/specific mobo](/htpc-wiki/hdmi20)  
-(2) [Only with Windows and HDMI 2.0 mobo/vendor-specific DP adapter](/htpc-wiki/hdmi20)  
+(1) [HDMI 2.0 possible w/specific mobo](/wiki/hdmi20)  
+(2) [Only with Windows and HDMI 2.0 mobo/vendor-specific DP adapter](/wiki/hdmi20)  
 (3) Only with libreelec OS and specific SKUs  
 (4) Requires >= 3300U or >= 3200G  
 (5) Requires >= 1050 3GB/1050 Ti  
@@ -382,7 +382,7 @@ BRANDS/MODELS:
 Your OS should be stored on a SSD. Shoot for at least a 2.5" 250GB SATA drive. A SATA SSD will be 30-50x faster than a HDD at OS operations. A M.2 NVMe SSD with transfer rates of 1500 MB/s will be around 2x faster than a SATA SSD and is the best option, while reducing cable clutter in the process. A high-end M.2 NVMe SSD @ 3000 MB/s will be 5x faster than a SATA SSD, but does not make sense price-wise unless you have highly sequential read/write tasks (which shouldn't happen on an OS drive).  
 
 Your media content should be stored on HDDs. Internal drives for media are preferred, but external drives are also fine. 2.5" HDDs are ok for the smallest cases, but capacities are limited to 5 TB, so if you need larger, you'll have to go to 3.5". If using external drives, make sure power management features in your OS don't disconnect a USB drive after a certain period of time. 
-You can also buy external drives and "shuck" the drives out of them to use internally in your HTPC, which tends to be cheaper. Check the [Storage wiki page](/htpc-wiki/storage) page for prices/recs of internal/external drives.  
+You can also buy external drives and "shuck" the drives out of them to use internally in your HTPC, which tends to be cheaper. Check the [Storage wiki page](/wiki/storage) page for prices/recs of internal/external drives.  
 
 There are a very few cases where a SSD should be used for media or non-OS data: 
 
@@ -401,7 +401,7 @@ HDDS: Ultrastar, Seagate Exos, WD Red
 
 ### Optical Drives
 
-NOTE: UHD/4k blu-ray **disc** playback is not recommended due to hardware restrictions. See [here](https://www.cyberlink.com/support/faq-content.do?id=19144) and [here](/htpc-wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility)   
+NOTE: UHD/4k blu-ray **disc** playback is not recommended due to hardware restrictions. See [here](https://www.cyberlink.com/support/faq-content.do?id=19144) and [here](/wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility)   
 
 If you can meet the restrictions, then buy an Official Playback drive and use PowerDVD.  
 
@@ -510,7 +510,7 @@ Noctua, Thermalright, be Quiet!, Arctic, Scythe
 For case fans, look at the Arctic P12 series for affordability or the Noctua A series for the best.  
 For cpu coolers, look at the Noctua [NH-L9i](http://noctua.at/en/products/cpu-cooler-retail/nh-l9i)/[NH-L9a](http://noctua.at/en/products/cpu-cooler-retail/nh-l9a)/L9x65/L12S, Thermalright AXP Series, Scythe Big Shuriken and the Arctic Freezer [11 LP](https://www.arctic.ac/us_en/freezer-11-lp.html) for small cases and the Noctua NH-D12L, ID Cooling SE-224-XT, Thermalright Peerless Assassin or Arctic Liquid Freezer II AIOs for large cases.  
 
-Check our [CPU Coolers](/htpc-wiki/cpucoolers) wiki page for an extended list.  
+Check our [CPU Coolers](/wiki/cpucoolers) wiki page for an extended list.  
 
 <!-- Sub-Section -->
 
@@ -640,7 +640,7 @@ You may want to wake your HTPC from sleep or have the ability to power it on or 
 
 2. Wake/Power On/Off: Use a [Flirc Streamcom USB](https://flirc.tv/products/flirc-streacom?variant=43085036486888) device wired into your HTPC mobo and an IR remote. Requires a case with an IR window or drill-modded to allow the IR signal into the module.
 
-3. Wake: Use a HTPC with an IR sensor ([Intel NUC 7/8/11, Asus PN, Gigabyte Brix](/htpc-wiki/nuc)) and a [Pepper Jobs W10](https://www.pepper-jobs.com/products/w10-gyro-smart-remote) IR remote
+3. Wake: Use a HTPC with an IR sensor ([Intel NUC 7/8/11, Asus PN, Gigabyte Brix](/wiki/nuc)) and a [Pepper Jobs W10](https://www.pepper-jobs.com/products/w10-gyro-smart-remote) IR remote
 
 4. Wake/Power On/Off: Use a Silverstone [ES02](https://www.silverstonetek.com/en/product/expansion-cards/?page=1&filter=Power_OnOff_addon_cards&sort=Newsest) and included remote or [ES03-WIFI](https://www.silverstonetek.com/en/product/expansion-cards/?page=1&filter=Power_OnOff_addon_cards&sort=Newsest) and mobile app
 
@@ -692,15 +692,15 @@ For the software side of things, there are various tools you may need to take ad
 
 **Operating Systems:** 
 
-At the minimum you'll need an OS. Windows, Linux and Android are the most popular choices, as you can imagine. If you want to get the highest resolution from streaming services (esp. DRMed ones), use HDR, video upscaling like madVR, or are combining with a gaming solution, you would use Windows. Alternatively, using Linux is possible, but you will be limited to [lower resolution streaming services](/htpc-wiki/faq#what-resolution-is-supported-on-streaming-service-x) and no HDR. There are some specialized OSes out there, like [LibreElec](https://libreelec.tv/)/[CoreElec](https://coreelec.org) which are OSes designed for just running a media player (Kodi) with a single, plugin-capable interface. They also suffer from lower resolutions on streaming services but are very good for local content, even HDR.  
+At the minimum you'll need an OS. Windows, Linux and Android are the most popular choices, as you can imagine. If you want to get the highest resolution from streaming services (esp. DRMed ones), use HDR, video upscaling like madVR, or are combining with a gaming solution, you would use Windows. Alternatively, using Linux is possible, but you will be limited to [lower resolution streaming services](/wiki/faq#what-resolution-is-supported-on-streaming-service-x) and no HDR. There are some specialized OSes out there, like [LibreElec](https://libreelec.tv/)/[CoreElec](https://coreelec.org) which are OSes designed for just running a media player (Kodi) with a single, plugin-capable interface. They also suffer from lower resolutions on streaming services but are very good for local content, even HDR.  
 
 **Media Players:** 
 
-For [video streaming services](/htpc-wiki/faq#what-resolution-is-supported-on-streaming-service-x), use Microsoft Edge to get 1080p+, or the service's app (if available).  
+For [video streaming services](/wiki/faq#what-resolution-is-supported-on-streaming-service-x), use Microsoft Edge to get 1080p+, or the service's app (if available).  
 
 For simple media players, using local content, [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases), [VLC](https://www.videolan.org/vlc/) and Pot Player are popular on Windows, with [VLC](https://www.videolan.org/vlc/) on Linux.  
 
-If [HDR passthrough](/htpc-wiki/hdr) is what you're looking for, then look at [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases), [VLC](https://www.videolan.org/vlc/) or Kodi. For high-end video upscaling or HDR tonemapping, look at getting the [madVR](http://madvr.com) renderer for MPC-BE, Kodi, or Potplayer. For FPS upscaling, [SmoothVideo Project](https://www.svp-team.com/).  
+If [HDR passthrough](/wiki/hdr) is what you're looking for, then look at [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases), [VLC](https://www.videolan.org/vlc/) or Kodi. For high-end video upscaling or HDR tonemapping, look at getting the [madVR](http://madvr.com) renderer for MPC-BE, Kodi, or Potplayer. For FPS upscaling, [SmoothVideo Project](https://www.svp-team.com/).  
 
 But perhaps you want a more full-featured player/interface..  
 
@@ -720,11 +720,11 @@ To organize your content, look at Radarr (movies), Sonarr (tv), Lidarr (music) a
 
 **Other software:** 
 
-For Live TV software, see the [dedicated section](/htpc-wiki/faq#can-i-watch-live-tv-or-record-it-and-play-it-back-on-my-htpc) below.  
+For Live TV software, see the [dedicated section](/wiki/faq#can-i-watch-live-tv-or-record-it-and-play-it-back-on-my-htpc) below.  
 
 For blu-ray disc playback, both Kodi and VLC (w/[Java 8](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html)) have disc menu support ; for 4k/UHD, use [Cyberlink PowerDVD](https://www.cyberlink.com/products/powerdvd-ultra/features_en_US.html)  
 
-For disc ripping and transcoding software, see the [dedicated section](/htpc-wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use) below.  
+For disc ripping and transcoding software, see the [dedicated section](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use) below.  
 
 For game emulation, look at [RetroArch](https://www.retroarch.com/?page=platforms), [EmulationStation DE](https://es-de.org/) or [Launchbox Big Box](https://www.launchbox-app.com/premium) on **Windows**. [Batocera](https://batocera.org/), [Lakka (RetroArch on a stick)](https://www.lakka.tv/) on **Linux**, RetroArch or [OpenEmu](https://openemu.org/) on **Mac**, [Lemuroid](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid&hl=en_US&gl=US) or RetroArch on **Android**, [Provenance](https://github.com/Provenance-Emu/Provenance) on **Apple TV**. [Nostlan](https://github.com/quinton-ashley/nostlan) for 4k displays.  
 
@@ -743,15 +743,15 @@ For a comprehensive guide to setting up all the backend organizational/serving s
 
 Yes, however the interface quality and functionality varies widely and remote control support is almost non-existent. The services will detect your device as a PC and present you with their standard web or app-based interface. It may be up to you to start videos and expand them to full-screen.  
 
-If you don't plan on using a [keyboard/mouse-like device](/htpc-wiki/faq#keyboardsremotesgamepads), then streaming services on a PC will be painful. There are some workarounds like [software](/htpc-wiki/faq#keyboardsremotesgamepads) to emulate a mouse on game controllers/mobile and things like the [Leanback interface](https://redd.it/y5o7mi) for Youtube. If those things aren't good enough for you, then you should buy a remote-based [media device](/htpc-wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) from the next section instead.  
+If you don't plan on using a [keyboard/mouse-like device](/wiki/faq#keyboardsremotesgamepads), then streaming services on a PC will be painful. There are some workarounds like [software](/wiki/faq#keyboardsremotesgamepads) to emulate a mouse on game controllers/mobile and things like the [Leanback interface](https://redd.it/y5o7mi) for Youtube. If those things aren't good enough for you, then you should buy a remote-based [media device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) from the next section instead.  
 
 Using Windows Store apps for some of these services may be better than using a web browser in terms of video/audio support. 
 
 For example, the Netflix Windows Store app does support 4k/1080p streaming and Dolby Digital/Dolby Digital Plus soundtracks. Browser-based solutions tend not support DD/DD+ audio and some content will only be available in 720p. The app still does not have remote control support, but you can try adding 3rd party remote control support using the [Netflix Remote Controller](http://sticky-ux.com/apps/NetflixRemoteController/).  
 
-4K support for streaming services in general is limited on a traditional HTPC. See our sections on [streaming service resolutions supported](/htpc-wiki/faq#what-resolution-is-supported-on-streaming-service-x) and [4K compatibility](/htpc-wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility) below.  
+4K support for streaming services in general is limited on a traditional HTPC. See our sections on [streaming service resolutions supported](/wiki/faq#what-resolution-is-supported-on-streaming-service-x) and [4K compatibility](/wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility) below.  
 
-Support for the higher resolutions and audio is way more prevalent on pre-built media devices, so if you use a lot of these services, it's better not to use a PC. Again, see our [media device](/htpc-wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) section below.  
+Support for the higher resolutions and audio is way more prevalent on pre-built media devices, so if you use a lot of these services, it's better not to use a PC. Again, see our [media device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) section below.  
 
 In regards to bandwidth required, you should have 6 Mbps downstream to stream 1080p services. 25 Mbps for 4k.  
 
@@ -764,7 +764,7 @@ Beware of cheap no-name android boxes on obscure websites. They likely will have
 
 If you're looking for the best Plex client, watch [this](https://www.youtube.com/watch?v=qLxjL2NxZy8) video for tests on loading/scrolling/playing/audio/remotes/etc..  
 
-If you want a traditional standalone HTPC see the Mini PCs at the end of the list or our [Sample Builds](/htpc-wiki/sample-builds) page for more extensive options.  
+If you want a traditional standalone HTPC see the Mini PCs at the end of the list or our [Sample Builds](/wiki/sample-builds) page for more extensive options.  
 
 Legend: PT: Passthrough, DC: Decode, LS: Lossy, LL: LossLess, DD: Dolby Digital, DV: Dolby Vision, DA: Dolby Atmos, DTHD: Dolby TrueHD, EOL: End of Life
 
@@ -887,7 +887,7 @@ If you want to make virtual TV channels out of your own content, looks at [dizqu
 
 Figure out how many clients you will be serving to simultaneously and what types of clients (local or remote). Assume you will be transcoding content for at least 1/3 of the clients (unless you know otherwise). So, for example, if you determine you will have 3 simultaneous clients, assume 1 of them will be transcoding, so choose a server with hardware that can do at least 1 transcode.
 
-Look at the [Sample Builds](/htpc-wiki/sample-builds) page for pre-built and DiY media server solutions based on that. You can buy a very capable media server for under $200. Don't forget to take into account the amount of storage you need, which can be signifigant, whether it be [internal, external, or networked with a NAS](/htpc-wiki/storage). Ripped/Remux 1080p movies can reach 25GB in size EACH, with 4k ones up to 4x that.  
+Look at the [Sample Builds](/wiki/sample-builds) page for pre-built and DiY media server solutions based on that. You can buy a very capable media server for under $200. Don't forget to take into account the amount of storage you need, which can be signifigant, whether it be [internal, external, or networked with a NAS](/wiki/storage). Ripped/Remux 1080p movies can reach 25GB in size EACH, with 4k ones up to 4x that.  
 
 Once you have the hardware you need, connect the media server and/or NAS to your router over ethernet, attach and/or mount the internal/external storage to the server, install and configure media server software, then install the server's player software on your media client devices.  
 
@@ -899,7 +899,7 @@ If you don't want to use media serving softwares, or you don't need real time tr
 
 ## How do I add Network Attached Storage (NAS) to my network for my HTPC/media devices?
 
-[See our separate wiki page here](/htpc-wiki/storage)  
+[See our separate wiki page here](/wiki/storage)  
 
 ## What resolution and audio is supported on streaming service X?
 
@@ -987,7 +987,7 @@ The following are the current capabilities of the major streaming services as we
 
 ## How can i rip my DVD/Blu-ray discs and what are some good quality settings to use?
 
-For DVDs and regular HD blu-ray any optical drive that can read the discs will do, internal or external, and you can spend <= $75 on one. For UHD discs, you should have a UHD or UHD-Friendly compatible drive with locked-in firmware. Check our [optical drives section](/htpc-wiki/faq#optical-drives) above.  
+For DVDs and regular HD blu-ray any optical drive that can read the discs will do, internal or external, and you can spend <= $75 on one. For UHD discs, you should have a UHD or UHD-Friendly compatible drive with locked-in firmware. Check our [optical drives section](/wiki/faq#optical-drives) above.  
 
 You should then use software to rip the content off the disc. It's recommended to do this process in two stages, especially if you need content re-encoded for compatibility or space..  
 
@@ -1026,21 +1026,21 @@ For a more automated way to do this process, look at [Automatic Ripping Machine]
 
 **If you want to use a pre-built device/HTPC**
 
-See the top of the [Sample Builds](/htpc-wiki/sample-builds) wiki page or our table of media devices [above](/htpc-wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc).  
+See the top of the [Sample Builds](/wiki/sample-builds) wiki page or our table of media devices [above](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc).  
 
 **If you're building a traditional DiY HTPC**
 
 *TL;DR*
 
-4k local content: [HDMI 2.0 motherboard](/htpc-wiki/hdmi20) (1.4 if only 30fps non-HDR), >= Intel 7th Gen/Gemini Lake/Athlon 200GE/Ryzen 2200G CPU/GPU **OR** CPU (>= circa 2008) + dGPU >= Nvidia GT1030/AMD RX 550/5x00 **(REC: Ryzen 4600G+B550 mobo)**.  
+4k local content: [HDMI 2.0 motherboard](/wiki/hdmi20) (1.4 if only 30fps non-HDR), >= Intel 7th Gen/Gemini Lake/Athlon 200GE/Ryzen 2200G CPU/GPU **OR** CPU (>= circa 2008) + dGPU >= Nvidia GT1030/AMD RX 550/5x00 **(REC: Ryzen 4600G+B550 mobo)**.  
 
-4k youtube: [HDMI 2.0 motherboard](/htpc-wiki/hdmi20), >= Intel 7th Gen/Gemini Lake/Athlon 200GE/Ryzen 2200G CPU/GPU **OR** CPU (>= circa 2008) + dGPU >= Nvidia GT1030 GDDR5/AMD RX 5x00 **(REC: Ryzen 4600G+B550 mobo)**.  
+4k youtube: [HDMI 2.0 motherboard](/wiki/hdmi20), >= Intel 7th Gen/Gemini Lake/Athlon 200GE/Ryzen 2200G CPU/GPU **OR** CPU (>= circa 2008) + dGPU >= Nvidia GT1030 GDDR5/AMD RX 5x00 **(REC: Ryzen 4600G+B550 mobo)**.  
 
-4k netflix: HDCP 2.2 display, [HDMI 2.0 motherboard](/htpc-wiki/hdmi20), Ryzen 3200G/3400G CPU/GPU **OR** >= Intel 7th Gen/Gemini Lake CPU/GPU **OR** CPU (>= circa 2008) + dGPU >= Nvidia GTX 1050 3GB/AMD RX 550/5x00 **(REC: Ryzen 4600G+B550 mobo)**. Windows 10. Microsoft [HEVC Video Extensions](https://www.microsoft.com/en-us/p/hevc-video-extensions/9nmzlz57r3t7). Intel MEI driver/ME firmware (Intel iGPU). Netflix app/Microsoft Edge browser. Netflix [Premium Plan](https://help.netflix.com/en/node/24926). Netflix [Test Patterns](https://www.netflix.com/title/80018499).  
+4k netflix: HDCP 2.2 display, [HDMI 2.0 motherboard](/wiki/hdmi20), Ryzen 3200G/3400G CPU/GPU **OR** >= Intel 7th Gen/Gemini Lake CPU/GPU **OR** CPU (>= circa 2008) + dGPU >= Nvidia GTX 1050 3GB/AMD RX 550/5x00 **(REC: Ryzen 4600G+B550 mobo)**. Windows 10. Microsoft [HEVC Video Extensions](https://www.microsoft.com/en-us/p/hevc-video-extensions/9nmzlz57r3t7). Intel MEI driver/ME firmware (Intel iGPU). Netflix app/Microsoft Edge browser. Netflix [Premium Plan](https://help.netflix.com/en/node/24926). Netflix [Test Patterns](https://www.netflix.com/title/80018499).  
 
-4k/UHD Blu-Ray disc playing: HDCP 2.2 display, [HDMI 2.0 motherboard w/SGX support](/htpc-wiki/hdmi20), Intel i3/5/7/9 **7th-10th Gen CPU w/iGPU ONLY** **(REC: Intel i3-10100+Gigabyte H370N mobo)**. Windows 10+. Use of a dedicated GPU (dGPU) is **not** supported.  
+4k/UHD Blu-Ray disc playing: HDCP 2.2 display, [HDMI 2.0 motherboard w/SGX support](/wiki/hdmi20), Intel i3/5/7/9 **7th-10th Gen CPU w/iGPU ONLY** **(REC: Intel i3-10100+Gigabyte H370N mobo)**. Windows 10+. Use of a dedicated GPU (dGPU) is **not** supported.  
 
-4k@120Hz: See [Wiki:Video:What options are there for 4k @ 120 Hz video output?](/htpc-wiki/video#what-options-are-there-for-4k--120-hz-video-output)  
+4k@120Hz: See [Wiki:Video:What options are there for 4k @ 120 Hz video output?](/wiki/video#what-options-are-there-for-4k--120-hz-video-output)  
 
 MAIN REQUIREMENTS
 
@@ -1050,7 +1050,7 @@ HARDWARE
 
 Virtually all modern CPUs with integrated graphics can display 4k video. BUT, all of the components in your home theater (TV, AV Receiver and HTPC motherboard) will need to have a HDMI 2.0a or DisplayPort 1.2 port in order to use all sources of 4K content.  
 On the AMD side, this starts with the Ryzen 2200G and on with any supported motherboard. Buy a Ryzen 4600G and B550/A520 motherboard and move on.    
-On the Intel side, this started with 7th gen Kaby Lake CPUs, but required a [special hdmi 2.0 motherboard](/htpc-wiki/hdmi20); But since 11th gen rocket lake CPUs, any supported motherboard will work. Buy a i3-12100 and H610/B660 motherboard and move on.
+On the Intel side, this started with 7th gen Kaby Lake CPUs, but required a [special hdmi 2.0 motherboard](/wiki/hdmi20); But since 11th gen rocket lake CPUs, any supported motherboard will work. Buy a i3-12100 and H610/B660 motherboard and move on.
 
 If one of the motherboards doesn't fit what you need, or you are upgrading an older, existing system that lacks the above, you can choose a dedicated GPU to add on to your system that has these features. The Nvidia GT 1030 GDDR5 is popular, as is the RX 6400 on the AMD side.
 
@@ -1058,16 +1058,16 @@ You CAN display 4k video at 30hz via older HDMI 1.4 and 4k video at 60hz via a D
 
 DRM
 
-If you plan on playing DRM protected content, for instance 4k netflix, you will need to have a HDMI 2.0 port that supports HDCP 2.2 or a Displayport with an active DP 1.x->HDMI 2.0 adapter. This can take the form of at least a Ryzen 3200G/3400G with any supported mobo **OR** Intel 7th-13th Gen/Apollo/Gemini Lake CPU and [supported motherboard](/htpc-wiki/hdmi20) **OR** Any CPU and an add-on dGPU, **only** Nvidia >= GTX 1050 3GB or AMD >= RX 4xx/5xx/5x00/6x00.
+If you plan on playing DRM protected content, for instance 4k netflix, you will need to have a HDMI 2.0 port that supports HDCP 2.2 or a Displayport with an active DP 1.x->HDMI 2.0 adapter. This can take the form of at least a Ryzen 3200G/3400G with any supported mobo **OR** Intel 7th-13th Gen/Apollo/Gemini Lake CPU and [supported motherboard](/wiki/hdmi20) **OR** Any CPU and an add-on dGPU, **only** Nvidia >= GTX 1050 3GB or AMD >= RX 4xx/5xx/5x00/6x00.
 
-More restrictively, if you plan on playing UHD Blu-ray discs, you are further limited to Intel CPUs w/SGX support (Intel i3/5/7/9 7th-10th Gen **ONLY**) + a [HDMI 2.0 motherboard w/SGX support](/htpc-wiki/hdmi20). Dedicated GPUs are **NOT** supported. See [here](https://www.cyberlink.com/support/faq-content.do?id=19144)  
+More restrictively, if you plan on playing UHD Blu-ray discs, you are further limited to Intel CPUs w/SGX support (Intel i3/5/7/9 7th-10th Gen **ONLY**) + a [HDMI 2.0 motherboard w/SGX support](/wiki/hdmi20). Dedicated GPUs are **NOT** supported. See [here](https://www.cyberlink.com/support/faq-content.do?id=19144)  
 
 To test for HDCP 2.2 compliance, use [Cyberlink Ultra HD Blu-Ray Advisor](https://www.cyberlink.com/prog/bd-support/diagnosis.do) or [Corel Ultra HD Blu-Ray Check Tool](https://dwnld.windvdpro.com/tools/CorelUltraHDBlurayCheckTool.exe)  
 
 SOFTWARE/CONTENT
 
-The only 4k content supported on a PC are: Local files, UHD blu-ray discs, Youtube and Netflix. See the [section above](/htpc-wiki/faq#what-resolution-is-supported-on-streaming-service-x) on what resolutions are supported for other services. 
-If you want access to more 4k content, on your favorite streaming services, use a [media device](/htpc-wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) instead.  
+The only 4k content supported on a PC are: Local files, UHD blu-ray discs, Youtube and Netflix. See the [section above](/wiki/faq#what-resolution-is-supported-on-streaming-service-x) on what resolutions are supported for other services. 
+If you want access to more 4k content, on your favorite streaming services, use a [media device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) instead.  
 
 It is highly likely that the 4K content will be encoded in HEVC (h.265), the successor to the popular and flexible h.264. Hardware decoding of h.265 is limited to:
 
@@ -1102,13 +1102,13 @@ For a HTPC, this means HDR support must be in the video, GPU, video interface (H
 
 HDR10 is supported on HTPCs under Windows, macOS Catalina, Android and (usually) libreelec/coreelec operating systems. Linux is NOT supported.  
 
-**DOLBY VISION AND HDR10+ MEDIA PROCESSING IS NOT SUPPORTED ON HTPCS**; If you need playback support for these, you'll need a [media device/non-PC](/htpc-wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc), like a Nvidia Shield, Fire TV, Dune HD, etc..  
+**DOLBY VISION AND HDR10+ MEDIA PROCESSING IS NOT SUPPORTED ON HTPCS**; If you need playback support for these, you'll need a [media device/non-PC](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc), like a Nvidia Shield, Fire TV, Dune HD, etc..  
 
-HDR streaming content is limited thus far and only found on Netflix and Youtube services. If you want access to more HDR content on your favorite streaming services, use a [media device](/htpc-wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) instead.  
+HDR streaming content is limited thus far and only found on Netflix and Youtube services. If you want access to more HDR content on your favorite streaming services, use a [media device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) instead.  
 
 That being said, HDR is supported on a PC with at least HDMI 2.0a or DisplayPort 1.4 ports. 
 
-If you're not comfortable building DiY, look at the pre-built recommendations at the top of the [Sample Builds](/htpc-wiki/sample-builds) page.  
+If you're not comfortable building DiY, look at the pre-built recommendations at the top of the [Sample Builds](/wiki/sample-builds) page.  
 
 Otherwise, if you stick to Ryzen APUs or Intel >= 11th gen CPUs below, any paired motherboard will have the HDMI port you need.  
 
@@ -1120,9 +1120,9 @@ The following CPU iGPUs/APUs are officially supported:
 
 It's also available on the following dGPUs: Nvidia GTX >= 950, GT >= 1030, Titan X, Quadro P5000/P6000, AMD RX >= 4x0/5x0/5x00, Radeon 7, Vega 56/64.  
 
-For older DiY motherboard support, reference our [HDMI 2.0 motherboards](/htpc-wiki/hdmi20) page.  
+For older DiY motherboard support, reference our [HDMI 2.0 motherboards](/wiki/hdmi20) page.  
 
-For setting up HDR on your client, [See our separate wiki page here](/htpc-wiki/hdr)  
+For setting up HDR on your client, [See our separate wiki page here](/wiki/hdr)  
 
 ## Should I buy a low-power version of a CPU?  
 
@@ -1153,12 +1153,12 @@ Here are the methods you can use:
 
 ## How do I set up audio/video on my HTPC?
 
-Audio: [See our separate wiki page here](/htpc-wiki/audio)  
+Audio: [See our separate wiki page here](/wiki/audio)  
 
-Video: [See our separate wiki page here](/htpc-wiki/video)  
+Video: [See our separate wiki page here](/wiki/video)  
 
 
 ## Do you have any sample builds I can refer to?
 
-[See our separate wiki page here](/htpc-wiki/sample-builds)
+[See our separate wiki page here](/wiki/sample-builds)
 
