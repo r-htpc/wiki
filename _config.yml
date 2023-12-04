@@ -8,7 +8,7 @@ baseurl: "/wiki"
 # (string) Description of your wiki
 description: Wiki for the /r/htpc sub-reddit
 # (boolean) disable edit functionalities (edit/delete/add pages)
-disable_edit: false
+disable_edit: true
 # (boolean) Enable/disable wiki page list in sidebar
 show_wiki_pages: true
 # (integer) Maximum number of wiki page to shown in sidebar
@@ -24,7 +24,7 @@ paginate: 5
 paginate_path: "/assets/blog/page:num"
 permalink: /assets/blog/posts/:year/:month/:day/:title:output_ext
 # (boolean) Enable/disable download buttons in sidebar
-show_downloads: true
+show_downloads: false
 # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
 git_branch: "master"
 # (string) Url of logo image, it can be full, absolute or relative.
