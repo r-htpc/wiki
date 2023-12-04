@@ -189,9 +189,9 @@ Tiny, simple 4K player. For local content, 4k netflix, youtube, browsing, light 
 
 Not the cheapest hardware; just a nice setup. You have the option to bump up to a better 5600G/5700G CPU for $25-50 more. If you can't afford the optional CPU cooler, pop the top off the stock AMD one to make it fit.  
 
-If you can't find the Deskmini case and still want to build, look at the Inwin Chopin alternate build. There's also a stack of good Tiny cases in the [Cases section](/wiki/faq#wiki_cases.3A) of the Wiki FAQ. You should use [Pico PSU 150W+](https://www.mini-box.com/Power-Supplies-Kits)-style kits for these.  
+If you can't find the Deskmini case and still want to build, look at the Inwin Chopin alternate build. There's also a stack of good Tiny cases in the [Cases section](/wiki/faq#cases) of the Wiki FAQ. You should use [Pico PSU 150W+](https://www.mini-box.com/Power-Supplies-Kits)-style kits for these.  
 
-You could add some media storage with a [2.5" HDD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&f=3&sort=ppgb&A=1900000000000,20000000000000&page=1), but these cases are not for internal 3.5" HDD media storage - they're too small for that.  If you want to stay within this size case, either use external USB HDDs or buy/build a [NAS](/wiki/storage#wiki_pre-built_nas_list) for backend storage. Otherwise, look at the all-in-one builds below.  
+You could add some media storage with a [2.5" HDD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&f=3&sort=ppgb&A=1900000000000,20000000000000&page=1), but these cases are not for internal 3.5" HDD media storage - they're too small for that.  If you want to stay within this size case, either use external USB HDDs or buy/build a [NAS](/wiki/storage#pre-built-nas-list) for backend storage. Otherwise, look at the all-in-one builds below.  
 
 <!-- Sub-Section -->
 
@@ -464,7 +464,7 @@ If you want to fit more than 1x 3.5" HDDs internally, look at these versions:
 It's preferred to use an SSD for your OS drive and for storing Plex Metadata. You can either buy the system with an SSD included, or buy it bare, purchasing one separately as per the parts list below. The latter is preferrable as you have more control over size/brand/form factor.  
 
 For media content storage, either use the HDD (if provided in the one you buy), replace it with a bigger one, or use external USB drives. You can get an 8TB drive for about $100, whether it be an 
-internal [WD SATA drive](https://www.ebay.com/sch/i.html?_fsrp=1&rt=nc&_from=R40&_nkw=%28wd%2Cwestern%29+%288tb%2C10tb%2C12tb%2C14tb%2C16tb%2C18tb%2C20tb%29+-blue+-purple+-gold&_sacat=56083&LH_BIN=1&LH_TitleDesc=0&_sop=15&LH_ItemCondition=1000%7C1500) or an external [WD Elements/Easystore USB Drive](https://www.amazon.com/Elements-Desktop-Hard-Drive-WDBWLG0080HBK-NESN/dp/B07D5V2ZXD). If you want to throw a bunch of drives at it (4) and not have all the USB/power cables of external drives, either go with one of the bigger cases or add a Terramaster [F4-210 NAS](/wiki/storage#wiki_pre-built_nas_list). If you want to go beyond this you'll want to build everything internally as per the NAS+Media Server sample build below.  
+internal [WD SATA drive](https://www.ebay.com/sch/i.html?_fsrp=1&rt=nc&_from=R40&_nkw=%28wd%2Cwestern%29+%288tb%2C10tb%2C12tb%2C14tb%2C16tb%2C18tb%2C20tb%29+-blue+-purple+-gold&_sacat=56083&LH_BIN=1&LH_TitleDesc=0&_sop=15&LH_ItemCondition=1000%7C1500) or an external [WD Elements/Easystore USB Drive](https://www.amazon.com/Elements-Desktop-Hard-Drive-WDBWLG0080HBK-NESN/dp/B07D5V2ZXD). If you want to throw a bunch of drives at it (4) and not have all the USB/power cables of external drives, either go with one of the bigger cases or add a Terramaster [F4-210 NAS](/wiki/storage#pre-built-nas-list). If you want to go beyond this you'll want to build everything internally as per the NAS+Media Server sample build below.  
 
 The optimal serving solution would be this system configured with a M.2 SSD for OS/apps, a large 3.5" internal HDD, Ubuntu 22, docker and the plex docker container.
 
@@ -506,7 +506,7 @@ If used as a Plex server, you can [Direct Play](https://support.plex.tv/articles
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
-CASE|Fractal Design Node 304|$100|[newegg](https://www.newegg.com/black-fractal-design-node-304-mini-itx-tower/p/N82E16811352027)|ITX, 14.7"x9.8"x8.3" ALT: Node 804 ($120), CM N400 ($80), [DIY NAS Case List](/wiki/storage#wiki_diy_nas_case_list)
+CASE|Fractal Design Node 304|$100|[newegg](https://www.newegg.com/black-fractal-design-node-304-mini-itx-tower/p/N82E16811352027)|ITX, 14.7"x9.8"x8.3" ALT: Node 804 ($120), CM N400 ($80), [DIY NAS Case List](/wiki/storage#diy-nas-case-list)
 CPU|Intel i3-12100 CPU, 60W|$115|[pcpartpicker](https://pcpartpicker.com/product/qrhFf7/intel-core-i3-12100-33-ghz-quad-core-processor-bx8071512100)|Passmark CPU Mark: [13800](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i3-12100&id=4687). ALT: i5-12400 ($150)
 MOBO|Gigabyte H610I DDR4 ITX|$120|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&s=40&f=8&sort=price&page=1)|ALT: [MSI MAG B660M MORTAR WIFI DDR4 uATX](https://pcpartpicker.com/products/motherboard/#f=7&sort=price&xcx=0&s=40&K=5,13) ($130)
 MEM|Team T-Force Vulcan Z 16GB 2x8GB DDR4-3200|$40|[pcpartpicker](https://pcpartpicker.com/product/z3VD4D/team-t-force-vulcan-z-16-gb-2-x-8-gb-ddr4-3200-memory-tlzgd416g3200hc16cdc01)|ALT: Team T-Force Vulcan Z 32GB 2x16GB DDR4-3200 ($60)
@@ -607,7 +607,7 @@ PC			|HP Z220 CMT Workstation				|$125		|	[Ebay](https://www.ebay.com/sch/i.html
 CPU			|Intel i5/i7-3xxx, Xeon E3-1xxx			|Included	|	NA			|	65-77 W, 4C/4T, PASSMARK: 4500
 MEM/STORAGE	|8GB DDR3 RAM, 500GB (varies) HDD		|Included	|	NA			|	Xeon: [ECC](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=ecc+8gb+12800+unbuffered+dimm&_sacat=0&LH_TitleDesc=0&_odkw=ecc+8gb+12800+unbuffered+dimm&_osacat=0&LH_PrefLoc=2), i3/i5: non-ECC
 STORAGE		|256GB 2.5" SATA SSD (OS/APP/CACHE)		|$25		|	[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=240000000000,22000000000000&t=0&sort=price&c1=di_sata.60)		| ALT: [512GB SATA SSD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=480000000000,22000000000000&t=0&sort=price&c1=di_sata.60) ($35)
-STORAGE		|WD Elements 4-20TB HDD - Shucked (DATA)|Varies		|	NA			|	[NAS Drive List](/wiki/storage#wiki_hard_drives)
+STORAGE		|WD Elements 4-20TB HDD - Shucked (DATA)|Varies		|	NA			|	[NAS Drive List](/wiki/storage#hard-drives)
 OS			|Unraid/Ubuntu 22/OMV/Windows			|$0			|	[Ubuntu](https://ubuntu.com/download)		|	Windows 10 usually included
 SOFTWARE	|Unraid - 6 device license				|$60		|	[limetech](https://unraid.net/pricing)		|	OPTIONAL
 TOTAL		|										|$150		|	NA			|
