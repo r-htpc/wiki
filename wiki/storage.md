@@ -77,7 +77,7 @@ If you want the best plex transcoding ability..
 **DiY**  
 
 If you want more CPU performance or more flexibility/expandability than any reasonably priced pre-built NAS can offer, build out your own DiY NAS with Unraid/TrueNAS/OMV and commodity hardware.  
-Reference the DiY case/drive lists below, and the example builds under the [Wiki Sample Builds](/htpc-wiki/sample-builds#nasmedia-server-builds) page for full-part builds that range from used OEM pre-builts to ultimate DiY  
+Reference the DiY case/drive lists below, and the example builds under the [Wiki Sample Builds](/wiki/sample-builds#nasmedia-server-builds) page for full-part builds that range from used OEM pre-builts to ultimate DiY  
 
 **If you want to skirt the line between a pre-built NAS and DiY, look at the following, these provide more CPU/GPU performance than a pre-built NAS for 2 drives, but give you more OS support with Windows, Linux or Unraid/TrueNAS/OMV compatibility and DiY-like flexibility:  
 - Intel-based [Seeed Studio reServer (2 drives)](https://www.seeedstudio.com/reThings-reServer-c-2006.html)  
