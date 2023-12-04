@@ -10,9 +10,9 @@ ol.git-wiki-toc { display: none; }
 <!-- ## Overview -->
 <br />
 
-Welcome to the [/r/htpc](https://www.reddit.com/r/htpc) sub-reddit's wiki page.
+### Welcome to the [/r/htpc](https://www.reddit.com/r/htpc) sub-reddit's wiki page.
 
-You can use this page to browse and search information relating to HTPCs.
+### You can use this page to browse and search information relating to HTPCs.
 
 <!-- ## Content -->
 ---
