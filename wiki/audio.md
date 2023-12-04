@@ -85,7 +85,7 @@ USB/Bluetooth: Digital. Channels dependent on external sound device connected. B
 
 ### **Audio Software**
 
-See also: [Video Software](/htpc-wiki/video#video_software)  
+See also: [Video Software](/wiki/video#video-software)  
 
 **Players**
 
@@ -139,7 +139,7 @@ Scenarios are listed as Most Desirable to Least Desirable.
 
 Scenario #1 listed below, with video passthrough through your sound system, is the best scenario. However, if you have an older sound system that doesn't support video passthrough for the features you need, like 4k, HDR or high refresh rates for gaming, then the best scenarios in order are: #2 (earc), #3, #4, #2 (arc/optical).  
 
-Consult [this section](/htpc-wiki/faq#video-cablesadapters) of the wiki FAQ for cable/adapter recommendations. Consult [this section](/htpc-wiki/audio#what-kind-of-sound-system-should-i-get) below for sound system recommendations.  
+Consult [this section](/wiki/faq#video-cablesadapters) of the wiki FAQ for cable/adapter recommendations. Consult [this section](/wiki/audio#what-kind-of-sound-system-should-i-get) below for sound system recommendations.  
 
 **Scenario #1** - The ideal scenario is to connect your HTPC to your sound system and then connect your sound system to your TV
 
@@ -193,9 +193,9 @@ This will give you a primary display for video output and a secondary, cloned di
 
 This is an alternative to Scenario #3 where you don't want to deal with multiple displays in windows either out of navigational annoyance, visual annoyance, or performance hit due to driving multiple display outputs. It could also be used with a single display output (e.g. APU) where you want full audio support but don't have eARC.  
 
-You will use an HDMI splitter to split/clone the source signal and send the same signal to both your display and sound system. Note that not all splitters are built the same and can vary dramatically in price, depending on feature set and reliability. See the [accessories](/htpc-wiki/audio#accessories) section.  
+You will use an HDMI splitter to split/clone the source signal and send the same signal to both your display and sound system. Note that not all splitters are built the same and can vary dramatically in price, depending on feature set and reliability. See the [accessories](/wiki/audio#accessories) section.  
 
-1. Connect the HTPC's primary HDMI output to a [HDMI Splitter](/htpc-wiki/audio#accessories).
+1. Connect the HTPC's primary HDMI output to a [HDMI Splitter](/wiki/audio#accessories).
 2. Connect the 1st output of the HDMI Splitter to your Display.  
 3. Connect the 2nd output of the HDMI Splitter to your Sound system.  
 4. Set the dip switches on the HDMI Splitter to the desired behavior for display/edid priority.  
@@ -275,7 +275,7 @@ NOTES:
 
 The second is decoding and channelization. This means the media application playing your content sends the audio to your sound system (or your OS does) converted to the common PCM format you read about above, or analog, if using a 3.5mm/RCA audio interface. The sound system has no knowledge of the codec being played, if there is one.  
 
-This scenario would be used for non-encoded audio, like **[Gaming](/htpc-wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system)**, streaming services that only support stereo, sound systems where encoded codecs are not supported and/or for analog audio interfaces.  
+This scenario would be used for non-encoded audio, like **[Gaming](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system)**, streaming services that only support stereo, sound systems where encoded codecs are not supported and/or for analog audio interfaces.  
 
 If you have an AV receiver, it would say "PCM"/"Multi Ch In"/"Direct"/"Uncompressed" on it, unless you have the receiver set to upmix the audio with a listening mode such as Dolby Surround.  
 
@@ -292,7 +292,7 @@ NOTES:
 2. Changing settings in the Windows Sound control panel controls what channels the audio is converted/mixed to, if not done earlier in your media app manually. For example, if you set it to Stereo, it will be converted to PCM 2.0 for your sound system.  
 3. Some OS sounds/applications primarily output audio as PCM exclusively (like web browsers; see below).  
 
-There are advanced things you can do by using application middleware and external filters like [transcoding audio codecs](/htpc-wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital), decoding obscure codecs and advanced mixing. See Audio Software section above.  
+There are advanced things you can do by using application middleware and external filters like [transcoding audio codecs](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital), decoding obscure codecs and advanced mixing. See Audio Software section above.  
 
 <!-- Sub-Sub-Section -->
 
@@ -306,7 +306,7 @@ COMMON REQUIREMENTS (Windows):
 2. Windows Sound control panel-><your sound device>->Properties->Advanced: Enable "Allow applications to take exclusive control of this device".
 
 STREAMING SERVICES:  
-1. Make sure your service supports a bitstreamable codec (Dolby/DD). See: [Wiki:FAQ:What resolution and audio is supported on streaming service X?](/htpc-wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x)   
+1. Make sure your service supports a bitstreamable codec (Dolby/DD). See: [Wiki:FAQ:What resolution and audio is supported on streaming service X?](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x)   
 2. Install the app for your service from the Microsoft store or use the Microsoft Edge browser.  
 
 MPC-HC:  
@@ -319,27 +319,27 @@ These steps assume you have the latest version of [MPC-HC clsid2](https://github
 3. View->Options->Internal Filters->Audio decoder (button)  
 -- Bitstreaming->Formats->Enable the codecs your sound system supports decoding.  
 -- Enable System Tray Icon: checked  
-4. Restart the app and play test content from the [sample audio](/htpc-wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
+4. Restart the app and play test content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
 5. If configured correctly, you should see the blue LAV Audio icon in the system tray. Click on it and then on the Status Tab to see the audio being bitstreamed.  
 
 MPC-BE:  
 These steps assume you have the latest version of [MPC-BE](https://sourceforge.net/projects/mpcbe/files/MPC-BE/)  
 1. View->Options->Audio->Audio Renderer: MPC Audio Renderer->Properties->WASAPI Mode: Exclusive->Allow bit-exact output: checked  
 2. View->Options->Internal Filters->Audio Decoders (tab)->Audio decoder configuration (button)->Pass-through->Enable the codecs your sound system supports decoding  
-3. Restart the app and play test content from the [sample audio](/htpc-wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
+3. Restart the app and play test content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
 
 POTPLAYER:  
 1. F5 key->Audio  
 -- Audio Renderer: Built-in WASAPI Audio Renderer -> "..." button -> Use exclusive mode: checked, Device: <audio device you will be using for bitstreaming>  
 -- Set Built-In Audio Decoder->Pass Through->Set "Default Pass-through Muxer" for the codecs your sound system supports decoding  
-2. Restart the app and play test content from the [sample audio](/htpc-wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
+2. Restart the app and play test content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
 
 VLC:  
 1. Tools->Preferences->Show Settings (All)->Audio  
 -- Expand "Output modules"  
 -- Output modules->Audio output module: Windows Multimedia Device output  
 -- MMDevice->Output back-end: Windows Audio Session API output, HDMI/SPDIF Audio Passthrough: Enabled - for all codecs, or Enabled (AC3/DTS only) - for if your sound system only supports decoding regular DD/DTS. Output Device: <audio device you will be using for bitstreaming>  
-2. Restart the app and play test content from the [sample audio](/htpc-wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
+2. Restart the app and play test content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
 
 PLEX HTPC/PLEX MEDIA PLAYER:  
 1. Settings->Audio->Device Type: HDMI/Optical  
@@ -347,7 +347,7 @@ PLEX HTPC/PLEX MEDIA PLAYER:
 3. Settings->Audio->Device: Auto/<HDMI/Optical Device>  
 4. Settings->Audio->Exclusive Mode: Enable  
 5. Settings->Audio->Passthrough: xxx: Enable the codecs your sound system supports decoding  
-6. Restart the app and play test content from the [sample audio](/htpc-wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
+6. Restart the app and play test content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
 
 PLEX FOR WINDOWS:  
 1. Settings->Player->Exclusive Mode: Enable  
@@ -355,19 +355,19 @@ PLEX FOR WINDOWS:
 3. Settings->Player->Audio Device Kind: <HDMI/Optical>  
 4. Settings->Player->Channels: Auto  
 5. Settings->Player->Passthrough xxx: Enable the codecs your sound system supports decoding  
-6. Restart the app and play test content from the [sample audio](/htpc-wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
+6. Restart the app and play test content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
 
 KODI:  
 1. Settings->System->Audio->Audio output device: WASAPI  
 2. Settings->System->Audio->Allow Passthrough: On  
 3. Settings->System->Audio->XXX capable receiver: Enable the codecs your sound system supports decoding  
-4. Restart the app and play test content from the [sample audio](/htpc-wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
+4. Restart the app and play test content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
 
 EXTERNAL: OPTIONAL: If you need/want an advanced/specialized audio decoder/filter external to your app/player:  
 1. Install the external [LAV Filters](https://github.com/Nevcairiel/LAVFilters/releases) software.  
 2. Run the "LAV Audio Configuration" app. Under Audio Settings->Bitstreaming, enable/check the codecs you want to bitstream. Check "Enable System Tray Icon".    
 3. Configure your media player app to use an external filter (e.g. MPC-HC/BE->View->Options->External Filters->Add Filter->LAV Audio Decoder->Prefer)  
-4. Restart your media player app  and play test content from the [sample audio](/htpc-wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
+4. Restart your media player app  and play test content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
 5. If configured correctly, you should see the blue LAV Audio icon in the system tray. Click on it and then on the Status Tab to see the audio being bitstreamed.  
 
 <!-- Section -->
@@ -382,9 +382,9 @@ Media Player Apps: Up to Dolby TrueHD Atmos, DTS:X
 
 Blu-Ray Media: Required: LPCM <= 7.1. DTS, Dolby Digital <= 5.1. Optional: [Dolby Digital+ 6.1-7.1, Dolby TrueHD 1.0-7.1 Atmos](https://forum.blu-ray.com/showthread.php?t=159814), DTS-HD/MA 7.1, DTS:X  
 
-Streaming Services: See [Wiki:FAQ:What resolution and audio is supported on streaming service X?](/htpc-wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x)  
+Streaming Services: See [Wiki:FAQ:What resolution and audio is supported on streaming service X?](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x)  
 
-Gaming: [PCM 5.1/7.1, Dolby Digital Live w/supported sound card or APO, Dolby Atmos w/Dolby Access app](/htpc-wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system)
+Gaming: [PCM 5.1/7.1, Dolby Digital Live w/supported sound card or APO, Dolby Atmos w/Dolby Access app](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system)
 
  [Web Browsers](https://en.wikipedia.org/wiki/HTML5_audio):  
 1. Microsoft Edge Chromium: PCM/AAC/MP3/DD/DD+/Atmos  
@@ -437,13 +437,13 @@ You can read more about Normalization [here](https://www.realhd-audio.com/?p=674
  e.g. You're trying to pass codec XXX through a TV with ARC but the TV doesn't support passthrough of codec XXX. You're trying to pass codec XXX to a soundbar that doesn't support decoding codec XXX.     
  Make sure all audio interfaces support the codecs you want to use. See sections above.  
  Make sure all devices (TV, soundbar, AVR) support the codecs you want to use. Read your manual.  
- If they don't, you'll have to change the way you connect things (see scenarios above), if possible OR have the unsupported codec transcoded into another, supported codec, either in your client or via a capable media server (like Plex). See [this section](/htpc-wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital) below.  
+ If they don't, you'll have to change the way you connect things (see scenarios above), if possible OR have the unsupported codec transcoded into another, supported codec, either in your client or via a capable media server (like Plex). See [this section](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital) below.  
 4. You're trying to pass game audio through an unsupported audio interface/device.  
  Game audio is usually PCM 5.1 and is only supported by certain audio interfaces. For instance, it's not supported by ARC or Optical. Check the sections above for the 
- proper interfaces for PCM 5.1. If you don't have one, see [this section](/htpc-wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) below for how to convert Game audio into compatible Dolby Digital Live audio instead.  
+ proper interfaces for PCM 5.1. If you don't have one, see [this section](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) below for how to convert Game audio into compatible Dolby Digital Live audio instead.  
 5. The PC is detecting the number of supported channels and codecs from your sound system incorrectly  
  The EDID identification coming back from your display is telling your PC it only supports 2 channels or stereo.  
- See the [next section](/htpc-wiki/audio#why-does-my-operating-system-only-show-stereo2-channels-in-the-sound-control-panel-when-i-have-a-surround-sound-channel-system) for how to fix this.  
+ See the [next section](/wiki/audio#why-does-my-operating-system-only-show-stereo2-channels-in-the-sound-control-panel-when-i-have-a-surround-sound-channel-system) for how to fix this.  
 6. You're decoding the codec on your PC before you send it to your sound system.  
  This is common if you've installed middleware (like an equalizer or other APO software) to modify the audio signal on the PC first. It will usually decode the codec first to do this. If you're trying to bitstream the codec, this is not ideal.  
  Decide which is more important to you, bitstreaming or use of the middleware. If bitstreaming, don't use the middleware or find additional middleware to re-encode the audio.  
@@ -606,7 +606,7 @@ PLEX MEDIA PLAYER/PLEX HTPC:
 
 5. If Device is HDMI: Check box for "Passthrough: Dolby Digital (AC3)". Uncheck boxes for "Passthrough: <everything else>"  
 
-SYSTEM-WIDE: See the [section below](/htpc-wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) on encoding gaming audio, which does the same thing, but on a lower-level.  
+SYSTEM-WIDE: See the [section below](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) on encoding gaming audio, which does the same thing, but on a lower-level.  
 NON-REALTIME: [Handbrake](https://handbrake.fr/), [ffmpeg-gui](https://www.videohelp.com/software/clever-FFmpeg-GUI), [eac3to](https://www.videohelp.com/software/eac3to), [tdarr](https://tdarr.io/)  
 
 <!-- Sub-Section -->
@@ -635,7 +635,7 @@ Lastly, if you want and can support Atmos from your games, install the [Dolby Ac
 
 ### How can I send 4k video to my TV and HD audio to my old AVR without cloning/extending my display?
 
-You can use a good HDMI 2.0 splitter to send 4k/60hz video to a display and HD audio (TrueHD/DTS:X/etc..) to an old AVR that only supports HDMI 1.3/1.4. Find an old/now-discontinued HD Fury AVR Key or Integral. If not, then the ViewHD or SIIG in the "[HDMI 2.0 Splitters](/htpc-wiki/audio#accessories)" section below are the best bets. They won't work with all hardware combinations, and you may have to fiddle with the EDID dip switches quite a bit in the initial setup, but should work.  
+You can use a good HDMI 2.0 splitter to send 4k/60hz video to a display and HD audio (TrueHD/DTS:X/etc..) to an old AVR that only supports HDMI 1.3/1.4. Find an old/now-discontinued HD Fury AVR Key or Integral. If not, then the ViewHD or SIIG in the "[HDMI 2.0 Splitters](/wiki/audio#accessories)" section below are the best bets. They won't work with all hardware combinations, and you may have to fiddle with the EDID dip switches quite a bit in the initial setup, but should work.  
 
 There are no perfect solutions for 4k/120Hz video. Either buy a new AVR and pass-through it or use eARC through your display. If your display supports eARC but your sound system doesn't, use an [eARC extractor](https://www.amazon.com/ViewHD-Adapter-Audio-Receiver-Application/dp/B08ZHCS5D9) between the display and sound system.  
 
@@ -647,7 +647,7 @@ Yes.
 
 If you have a spare DisplayPort port (either on a dGPU or on your motherboard with a CPU iGPU) you can use a simple, **PASSIVE** [DisplayPort to HDMI cable/adapter](https://www.amazon.com/Amazon-Basics-Uni-Directional-DisplayPort-Display/dp/B015OW3M1W) to get HD audio to an HDMI port on a sound system.  
 
-If you have a USB-C port (that supports DP Alt Mode video out) you can use a [USB-C to HDMI cable/adapter](/htpc-wiki/faq#video-cablesadapters) to do the same thing. Your mileage may vary depending on the adapter and source device, so use a recommended adapter/cable.  
+If you have a USB-C port (that supports DP Alt Mode video out) you can use a [USB-C to HDMI cable/adapter](/wiki/faq#video-cablesadapters) to do the same thing. Your mileage may vary depending on the adapter and source device, so use a recommended adapter/cable.  
 
 Keep in mind that any audio passed over HDMI/DisplayPort/USB-C requires a video signal to be active on the connection as well. You can't get audio without video, so you will either have to use an extended or cloned display for it to work, though the resolution required is minimal (720p).  
 
@@ -658,7 +658,7 @@ If you need to bitstream audio:
 - Use a USB-C->HDMI adapter and a USB-C video port that support DP ALT MODE  
 - Use multiple video outputs; audio over a passive adapter, video over an active adapter  
 
-See the [Video Cables/Adapters](/htpc-wiki/faq#video-cablesadapters) section of the Wiki FAQ for more recommendations.  
+See the [Video Cables/Adapters](/wiki/faq#video-cablesadapters) section of the Wiki FAQ for more recommendations.  
 
 <!-- Sub-Section -->
 
