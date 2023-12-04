@@ -1,4 +1,9 @@
-#git-wiki-toc { display: none;}
+<!--
+<style>
+  #git-wiki-toc { display: none;}
+</style>
+-->
+<body style="#git-wiki-toc { display: none;}">
 
 ## Overview
 
