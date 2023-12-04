@@ -1,7 +1,6 @@
 <!--
 ol.git-wiki-toc { display: none; }
 -->
-<body style="ol.git-wiki-toc { display: none; }"></body>
 <!--
 <style>
   #git-wiki-toc { display: none;}
