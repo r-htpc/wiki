@@ -3,7 +3,7 @@
   #git-wiki-toc { display: none;}
 </style>
 -->
-<body style="#git-wiki-toc { display: none;}">
+<body style="#git-wiki-toc { display: none;}"></body>
 
 ## Overview
 
