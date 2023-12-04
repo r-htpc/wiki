@@ -1,3 +1,4 @@
+#git-wiki-toc { display: none;}
 
 ## Overview
 
