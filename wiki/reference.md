@@ -92,7 +92,7 @@ ATX|12 x 9.6|305 x 244|PCIE x 5/6, MEM x 2/4
 
 **HDMI** - High-Definition Multimedia Interface. An interface for transporting audio/video. Commonly used to connect devices in a Home Theater setting. The current standard is HDMI 2.1.
 
-**HDR video** - High Dynamic Range video. A technology used to produce better looking video by preserving details in the darkest and lightest portions of a frame resulting in better contrast. For a HTPC, this means HDR support must be in the video, GPU, video interface (HDMI/DP) and ultimately your output device (typically a TV). Check the [FAQ](/htpc-wiki/faq#wiki_what_is_hdr_video_and_what_do_i_need_to_take_advantage_of_it.3F) for GPUs that support HDR. Common standards are HDR10, HDR10+ and Dolby Vision.
+**HDR video** - High Dynamic Range video. A technology used to produce better looking video by preserving details in the darkest and lightest portions of a frame resulting in better contrast. For a HTPC, this means HDR support must be in the video, GPU, video interface (HDMI/DP) and ultimately your output device (typically a TV). Check the [FAQ](/wiki/faq#what-is-hdr-video-and-what-do-i-need-to-take-advantage-of-it) for GPUs that support HDR. Common standards are HDR10, HDR10+ and Dolby Vision.
 
 **HTPC** - Home Theater Personal Computer. Why you are here!
 
