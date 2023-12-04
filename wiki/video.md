@@ -108,7 +108,7 @@ HLG: Not common. No metadata. SDR & HDR in same signal. 1000 cd/m2 nominal. 10-b
 
 ### **Video Software**
 
-See also: [Audio Software](/htpc-wiki/audio#audio-software)  
+See also: [Audio Software](/wiki/audio#audio-software)  
 
 **Media Servers**
 
@@ -132,14 +132,14 @@ See also: [Audio Software](/htpc-wiki/audio#audio-software)
  - Automatic scanning of video content directories  
  - Automatic retrieval of metadata content (posters, descriptions) from the internet  
  - Extensive plug-in support  
- - [HDR support](/htpc-wiki/hdr), Subtitle support  
+ - [HDR support](/wiki/hdr), Subtitle support  
  - MadVR integration  
 2. [Plex](https://plex.tv) - A media player that interfaces with the Plex Media Server and plex.tv video content  
  - Support for Windows, Linux, Mac, Android  
- - [HDR support](/htpc-wiki/hdr), Subtitle support  
+ - [HDR support](/wiki/hdr), Subtitle support  
 3. [VLC](https://www.videolan.org/vlc/)  
  - Support for Windows, Linux, Mac, Android  
- - [HDR support](/htpc-wiki/hdr)  
+ - [HDR support](/wiki/hdr)  
  - DVD/Blu-ray folder support  
 4. PotPlayer  
  - MadVR integration  
@@ -149,7 +149,7 @@ See also: [Audio Software](/htpc-wiki/audio#audio-software)
  - Support for Windows  
  - Extensive feature-set
  - MadVR integration  
- - [HDR support (via MPC VR/MadVR)](/htpc-wiki/hdr)  
+ - [HDR support (via MPC VR/MadVR)](/wiki/hdr)  
  - Subtitle support  
  - DVD/Blu-ray folder support  
 6. [JRiver Media Center](https://jriver.com/)  
@@ -188,23 +188,23 @@ See also: [Audio Software](/htpc-wiki/audio#audio-software)
 
 **Hardware Setup**  
 
-See the [AUDIO Setup Guide](/htpc-wiki/audio#setup) for different ways of connecting your HTPC to a display and sound system.  
+See the [AUDIO Setup Guide](/wiki/audio#setup) for different ways of connecting your HTPC to a display and sound system.  
 
 **Software/OS Setup**  
 
 Make sure the video driver for your GPU is installed, updated from the GPU vendor, and working.  
 
-Set up your app/gpu driver/tv settings for color reproduction. See [section below](/htpc-wiki/video#setup-for-color-reproduction).  
+Set up your app/gpu driver/tv settings for color reproduction. See [section below](/wiki/video#setup-for-color-reproduction).  
 
-Run video calibration tests to make sure the above setup is correct. See [section below](/htpc-wiki/video#video-calibration-testing).  
+Run video calibration tests to make sure the above setup is correct. See [section below](/wiki/video#video-calibration-testing).  
 
-Run motion calibration tests for judder/stutter. See [section below](/htpc-wiki/video#motion-calibration-testing).  
+Run motion calibration tests for judder/stutter. See [section below](/wiki/video#motion-calibration-testing).  
 
-Configure your video player application for hardware decoding. See [section below](/htpc-wiki/video#application-specific-setup-for-hardware-decoding).  
+Configure your video player application for hardware decoding. See [section below](/wiki/video#application-specific-setup-for-hardware-decoding).  
 
-OPTIONAL: Application-Specific Setup For Resolution/Refresh Rate Switching. See [section below](/htpc-wiki/video#application-specific-setup-for-resolutionrefresh-rate-switching).  
+OPTIONAL: Application-Specific Setup For Resolution/Refresh Rate Switching. See [section below](/wiki/video#application-specific-setup-for-resolutionrefresh-rate-switching).  
 
-OPTIONAL: Application-Specific Setup For HDR/Scaling. See [section below](/htpc-wiki/video#application-specific-setup-for-hdrscaling).  
+OPTIONAL: Application-Specific Setup For HDR/Scaling. See [section below](/wiki/video#application-specific-setup-for-hdrscaling).  
 
 <!-- Sub-Section -->
 
@@ -258,15 +258,15 @@ As such, it is highly recommended to run video calibration tests before you play
 
 To do this, you should
  
-1. Set the proper color conversion/reproduction settings [from above](/htpc-wiki/video#setup-for-color-conversion-reproduction).  
+1. Set the proper color conversion/reproduction settings [from above](/wiki/video#setup-for-color-conversion-reproduction).  
 2. Calibrate your display in Windows. Start->Color Management->Advanced->Calibrate Display  
 3. **Disable** Hardware Decoding/Acceleration (DXVA, D3D11, NVDEC, pixel shaders etc..) in your video player application, where at all possible, to minimize the chance of the GPU decoder/renderer messing up colors, blacks and whites. You can re-enable it after you're done. The language is different depending on your media player. It should be set to Software/None/Acceleration disabled/etc.. as per the option locations in the below Decoding section.      
 4. Download calibration media like [AVS HD 709](https://www.avsforum.com/threads/avs-hd-709-blu-ray-mp4-calibration.948496/). Get the MP4 version. At the minimum, extract the tests from the 'Basic Settings' and 'Misc Patterns->A' folder.  
 5. Read the [AVS manual](https://www.w6rz.net/avshd709/Patterns-Manual.pdf) and then run the calibration tests in your video player application.  
 6. If everything looks good, enable Hardware Decoding/Acceleration in your media player as per the below section. If everything does NOT look good, you messed something up in #1/#2. Go back and re-check/re-try.  
 7. Re-run the AVS calibration tests.  
-8. If everything in the tests look good, start playing some test content. Start with known-good content, like the jellyfish and non-HDR real-world [files below](/htpc-wiki/video/#where-do-i-find-additional-sample-video-files-to-test). Work your way up from lower resolutions and common codecs (h264) to the resolutions, codecs, and formats you want to use. For example, start with 1080p:h264:8-bit:SDR, then 1080p:HEVC:10-bit:SDR, then 4k:HEVC:8-bit:SDR. This tiered approach will help you find any potential problems along the way. If you're dropping frames from the content, experiencing stutter or judder, consult the appropriate sections below.  
-9. If everything in the tests look good, make any additional video setting changes you desire ([enabling HDR, changing renderers, upscaling](/htpc-wiki/hdr), etc..) and play the test content again. If you've enabled HDR, use the HDR test videos/patterns and the real-world files below for that.  
+8. If everything in the tests look good, start playing some test content. Start with known-good content, like the jellyfish and non-HDR real-world [files below](/wiki/video/#where-do-i-find-additional-sample-video-files-to-test). Work your way up from lower resolutions and common codecs (h264) to the resolutions, codecs, and formats you want to use. For example, start with 1080p:h264:8-bit:SDR, then 1080p:HEVC:10-bit:SDR, then 4k:HEVC:8-bit:SDR. This tiered approach will help you find any potential problems along the way. If you're dropping frames from the content, experiencing stutter or judder, consult the appropriate sections below.  
+9. If everything in the tests look good, make any additional video setting changes you desire ([enabling HDR, changing renderers, upscaling](/wiki/hdr), etc..) and play the test content again. If you've enabled HDR, use the HDR test videos/patterns and the real-world files below for that.  
 10. If everything in the tests does NOT look good, either there's something messed up in your GPU color conversion/decoding, your display device is limiting you (e.g. HDR luminance/tonemapping), or your GPU/renderer is limiting you (e.g. aggressive post-processing). Check settings from #8, re-test, and/or seek help on the sub.  
 11. Move on to Motion Calibration Testing or start playing real content.  
 
@@ -294,7 +294,7 @@ You will first run a test for the presence of motion problems like stutter. You 
 
 Most video players have hardware decoding support built-in.  
 
-Configuration usually involves a single toggle on the simple side, or, on the advanced side, choosing between DVXA/D3D11/Quicksync and/or choosing your proper GPU Device. Make sure your GPU Device supports hardware decoding for the format(s) you're trying to play. See the [GPU Feature Set Matrix](/htpc-wiki/faq/#graphics-gpus) of the FAQ.  
+Configuration usually involves a single toggle on the simple side, or, on the advanced side, choosing between DVXA/D3D11/Quicksync and/or choosing your proper GPU Device. Make sure your GPU Device supports hardware decoding for the format(s) you're trying to play. See the [GPU Feature Set Matrix](/wiki/faq/#graphics-gpus) of the FAQ.  
 
 If configured correctly, CPU Usage should be low during playback, while GPU Usage (Decode/3D) should be higher in proportion. If GPU Decode/3D is 0, then hardware decoding is not being used.
 
@@ -391,7 +391,7 @@ If the media you're watching does not have a framerate that's a multiple of your
 
 ### **Application-Specific Setup For HDR/Scaling**
 
-[HDR Setup Guide](/htpc-wiki/hdr)  
+[HDR Setup Guide](/wiki/hdr)  
 
 <!-- Section -->
 
@@ -407,7 +407,7 @@ Nearest Neighbor, Bilinear, DXVA, Cubic (Mitchell Netravali), Cubic (BiCubic), C
 
 The Anti-Ringing/AR option added on to any algo is ideal, where available.  
 
-These are OBJECTIVE rankings, and not SUBJECTIVE. Visual preferences are subjective i.e. different for each person. Test the algos to find the sweet spot for your own visual and GPU load/noise preferences. Do not go past the [recommended algos for your particular GPU](/htpc-wiki/hdr#wiki_madvr_performance_settings_per_gpu) without extensive performance testing.  
+These are OBJECTIVE rankings, and not SUBJECTIVE. Visual preferences are subjective i.e. different for each person. Test the algos to find the sweet spot for your own visual and GPU load/noise preferences. Do not go past the [recommended algos for your particular GPU](/wiki/hdr#wiki_madvr_performance_settings_per_gpu) without extensive performance testing.  
 
 Any algo beyond **Jinc** will produce diminishing returns compared to the amount of load and noise it subjects your GPU to and may be detrimental to your HT listening environment.  
 
@@ -418,9 +418,9 @@ MPC VR will allow you to go up to Jinc. madVR to NGU Sharp.
 ### Why is my video playback stuttering and/or dropping frames?
 
 1. You haven't configured your video player to use your GPU to hardware decode video. See application-specific setup above.
-2. Your GPU doesn't support hardware decoding for the video codecs you're trying to play and your CPU isn't powerful enough to software decode them. Determine what video codec you're attempting to decode (using something like [MediaInfo](https://mediaarea.net/en/MediaInfo)) and then see the GPU section of the wiki faq for what codecs are supported by your GPU. Buy a better [CPU](/htpc-wiki/faq#wiki_cpus.3A) or [GPU](/htpc-wiki/faq#wiki_gpus.2Fgraphics.3A).
-3. You're running on the edge of what your CPU/GPU can do performance-wise for the video bitrates you're trying to play. The higher the video bitrate, the more stress put on your CPU/GPU. Set your video player's process priority to Above Normal. Play lower bitrate videos. Buy a better [CPU](/htpc-wiki/faq#wiki_cpus.3A) or [GPU](/htpc-wiki/faq#wiki_gpus.2Fgraphics.3A).
-4. You're doing too much post-proccessing with your video renderer (MadVR, MPC, EVR, etc..). Do less post-processing - Lower/Disable upscaling/downscaling/dithering techniques (nearest-neighbor/bilinear).  Use a more efficient renderer. Buy a better [GPU](/htpc-wiki/faq#wiki_gpus.2Fgraphics.3A).
+2. Your GPU doesn't support hardware decoding for the video codecs you're trying to play and your CPU isn't powerful enough to software decode them. Determine what video codec you're attempting to decode (using something like [MediaInfo](https://mediaarea.net/en/MediaInfo)) and then see the GPU section of the wiki faq for what codecs are supported by your GPU. Buy a better [CPU](/wiki/faq#cpus) or [GPU](/wiki/faq#gpusgraphics).
+3. You're running on the edge of what your CPU/GPU can do performance-wise for the video bitrates you're trying to play. The higher the video bitrate, the more stress put on your CPU/GPU. Set your video player's process priority to Above Normal. Play lower bitrate videos. Buy a better [CPU](/wiki/faq#cpus) or [GPU](/wiki/faq#gpusgraphics).
+4. You're doing too much post-proccessing with your video renderer (MadVR, MPC, EVR, etc..). Do less post-processing - Lower/Disable upscaling/downscaling/dithering techniques (nearest-neighbor/bilinear).  Use a more efficient renderer. Buy a better [GPU](/wiki/faq#gpusgraphics).
 5. You're running your RAM in single-channel mode or haven't dedicated enough RAM to your iGPU. Run 2+ sticks of RAM in dual-channel mode for the best performance. If using an iGPU, dedicate as much RAM to it, in your BIOS, where possible.
 6. Your CPU/GPU is doing too much work in the background. Audit windows Task Manager and disable background tasks and/or processes using the CPU/GPU (updates, antivirus, disk indexing).
 7. Your video driver is out of date. Update it and/or re-install the driver clean after running [DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html).
@@ -438,7 +438,7 @@ First, make sure what you're experiencing is actually judder and not stutter. Wa
 
 If you do have judder, then do one or more of the following..  
 
-1. Configure your video players to switch the video card refresh rate automatically to match the content being played. See [section above](/htpc-wiki/video#wiki_application-specific_setup_for_refresh_rate_switching)
+1. Configure your video players to switch the video card refresh rate automatically to match the content being played. See [section above](/wiki/video#application-specific-setup-for-resolutionrefresh-rate-switching)
 2. Configure your video card settings to run at a refresh rate that matches the bulk of the content you play. PC: 23 Hz for 23.976 fps content.
 3. If you can't/won't do #1 or #2. Set your refresh rate to a number that divides equally into the fps of the bulk of the content you play
 . e.g. 120 Hz (for 24/30/60 fps). If you can't do this then set your TV to 60 Hz/120 Hz and configure judder reduction in your TV settings. Some TVs do this automatically. Others may call this "Cinema Screen", "Motion Flow/CineMotion" or "Film Mode"  
@@ -470,7 +470,7 @@ Active adapters also do not allow passthrough/bitstreaming of HD audio, only PCM
 
 USB-C is just a different connector, still carrying the DisplayPort protocol as if it was that connector.  
 
-When buying cables and adapters, please do NOT buy no-name brands. As quality control is low on them and marketing is more often than that mis-leading. Recommended cables and adapters can be found in the hardware section of the [Wiki FAQ](/htpc-wiki/faq). You can also find there what versions of DisplayPort and HDMI are supported on various CPUs/GPUs.  
+When buying cables and adapters, please do NOT buy no-name brands. As quality control is low on them and marketing is more often than that mis-leading. Recommended cables and adapters can be found in the hardware section of the [Wiki FAQ](/wiki/faq). You can also find there what versions of DisplayPort and HDMI are supported on various CPUs/GPUs.  
 
 <!-- Sub-Section -->
 
@@ -497,7 +497,7 @@ Technically, straight HDMI is the best (#1/#2/#3) followed by Thunderbolt->HDMI 
 
 ### How do I configure my app/gpu/display for proper color reproduction?
 
-See above sections [Setup For Color Conversion/Reproduction](/htpc-wiki/video#wiki_setup_for_color_conversion.2Freproduction) and [Video Calibration Testing](/htpc-wiki/video#wiki_video_calibration_testing)  
+See above sections [Setup For Color Conversion/Reproduction](/wiki/video#setup-for-color-conversion-reproduction) and [Video Calibration Testing](/wiki/video#video-calibration-testing)  
 
 <!-- Sub-Section -->
 
