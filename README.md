@@ -39,7 +39,7 @@
 
 ---
 
-Contact us with any text corrections, broken links or suggested content via [Reddit](https://www.reddit.com/message/compose?to=/r/htpc) or via <a href="mailto:htpc-wiki@biacciconsulting.com">E-mail</a>.
+Contact us with any text corrections, broken links or suggested content via [Reddit](https://www.reddit.com/message/compose?to=/r/htpc) or <a href="mailto:htpc-wiki@biacciconsulting.com">E-mail</a>.
 
 <!-- OLD LINKS - to get google to index us instead of old reddit-based wiki -->
 <!-- /r/htpc/wiki -->
