@@ -358,14 +358,14 @@ If the media you're watching does not have a framerate that's a multiple of your
    ---- Use autochange fullscreen monitor mode: ON
 
    *If you have a 120 Hz GPU & display you can set [ 120 ] for 02, 04, 05, 08*  
-   ------ 01: [ 23 ] @ <your res>  
-   ------ 02: [ 24 ] @ <your res>  
-   ------ 03: [ 50 ] @ <your res>  
-   ------ 04: [ 29 ] @ <your res>  
-   ------ 05: [ 30 ] @ <your res>  
-   ------ 06: [ 50 ] @ <your res>  
-   ------ 07: [ 59 ] @ <your res>  
-   ------ 08: [ 60 ] @ <your res>  
+   ------ 01: [ 23 ] @ \<your res\>  
+   ------ 02: [ 24 ] @ \<your res\>  
+   ------ 03: [ 50 ] @ \<your res\>  
+   ------ 04: [ 29 ] @ \<your res\>  
+   ------ 05: [ 30 ] @ \<your res\>  
+   ------ 06: [ 50 ] @ \<your res\>  
+   ------ 07: [ 59 ] @ \<your res\>  
+   ------ 08: [ 60 ] @ \<your res\>  
 
    ---- Change display mode before starting playback: ON  
 
