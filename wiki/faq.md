@@ -700,7 +700,7 @@ For [video streaming services](/wiki/faq#what-resolution-is-supported-on-streami
 
 For simple media players, using local content, [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases), [VLC](https://www.videolan.org/vlc/) and Pot Player are popular on Windows, with [VLC](https://www.videolan.org/vlc/) on Linux.  
 
-If [HDR passthrough](/wiki/hdr) is what you're looking for, then look at [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases), [VLC](https://www.videolan.org/vlc/) or Kodi. For high-end video upscaling or HDR tonemapping, look at getting the [madVR](http://madvr.com) renderer for MPC-BE, Kodi, or Potplayer. For FPS upscaling, [SmoothVideo Project](https://www.svp-team.com/).  
+If [HDR passthrough](/wiki/hdr) is what you're looking for, then look at [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases), [VLC](https://www.videolan.org/vlc/) or Kodi. For high-end video upscaling or HDR tonemapping, look at getting the [madVR](http://madshi.net/madVR.zip) renderer for MPC-BE, Kodi, or Potplayer. For FPS upscaling, [SmoothVideo Project](https://www.svp-team.com/).  
 
 But perhaps you want a more full-featured player/interface..  
 
