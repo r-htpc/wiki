@@ -228,18 +228,18 @@ What makes this confusing is a setting of Full or Limited can be on multiple pie
 If you set each piece in the wrong combination, whites and blacks will look wrong, colors will be washed out and/or shadows/details will be diminished.  
 Without getting too into the weeds, here's what you should set for the 3 pieces above, depending on your scenario, but use #1 first, where at all possible.  
 
-Scenario #1 - PC Recommended:  
- - Display: Color Space: RGB, Range: Full.  
- - GPU: Color Space: RGB 8-bit, Range: Full  
- - Application: Range: Full (0-255), Bit depth: auto/<display bit depth>  
-Scenario #2 - PC Alternate:  
- - Display: Color Space: RGB, Range: Limited  
- - GPU: Color Space: RGB 8-bit, Range: Full  
- - Application: Range: Limited (16-235), Bit depth: auto/<display bit depth>  
-Scenario #3 - Media device (roku, shield, fire tv) video content on a TV:  
- - Display: Limited  
- - GPU: Color Space: YCbCr/YUV 422 12-bit  
- - Application: Limited (16-235), where available  
+- Scenario #1 - PC Recommended: 
+  - Display: Color Space: RGB, Range: Full.  
+  - GPU: Color Space: RGB 8-bit, Range: Full  
+  - Application: Range: Full (0-255), Bit depth: auto/\<display bit depth\> 
+- Scenario #2 - PC Alternate: 
+  - Display: Color Space: RGB, Range: Limited  
+  - GPU: Color Space: RGB 8-bit, Range: Full  
+  - Application: Range: Limited (16-235), Bit depth: auto/\<display bit depth\>  
+- Scenario #3 - Media device (roku, shield, fire tv) video content on a TV:  
+  - Display: Limited  
+  - GPU: Color Space: YCbCr/YUV 422 12-bit  
+  - Application: Limited (16-235), where available  
 
 To confuse things even more, sometimes Full and Limited are called by other names. We urge you to read a primer on calibration settings which explains more of the terms you'll find in your Display and what they're called for each major mfgr. The page at [rtings.com](https://www.rtings.com/tv/learn/how-to-calibrate-your-tv) is a good one to start with. If you still can't figure out what ranges are available on your Display, **assume it's in Limited range by default** unless you change it (like put in PC mode) or your manual says otherwise.  
 
