@@ -57,7 +57,7 @@ You are **strongly urged** to test out the simple setups below before potentiall
 
    *Nvidia Control panel app ->*  
 
-   -- Manage 3D Settings (>= RTX 20xx) -> Program Settings -> Select a program: <your media player> -> Vertical Sync: ON, Low Latency Mode: OFF, Power Managment Mode: Prefer Max/Adaptive/Normal  
+   -- Manage 3D Settings (>= RTX 20xx) -> Program Settings -> Select a program: \<your media player\> -> Vertical Sync: ON, Low Latency Mode: OFF, Power Managment Mode: Prefer Max/Adaptive/Normal  
 
    -- Display ->  
 
@@ -523,7 +523,7 @@ Advanced, old way to integrate madVR into Kodi for passthrough, tonemapping, and
 
     ------ Enable System Tray Icon: On  
 
-    ------ Bitstreaming <codec>: On  
+    ------ Bitstreaming \<codec\>: On  
 
 * *Test*  
 
