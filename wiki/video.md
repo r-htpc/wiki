@@ -170,7 +170,7 @@ See also: [Audio Software](/wiki/audio#audio-software)
 
 1. [MediaInfo](https://mediaarea.net/en/MediaInfo) - Extremely useful tool for getting various video & audio information (codecs, formats, etc..) on media files  
 2. [MPC VR](https://github.com/Aleksoid1978/VideoRenderer) - Simple video renderer used to enable HDR passthrough, HDR tonemapping, Resolution/Chroma upscaling, Dithering  
-3. MadVR - Advanced video renderer used to enable HDR passthrough, HDR tonemapping, Resolution/Chroma upscaling, Dithering, Resolution/Refresh Rate Switching  
+3. [MadVR](http://madshi.net/madVR.zip) - Advanced video renderer used to enable HDR passthrough, [HDR tonemapping](http://madshi.net/madVRhdrMeasure113.zip), Resolution/Chroma upscaling, Dithering, Resolution/Refresh Rate Switching  
 4. SVP - Used to upscale frate-rates for video smoothing  
 5. [K-lite](https://codecguide.com/download_kl.htm) - Codec pack including various video software  
  - Video/audio codecs  
