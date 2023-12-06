@@ -31,7 +31,7 @@ Respected mfgrs are: intel, hp, dell, apple, lenovo, asus, asrock, simply nuc, z
 
 ### 1080p PLAYERS
 
-**TL;DR If you're just playing H264-encoded video, a small ARM-based SBC is fine. If you want HEVC or VP9 (youtube) decoding, then a used Intel 7th gen USFF/SFF/NUC off ebay for $75-125 if you're on a tight budget. For new, an Intel N95 based mini pc <= $125 with ram/disk.**  
+**TL;DR If you're just playing H264-encoded video, a small ARM-based SBC is fine. If you want HEVC or VP9 (youtube) decoding, then a used Intel 7th gen USFF/SFF/NUC off ebay for $75-125 if you're on a tight budget. For new, an Intel N95 based mini pc <= $150 with ram/disk.**  
 
  $45-$55: SMALLEST (Linux/Coreelec/Libreelec only): SBC: [ROCK64-2GB](https://pine64.com/product/rock64-2gb-single-board-computer/) / [ROCK64-4GB](https://pine64.com/product/rock64-4gb-single-board-computer/) / [Orange Pi 3](https://www.aliexpress.us/item/3256804341645667.html) / [Odroid XU4](https://www.hardkernel.com/shop/odroid-xu4-special-price/). 32GB MicroSD. X86 Alternative: Atomic Pi x5-z8350 atom 2GB + Baby Breakout Board + PSU (Windows, Linux). Least powerful but small and cheap.  
 
