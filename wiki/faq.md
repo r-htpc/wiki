@@ -1102,7 +1102,7 @@ For a HTPC, this means HDR support must be in the video, GPU, video interface (H
 
 HDR10 is supported on HTPCs under Windows, macOS Catalina, Android and (usually) libreelec/coreelec operating systems. Linux is NOT supported.  
 
-**DOLBY VISION AND HDR10+ PASSTHROUGH IS NOT SUPPORTED ON HTPCS**; If you need playback support for these, you'll need a [media device/non-PC](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc), like a Nvidia Shield, Fire TV, Dune HD, etc..  
+**DOLBY VISION AND HDR10+ MEDIA PASSTHROUGH IS NOT SUPPORTED ON HTPCS**; If you need support for these, you'll need a [media device/non-PC](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc), like a Nvidia Shield, Fire TV, Dune HD, etc..  
 
 HDR streaming content is limited thus far and only found on Netflix and Youtube services. If you want access to more HDR content on your favorite streaming services, use a [media device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) instead.  
 
