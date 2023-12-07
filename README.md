@@ -13,14 +13,14 @@
 ### [Sample Pre-Built / DiY Builds](/wiki/sample-builds) 
 - Sample builds to help you get started with a HTPC, media server, NAS, gaming emulation or VR build
 
-### [HDR Setup Guide](/wiki/hdr)
-- How to configure **HDR** and/or **Upscaling** settings for multiple platforms and players
-
 ### [AUDIO Setup Guide](/wiki/audio)
 - How to configure, fix, and explanation of AUDIO between your HTPC and Sound System
 
 ### [VIDEO Setup Guide](/wiki/video)
 - How to configure, fix, and explanation of VIDEO between your HTPC and Display
+
+### [HDR Setup Guide](/wiki/hdr)
+- How to configure **HDR** and/or **Upscaling** settings for multiple platforms and players
 
 ### [STORAGE Setup Guide](/wiki/storage)
 - Information on storage for your HTPC/media devices. Pre-built NASes, HDDs, SSDs, DIY NAS cases
