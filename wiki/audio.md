@@ -645,7 +645,7 @@ There are no perfect solutions for 4k/120Hz video. Either buy a new AVR and pass
 
 Yes.  
 
-If you have a spare DisplayPort port (either on a dGPU or on your motherboard with a CPU iGPU) you can use a simple, **PASSIVE** [DisplayPort to HDMI cable/adapter](/wiki/faq#video-cablesadapters) to get HD audio to an HDMI port on a sound system.  
+If you have a spare DisplayPort port (either on a dGPU or on your motherboard with a CPU iGPU) you can use a simple, **PASSIVE** [DisplayPort to HDMI cable/adapter](/wiki/faq#video-cablesadapters) to get HD audio (up to TrueHD Atmos/DTS:X) to an HDMI port on a sound system.  
 
 If you have a USB-C port (that supports DP Alt Mode video out) you can use a [USB-C to HDMI cable/adapter](/wiki/faq#video-cablesadapters) to do the same thing. Your mileage may vary depending on the adapter and source device, so use a recommended adapter/cable.  
 
@@ -654,8 +654,8 @@ Keep in mind that any audio passed over HDMI/DisplayPort/USB-C requires a video 
 Also keep in mind that if you're using an **ACTIVE** DisplayPort/USB-C->HDMI adapter or cable, you **CAN'T** bitstream audio over it. The max you can do is PCM audio.  
 If you need to bitstream audio:  
 
-- Use a PASSIVE adapter. Using a passive adapter will limit video output to 4k@30hz (A HDMI 1.4-capable connection)  
-- Use a USB-C->HDMI adapter and a USB-C video port that support DP ALT MODE  
+- Use a PASSIVE cable/adapter. Using a passive adapter will limit video output to 4k@30hz (A HDMI 1.4-capable connection)  
+- Use a USB-C->HDMI adapter and a USB-C video port that supports DP ALT MODE  
 - Use multiple video outputs; audio over a passive adapter, video over an active adapter  
 
 See the [Video Cables/Adapters](/wiki/faq#video-cablesadapters) section of the Wiki FAQ for more recommendations.  
