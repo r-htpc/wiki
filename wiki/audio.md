@@ -179,7 +179,7 @@ This will send audio through your display. This is common for VRR (gsync/freesyn
 This will give you a primary display for video output and a secondary, cloned display for audio-only output. This is common for VRR (gsync/freesync) gaming setups and/or where the resolution/refresh rate to the display exceeds what the sound system can pass through. If a secondary display is not desirable, see Scenario #4.  
 
 1. Connect the HTPC's primary HDMI output to the display's HDMI input, e.g. HTPC (HDMI) -> TV (HDMI).  
-2. Connect the HTPC's 2nd display output (either from motherboard or dGPU) to the sound system. If Displayport, use a PASSIVE Displayport->HDMI cable or adapter. e.g. HTPC (HDMI/Displayport) -> Sound System (HDMI).  
+2. Connect the HTPC's 2nd display output (either from motherboard or dGPU) to the sound system. If Displayport, use a PASSIVE [Displayport->HDMI cable](/wiki/faq#video-cablesadapters) or adapter. e.g. HTPC (HDMI/Displayport) -> Sound System (HDMI).  
 3. Set the 2nd display output in your OS as an extended display at a resolution of 720p@60Hz. Drag this display to the top-right corner of the primary display. NOTE: Even though you are using this only for audio, a video signal IS required.  
 4. In Windows sound control panel, disable the audio device on the primary display output. Enable audio on the 2nd display output.  
 
@@ -238,7 +238,7 @@ In this scenario you will likely be bitstreaming through Optical, or in the case
 <img src="https://i.imgur.com/jl7rIf7.png" width="550" height="300" alt="DIAGRAM">
 
 1. Connect the HTPC's primary HDMI output to the display's HDMI input, i.e. HTPC (HDMI) -> TV (HDMI).  
-2. Connect the HTPC's 2nd display output (either from motherboard or dGPU) to a [HDMI Audio Extractor](https://www.amazon.com/OREI-HDA-912-Audio-Converter-Extractor/dp/B07BHYXVTY)'s HDMI input. If Displayport, use a PASSIVE Displayport->HDMI cable or adapter. e.g. HTPC (HDMI/Displayport) -> Audio Extractor (HDMI).  
+2. Connect the HTPC's 2nd display output (either from motherboard or dGPU) to a [HDMI Audio Extractor](https://www.amazon.com/OREI-HDA-912-Audio-Converter-Extractor/dp/B07BHYXVTY)'s HDMI input. If Displayport, use a PASSIVE [Displayport->HDMI cable](/wiki/faq#video-cablesadapters) or adapter. e.g. HTPC (HDMI/Displayport) -> Audio Extractor (HDMI).  
 3. Connect the HDMI Audio Extractor's Optical/RCA/3.5mm ports to the sound system's Optical/RCA/3.5mm ports, i.e. Audio Extractor (Optical/RCA/3.5mm) -> Sound System (Optical/RCA/3.5mm).  
 4. Connect a [HDMI dummy plug](https://www.amazon.com/Headless-Display-Emulator-Generation-Single/dp/B07FB8GJ1Z) to the HDMI Audio Extractor's HDMI Out port.  
 5. Set the 2nd display output in your OS as an extended display at a resolution of 720p@60Hz. Drag this display to the top-right corner of the primary display.. NOTE: Even though you are using this only for audio, a video signal IS required.  
@@ -447,7 +447,7 @@ You can read more about Normalization [here](https://www.realhd-audio.com/?p=674
 6. You're decoding the codec on your PC before you send it to your sound system.  
  This is common if you've installed middleware (like an equalizer or other APO software) to modify the audio signal on the PC first. It will usually decode the codec first to do this. If you're trying to bitstream the codec, this is not ideal.  
  Decide which is more important to you, bitstreaming or use of the middleware. If bitstreaming, don't use the middleware or find additional middleware to re-encode the audio.  
-7. You're using an ACTIVE DP/USB->HDMI adapter or cable. You can't bitstream audio over an active adapter. The max you can do is PCM audio. If you need to bitstream, use a PASSIVE adapter.  
+7. You're using an ACTIVE DP/USB->HDMI adapter or cable. You can't bitstream audio over an active adapter. The max you can do is PCM audio. If you need to bitstream, use a PASSIVE [adapter](/wiki/faq#video-cablesadapters).  
 
 <!-- Sub-Section -->
 
@@ -645,7 +645,7 @@ There are no perfect solutions for 4k/120Hz video. Either buy a new AVR and pass
 
 Yes.  
 
-If you have a spare DisplayPort port (either on a dGPU or on your motherboard with a CPU iGPU) you can use a simple, **PASSIVE** [DisplayPort to HDMI cable/adapter](https://www.amazon.com/Amazon-Basics-Uni-Directional-DisplayPort-Display/dp/B015OW3M1W) to get HD audio to an HDMI port on a sound system.  
+If you have a spare DisplayPort port (either on a dGPU or on your motherboard with a CPU iGPU) you can use a simple, **PASSIVE** [DisplayPort to HDMI cable/adapter](/wiki/faq#video-cablesadapters) to get HD audio to an HDMI port on a sound system.  
 
 If you have a USB-C port (that supports DP Alt Mode video out) you can use a [USB-C to HDMI cable/adapter](/wiki/faq#video-cablesadapters) to do the same thing. Your mileage may vary depending on the adapter and source device, so use a recommended adapter/cable.  
 
