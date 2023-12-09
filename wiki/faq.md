@@ -611,7 +611,7 @@ Sofabaton U1		|	$50	|	BT/IR		|	NO	|	AA	|	NA
 Sofabaton X1		|	$190	|	BT/IR (Hub)	|	Yes	|	Int	|	IR Blaster, Alexa
 **[Pepper Jobs W10](https://www.pepper-jobs.com/products/w10-gyro-smart-remote)**		|	$30	|	RF/IR		|	Yes	|	AAA	|	Has mini keyboard
 WeChip G20S Pro		|	$20	|	RF		|	Yes	|	AAA	|	BT in Pro Plus
-MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	NA
+MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Has mini keyboard
 [HTWebRemote](https://github.com/nicko88/HTWebRemote)	|	Free	|	LAN		|	NA	|	NA	|	Software to create web-accessible remote on Windows/[Linux](https://github.com/nicko88/HTWebRemoteHost) HTPC to control multiple devices. [Contact](https://www.reddit.com/message/compose/?to=SirMaster)
 [Unified Remote](https://www.unifiedremote.com/)	|	Free/$5	|	LAN		|	NA	|	NA	|	Software to create app-accessible remote on Windows/Linux HTPC to control multiple devices
 [DS4Windows](https://ds4-windows.com/)	|	Free	|	NA		|	NA	|	NA	|	Software to use DS3/DS4/DS5 controllers as mouse/remote
