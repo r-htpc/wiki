@@ -656,7 +656,7 @@ If you need to bitstream audio:
 
 - Use a PASSIVE cable/adapter. Using a passive adapter will limit video output to 4k@30hz (A HDMI 1.4-capable connection)  
 - Use a USB-C->HDMI adapter and a USB-C video port that supports DP ALT MODE  
-- Use multiple video outputs; audio over a passive adapter, video over an active adapter  
+- Use multiple video outputs; audio over a passive cable/adapter to your sound system, video over an straight HDMI cable or active adapter to your display  
 
 See the [Video Cables/Adapters](/wiki/faq#video-cablesadapters) section of the Wiki FAQ for more recommendations.  
 
