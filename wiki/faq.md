@@ -540,9 +540,9 @@ Belkin Pivot-Plug 12 BP112230-08 - 12 plug, 4320 Joules, 1875W, $300k protection
 
 Refer to [this table](https://images.idgesg.net/images/article/2018/02/formatdataratetable-100750471-large.jpg) for the bandwidth and cable speed required for each resolution/refresh rate/chroma.
 
-**HDMI Cables**
+There are a LOT of cable/adapter companies floating around on the internet. Some good. Some bad. NOTICE THE TREND OF WELL-KNOWN BRANDS BELOW. DO NOT MESS AROUND WITH NO-NAME CABLES OR ADAPTERS OF DUBIOUS QUALITY CONTROL. IF YOU DO, YOU'RE ON YOUR OWN!  
 
-There are a LOT of HDMI cable companies floating around on the internet. Some good. Some bad.  
+**HDMI Cables**
 
 For 4K@60Hz or 1080p@120Hz, always get a "High Speed" cable that supports "18 Gbps". We HIGHLY recommended a cable that is "[Premium Certified](https://www.hdmi.org/spec/premiumcable)", which means that it has been tested by the HDMI spec organization up to the full 18 Gbps bandwidth and not the Standard speed of 10.2 Gbps. Do not settle for anything less than a wire thickness of 28 AWG up to 15 ft and 24 AWG up to 25 ft (lower AWG is thicker) for these passive type cables.  
 
@@ -561,8 +561,6 @@ If you need a passive Displayport to HDMI cable to just carry HD audio or to onl
 If you need an active Displayport to HDMI adapter, buy one from a reputable vendor. We recommend [Club3D 1085](https://www.amazon.com/Club-3D-DisplayPort1-4-Adapter-CAC-1085/dp/B08BX49V5V) for 4K@120Hz. [Club3D 1080/1082/2070](https://www.amazon.com/CLUB-3D-CAC-1082-Active-Adapter/dp/B07HNTNTMR), [Monoprice](https://www.amazon.com/Monoprice-DisplayPort-1-2a-Active-Adapter/dp/B07FPQ4ZSW), [UPTab](https://www.amazon.com/UPTab-DisplayPort-Adapter-displays-4096x2160/dp/B01B6ZOMIS) or [Plugable](https://www.amazon.com/Plugable-DisplayPort-Supports-displays-3840x2160/dp/B00S0C7QO8) for 4K@60Hz.  
 
 If you need a USB-C to HDMI adapter, we recommend Cable Matters [Adapter](https://www.amazon.com/Cable-Matters-Braided-Adapter-Aluminum/dp/B08KSMK87K)/[Cable](https://www.amazon.com/Cable-Matters-USB-C-Supporting-Black/dp/B073H9RG9T) for 4K@60Hz and Cable Matters [Adapter](https://www.amazon.com/dp/B08MSWMXT4)/[Cable](https://www.amazon.com/dp/B08QDV5H4M) for up to 4K@120Hz.  
-
-NOTICE THE TREND OF WELL-KNOWN BRANDS ABOVE. DO NOT MESS AROUND WITH NO-NAME CABLES OR ADAPTERS OF DUBIOUS QUALITY CONTROL. IF YOU DO, YOU'RE ON YOUR OWN!  
 
 <!-- Sub-Section -->
 
