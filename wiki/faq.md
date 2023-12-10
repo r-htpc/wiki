@@ -605,8 +605,8 @@ For **remotes**, the [Logitech Harmony](https://www.logitech.com/en-us/harmony-u
 REMOTE			|	PRICE	|	INT		|	BACKLIT	|	BATTERY	|	NOTES
 :--|:--|:--|:--|:--|:--|
 Logitech Harmony One	|	Disc (1)	|	RF/BT/IR	|	Yes	|	Int	|	IR Blaster, Hub
-Sofabaton U1		|	$50	|	BT/IR		|	NO	|	AA	|	NA
-Sofabaton X1		|	$190	|	BT/IR (Hub)	|	Yes	|	Int	|	IR Blaster, Alexa
+Sofabaton U1/U2		|	$50/$60	|	BT/IR		|	NO	|	AA	|	15 devices, macros, mobile app
+Sofabaton X1		|	$190	|	BT/IR (Hub)	|	Yes	|	Int	|	60 devices+wifi, adv macros, IR Blaster, Hub, Voice/Alexa/Google
 **[Pepper Jobs W10](https://www.pepper-jobs.com/products/w10-gyro-smart-remote)**		|	$30	|	RF/IR		|	Yes	|	AAA	|	Has mini keyboard
 WeChip G20S Pro		|	$20	|	RF		|	Yes	|	AAA	|	BT in Pro Plus
 MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Has mini keyboard
