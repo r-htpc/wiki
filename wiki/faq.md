@@ -558,7 +558,7 @@ Please do NOT buy no-name cables. Do NOT buy Amazon Basic cables for 4K@60Hz.
 
 **Adapters/Adapter Cables**
 
-If you need a passive Displayport to HDMI cable to just carry HD audio or to only do 4K@30Hz, [Amazon Basics](https://www.amazon.com/Amazon-Basics-Uni-Directional-DisplayPort-Display/dp/B015OW3M1W) are fine.  
+If you need a passive Displayport to HDMI cable to just carry HD audio or to only do 4K@30Hz, an [Amazon Basics](https://www.amazon.com/Amazon-Basics-Uni-Directional-DisplayPort-Display/dp/B015OW3M1W) cable or [Cable Matters](https://www.amazon.com/dp/B005H3I38Q/?coliid=I2XGTC70KSH31Z) adapter is fine.  
 
 If you need an active Displayport to HDMI adapter, buy one from a reputable vendor. We recommend [Club3D 1085](https://www.amazon.com/Club-3D-DisplayPort1-4-Adapter-CAC-1085/dp/B08BX49V5V) for 4K@120Hz. [Club3D 1080/1082/2070](https://www.amazon.com/CLUB-3D-CAC-1082-Active-Adapter/dp/B07HNTNTMR), [Monoprice](https://www.amazon.com/Monoprice-DisplayPort-1-2a-Active-Adapter/dp/B07FPQ4ZSW), [UPTab](https://www.amazon.com/UPTab-DisplayPort-Adapter-displays-4096x2160/dp/B01B6ZOMIS) or [Plugable](https://www.amazon.com/Plugable-DisplayPort-Supports-displays-3840x2160/dp/B00S0C7QO8) for 4K@60Hz.  
 
