@@ -606,7 +606,7 @@ REMOTE			|	PRICE	|	INT		|	BACKLIT	|	BATTERY	|	NOTES
 :--|:--|:--|:--|:--|:--|
 Logitech Harmony One	|	Disc (1)	|	RF/BT/IR	|	Yes	|	Int	|	IR Blaster, Hub
 [Sofabaton U1/U2](https://sofabaton.com/u1.html)		|	$50/$60	|	BT/IR		|	NO	|	AA (30hr)	|	15 devices, macros, mobile app
-[Sofabaton X1](https://sofabaton.com/x1.html)		|	$190	|	BT/IR (Hub)	|	Yes	|	Int	(60hr) |	60 devices+wifi, adv macros, IR blaster, voice/alexa/google
+[Sofabaton X1](https://sofabaton.com/x1.html)		|	$190	|	BT/IR/WiFi	|	Yes	|	Int	(60hr) |	60 devices, adv macros, hub, IR blaster, voice/alexa/google
 **[Pepper Jobs W10](https://www.pepper-jobs.com/products/w10-gyro-smart-remote)**		|	$30	|	RF/IR		|	Yes	|	AAA	|	Has mini keyboard
 WeChip G20S Pro		|	$20	|	RF		|	Yes	|	AAA	|	BT in Pro Plus
 MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Has mini keyboard
