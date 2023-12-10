@@ -550,11 +550,9 @@ You don't have to spend a lot for all of this, even Premium Certified. We recomm
 
 You should not run normal High Speed cables over 25 ft. If you need to go further than that, look at "Active" or HDMI-over-fiber cables. We recommend [Ultra Active](https://www.monoprice.com/product?p_id=12735)/[Slim-run AV](https://www.monoprice.com/category/cables/hdmi-cables/hdmi-cables?menuDisStr=hdmi%20cables&v_Series_uFilter=SlimRun%20AV&TotalProducts=6), [RUIPRO Ultra-Slim](https://www.amazon.com/RUIPRO-Fiber-Cable-Support-Subsampling/dp/B01MDQ5JOC) or [Blue Jeans Series-3A](https://www.bluejeanscable.com/store/hdmi-cables/hdmi-cable.htm) cables. Runs over 100 ft for 4K are NOT recommended. Look [here](https://www.avforums.com/attachments/hdmi-cables-performance-evaluation-testing-report-1-_-50ft-15m-length-cables-v3-sml-3-pdf.1149898/) for cable testing results.  
 
-For 4K@120Hz, always get a "Ultra High Speed" cable that supports "48 Gbps". We HIGHLY recommend a cable that is "[Ultra Certified](https://hdmi.org/spec21sub/ultrahighspeedcable)". Cables currently meeting this spec that we can recommend are Monoprice [8K Normal](https://www.monoprice.com/product?p_id=42674) or [8K Braided](https://www.monoprice.com/product?p_id=42682), [Club3D 1372](https://www.amazon.com/Club3D-CAC-1372-Ultra-Speed-Male-Male/dp/B07H5Y5N55), [Zeskit Maya/X-Tech](https://www.amazon.com/48Gbps-Compatible-Netflix-Playstation-Samsung/dp/B07S1CGQ9Z?ref_=ast_sto_dp) and [RUIPRO 8K](https://www.amazon.com/RUIPRO-Certified-Dynamic-Suitable-Samsung/dp/B08QTNNRS4).  
+For 4K@120Hz, always get a "Ultra High Speed" cable that supports "48 Gbps". We HIGHLY recommend a cable that is "[Ultra Certified](https://hdmi.org/spec21sub/ultrahighspeedcable)". Cables currently meeting this spec that we can recommend are [Monoprice 8K Normal](https://www.monoprice.com/product?p_id=42674) or [8K Braided](https://www.monoprice.com/product?p_id=42682), [Club3D 1372](https://www.amazon.com/Club3D-CAC-1372-Ultra-Speed-Male-Male/dp/B07H5Y5N55), [Zeskit Maya/X-Tech](https://www.amazon.com/48Gbps-Compatible-Netflix-Playstation-Samsung/dp/B07S1CGQ9Z?ref_=ast_sto_dp) and [RUIPRO 8K](https://www.amazon.com/RUIPRO-Certified-Dynamic-Suitable-Samsung/dp/B08QTNNRS4).  
 
 You should not run normal Ultra High Speed cables over 10 ft. The only normal cable you could run out further is the 16 ft [Zeskit Maya](https://www.amazon.com/48Gbps-Compatible-Netflix-Playstation-Samsung/dp/B07S1BNM7K) (it will be super stiff to keep signal integrity at that distance). If you need to go further than that, look at HDMI-over-fiber cables. We recommend [RUIPro 8K HDMI Fiber](https://www.amazon.com/RUIPRO-Dynamic-Flexible-Projector-Theatre/dp/B081SHJJ3C?ref_=ast_sto_dp&th=1&psc=1), [Phoossno 8K Fiber](https://www.amazon.com/Certified-Fiber-Optical-Cable-phoossno/dp/B09LYZQW93?th=1) or [Cable Matters Active 8K Fiber](https://www.amazon.com/dp/B092MWQGSF/)  
-
-Please do NOT buy no-name cables. Do NOT buy Amazon Basic cables for 4K@60Hz.  
 
 **Adapters/Adapter Cables**
 
@@ -563,6 +561,8 @@ If you need a passive Displayport to HDMI cable to just carry HD audio or to onl
 If you need an active Displayport to HDMI adapter, buy one from a reputable vendor. We recommend [Club3D 1085](https://www.amazon.com/Club-3D-DisplayPort1-4-Adapter-CAC-1085/dp/B08BX49V5V) for 4K@120Hz. [Club3D 1080/1082/2070](https://www.amazon.com/CLUB-3D-CAC-1082-Active-Adapter/dp/B07HNTNTMR), [Monoprice](https://www.amazon.com/Monoprice-DisplayPort-1-2a-Active-Adapter/dp/B07FPQ4ZSW), [UPTab](https://www.amazon.com/UPTab-DisplayPort-Adapter-displays-4096x2160/dp/B01B6ZOMIS) or [Plugable](https://www.amazon.com/Plugable-DisplayPort-Supports-displays-3840x2160/dp/B00S0C7QO8) for 4K@60Hz.  
 
 If you need a USB-C to HDMI adapter, we recommend Cable Matters [Adapter](https://www.amazon.com/Cable-Matters-Braided-Adapter-Aluminum/dp/B08KSMK87K)/[Cable](https://www.amazon.com/Cable-Matters-USB-C-Supporting-Black/dp/B073H9RG9T) for 4K@60Hz and Cable Matters [Adapter](https://www.amazon.com/dp/B08MSWMXT4)/[Cable](https://www.amazon.com/dp/B08QDV5H4M) for up to 4K@120Hz.  
+
+NOTICE THE TREND OF WELL-KNOWN BRANDS ABOVE. DO NOT MESS AROUND WITH NO-NAME CABLES OR ADAPTERS OF DUBIOUS QUALITY CONTROL. IF YOU DO, YOU'RE ON YOUR OWN!  
 
 <!-- Sub-Section -->
 
