@@ -491,7 +491,9 @@ Technically, straight HDMI is the best (#1/#2/#3) followed by Thunderbolt->HDMI 
 5. DiY: Intel 12th+ Gen CPU and respective motherboard with a Thunderbolt display out connector out and a [Thunderbolt->HDMI 2.1 Cable](https://www.amazon.com/Cable-Matters-48Gbps-Adapter-Supporting/dp/B08QDV5H4M). Not as good as straight HDMI, but better compared to DP or plain USB-C. This will likely be expensive as these boards are rare. e.g. for an ITX board, look at the Asus ROG STRIX Z690-I GAMING WIFI, ASRock Z690 Phantom Gaming-ITX/TB4 or ASRock Z790 PG-ITX/TB4. 
 6. Hybrid/DiY: An Intel 11th gen+ CPU and motherboard w/a USB-C Display Out and a USB-C->HDMI adapter/cable. e.g. ASRock Deskmini B660 + 
 [USB-C->HDMI 2.1 Cable](https://www.amazon.com/Cable-Matters-48Gbps-Adapter-Supporting/dp/B08QDV5H4M). 
-7. DiY: Intel 12th+ Gen CPU and respective motherboard with a Displayport 1.4 connector and an Active DP->HDMI adapter. This tends to be the least stable option, so we don't recommend it at all. 
+7. DiY: Intel 12th+ Gen CPU and respective motherboard with a Displayport 1.4 connector and an Active DP->HDMI adapter. This tends to be the least stable option, so we don't recommend it at all.
+8. Moonlight/Sunshine Streaming: [DP 1.4->HDMI 2.1 adapter](https://www.amazon.com/Cable-Matters-102101-BLK-Computer-Adapter/dp/B08XFSLWQF)+[HDMI dummy plug](https://www.amazon.com/Headless-Display-Emulator-Generation-Single/dp/B07FB8GJ1Z)+Nvidia custom res/CRU res mod, or [EDID Emulator](https://www.gofanco.com/prophecy-edid-emulator-pro-edidemul.html) to copy host display's EDID, or [IddSampleDriver](https://github.com/roshkins/IddSampleDriver) to create virtual display.
+
 
 <!-- Sub-Section -->
 
