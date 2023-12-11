@@ -608,6 +608,9 @@ Logitech Harmony One	|	Disc (1)	|	RF/BT/IR	|	Yes	|	Int	|	IR Blaster, Hub
 [Sofabaton U1/U2](https://sofabaton.com/u1.html)		|	$50/$60	|	BT/IR		|	NO	|	AA (30hr)	|	15 devices, macros, mobile app
 [Sofabaton X1](https://sofabaton.com/x1.html)		|	$190	|	BT/IR/WiFi	|	Yes	|	Int	(60hr) |	60 devices, adv macros, hub, IR blaster, voice/alexa/google
 **[Pepper Jobs W10](https://www.pepper-jobs.com/products/w10-gyro-smart-remote)**		|	$30	|	RF/IR		|	Yes	|	AAA	|	Has mini keyboard
+[Skip 1s](https://flirc.tv/products/skip1s-remote-universal-remote-control)    | $45  | IR  | No | AAA | Macros, learning, mobile app
+[Flirc](https://flirc.tv/more/flirc-usb)  | $20 | USB/IR | NA | NA | IR Receiver for remotes. Wake/Sleep
+[MCE Remote](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw=mce+remote&_sacat=0) | $20 | IR | Some | AA/AAA | Inc. IR hub/Flirc/CEC
 WeChip G20S Pro		|	$20	|	RF		|	Yes	|	AAA	|	BT in Pro Plus
 MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Has mini keyboard
 [HTWebRemote](https://github.com/nicko88/HTWebRemote)	|	Free	|	LAN		|	NA	|	NA	|	Software to create web-accessible remote on Windows/[Linux](https://github.com/nicko88/HTWebRemoteHost) HTPC to control multiple devices. [Contact](https://www.reddit.com/message/compose/?to=SirMaster)
