@@ -195,7 +195,7 @@ You could add some media storage with a [2.5" HDD](https://pcpartpicker.com/prod
 
 <!-- Sub-Section -->
 
-### Deskmini - MOBO built-in, PSU external, 1.9L
+**Deskmini - MOBO built-in, PSU external, 1.9L** 
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
