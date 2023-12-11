@@ -133,10 +133,6 @@ Terramaster		|	[T6-423](https://www.terra-master.com/global/products/smallmedium
 Synology	|	DS920+				|	4	|	$550	|	Some/4k (1b)			|	x64 (Celeron J4125) 2.0 Ghz		|		3035	|	5.51	||DISC, 4GB RAM
 ASUSTOR		|	AS-6604T			|	4	|	$550	|	Some/4k (1b)			|	x64 (Celeron J4125) 2.0 GHz		|		3035	|	5.51	||4GB RAM	
 Synology	|	DS1522+				|	5	|	$700	|	1080p			|	x64 (Ryzen R1600) 2.6 Ghz		|		3140|	4.48	||8GB RAM, 1 Gb/s x4
-Terramaster	|	F5-422		|	5	|	$600	|	Some/4k (2)			|	x64 (Celeron J3455) 1.5-2.3Ghz	|		2221	|	3.70	||
-Terramaster	|	F5-221				|	5	|	$380	|	Some/4k 8-bit (3)	|	x64 (Celeron J3355) 2.0-2.5Ghz	|		1186	|	3.12	||
-QNAP		|	TS-453Be			|	4	|	$460	|	Some/4k (2)			|	x64 (Celeron J3455) 1.5 GHz		|		2221	|	4.82	||DISCONTINUED, 2GB
-TerraMaster	|	F4-422 				|	4	|	$500	|	Some/4k (2)			|	x64 (Celeron J3455) 1.5-2.3Ghz	|		2221	|	4.42	||DISCONTINUED, 4GB
 
 **JUST STORAGE - 2 drives**  
 
@@ -153,6 +149,7 @@ BRAND		|	MODEL				|	DRIVES	|COST	|	TRANSCODING		|	CPU								|	PASSMARK	|	PM/$|	
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--
 **Terramaster**		|	**F4-210**				|	4	|	$250	|	Some 1080p/None	|	ARMv8 (Realtek 1296) 1.4Ghz		|		NA		|	NA 	|	RAID 0/1/10/5/6, JBOD, Single		|ext4/btrfs, 2GB RAM, 1 Gb/s
 Asustor		|	1104T				|	4	|	$270	|	Some 1080p/None	|	ARMv8 (Realtek 1296) 1.4Ghz		|		NA		|	NA 	|	RAID 0/1/10/5/6, JBOD, Single		|ext4, 1GB RAM, 2.5 Gb/s
+Terramaster	|	F5-221				|	5	|	$380	|	Some/4k 8-bit (3)	|	x64 (Celeron J3355) 2.0-2.5Ghz	|		1186	|	3.12	||
 
 LEGEND  
 
