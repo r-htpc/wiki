@@ -609,7 +609,7 @@ Logitech Harmony One	|	Disc (1)	|	RF/BT/IR	|	Yes	|	Int	|	IR Blaster, Hub
 [Sofabaton X1](https://sofabaton.com/x1.html)		|	$190	|	BT/IR/WiFi	|	Yes	|	Int	(60hr) |	60 devices, adv macros, hub, IR blaster, voice/alexa/google
 **[Pepper Jobs W10](https://www.pepper-jobs.com/products/w10-gyro-smart-remote)**		|	$30	|	RF/IR		|	Yes	|	AAA	|	Has mini keyboard
 [Skip 1s](https://flirc.tv/products/skip1s-remote-universal-remote-control)    | $45  | IR  | No | AAA | Macros, learning, mobile app
-[MCE Remote](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw=mce+remote&_sacat=0) | $20 | IR | Some | AA/AAA | Inc. IR hub/Flirc/CEC
+[MCE Remote](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw=mce+remote&_sacat=0) | $20 | IR | Some | AA/AAA | w/Inc. IR hub/Flirc/HDMI-CEC
 [Flirc](https://flirc.tv/more/flirc-usb)  | $20 | USB/IR | NA | NA | IR Receiver for remotes. Wake/Sleep
 WeChip G20S Pro		|	$20	|	RF		|	Yes	|	AAA	|	BT in Pro Plus
 MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Has mini keyboard
@@ -625,7 +625,7 @@ If you already have an IR remote, you can use a [Flirc](https://flirc.tv/more/fl
 
 For **gamepads**, look at [8bitdo](https://www.8bitdo.com/) or Microsoft for highly-compatible Xbox wireless controllers. For multi-user play, you can pair multiple Xbox controllers with a single USB adapter or 2-4 regular BT controllers with a single [USB BT adapter](https://www.amazon.com/IOGEAR-Bluetooth-Multi-Language-Version-GBU521W6/dp/B007ZT2AXE) (CSR8510/BCM20702 chipsets)  
 
-To get HDMI-CEC functionality where none exists, use a [Pulse Eight](https://www.pulse-eight.com/p/104/usb-hdmi-cec-adapter) adapter.  
+To get HDMI-CEC functionality where none exists, use a [Pulse Eight](https://www.pulse-eight.com/p/104/usb-hdmi-cec-adapter) adapter. Else, a [HDMI-CEC HTPC](/wiki/sample-builds#specialized-hdmi-cec)  
 
 To transmit IR from your HTPC to other devices, use a [USB-UIRT](http://www.usbuirt.com/).  
 
