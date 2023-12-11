@@ -31,7 +31,7 @@ This is a list of terms you may find on this subreddit and what they mean
 
 **AVR** - Audio/Video Receiver. A piece of hardware that receives multiple audio/video input signals (from a HTPC/Blu-ray player/Video game console/etc..), amplifies audio, applies audio processing, delivers audio to speakers and video to output devices such as TVs.
 
-**<name> Lake** - A modern generation of Intel CPU
+**\<name\> Lake** - A modern generation of Intel CPU
 
 ARCH|GEN|RELEASED|NOTES
 :--|:--|:--|:--
