@@ -558,7 +558,9 @@ KODI:
 
 MPC-HC/BE, POTPLAYER:  
 
-*WAY #1:* Use MPC-BE and enable "Encode to AC3" in Options->Internal Filters->Audio Decoders->Audio Decoder Configuration.  
+*WAY #1:*  
+
+1. Use MPC-BE and enable "Encode to AC3" in Options->Internal Filters->Audio Decoders->Audio Decoder Configuration.  
 
 *WAY #2:*  
 
@@ -574,11 +576,9 @@ MPC-HC/BE, POTPLAYER:
 
 6. Enable "Mixer" in the left-hand sidebar. Click on Mixer, set output to 3/0/2. Enable "LFE"  
 
-7. Go to "Output" in the left-hand sidebar  
-
- Pass-through (S/PDIF, HDMI): "Dolby Digital (AC3)" checked  
-
- AC3 (S/PDIF encode mode): checked  
+7. Go to "Output" in the left-hand sidebar
+* Pass-through (S/PDIF, HDMI): "Dolby Digital (AC3)" checked  
+* AC3 (S/PDIF encode mode): checked  
 
 8. (OPTIONAL) If you only want to re-encode certain formats, go to "Codecs" in the left-hand sidebar, then set every codec you don't want to re-encode to "disabled" under the Decoder column and the ones you do to a libXXX decoder  
 
