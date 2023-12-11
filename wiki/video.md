@@ -411,7 +411,7 @@ These are OBJECTIVE rankings, and not SUBJECTIVE. Visual preferences are subject
 
 Any algo beyond **Jinc** will produce diminishing returns compared to the amount of load and noise it subjects your GPU to and may be detrimental to your HT listening environment.  
 
-MPC VR will allow you to go up to Jinc. madVR to NGU Sharp.  
+[MPC VR](/wiki/hdr#mpc-be--mpc-video-renderer) will allow you to go up to Jinc. [madVR](/wiki/hdr#mpc-hcmpc-be--madvr) to NGU Sharp.  
 
 <!-- Sub-Section -->
 
