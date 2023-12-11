@@ -529,7 +529,7 @@ If your audio is behind the video:
 5. You may be doing too much audio processing on your HTPC. Disable any, or use less, audio enhancements, or use bitstreaming if you're currently letting the HTPC do the decoding.  
 6. You may be doing too much audio processing on your sound system. Disable any, or use less, audio enhancements on it, such as using Pure Direct sound mode on your AVR, if it's supported.  
 7. If on Windows, you may be using a Power Plan that is lowering system performance on various devices. Create a High Performance power plan and re-test.
-8. You are using Dolby Access to send Dolby Atmos (e.g. Gaming) audio through a display to your sound system. This can cause a noticable delay. Make sure you set up your display to pass-through the audio correctly and don't use the Auto/PCM setting values. Alternatively, connect your HTPC to your sound system first, seperate your audio and video paths with multiple connections, or use an audio extractor between the HTPC and display. See setup scenarios above.  
+8. You are using Dolby Access to send Dolby Atmos (e.g. Gaming) audio through a display to your sound system. This can cause a noticable delay. Make sure you set up your display to pass-through the audio correctly and don't use the Auto/PCM setting values. Alternatively, connect your HTPC to your sound system first, seperate your audio and video paths with multiple connections, or use an audio extractor/splitter between the HTPC and display/sound system. See setup scenarios above.  
 
 If ahead/behind delays occur on specific content, it could indicate that the content was created (encoded) improperly or on a PC with less than ideal CPU/GPU performance.  
  
@@ -758,6 +758,8 @@ HDMI 2.1 (4K@120)
 [Monoprice Blackbird](https://www.monoprice.com/product?p_id=44436)  
 
 [EZCoo 1x2](https://www.amazon.com/HDMI-Splitter-1x2-4K-120Hz/dp/B0B7W94LHB)  
+
+[Feintech 1x2](https://www.amazon.de/FeinTech-VAX01202-Extractor-Splitter-Delivers/dp/B08TX473Z8?ref_=ast_sto_dp&th=1) (Europe)  
 
 **HDMI Audio Extractors**  
 
