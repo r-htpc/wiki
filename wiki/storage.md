@@ -67,9 +67,11 @@ There is a full list below, but the best pre-built NASes for the money are..
 If you just need storage..  
 - 2 drives: Terramaster F2-212 - $170  
 - 4 drives: Terramaster F4-210 - $250  
+
 If you need storage and want to run backend services (like plex)..  
 - 2 drives: Terramaster F2-423 - $380  
-- 4 drives: Qnap TS-364-4G - $450  
+- 4 drives: Qnap TS-364-4G - $450
+
 If you want the best plex transcoding ability..  
 - 2 drives: Terramaster F2-423 - $380  
 - 4 drives: Terramaster F4-423 - $500  
