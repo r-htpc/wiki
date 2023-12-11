@@ -528,7 +528,8 @@ If your audio is behind the video:
 4. If you're using a different path for your audio (like a HDMI connection to your TV and a separate HDMI connection to your sound system), you may see less of a delay if you use a lower resolution or refresh rate on the connection to your sound system. You should only need 720p@30hz.  
 5. You may be doing too much audio processing on your HTPC. Disable any, or use less, audio enhancements, or use bitstreaming if you're currently letting the HTPC do the decoding.  
 6. You may be doing too much audio processing on your sound system. Disable any, or use less, audio enhancements on it, such as using Pure Direct sound mode on your AVR, if it's supported.  
-7. If on Windows, you may be using a Power Plan that is lowering system performance on various devices. Create a High Performance power plan and re-test.  
+7. If on Windows, you may be using a Power Plan that is lowering system performance on various devices. Create a High Performance power plan and re-test.
+8. You are using Dolby Access to send Dolby Atmos (e.g. Gaming) audio through a display to your sound system. This can cause a noticable delay. Make sure you set up your display to pass-through the audio correctly and don't use the Auto/PCM setting values. Alternatively, connect your HTPC to your sound system first, seperate your audio and video paths with multiple connections, or use an audio extractor between the HTPC and display. See setup scenarios above.  
 
 If ahead/behind delays occur on specific content, it could indicate that the content was created (encoded) improperly or on a PC with less than ideal CPU/GPU performance.  
  
