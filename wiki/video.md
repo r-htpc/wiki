@@ -533,3 +533,6 @@ See above sections [Setup For Color Conversion/Reproduction](/wiki/video#setup-f
 
 4k@120Hz: [Monoprice Blackbird](https://www.monoprice.com/product?p_id=44436)
 
+**HDMI EDID Emulators**  
+
+[Prophecy EDID Tester](https://www.gofanco.com/prophecy-edid-emulator-pro-edidemul.html)
