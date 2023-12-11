@@ -531,6 +531,8 @@ See above sections [Setup For Color Conversion/Reproduction](/wiki/video#setup-f
 
 4k@60Hz + IR/Audio: [OREI](https://www.amazon.com/dp/B0BPW1ZC1B)  
 
+4k@120Hz: [gofanco](https://www.gofanco.com/products/hdmi-extenders/hdmi-extenders-over-ethernet/hdmi-cat-extender-4k120-40m-hdext4k120.html)  
+
 **HDMI Splitters**  
 
 4k@120Hz: [Monoprice Blackbird](https://www.monoprice.com/product?p_id=44436)
