@@ -245,7 +245,7 @@ Below are the minimum CPUs required for each scenario and a recommendation. **Al
 
 - UHD Blu-Ray disc playing: Intel i3/5/7/9 7th-10th Gen iGPU ONLY + [Motherboard BIOS supporting Intel SGX](/wiki/hdmi20) (REC: Intel i3-10100)  
 
-- HDMI 2.1 4K@120Hz: >= Ryzen 7xxx/6600U iGPU  
+- HDMI 2.1 4K@120Hz (>= 32Gbps): >= Ryzen 7xxx/6600U iGPU  
 
 - Plex Transcoding: Intel >= i3/i5/i7-7xxx iGPU (REC: Intel i3-12100)  
 
@@ -273,7 +273,7 @@ Below are the minimum requirements for each scenario and a recommendation. The r
 
 - Emulation: Nvidia >= GT 1030 GDDR5, AMD >= 5xx/5x00/6x00 (REC: Used: GTX 1050 Ti, New: RX 6400)  
 
-- HDMI 2.1 4K@120Hz: >= Nvidia RTX 3050/AMD RX 6400 (REC: RX 6400)  
+- HDMI 2.1 4K@120Hz (>= 32Gbps): >= Nvidia RTX 3050/AMD RX 6400 (REC: RX 6400)  
 
 - UHD Blu-Ray disc playing: Not supported. Intel iGPU only.
 
@@ -329,7 +329,7 @@ Nvidia RTX 40xx								|	Y		|	Y		|	Y	|	Y		|2.1		|1.4	|	Y	|	Y		|	Y		|Ada Lovelace
 (5) Requires >= 1050 3GB/1050 Ti  
 (6) Requires >= RX 6600  
 (7) Only provides HDMI 2.0 bandwidth/resolutions  
-(8) HDMI 2.1 available on specific SKUs w/PCON from DP  
+(8) HDMI 2.1 (>= 32Gbps) available on specific SKUs w/PCON from DP  
 (9) [Not GTX 1060/1070/1080](https://en.wikipedia.org/wiki/Nvidia_NVDEC)  
 (11) 4k@120 Hz 4:2:2 10-bit HDR - 32 Gbps (mobo limited)  
 (12) DP 2.1 - 40 Gbps with usb available on specific 13xxx mobo SKUs  
