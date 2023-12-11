@@ -583,7 +583,7 @@ TOTAL		|							|	$3525	|			|
 
 ### $150 Large NAS / Utility Server (36L) - Used
 
-A step up from the previous build in internal capacity, but still used hardware, so similar in cost. It's large and an old arch, but good for mass storage and other lightweight duties.  
+A step up from the previous Medium build in internal capacity, but still used hardware, so similar in cost. It's large and an old arch, but good for mass storage and other lightweight duties.  
 
 This is a setup with hardware off ebay using the old Ivy Bridge architecture. Plenty of power for NAS and utility task duties. Yes, it can be used as a Plex media server as well for its [Direct Play](https://support.plex.tv/articles/200430303-streaming-overview/) 
 and H264 transcode ability (look at the Dell 3620 option in the previous build for 4k/HEVC transcoding), but that's not our primary focus here. Our focus is internal storage capacity.  
