@@ -338,7 +338,7 @@ Software mgmt: Docker
 
 Volume mgmt (windows): [Windows Storage Spaces](https://support.microsoft.com/en-us/windows/storage-spaces-in-windows-10-b6c8b540-b8d8-fb8a-e7ab-4a75ba11f9f2), [StableBit DrivePool](https://stablebit.com/DrivePool), [Drive Bender](https://www.division-m.com/drivebender/), [snapraid](https://www.snapraid.it/), [Elucidate (snapraid GUI)](https://github.com/Smurf-IV/Elucidate)  
 
-Volume mgmt (linux): md, [snapraid](https://www.snapraid.it/), [mergerFS](https://github.com/trapexit/mergerfs/wiki)  
+Volume mgmt (linux): mdadm, [snapraid](https://www.snapraid.it/), [mergerFS](https://github.com/trapexit/mergerfs/wiki)  
 
 Disk mgmt (windows): [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/), [HDDScan](https://hddscan.com/), [WD Drive Utilities](https://support.wdc.com/downloads.aspx?DL=#WD_softwarepc)  
 
