@@ -383,7 +383,7 @@ Alternatively, if you want MORE HDD space look at Silverstone's GD06 (4)/TJ08B-E
 
 This uses a modern 10-core CPU w/IGPU for very fast Handbrake transcoding performance. This is a high watt part and necessitates an additional CPU cooler. If you don't need best-in-class performance, you can switch to something like a i5-13400 with the stock cooler. and B660 mobo  
 
-Standard software for ripping is: [MakeMKV](https://www.makemkv.com) to rip a disc to a full quality file, and then [Handbrake](https://handbrake.fr) to optionally transcode it down for size and client compatibility. Check [this post](https://forum.makemkv.com/forum/viewforum.php?f=16) on the makemkv forum for firmware for your drive.   
+Standard software for ripping is: [MakeMKV](https://www.makemkv.com) to rip a disc to a full quality file, and then [Handbrake](https://handbrake.fr) to optionally transcode it down for size and client compatibility. Check the [ripping section](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use) of our FAQ page for detailed instructions. Check [this post](https://forum.makemkv.com/forum/viewforum.php?f=16) on the makemkv forum for firmware for your drive.   
 For automated ripping on disc insert, look at [Automatic Ripping Machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) (ARM), which is a front-end to makemkv/handbrake. Its setup on Linux is not for the faint of heart. 
 Alternatively, on Windows look at [Staxrip](https://github.com/staxrip/staxrip) or the old [Autorip](https://videoscripts.wordpress.com/2011/11/16/autorip-updated-3/).  
 
