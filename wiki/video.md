@@ -56,7 +56,7 @@ You can calculate video bitrate by applying the formula
 
 HDMI 1.4: Digital. 10 Gbps. 4K @ 30 Hz  
 HDMI 2.0: Digital. 18 Gbps. 4K @ 60 Hz. HDR  
-HDMI 2.1: Digital. 48 Gbps. 4K @ 120 Hz. HDR+  
+HDMI 2.1: Digital. Up to 48 Gbps. 4K @ 120 Hz. HDR+  
 Displayport 1.2 (native): Digital. Displayport on both ends. 20 Gbps. 4K @ 60 Hz  
 Displayport 1.4 (native): Digital. Displayport on both ends. 32 Gbps. 4K @ 120 Hz. HDR  
 Displayport (Alternate mode): Digital. Displayport/USB->HDMI cable/adapter  
@@ -465,7 +465,7 @@ A passive cable/adapter does not do a conversion on the protocol and is more lim
 An active cable/adapter converts the DisplayPort protocol coming into the adapter. This is less limiting and will potentially provide higher bandwidth. For instance, you can use an Active adapter to convert DisplayPort 1.2 to HDMI 2.0 and get 4K@60Hz output, though getting some HDMI 2.0-native features is problematic if they weren't supported by the DisplayPort version to begin with. In our example, since DisplayPort 1.2 does not support HDR, it will not get passed over the adapter.  
 SOME oem vendors (hp, dell, levovo) SOMETIMES advertise DisplayPort 1.2, but in reality support 1.3/1.4. When this happens you can use a DisplayPort 1.4->HDMI 2.0 active adapter and get HDR. This support is very spotty, so unless you find accounts of it on the hardware you want to use, don't bet on it.  
 
-Active connectors can also be used to convert DisplayPort 1.4 to HDMI 2.1 and get 4K@120Hz HDR output. This also has its caveats. The adapters require the Display Stream Compression (DSC 1.2) feature to be supported in the GPU for use over DisplayPort. Since this is an OPTIONAL feature to DisplayPort 1.x, do not expect all GPUs with DisplayPort 1.4 to support this. Officially supported GPUS are >= Nvidia GTX 16xx/RTX 20xx or >= AMD RX 5xxx dGPUs.  
+Active connectors can also be used to convert DisplayPort 1.4 to HDMI 2.1 and get 4K@120Hz HDR >= 32Gbps output. This also has its caveats. The adapters require the Display Stream Compression (DSC 1.2) feature to be supported in the GPU for use over DisplayPort. Since this is an OPTIONAL feature to DisplayPort 1.x, do not expect all GPUs with DisplayPort 1.4 to support this. Officially supported GPUS are >= Nvidia GTX 16xx/RTX 20xx or >= AMD RX 5xxx dGPUs.  
 Active adapters also do not allow passthrough/bitstreaming of HD audio, only PCM audio.  
 
 USB-C is just a different connector, still carrying the DisplayPort protocol as if it was that connector.  
