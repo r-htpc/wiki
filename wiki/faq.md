@@ -225,9 +225,9 @@ hear is a loud fan. So stick with CPUs with TDPs <= 65W. CPU temps <= 80C under 
 3. Don't forget a CPU cooler for your CPU, IF one is not already included. Ryzen APUs and non-K Intel CPUs DO come with a stock cooler, but you can do better if funds and space allow it. 
 We have a whole section on cooling below. Remember: bigger, slower fans are better than smaller, faster fans.  
 
-Below are the minimum CPUs required for each scenario and a recommendation. **All have integrated graphics and a dGPU is not required**. The recommendations may change depending on your budget, regional availability, space/power requirements, and whether you want new or second-hand parts. If you're not sure, post and ask us for a rec based on your detailed use-case.  
+Below are the minimum CPUs required for each scenario and a recommendation. **All have integrated graphics and a dGPU is not required (unless specified)**. The recommendations may change depending on your budget, regional availability, space/power requirements, and whether you want new or second-hand parts. If you're not sure, post and ask us for a rec based on your detailed use-case.  
 
-- **Best All-Rounder: AMD Ryzen 4600G, Intel i3-12100**  
+- **Best All-Rounder: AMD Ryzen 4600G, Intel i3-12100**
 
 - 1080p, No gaming: Intel >= i3/i5/i7-7xxx iGPU, Pentium G4xxx or Apollo/Gemini Lake J3xxx, AMD Athlon 3000G, AMD >= Ryzen 3 2200G APU (REC: Intel G7400)  
 
@@ -245,7 +245,9 @@ Below are the minimum CPUs required for each scenario and a recommendation. **Al
 
 - UHD Blu-Ray disc playing: Intel i3/5/7/9 7th-10th Gen iGPU ONLY + [Motherboard BIOS supporting Intel SGX](/wiki/hdmi20) (REC: Intel i3-10100)  
 
-- HDMI 2.1 4K@120Hz (>= 32Gbps): >= Ryzen 7xxx/6600U iGPU  
+- HDMI 2.1 4K@120Hz (>= 32Gbps): >= Ryzen 7xxx/6600U iGPU
+
+- For use w/dGPU (no iGPU): Ryzen 5600  
 
 - Plex Transcoding: Intel >= i3/i5/i7-7xxx iGPU (REC: Intel i3-12100)  
 
@@ -394,7 +396,7 @@ BRANDS/MODELS:
 SSDs:  
 *- Quality:* Samsung, WD Black, SK Hynix, Sabrent, Crucial (OS Drive REC: Samsung 970 Evo Plus)  
 *- Budget:* Teamgroup, Silicon Power, Inland, Kingston, WD Blue (OS Drive REC: Teamgroup MP33).  
-HDDS: Ultrastar, Seagate Exos, WD Red  
+HDDs: Ultrastar, Seagate Exos, WD Red  
 [Example PCPartPicker SSD search](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=128000000000,20000000000000&t=0&f=3,122080&sort=price&R=5,4,3)  
 
 <!-- Sub-Section -->
