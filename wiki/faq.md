@@ -273,9 +273,9 @@ Below are the minimum requirements for each scenario and a recommendation. The r
 
 - AV1 decoding: >= Intel Arc A3xx/Nvidia RTX 3050/A2000/AMD RX 6600 (REC: Intel Arc A380)  
 
-- Emulation: Nvidia >= GT 1030 GDDR5, AMD >= 5xx/5x00/6x00 (REC: Used: GTX 1050 Ti, New: RX 6400)  
-
 - HDMI 2.1 4K@120Hz (>= 32Gbps): >= Nvidia RTX 3050/AMD RX 6400 (REC: RX 6400)  
+
+- Emulation: Nvidia >= GT 1030 GDDR5, AMD >= 5xx/5x00/6x00 (REC: Used: GTX 1050 Ti, New: RX 6400)  
 
 - UHD Blu-Ray disc playing: Not supported. Intel iGPU only.
 
