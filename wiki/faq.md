@@ -247,7 +247,7 @@ Below are the minimum CPUs required for each scenario and a recommendation. **Al
 
 - HDMI 2.1 4K@120Hz (>= 32Gbps): >= Ryzen 7xxx/6600U iGPU
 
-- For use w/dGPU (no iGPU): >= i3-10100F (REC: Ryzen 5600)  
+- For use w/dGPU below (no iGPU): >= i3-10100F (REC: Ryzen 5600)  
 
 - Plex Transcoding: Intel >= i3/i5/i7-7xxx iGPU (REC: Intel i3-12100)  
 
