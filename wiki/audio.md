@@ -288,7 +288,7 @@ You would then set your speaker/channel configuration in the Windows Sound contr
 You can force Windows apps that don't have sound configurations (like browsers) to decode to PCM in Windows Sound control panel by disabling the "Allow applications to take exclusive control of this device" setting of your Windows sound device.  
 Additionally, you can set channel downmixing/upmixing in your media application, if desired.  
 
-After you've configured your app(s) and windows, play test content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below. 
+After you've configured your app(s) and windows, play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below. 
 
 NOTES:  
 1. You know this way is configured correctly because when you play audio you SHOULD be able to change the volume on the HTPC and hear a difference.  
@@ -322,27 +322,27 @@ These steps assume you have the latest version of [MPC-HC clsid2](https://github
 3. View->Options->Internal Filters->Audio decoder (button)  
 -- Bitstreaming->Formats->Enable the codecs your sound system supports decoding.  
 -- Enable System Tray Icon: checked  
-4. Restart the app and play test content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
+4. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
 5. If configured correctly, you should see the blue LAV Audio icon in the system tray. Click on it and then on the Status Tab to see the audio being bitstreamed.  
 
 MPC-BE:  
 These steps assume you have the latest version of [MPC-BE](https://sourceforge.net/projects/mpcbe/files/MPC-BE/)  
 1. View->Options->Audio->Audio Renderer: MPC Audio Renderer->Properties->WASAPI Mode: Exclusive->Allow bit-exact output: checked  
 2. View->Options->Internal Filters->Audio Decoders (tab)->Audio decoder configuration (button)->Pass-through->Enable the codecs your sound system supports decoding  
-3. Restart the app and play test content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
+3. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
 
 POTPLAYER:  
 1. F5 key->Audio  
 -- Audio Renderer: Built-in WASAPI Audio Renderer -> "..." button -> Use exclusive mode: checked, Device: <audio device you will be using for bitstreaming>  
 -- Set Built-In Audio Decoder->Pass Through->Set "Default Pass-through Muxer" for the codecs your sound system supports decoding  
-2. Restart the app and play test content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
+2. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
 
 VLC:  
 1. Tools->Preferences->Show Settings (All)->Audio  
 -- Expand "Output modules"  
 -- Output modules->Audio output module: Windows Multimedia Device output  
 -- MMDevice->Output back-end: Windows Audio Session API output, HDMI/SPDIF Audio Passthrough: Enabled - for all codecs, or Enabled (AC3/DTS only) - for if your sound system only supports decoding regular DD/DTS. Output Device: <audio device you will be using for bitstreaming>  
-2. Restart the app and play test content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
+2. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
 
 PLEX HTPC/PLEX MEDIA PLAYER:  
 1. Settings->Audio->Device Type: HDMI/Optical  
@@ -350,7 +350,7 @@ PLEX HTPC/PLEX MEDIA PLAYER:
 3. Settings->Audio->Device: Auto/<HDMI/Optical Device>  
 4. Settings->Audio->Exclusive Mode: Enable  
 5. Settings->Audio->Passthrough: xxx: Enable the codecs your sound system supports decoding  
-6. Restart the app and play test content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
+6. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
 
 PLEX FOR WINDOWS:  
 1. Settings->Player->Exclusive Mode: Enable  
@@ -358,19 +358,19 @@ PLEX FOR WINDOWS:
 3. Settings->Player->Audio Device Kind: <HDMI/Optical>  
 4. Settings->Player->Channels: Auto  
 5. Settings->Player->Passthrough xxx: Enable the codecs your sound system supports decoding  
-6. Restart the app and play test content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
+6. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
 
 KODI:  
 1. Settings->System->Audio->Audio output device: WASAPI  
 2. Settings->System->Audio->Allow Passthrough: On  
 3. Settings->System->Audio->XXX capable receiver: Enable the codecs your sound system supports decoding  
-4. Restart the app and play test content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
+4. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
 
 EXTERNAL: OPTIONAL: If you need/want an advanced/specialized audio decoder/filter external to your app/player:  
 1. Install the external [LAV Filters](https://github.com/Nevcairiel/LAVFilters/releases) software.  
 2. Run the "LAV Audio Configuration" app. Under Audio Settings->Bitstreaming, enable/check the codecs you want to bitstream. Check "Enable System Tray Icon".    
 3. Configure your media player app to use an external filter (e.g. MPC-HC/BE->View->Options->External Filters->Add Filter->LAV Audio Decoder->Prefer)  
-4. Restart your media player app  and play test content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
+4. Restart your media player app  and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
 5. If configured correctly, you should see the blue LAV Audio icon in the system tray. Click on it and then on the Status Tab to see the audio being bitstreamed.  
 
 <!-- Section -->
