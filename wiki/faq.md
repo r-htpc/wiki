@@ -309,7 +309,7 @@ AMD Ryzen 4xxxG-5xxxG (DT)			|	Y		|	Y		|	N	|	Y	|2.0		|1.4	|	Y	|	Y		|	Y		|Renoir/
 AMD Ryzen 2xxxU-3xxxU (EM)							|	Y		|	Y		|	N	|	Y (4)	|2.0		|1.2	|	Y	|	Y		|	Y		|Raven Ridge/Picasso & Vega
 AMD Ryzen 4xxxU-5xxxU (EM)							|	Y		|	Y		|	N	|	Y	|2.0		|1.4	|	Y	|	Y		|	Y		|Renoir/Cezanne & Vega
 AMD Ryzen 6xxxU (EM)									|	Y		|	Y		|	Y	|	Y		|2.1		|2.0	|	Y	|	Y		|	Y		|Rembrandt & RDNA2
-AMD Ryzen 7xxx (DT)									|	Y		|	Y		|	Y	|	Y		|2.1 (11)		|2.0	|	Y	|	Y		|	Y		|Raphael & RDNA2
+AMD Ryzen 7xxx/8xxxG (DT)									|	Y		|	Y		|	Y	|	Y		|2.1 (11)		|2.0	|	Y	|	Y		|	Y		|Raphael & RDNA2/RDNA3
 AMD RX 4xx/5xx								|	Y		|	Y		|	N	|	Y		|2.0		|1.4	|	N	|	N		|	Y		|Polaris
 AMD RX Vega 56/64/VII						|	Y		|	Y		|	N	|	N		|2.0		|1.4	|	N	|	N		|	Y		|RX Vega
 AMD RX 5xxx									|	Y		|	Y		|	N	|	Y		|2.0		|1.4	|	Y	|	Y		|	Y		|Navi/RDNA
