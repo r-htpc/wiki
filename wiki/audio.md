@@ -280,12 +280,15 @@ This scenario would be used for non-encoded audio, like **[Gaming](/wiki/audio#h
 If you have an AV receiver, it would say "PCM"/"Multi Ch In"/"Direct"/"Uncompressed" on it, unless you have the receiver set to upmix the audio with a listening mode such as Dolby Surround.  
 
 On a Windows HTPC, this is usually the default scenario.  
-Configuration is done (if needed) in your media application, by setting the sound device/audio renderer to "DirectSound" or "System Default". "DirectSound" sits between the application and the audio driver, controlling the channel layout and audio stream.  
-In media applications, the most popular ones (MPC-HC/MPC-BE/JRiver/Kodi/VLC/Plex) will have the codecs to decode up to **Dolby TrueHD**, **DTS-HD MA** and many others (object metadata overlays like Dolby Atmos/DTS:X cannot be channelized or meaningfully used by the PC without professional software; they must be bitstreamed to and processed by an AVR or sound processor).  
 
-You would then set the speaker/channel configuration in the Windows Sound control panel to tell DirectSound what speaker configuration you have.  
+You should configure your media application(s) (if needed), by setting the sound device/audio renderer to "DirectSound" or "System Default". "DirectSound" sits between the application and the audio driver, controlling the channel layout and audio stream.  
+In media applications, the most popular ones (MPC-HC/MPC-BE/JRiver/Kodi/VLC/Plex) will have the codecs to decode up to **Dolby TrueHD**, **DTS-HD MA** and many others (object metadata overlays like Dolby Atmos/DTS:X can NOT be channelized or meaningfully used by the PC without professional software; you must bitstream those codecs to an AVR or sound processor).  
+
+You would then set your speaker/channel configuration in the Windows Sound control panel to tell DirectSound what speaker configuration you have.  
 You can force Windows apps that don't have sound configurations (like browsers) to decode to PCM in Windows Sound control panel by disabling the "Allow applications to take exclusive control of this device" setting of your Windows sound device.  
 Additionally, you can set channel downmixing/upmixing in your media application, if desired.  
+
+After you've configured your app(s) and windows, play test content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below. 
 
 NOTES:  
 1. You know this way is configured correctly because when you play audio you SHOULD be able to change the volume on the HTPC and hear a difference.  
