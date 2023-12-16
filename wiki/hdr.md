@@ -583,9 +583,7 @@ Simple, Tonemapping
 
   Common settings above 
 
-  Netflix: ALL displays have HDCP 2.2 support and is recognized. Check Nvidia/AMD/Intel graphics control panel for HDCP status. 
-
-  Netflix: Required Software is installed: Microsoft Store [HEVC Extension](https://www.microsoft.com/en-us/p/hevc-video-extensions/9nmzlz57r3t7). 
+  Netflix: ALL displays have HDCP 2.2 support and is recognized. Check Nvidia/AMD/Intel graphics control panel for HDCP status. Required software is installed: Microsoft Store [HEVC Extension](https://www.microsoft.com/en-us/p/hevc-video-extensions/9nmzlz57r3t7), Intel MEI driver/ME firmware (Intel iGPU). Required [Premium Plan](https://help.netflix.com/en/node/24926) subscription. 
 
   Supported Web Browsers/Apps: Microsoft Edge (Netflix/Youtube), Microsoft Store app (Netflix), Google Chrome (Youtube)  
 
@@ -597,7 +595,7 @@ Simple, Tonemapping
 
   Start -> Settings -> System -> Display -> Windows HD Color settings -> Stream HDR Video: On
 
-  Netflix: Check edge://gpu in Microsoft Edge for: HDCP 2.2 support, HEVC installed/activable, and HEVC - HDR10 support set true.  
+  Netflix: Check edge://gpu in Microsoft Edge for: HDCP 2.2 support, HEVC installed/activable, and HEVC - HDR10 support set true. Check [Netflix HDR10 test pattern](https://www.netflix.com/title/80018499) looks correct.  
 
 ## ANDROID
 
