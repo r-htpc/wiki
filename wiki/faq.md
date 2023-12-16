@@ -1187,7 +1187,7 @@ Configuring Kodi can involve things like:
  - [Removing unneeded skin features/libraries](https://kodi.wiki/view/Add-on:Estuary/Settings#Main_Menu_Items_Settings)
  - [Changing a library view type](https://kodi.wiki/view/Basic_controls#Sideblade_Menu)
  - [Creating smart playlists](https://kodi.wiki/view/Smart_playlists)
- - Have Kodi autoplay smart playlists on startup with <onload> and PlayMedia() [in a skin's Startup.xml and guisettings.xml](https://forum.kodi.tv/showthread.php?tid=53092)
+ - Have Kodi autoplay smart playlists on startup with <onload> and PlayMedia [in a skin's Startup.xml and guisettings.xml](https://forum.kodi.tv/showthread.php?tid=53092)
  - [Have Kodi autoplay certain playlists on a schedule](https://forum.libreelec.tv/thread/1458-automated-video-playlist-using-time-schedules-w-auto-volume-control/)
 
 If you don't want to use Kodi, you can alternatively use:
