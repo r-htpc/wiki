@@ -386,6 +386,7 @@ If the media you're watching does not have a framerate that's a multiple of your
     ------ 1080p display: 1080p23, 1080p24, 1080p50, 1080p59, 1080p60  
 
 4. Plex. See [here](https://support.plex.tv/articles/htpc-settings/)  
+5. Web Browsers: Not available  
 
 <!-- Sub-Section -->
 
@@ -451,7 +452,7 @@ If you do have judder, then do one or more of the following..
 
 ### What refresh rate should I run on my HTPC?
 
-Whatever refresh rate matches the framerate of the bulk of the content you play, if automatic Refresh Rate Switching is not available.  
+Whatever refresh rate matches the framerate of the bulk of the content you play, if automatic [Refresh Rate Switching](/wiki/video#application-specific-setup-for-resolutionrefresh-rate-switching) is not available for your media players. If you use a 120 Hz display you can run at that instead of the refresh rate for the 23.976/24/30/60 frame rates below. If you're running 25/50 fps content, run at 50 or 100 Hz.  
 Content varies between 23.976, 24, 25 fps, 29.97 or 60 fps. Local content is usually 23.976 fps (23 Hz) in North America and 25 fps (25 Hz) in Europe. Youtube is 24/25/30/60 fps. Netflix is 23.976/24/25/29.97 fps.  
 
 <!-- Sub-Section -->
