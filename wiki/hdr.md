@@ -632,7 +632,7 @@ GPU|IMAGE UPSCALING|IMAGE DOUBLING|IMAGE DOWNSCALING|CHROMA UPSCALING|DITHERING
 :--|:--|:--|:--|:--|:--
 Intel UHD >= 6xx|DXVA2|NA|DXVA2|BiCubic 75+AR|random
 AMD Ryzen Vega xx|Cubic/Lanczos|NA|Cubic/Lanczos|BiCubic 75+AR|random
-Nvidia GT 1030|Lanczos 3-tap+AR|NA|Lanczos 3-tap+AR|BiCubic 75+AR|random
+Nvidia GT 1030/Ryzen 6xxM/7xxM|Lanczos 3-tap+AR|NA|Lanczos 3-tap+AR|BiCubic 75+AR|random
 Nvidia GTX 960/1050/1050 Ti|Lanczos 4-tap+AR|NA|SSIM 1D+LL+AR|Lanczos 3-tap+AR|random
 Nvidia GTX 1650|Lanczos 4-tap+AR|Super-XBR|SSIM 1D+LL+AR|Lanczos 3-tap+AR|random
 Nvidia GTX 1650 Super|Lanczos 4-tap+AR|NGU Standard Luma Low|SSIM 1D+LL+AR|Jinc+AR|Error Diff. #1
