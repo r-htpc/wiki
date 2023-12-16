@@ -1166,3 +1166,30 @@ Video: [See our separate wiki page here](/wiki/video)
 
 [See our separate wiki page here](/wiki/sample-builds)
 
+## How can I set up an HTPC for the elderly/disabled?
+
+**THIS QUESTION IS UNDER CONSTRUCTION!**  
+
+If internet is available, and automation isn't needed, then a Roku is usually the easiest solution.  
+
+But if internet is not available and/or local content playback/automation is desired, this lends itself well to HTPCs, especially under x86 hardware 
+with linux, windows, or especially hardware that supports installing [Libreelec](https://libreelec.tv/downloads/) (like Raspberry Pis and cheap mini pcs) so you can boot directly into Kodi  
+
+Some options/considerations are:  
+
+1. Install Linux/Windows. Install Kodi, run Kodi on boot (Windows: %appdata%\Microsoft\Windows\Start Menu\Programs\Startup, [Linux](https://kodi.wiki/view/HOW-TO:Autostart_Kodi_for_Linux)), configure Kodi  
+2. Install [Libreelec](https://libreelec.tv/downloads/) on compatible hardware, configure Kodi  
+3. A simple remote. [FM4](https://www.amazon.com/Seleven-Universal-Control-Wireless-Android/dp/B01FVUGPE8), WeChip [G20S](https://www.amazon.com/WeChip-G20-Control-Wireless-Sensing/dp/B07P322VRP)/[W3](https://www.amazon.com/WeChip-W3-Wireless-Control-Projector/dp/B09XMF5YN1), [Argon IR](https://www.amazon.com/Argon-Raspberry-Infrared-Batteries-Included/dp/B091F3XSF6) w/FLIRC  
+
+Configuring Kodi can involve things like: 
+ - Starting in Full Screen (Settings->System->Display->Expert->Display mode)
+ - Starting up in certain libraries (Settings->Appearance->Home)
+ - [Removing unneeded skin features/libraries](https://kodi.wiki/view/Add-on:Estuary/Settings#Main_Menu_Items_Settings)
+ - [Changing a library view type](https://kodi.wiki/view/Basic_controls#Sideblade_Menu)
+ - [Creating smart playlists](https://kodi.wiki/view/Smart_playlists)
+ - Have Kodi autoplay smart playlists on startup with <onload> and PlayMedia() [in a skin's Startup.xml and guisettings.xml](https://forum.kodi.tv/showthread.php?tid=53092)
+ - [Have Kodi autoplay certain playlists on a schedule](https://forum.libreelec.tv/thread/1458-automated-video-playlist-using-time-schedules-w-auto-volume-control/)
+
+If you don't want to use Kodi, you can alternatively use:
+ - VLC and auto-start, looping playlists with options like: ````--fullscreen --loop --playlist-autostart --playlist-tree <path>````
+ - [MediaPortal](https://www.team-mediaportal.com/)
