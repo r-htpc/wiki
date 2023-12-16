@@ -65,11 +65,11 @@ You are **strongly urged** to test out the simple setups below before potentiall
 
      Resolution: 3840x2160  
 
-     Refresh: 24/30/60Hz  
+     Refresh: 24/30/60/120Hz  
 
      Desktop color depth: Highest (32-bit)  
 
-     Output color depth: 8 bpc  
+     Output color depth: 8 bpc (HDMI 2.0), 10 bpc (HDMI 2.1)  
 
      Output color format: RGB  
 
@@ -89,7 +89,7 @@ You are **strongly urged** to test out the simple setups below before potentiall
 
     -- Display ->  
 
-     Color depth: 8 bpc  
+     Color depth: 8 bpc (HDMI 2.0), 10 bpc (HDMI 2.1)  
 
      Pixel format: RGB/YCbCr 4:4:4 Full  
 
