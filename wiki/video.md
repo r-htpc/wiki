@@ -5,6 +5,7 @@
 **THIS PAGE IS IN A DRAFT STATE AND UNDER CONSTRUCTION**
 
 <!-- Section -->
+<!-- -->
 
 ## How do I configure my htpc/media device for video?
 
