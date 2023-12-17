@@ -42,6 +42,7 @@ ARCH|GEN|RELEASED|NOTES
 [Rocket Lake](https://en.wikipedia.org/wiki/Rocket_Lake)|11th Gen|Mid-2021|2-8 core CPUs. DDR4-3200 memory support. 4xx/5xx series chipset. Introduced HDMI 2.0/DP 1.4 native on an Intel desktop CPU (>= i5). AV1 decoding. Removed SGX support.
 [Alder Lake](https://en.wikipedia.org/wiki/Alder_Lake_\(microprocessor\))|12th Gen|Late-2021|2-16 core CPUs. DDR4-3200/DDR5-4800 memory support. 6xx/7xx series chipset. HDMI 2.0/DP 1.4 on all CPUs.
 [Raptor Lake](https://en.wikipedia.org/wiki/Raptor_Lake)|13/14th Gen|Late-2022/3|14-24 core CPUs. DDR4-3200/DDR5-6000 memory support. 6xx/7xx series chipset. HDMI 2.0/DP 1.4 on all CPUs.
+[Meteor Lake](https://en.wikipedia.org/wiki/Meteor_Lake)|14th Gen|Late-2023|12-16 core CPUs. (LP)DDR5-5600/7467 memory support.HDMI 2.0/2.1/DP 2.1 on all CPUs.
 [Apollo Lake](https://en.wikipedia.org/wiki/Goldmont)|7th Gen|Mid-2016|Technically under the Goldmont arch, but similar to Kaby Lake in a smaller form factor/feature set/power usage profile.
 [Gemini Lake](https://en.wikipedia.org/wiki/Goldmont_Plus)|8th Gen|Early-2018|Technically under the Goldmont Plus arch, but similar to Coffee Lake in a smaller form factor/feature set/power usage profile. Introduced HDMI 2.0 native on CPU.
 
