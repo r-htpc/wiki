@@ -12,7 +12,7 @@ disable_edit: true
 # (boolean) Enable/disable wiki page list in sidebar
 show_wiki_pages: true
 # (integer) Maximum number of wiki page to shown in sidebar
-show_wiki_pages_limit: 10
+show_wiki_pages_limit: 5
 # (boolean) Enable/disable blog feature
 blog_feature: true
 # (boolean) Enable/disable wiki posts list in sidebar (needs blog_feature enabled)
