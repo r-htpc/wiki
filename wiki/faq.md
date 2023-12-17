@@ -302,13 +302,13 @@ Intel N45xx/N51xx/N55xx/N6xxx (EM)				|	Y		|	Y		|	N	|	Y		|2.0		|1.2	|	Y	|	Y		|	Y
 Intel 10xxG/10xxxU/10xxxH (EM)					|	Y		|	Y		|	N	|	Y		|2.0		|1.2	|	Y	|	Y		|	Y		|Ice Lake
 Intel 11xxG/11xxxU/11xxxH (EM)					|	Y		|	Y		|	Y	|	Y		|2.1 (7)		|1.4	|	Y	|	Y		|	Y		|Tiger Lake
 Intel 12xx(U/P/H)/13xx(U/P/H)/Nxxx (EM)					|	Y		|	Y		|	Y	|	Y		|2.1 (7)		|1.4	|	Y	|	Y		|	Y		|Alder/Raptor Lake
-Intel 14xx(U/P/H) (EM)					|	Y		|	Y		|	Y	|	Y		|2.1		|2.1	|	Y	|	Y		|	Y		|Meteor Lake
+Intel 1xx(U/H) (EM)					|	Y		|	Y		|	Y	|	Y		|2.1 (8)		|2.1	|	Y	|	Y		|	Y		|Meteor Lake
 Intel ARC Axxx					|	Y		|	Y		|	Y	|	Y		|2.0 (8)		|2.0	|	Y	|	Y		|	Y		|Alchemist
 AMD Ryzen 2xxxG-3xxxG/2x0G-3x0G (DT)			|	Y		|	Y		|	N	|	Y (4)	|2.0		|1.2	|	Y	|	Y		|	Y		|Raven Ridge/Picasso & Vega
 AMD Ryzen 4xxxG-5xxxG (DT)			|	Y		|	Y		|	N	|	Y	|2.0		|1.4	|	Y	|	Y		|	Y		|Renoir/Cezanne & Vega
 AMD Ryzen 2xxxU-3xxxU (EM)							|	Y		|	Y		|	N	|	Y (4)	|2.0		|1.2	|	Y	|	Y		|	Y		|Raven Ridge/Picasso & Vega
 AMD Ryzen 4xxxU-5xxxU (EM)							|	Y		|	Y		|	N	|	Y	|2.0		|1.4	|	Y	|	Y		|	Y		|Renoir/Cezanne & Vega
-AMD Ryzen 6xxxU (EM)									|	Y		|	Y		|	Y	|	Y		|2.1		|2.0	|	Y	|	Y		|	Y		|Rembrandt & RDNA2
+AMD Ryzen 6xxx(U/H) (EM)									|	Y		|	Y		|	Y	|	Y		|2.1 (8)		|2.0	|	Y	|	Y		|	Y		|Rembrandt & RDNA2
 AMD Ryzen 7xxx/8xxxG (DT)									|	Y		|	Y		|	Y	|	Y		|2.1 (11)		|2.0	|	Y	|	Y		|	Y		|Raphael & RDNA2/RDNA3
 AMD RX 4xx/5xx								|	Y		|	Y		|	N	|	Y		|2.0		|1.4	|	N	|	N		|	Y		|Polaris
 AMD RX Vega 56/64/VII						|	Y		|	Y		|	N	|	N		|2.0		|1.4	|	N	|	N		|	Y		|RX Vega
@@ -331,7 +331,7 @@ Nvidia RTX 40xx								|	Y		|	Y		|	Y	|	Y		|2.1		|1.4	|	Y	|	Y		|	Y		|Ada Lovelace
 (5) Requires >= 1050 3GB/1050 Ti  
 (6) Requires >= RX 6600  
 (7) Only provides HDMI 2.0 bandwidth/resolutions  
-(8) HDMI 2.1 (>= 32Gbps) available on specific SKUs w/PCON from DP  
+(8) HDMI 2.1 (>= 32Gbps) available on specific SKUs  
 (9) [Not GTX 1060/1070/1080](https://en.wikipedia.org/wiki/Nvidia_NVDEC)  
 (11) 4k@120 Hz 4:2:2 10-bit HDR - 32 Gbps (mobo limited)  
 (12) DP 2.1 - 40 Gbps with usb available on specific 13xxx mobo SKUs  
