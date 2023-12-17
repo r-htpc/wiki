@@ -301,7 +301,7 @@ Intel J4xxx/J5xxx/N40xx/N41xx/N50xx (EM)			|	Y		|	Y		|	N	|	Y		|2.0		|1.2	|	Y	|	Y
 Intel N45xx/N51xx/N55xx/N6xxx (EM)				|	Y		|	Y		|	N	|	Y		|2.0		|1.2	|	Y	|	Y		|	Y	|Jasper Lake/Tremont
 Intel 10xxG/10xxxU/10xxxH (EM)					|	Y		|	Y		|	N	|	Y		|2.0		|1.2	|	Y	|	Y		|	Y		|Ice Lake
 Intel 11xxG/11xxxU/11xxxH (EM)					|	Y		|	Y		|	Y	|	Y		|2.1 (7)		|1.4	|	Y	|	Y		|	Y		|Tiger Lake
-Intel 12xx(U/P/H)/13xx(U/P/H)/Nxxx (EM)					|	Y		|	Y		|	Y	|	Y		|2.1 (7)		|1.4	|	Y	|	Y		|	Y		|Alder/Raptor Lake
+Intel 12xx(U/P/H)/13xx(U/P/H)/Nxxx (EM)					|	Y		|	Y		|	Y	|	Y		|2.1 (7,8)		|1.4	|	Y	|	Y		|	Y		|Alder/Raptor Lake
 Intel 1xx(U/H) (EM)					|	Y		|	Y		|	Y	|	Y		|2.1 (8)		|2.1	|	Y	|	Y		|	Y		|Meteor Lake
 Intel ARC Axxx					|	Y		|	Y		|	Y	|	Y		|2.0 (8)		|2.0	|	Y	|	Y		|	Y		|Alchemist
 AMD Ryzen 2xxxG-3xxxG/2x0G-3x0G (DT)			|	Y		|	Y		|	N	|	Y (4)	|2.0		|1.2	|	Y	|	Y		|	Y		|Raven Ridge/Picasso & Vega
