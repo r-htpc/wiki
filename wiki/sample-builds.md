@@ -378,7 +378,7 @@ TOTAL||$580||
 
 <!-- Sub-Section -->
 
-### $825 UHD MakeMKV Ripping/Handbrake Transcoding Machine (20.2L)
+### UHD MakeMKV Ripping/Handbrake Transcoding Machine (20.2L)
 
 A build for ripping DVD/FHD Blu Ray and UHD Blu Ray discs. As such, it has space for an internal 5.25 drive and 2-3 HDDs to make this into a NAS/
 media server as well.  
@@ -396,7 +396,7 @@ If you can't afford to spend this much, buy a 2nd-hand pre-built and make some u
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE	|Fractal Design Core 500/1000				|$75	|	pcpartpicker	|	ALT: Silverstone ML03
-CPU		|Intel i5-12600K CPU, 125W				|$250	|	[pcpartpicker](https://pcpartpicker.com/product/BB4Ycf/intel-core-i5-12600k-37-ghz-6-core-processor-bx8071512600k)	|	ALT: i5-13400 ($200)
+CPU		|Intel i5-12600K CPU, 125W				|$200	|	[pcpartpicker](https://pcpartpicker.com/product/BB4Ycf/intel-core-i5-12600k-37-ghz-6-core-processor-bx8071512600k)	|	ALT: i5-13400 ($200)
 MOBO	|ASRock Z690M-ITX/ax DDR4	|$150	|	[pcpartpicker](https://pcpartpicker.com/product/2PYmP6/asrock-z690m-itxax-mini-itx-lga1700-motherboard-z690m-itxax)	|	ALT: ASRock B660M-ITX/ac ($120)
 MEM		|Ripjaws V 32GB 2x16GB DDR4-3200			|$65	|	[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&S=3200,8000&Z=32768002&sort=price&page=1)	|	ALT: Ripjaws V 32GB 2x8GB DDR4-3200 ($40)
 STORAGE	|LG WH16NS60 UHD Blu-Ray Drive			|$110	|	pcpartpicker	|	ALT: LG WH16NS40 UHD Friendly ($65)
@@ -404,7 +404,7 @@ STORAGE	|SK Hynix Gold P31 1TB M.2 SSD			|$65	|	[pcpartpicker](https://pcpartpic
 COOL	|Thermalright Silver Soul 135 CPU Cooler				|$40	|	[pcpartpicker](https://pcpartpicker.com/product/c3pzK8/thermalright-silver-soul-135-82-cfm-cpu-cooler-ss135)	|	ALT: Thermalright AXP120-X67 ($40)
 PSU		|EVGA GA 650W Fully Modular ATX PSU		|$60	|	pcpartpicker	|	ALT: Thermaltake Smart BM2 Semi 550W ($60)
 SOFTWARE	|MakeMKV Beta/Full		|FREE/$60	|	[makemkv](https://www.makemkv.com/buy/)	|Free with beta license key posted each month
-TOTAL	|										|$815	|					|
+TOTAL	|										|$765	|					|
 
 <!-- Section -->
 
