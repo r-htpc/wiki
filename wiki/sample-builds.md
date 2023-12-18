@@ -378,7 +378,7 @@ TOTAL||$580||
 
 <!-- Sub-Section -->
 
-### UHD MakeMKV Ripping/Handbrake Transcoding Machine (20.2L)
+### UHD MakeMKV Ripping/Handbrake Transcoding Machine (12-20L)
 
 A build for ripping DVD/FHD Blu Ray and UHD Blu Ray discs. As such, it has space for an internal 5.25 drive and 2-3 HDDs to make this into a NAS/
 media server as well.  
