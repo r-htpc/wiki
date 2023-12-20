@@ -599,7 +599,7 @@ Simple, Tonemapping
 
   Netflix: Check edge://gpu in Microsoft Edge for: HDCP 2.2 support, HEVC installed/activable, and HEVC - HDR10 support set true. Check [Netflix HDR10 test pattern](https://www.netflix.com/title/80018499) looks correct.
 
-  Youtube: Check edge://flags in Microsoft Edge for: Media Foundation for Clear set to Enabled. Check [HDR content](https://www.youtube.com/watch?v=njX2bu-_Vw4) looks correct.
+  Youtube: <!-- Check edge://flags in Microsoft Edge for: Media Foundation for Clear set to Enabled. --> Check [HDR content](https://www.youtube.com/watch?v=njX2bu-_Vw4) looks correct.
 
 ## ANDROID
 
