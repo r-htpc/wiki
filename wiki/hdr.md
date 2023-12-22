@@ -119,7 +119,7 @@ Simple, HDR passthrough, tonemapping.
 
    -- Settings -> Player  
 
-    ---- Use HDR display capabilities: ON  
+    ---- Use HDR display capabilities<!--/v21: Adjust display HDR mode-->: ON  
 
 * *Test*  
 
