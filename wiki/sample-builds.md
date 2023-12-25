@@ -423,7 +423,7 @@ Most people will use it with Plex Media Server to serve media up to clients, but
 If you're using it with Plex, it will [Direct Play](https://support.plex.tv/articles/200430303-streaming-overview/) content to multiple clients just fine (even 4k). If you need to transcode content either internally or remotely, it 
 will [transcode](https://support.plex.tv/articles/200430303-streaming-overview/) 2x 1080p streams or 4x 720p streams using software/cpu transcoding in the free version of Plex Media Server.  
 
-If you need to transcode more streams than this (either because your internal clients don't support your media's codecs and/or because you have a lot of remote users), pay for a [Plex Pass](https://www.plex.tv/plex-pass/) and it will then [hw transcode](https://support.plex.tv/articles/115002178853-using-hardware-accelerated-streaming/) more 1080p and 4k streams.  
+If you need to transcode more streams than this (either because your internal clients don't support your media's codecs and/or because you have a lot of remote users), pay for a [Plex Pass](https://www.plex.tv/plex-pass/) (or use Jellyfin) and it will then [hw transcode](https://support.plex.tv/articles/115002178853-using-hardware-accelerated-streaming/) more 1080p and 4k streams.  
 
 It's preferred to use an SSD for your OS drive and for storing Plex Metadata. Purchase one separately as per the parts list below or get one included.
 
@@ -457,7 +457,7 @@ Most people will use it with Plex Media Server to serve media up to clients, but
 If you're using it with Plex, it will [Direct Play](https://support.plex.tv/articles/200430303-streaming-overview/) content to multiple clients just fine. If you need to transcode content either internally or remotely, it 
 will [transcode](https://support.plex.tv/articles/200430303-streaming-overview/) 2x 1080p streams or 5x 720p streams using software/cpu transcoding in the free version of Plex Media Server.  
 
-If you need to transcode more streams than this (either because your internal clients don't support your media's codecs and/or because you have a lot of remote users), pay for a Plex Pass and it will then [hw transcode](https://support.plex.tv/articles/115002178853-using-hardware-accelerated-streaming/) 6x 4k streams or 20x 1080p streams using the iGPU.  
+If you need to transcode more streams than this (either because your internal clients don't support your media's codecs and/or because you have a lot of remote users), pay for a Plex Pass (or use Jellyfin) and it will then [hw transcode](https://support.plex.tv/articles/115002178853-using-hardware-accelerated-streaming/) 6x 4k streams or 20x 1080p streams using the iGPU.  
 
 Internally this server will support 1x M.2 NVME SSD drive, 1x 2.5" SSD/HDD and 1x 3.5" HDD.  
 If you want to fit more than 1x 3.5" HDDs internally, look at these versions:  
