@@ -1179,7 +1179,7 @@ Some options/considerations are:
 
 1. Install Linux/Windows. Install Kodi, run Kodi on boot (Windows: %appdata%\Microsoft\Windows\Start Menu\Programs\Startup, [Linux](https://kodi.wiki/view/HOW-TO:Autostart_Kodi_for_Linux)), configure Kodi  
 2. Install [Libreelec](https://libreelec.tv/downloads/) on compatible hardware, configure Kodi  
-3. A simple remote. [FM4](https://www.amazon.com/Seleven-Universal-Control-Wireless-Android/dp/B01FVUGPE8), WeChip [G20S](https://www.amazon.com/WeChip-G20-Control-Wireless-Sensing/dp/B07P322VRP)/[W3](https://www.amazon.com/WeChip-W3-Wireless-Control-Projector/dp/B09XMF5YN1), [Argon IR](https://www.amazon.com/Argon-Raspberry-Infrared-Batteries-Included/dp/B091F3XSF6) w/FLIRC  
+3. A simple remote. [FM4](https://www.amazon.com/Seleven-Universal-Control-Wireless-Android/dp/B01FVUGPE8), WeChip [G20S](https://www.amazon.com/WeChip-G20-Control-Wireless-Sensing/dp/B07P322VRP)/[W3](https://www.amazon.com/WeChip-W3-Wireless-Control-Projector/dp/B09XMF5YN1); [Argon IR](https://www.amazon.com/Argon-Raspberry-Infrared-Batteries-Included/dp/B091F3XSF6) w/FLIRC or rPI 4+Argon ONE case; FLIRC w/any IR TV/MCE remote.  
 
 Configuring Kodi can involve things like: 
  - Starting in Full Screen (Settings->System->Display->Expert->Display mode)
