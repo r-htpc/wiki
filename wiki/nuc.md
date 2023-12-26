@@ -11,7 +11,7 @@
 
 **4K HDR: Beelink SEI 11/12, Intel NUC [11/12 i3-i5](https://www.newegg.com/p/pl?N=100008345%20601398021%20601398031%20601407140%20601398049%20601398018%20601398044%20601398029%20601398043%20601398019&SrchInDesc=-hunsn%2C-Aittact&Order=1), Minisforum UM560XT, On the cheap: Used Intel NUC8i3BEH**
 
-**1080p: Beelink Mini S12 N95, Intel NUC11TAK, One the cheap: Intel NUC7PJYH/NUC7CJYH/NUC6CAYH**
+**1080p: Beelink Mini S12 N95, Intel NUC11TAK, On the cheap: Intel NUC7PJYH/NUC7CJYH/NUC6CAYH**
 
 **Plex Server Transcoding: Less: Beelink Mini S12 Pro/Intel NU8i5, More: Beelink SEI11/12. On the cheap: Used [i3-7100T Micro/Tiny](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%28hp%2Cdell%2Clenovo%2Cintel%29+%28i3-7100t%2Ci5-7400t%2Ci5-7500t%2Ci3-7100u%29&_sacat=179&LH_TitleDesc=0&_fsrp=1&_odkw=%28hp%2Cdell%2Clenovo%2Cintel%29+%28i3-7100t%2Ci5-7400t%2Ci5-7500ti3-7100u%2C%29&_osacat=179&LH_BIN=1&_sop=15&LH_PrefLoc=2&_udhi=150)**
 
