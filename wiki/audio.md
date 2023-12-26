@@ -720,9 +720,9 @@ Dolby Atmos (DD+/Lossy): [5.1.2 trailer](https://download.dolby.com/us/en/test-t
 
 [DTS 5.1 Channel Call-out](https://drive.google.com/file/d/16qFfb6GJktoPio1hho9_feIXPMaXfcx9/view?usp=drive_link)  
 
-[DTS-HD HR 5.1](https://www.demolandia.net/downloads.html?id=23989435)  
+[DTS-HD HR 5.1](https://www.demolandia.net/downloads.html?id=23989435) / [DTS-HD HR 7.1 Channel Call-out](https://drive.google.com/file/d/1UDSRMHkoVx3m4mS7ntYli2RdyJ_cUC3w/view?usp=sharing)  
 
-[DTS-HD MA 5.1](https://www.demolandia.net/downloads.html?id=30191483) / [DTS-HD MA 5.1 Channel Call-out](https://mega.nz/#!EUh13LrL!0CR0LMQgpt-1l5EW2lplqYuZ5TTi5jo09MeFk8dG5xg) / [DTS-HD MA 7.1](https://www.demolandia.net/downloads.html?id=4397041) / [DTS-HD MA 7.1 Channel Call-out](https://mega.nz/#!oMwQmaQK!YFk6yiWSC6j1yuMyaCIJaa_7pjifas-PTT0v0T-yk4M)  
+[DTS-HD MA 5.1](https://www.demolandia.net/downloads.html?id=30191483) / [DTS-HD MA 5.1 Channel Call-out](https://drive.google.com/file/d/1WMteezMh77_xk77ZfE3-8GTJBlGolv47/view?usp=sharing) / [DTS-HD MA 7.1](https://www.demolandia.net/downloads.html?id=4397041) / [DTS-HD MA 7.1 Channel Call-out](https://drive.google.com/file/d/1LK1C_CoNgufMcIPCCSH5PGusdxBFUIuy/view?usp=sharing)  
 
 [DTS:X 11.1](https://www.demolandia.net/downloads.html?id=87980801)  
 
