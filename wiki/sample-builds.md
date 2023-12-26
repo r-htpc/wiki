@@ -436,7 +436,7 @@ Will handle 1080p video front-end duties fine.
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE		|HP/Dell/Lenovo	|	$70	|	[Ebay](https://www.ebay.com/sch/i.html?_fsrp=1&rt=nc&_from=R40&LH_TitleDesc=0&LH_PrefLoc=2&_nkw=\(hp%2Cdell%2Clenovo\)+\(i5-7400t%2Ci5-7500t\)&_sacat=179&LH_BIN=1&_sop=15&_udhi=150&LH_ItemCondition=2000%7C2020%7C2010%7C3000%7C2030)	|	Prodesk G3, Optiplex 3050/5050/7050, Thinkcentre M710q/M910q
-CPU/GPU		|Intel i5-7500T	|	Included|	NA|		ALT: [i5-8500T](https://www.ebay.com/sch/i.html?_fsrp=1&rt=nc&_from=R40&LH_TitleDesc=0&LH_PrefLoc=2&_nkw=\(hp%2Cdell%2Clenovo\)+\(i5-8500t%2Ci5-8600t\)&_sacat=179&LH_BIN=1&_sop=15&_udhi=150&LH_ItemCondition=3000) ($110)
+CPU/GPU		|Intel i5-7500T	|	Included|	NA|		ALT: [i5-8500T](https://www.ebay.com/sch/i.html?_fsrp=1&rt=nc&_from=R40&LH_TitleDesc=0&LH_PrefLoc=2&_nkw=\(hp%2Cdell%2Clenovo\)+\(i5-8500t%2Ci5-8600t\)&_sacat=179&LH_BIN=1&_sop=15&_udhi=150&LH_ItemCondition=3000) ($+30)
 MEM			|8 GB+ DDR4|	Included|	NA|		NA
 STORAGE		|256GB M.2 SSD (OS/APPS)		|	$25|	[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=240000000000,22000000000000&t=0&sort=price&f=122030,122042,122060,122080)|		OPTIONAL, If not included in ebay build.
 STORAGE		|WD 8-16TB USB HDD (MEDIA)		|$160-280		|	[Best Buy](https://www.bestbuy.com/site/wd-easystore-8tb-external-usb-3-0-hard-drive-black/6425302.p?skuId=6425302&utm_source=feed)		| OPTIONAL, if not included in ebay build or don't have. ALT: [2.5" SATA HDD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=900000000000,22000000000000&sort=price&f=3&t=5000,5200,5400,5640,5700,5760,5900,5940,7200&page=1)
