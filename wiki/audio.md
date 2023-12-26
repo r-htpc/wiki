@@ -712,7 +712,7 @@ HTBuyingGuides' [Speaker recommendations](https://www.reddit.com/r/HTBuyingGuide
 
 [Dolby Digital Plus 5.1](https://www.demolandia.net/downloads.html?id=29067817) / [7.1 Channel Callout](https://www.demolandia.net/downloads.html?id=27781967)  
 
-[Dolby TrueHD 5.1](https://www.demolandia.net/downloads.html?id=26284842) / [Dolby TrueHD 7.1](https://www.demolandia.net/downloads.html?id=99509504) / [Dolby TrueHD 7.1 Channel Call-out](https://mega.nz/#!xEBg3QID!Mi45xpLeDHhSFbM0owV_eOYVp8mFtCvxyHqaVze1CKI)  
+[Dolby TrueHD 5.1](https://www.demolandia.net/downloads.html?id=26284842) / [Dolby TrueHD 7.1](https://www.demolandia.net/downloads.html?id=99509504) / [Dolby TrueHD 7.1 Channel Call-out](https://drive.google.com/file/d/1RwJxv5ifkE8VnKpQGxbzKmWoUJwxzHE_/view?usp=sharing)  
 
 Dolby Atmos (TrueHD/Lossless): [7.1 trailer](https://www.demolandia.net/downloads.html?id=47981918)  / [5.1.2 test tones](https://drive.google.com/file/d/1xChUW5pjmDJeUEpZQDzJCmPCIY3e0-zj/view?usp=sharing) / [7.1.2 test tones](https://drive.google.com/file/d/1hXu8JrXOyoqhJGQsfLaX0R8-MhWqt9k-/view?usp=sharing)  
 
