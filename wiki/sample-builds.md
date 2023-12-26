@@ -129,7 +129,7 @@ $175-$550: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB
 
 ### Specialized: Media Server w/Transcoding
 
-- Light: Beelink S12/S12 Pro, [Dell Optiplex xx60-xx90](https://www.ebay.com/sch/i.html?_fsrp=1&_from=R40&_nkw=%28optiplex%29+%283060%2C3070%2C3080%2C5060%2C5070%2C5080%2C7060%2C7070%2C7080%29+%28i3-8100%2Ci3-9100%2Ci3-10100%2Ci5-7400%2Ci5-7500%2C7600%2Ci5-8400%2C8500%2Ci5-8600%2Ci5-9400%2C9500%2C9600%29&_sacat=0&LH_TitleDesc=0&_sop=15&_oaa=1&_dcat=179&rt=nc&LH_BIN=1)/[Lenovo M710/720](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=lenovo+%28m710%2Cm720%29+%28i5-7400%2Ci5-7500%2Ci5-7600%2Ci3-8100%2Ci5-8400%2Ci5-8500%2Ci5-8600%29&_sacat=179&LH_TitleDesc=0&_fsrp=1&_odkw=lenovo+%28m710%2Cm720%29+%28i3-7100%2Ci5-7400%2Ci5-7500%2Ci5-7600%2Ci3-8100%2Ci5-8400%2Ci5-8500%2Ci5-8600%29&_osacat=179&LH_BIN=1&_sop=15)
+- Light: Beelink S12/S12 Pro, [NAS/Media Server Builds](/wiki/sample-builds#nasmedia-server-builds)
 - Medium: Beelink SEI 11/12, [Intel NUC 11/12/13 i5](https://www.newegg.com/p/pl?N=100008345%2050001157%20601398044%20601412542%20601398019%20601412544%20601398041%20601412545%20601398018&Order=1)
 
 <!-- Sub-Section -->
