@@ -174,8 +174,9 @@ Mediasonic	|	Proraid - HFR2/HFR7     	|	4	|	$170/$180	|	USB30/USB31G2, HW RAID 0
 Mediasonic	|	Probox - H82		|	8	|	$270-$350	|	USB30/USB31G2, Single
 **Terramaster**       |       **D4-300**                     |      4       |       $170 | USB31G1, Single
 **Sabrent**       |       **DS-SC4B/SC5B**              |      4/5       |       $230-280 | USB31G2, Single
-QNAP		|	TR-002-US		|	2	|	$160	| HW RAID 0/1/10/5, JBOD, Single
-QNAP		|	TR-004-US		|	4	|	$200	| HW RAID 0/1/10/5, JBOD, Single
+**QNAP**		|	**[TL-D400S](https://www.qnapworks.com/TL-D400S.asp)**		|	4	|	$300	| PCIe SATA, JBOD, Single
+QNAP		|	TR-002-US		|	2	|	$160	| USB32G1, HW RAID 0/1/10/5, JBOD, Single
+QNAP		|	TR-004-US		|	4	|	$200	| USB32G1, HW RAID 0/1/10/5, JBOD, Single
 PC Pitstop          |       [Various](https://www.pc-pitstop.com/sas-sata-enclosures-no-expander)   |    4-24    |  $270-1400   |  w/LSI 9207-4i4e Host PC PCIe card
 Various              |       Various                     |       4      |       $110 | [PCIe SATA card](https://www.amazon.com/10Gtek-Profile-Bracket-Controller-Expansion/dp/B09Y1NRHX3)+[HDD Cage](https://www.amazon.com/Rosewill-5-25-Inch-3-5-Inch-Hot-swap-SATAIII/dp/B00DGZ42SM)+[Molex PSU](https://www.quietpcusa.com/Power-Supply/Power-Adapters-Converters-ACDC/Power-Adapter-110VAC-to-12VDC-w-4-pin-Molex-Connector-5-Amp)
 
