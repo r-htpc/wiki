@@ -281,7 +281,7 @@ Below are the minimum requirements for each scenario and a recommendation. The r
 
 - Plex Transcoding: [Elpamsoft GPU transcode tables](https://www.elpamsoft.com/?p=Plex-Hardware-Transcoding) (REC: Quadro P600/GTX 1050 Ti)  
 
-- Best low-profile card (4K Netflix+Youtube+Local HDR): AMD RX 6400 / Nvidia GTX 1650 (REC: Used: GTX 1050 Ti, New: RX 6400)  
+- Best low-profile card (4K Netflix+Youtube+Local HDR/Gaming): AMD RX 6400, Nvidia GTX 1050 Ti/1650/RTX 4060 LP (REC: Used: GTX 1050 Ti LP, New: Gaming: RTX 4060 LP, Media: RX 6400)  
 
 - madVR upscaling/tonemapping: >= GTX 1060 6GB / AMD RX 5600 (Rec: GTX 1660)  
 
