@@ -142,9 +142,10 @@ Synology		|	DS220j				|	2	|	$190	|	Some 1080p/None	|	ARMv8 (Realtek 1296) 1.4Ghz
 
 **JUST STORAGE - 4+ drives**  
 
+<!-- NOTE: replace F4-210 with more expensive F4-212 eventually when it comes in stock and 210 goes out of stock -->
+
 BRAND		|	MODEL				|	DRIVES	|COST	|	TRANSCODING		|	CPU								|	PASSMARK	|	PM/$|	RAID MODES	|	NOTES
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--
-<!-- NOTE: replace F4-210 with more expensive F4-212 eventually when it comes in stock and 210 goes out of stock -->
 **Terramaster**		|	**F4-210**				|	4	|	$250	|	Some 1080p/None	|	ARMv8 (Realtek 1296) 1.4Ghz		|		NA		|	NA 	|	RAID 0/1/10/5/6, JBOD, Single		|ext4/btrfs, 2GB RAM, 1 Gb/s
 Asustor		|	1104T				|	4	|	$270	|	Some 1080p/None	|	ARMv8 (Realtek 1296) 1.4Ghz		|		NA		|	NA 	|	RAID 0/1/10/5/6, JBOD, Single		|ext4, 1GB RAM, 2.5 Gb/s
 Terramaster	|	F5-221				|	5	|	$380	|	Some/4k 8-bit (3)	|	x64 (Celeron J3355) 2.0-2.5Ghz	|		1186	|	3.12	||
