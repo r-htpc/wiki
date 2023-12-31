@@ -69,12 +69,8 @@ If you just need storage..
 - 4 drives: Terramaster F4-210 - $250  
 
 If you need storage and want to run backend services (like plex)..  
-- 2 drives: Terramaster F2-423 - $380  
-- 4 drives: Qnap TS-364-4G - $450
-
-If you want the best plex transcoding ability..  
-- 2 drives: Terramaster F2-423 - $380  
-- 4 drives: Terramaster F4-423 - $500  
+- 2 drives: Terramaster F2-424 - $380  
+- 4 drives: Terramaster F4-424 - $500  
 
 **DiY**  
 
@@ -111,20 +107,21 @@ If you can't afford any of these and want to do it more cheaply, you can use/buy
 
 BRAND		|	MODEL				|	DRIVES	|COST	|	TRANSCODING		|	CPU								|	PASSMARK	|	PM/$|	RAID MODES	| NOTES
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--
-**Terramaster**	|	**F2-423**				|	2	|	$380	|	4k (1a)	|	x64 (Celeron N5105) 2.0 Ghz	|		4094	|	10.77	|RAID 0/1, JBOD, Single|4GB RAM, 2.5 Gb/s
+**Terramaster**	|	**F2-424**				|	2	|	$380	|	4k (1a)	|	x64 (Celeron N95) 3.4 Ghz	|		5419	|	14.26	|RAID 0/1, JBOD, Single,8GB RAM, 2x2.5 Gb/s
+Terramaster	|	F2-423				|	2	|	$380	|	4k (1a)	|	x64 (Celeron N5105) 2.0 Ghz	|		4094	|	10.77	|RAID 0/1, JBOD, Single|4GB RAM, 2.5 Gb/s
 **Synology**	|	**DS224+**				|	2	|	$300	|	Some/4k (1b)			|	x64 (Celeron J4125) 2.0 Ghz		|		3035	|	10.1	|RAID 0/1, JBOD, SHR, Single|2GB RAM, 1Gb/s x2
 QNAP	|	TS-264				|	2	|	$425	|	4k (1a)			|	x64 (Celeron N5095) 2.0GHz		|		4125	|	9.7	|RAID 0/1, JBOD, Single|8GB RAM, 2.5Gb/s, ext4
 ASUSTOR		|	AS-6702T			|	2	|	$460	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094|	8.9	|RAID 0/1, JBOD, Single|4GB RAM, 2.5Gb/s, ext4/btrfs
+Terramaster	|	F2-223				|	2	|	$260	|	Some/4k (1b)	|	x64 (Celeron N4505)	|		2241	|	8.62	|RAID 0/1, JBOD, Single|4GB RAM, 2x2.5 Gb/s
 ASUSTOR		|	AS-6602T			|	2	|	$400	|	Some/4k (1b)			|	x64 (Celeron J4125) 2.0 GHz		|		3035	|	7.58	|RAID 0/1, JBOD, Single|ext4/btrfs
-Qnap		|	TS-253D				|	2	|	$345	|	Some/4k (1b)			|	x64 (Celeron J4125) 2.0 GHz		|		3035	|	8.79	||DISCONTINUED
-Synology	|	DS720+				|	2	|	$400	|	Some/4k (1b)			|	x64 (Celeron J4125) 2.0 Ghz		|		3035	|	7.58	||DISCONTINUED
 
 **STORAGE+SERVICES - 3+ drives**  
 
 BRAND		|	MODEL				|	DRIVES	|COST	|	TRANSCODING		|	CPU								|	PASSMARK	|	PM/$|	RAID MODES	| NOTES
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--
+**Terramaster**	|	**F4-424**				|	4	|	$500	|	4k (1a)	|	x64 (Celeron N95) 3.4 Ghz	|		5419	|	10.83	|RAID 0/1/5/6/10, JBOD, Single|ext4/btrfs, 8GB RAM, 2x2.5 Gb/s
 **QNAP**		|	**TS-364-4G**				|	3	|	$450	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094	|	 9.09	|RAID 0/1/5, JBOD, Single|ext4, 4GB RAM, 2.5 Gb/s
-**Terramaster**		|	**[F4-423](https://www.terra-master.com/us/f4-4607.html)**				|	4	|	$500	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094	|	 8.18	|RAID 0/1/5/6/10, JBOD, Single|ext4/btrfs, 4GB RAM , 2.5 Gb/s
+Terramaster		|	[F4-423](https://www.terra-master.com/us/f4-4607.html)				|	4	|	$500	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094	|	 8.18	|RAID 0/1/5/6/10, JBOD, Single|ext4/btrfs, 4GB RAM , 2.5 Gb/s
 QNAP		|	TS-464-4G				|	4	|	$550	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094	|	 7.44	|RAID 0/1/5/6/10, JBOD, Single|ext4, 4GB RAM, 2.5 Gb/s
 ASUSTOR	|	AS-5304T			|	4	|	$430	|	Some/4k (1b)			|	x64 (Celeron J4105) 1.5 GHz		|		2977	|	6.92	|RAID 0/1/5/6/10, JBOD, Single|ext4/btrfs, 4GB RAM
 Synology	|	DS423+				|	4	|	$500	|	Some/4k (1b)			|	x64 (Celeron J4125) 2.0 Ghz		|		3035	|	6.07	||2GB RAM
@@ -147,6 +144,7 @@ Synology		|	DS220j				|	2	|	$190	|	Some 1080p/None	|	ARMv8 (Realtek 1296) 1.4Ghz
 
 BRAND		|	MODEL				|	DRIVES	|COST	|	TRANSCODING		|	CPU								|	PASSMARK	|	PM/$|	RAID MODES	|	NOTES
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--
+<!-- NOTE: replace F4-210 with more expensive F4-212 eventually when it comes in stock and 210 goes out of stock -->
 **Terramaster**		|	**F4-210**				|	4	|	$250	|	Some 1080p/None	|	ARMv8 (Realtek 1296) 1.4Ghz		|		NA		|	NA 	|	RAID 0/1/10/5/6, JBOD, Single		|ext4/btrfs, 2GB RAM, 1 Gb/s
 Asustor		|	1104T				|	4	|	$270	|	Some 1080p/None	|	ARMv8 (Realtek 1296) 1.4Ghz		|		NA		|	NA 	|	RAID 0/1/10/5/6, JBOD, Single		|ext4, 1GB RAM, 2.5 Gb/s
 Terramaster	|	F5-221				|	5	|	$380	|	Some/4k 8-bit (3)	|	x64 (Celeron J3355) 2.0-2.5Ghz	|		1186	|	3.12	||
