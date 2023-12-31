@@ -90,7 +90,7 @@ $175-$550: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB
   - [Odroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-4gbyte-ram-2/) (S922X)  
 - $175: Med	(<= Wii/PS2)
   - [HP EliteDesk 705 G5](https://www.ebay.com/sch/179/i.html?_from=R40&_nkw=hp+705+g5+%283200g%2C3400g%29&LH_TitleDesc=1&_sop=15&LH_PrefLoc=2&rt=nc&LH_BIN=1) (AMD 3400G)  
-- $290: Med+ (<= Switch)
+- $300: Med+ (<= Switch)
   - [Beelink SER5 Max](https://www.amazon.com/s?k=beelink+5800h&crid=3AUBU1SOXW7YK&sprefix=beelink+5800h%2Caps%2C163&ref=nb_sb_noss_1) (AMD 5800H)  
 - $400: High (<= PS3)
   - [Beelink SER6](https://www.amazon.com/s?k=ser6&rh=n%3A13896591011&ref=nb_sb_noss)/[Minisforum EM680](https://store.minisforum.com/collections/amd-%C2%AE-ryzen-%C2%AE/products/minisforum--em680?variant=43887542894837)  
