@@ -716,7 +716,7 @@ If you DO need to serve media to other devices (local or remote), [Plex Media Se
 
 **Launchers:** 
 
-For a launcher interface to open multiple apps, look at [Flex Launcher](https://github.com/complexlogic/flex-launcher) (Windows/Linux), [Steam Big Picture mode](https://store.steampowered.com/bigpicture) (Windows/Linux/Mac), [Omnimo Rainmeter](https://omnimo.info/), [Windows 10 start menu in full screen mode](https://www.reddit.com/r/htpc/comments/92ek4d/homescreen_for_htpc_and_ideas_for_what_i_can_put/e356duu/), [Windows tablet mode](https://www.tenforums.com/tutorials/3755-turn-off-tablet-mode-windows-10-a.html), or [customize Kodi](https://kodi.wiki/view/Archive:HOW-TO:Make_Windows_boot_directly_to_Kodi_(as_a_shell)) and use [add-ons/favorites](https://kodi.wiki/view/Favourites).  
+For a launcher interface to open multiple apps, look at [Flex Launcher](https://github.com/complexlogic/flex-launcher) (Windows/Linux), [Steam Big Picture mode](https://store.steampowered.com/bigpicture) (Windows/Linux/Mac), [Omnimo for Rainmeter](https://omnimo.info/) (Windows), [Plasma Bigscreen](https://plasma-bigscreen.org/get/) (Linux), [Windows 10 start menu in full screen mode](https://www.reddit.com/r/htpc/comments/92ek4d/homescreen_for_htpc_and_ideas_for_what_i_can_put/e356duu/), [Windows tablet mode](https://www.tenforums.com/tutorials/3755-turn-off-tablet-mode-windows-10-a.html), or [customize Kodi](https://kodi.wiki/view/Archive:HOW-TO:Make_Windows_boot_directly_to_Kodi_(as_a_shell)) and use [add-ons/favorites](https://kodi.wiki/view/Favourites).  
 
 **Organization:** 
 
