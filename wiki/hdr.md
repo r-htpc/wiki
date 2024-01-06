@@ -66,7 +66,7 @@ Simple, HDR passthrough, tonemapping.
 
 * *Requirements:*  
   * Common settings above  
-  * Install Kodi: >= 20 [download](https://mirrors.kodi.tv/releases/windows/win64/)  
+  * Install Kodi: >= 20 ([download](https://mirrors.kodi.tv/releases/windows/win64/))  
 * *Windows 10 settings:*  
   * Settings app -> System -> Display -> HDR and WCG/Use HDR/Play HDR.. -> Off  
 * *Kodi settings:*  
@@ -83,7 +83,7 @@ Simple, HDR passthrough.
 
 * *Requirements:*  
   * Common settings above  
-  * Install VLC: >= 3.0.8 [download](https://www.videolan.org/vlc/)  
+  * Install VLC: >= 3.0.8: ([download](https://www.videolan.org/vlc/))
 * *Windows settings:*  
   * Activate HDR
     * Start -> Settings -> System -> Display
@@ -93,8 +93,11 @@ Simple, HDR passthrough.
 * *VLC settings:*  
   * *VLC app*  
     * Tools -> Preferences
-      * Video -> Output -> Automatic or OpenGL for Windows
-      * Input / Codecs -> Hardware-accelerated decoding: NOT Disable  
+      * Video
+        * Output: OpenGL video output for Windows
+      * Input / Codecs
+        * Hardware-accelerated decoding: Direct3D11 (win 8+) or DXVA (win 7)
+  * *Restart VLC app*  
 * *Test*  
   * *VLC app*  
     * Play a [test HDR video](/wiki/hdr#hdr-tests). [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper PC/TV hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
@@ -104,7 +107,7 @@ Simple, HDR passthrough.
 Simple, HDR passthrough, tonemapping and upscaling.  
 
 * *Requirements:*  
-  * Install MPC-BE: [download](https://github.com/Aleksoid1978/MPC-BE/releases)  
+  * Install MPC-BE: ([download](https://github.com/Aleksoid1978/MPC-BE/releases))  
     * Install options: Default Installation + "MPC Video Renderer" option checked  
 * *Windows 10 settings:*  
   * Settings app -> System -> Display -> Use HDR/HDR and WCG/Play HDR.. -> Off  
@@ -138,9 +141,9 @@ Simple, HDR passthrough, tonemapping and upscaling.
 Advanced, more powerful tonemapping, upscaling and processing than using MPC Video Renderer, but more complicated.  
 
 * *Requirements:*  
-  * MPC-HC: Install K-Lite Codec Pack FULL: [download](https://www.codecguide.com/download_k-lite_codec_pack_full.htm)  
+  * MPC-HC: Install K-Lite Codec Pack FULL: ([download](https://www.codecguide.com/download_k-lite_codec_pack_full.htm))  
     * Install options: Normal, MPC-HC, Essentials  
-  * MPC-BE: Install MPC-BE: [download](https://github.com/Aleksoid1978/MPC-BE/releases), then Install K-Lite Codec Pack FULL: [download](https://www.codecguide.com/download_k-lite_codec_pack_full.htm)  
+  * MPC-BE: Install MPC-BE: ([download](https://github.com/Aleksoid1978/MPC-BE/releases)), then Install K-Lite Codec Pack FULL: ([download](https://www.codecguide.com/download_k-lite_codec_pack_full.htm))  
     * K-lite install options: No, Normal, MPC-BE, Essentials  
 * *Windows 10 settings:*  
   * Settings app -> System -> Display -> Use HDR/HDR and WCG/Play HDR.. -> Off  
@@ -192,12 +195,12 @@ Advanced, current way to integrate madVR into Kodi for passthrough, tonemapping,
 
 * *Requirements:*  
 
-  Install Kodi: >= 17.6 [download](https://kodi.tv/download)  
+  Install Kodi: >= 17.6: ([download](https://kodi.tv/download))  
 
-  Install K-Lite Codec Pack FULL: [download](https://www.codecguide.com/download_k-lite_codec_pack_full.htm)  
+  Install K-Lite Codec Pack FULL: ([download](https://www.codecguide.com/download_k-lite_codec_pack_full.htm))  
    -- Install options: Normal, MPC-HC, Essentials  
 
-  (OPTIONAL) Install XySubFilter (64-bit) (subtitle renderer): [download](http://forum.doom9.org/showthread.php?t=168282)  
+  (OPTIONAL) Install XySubFilter (64-bit) (subtitle renderer): ([download](http://forum.doom9.org/showthread.php?t=168282))  
 
 * *Windows 10 settings:*  
 
@@ -362,9 +365,9 @@ Advanced, old way to integrate madVR into Kodi for passthrough, tonemapping, and
 
   Common settings above  
 
-  Install K-Lite Codec Pack FULL: [download](https://www.codecguide.com/download_k-lite_codec_pack_full.htm)  
+  Install K-Lite Codec Pack FULL: ([download](https://www.codecguide.com/download_k-lite_codec_pack_full.htm))  
   -- Install options: Normal, MPC-HC, Essentials  
-  Install DSPlayer Kodi: >= 17.6 [download](https://forum.kodi.tv/showthread.php?pid=1972183#pid1972183)  
+  Install DSPlayer Kodi: >= 17.6: ([download](https://forum.kodi.tv/showthread.php?pid=1972183#pid1972183))  
 
 * *Windows 10 settings:*  
 
@@ -444,7 +447,7 @@ Simple, HDR Passthrough or Tonemapping
 
 * *Requirements:*  
    * Common settings above  
-   * Install Plex HTPC: >= 1.16: [download](https://www.plex.tv/media-server-downloads/?cat=plex+home+theater&plat=windows#plex-app)  
+   * Install Plex HTPC: >= 1.16: ([download](https://www.plex.tv/media-server-downloads/?cat=plex+home+theater&plat=windows#plex-app))  
    * *Notes:*  
      * If HDR is not configured as per below, HDR will be tonemapped to SDR. Available for Windows, Linux and Mac.  
 * *Plex HTPC settings:*  
