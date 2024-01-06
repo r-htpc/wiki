@@ -277,7 +277,7 @@ The second is decoding and channelization. This means the media application play
 
 This scenario would be used for non-encoded audio, like **Gaming**, streaming services that only support stereo, sound systems where encoded codecs are not supported and/or for analog audio interfaces.  
 
-On a Windows HTPC, this is usually the default scenario, but usually requires some setup. To configure this in Windows: Open Windows Control Panel -> Sound -> \<your_audio_device\> -> Configure -> Select your speaker configuration -> Next -> Optionally configure the speakers you have/don't have.  
+On a Windows HTPC, this is the default scenario, but usually requires some setup. To configure this in Windows: Open Windows Control Panel -> Sound -> \<your_audio_device\> -> Configure -> Select your speaker configuration -> Next -> Optionally configure the speakers you have/don't have.  
 
 You can force Windows apps that don't have sound configurations (like browsers) to decode to PCM by disabling the "Allow applications to take exclusive control of this device" setting in the Properties->Advanced section of your sound device.  
 
@@ -294,7 +294,7 @@ There are advanced things you can do by using application middleware and externa
 
 *For Gaming:* 
 
-See the caveats/instructions in the [Gaming section](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) below.
+See the instructions/caveats in the [Gaming section](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) below.
 
 NOTES:  
 1. You know this way is configured correctly because when you play audio you SHOULD be able to change the volume on the HTPC and hear a difference.  
@@ -343,7 +343,7 @@ These steps assume you have the latest version of [MPC-BE](https://sourceforge.n
 POTPLAYER:  
 1. F5 key->Audio
    - Audio Renderer: Built-in WASAPI Audio Renderer -> "..." button
-     - Use exclusive mode: checked, Device: \<audio device you will be using for bitstreaming\>
+     - Use exclusive mode: checked, Device: \<audio device you will be using for bitstreaming\> 
    - Set Built-In Audio Decoder->Pass Through->Set "Default Pass-through Muxer" for the codecs your sound system supports decoding
 2. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
 
@@ -572,31 +572,21 @@ KODI:
 
 MPC-HC/BE, POTPLAYER:  
 
-*WAY #1:*  
+1. WAY #1:
+   - Use MPC-BE and enable "Encode to AC3" in Options->Internal Filters->Audio Decoders->Audio Decoder Configuration.  
 
-1. Use MPC-BE and enable "Encode to AC3" in Options->Internal Filters->Audio Decoders->Audio Decoder Configuration.  
-
-*WAY #2:*  
-
-1. Download and install [ffdshow](https://sourceforge.net/projects/ffdshow-tryout/files/Official%20releases/). Make sure you install the version that matches your player (i.e. the "64-bit" version for a 64-bit player. "generic build" for a 32-bit player).  
-
-2. In the Windows sound control panel, make sure you enable "Allow applications to take exclusive control of this device" in Your_Playback_Device->Advanced  
-
-3. Open your media player
-
-4. Go to player Options, then External Filters->Add Filter->"ffdshow Audio Decoder". Set to "Prefer". Double-click on the filter.  
-
-5. Enable "Resample" in the left-hand sidebar. Click on Resample, set Resample to 48000 Hz.  
-
-6. Enable "Mixer" in the left-hand sidebar. Click on Mixer, set output to 3/0/2. Enable "LFE"  
-
-7. Go to "Output" in the left-hand sidebar
-* Pass-through (S/PDIF, HDMI): "Dolby Digital (AC3)" checked  
-* AC3 (S/PDIF encode mode): checked  
-
-8. (OPTIONAL) If you only want to re-encode certain formats, go to "Codecs" in the left-hand sidebar, then set every codec you don't want to re-encode to "disabled" under the Decoder column and the ones you do to a libXXX decoder  
-
-9. Click Apply, Ok to close filter config. Click Apply, Ok to close player config. Restart media player.  
+2. WAY #2:
+   - Download and install [ffdshow](https://sourceforge.net/projects/ffdshow-tryout/files/Official%20releases/). Make sure you install the version that matches your player (i.e. the "64-bit" version for a 64-bit player. "generic build" for a 32-bit player).
+   - In the Windows sound control panel, make sure you enable "Allow applications to take exclusive control of this device" in Your_Playback_Device->Advanced 
+   - Open your media player
+   - Go to player Options, then External Filters->Add Filter->"ffdshow Audio Decoder". Set to "Prefer". Double-click on the filter.
+   - Enable "Resample" in the left-hand sidebar. Click on Resample, set Resample to 48000 Hz.  
+   - Enable "Mixer" in the left-hand sidebar. Click on Mixer, set output to 3/0/2. Enable "LFE"  
+   - Go to "Output" in the left-hand sidebar
+     - Pass-through (S/PDIF, HDMI): "Dolby Digital (AC3)" checked  
+     - AC3 (S/PDIF encode mode): checked  
+   - (OPTIONAL) If you only want to re-encode certain formats, go to "Codecs" in the left-hand sidebar, then set every codec you don't want to re-encode to "disabled" under the Decoder column and the ones you do to a libXXX decoder  
+   - Click Apply, Ok to close filter config. Click Apply, Ok to close player config. Restart media player.  
 
 VLC:  
 
