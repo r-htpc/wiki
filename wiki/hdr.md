@@ -193,20 +193,14 @@ Advanced, more powerful tonemapping, upscaling and processing than using MPC Vid
 
 Advanced, current way to integrate madVR into Kodi for passthrough, tonemapping, and upscaling.  
 
-* *Requirements:*  
-
-  Install Kodi: >= 17.6: ([download](https://kodi.tv/download))  
-
-  Install K-Lite Codec Pack FULL: ([download](https://www.codecguide.com/download_k-lite_codec_pack_full.htm))  
-   -- Install options: Normal, MPC-HC, Essentials  
-
-  (OPTIONAL) Install XySubFilter (64-bit) (subtitle renderer): ([download](http://forum.doom9.org/showthread.php?t=168282))  
-
-* *Windows 10 settings:*  
-
-  Settings app -> System -> Display -> HDR and WCG/Use HDR/Play HDR.. -> Off  
-
-* *madVR settings:*  
+* *Requirements:*
+  * Install Kodi: >= 17.6: ([download](https://kodi.tv/download))
+  * Install K-Lite Codec Pack FULL: ([download](https://www.codecguide.com/download_k-lite_codec_pack_full.htm))
+    * Install options: Normal, MPC-HC, Essentials
+  * (OPTIONAL) Install XySubFilter (64-bit) (subtitle renderer): ([download](http://forum.doom9.org/showthread.php?t=168282))
+* *Windows 10 settings:*
+  * Settings app -> System -> Display -> Use HDR/HDR and WCG/Play HDR.. -> Off
+* *madVR settings:*
 
    *Start -> K-lite Codec Pack -> madVR app ->*  
 
@@ -347,33 +341,25 @@ Advanced, current way to integrate madVR into Kodi for passthrough, tonemapping,
 `</rules>`  
 `</playercorefactory>`  
 
-* *Test*  
+* *Test*
+  * *Kodi app*
+    * Play a [test HDR video](/wiki/hdr#hdr-tests) and press Ctrl+J to show stats. If avg/max rendering stats are >= 35ms, you're either doing too much madVR processing or your GPU isn't powerful enough. [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper PC/TV hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
 
-   *Kodi app ->*  
-
-    Play a [test HDR video](/wiki/hdr#hdr-tests) and press Ctrl+J to show stats. If avg/max rendering stats are >= 35ms, you're either doing too much madVR processing or your GPU isn't powerful enough. [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper PC/TV hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
-
-* *Update MadVR* (OPTIONAL)  
-
-     If you want newer, beta madVR features, [download madVR beta](http://madshi.net/madVRhdrMeasure113.zip), unzip and copy the files into C:\Program Files (x86)\K-Lite Codec Pack\Filters\madVR\  
+* *Update MadVR* (OPTIONAL)
+  * If you want newer, beta madVR features, [download madVR beta](http://madshi.net/madVRhdrMeasure113.zip), unzip and copy the files into C:\Program Files (x86)\K-Lite Codec Pack\Filters\madVR\  
 
 ### **DSPlayer Kodi + madVR**
 
 Advanced, old way to integrate madVR into Kodi for passthrough, tonemapping, and upscaling. Can't use Kodi past v17.6  
 
-* *Requirements:*  
-
-  Common settings above  
-
-  Install K-Lite Codec Pack FULL: ([download](https://www.codecguide.com/download_k-lite_codec_pack_full.htm))  
-  -- Install options: Normal, MPC-HC, Essentials  
-  Install DSPlayer Kodi: >= 17.6: ([download](https://forum.kodi.tv/showthread.php?pid=1972183#pid1972183))  
-
-* *Windows 10 settings:*  
-
-  Settings app -> System -> Display -> HDR and WCG/Use HDR/Play HDR.. -> Off  
-
-* *madVR settings:*  
+* *Requirements:*
+  * Common settings above
+  * Install K-Lite Codec Pack FULL: ([download](https://www.codecguide.com/download_k-lite_codec_pack_full.htm))
+    * Install options: Normal, MPC-HC, Essentials
+  * Install DSPlayer Kodi: >= 17.6: ([download](https://forum.kodi.tv/showthread.php?pid=1972183#pid1972183))
+* *Windows 10 settings:*
+  * Settings app -> System -> Display -> Use HDR/HDR and WCG/Play HDR.. -> Off
+* *madVR settings:*
 
    *madVR app ->*  
 
@@ -431,15 +417,11 @@ Advanced, old way to integrate madVR into Kodi for passthrough, tonemapping, and
 
     ------ Bitstreaming \<codec\>: On  
 
-* *Test*  
-
-   *Kodi app ->*  
-
-     Play a [test HDR video](/wiki/hdr#hdr-tests) and press Ctrl+J to show stats. If avg/max rendering stats are >= 35ms, you're either doing too much madVR processing or your GPU isn't powerful enough. [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper PC/TV hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
-
-* *Update MadVR* (OPTIONAL)  
-
-     If you want newer, beta madVR features, [download madVR beta](http://madshi.net/madVRhdrMeasure113.zip), unzip and copy the files into C:\Program Files (x86)\K-Lite Codec Pack\Filters\madVR\  
+* *Test*
+  * *Kodi app*
+    * Play a [test HDR video](/wiki/hdr#hdr-tests) and press Ctrl+J to show stats. If avg/max rendering stats are >= 35ms, you're either doing too much madVR processing or your GPU isn't powerful enough. [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper PC/TV hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
+* *Update MadVR* (OPTIONAL)
+  * If you want newer, beta madVR features, [download madVR beta](http://madshi.net/madVRhdrMeasure113.zip), unzip and copy the files into C:\Program Files (x86)\K-Lite Codec Pack\Filters\madVR\  
 
 ### **Plex HTPC**
 
