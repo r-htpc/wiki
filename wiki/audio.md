@@ -562,13 +562,10 @@ See instructions below for setting this up in your media player software.
 
 KODI:  
 
-1. Kodi->Settings->System  
-
-2. Toggle settings view to "Expert"  
-
-3. Set channel configuration to 2.0  
-
-4. Check box for Dolby Digital (AC3) capable receiver and Enable Dolby Digital Transcoding. Uncheck boxes for every other capability receiver (E-AC3, DTS, etc..).
+1. Kodi->Settings->System
+2. Toggle settings view to "Expert"
+3. Set channel configuration to 2.0
+4. Check box for Dolby Digital (AC3) capable receiver and Enable Dolby Digital Transcoding. Uncheck boxes for every other capability receiver (E-AC3, DTS, etc..)
 
 MPC-HC/BE, POTPLAYER:  
 
