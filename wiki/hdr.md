@@ -18,84 +18,45 @@ You are **strongly urged** to test out the simple setups below before potentiall
 ### **Common settings**
 
 * *Requirements:*
-
- TV/Projector: HDMI >= 2.0/DisplayPort >= 1.3, HDR10, 10-bit panel, [VESA DisplayHDR](https://displayhdr.org/) >= 600
-
- Windows 10: version >= 1803  (Settings app -> System -> About)
-
+  * TV/Projector: HDMI >= 2.0/DisplayPort >= 1.3, HDR10, 10-bit panel, [VESA DisplayHDR](https://displayhdr.org/) >= 600
+  * Windows 10: version >= 1803  (Settings app -> System -> About)
 * *TV/Projector settings:*  
-
- ONLY display connected to the system before configuration  
-
- GPU connected to display's HDMI >= 2.0/DisplayPort >= 1.3 port  
-
- UHD Deep Color/Input Signal Plus turned On for your display's HDMI port. Setting name dependent on TV mfgr.  
-
- Black Level to Full/Normal (if available)  
-
- Colorspace/Input Level/Range to RGB Full/Expanded/Enhanced/0-255 (if available)  
-
- 
+  * ONLY display connected to the system before configuration  
+  * GPU connected to display's HDMI >= 2.0/DisplayPort >= 1.3 port  
+  * UHD Deep Color/Input Signal Plus turned On for your display's HDMI port. Setting name dependent on TV mfgr.  
+  * Black Level to Full/Normal (if available)  
+  * Colorspace/Input Level/Range to RGB Full/Expanded/Enhanced/0-255 (if available)  
 * *GPU settings:*  
-* Intel  
-
-   *Intel Graphics Control Panel/Command Center app ->*  
-
-     -- Display -> Resolution/General Settings ->  
-
-     Resolution: 3840x2160  
-
-     Refresh: 24/30/60Hz  
-
-     -- Display -> Color/Color Settings ->  
-
-     Desktop color depth: Highest (32-bit)  
-
-     -- Video -> Color Enhancement -> Input Range -> Driver Settings -> Full Range  
-
-* NVIDIA  
-
-   *Nvidia Control panel app ->*  
-
-   -- Manage 3D Settings (>= RTX 20xx) -> Program Settings -> Select a program: \<your media player\> -> Vertical Sync: ON, Low Latency Mode: OFF, Power Managment Mode: Prefer Max/Adaptive/Normal  
-
-   -- Display ->  
-
-    ---- Change Resolution/Adjust desktop color settings:  
-
-     Resolution: 3840x2160  
-
-     Refresh: 24/30/60/120Hz  
-
-     Desktop color depth: Highest (32-bit)  
-
-     Output color depth: 8 bpc (HDMI 2.0), 10 bpc (HDMI 2.1)  
-
-     Output color format: RGB  
-
-     Output dynamic range: Full  
-
-* AMD  
-
-   *Windows ->*  
-
-   -- [Change Resolution/Refresh Rate](https://www.amd.com/en/support/kb/faq/dh2-005#faq-Display-Resolution)  
-
-    Resolution: 3840x2160  
-
-    Refresh: 30/60Hz  
-
-   *AMD Radeon Settings app ->*  
-
-    -- Display ->  
-
-     Color depth: 8 bpc (HDMI 2.0), 10 bpc (HDMI 2.1)  
-
-     Pixel format: RGB/YCbCr 4:4:4 Full  
-
-     Radeon FreeSync: Disabled (create an app profile for your video player if you don't want to disable this globally)  
-
-    -- Graphics -> Enhanced Sync: Disabled  
+  * Intel  
+    * Intel Graphics Control Panel/Command Center app
+      * Display -> Resolution/General Settings
+        * Resolution: 3840x2160  
+        * Refresh: 24/30/60Hz  
+      * Display -> Color/Color Settings
+        * Desktop color depth: Highest (32-bit)  
+      * Video -> Color Enhancement -> Input Range -> Driver Settings -> Full Range  
+  * NVIDIA  
+    * Nvidia Control panel app
+      * Manage 3D Settings (>= RTX 20xx) -> Program Settings -> Select a program: \<your media player\> -> Vertical Sync: ON, Low Latency Mode: OFF, Power Managment Mode: Prefer Max/Adaptive/Normal  
+      * Display  
+        * Change Resolution/Adjust desktop color settings:  
+          * Resolution: 3840x2160  
+          * Refresh: 24/30/60/120Hz  
+          * Desktop color depth: Highest (32-bit)  
+          * Output color depth: 8 bpc (HDMI 2.0), 10 bpc (HDMI 2.1)  
+          * Output color format: RGB  
+          * Output dynamic range: Full  
+  * AMD  
+    * Windows
+      * [Change Resolution/Refresh Rate](https://www.amd.com/en/support/kb/faq/dh2-005#faq-Display-Resolution)  
+        * Resolution: 3840x2160  
+        * Refresh: 30/60Hz  
+    * AMD Radeon Settings app
+      * Display
+        * Color depth: 8 bpc (HDMI 2.0), 10 bpc (HDMI 2.1)  
+        * Pixel format: RGB/YCbCr 4:4:4 Full  
+        * Radeon FreeSync: Disabled (create an app profile for your video player if you don't want to disable this globally)  
+      * Graphics -> Enhanced Sync: Disabled  
 
 ## Local Content
 
