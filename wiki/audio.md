@@ -275,11 +275,13 @@ NOTES:
 
 The second is decoding and channelization. This means the media application playing your content sends the audio to your sound system (or your OS does) converted to the common PCM format you read about above, or analog, if using a 3.5mm/RCA audio interface. The sound system has no knowledge of the codec being played, if there is one.  
 
-This scenario would be used for non-encoded audio, like **[Gaming](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system)**, streaming services that only support stereo, sound systems where encoded codecs are not supported and/or for analog audio interfaces.  
+This scenario would be used for non-encoded audio, like **Gaming**, streaming services that only support stereo, sound systems where encoded codecs are not supported and/or for analog audio interfaces.  
 
 If you have an AV receiver, it would say "PCM"/"Multi Ch In"/"Direct"/"Uncompressed" on it, unless you have the receiver set to upmix the audio with a listening mode such as Dolby Surround.  
 
 On a Windows HTPC, this is usually the default scenario.  
+
+*For Media:* 
 
 You should configure your media application(s) (if needed), by setting the sound device/audio renderer to "DirectSound" or "System Default". "DirectSound" sits between the application and the audio driver, controlling the channel layout and audio stream.  
 In media applications, the most popular ones (MPC-HC/MPC-BE/JRiver/Kodi/VLC/Plex) will have the codecs to decode up to **Dolby TrueHD**, **DTS-HD MA** and many others (object metadata overlays like Dolby Atmos/DTS:X can NOT be channelized or meaningfully used by the PC without professional software; you must bitstream those codecs to an AVR or sound processor).  
@@ -290,12 +292,16 @@ Additionally, you can set channel downmixing/upmixing in your media application,
 
 After you've configured your app(s) and windows, play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below. 
 
+There are advanced things you can do by using application middleware and external filters like [transcoding audio codecs](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital), decoding obscure codecs and advanced mixing. See Audio Software section above.  
+
+*For Gaming:* 
+
+See the caveats/instructions in the [Gaming section](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) below.
+
 NOTES:  
 1. You know this way is configured correctly because when you play audio you SHOULD be able to change the volume on the HTPC and hear a difference.  
 2. Changing settings in the Windows Sound control panel controls what channels the audio is converted/mixed to, if not done earlier in your media app manually. For example, if you set it to Stereo, it will be converted to PCM 2.0 for your sound system.  
 3. Some OS sounds/applications primarily output audio as PCM exclusively (like web browsers; see below).  
-
-There are advanced things you can do by using application middleware and external filters like [transcoding audio codecs](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital), decoding obscure codecs and advanced mixing. See Audio Software section above.  
 
 <!-- Sub-Sub-Section -->
 
@@ -317,7 +323,7 @@ These steps assume you have the latest version of [MPC-HC clsid2](https://github
 1. View->Options->Playback->Output->Audio Renderer: System Default/SaneAR Audio Renderer.  
 2. View->Options->Internal Filters->Audio Renderer:  
 -- SaneAR Audio Renderer Enabled: checked  
--- Device: <audio device you will be using for bitstreaming>  
+-- Device: <audio_device_you_will_be_using_for_bitstreaming>  
 -- Exclusive mode: checked (if unchecked, other apps will be able to play audio while mpc-hc is open, but playback may not be nominal)  
 3. View->Options->Internal Filters->Audio decoder (button)  
 -- Bitstreaming->Formats->Enable the codecs your sound system supports decoding.  
@@ -621,19 +627,23 @@ First, most games output audio in the **PCM 5.1** format. Not all audio interfac
 
 The easiest and best way to connect your components is: PC (HDMI OUT) -> Sound System (HDMI IN) -> TV (HDMI IN/ARC). This will give you PCM 5.1 capability. You can test this in the Windows sound control panel speaker test.  
 
-If you need **G-Sync/Freesync** for gaming though, this won't work, as Sound Systems like AVRs/Soundbars won't pass through those VRR techs to the TV. In that case, and if you have **HDMI eARC** support on your Sound System and/or TV, you can connect: PC (HDMI OUT) -> TV (HDMI IN), TV (HDMI eARC) -> Sound System. See **Scenario #2** in the Hardware Setup section above for details.  
+If you need **G-Sync/Freesync** (and not plain VRR) for gaming though, this won't work, as Sound Systems like AVRs/Soundbars won't pass through those VRR techs to the TV. In that case, and if you have **HDMI eARC** support on your Sound System and/or TV, you can connect: PC (HDMI OUT) -> TV (HDMI IN), TV (HDMI eARC) -> Sound System. See **Scenario #2** in the Hardware Setup section above for details.  
 
 If you don't have eARC support, but have plain **ARC** support or even only **Optical**, you can use that, but **you will only get PCM 2.0/Stereo sound by default**. The only way around this to still get 5.1 sound is to encode the game audio with a tech called **Dolby Digital Live**. To do this, you can either:  
 
 1. Buy an internal/external sound card with Dolby Digital Live encoding support (e.g. Sound Blaster X4/X3/Z SE) and connect it via **Optical** to your Sound System  
 
-2. For **HDMI ARC**: Use the APO driver to unofficially install Dolby Digital encoding for over HDMI ARC from your PC. This involves installing the [APO driver setup](https://puresoftapps.blogspot.com/2018/04/realtek-apo-driver.html) with the "FX Configurator" & "Dolby DS1" features chosen, running the "FX Configurator" app, selecting your HDMI/Optical interface Endpoint, clicking "Product Config Tool", applying the "Dolby Digital Plus Home Theater (HDMI/SPDIF)" product, and finally going to Windows sound settings -> Sound control panel -> <your sound device> -> Properties -> Advanced tab and choosing Dolby Digital from the Default Format drop-down.  
+2. For **HDMI ARC**: Use the APO driver to unofficially install Dolby Digital encoding for over HDMI ARC from your PC. This involves installing the [APO driver setup](https://puresoftapps.blogspot.com/2018/04/realtek-apo-driver.html) with the "FX Configurator" & "Dolby DS1" features chosen, running the "FX Configurator" app, selecting your HDMI/Optical interface Endpoint, clicking "Product Config Tool", applying the "Dolby Digital Plus Home Theater (HDMI/SPDIF)" product, and finally open Windows Control Panel -> Sound -> <your_sound_device> -> Properties -> Advanced tab, and choose Dolby Digital from the Default Format drop-down.  
 
 3. For **OPTICAL/SPDIF**: For Realtek-based Optical/SPDIF you should probably use the [patched drivers](https://github.com/Loliconera/Unlocked-Dolby-Digital-Live-DTS-Interactive-for-Realtek-HD-Audio-Drivers-for-Windows-10-and-11) to unlock DDL. If it doesn't work for you or you have a non-Realtek audio chip, use the previous HDMI ARC way.  
 
 As a last resort, you can output to just analog surround sound speakers connected directly to the PC, if your motherboard supports it.  
 
-Lastly, if you want and can support Atmos from your games, install the [Dolby Access](https://www.microsoft.com/en-us/store/p/dolby-access/9n0866fs04w8) app from the Microsoft store and inside of it enable Dolby Atmos for Home Theater.  
+Lastly, if you want to, and can, support **Dolby Atmos** from your games:
+* Enable audio passthrough in your Display 
+* Install the [Dolby Access](https://www.microsoft.com/en-us/store/p/dolby-access/9n0866fs04w8) app from the Microsoft store 
+* Open the app and select Products -> Dolby Atmos for Home Theater -> Setup -> Continue. 
+* Open Windows Control Panel -> Sound -> <your_sound_device> -> Configure -> Select Dolby Atmos for Home Theater -> Next, and configure the speakers you have in the following screens. 
 
 <!-- Sub-Section -->
 
