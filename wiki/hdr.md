@@ -442,23 +442,19 @@ Advanced, old way to integrate madVR into Kodi for passthrough, tonemapping, and
 
 Simple, HDR Passthrough or Tonemapping  
 
-*  *Requirements:*  
-  Common settings above  
-  Install Plex HTPC: >= 1.16 [download](https://www.plex.tv/media-server-downloads/#plex-app)  
- *Notes:*  
-  If HDR is not configured as per below, HDR will be tonemapped to SDR. Available for Windows, Linux and Mac.  
-*  *Plex HTPC settings:*  
-
-    *Plex HTPC app->*  
-
-   -- Settings -> Video -> Enable HDR Switching: Checked  
-   -- Settings -> Video -> HDR Metadata Passthrough: Checked  
-
-* *Test*  
-
-   *Plex HTPC app ->*  
-
-   Play a [test HDR video](/wiki/hdr#hdr-tests). [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper PC/TV hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
+* *Requirements:*  
+   * Common settings above  
+   * Install Plex HTPC: >= 1.16 [download](https://www.plex.tv/media-server-downloads/?cat=plex+home+theater&plat=windows#plex-app)  
+   * *Notes:*  
+     * If HDR is not configured as per below, HDR will be tonemapped to SDR. Available for Windows, Linux and Mac.  
+* *Plex HTPC settings:*  
+   * *Plex HTPC app*  
+     * Settings -> Video
+        * Enable HDR Switching: Checked  
+        * HDR Metadata Passthrough: Checked  
+* *Test*
+  * *Plex HTPC app*  
+    * Play a [test HDR video](/wiki/hdr#hdr-tests). [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper PC/TV hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
 
 &nbsp;
  
@@ -466,57 +462,39 @@ Simple, HDR Passthrough or Tonemapping
 
 Simple, Tonemapping  
 
-*  *Requirements:*  
-
-  Common settings above  
-
-  Plex Media Player 2.x  
-
- *Notes:*  
-
-  HDR is not currently passed through; It is tonemapped to SDR. Available for Windows, Linux and Mac.  
-
-*  *Plex Media Player settings:*  
-
-    None  
+* *Requirements:*
+  * Common settings above
+  * Plex Media Player 2.x
+  * *Notes:*
+    * HDR is not currently passed through; It is tonemapped to SDR. Available for Windows, Linux and Mac.  
+* *Plex Media Player settings:*  
+  * None  
 
 ## Streaming Content (Netflix, Youtube, etc..)
 
-* *Requirements:*  
-
-  Common settings above 
-
-  Netflix: ALL displays have HDCP 2.2 support and is recognized. Check Nvidia/AMD/Intel graphics control panel for HDCP status. Required software is installed: Microsoft Store [HEVC Extension](https://www.microsoft.com/en-us/p/hevc-video-extensions/9nmzlz57r3t7), Intel MEI driver/ME firmware (Intel iGPU). Required [Premium Plan](https://help.netflix.com/en/node/24926) subscription. 
-
-  Supported Web Browsers/Apps: Microsoft Edge (Netflix/Youtube), Microsoft Store app (Netflix), Google Chrome (Youtube)  
-
+* *Requirements:*
+  * Common settings above
+  * Netflix: ALL displays have HDCP 2.2 support and is recognized. Check Nvidia/AMD/Intel graphics control panel for HDCP status. Required software is installed: Microsoft Store [HEVC Extension](https://www.microsoft.com/en-us/p/hevc-video-extensions/9nmzlz57r3t7), Intel MEI driver/ME firmware (Intel iGPU). Required [Premium Plan](https://help.netflix.com/en/node/24926) subscription. 
+  * Supported Web Browsers/Apps: Microsoft Edge (Netflix/Youtube), Microsoft Store app (Netflix), Google Chrome (Youtube)  
 * *Windows settings:*  
-
-  Activate HDR. HDR must be turned on before viewing content; it will not switch to hdr mode automatically like local players. You can use the "Win + Alt + B" shortcut to turn on/off HDR in windows, subsequently.  
-
-  Start -> Settings -> System -> Display -> Play HDR games and apps: On / Use HDR: On (Wording depends on Windows version)  
-
-  Start -> Settings -> System -> Display -> Windows HD Color settings -> Stream HDR Video: On
-
-* *Test*  
-
-  Netflix: Check edge://gpu in Microsoft Edge for: HDCP 2.2 support, HEVC installed/activable, and HEVC - HDR10 support set true. Check [Netflix HDR10 test pattern](https://www.netflix.com/title/80018499) looks correct.
-
-  Youtube: <!-- Check edge://flags in Microsoft Edge for: Media Foundation for Clear set to Enabled. --> Check [HDR content](https://www.youtube.com/watch?v=njX2bu-_Vw4) looks correct.
+  * Activate HDR. HDR must be turned on before viewing content; it will not switch to hdr mode automatically like local players. You can use the "Win + Alt + B" shortcut to turn on/off HDR in windows, subsequently.  
+    * Start -> Settings -> System -> Display
+      * Windows HD Color
+        * Windows HD Color settings -> Stream HDR Video: On
+        * Use HDR: On / Play HDR games and apps: On (Wording depends on Windows version)  
+* *Test*
+  * Netflix: Check edge://gpu in Microsoft Edge for: HDCP 2.2 support, HEVC installed/activable, and HEVC - HDR10 support set true. Check [Netflix HDR10 test pattern](https://www.netflix.com/title/80018499) looks correct.
+  * Youtube: <!-- Check edge://flags in Microsoft Edge for: Media Foundation for Clear set to Enabled. --> Check [HDR content](https://www.youtube.com/watch?v=njX2bu-_Vw4) looks correct.
 
 ## ANDROID
 
 ### **Common Settings**
 
 * *Requirements:*  
-
- TV/Projector: HDMI >= 2.0/DisplayPort >= 1.3, HDR10, 10-bit panel, [VESA DisplayHDR](https://displayhdr.org/) >= 500  
-
+  * TV/Projector: HDMI >= 2.0/DisplayPort >= 1.3, HDR10, 10-bit panel, [VESA DisplayHDR](https://displayhdr.org/) >= 600  
 * *TV/Projector settings:*  
-
- GPU Connected to HDMI >= 2.0/DisplayPort >= 1.3 port  
-
- UHD Deep Color/Input Signal Plus turned On for your HDMI port. Setting name dependent on TV mfgr.  
+  * GPU Connected to HDMI >= 2.0/DisplayPort >= 1.3 port  
+  * UHD Deep Color/Input Signal Plus turned On for your HDMI port. Setting name dependent on TV mfgr.  
 
 ## HDR Tests
 
