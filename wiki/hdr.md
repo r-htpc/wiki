@@ -104,40 +104,34 @@ Simple, HDR passthrough.
 Simple, HDR passthrough, tonemapping and upscaling.  
 
 * *Requirements:*  
-
-  Install MPC-BE: [download](https://github.com/Aleksoid1978/MPC-BE/releases)  
-  -- Install options: Default Installation + "MPC Video Renderer" option checked  
-
+  * Install MPC-BE: [download](https://github.com/Aleksoid1978/MPC-BE/releases)  
+    * Install options: Default Installation + "MPC Video Renderer" option checked  
 * *Windows 10 settings:*  
-
-  Settings app -> System -> Display -> HDR and WCG/Use HDR/Play HDR.. -> Off  
-
+  * Settings app -> System -> Display -> Use HDR/HDR and WCG/Play HDR.. -> Off  
 * *MPC-BE settings:*  
-
-  *MPC-BE app ->*  
-
-   -- View -> Options ->  
-
-    --- Video -> Video Renderer -> MPC Video Renderer  
-    ---- Properties  
-    ----- Use Direct3D 11: checked (win 8+)  
-    ----- HDR: Passthrough to display: checked (uncheck to tonemap to SDR)  
-    ----- HDR: Convert to SDR: unchecked (check to tonemap to SDR)  
-    ----- HDR: Auto display: used for fullscreen/always used  
-    ----- OPTIONAL: Chroma/Upscaling. NOTE: To use these, you must uncheck the four DXVA2/D3D11 video processors. GPU usage will increase as you go down the list of scaling options.  
-    ----- OPTIONAL: Downscaling. NOTE: To use this, you must uncheck "Use for Resizing". GPU usage will increase as you go down the list of scaling options.  
-
-    --- Internal Filters -> Video Decoders  
-    ---- Video decoder configuration  
-    ----- Preferred Decoder: D3D11 (win 8+) or DXVA2 (win 7)  
-    ----- Adapter: Your_GPU_Device  
-    ----- RGB output levels: PC (0-255) (see VIDEO setup guide if not sure)  
-
+  * *MPC-BE app*  
+    * View -> Options
+      * Video
+        * Video Renderer: MPC Video Renderer  
+          * Properties  
+            * Use Direct3D 11: checked (win 8+)  
+            * HDR: Passthrough to display: checked (uncheck to tonemap to SDR)  
+            * HDR: Convert to SDR: unchecked (check to tonemap to SDR)  
+            * HDR: Auto display: used for fullscreen/always used  
+            * OPTIONAL: Chroma/Upscaling
+              * NOTE: To use these, you must uncheck the four DXVA2/D3D11 video processors. GPU usage will increase as you go down the list of scaling options.
+              * Chroma/Upscaling: [Choose](/wiki/video#upscaling)
+            * OPTIONAL: Downscaling
+              * NOTE: To use this, you must uncheck "Use for Resizing". GPU usage will increase as you go down the list of scaling options.
+              * Downscaling: Choose
+      * Internal Filters -> Video Decoders  
+        * Video decoder configuration  
+          * Preferred Decoder: D3D11 (win 8+) or DXVA2 (win 7) 
+          * Adapter: \<your_GPU_device\> 
+          * RGB output levels: PC (0-255) (see VIDEO setup guide if not sure) 
 * *Test*  
-
-   *MPC-BE app ->*  
-
-     Play a [test HDR video](/wiki/hdr#hdr-tests) and press Ctrl+J to show stats. If "Times" stats are >= 35ms you're doing too much processing (like upscaling/tonemapping). If "Frames" shows significant skipped frames, your GPU isn't powerful enough. [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper PC/TV hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
+  * *MPC-BE app*  
+    * Play a [test HDR video](/wiki/hdr#hdr-tests) and press Ctrl+J to show stats. If "Times" stats are >= 35ms you're doing too much processing (like upscaling/tonemapping). If "Frames" shows significant skipped frames, your GPU isn't powerful enough. [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper PC/TV hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
 
 ### **MPC-HC/MPC-BE + madVR**
 
