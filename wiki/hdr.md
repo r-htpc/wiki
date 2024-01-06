@@ -120,7 +120,7 @@ Simple, HDR passthrough, tonemapping and upscaling.
             * HDR: Auto display: used for fullscreen/always used  
             * OPTIONAL: Chroma/Upscaling
               * NOTE: To use these, you must uncheck the four DXVA2/D3D11 video processors. GPU usage will increase as you go down the list of scaling options.
-              * Chroma/Upscaling: [Choose](/wiki/video#upscaling)
+              * Chroma/Upscaling: [Choose](/wiki/video#what-are-the-best-algorithms-for-scaling-video)
             * OPTIONAL: Downscaling
               * NOTE: To use this, you must uncheck "Use for Resizing". GPU usage will increase as you go down the list of scaling options.
               * Downscaling: Choose
