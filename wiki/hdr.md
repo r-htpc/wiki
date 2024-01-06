@@ -9,7 +9,7 @@
 </style>
 -->
 
-This setup guide is only for HDR10 passthrough. High-end tonemapping is not discussed here. Dolby Vision/HDR10**+** is not discussed here as **no passthrough options exist** on PC. Read our [HDR section](/wiki/faq#what-is-hdr-video-and-what-do-i-need-to-take-advantage-of-it) in the Wiki FAQ for detailed information and requirements.  
+This setup guide is only for HDR10 passthrough. Dolby Vision/HDR10**+** is not discussed here as **no stable passthrough options exist** on PC. Read our [HDR section](/wiki/faq#what-is-hdr-video-and-what-do-i-need-to-take-advantage-of-it) in the Wiki FAQ for detailed information and requirements. High-end tonemapping is not discussed here yet.  
 We assume your display, video chain and media player have already been configured/calibrated properly for non-HDR content before you venture into the HDR setup below. If not, you are urged to follow the setup sections in the [Video Setup](/wiki/video#setup) wiki page first.  
 You are **strongly urged** to test out the simple setups below before potentially moving onto the advanced ones.  
 
