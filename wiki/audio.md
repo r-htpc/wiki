@@ -583,8 +583,8 @@ MPC-HC/BE, POTPLAYER:
    - Enable "Resample" in the left-hand sidebar. Click on Resample, set Resample to 48000 Hz.  
    - Enable "Mixer" in the left-hand sidebar. Click on Mixer, set output to 3/0/2. Enable "LFE"  
    - Go to "Output" in the left-hand sidebar
-     - Pass-through (S/PDIF, HDMI): "Dolby Digital (AC3)" checked  
-     - AC3 (S/PDIF encode mode): checked  
+     * Pass-through (S/PDIF, HDMI): "Dolby Digital (AC3)" checked  
+     * AC3 (S/PDIF encode mode): checked  
    - (OPTIONAL) If you only want to re-encode certain formats, go to "Codecs" in the left-hand sidebar, then set every codec you don't want to re-encode to "disabled" under the Decoder column and the ones you do to a libXXX decoder  
    - Click Apply, Ok to close filter config. Click Apply, Ok to close player config. Restart media player.  
 
