@@ -444,7 +444,7 @@ Simple, HDR Passthrough or Tonemapping
 
 * *Requirements:*  
    * Common settings above  
-   * Install Plex HTPC: >= 1.16 [download](https://www.plex.tv/media-server-downloads/?cat=plex+home+theater&plat=windows#plex-app)  
+   * Install Plex HTPC: >= 1.16: [download](https://www.plex.tv/media-server-downloads/?cat=plex+home+theater&plat=windows#plex-app)  
    * *Notes:*  
      * If HDR is not configured as per below, HDR will be tonemapped to SDR. Available for Windows, Linux and Mac.  
 * *Plex HTPC settings:*  
@@ -474,10 +474,11 @@ Simple, Tonemapping
 
 * *Requirements:*
   * Common settings above
-  * Netflix: ALL displays have HDCP 2.2 support and is recognized. Check Nvidia/AMD/Intel graphics control panel for HDCP status. Required software is installed: Microsoft Store [HEVC Extension](https://www.microsoft.com/en-us/p/hevc-video-extensions/9nmzlz57r3t7), Intel MEI driver/ME firmware (Intel iGPU). Required [Premium Plan](https://help.netflix.com/en/node/24926) subscription. 
+  * Netflix: ALL displays have HDCP 2.2 support and are recognized. Check Nvidia/AMD/Intel graphics control panel for HDCP status. Required software is installed: Microsoft Store [HEVC Extension](https://www.microsoft.com/en-us/p/hevc-video-extensions/9nmzlz57r3t7), Intel MEI driver/ME firmware (Intel iGPU). Required [Premium Plan](https://help.netflix.com/en/node/24926) subscription. 
   * Supported Web Browsers/Apps: Microsoft Edge (Netflix/Youtube), Microsoft Store app (Netflix), Google Chrome (Youtube)  
 * *Windows settings:*  
-  * Activate HDR. HDR must be turned on before viewing content; it will not switch to hdr mode automatically like local players. You can use the "Win + Alt + B" shortcut to turn on/off HDR in windows, subsequently.  
+  * Activate HDR
+    * HDR must be turned on before viewing content; it will not switch to hdr mode automatically like local players. You can use the "Win + Alt + B" shortcut to turn on/off HDR in windows, subsequently.  
     * Start -> Settings -> System -> Display
       * Windows HD Color
         * Windows HD Color settings -> Stream HDR Video: On
