@@ -65,60 +65,39 @@ You are **strongly urged** to test out the simple setups below before potentiall
 Simple, HDR passthrough, tonemapping.  
 
 * *Requirements:*  
-
-  Common settings above  
-
-  Install Kodi: >= 20 [download](https://mirrors.kodi.tv/releases/windows/win64/)  
-
+  * Common settings above  
+  * Install Kodi: >= 20 [download](https://mirrors.kodi.tv/releases/windows/win64/)  
 * *Windows 10 settings:*  
-
-  Settings app -> System -> Display -> HDR and WCG/Use HDR/Play HDR.. -> Off  
-
-*  *Kodi settings:*  
-
-   *Kodi app ->*  
-
-   -- Settings -> Player  
-
-    ---- Use HDR display capabilities<!--/v21: Adjust display HDR mode-->: ON  
-
+  * Settings app -> System -> Display -> HDR and WCG/Use HDR/Play HDR.. -> Off  
+* *Kodi settings:*  
+  * *Kodi app*  
+    * Settings -> Player  
+      * Use HDR display capabilities<!--/v21: Adjust display HDR mode-->: ON  
 * *Test*  
-
-   *Kodi app ->*  
-
-   Play a [test HDR video](/wiki/hdr#hdr-tests). [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper PC/TV hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
+  * *Kodi app*  
+    * Play a [test HDR video](/wiki/hdr#hdr-tests). [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper PC/TV hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
 
 ### **VLC**
 
 Simple, HDR passthrough.  
 
 * *Requirements:*  
-
-  Common settings above  
-
-  Install VLC: >= 3.0.8 [download](https://www.videolan.org/vlc/)  
-
+  * Common settings above  
+  * Install VLC: >= 3.0.8 [download](https://www.videolan.org/vlc/)  
 * *Windows settings:*  
-
-  Activate HDR
-
-  Start -> Settings -> System -> Display -> Play HDR games and apps: On / Use HDR: On (Wording depends on Windows version)  
-
-  Start -> Settings -> System -> Display -> Windows HD Color settings -> Stream HDR Video: On  
-
+  * Activate HDR
+    * Start -> Settings -> System -> Display
+      * Windows HD Color
+        * Windows HD Color settings -> Stream HDR Video: On  
+        * Use HDR: On / Play HDR games and apps: On (Wording depends on Windows version)  
 * *VLC settings:*  
-
-   *Start -> VideoLAN -> VLC app ->*  
-
-     Tools -> Preferences -> Video -> Output -> Automatic or OpenGL for Windows  
-
-     Tools -> Preferences -> Input / Codecs -> Hardware-accelerated decoding: NOT Disable  
-
+  * *VLC app*  
+    * Tools -> Preferences
+      * Video -> Output -> Automatic or OpenGL for Windows
+      * Input / Codecs -> Hardware-accelerated decoding: NOT Disable  
 * *Test*  
-
-   *VLC app ->*  
-
-   Play a [test HDR video](/wiki/hdr#hdr-tests). [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper PC/TV hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
+  * *VLC app*  
+    * Play a [test HDR video](/wiki/hdr#hdr-tests). [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper PC/TV hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
 
 ### **MPC-BE + MPC Video Renderer**
 
