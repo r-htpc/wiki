@@ -138,84 +138,53 @@ Simple, HDR passthrough, tonemapping and upscaling.
 Advanced, more powerful tonemapping, upscaling and processing than using MPC Video Renderer, but more complicated.  
 
 * *Requirements:*  
-
-  MPC-HC: Install K-Lite Codec Pack FULL: [download](https://www.codecguide.com/download_k-lite_codec_pack_full.htm)  
-  -- Install options: Normal, MPC-HC, Essentials  
-  MPC-BE: Install MPC-BE: [download](https://github.com/Aleksoid1978/MPC-BE/releases), then Install K-Lite Codec Pack FULL: [download](https://www.codecguide.com/download_k-lite_codec_pack_full.htm)  
-  -- K-lite install options: No, Normal, MPC-BE, Essentials  
-
+  * MPC-HC: Install K-Lite Codec Pack FULL: [download](https://www.codecguide.com/download_k-lite_codec_pack_full.htm)  
+    * Install options: Normal, MPC-HC, Essentials  
+  * MPC-BE: Install MPC-BE: [download](https://github.com/Aleksoid1978/MPC-BE/releases), then Install K-Lite Codec Pack FULL: [download](https://www.codecguide.com/download_k-lite_codec_pack_full.htm)  
+    * K-lite install options: No, Normal, MPC-BE, Essentials  
 * *Windows 10 settings:*  
-
-  Settings app -> System -> Display -> HDR and WCG/Use HDR/Play HDR.. -> Off  
-
+  * Settings app -> System -> Display -> Use HDR/HDR and WCG/Play HDR.. -> Off  
 * *LAV Filters settings:*  
-
-   *Start -> K-lite Codec Pack -> LAV Video app ->*  
-
-   -- Hardware decoder to use -> D3D11 (win 8+) or DXVA2 (copy-back)  
-
-   -- Hardware device to use -> Your_GPU_Device (leave on Auto with D3D11)  
-
-   -- Dithering mode -> Ordered dithering  
-
-   *Start -> K-lite Codec Pack -> LAV Audio app ->*  
-
-   -- Enable "Bitstreaming" for the codecs your sound system supports decoding (see Audio wiki page for more details)  
-
-
+  * *Start -> K-lite Codec Pack -> LAV Video app*  
+    * Hardware decoder to use -> D3D11 (win 8+) or DXVA2 (copy-back)  
+    * Hardware device to use -> Your_GPU_Device (leave on Auto with D3D11)  
+    * Dithering mode -> Ordered dithering  
+  * *Start -> K-lite Codec Pack -> LAV Audio app ->*  
+    * Enable "Bitstreaming" for the codecs your sound system supports decoding (see Audio wiki page for more details)  
 * *madVR settings:*  
-
-   *Start -> K-lite Codec Pack -> madVR app ->*  
-
-   -- Devices -> Your_Display_Device ->  
-
-    ---- properties -> PC levels 0-255, bitdepth: 10 bit or higher  
-
-    ---- calibration -> this display is already calibrated  
-
-    ---- display modes -> switch to matching display mode..when playback starts  
-
-    ---- display modes -> list all display..: 2160p23, 2160p24, 2160p50, 2160p59, 2160p60 (assumes a 4k display)  
-
-    ---- HDR -> passthrough HDR content to the display, send HDR metadata to the display  
-
-   -- Rendering -> general settings ->  
-
-    ---- Enable delay playback start.., automatic fullscreen exclusive mode, use Direct3D 11 for presentation  
-
-    ---- Increase CPU/GPU queue size (if frame drops/stuttering occur)  
-
-   -- Rendering -> dithering -> ordered dithering (unless you have dedicated GPU, see settings section below)  
-
-   -- Scaling Algorithms ->  
-
-    ---- Chroma Upscaling -> Bilinear (for more intensive scaling, see Performance settings section at the bottom)  
-
-    ---- Image Downscaling -> Bilinear/DXVA2 (for more intensive scaling, see Performance settings section at the bottom)  
-
-    ---- Image Upscaling -> Bilinear/DXVA2 (for more intensive scaling, see Performance settings section at the bottom)  
-
+  * *Start -> K-lite Codec Pack -> madVR app*  
+    * devices
+      * \<your_display_device\>
+        * properties -> PC levels 0-255, bitdepth: 10 bit or higher  
+        * calibration -> this display is already calibrated  
+        * display modes
+          * Enable: switch to matching display mode..when playback starts  
+          * list all display modes..: 2160p23, 2160p24, 2160p50, 2160p59, 2160p60 (assumes a 4k display)  
+        * HDR -> passthrough HDR content to the display, send HDR metadata to the display  
+    * scaling algorithms
+      * chroma upscaling
+        * processing..: Bilinear (for more intensive scaling, see Performance settings section at the bottom)  
+      * image downscaling
+        * processing..: Bilinear/DXVA2 (for more intensive scaling, see Performance settings section at the bottom)  
+      * image upscaling
+        * processing..: Bilinear/DXVA2 (for more intensive scaling, see Performance settings section at the bottom)  
+    * rendering
+      * general settings
+        * Enable: delay playback start.., enable automatic fullscreen exclusive mode, use Direct3D 11 for presentation  
+        * Increase CPU/GPU queue size (if frame drops/stuttering occur)  
+      * dithering
+        * algorithm: Ordered dithering (unless you have dedicated GPU, see settings section below)  
 * *MPC-HC/BE settings:*  
-
-  *MPC-HC/BE app ->*  
-
-   -- View -> Options ->  
-
-    ---- MPC-HC: Playback -> Output -> Directshow Video -> madVR  
-
-    ---- MPC-BE: Video -> Video Renderer -> madVR  
-
-    ---- External Filters -> Add Filter... -> Add LAV Audio Decoder, LAV Splitter, LAV Splitter Source, LAV Video Decoder. Set all to "prefer".  
-
+  * *MPC-HC/BE app*  
+    * View -> Options
+      * MPC-HC: Playback -> Output -> Directshow Video -> madVR  
+      * MPC-BE: Video -> Video Renderer -> madVR  
+      * External Filters -> Add Filter... -> Add LAV Audio Decoder, LAV Splitter, LAV Splitter Source, LAV Video Decoder. Set all to "prefer".  
 * *Test*  
-
-   *MPC-HC/BE app ->*  
-
-     Play a [test HDR video](/wiki/hdr#hdr-tests) and press Ctrl+J to show stats. If avg/max rendering stats are >= 35ms, you're either doing too much madVR processing or your GPU isn't powerful enough. [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper PC/TV hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
-
+  * *MPC-HC/BE app*  
+    *  Play a [test HDR video](/wiki/hdr#hdr-tests) and press Ctrl+J to show stats. If avg/max rendering stats are >= 35ms, you're either doing too much madVR processing or your GPU isn't powerful enough. [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper PC/TV hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
 * *Update MadVR* (OPTIONAL)  
-
-     If you want newer, beta madVR features, [download madVR beta](http://madshi.net/madVRhdrMeasure113.zip), unzip and copy the files into C:\Program Files (x86)\K-Lite Codec Pack\Filters\madVR\  
+  * If you want newer, beta madVR features, [download madVR beta](http://madshi.net/madVRhdrMeasure113.zip), unzip and copy the files into C:\Program Files (x86)\K-Lite Codec Pack\Filters\madVR\  
 
 ### **Kodi + MPC-HC + madVR**
 
