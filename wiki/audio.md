@@ -681,7 +681,7 @@ For 2.0, get simple, good powered speakers such as [Micca PB42X](https://amazon.
 3. If you have limited space and a small budget:  
 $600 : $250 Sony STR-DH590 receiver, $220 [Dayton Audio BS36 3.0](https://www.parts-express.com/Dayton-Audio-BS36-36-LCR-Speaker-Bar-Black-300-684) Speaker Bar, $130 Dayton Audio MKSX4/SUB-800 Sub  
 *- HDMI 2.0, 4K HDR, 3.1 channels effective (5.1 expandable), 90W, TrueHD/DTS-HD MA lossless sound, ARC*  
-$450 : Vizio M512a-H6/Samsung HW-Q600B Sound Bar  
+$450 : Vizio M512a-H6/Samsung HW-Q600C Sound Bar  
 *- HDMI 2.0, 4K HDR, 5.1.2 (Vizio)/3.1.2-5.1.2 (Samsung) channels, Dolby Atmos/DTS:X lossless sound, eARC*  
 
 4. If you have limited space and a higher budget:  
