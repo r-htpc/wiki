@@ -242,7 +242,7 @@ Larger Cube variation: 12-16L: $50 more. Change CASE to [Silverstone SG13B](http
 
 &nbsp;
 
-**DeskMeet - Cube, 8L** 
+**DeskMeet - Cube, 8.8L** 
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
@@ -766,6 +766,22 @@ OS				|Manjaro Linux w/KDE Plasma									|	$0		|	[Download](https://manjaro.org
 SOFTWARE		|Steam + Proton Experimental								|	$0		|	NA		|	
 SOFTWARE		|Etcher ISO writer											|	$0		|	[Download](https://www.balena.io/etcher/)	|	
 TOTAL			|															|	$217	|			|	
+
+<!-- Sub-Section -->
+
+### $620 1080p Gaming Box (8.8L)
+
+This is a straight up gaming build for 1080p with High settings, averaging about 90-100 fps which is good for a 120 Hz TV.  
+If you want a low profile case instead, look at the Silverstone Milo Z/ML-07 instead (you'll have to add a mobo and PSU).  
+
+PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
+:--|:--|:--|:--|:--
+CASE/MOBO/PSU		|Asrock DeskMeet X300W w/500W PSU					|$190	|[newegg](https://www.newegg.com/asrock-deskmeet-x300w-b-bb-box-us/p/N82E16856158083)	|6.6" (W) x 9.3" (D) x 8.7" (H), [specs](https://www.asrock.com/nettop/AMD/DeskMeet%20X300%20Series/index.asp#Specification)
+CPU	|	AMD Ryzen 5 5600 (65W)				|	$150	|pcpartpicker	|ALT: Ryzen 5500
+GPU	|	AMD RX 6600 8GB			|	$200	|pcpartpicker	|<= 200 mm (L)
+MEM	|	Teamforce Vulcan Z 16GB 2x8GB DDR4-3600	|	$37	|pcpartpicker	|ALT: G.Skill Ripjaws V 16 GB 2x8GB DDR4-3600 ($40)
+STORAGE	|	Solidigm P41 Plus 1TB M.2 (OS/GAMES)	|	$60	|pcpartpicker	|
+TOTAL	|						|	$617	|	
 
 <!-- Sub-Section -->
 
