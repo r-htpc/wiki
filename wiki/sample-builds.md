@@ -240,8 +240,6 @@ Larger Slimmer variation: 12-16L, 4" (H): Change CASE to [InWin BL040](https://w
 
 Larger Cube variation: 12-16L: $50 more. Change CASE to [Silverstone SG13B](https://www.amazon.com/SilverStone-Technology-Mini-ITX-Computer-SST-SG13B-USA/dp/B07MNC3JCB) (1xHDD) or [Sharkoon QB One](https://www.amazon.com/Sharkoon-ONE-ITX-CABINET-4044951016433/dp/B00TL8VN5I) (2xHDD), add an [ATX PSU](https://pcpartpicker.com/products/power-supply/#sort=price&e=4,3,2,1&p=1,2&th=1). ITX dGPU possible
 
-&nbsp;
-
 **DeskMeet - Cube, 8.8L** 
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
