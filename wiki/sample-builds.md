@@ -770,7 +770,7 @@ TOTAL			|															|	$217	|			|
 ### $620 1080p Gaming Box (8.8L)
 
 This is a straight up gaming build for 1080p with High settings, averaging about 90-100 fps which is good for a 120 Hz TV.  
-If you want a low profile case instead, look at the Silverstone Milo Z/ML-07 instead (you'll have to add a mobo and PSU).  
+If you want a low profile case instead, look at the Silverstone Milo Z/ML-07 instead (you'll have to add an [ITX mobo](https://pcpartpicker.com/products/motherboard/#xcx=0&s=33&f=8&sort=price&page=1) and [SFX PSU](https://pcpartpicker.com/products/power-supply/#th=5&sort=price&page=1&A=450000000000,2050000000000)).  
 
 PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
 :--|:--|:--|:--|:--
