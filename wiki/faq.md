@@ -1177,19 +1177,35 @@ with linux, windows, or especially hardware that supports installing [Libreelec]
 
 Some options/considerations are:  
 
-1. Install Linux/Windows. Install Kodi, run Kodi on boot (Windows: %appdata%\Microsoft\Windows\Start Menu\Programs\Startup, [Linux](https://kodi.wiki/view/HOW-TO:Autostart_Kodi_for_Linux)), configure Kodi  
-2. Install [Libreelec](https://libreelec.tv/downloads/) on compatible hardware, configure Kodi  
-3. A simple remote. [FM4](https://www.amazon.com/Seleven-Universal-Control-Wireless-Android/dp/B01FVUGPE8), WeChip [G20S](https://www.amazon.com/WeChip-G20-Control-Wireless-Sensing/dp/B07P322VRP)/[W3](https://www.amazon.com/WeChip-W3-Wireless-Control-Projector/dp/B09XMF5YN1); [Argon IR](https://www.amazon.com/Argon-Raspberry-Infrared-Batteries-Included/dp/B091F3XSF6) w/FLIRC or rPI 4+Argon ONE case; FLIRC w/any IR TV/MCE remote.  
+1. Use Linux/Windows for OS
+   - Simple: Install Kodi, Plex HTPC, set to run on boot, configure.
+   - Advanced: If you need to run multiple programs, use a launcher on boot, like Flex Launcher or just map remote keys to each app with AutoHotKey (see below).
+3. Use [Libreelec](https://libreelec.tv/downloads/)/CoreElec for OS on compatible hardware
+   - Configure Kodi to your liking 
+4. A simple remote.
+   - [FM4](https://www.amazon.com/Seleven-Universal-Control-Wireless-Android/dp/B01FVUGPE8)
+   - WeChip [G20S](https://www.amazon.com/WeChip-G20-Control-Wireless-Sensing/dp/B07P322VRP)/[W3](https://www.amazon.com/WeChip-W3-Wireless-Control-Projector/dp/B09XMF5YN1)
+   - [Argon IR](https://www.amazon.com/Argon-Raspberry-Infrared-Batteries-Included/dp/B091F3XSF6) w/FLIRC or rPI 4+Argon ONE case
+   - [FLIRC](https://flirc.tv/products/flirc-usb-receiver?variant=43513067569384) w/any IR TV/MCE remote.  
 
-Configuring Kodi can involve things like: 
- - Starting in Full Screen (Settings->System->Display->Expert->Display mode)
- - Starting up in certain libraries (Settings->Appearance->Home)
- - [Removing unneeded skin features/libraries](https://kodi.wiki/view/Add-on:Estuary/Settings#Main_Menu_Items_Settings)
- - [Changing a library view type](https://kodi.wiki/view/Basic_controls#Sideblade_Menu)
- - [Creating smart playlists](https://kodi.wiki/view/Smart_playlists)
- - Have Kodi autoplay smart playlists on startup with ````<onload>```` and ````PlayMedia()```` [in a skin's Startup.xml and guisettings.xml](https://forum.kodi.tv/showthread.php?tid=53092)
- - [Have Kodi autoplay certain playlists on a schedule](https://forum.libreelec.tv/thread/1458-automated-video-playlist-using-time-schedules-w-auto-volume-control/)
-
-If you don't want to use Kodi, you can alternatively use:
- - VLC and auto-start, looping playlists with options like: ````--fullscreen --loop --playlist-autostart --playlist-tree <path>````
+Notes:
+ - Common: Start on boot
+   - Start on boot:
+     - Put program shortcut in startup folder (Windows: %appdata%\Microsoft\Windows\Start Menu\Programs\Startup, [Linux](https://kodi.wiki/view/HOW-TO:Autostart_Kodi_for_Linux))
+     - If you need to run the program with command line options/switches, create a <program>.bat file containing what you want to run and put that in the startup folder
+ - Common: Key/Button mapping
+   - Some programs have a built-in feature for mapping keys to functions like Kodi's [keymap](https://kodi.wiki/view/Keymap) and Plex's [inputmaps](https://support.plex.tv/articles/plex-htpc-input-maps/). If not, use the AutoHotKey (AHK) program to do this.
+   - If not mapping a normal key, get its "scancode" by either using KeyboardStateView[https://www.nirsoft.net/utils/keyboard_state_view.html), or by opening the window of a running .AHK script and using Cntrl+K. You can then use this in your AHK script/inputmap.
+ - Kodi
+   - Starting in Full Screen (Settings->System->Display->Expert->Display mode)
+   - Starting up in certain libraries (Settings->Appearance->Home)
+   - [Removing unneeded skin features/libraries](https://kodi.wiki/view/Add-on:Estuary/Settings#Main_Menu_Items_Settings)
+   - [Changing a library view type](https://kodi.wiki/view/Basic_controls#Sideblade_Menu)
+   - [Creating smart playlists](https://kodi.wiki/view/Smart_playlists)
+   - Have Kodi autoplay smart playlists on startup with ````<onload>```` and ````PlayMedia()```` [in a skin's Startup.xml and guisettings.xml](https://forum.kodi.tv/showthread.php?tid=53092)
+   - [Have Kodi autoplay certain playlists on a schedule](https://forum.libreelec.tv/thread/1458-automated-video-playlist-using-time-schedules-w-auto-volume-control/)
+ - VLC
+   - Loop playlists on start with options like: ````--fullscreen --loop --playlist-autostart --playlist-tree <path>````
+ - Plex HTPC
+   - [Key/Button mapping](https://support.plex.tv/articles/plex-htpc-input-maps/) through a inputmaps json file. Can map to plex functions and even shutdown/reboot for host system. Keys can be the actual keys or scancodes. Supports remote and game controllers
  - [MediaPortal](https://www.team-mediaportal.com/)
