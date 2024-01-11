@@ -1200,7 +1200,7 @@ Notes:
    - Linux/Windows: Teamviewer, Rustdesk, Chrome Remote Desktop
    - Libreelec: VPN to network (@router or @device/tailscale) + VNC
  - Common: Power Control
-   - Device on a smart plug, power controlled by mobile app
+   - Plug device into a [smart power plug](https://www.amazon.com/Assistant-Controlled-Google-Enabled-Vacation/dp/B07XZT24B8), control power on/off by mobile app
  - Kodi
    - Starting in Full Screen (Settings->System->Display->Expert->Display mode)
    - Starting up in certain libraries (Settings->Appearance->Home)
