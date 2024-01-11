@@ -1181,8 +1181,9 @@ Some options/considerations are:
    - Simple: Install Kodi, Plex HTPC, set to run on boot, configure.
    - Advanced: If you need to run multiple programs, use a launcher on boot, like Flex Launcher or just map remote keys to each app with AutoHotKey (see below).
 3. Use [Libreelec](https://libreelec.tv/downloads/)/CoreElec for OS on compatible hardware
+   - Boots into a Kodi interface
    - Configure Kodi to your liking 
-4. A simple remote.
+5. A simple remote.
    - [FM4](https://www.amazon.com/Seleven-Universal-Control-Wireless-Android/dp/B01FVUGPE8)
    - WeChip [G20S](https://www.amazon.com/WeChip-G20-Control-Wireless-Sensing/dp/B07P322VRP)/[W3](https://www.amazon.com/WeChip-W3-Wireless-Control-Projector/dp/B09XMF5YN1)
    - [Argon IR](https://www.amazon.com/Argon-Raspberry-Infrared-Batteries-Included/dp/B091F3XSF6) w/FLIRC or rPI 4+Argon ONE case
@@ -1190,12 +1191,11 @@ Some options/considerations are:
 
 Notes:
  - Common: Start on boot
-   - Start on boot:
-     - Put program shortcut in startup folder (Windows: %appdata%\Microsoft\Windows\Start Menu\Programs\Startup, [Linux](https://kodi.wiki/view/HOW-TO:Autostart_Kodi_for_Linux))
-     - If you need to run the program with command line options/switches, create a <program>.bat file containing what you want to run and put that in the startup folder
+   - Put program shortcut in startup folder (Windows: %appdata%\Microsoft\Windows\Start Menu\Programs\Startup, [Linux](https://kodi.wiki/view/HOW-TO:Autostart_Kodi_for_Linux))
+   - If you need to run the program with command line options/switches, create a <program>.bat file containing what you want to run and put that in the startup folder
  - Common: Key/Button mapping
-   - Some programs have a built-in feature for mapping keys to functions like Kodi's [keymap](https://kodi.wiki/view/Keymap) and Plex's [inputmaps](https://support.plex.tv/articles/plex-htpc-input-maps/). If not, use the AutoHotKey (AHK) program to do this.
-   - If not mapping a normal key, get its "scancode" by either using KeyboardStateView[https://www.nirsoft.net/utils/keyboard_state_view.html), or by opening the window of a running .AHK script and using Cntrl+K. You can then use this in your AHK script/inputmap.
+   - Some programs have a built-in feature for mapping keys to functions like Kodi's [keymap](https://kodi.wiki/view/Keymap) and Plex's [inputmaps](https://support.plex.tv/articles/plex-htpc-input-maps/). If not, use the AutoHotKey (AHK) program to do this; it has a more advanced feature-set.
+   - If not mapping a normal key, get its "scancode" by either using [KeyboardStateView](https://www.nirsoft.net/utils/keyboard_state_view.html), or by opening the window of a running .AHK script and using Cntrl+K. You can then use this in your AHK script/inputmap.
  - Common: Remote Access
    - Linux/Windows: Teamviewer, Rustdesk, Chrome Remote Desktop
    - Libreelec: VPN to network (@router or @device/tailscale) + VNC
