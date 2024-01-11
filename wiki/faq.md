@@ -1186,7 +1186,7 @@ Some options/considerations are:
    - [FM4](https://www.amazon.com/Seleven-Universal-Control-Wireless-Android/dp/B01FVUGPE8)
    - WeChip [G20S](https://www.amazon.com/WeChip-G20-Control-Wireless-Sensing/dp/B07P322VRP)/[W3](https://www.amazon.com/WeChip-W3-Wireless-Control-Projector/dp/B09XMF5YN1)
    - [Argon IR](https://www.amazon.com/Argon-Raspberry-Infrared-Batteries-Included/dp/B091F3XSF6) w/FLIRC or rPI 4+Argon ONE case
-   - [FLIRC](https://flirc.tv/products/flirc-usb-receiver?variant=43513067569384) w/any IR TV/MCE remote.  
+   - [FLIRC](https://flirc.tv/products/flirc-usb-receiver?variant=43513067569384) w/any IR TV/MCE remote. (e.g. [OneForAll Streamer](https://www.oneforall.com/universal-remotes/urc7935-streamer-remote))  
 
 Notes:
  - Common: Start on boot
@@ -1196,6 +1196,11 @@ Notes:
  - Common: Key/Button mapping
    - Some programs have a built-in feature for mapping keys to functions like Kodi's [keymap](https://kodi.wiki/view/Keymap) and Plex's [inputmaps](https://support.plex.tv/articles/plex-htpc-input-maps/). If not, use the AutoHotKey (AHK) program to do this.
    - If not mapping a normal key, get its "scancode" by either using KeyboardStateView[https://www.nirsoft.net/utils/keyboard_state_view.html), or by opening the window of a running .AHK script and using Cntrl+K. You can then use this in your AHK script/inputmap.
+ - Common: Remote Access
+   - Linux/Windows: Teamviewer, Rustdesk, Chrome Remote Desktop
+   - Libreelec: VPN to network (@router or @device/tailscale) + VNC
+ - Common: Power Control
+   - Device on a smart plug, power controlled by mobile app
  - Kodi
    - Starting in Full Screen (Settings->System->Display->Expert->Display mode)
    - Starting up in certain libraries (Settings->Appearance->Home)
