@@ -372,7 +372,7 @@ If you're playing 4K media or doing some gaming with an CPU-integrated GPU/APU, 
 
 BRANDS/MODELS:  
 *- Quality:* Corsair, G.Skill, Crucial (REC: 2x8GB DDR4-3600 Corsair Vengeance LPX)  
-*- Budget:* Patriot, Teamgroup, Silicon Power (REC: 2x8GB DDR4-3200 Silicon Power Gaming)  
+*- Budget:* Patriot, Teamgroup, Silicon Power (REC: 2x8GB DDR4-3200 Teamforce Vulcan Z)  
 *- Low Profile:* G.Skill Aegis/Patriot Signature/Crucial Green (31.25mm), Teamgroup Elite (31.5mm), Teamgroup Vulcan Z (31.6mm), Corsair Vengeance LPX (34mm), HyperX Fury (34.1mm)  
 
 [Example PCPartPicker RAM search](https://pcpartpicker.com/products/memory/#xcx=0&U=4&t=14&S=3200,6600&Z=8192002,16384002,32768002&sort=price&page=1&R=5,4,3)  
@@ -395,7 +395,7 @@ There are a very few cases where a SSD should be used for media or non-OS data:
 BRANDS/MODELS:  
 SSDs:  
 *- Quality:* Samsung, WD Black, SK Hynix, Sabrent, Crucial (OS Drive REC: Samsung 970 Evo Plus)  
-*- Budget:* Teamgroup, Silicon Power, Inland, Kingston, WD Blue (OS Drive REC: Teamgroup MP33).  
+*- Budget:* Teamgroup, Inland, Kingston, WD Blue (OS Drive REC: Teamgroup MP33).  
 HDDs: Ultrastar, Seagate Exos, WD Red  
 [Example PCPartPicker SSD search](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=128000000000,20000000000000&t=0&f=3,122080&sort=price&R=5,4,3)  
 
