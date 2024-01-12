@@ -51,9 +51,9 @@ Respected mfgrs are: intel, hp, dell, apple, lenovo, asus, asrock, simply nuc, z
 
 $80-$95: SMALLEST: SBC: w/CoreELEC OS, 32GB MicroSD, AC Adapter 
 
- - [Odroid C4](https://www.hardkernel.com/shop/odroid-c4/) ($85) 
+ - [Odroid C4](https://www.hardkernel.com/shop/odroid-c4/) ($70) 
 
- - **[Odroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-4gbyte-ram-2/) ($95)** 
+ - **[Odroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-4gbyte-ram-2/) ($82)** 
 
  - *Used for:* local content, Kodi-based interface, ext. storage 
 
