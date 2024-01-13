@@ -61,8 +61,8 @@ $125-$400: SMALLER: Intel/AMD Mini PC, 8GB (2x4GB) RAM, 256GB SSD
 
 - Intel: [Beelink S12/S12 Pro](https://www.amazon.com/s?k=beelink+s12&i=computers&rh=n%3A13896591011&s=price-asc-rank&ds=v1%3A0rP7%2FYir5%2B3dWoX4iUAxynwHuR7nrtIQNpWFwPZIfME&qid=1701365434&ref=sr_st_price-asc-rank) (N95/N100) ($150+)
 - Intel: [Intel NUC 8i3/8i5 - Ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=nuc+%288i3%2C8i5%2C8109u%2C8130u%2C8th%2C8259u%29&_sacat=179&LH_TitleDesc=1&_odkw=nuc+%288i3%2C8i5%2C8109u%2C8130u%2C8th%29&_osacat=179&_sop=15&LH_PrefLoc=2) ($125+)
-- AMD: [Beelink SER5](https://www.amazon.com/s?k=ser5&i=electronics&s=price-asc-rank), [Minisforum UM480XT](https://www.amazon.com/s?k=um480xt&crid=3J3688VURANYX&sprefix=um480xt%2Caps%2C108&ref=nb_sb_noss_1) ($240)
-- **Intel: [Beelink SEI 11/12](https://www.amazon.com/s?k=sei11%7Csei12%7C11320h%7C1235u&i=computers&rh=n%3A172282%2Cn%3A541966%2Cn%3A13896617011%2Cn%3A565098%2Cn%3A13896591011&dc&ds=v1%3AmTJYvN%2BbTmsBxbzAse6xxXCF3PgGFkyJxBZiipgw4VE&qid=1701365103&rnid=172282&ref=sr_nr_n_2) (i5-11320H/i5-12450H) ($300+)**
+- AMD: [Beelink SER5](https://www.amazon.com/s?k=ser5&i=electronics&s=price-asc-rank), [Minisforum UM480XT](https://www.amazon.com/s?k=um480xt&crid=3J3688VURANYX&sprefix=um480xt%2Caps%2C108&ref=nb_sb_noss_1) ($250)
+- **Intel: [Beelink SEI 11/12](https://www.amazon.com/s?k=sei11%7Csei12%7C11320h%7C1235u%7C12450h&rh=n%3A13896591011&ref=nb_sb_noss) ($300+)**
 - AMD: [Beelink SER6](https://www.amazon.com/s?k=ser6&rh=n%3A13896591011&ref=nb_sb_noss) ($375)  
 - *Used for:* local content + 4k netflix/YT, web browsing, int. 2.5" storage, AV1 ([SEI 11/12](https://www.amazon.com/s?k=sei11%7Csei12%7C11320h%7C1235u&i=computers&rh=n%3A172282%2Cn%3A541966%2Cn%3A13896617011%2Cn%3A565098%2Cn%3A13896591011&dc&ds=v1%3AmTJYvN%2BbTmsBxbzAse6xxXCF3PgGFkyJxBZiipgw4VE&qid=1701365103&rnid=172282&ref=sr_nr_n_2), SER6), plex server (intel), light gaming (SEI11, SER6).  
 
