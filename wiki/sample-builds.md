@@ -49,13 +49,13 @@ Respected mfgrs are: intel, hp, dell, apple, lenovo, asus, asrock, simply nuc, z
 
 **TL;DR If you're on a budget, then an Intel N95/N100 based mini pc for $140-$170 with ram/disk is fine. If you can afford it, look at a Beelink SEI 11/12 for $300 for better future-proofing (AV1).**  
 
-$80-$95: SMALLEST: SBC: w/CoreELEC OS, 32GB MicroSD, AC Adapter 
+$70-$85: SMALLEST: SBC: w/CoreELEC OS, 32GB MicroSD, AC Adapter 
 
  - [Odroid C4](https://www.hardkernel.com/shop/odroid-c4/) ($70) 
 
  - **[Odroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ($82)** 
 
- - *Used for:* local content, Kodi-based interface, ext. storage 
+ - *Used for:* HEVC/VP9 local content, Kodi-based interface, ext. storage 
 
 $125-$400: SMALLER: Intel/AMD Mini PC, 8GB (2x4GB) RAM, 256GB SSD
 
