@@ -47,7 +47,7 @@ Respected mfgrs are: intel, hp, dell, apple, lenovo, asus, asrock, simply nuc, z
 
 ### 4K HDR PLAYERS
 
-**TL;DR If you're on a budget, then an Intel N95/N100 based mini pc for $140-$170 with ram/disk is fine. If you can afford it, look at a Beelink SEI 11/12 for $300 for better future-proofing (AV1).**  
+**TL;DR If you're on a budget, then an Intel N95/N100 based mini pc for $140-$170 with ram/disk is fine. If you can afford it, look at a Beelink SEI 11/12 for $300 for better future-proofing.**  
 
 $70-$85: SMALLEST: SBC: w/CoreELEC OS, 32GB MicroSD, AC Adapter 
 
@@ -64,7 +64,7 @@ $125-$400: SMALLER: Intel/AMD Mini PC, 8GB (2x4GB) RAM, 256GB SSD
 - AMD: [Beelink SER5](https://www.amazon.com/s?k=ser5&i=electronics&s=price-asc-rank), [Minisforum UM480XT](https://www.amazon.com/s?k=um480xt&crid=3J3688VURANYX&sprefix=um480xt%2Caps%2C108&ref=nb_sb_noss_1) ($250)
 - **Intel: [Beelink SEI 11/12](https://www.amazon.com/s?k=sei11%7Csei12%7C11320h%7C1235u%7C12450h&rh=n%3A13896591011&ref=nb_sb_noss) ($300+)**
 - AMD: [Beelink SER6](https://www.amazon.com/s?k=ser6&rh=n%3A13896591011&ref=nb_sb_noss) ($375)  
-- *Used for:* local content + 4k netflix/YT, web browsing, int. 2.5" storage, AV1 ([SEI 11/12](https://www.amazon.com/s?k=sei11%7Csei12%7C11320h%7C1235u&i=computers&rh=n%3A172282%2Cn%3A541966%2Cn%3A13896617011%2Cn%3A565098%2Cn%3A13896591011&dc&ds=v1%3AmTJYvN%2BbTmsBxbzAse6xxXCF3PgGFkyJxBZiipgw4VE&qid=1701365103&rnid=172282&ref=sr_nr_n_2), SER6), plex server (intel), light gaming (SEI11, SER6).  
+- *Used for:* local content + 4k netflix/YT, web browsing, int. 2.5" storage, AV1 ([SEI 11/12](https://www.amazon.com/s?k=sei11%7Csei12%7C11320h%7C1235u%7C12450h&rh=n%3A13896591011&ref=nb_sb_noss), SER6), plex server (intel), light gaming (SEI11, SER6).  
 
 $125-$725: SMALL/MEDIUM: Intel - i3/i5-7xxx/8xxx/9xxx+ 8GB (2x4GB) RAM, 256GB ssd/1TB hdd: 
 
