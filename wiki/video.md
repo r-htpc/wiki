@@ -259,9 +259,9 @@ As such, it is highly recommended to run video calibration tests before you play
 
 To do this, you should
  
-1. Set the proper color conversion/reproduction settings [from above](/wiki/video#setup-for-color-conversion-reproduction).  
+1. Set the proper color conversion/reproduction settings, if you haven't already, from the [Setup for Color Reproduction](/wiki/video#setup-for-color-conversion-reproduction) section above.  
 2. Calibrate your display in Windows. Start->Color Management->Advanced->Calibrate Display  
-3. **Disable** Hardware Decoding/Acceleration (DXVA, D3D11, NVDEC, pixel shaders etc..) in your video player application, where at all possible, to minimize the chance of the GPU decoder/renderer messing up colors, blacks and whites. You can re-enable it after you're done. The language is different depending on your media player. It should be set to Software/None/Acceleration disabled/etc.. as per the option locations in the below Decoding section.      
+3. **Disable** Hardware Decoding/Acceleration (DXVA, D3D11, NVDEC, pixel shaders etc..) in your video player application, where at all possible, to minimize the chance of the GPU decoder/renderer messing up colors, blacks and whites. You can re-enable it after you're done. The options are different depending on your media player. It should be set to Software/None/Acceleration disabled/etc..; see the location for the option(s) in the Hardware Decoding section below.      
 4. Download calibration media like [AVS HD 709](https://www.avsforum.com/threads/avs-hd-709-blu-ray-mp4-calibration.948496/). Get the MP4 version. At the minimum, extract the tests from the 'Basic Settings' and 'Misc Patterns->A' folder.  
 5. Read the [AVS manual](https://www.w6rz.net/avshd709/Patterns-Manual.pdf) and then run the calibration tests in your video player application.  
 6. If everything looks good, enable Hardware Decoding/Acceleration in your media player as per the below section. If everything does NOT look good, you messed something up in #1/#2. Go back and re-check/re-try.  
