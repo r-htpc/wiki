@@ -626,9 +626,9 @@ MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Has mini keyboard
 
 If you already have an IR remote, you can use a [Flirc](https://flirc.tv/more/flirc-usb) adapter to allow it to be used with your HTPC and/or Nvidia Shield. Flirc also makes a programmable IR remote, the [Skip 1s](https://flirc.tv/products/skip1s-remote?variant=43489094729960#Overview)  
 
-To get [HDMI-CEC](https://kodi.wiki/view/CEC) functionality where none exists, use a [Pulse Eight](https://www.pulse-eight.com/p/104/usb-hdmi-cec-adapter) adapter. Else, a [HDMI-CEC HTPC](/wiki/sample-builds#specialized-hdmi-cec)  
+To get [HDMI-CEC](https://kodi.wiki/view/CEC) functionality where none exists, use a [Pulse Eight](https://www.pulse-eight.com/p/104/usb-hdmi-cec-adapter) adapter. Else, a [HDMI-CEC HTPC](/wiki/sample-builds#specialized-hdmi-cec). To transmit IR from your HTPC to other devices, use a [USB-UIRT](http://www.usbuirt.com/).  
 
-To transmit IR from your HTPC to other devices, use a [USB-UIRT](http://www.usbuirt.com/).  
+For remotes/setups for the elderly, see our specific [section](/wiki/faq#how-can-i-set-up-an-htpc-for-the-elderlydisabled) below  
 
 For **gamepads**, look at [8bitdo](https://www.8bitdo.com/) or Microsoft for highly-compatible Xbox wireless controllers. For multi-user play, you can pair multiple Xbox controllers with a single USB adapter or 2-4 regular BT controllers with a single [USB BT adapter](https://www.amazon.com/IOGEAR-Bluetooth-Multi-Language-Version-GBU521W6/dp/B007ZT2AXE) (CSR8510/BCM20702 chipsets)  
 
