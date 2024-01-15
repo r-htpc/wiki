@@ -613,6 +613,7 @@ Logitech Harmony One	|	Disc (1)	|	RF/BT/IR	|	Yes	|	Int	|	IR Blaster, Hub
 [Skip 1s](https://flirc.tv/products/skip1s-remote-universal-remote-control)    | $45  | IR  | No | AAA | Macros, learning, mobile app
 [MCE Remote](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw=mce+remote&_sacat=0) | $20 | IR | Some | AA/AAA | w/inc. IR hub/Flirc/HDMI-CEC
 [Flirc](https://flirc.tv/more/flirc-usb)  | $20 | USB/IR | NA | NA | IR Receiver for remotes. Wake/Sleep
+**[OSMC Remote](https://osmc.tv/store/product/osmc-remote-control/)**		|	$20	|	RF		|	Yes	|	CR-2032	|	Good simple remote for Kodi
 WeChip G20S Pro		|	$20	|	RF		|	Yes	|	AAA	|	BT in Pro Plus
 MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Has mini keyboard
 [HTWebRemote](https://github.com/nicko88/HTWebRemote)	|	Free	|	LAN		|	NA	|	NA	|	Software to create web-accessible remote on Windows/[Linux](https://github.com/nicko88/HTWebRemoteHost) HTPC to control multiple devices. [Contact](https://www.reddit.com/message/compose/?to=SirMaster)
