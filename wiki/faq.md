@@ -1185,9 +1185,8 @@ Some options/considerations are:
    - Boots into a Kodi interface
    - Configure Kodi to your liking 
 5. A simple remote.
-   - [FM4](https://www.amazon.com/Seleven-Universal-Control-Wireless-Android/dp/B01FVUGPE8)
-   - WeChip [G20S](https://www.amazon.com/WeChip-G20-Control-Wireless-Sensing/dp/B07P322VRP)/[W3](https://www.amazon.com/WeChip-W3-Wireless-Control-Projector/dp/B09XMF5YN1)
-   - [Argon IR](https://www.amazon.com/Argon-Raspberry-Infrared-Batteries-Included/dp/B091F3XSF6) w/FLIRC or rPI 4+Argon ONE case
+   - RF: [OSMC](https://osmc.tv/store/product/osmc-remote-control/), [FM4](https://www.amazon.com/Seleven-Universal-Control-Wireless-Android/dp/B01FVUGPE8), [G20S](https://www.amazon.com/WeChip-G20-Control-Wireless-Sensing/dp/B07P322VRP)
+   - IR: [WeChip W3](https://www.amazon.com/WeChip-W3-Wireless-Control-Projector/dp/B09XMF5YN1), [Argon IR](https://www.amazon.com/Argon-Raspberry-Infrared-Batteries-Included/dp/B091F3XSF6) w/FLIRC or rPI 4+Argon ONE case
    - [FLIRC](https://flirc.tv/products/flirc-usb-receiver?variant=43513067569384) w/any IR TV/MCE remote. (e.g. [OneForAll Streamer](https://www.oneforall.com/universal-remotes/urc7935-streamer-remote))  
 
 Notes:
