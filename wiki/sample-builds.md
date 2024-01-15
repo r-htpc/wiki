@@ -517,7 +517,7 @@ STORAGE|SK Hynix P31 1TB NVMe M.2 SSD (APP/CACHE)|$65|[pcpartpicker](https://pcp
 STORAGE|3 x Ultrastar HC320 8TB HDD (DATA)|$540|[newegg](https://www.newegg.com/hgst-hus728t8tale6l4-8tb/p/1Z4-001J-004Z9)| SEPARATE. ALT: [Ultrastar HC530 14TB](https://www.disctech.com/interface-types/SATA?order=relevance:asc&keywords=hc530) (better $/GB)
 STORAGE|LSI 9207-8i, in IT/HBA mode|$40|[ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=9207+8i+%2Bcables&_sacat=0&LH_TitleDesc=0&_dmd=1&_stpos=80232-6476&_odkw=9201+%2B16i+%2Bcables&_osacat=0&_sop=15&LH_PrefLoc=2&_ipg=60&_sadis=15)|OPTIONAL. For more than 4xSATA ports/better controller support. ALT: [SATA card](https://www.amazon.com/YUNKOZAND-Cables-Expansion-Controller-JMicron/dp/B09T6VWFQH/ref=psdc_284718_t3_B07QS7C6FN?th=1)
 COOL|Noctua NH-U12S Redux CPU Cooler|$50|[pcpartpicker](https://pcpartpicker.com/product/vV7G3C/noctua-nh-u12s-redux-7075-cfm-cpu-cooler-nh-u12s-redux)|ALT: be quiet Pure Rock 2 ($40)
-PSU|Super Flower Leadex III Full 550W ATX|$90|[pcpartpicker](https://pcpartpicker.com/product/LjZ9TW/super-flower-leadex-iii-super-pro-550-w-80-bronze-certified-fully-modular-atx-power-supply-sf-550r14he)|ALT: [Corsair CX650M 650W](https://pcpartpicker.com/product/x96p99/corsair-cx650m-2021-650-w-80-bronze-certified-semi-modular-atx-power-supply-cp-9020221-na) ($80)
+PSU|Corsair CX650M 650W|$90|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=1&A=500000000000,650000000000&p=1,3,2&sort=price&page=1)|ALT: Super Flower Leadex III Full 550W ATX
 SOFTWARE|Unraid - 6 device license|$60|[limetech](https://unraid.net/pricing)|
 TOTAL||$652||
 
