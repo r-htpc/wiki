@@ -697,11 +697,11 @@ For the software side of things, there are various tools you may need to take ad
 
 **Operating Systems:** 
 
-At the minimum you'll need an OS. Windows, Linux and Android are the most popular choices, as you can imagine. If you want to get the highest resolution from streaming services (esp. DRMed ones), use HDR, video upscaling like madVR, or are combining with a gaming solution, you would use Windows. Alternatively, using Linux is possible, but you will be limited to [lower resolution streaming services](/wiki/faq#what-resolution-is-supported-on-streaming-service-x) and no HDR. There are some specialized OSes out there, like [LibreElec](https://libreelec.tv/)/[CoreElec](https://coreelec.org) which are OSes designed for just running a media player (Kodi) with a single, plugin-capable interface. They also suffer from lower resolutions on streaming services but are very good for local content, even HDR. For a gaming centric OS, look at [ChimeraOS](https://chimeraos.org/).  
+At the minimum you'll need an OS. Windows, Linux and Android are the most popular choices, as you can imagine. If you want to get the highest resolution from streaming services (esp. DRMed ones), use HDR, video upscaling like madVR, or are combining with a gaming solution, you would use Windows. Alternatively, using Linux is possible, but you will be limited to [lower resolution streaming services](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x) and no HDR. There are some specialized OSes out there, like [LibreElec](https://libreelec.tv/)/[CoreElec](https://coreelec.org) which are OSes designed for just running a media player (Kodi) with a single, plugin-capable interface. They also suffer from lower resolutions on streaming services but are very good for local content, even HDR. For a gaming centric OS, look at [ChimeraOS](https://chimeraos.org/).  
 
 **Media Players:** 
 
-For [video streaming services](/wiki/faq#what-resolution-is-supported-on-streaming-service-x), use Microsoft Edge to get 1080p+, or the service's app (if available).  
+For [video streaming services](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x), use Microsoft Edge to get 1080p+, or the service's app (if available).  
 
 For simple media players, using local content, [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases), [VLC](https://www.videolan.org/vlc/) and Pot Player are popular on Windows, with [VLC](https://www.videolan.org/vlc/) on Linux.  
 
@@ -754,7 +754,7 @@ Using Windows Store apps for some of these services may be better than using a w
 
 For example, the Netflix Windows Store app does support 4k/1080p streaming and Dolby Digital/Dolby Digital Plus soundtracks. Browser-based solutions tend not support DD/DD+ audio and some content will only be available in 720p. The app still does not have remote control support, but you can try adding 3rd party remote control support using the [Netflix Remote Controller](http://sticky-ux.com/apps/NetflixRemoteController/).  
 
-4K support for streaming services in general is limited on a traditional HTPC. See our sections on [streaming service resolutions supported](/wiki/faq#what-resolution-is-supported-on-streaming-service-x) and [4K compatibility](/wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility) below.  
+4K support for streaming services in general is limited on a traditional HTPC. See our sections on [streaming service resolutions supported](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x) and [4K compatibility](/wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility) below.  
 
 Support for the higher resolutions and audio is way more prevalent on pre-built media devices, so if you use a lot of these services, it's better not to use a PC. Again, see our [media device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) section below.  
 
@@ -1071,7 +1071,7 @@ To test for HDCP 2.2 compliance, use [Cyberlink Ultra HD Blu-Ray Advisor](https:
 
 SOFTWARE/CONTENT
 
-The only 4k content supported on a PC are: Local files, UHD blu-ray discs, Youtube and Netflix. See the [section above](/wiki/faq#what-resolution-is-supported-on-streaming-service-x) on what resolutions are supported for other services. 
+The only 4k content supported on a PC are: Local files, UHD blu-ray discs, Youtube and Netflix. See the [section above](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x) on what resolutions are supported for other services. 
 If you want access to more 4k content, on your favorite streaming services, use a [media device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) instead.  
 
 It is highly likely that the 4K content will be encoded in HEVC (h.265), the successor to the popular and flexible h.264. Hardware decoding of h.265 is limited to:
