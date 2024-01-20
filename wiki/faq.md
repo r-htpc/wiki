@@ -914,81 +914,68 @@ The following are the current capabilities of the major streaming services as we
 
 - [NETFLIX](https://help.netflix.com/en/node/13444?rel=related)  
 
- *Windows:* (MS Edge/MS Store App) 4k HDR10 DD+ 5.1 Atmos. (Chrome/Firefox) 720p SDR Stereo  
-
- *Linux:* 720p SDR  
+  - *Windows:* (MS Edge/MS Store App) 4k HDR10 DD+ 5.1 Atmos. (Chrome/Firefox) 720p SDR Stereo
+  - *Linux:* 720p SDR
 
 - [AMAZON PRIME VIDEO](https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=GUVGB3QMQRYRERYW)  
 
- *Windows:* (MS Edge/Safari) 1080p SDR, (App/Chrome/Firefox) 720p SDR. Stereo  
-
- *Linux:* 480p SDR, Stereo  
+  - *Windows:* (MS Edge/Safari) 1080p SDR, (App/Chrome/Firefox) 720p SDR. Stereo
+  - *Linux:* 480p SDR, Stereo
 
 - [HULU](https://help.hulu.com/s/article/video-quality?language=en_US)  
 
- *Windows:* (MS Store App w/Edge browser as default) 720p SDR, DD+ 5.1. (Browser) 720p SDR, Stereo.   
-
- *Linux:* 480p SDR, Stereo  
+  - *Windows:* (MS Store App w/Edge browser as default) 720p SDR, DD+ 5.1. (Browser) 720p SDR, Stereo.
+  - *Linux:* 480p SDR, Stereo
  
 - [YOUTUBE](https://support.google.com/youtube/answer/78358?hl=en#:~:text=To%20watch%20YouTube%20videos%2C%20make,Internet%20connection%20with%20500%2B%20Kbps)  
 
- *Windows:* 4k HDR10, Stereo  
-
- *Linux:* 4k SDR, Stereo  
+  - *Windows:* 4k HDR10, Stereo
+  - *Linux:* 4k SDR, Stereo
 
 - [YOUTUBE TV](https://support.google.com/youtubetv/answer/7129767?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Cmobile-devices-computers%2Cstreaming-media-players-smart-tvs-game-consoles)  
 
- *Windows:* 1080p SDR, Stereo  
-
- *Linux:* 720p SDR, Stereo  
+  - *Windows:* 1080p SDR, Stereo
+  - *Linux:* 720p SDR, Stereo
 
 - [HBO NOW/MAX](https://help.hbogo.com/hc/en-us/articles/206950967-What-do-I-need-to-stream-HBO-on-my-computer-)  
 
- *Windows:* (MS Edge/Safari) 1080p SDR, (Chrome/Firefox) 720p SDR. DD 5.1 (broken)  
-
- *Linux:* (Chrome/Firefox) 720p SDR?  
+  - *Windows:* (MS Edge/Safari) 1080p SDR, (Chrome/Firefox) 720p SDR. DD 5.1 (broken)
+  - *Linux:* (Chrome/Firefox) 720p SDR?
 
 - [DISNEY+](https://help.disneyplus.com/csp?id=csp_article_content&sys_kb_id=eac89167db3048900a2af56e0f96193b)  
 
- *Windows:* (App) 720p SDR DD 5.1. (MS Edge) 720p SDR, (Chrome) 720p SDR, (Firefox) 480p SDR. Stereo.  
-
- *Linux:* (Chrome/Firefox): 480p SDR, Stereo  
+  - *Windows:* (App) 720p SDR DD 5.1. (MS Edge) 720p SDR, (Chrome) 720p SDR, (Firefox) 480p SDR. Stereo.
+  - *Linux:* (Chrome/Firefox): 480p SDR, Stereo
 
 - [APPLE TV+](https://support.apple.com/guide/tvplus/welcome/web)  
 
- *Windows:* (MS Edge/Chrome/Firefox) 720p SDR?  
-
- *Linux:* Unknown, but will not be higher than 1080p  
+  - *Windows:* (MS Edge/Chrome/Firefox) 720p SDR?
+  - *Linux:* Unknown, but will not be higher than 1080p
 
 - [TWITCH](https://help.twitch.tv/)  
 
- *Windows:* 1080p SDR?  
-
- *Linux:* 1080p SDR?  
+  - *Windows:* 1080p SDR?
+  - *Linux:* 1080p SDR?
 
 - [VUDU](https://support.vudu.com/en_us/categories/general-requirements-r1VPwDURP)  
 
- *Windows:* (Browser/App) 1080p, Stereo  
-
- *Linux:* Not supported  
+  - *Windows:* (Browser/App) 1080p, Stereo
+  - *Linux:* Not supported
 
 - [PEACOCK TV](https://www.peacocktv.com/help/article/what-devices-and-platforms-are-supported-by-peacock)  
 
- Windows: (Edge) 1080p? SDR, AAC Stereo  
-
- Linux: Unknown, but will not be higher than 1080p  
+  - *Windows:* (Edge) 1080p? SDR, AAC Stereo
+  - *Linux:* Unknown, but will not be higher than 1080p
 
 - [PARAMOUNT+](https://help.paramountplus.com/s/article/PD-Supported-Devices)  
 
- *Windows:* Unknown, but will not be higher than 1080p
-
- *Linux:* Unknown, but will not be higher than 1080p  
+  - *Windows:* Unknown, but will not be higher than 1080p
+  - *Linux:* Unknown, but will not be higher than 1080p
 
 - [DISCOVERY+](https://help.discoveryplus.com/hc/en-us/articles/1500000101182-Browsers-and-devices-supported-by-discovery-)  
 
- *Windows:* Unknown, but will not be higher than 1080p  
-
- *Linux:* Unknown, but will not be higher than 1080p  
+  - *Windows:* Unknown, but will not be higher than 1080p
+  - *Linux:* Unknown, but will not be higher than 1080p
 
 ## How can i rip my DVD/Blu-ray discs and what are some good quality settings to use?
 
