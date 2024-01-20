@@ -1,6 +1,6 @@
 # HDR Setup Guide
 
-<meta name="viewport" content="width=600, initial-scale=0.8">
+<meta name="viewport" content="width=625, initial-scale=0.8">
 <!--
 <style>
     table {
