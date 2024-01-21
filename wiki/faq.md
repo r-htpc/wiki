@@ -122,7 +122,7 @@ If you can't find an answer to your question in this FAQ, and are planning to po
 
 We ask that you answer the following questions and paste them in your post, otherwise your post may be removed for lack of details.  
 
-Do NOT ask for help with playing media on [laptop screens or PC monitors](/wiki/faq#displays).
+Do NOT ask for help with playing media on [laptop screens or PC monitors](/wiki/components#displays).
 
 **General Help**
 
@@ -289,7 +289,7 @@ For a comprehensive guide to setting up all the backend organizational/serving s
 
 Yes, however the interface quality and functionality varies widely and remote control support is almost non-existent. The services will detect your device as a PC and present you with their standard web or app-based interface. It may be up to you to start videos and expand them to full-screen.  
 
-If you don't plan on using a [keyboard/mouse-like device](/wiki/faq#keyboardsremotesgamepads), then streaming services on a PC will be painful. There are some workarounds like [software](/wiki/faq#keyboardsremotesgamepads) to emulate a mouse on game controllers/mobile and things like the [Leanback interface](https://redd.it/y5o7mi) for Youtube. If those things aren't good enough for you, then you should buy a remote-based [media device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) from the next section instead.  
+If you don't plan on using a [keyboard/mouse-like device](/wiki/components#keyboardsremotesgamepads), then streaming services on a PC will be painful. There are some workarounds like [software](/wiki/components#keyboardsremotesgamepads) to emulate a mouse on game controllers/mobile and things like the [Leanback interface](https://redd.it/y5o7mi) for Youtube. If those things aren't good enough for you, then you should buy a remote-based [media device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) from the next section instead.  
 
 Using Windows Store apps for some of these services may be better than using a web browser in terms of video/audio support. 
 
@@ -520,7 +520,7 @@ The following are the current capabilities of the major streaming services as we
 
 ## How can i rip my DVD/Blu-ray discs and what are some good quality settings to use?
 
-For DVDs and regular HD blu-ray any optical drive that can read the discs will do, internal or external, and you can spend <= $75 on one. For UHD discs, you should have a UHD or UHD-Friendly compatible drive with locked-in firmware. Check our [optical drives section](/wiki/faq#optical-drives) above.  
+For DVDs and regular HD blu-ray any optical drive that can read the discs will do, internal or external, and you can spend <= $75 on one. For UHD discs, you should have a UHD or UHD-Friendly compatible drive with locked-in firmware. Check our [optical drives section](/wiki/components#optical-drives) above.  
 
 You should then use software to rip the content off the disc. It's recommended to do this process in two stages, especially if you need content re-encoded for compatibility or space..  
 
