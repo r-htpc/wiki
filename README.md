@@ -8,15 +8,13 @@
 ---
 
 ### [FAQ](/wiki/faq) 
-- Information about getting help, building a HTPC, quick-fire RECs, components, client media devices, HTPC tech, common questions, etc..
+- Information about getting help, quick-fire RECs, software, client media devices, HTPC tech, common questions, etc..
 
 ### [Sample Pre-Built / DiY Builds](/wiki/sample-builds) 
 - Sample builds to help you get started with a HTPC, media server, NAS, gaming emulation or VR build
 
-<!--
 ### [Hardware Components Guide](/wiki/components)
 - Components you should consider for a build. Cases/CPUs/GPUs/Motherboards/Memory/Storage/PSUs/Cooling, Video Cables/Adapters, Remotes, Keyboards
--->
 
 ### [AUDIO Setup Guide](/wiki/audio)
 - How to configure, fix, and explanation of AUDIO between your HTPC and Sound System
