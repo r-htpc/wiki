@@ -295,7 +295,7 @@ You will first run a test for the presence of motion problems like stutter. You 
 
 Most video players have hardware decoding support built-in.  
 
-Configuration usually involves a single toggle on the simple side, or, on the advanced side, choosing between DVXA/D3D11/Quicksync and/or choosing your proper GPU Device. Make sure your GPU Device supports hardware decoding for the format(s) you're trying to play. See the [GPU Feature Set Matrix](/wiki/faq/#graphics-gpus) of the FAQ.  
+Configuration usually involves a single toggle on the simple side, or, on the advanced side, choosing between DVXA/D3D11/Quicksync and/or choosing your proper GPU Device. Make sure your GPU Device supports hardware decoding for the format(s) you're trying to play. See the [GPU Feature Set Matrix](/wiki/components/#graphics-gpus) of the Wiki.  
 
 If configured correctly, CPU Usage should be low during playback, while GPU Usage (Decode/3D) should be higher in proportion. If GPU Decode/3D is 0, then hardware decoding is not being used.
 
@@ -420,9 +420,9 @@ Any algo beyond **Jinc** will produce diminishing returns compared to the amount
 ### Why is my video playback stuttering and/or dropping frames?
 
 1. You haven't configured your video player to use your GPU to hardware decode video. See application-specific setup above.
-2. Your GPU doesn't support hardware decoding for the video codecs you're trying to play and your CPU isn't powerful enough to software decode them. Determine what video codec you're attempting to decode (using something like [MediaInfo](https://mediaarea.net/en/MediaInfo)) and then see the GPU section of the wiki faq for what codecs are supported by your GPU. Buy a better [CPU](/wiki/faq#cpus) or [GPU](/wiki/faq#gpusgraphics).
-3. You're running on the edge of what your CPU/GPU can do performance-wise for the video bitrates you're trying to play. The higher the video bitrate, the more stress put on your CPU/GPU. Set your video player's process priority to Above Normal. Play lower bitrate videos. Buy a better [CPU](/wiki/faq#cpus) or [GPU](/wiki/faq#gpusgraphics).
-4. You're doing too much post-proccessing with your video renderer (MadVR, MPC, EVR, etc..). Do less post-processing - Lower/Disable upscaling/downscaling/dithering techniques (nearest-neighbor/bilinear).  Use a more efficient renderer. Buy a better [GPU](/wiki/faq#gpusgraphics).
+2. Your GPU doesn't support hardware decoding for the video codecs you're trying to play and your CPU isn't powerful enough to software decode them. Determine what video codec you're attempting to decode (using something like [MediaInfo](https://mediaarea.net/en/MediaInfo)) and then see the GPU section of the Hardware Components Guide for what codecs are supported by your GPU. Buy a better [CPU](/wiki/components#cpus) or [GPU](/wiki/components#gpusgraphics).
+3. You're running on the edge of what your CPU/GPU can do performance-wise for the video bitrates you're trying to play. The higher the video bitrate, the more stress put on your CPU/GPU. Set your video player's process priority to Above Normal. Play lower bitrate videos. Buy a better [CPU](/wiki/components#cpus) or [GPU](/wiki/components#gpusgraphics).
+4. You're doing too much post-proccessing with your video renderer (MadVR, MPC, EVR, etc..). Do less post-processing - Lower/Disable upscaling/downscaling/dithering techniques (nearest-neighbor/bilinear).  Use a more efficient renderer. Buy a better [GPU](/wiki/components#gpusgraphics).
 5. You're running your RAM in single-channel mode or haven't dedicated enough RAM to your iGPU. Run 2+ sticks of RAM in dual-channel mode for the best performance. If using an iGPU, dedicate as much RAM to it, in your BIOS, where possible.
 6. Your CPU/GPU is doing too much work in the background. Audit windows Task Manager and disable background tasks and/or processes using the CPU/GPU (updates, antivirus, disk indexing).
 7. Your video driver is out of date. Update it and/or re-install the driver clean after running [DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html).
@@ -472,7 +472,7 @@ Active adapters also do not allow passthrough/bitstreaming of HD audio, only PCM
 
 USB-C is just a different connector, still carrying the DisplayPort protocol as if it was that connector.  
 
-When buying cables and adapters, please do NOT buy no-name brands. As quality control is low on them and marketing is more often than that mis-leading. Recommended cables and adapters can be found in the hardware section of the [Wiki FAQ](/wiki/faq). You can also find there what versions of DisplayPort and HDMI are supported on various CPUs/GPUs.  
+When buying cables and adapters, please do NOT buy no-name brands. As quality control is low on them and marketing is more often than that mis-leading. Recommended cables and adapters can be found in the hardware section of the [Hardware Components Guide](/wiki/components). You can also find there what versions of DisplayPort and HDMI are supported on various CPUs/GPUs.  
 
 <!-- Sub-Section -->
 
