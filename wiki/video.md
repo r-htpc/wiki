@@ -472,7 +472,7 @@ Active adapters also do not allow passthrough/bitstreaming of HD audio, only PCM
 
 USB-C is just a different connector, still carrying the DisplayPort protocol as if it was that connector.  
 
-When buying cables and adapters, please do NOT buy no-name brands. As quality control is low on them and marketing is more often than that mis-leading. Recommended cables and adapters can be found in the hardware section of the [Hardware Components Guide](/wiki/components). You can also find there what versions of DisplayPort and HDMI are supported on various CPUs/GPUs.  
+When buying cables and adapters, please do NOT buy no-name brands. As quality control is low on them and marketing is more often than that mis-leading. Recommended cables and adapters can be found in the cables section of the [Hardware Components Guide](/wiki/components#video-cablesadapters). You can also find there what versions of DisplayPort and HDMI are supported on various CPUs/GPUs.  
 
 <!-- Sub-Section -->
 
