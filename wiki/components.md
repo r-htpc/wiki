@@ -69,6 +69,7 @@ We have a whole section on cooling below. Remember: bigger, slower fans are bett
 Below are the minimum CPUs required for each scenario and a recommendation. **All have integrated graphics and a dGPU is not required (unless specified)**. The recommendations may change depending on your budget, regional availability, space/power requirements, and whether you want new or second-hand parts. If you're not sure, post and ask us for a rec based on your detailed use-case.  
 
 - **Best All-Rounder: AMD Ryzen 4600G, Intel i3-12100**
+  - Both CPUs will play 4K/HDR/h264/h265/VP9 media just fine and run 4k@60hz. The 4600G will have more graphics power for emulation/casual gaming, but the 12100 will have newer AV1 media decoding, so is a little more future-proofed.
 
 - 1080p, No gaming: Intel >= i3/i5/i7-7xxx iGPU, Pentium G4xxx or Apollo/Gemini Lake J3xxx, AMD Athlon 3000G, AMD >= Ryzen 3 2200G APU (REC: Intel G7400)  
 
@@ -102,7 +103,8 @@ Some features like HDR, 4K and protected content will restrict you to certain mo
 
 Below are the minimum requirements for each scenario and a recommendation. The recommendations are generalized and may change depending on your budget, regional availability, space/power requirements, and whether you want new or second-hand parts. If you're not sure, post and ask us for a rec based on your detailed use-case.  
 
-- **Best All-Rounder: AMD RX 6400**  
+- **Best All-Rounder: AMD RX 6400**
+  - Will run 4k@120Hz, has low-profile versions and only requires PCIe sot power. Its weakness is it doesn't have AV1 media decoding.
 
 - 1080p H264, 4k@30Hz video out: AMD Radeon R5 240/HD 8570 (REC: Dell R5 240)  
 
