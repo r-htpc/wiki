@@ -120,6 +120,8 @@ Below are the minimum requirements for each scenario and a recommendation. The r
 
 - Emulation: Nvidia >= GT 1030 GDDR5, AMD >= 5xx/5x00/6x00 (REC: Used: GTX 1050 Ti, New: RX 6400)  
 
+- Medium Gaming: (REC: Used: GTX 1060 6GB/1660 Super 6GB, New: AMD RX 6600)  
+
 - UHD Blu-Ray disc playing: Not supported. Intel iGPU only.
 
 - Plex Transcoding: [Elpamsoft GPU transcode tables](https://www.elpamsoft.com/?p=Plex-Hardware-Transcoding) (REC: Quadro P600/GTX 1050 Ti)  
