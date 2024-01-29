@@ -436,9 +436,9 @@ KEYBOARD						|	PRICE	|	SIZE	|	INT		|	BACKLIT	|	POINT	|	BATTERY	|	NOTES
 [Macally BTTVKEY](https://www.amazon.com/Macally-BTTVKEY/dp/B08S3S6ZDV)				|	[$30](https://www.amazon.com/Macally-BTTVKEY/dp/B08S3S6ZDV)		|	Compact	|	BT		|	No		|	Pad		|	AAA		|	9.7"
 Rii [K12+](https://www.amazon.com/Rii-K12-Portable-Stainless-Rechargeable/dp/B011KPIZ9G)					|	[$30](https://www.amazon.com/Rii-K12-Portable-Stainless-Rechargeable/dp/B011KPIZ9G)		|	Compact	|	RF		|	No		|	Pad		|	Int		|	10"
 [Logitech DiNovo Mini](https://download01.logitech.com/web/ftp/pub/pdf/keyboards/diNovo_productguide_eng-fre.pdf)		|	[Disc (1)](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=dinovo+mini&_sacat=0)	|	Mini	|	BT/RF	|	Yes		|	Pad		|	Prop (2)|	6", [Ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=dinovo+mini&_sacat=0)
-[Rii i4](http://www.riitek.com/product/i4.html)						|	[$30](https://www.amazon.com/dp/B07T13GLY3)		|	Mini	|	RF/BT	|	Yes		|	Pad		|	Int		|	6"
-**[Rii i8+/i8+ BT](http://www.riitek.com/plus/search.php?kwtype=0&searchtype=titlekeyword&keyword=i8)**				|	[$30](https://www.amazon.com/Rii-Bluetooth-Touchpad%EF%BC%86QWERTY-Smartphones-Raspberry/dp/B01GCPVZDW)		|	Mini	|	RF/BT	|	Yes		|	Pad		|	Int		|	5.8"
-[Rii K06BT](http://www.riitek.com/product/k06bt.html)/X1BT					|	[$30](https://www.amazon.com/Wireless-Bluetooth-Touchpad-Keyboard-Android/dp/B07FRBMS12)/[$30](https://www.amazon.com/dp/B07TS7TQ8J)		|	Micro	|	BT		|	Yes		|	Pad		|	Int		|	5.8"
+[Rii i4](http://www.riitek.com/product/214.html)						|	[$30](https://www.amazon.com/dp/B07T13GLY3)		|	Mini	|	RF/BT	|	Yes		|	Pad		|	Int		|	6"
+**[Rii i8+/i8x](http://www.riitek.com/product/222.html)**				|	[$30](https://www.amazon.com/Rii-Bluetooth-Touchpad%EF%BC%86QWERTY-Smartphones-Raspberry/dp/B01GCPVZDW)		|	Mini	|	RF	|	Yes		|	Pad		|	Int		|	5.8"
+Rii K06BT/X1BT					|	[$30](https://www.amazon.com/Rii-Bluetooth-Keyboard-Lightweight-Compatible/dp/B0BML42L6X)/[$30](https://www.amazon.com/dp/B07TS7TQ8J)		|	Micro	|	BT		|	Yes		|	Pad		|	Int		|	5.8"
 [Rii i15](http://www.riitek.com/product/i15.html)						|	Disc? (1)		|	Micro	|	RF/BT	|	Yes		|	Pad		|	Int		|	5.3"
 [Rii - Various](http://www.riitek.com/product/mini.html)				|	NA		|	Various	|	RF/BT	|	Various	|	Various	|	Int		| All others
 [Perixx trackball keyboards](https://perixx.com/collections/keyboards?pf_t_features=features%3A+Trackball&pf_t_features_and_condition=true)	| [$25-$150](https://www.amazon.com/s?k=perixx+keyboard+trackball&i=electronics&crid=2YKIEQC3WUT5S&sprefix=perixx+keyboard+trackball%2Celectronics%2C140&ref=nb_sb_noss_1)	|	Various	|	USB/RF	|	Various		|	Ball		|	Various		|	9"-18.6"
@@ -454,13 +454,13 @@ REMOTE			|	PRICE	|	INT		|	BACKLIT	|	BATTERY	|	NOTES
 Logitech Harmony One	|	Disc (1)	|	RF/BT/IR	|	Yes	|	Int	|	IR Blaster, Hub
 [Sofabaton U1/U2](https://sofabaton.com/u1.html)		|	$50/$60	|	BT/IR		|	NO	|	AA (30hr)	|	15 devices, macros, mobile app
 [Sofabaton X1](https://sofabaton.com/x1.html)		|	$190	|	BT/IR/WiFi	|	Yes	|	Int	(60hr) |	60 devices, adv macros, hub, IR blaster, voice/alexa/google
-**[Pepper Jobs W10](https://www.pepper-jobs.com/products/w10-gyro-smart-remote)**		|	$30	|	RF/IR		|	Yes	|	AAA	|	Has mini keyboard, designed for Windows
+**[Pepper Jobs W10](https://www.pepper-jobs.com/products/w10-gyro-smart-remote)**		|	$30	|	RF/IR		|	Yes	|	AAA	|	Mini keyboard, Air Mouse, made for Windows
 **[OSMC Remote](https://osmc.tv/store/product/osmc-remote-control/)**		|	$20	|	RF		|	Yes	|	CR-2032	|	Good simple remote for Kodi
 [Skip 1s](https://flirc.tv/products/skip1s-remote-universal-remote-control)    | $45  | IR  | No | AAA | Macros, learning, mobile app
 [MCE Remote](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw=mce+remote&_sacat=0) | $20 | IR | Some | AA/AAA | w/inc. IR hub/Flirc/HDMI-CEC
 [Flirc](https://flirc.tv/more/flirc-usb)  | $20 | USB/IR | NA | NA | IR Receiver for remotes. Wake/Sleep
-WeChip G20S Pro		|	$20	|	RF		|	Yes	|	AAA	|	BT in Pro Plus
-MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Has mini keyboard
+WeChip G20S Pro		|	$20	|	RF		|	Yes	|	AAA	|	BT in Pro Plus, Air Mouse
+MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Has mini keyboard, Air Mouse
 [HTWebRemote](https://github.com/nicko88/HTWebRemote)	|	Free	|	LAN		|	NA	|	NA	|	Software to create web-accessible remote on Windows/[Linux](https://github.com/nicko88/HTWebRemoteHost) HTPC to control multiple devices. [Contact](https://www.reddit.com/message/compose/?to=SirMaster)
 [Unified Remote](https://www.unifiedremote.com/)	|	Free/$5	|	LAN		|	NA	|	NA	|	Software to create app-accessible remote on Windows/Linux HTPC to control multiple devices
 [DS4Windows](https://ds4-windows.com/)	|	Free	|	NA		|	NA	|	NA	|	Software to use DS3/DS4/DS5 controllers as mouse/remote
