@@ -415,14 +415,14 @@ If you need a USB-C to HDMI adapter, we recommend Cable Matters [Adapter](https:
 
 It's highly recommended that you do NOT put 2.4 Ghz wifi routers in the same room as RF or BT devices below.  
 
-For **keyboards**, one with an integrated trackpad and backlight for use in the dark is ideal, but a premium one (like the Logitech K830 or Corsair K83) is hard to find. Logitech and Microsoft will be the most supported and of higher quality. If you want specific features, you may be forced to venture out to Riitek, Arteck or other unknown sellers. Do not expect the highest quality or good support.  
+For **keyboards**, one with an integrated trackpad and backlight for use in the dark is ideal, but the best ones (like the Logitech K830 or Corsair K83) are discontinued and expensive. Beyond that, Logitech and Microsoft will be the most supported and of higher quality. If you want specific features, you may be forced to venture out to Riitek, Arteck or other unknown sellers. Do not expect the highest quality or good support.  
 RF and Bluetooth (BT) are the most used connection technologies. Use either with a HTPC. For media devices/smart tvs, BT will be most supported  
 
 KEYBOARD						|	PRICE	|	SIZE	|	INT		|	BACKLIT	|	POINT	|	BATTERY	|	NOTES
 :--|:--|:--|:--|:--|:--|:--|:--|
 [Logitech K830](https://www.logitech.com/en-us/products/keyboards/k830-illuminated-tv-wireless.html)				|	[Disc (1)](https://www.amazon.com/dp/B00ZOPVSKW?ref=emc_p_m_9_b&th=1)	|	Full	|	BT/RF	|	Yes		|	Pad		|	Int		|	14.4", [Ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=logitech+k830&_sacat=0)
-[Logitech K400](https://m.media-amazon.com/images/I/A1-V3Jgn7ZL.pdf)				|	[$30](https://www.amazon.com/Logitech-Wireless-Keyboard-Multi-Touch-Touchpad/dp/B005DKZTMG)		|	Full	|	RF		|	No		|	Pad		|	AA		|	14"
-**[Logitech K400 Plus](https://www.logitech.com/en-us/products/keyboards/k400-plus-touchpad-keyboard.html)**		|	[$20](https://www.amazon.com/Logitech-Wireless-Keyboard-Touchpad-PC-connected/dp/B014EUQOGK)		|	Full	|	RF		|	No		|	Pad		|	AA		|	14", dual Fn keys
+[Logitech K400](https://m.media-amazon.com/images/I/A1-V3Jgn7ZL.pdf)				|	[$30](https://www.amazon.com/Logitech-Wireless-Keyboard-Multi-Touch-Touchpad/dp/B005DKZTMG)		|	Full	|	RF		|	No		|	Pad		|	AA		|	14". Simple, popular
+**[Logitech K400 Plus](https://www.logitech.com/en-us/products/keyboards/k400-plus-touchpad-keyboard.html)**		|	[$25](https://www.amazon.com/Logitech-Wireless-Keyboard-Touchpad-PC-connected/dp/B014EUQOGK)		|	Full	|	RF		|	No		|	Pad		|	AA		|	14", dual Fn keys. Simple, popular.
 [Logitech K600](https://www.logitech.com/en-us/products/keyboards/k600-smart-tv-d-pad.920-008822.html)				|	[$70](https://www.amazon.com/Logitech-K600-TV-Keyboard-Integrated/dp/B07C6LXYHL)		|	Full	|	BT/RF	|	No		|	Pad		|	AAA		|	14.4", D-pad
 [Microsoft All-In-One Media](https://www.microsoft.com/en/accessories/products/keyboards/all-in-one-media-keyboard)	|	[$40](https://www.microsoft.com/en-us/d/microsoft-all-in-one-media-keyboard/8ttd9j9jnsf0)		|	Full	|	RF		|	No		|	Pad		|	AAA		|	14.4", [Amazon](https://www.amazon.com/s?k=microsoft+all+in+one+keyboard&rh=n%3A172282%2Cp_89%3AMicrosoft)
 [Arteck B08SK8D38P (HD197)](https://www.google.com/search?q=arteck+hd197)	|	[$30](https://www.amazon.com/dp/B08SK8D38P)		|	Full	|	BT		|	No		|	Pad		|	Int		|	14.6", multi-connection
