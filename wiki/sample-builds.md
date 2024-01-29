@@ -831,7 +831,7 @@ GPU			|AMD Radeon RX 6600	|$180		|[pcpartpicker](https://pcpartpicker.com/produc
 COOL		|Cooler Master MasterLiquid ML120L 120mm AIO				|$80		|[pcpartpicker](https://pcpartpicker.com/product/4TpmP6/cooler-master-masterliquid-ml120l-rgb-v2-6559-cfm-liquid-cpu-cooler-mlw-d12m-a18pc-r2)	|ALT: Corsair H60/H80i 120mm AIO ($80/$120), Noctua NH-L12S ($50)
 MEM			|Corsair Vengeance 16GB 2x8GB DDR4-3200					|$40			|[pcpartpicker](https://pcpartpicker.com/product/p6RFf7/corsair-memory-cmk16gx4m2b3200c16)	|
 STORAGE		|WD Black SN770 1TB NVMe M.2 SSD TLC					|$60		|[pcpartpicker](https://pcpartpicker.com/product/YVytt6/western-digital-1-tb-m2-2280-nvme-solid-state-drive-wds100t3x0e)	|ALT: WD Blue 6TB ($100) w/120mm AIO only, Seagate 2TB FireCuda ($80)
-PSU			|Corsair CX650M (2021) 650W ATX				|$80			|[pcpartpicker](https://pcpartpicker.com/product/x96p99/corsair-cx650m-2021-650-w-80-bronze-certified-semi-modular-atx-power-supply-cp-9020221-na)	|ALT: [EVGA SuperNOVA 550 GM](https://pcpartpicker.com/product/QgyV3C/evga-supernova-gm-550w-80-gold-certified-fully-modular-sfx-power-supply-123-gm-0550-y1) ($110)
+PSU			|Corsair CX650M (2021) 650W ATX				|$80			|[pcpartpicker](https://pcpartpicker.com/product/x96p99/corsair-cx650m-2021-650-w-80-bronze-certified-semi-modular-atx-power-supply-cp-9020221-na)	|ALT: [EVGA SuperNOVA 550 GM SFX](https://pcpartpicker.com/product/QgyV3C/evga-supernova-gm-550w-80-gold-certified-fully-modular-sfx-power-supply-123-gm-0550-y1) ($110)
 TOTAL		|													|$775		|	|
 
 <!-- Sub-Section -->
@@ -856,6 +856,6 @@ MEM			|Corsair Vengeance 16GB 2x8GB DDR4-3200					|$40			|[pcpartpicker](https:/
 STORAGE		|WD Black SN770 1TB NVMe M.2 SSD TLC					|$60		|[pcpartpicker](https://pcpartpicker.com/product/YVytt6/western-digital-1-tb-m2-2280-nvme-solid-state-drive-wds100t3x0e)	|
 COOL		|Thermalright AXP90-X47 CPU cooler 						|$35				|[pcpartpicker](https://pcpartpicker.com/product/7GTp99/thermalright-axp90-x47-black-4258-cfm-cpu-cooler-axp90-x47-black)	|ALT: ID Cooling IS-50X/55 ($30)
 COOL		|Noctua NF-A9x14 92mm Case fans 3x				|$60				|[Quietpc](https://www.quietpc.com/nf-a9x14-hs-pwm-ch-bk-s)	|2x is ok too for less noise, +4-5C temp
-PSU			|EVGA SuperNOVA 550 GM				|$110			|[pcpartpicker](https://pcpartpicker.com/product/QgyV3C/evga-supernova-gm-550w-80-gold-certified-fully-modular-sfx-power-supply-123-gm-0550-y1)	|ALT: [Corsair SF600 Full-Modular 600W SFX](https://pcpartpicker.com/product/CQ648d/corsair-power-supply-cp9020105na) ($125)
+PSU			|EVGA SuperNOVA 550 GM SFX				|$110			|[pcpartpicker](https://pcpartpicker.com/product/QgyV3C/evga-supernova-gm-550w-80-gold-certified-fully-modular-sfx-power-supply-123-gm-0550-y1)	|ALT: Cooler Master V550 SFX Gold ($105)
 TOTAL		|											|$844			|	|
 
