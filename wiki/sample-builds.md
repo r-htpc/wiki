@@ -307,8 +307,8 @@ CASE	|Apex Slim MicroATX DM-387 Case w/275W PSU			|	$80		|	[pcpartpicker](https:
 MOBO	|MSI PRO B760M-P DDR4 MicroATX					|	$100		|	[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&s=40&f=7&sort=price&page=1)		|	ALT: ITX: [pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&sort=price&f=8&s=40)
 CPU		|Intel i3-12100 - 60W							|	$120		|	[pcpartpicker](https://pcpartpicker.com/product/qrhFf7/intel-core-i3-12100-33-ghz-quad-core-processor-bx8071512100)		| ALT: Intel G7400 ($80)
 MEM		|Teamforce Vulcan Z DDR4-3200 2x8GB				|	$35		|	[pcpartpicker](https://pcpartpicker.com/product/2Bnypg/team-t-force-vulcan-z-16-gb-2-x-8-gb-ddr4-3200-cl16-memory-tlzgd416g3200hc16fdc01)	|	ALT: [pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&sort=price&S=3000,8000&Z=16384002)
-STORAGE		|Teamgroup MP33 512GB NVMe M.2 SSD 			|	$25		|[pcpartpicker](https://pcpartpicker.com/product/Brvqqs/team-mp33-512-gb-m2-2280-nvme-solid-state-drive-tm8fp6512g0c101)	|ALT: WD Black SN770 500 GB M.2 ($40)
-TOTAL							|			|	$360		|			|
+STORAGE		|Teamgroup MP33 512GB NVMe M.2 SSD 			|	$40		|[pcpartpicker](https://pcpartpicker.com/product/Brvqqs/team-mp33-512-gb-m2-2280-nvme-solid-state-drive-tm8fp6512g0c101)	|ALT: WD Black SN770 500 GB M.2 ($40)
+TOTAL							|			|	$375		|			|
 
 <!-- Sub-Section -->
 
@@ -344,7 +344,7 @@ PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 CASE|Goodisory MX01 SECC ITX|$35|[amazon](https://www.amazon.com/Goodisory-MX01-Fanless-Chassis-Vertical/dp/B07T2HKWZN)|8.4" x 7.9" x 3" ALT: Apex MI-008/ML03
 CPU/MOBO|ASRock N100DC-ITX, 6W|$130|[newegg](https://www.newegg.com/p/N82E16813162133)|[specs](https://www.asrock.com/mb/Intel/N100DC-ITX/).
 MEM|Teamgroup T-Force Vulcan Z 2x8GB DDR4-3200 DIMMs|$35|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&b=ddr4&ff=ddr4&sort=price&S=3200,8000&Z=16384002)|
-STORAGE			|Teamgroup MP33 512GB NVMe M.2 SSD TLC				|$25	|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#t=0&A=256000000000,22000000000000&f=122080&D=1&sort=price&page=1)	|
+STORAGE			|Teamgroup MP33 256GB NVMe M.2 SSD TLC				|$25	|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#t=0&A=256000000000,22000000000000&f=122080&D=1&sort=price&page=1)	|
 STORAGE			|Hitachi Ultrastar 7K3000 3TB 7200rpm 3.5" HDD			|$46	|[amazon](https://smile.amazon.com/dp/B005QTSDDQ/?tag=pcpapi-20)	|OPTIONAL. ALT: 6TB WD Red ($100), 8TB Ironwolf ($130)
 POWER			|19V 65W AC-DC Adapter|$25	|[amazon](https://www.amazon.com/Pwr-Power-Supply-Intel-FSP065-10AABA/dp/B076L52WV4)	|
 TOTAL||$250||
