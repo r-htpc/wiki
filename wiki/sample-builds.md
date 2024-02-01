@@ -353,26 +353,28 @@ TOTAL||$250||
 
 ### MadVR upscaling all-in-one player (14L)
 
-This is a build with a low profile dGPU for MadVR upscaling that's going to provide better visual quality than the iGPU on a CPU. Other features include 4k@60 playback, 4k netflix/YT, HDR, and medium 1080p gaming.
+This is a build with a dGPU for MadVR upscaling/tonemapping that's going to provide better visual quality than the iGPU on a CPU. Other features include 4k@60 playback, 4k netflix/YT, HDR, and medium 1080p gaming.
 
-The Nvidia GTX 1650 chosen is the most powerful, reasonably-priced, low profile GPU you will find, with the AMD RX 6400 also capable and a little cheaper.  
+The Nvidia GTX 1660 chosen is the most powerful, reasonably-priced, GPU you will find, with the GTX 1060 6GB also capable and a little cheaper.  
 
-We don't go beyond an entry-level GPU here for MadVR upscaling because we feel you start to get into diminishing returns on visual quality, while incurring more power usage and heat.  
+We don't go beyond a mid-level GPU here for MadVR because we feel you start to get into diminishing returns on visual quality, while incurring more power usage and heat.  
 
-If you want to do madVR tonemapping, change the GPU to a GTX 1660 and change the CASE to a Silverstone [GD-05 (21L)](https://www.silverstonetek.com/en/product/info/computer-chassis/GD05/) and add a [500W+ ATX PSU](https://pcpartpicker.com/products/power-supply/#xcx=0&th=1&sort=price&m=8,337,50,11,14,17,18,27,28,94,29,229,51,71,63,441,56). If you want to keep a slimmer profile, change the CASE to a Silverstone [ML07 (14L)](https://www.silverstonetek.com/en/product/info/computer-chassis/ML07/), the MOBO to an ITX one and add a [450W+ SFX PSU](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&sort=price&m=8,337,50,11,14,101,17,18,27,28,94,29,229,51,71,63,441,56&A=450000000000,2050000000000).  
+You can alternately change the CASE to a Silverstone [GD09 (26.8L)](https://www.silverstonetek.com/en/product/info/computer-chassis/GD09/) w/a ATX PSU, to get more room for storage, better cpu and/or a bigger, quieter cooler. 
 
-If you can't afford to do a new build, you can buy a [2nd-hand SFF pre-built](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=sff+%28i5-7400%2Ci5-7500%2Ci5-7600%2Ci5-8400%2Ci5-8500%2Ci5-8600%29+-optiplex+-prodesk&_sacat=0&LH_TitleDesc=0&_fsrp=1&_odkw=sff+%28i5-7400%2Ci5-7500%2Ci5-7600%29+-optiplex+-prodesk&_osacat=0&_sop=15) off ebay and pop the GTX 1650 low profile in it.  
+If you can't afford to do a new build or only need reasonable upscaling, you can buy a [2nd-hand SFF pre-built](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=sff+%28i5-7400%2Ci5-7500%2Ci5-7600%2Ci5-8400%2Ci5-8500%2Ci5-8600%29+-optiplex+-prodesk&_sacat=0&LH_TitleDesc=0&_fsrp=1&_odkw=sff+%28i5-7400%2Ci5-7500%2Ci5-7600%29+-optiplex+-prodesk&_osacat=0&_sop=15) off ebay and pop a GTX 1050 Ti low profile in it.  
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
-CASE|Apex DM-387 MicroATX Case w/275W PSU|$75|[newegg](https://www.newegg.com/black-apex-dm-387-micro-atx-media-center-htpc-case/p/N82E16811154087)|17.0" x 12.8" x 3.9". ALT: Silverstone [GD05 (uATX)](https://www.silverstonetek.com/en/product/info/computer-chassis/GD05/), [ML07 (ITX)](https://www.silverstonetek.com/en/product/info/computer-chassis/ML07/)
+CASE|Silverstone ML07|$105|[amazon](https://www.amazon.com/SilverStone-Technology-Mini-ITX-Computer-ML07B/dp/B00K8CIZYS?th=1)|[specs](https://www.silverstonetek.com/en/product/info/computer-chassis/ML07/). ALT: Silverstone [GD09](https://www.silverstonetek.com/en/product/info/computer-chassis/GD09/)
 CPU|Intel i3-12100F, 60W|$100|[pcpartpicker](https://pcpartpicker.com/product/grhFf7/intel-core-i3-12100f-33-ghz-quad-core-processor-bx8071512100f)|Passmark CPU Mark: 14000
-MOBO|MSI PRO B660M-A DDR4 MicroATX|$120|[pcpartpicker](https://pcpartpicker.com/product/KKbTwP/msi-pro-b660m-a-ddr4-micro-atx-lga1700-motherboard-pro-b660m-a-ddr4)|ALT: [ASRock B660M-ITX/ac (ITX)](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&s=40&sort=price&page=1) ($120)
+MOBO|ASRock B660M-ITX/ac|$120|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&s=40&sort=price&page=1)|ALT: GD09: [MSI PRO B660M-A DDR4 MicroATX](https://pcpartpicker.com/product/KKbTwP/msi-pro-b660m-a-ddr4-micro-atx-lga1700-motherboard-pro-b660m-a-ddr4) ($120)
 MEM|Corsair Vengeance LPX 16GB 2x8GB DDR4-3200|$40|[pcpartpicker](https://pcpartpicker.com/product/p6RFf7/corsair-memory-cmk16gx4m2b3200c16)|
-GPU|Nvidia GTX 1650 4 GB Low-Profile|$160|[ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=gtx+1650+%28low+profile%2Clp%29&_sacat=0&_sop=15)|ALT: AMD RX 6400 Low-Profile, [Nvidia GTX 1660](https://www.ebay.com/sch/27386/i.html?_fsrp=1&rt=nc&_from=R40&LH_TitleDesc=0&LH_PrefLoc=2&_nkw=gtx+1660&LH_BIN=1&_sacat=27386&_sop=15&_oac=1&LH_ItemCondition=1500%7C1000%7C2500%7C3000)
+GPU|Nvidia GTX 1660 6GB|$125|[ebay](https://www.ebay.com/sch/27386/i.html?_fsrp=1&rt=nc&_from=R40&LH_TitleDesc=0&LH_PrefLoc=2&_nkw=gtx+1660&LH_BIN=1&_sacat=27386&_sop=15&_oac=1&LH_ItemCondition=1500%7C1000%7C2500%7C3000)|<= 330 mmm. ALT: [Nvidia GTX 1060 6GB](https://www.ebay.com/sch/i.html?_from=R40&_nkw=gtx+1060+6gb&_sacat=0&_odkw=gtx+1060+6gb&_osacat=0&LH_BIN=1&_sop=15) ($80)
 STORAGE|Teamgroup MP33 Pro 512GB M.2 NVMe SSD|$40|[pcpartpicker](https://pcpartpicker.com/product/PDtKHx/team-mp33-pro-512-gb-m2-2280-nvme-solid-state-drive-tm8fpd512g0c101)|OS Drive
-STORAGE|Hitachi Ultrastar 7K3000 3TB 7200rpm|$45|[amazon](https://smile.amazon.com/dp/B005QTSDDQ/?tag=pcpapi-20)|Content drive. 6TB WD Red ($100), 8TB Ironwolf ($130)
-TOTAL||$580||
+STORAGE|Hitachi Ultrastar 7K3000 3TB 7200rpm|$45|[amazon](https://smile.amazon.com/dp/B005QTSDDQ/?tag=pcpapi-20)|OPTIONAL: Content drive. 6TB WD Red ($100), 8TB Ironwolf ($130)
+COOL	|	Thermalright AXP120-X67	CPU Cooler	|	$35	|[pcpartpicker](https://pcpartpicker.com/product/K2cG3C/thermalright-axp120-x67-59-cfm-cpu-cooler-axp120-x67)	|OPTIONAL. ALT: GD09: Thermalright Silver Soul 135 ($40)
+PSU|Silverstone SX500-G 500W SFX|$110|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&sort=price&m=8,337,50,11,14,101,17,18,27,28,94,29,229,51,71,63,441,56&A=450000000000,2050000000000)|ALT: GD09: [500W+ ATX](https://pcpartpicker.com/products/power-supply/#xcx=0&th=1&sort=price&m=8,337,50,11,14,17,18,27,28,94,29,229,51,71,63,441,56&e=4,2)
+TOTAL||$640||
 
 <!-- Sub-Section -->
 
