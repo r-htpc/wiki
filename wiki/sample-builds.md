@@ -355,7 +355,7 @@ TOTAL||$250||
 
 This is a build with a low profile dGPU for MadVR upscaling that's going to provide better visual quality than the iGPU on a CPU. Other features include 4k@60 playback, 4k netflix/YT, HDR, and medium 1080p gaming.
 
-The Nvidia GTX 1650 chosen is the most powerful low profile GPU you will find, with the AMD RX 6400 also capable and a little cheaper.  
+The Nvidia GTX 1650 chosen is the most powerful, reasonably-priced, low profile GPU you will find, with the AMD RX 6400 also capable and a little cheaper.  
 
 We don't go beyond an entry-level GPU here for MadVR upscaling because we feel you start to get into diminishing returns on visual quality, while incurring more power usage and heat.  
 
