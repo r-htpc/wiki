@@ -492,8 +492,8 @@ Simple, Tonemapping
 
 ## MADVR PERFORMANCE SETTINGS PER GPU
 
-WARNING: These settings are for more intensive image processing/scaling that is NOT necessary for just HDR passthrough.  
-The settings for the corresponding GPU families below are a little conservative so you don't have to spend hours wasting your time with stuttering due to high rendering times and diminishing returns.  
+WARNING: These settings are for more intensive image processing/scaling that is **NOT** necessary for just HDR passthrough.  
+The settings for the corresponding GPU families below are **conservative** so you don't have to spend hours wasting your time with stuttering due to high rendering times and diminishing returns.  
 This doesn't mean that they're not gpu intensive; they most certainly are. Test with the default settings before changing to any of these.  
 If you can't handle the GPU load/noise/heat these settings produce, turn them down or go back to the madvr Bilinear defaults.  
 
@@ -502,13 +502,13 @@ GPU|IMAGE UPSCALING|IMAGE DOUBLING|IMAGE DOWNSCALING|CHROMA UPSCALING|DITHERING
 Intel UHD >= 6xx|DXVA2|NA|DXVA2|BiCubic 75+AR|random
 AMD Ryzen Vega xx|Cubic/Lanczos|NA|Cubic/Lanczos|BiCubic 75+AR|random
 Nvidia GT 1030/Ryzen 6xxM/7xxM|Lanczos 3-tap+AR|NA|Lanczos 3-tap+AR|BiCubic 75+AR|random
-Nvidia GTX 960/1050/1050 Ti|Lanczos 4-tap+AR|NA|SSIM 1D+LL+AR|Lanczos 3-tap+AR|random
-Nvidia GTX 1650|Lanczos 4-tap+AR|Super-XBR|SSIM 1D+LL+AR|Lanczos 3-tap+AR|random
-Nvidia GTX 1650 Super|Lanczos 4-tap+AR|NGU Standard Luma Low|SSIM 1D+LL+AR|Jinc+AR|Error Diff. #1
-Nvidia GTX 970/1060|Jinc|NGU Standard Luma Med|SSIM 1D+LL+AR|Jinc+AR|Error Diff. #1
+Nvidia GTX 960/1050/1050 Ti|Lanczos 4-tap+AR|NA|SSIM 1D+LL+AR|Jinc+AR|random
+Nvidia GTX 1650|Lanczos 4-tap+AR|NGU Standard Luma Low|SSIM 1D+LL+AR|NGU Standard Low|random
+Nvidia GTX 1650 Super|Lanczos 4-tap+AR|NGU Standard Luma Low|SSIM 1D+LL+AR|NGU Standard Low|Error Diff. #1
+Nvidia GTX 970/1060|Jinc|NGU Standard Luma Med|SSIM 1D+LL+AR|NGU Standard Low|Error Diff. #1
 Nvidia GTX 980/1070/1660/1660 Super/1660 Ti/3050|Jinc|NGU Standard Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Diff. #2
-Nvidia GTX 1080/RTX 2060|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard High|Error Diff. #2
-Nvidia GTX >= 1080Ti/RTX 2070|Jinc|NGU Sharp Luma Very High|SSIM 1D+LL+AR|NGU Standard High|Error Diff. #2
+Nvidia GTX 1080/RTX 2060|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Diff. #2
+Nvidia GTX >= 1080Ti/RTX 2070|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Diff. #2
 AMD RX 5xx|Jinc|NGU Standard Luma Low (RX 570/580)|SSIM 1D+LL+AR|super-xbr 100+AR|Error Diff. #2
-AMD RX 56xx - 66xx|Jinc|NGU Standard Luma High|SSIM 1D+LL+AR|NGU Standard High|Error Diff. #2
-AMD RX >= 67xx|Jinc|NGU Standard Luma Very High|SSIM 1D+LL+AR|NGU Standard High|Error Diff. #2
+AMD RX 56xx - 66xx|Jinc|NGU Standard Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Diff. #2
+AMD RX >= 67xx|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Diff. #2
