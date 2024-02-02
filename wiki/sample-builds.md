@@ -731,7 +731,7 @@ PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 CASE|Fractal Design Node 304|$100|[newegg](https://www.newegg.com/black-fractal-design-node-304-mini-itx-tower/p/N82E16811352027)|ITX, 14.7"x9.8"x8.3" ALT: Thermaltake Core V1 ($51)
 MOBO		|Asrock B660M-ITX/ac				|$135	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#f=8&sort=price&s=40&xcx=0)		|ALT: ASRock B550M-ITX/ac ($135)
 CPU			|Intel i5-12400F								|$165	|[pcpartpicker](https://pcpartpicker.com/product/pQNxFT/intel-core-i5-12400f-25-ghz-6-core-processor-bx8071512400f)		|ALT: AMD Ryzen 5 5600 ($140)
-GPU			|Nvidia RTX 2060				|$160	|[ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=rtx+2060&_sacat=0&_sop=15&rt=nc&LH_BIN=1)		|ALT: AMD RX 5600 XT
+GPU			|Nvidia RTX 2060				|$160	|[ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=rtx+2060&_sacat=0&_sop=15&rt=nc&LH_BIN=1)		|ALT: AMD RX 5700 XT
 MEM			|G.Skill Ripjaws V 16GB 2x8GB DDR4-3600 CL18				|$40		|[pcpartpicker](https://pcpartpicker.com/product/n6RgXL/gskill-ripjaws-v-16-gb-2-x-8-gb-ddr4-3600-memory-f4-3600c18d-16gvk)		|ALT: Corsair Vengeance LPX 2x8GB DDR4-3600
 STORAGE		|WD Black SN770 1TB NVMe M.2 SSD TLC			|$60	|		|
 COOL		|Noctua NH-U12S Redux CPU Cooler					|$50		|[pcpartpicker](https://pcpartpicker.com/product/vV7G3C/noctua-nh-u12s-redux-7075-cfm-cpu-cooler-nh-u12s-redux)		|ALT: [Thermalright Silver Soul 135](https://pcpartpicker.com/product/c3pzK8/thermalright-silver-soul-135-82-cfm-cpu-cooler-ss135) ($40)
