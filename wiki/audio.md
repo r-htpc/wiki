@@ -605,7 +605,7 @@ PLEX MEDIA PLAYER/PLEX HTPC:
 
 4. If Device is Optical: Check box for "Passthrough: Dolby Digital (AC3)". Uncheck box for "Passthrough: DTS"  
 
-5. If Device is HDMI: Check box for "Passthrough: Dolby Digital (AC3)". Uncheck boxes for "Passthrough: <everything else>"  
+5. If Device is HDMI: Check box for "Passthrough: Dolby Digital (AC3)". Uncheck boxes for "Passthrough: \<everything else\>"  
 
 SYSTEM-WIDE: See the [section below](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) on encoding gaming audio, which does the same thing, but on a lower-level.  
 NON-REALTIME: [Handbrake](https://handbrake.fr/), [ffmpeg-gui](https://www.videohelp.com/software/clever-FFmpeg-GUI), [eac3to](https://www.videohelp.com/software/eac3to), [tdarr](https://tdarr.io/)  
