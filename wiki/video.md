@@ -484,7 +484,7 @@ You will need to have HDMI 2.1 bandwidth on every HDMI device between your HTPC 
 
 Options below for this are ordered from best to worst in terms of stability and reliability. 
 
-Technically, straight HDMI is the best (#1/#2/#3) followed by Thunderbolt->HDMI (#4/#5), USB-C->HDMI (#6) and DP->HDMI (#7). Use of an adapter in #4/#5/#6/#7 assumes you have a Display with DSC (Display Stream Compression) support on your HTPC/Display HDMI 2.1 connectors. Media content SHOULD be possible without DSC support, but it's not a given. **VRR** gaming will **not** be supported with any adapter.  
+Technically, straight HDMI is the best (#1/#2/#3), followed by Thunderbolt->HDMI (#4/#5), USB-C->HDMI (#6) and DP->HDMI (#7/#8). Use of an adapter in #4/#5/#6/#7/#8 assumes you have a Display with DSC (Display Stream Compression) support on your HTPC/Display HDMI 2.1 connectors. Media content SHOULD be possible without DSC support, but it's not a given. **VRR** gaming will **not** be supported with any adapter.  
   
 1. DiY: [Any cpu/motherboard](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=sff+%28i3-7100%2Ci5-7400%2Ci3-8100%2Ci5-8400%2Ci5-8500%29&_sacat=179&LH_TitleDesc=0&rt=nc&_odkw=sff+%28i3-7100%2Ci5-7400%2Ci3-8100i5-8400%2Ci5-8500%29&LH_BIN=1&_osacat=179&_sop=15) + a discrete GPU w/a 4k@120 Hz HDMI 2.1. e.g. New: Radeon RX 6400, Used: RTX 3050 
 2. DiY: An AMD Ryzen 7xxx/8xxxG desktop CPU and respective motherboard that states 4k@120Hz HDMI 2.1. e.g. Ryzen 7600 + ASRock A620I/B650I Lightning Wifi for a realistic max of 4:2:2 10-bit HDR. 
@@ -493,9 +493,9 @@ Technically, straight HDMI is the best (#1/#2/#3) followed by Thunderbolt->HDMI 
 5. DiY: Intel 12th+ Gen CPU and respective motherboard with a Thunderbolt display out connector out and a [Thunderbolt->HDMI 2.1 Cable](https://www.amazon.com/Cable-Matters-48Gbps-Adapter-Supporting/dp/B08QDV5H4M). Not as good as straight HDMI, but better compared to DP or plain USB-C. This will likely be expensive as these boards are rare. e.g. for an ITX board, look at the Asus ROG STRIX Z690-I GAMING WIFI, ASRock Z690 Phantom Gaming-ITX/TB4 or ASRock Z790 PG-ITX/TB4. 
 6. Hybrid/DiY: An Intel 11th gen+ CPU and motherboard w/a USB-C Display Out and a USB-C->HDMI adapter/cable. e.g. ASRock Deskmini B660 + 
 [USB-C->HDMI 2.1 Cable](https://www.amazon.com/Cable-Matters-48Gbps-Adapter-Supporting/dp/B08QDV5H4M). 
-7a. DiY: Intel 12th+ Gen CPU and respective motherboard with a Displayport 1.4 connector and an Active DP->HDMI adapter. This tends to be the least stable option, so we don't recommend it at all.
-7b. Pre-Built: Ryzen 4000+ Mini PC with a Displayport 1.4 connector and an Active DP->HDMI adapter. e.g. Beelink SER5 5560U. This tends to be the least stable option, so we don't recommend it at all.
-8. Headless Moonlight/Sunshine Streaming Host: [DP 1.4->HDMI 2.1 adapter](https://www.amazon.com/Cable-Matters-102101-BLK-Computer-Adapter/dp/B08XFSLWQF)+[HDMI dummy plug](https://www.amazon.com/Headless-Display-Emulator-Generation-Single/dp/B07FB8GJ1Z)+Nvidia custom res/CRU res mod, or [EDID Emulator](https://www.gofanco.com/prophecy-edid-emulator-pro-edidemul.html) to copy host display's EDID, or [IddSampleDriver](https://github.com/roshkins/IddSampleDriver) to create virtual display.
+7. DiY: Intel 12th+ Gen CPU and respective motherboard with a Displayport 1.4 connector and an Active DP->HDMI adapter. This tends to be the least stable option, so we don't recommend it at all.
+8. Pre-Built: Ryzen 4000+ Mini PC with a Displayport 1.4 connector and an Active DP->HDMI adapter. e.g. Beelink SER5 5560U. This tends to be the least stable option, so we don't recommend it at all.
+9. Headless Moonlight/Sunshine Streaming Host: [DP 1.4->HDMI 2.1 adapter](https://www.amazon.com/Cable-Matters-102101-BLK-Computer-Adapter/dp/B08XFSLWQF)+[HDMI dummy plug](https://www.amazon.com/Headless-Display-Emulator-Generation-Single/dp/B07FB8GJ1Z)+Nvidia custom res/CRU res mod, or [EDID Emulator](https://www.gofanco.com/prophecy-edid-emulator-pro-edidemul.html) to copy host display's EDID, or [IddSampleDriver](https://github.com/roshkins/IddSampleDriver) to create virtual display.
 
 
 <!-- Sub-Section -->
