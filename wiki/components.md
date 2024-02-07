@@ -114,7 +114,7 @@ Below are the minimum requirements for each scenario and a recommendation. The r
 
 - 4K Netflix+Youtube+Local HDR: Nvidia >= GTX 1050 3GB, AMD >= RX 6x00 (REC: Used: GTX 1050 Ti, New: RX 6400)  
 
-- AV1 decoding: >= Intel Arc A3xx/Nvidia RTX 3050/A2000/AMD RX 6600 (REC: Intel Arc A380)  
+- AV1 decoding: >= Intel A3xx/Nvidia RTX 3050/A2000/AMD RX 6600 (REC: Intel A310/A380)  
 
 - HDMI 2.1 4K@120Hz (>= 32Gbps): >= Nvidia RTX 3050/AMD RX 6400 (REC: RX 6400)  
 
@@ -126,7 +126,7 @@ Below are the minimum requirements for each scenario and a recommendation. The r
 
 - Plex Transcoding: [Elpamsoft GPU transcode tables](https://www.elpamsoft.com/?p=Plex-Hardware-Transcoding) (REC: Quadro P600/GTX 1050 Ti)  
 
-- Best low-profile card (4K Netflix+Youtube+Local HDR/Gaming): AMD RX 6400, Nvidia GTX 1050 Ti/1650/RTX 3050 LP (REC: Used: GTX 1050 Ti LP, New: Gaming: RTX 3050 LP, Media: RX 6400)  
+- Best low-profile card (4K Netflix+Youtube+Local HDR/Gaming): AMD RX 6400, Intel A390, Nvidia GTX 1050 Ti/1650/RTX 3050 LP (REC: Used: GTX 1050 Ti LP, New: Gaming: RTX 3050 LP, Media: Intel A380/AMD RX 6400)  
 
 - madVR upscaling/tonemapping: >= GTX 1060 6GB / AMD RX 5600 (Rec: GTX 1660)  
 
