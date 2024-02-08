@@ -104,31 +104,31 @@ Some features like HDR, 4K and protected content will restrict you to certain mo
 Below are the minimum requirements for each scenario and a recommendation. The recommendations are generalized and may change depending on your budget, regional availability, space/power requirements, and whether you want new or second-hand parts. If you're not sure, post and ask us for a rec based on your detailed use-case.  
 
 - **Best All-Rounder: AMD RX 6400**
-  - Will run 4k@120Hz, has low-profile versions and only requires PCIe sot power. Its weakness is it doesn't have AV1 media decoding.
+  - Will run 4k@120Hz, has low-profile versions and only requires PCIe slot power. Its weakness is it doesn't have AV1 media decoding. To get that at the downside of only 4k@60Hz, look at Intel Arc A310/A380. 
 
-- 1080p H264, 4k@30Hz video out: AMD Radeon R5 240/HD 8570 (REC: Dell R5 240)  
+- 1080p H264, 4k@30Hz video out: AMD Radeon R5 240/HD 8570 (REC: Dell R5 240) 
 
-- 4K Local HDR+4K Youtube HDR: Nvidia >= GT 1030 GDDR5, AMD >= 5x00/6x00 (REC: Used: GTX 1050 Ti, New: RX 6400)  
+- 4K Local HDR+4K Youtube HDR: Nvidia >= GT 1030 GDDR5, AMD >= 5x00/6x00 (REC: Used: GTX 1050 Ti, New: RX 6400/Intel A3x0) 
 
-- 4K Netflix: Nvidia >= GTX 1050 3GB, AMD >= RX 550/5x00/6x00 (REC: Used: GTX 1050 Ti, New: RX 6400)  
+- 4K Netflix: Nvidia >= GTX 1050 3GB, AMD >= RX 550/5x00/6x00 (REC: Used: GTX 1050 Ti, New: RX 6400/Intel A3x0) 
 
-- 4K Netflix+Youtube+Local HDR: Nvidia >= GTX 1050 3GB, AMD >= RX 6x00 (REC: Used: GTX 1050 Ti, New: RX 6400)  
+- 4K Netflix+Youtube+Local HDR: Nvidia >= GTX 1050 3GB, AMD >= RX 6x00 (REC: Used: GTX 1050 Ti, New: RX 6400/Intel A3x0) 
 
-- AV1 decoding: >= Intel A3xx/Nvidia RTX 3050/A2000/AMD RX 6600 (REC: Intel A310/A380)  
+- AV1 decoding: >= Intel A3xx/Nvidia RTX 3050/A2000/AMD RX 6600 (REC: Intel A3x0) 
 
-- HDMI 2.1 4K@120Hz (>= 32Gbps): >= Nvidia RTX 3050/AMD RX 6400 (REC: RX 6400)  
+- HDMI 2.1 4K@120Hz (>= 32Gbps): >= Nvidia RTX 3050/AMD RX 6400 (REC: RX 6400) 
 
-- Emulation: Nvidia >= GT 1030 GDDR5, AMD >= 5xx/5x00/6x00 (REC: Used: GTX 1050 Ti, New: RX 6400)  
+- Emulation: Nvidia >= GT 1030 GDDR5, AMD >= 5xx/5x00/6x00 (REC: Used: GTX 1050 Ti, New: RX 6400) 
 
-- Medium Gaming: (REC: Used: GTX 1060 6GB/1660 Super 6GB, New: AMD RX 6600)  
+- Medium Gaming: (REC: Used: GTX 1060 6GB/1660 Super 6GB, New: AMD RX 6600) 
 
-- UHD Blu-Ray disc playing: Not supported. Intel iGPU only.
+- UHD Blu-Ray disc playing: Not supported. Intel iGPU only. 
 
-- Plex Transcoding: [Elpamsoft GPU transcode tables](https://www.elpamsoft.com/?p=Plex-Hardware-Transcoding) (REC: Quadro P600/GTX 1050 Ti)  
+- Plex Transcoding: [Elpamsoft GPU transcode tables](https://www.elpamsoft.com/?p=Plex-Hardware-Transcoding) (REC: Quadro P600/GTX 1050 Ti//Intel A3x0) 
 
-- Best low-profile card (4K Netflix+Youtube+Local HDR/Gaming): AMD RX 6400, Intel A380, Nvidia GTX 1050 Ti/1650/RTX 3050 LP (REC: Used: GTX 1050 Ti LP, New: Gaming: RTX 3050 LP, Media: Intel A380/AMD RX 6400)  
+- Best low-profile card (4K Netflix+Youtube+Local HDR/Gaming): AMD RX 6400, Intel A380, Nvidia GTX 1050 Ti/1650/RTX 3050 LP (REC: Used: GTX 1050 Ti LP, New: Gaming: RTX 3050 LP, Media: Intel A380/AMD RX 6400) 
 
-- madVR upscaling/tonemapping: >= GTX 1060 6GB / AMD RX 5600 (Rec: GTX 1660)  
+- madVR upscaling/tonemapping: >= GTX 1060 6GB / AMD RX 5600 (Rec: GTX 1660) 
 
 **GPU/CPU Feature Set Matrix:**
 
