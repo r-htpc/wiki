@@ -147,7 +147,7 @@ $175-$550: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB
 - $710 - 4k, high-bitrate, Medium Transcoding: Nvidia Shield Pro (client) + Beelink SEI 12 i5-12450H (server) + Terramaster F4-210 (storage)
 
   - 4k HDR10/DV-5/7/8, Dolby TrueHD Atmos, DTS:X, 6x4k,20x1080p transcodes, 4xHDDs (WD Ultrastar/Seagate Exos), Ubuntu, Plex Pass/Jellyfin
-  - For more transcodes, switch server to [Morefine i5-1340p](https://www.aliexpress.us/item/3256805899996602.html?spm=a2g0o.productlist.main.15.6fba5aabcd8zOU&algo_pvid=d6966323-8ff3-4853-80d5-113f360bb126&algo_exp_id=d6966323-8ff3-4853-80d5-113f360bb126-7&pdp_npi=4%40dis%21USD%21616.78%21345.4%21%21%21616.78%21%21%402101e9d317015503796647709e55c3%2112000035664702815%21sea%21US%210%21AB&curPageLogUid=dpYscHVlux9M)
+  - For more transcodes, switch server to [Morefine i5-1350p](https://morefine.com/products/morefine-m9-pro-1260p-mini?variant=40220350185559)
 
 <!-- Section -->
 
