@@ -400,11 +400,11 @@ CPU		|Intel i5-12600K CPU, 125W				|$200	|	[pcpartpicker](https://pcpartpicker.c
 MOBO	|ASRock Z690M-ITX/ax DDR4	|$150	|	[pcpartpicker](https://pcpartpicker.com/product/2PYmP6/asrock-z690m-itxax-mini-itx-lga1700-motherboard-z690m-itxax)	|	ALT: ASRock B660M-ITX/ac ($120)
 MEM		|Ripjaws V 32GB 2x16GB DDR4-3200			|$65	|	[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&S=3200,8000&Z=32768002&sort=price&page=1)	|	ALT: Ripjaws V 32GB 2x8GB DDR4-3200 ($40)
 STORAGE	|LG WH16NS60 UHD Blu-Ray Drive			|$110	|	pcpartpicker	|	ALT: LG WH16NS40 UHD Friendly ($65)
-STORAGE	|SK Hynix Gold P31 1TB M.2 SSD			|$65	|	[pcpartpicker](https://pcpartpicker.com/product/xNCFf7/sk-hynix-gold-p31-1-tb-m2-2280-pcie-30-x4-nvme-solid-state-drive-shgp31-1000gm-2)	|	ALT: WD Black SN770 1TB ($60)
+STORAGE	|Sabrent Rocket 4.0 1TB M.2 SSD			|$70	|	[pcpartpicker](https://pcpartpicker.com/product/fVYQzy/sabrent-rocket-40-1-tb-m2-2280-solid-state-drive-sb-rocket-nvme4-1tb)	|	ALT: WD Black SN770 1TB ($80)
 COOL	|Thermalright Silver Soul 135 CPU Cooler				|$40	|	[pcpartpicker](https://pcpartpicker.com/product/c3pzK8/thermalright-silver-soul-135-82-cfm-cpu-cooler-ss135)	|	ALT: Thermalright AXP120-X67 ($40)
 PSU		|EVGA GA 650W Fully Modular ATX PSU		|$60	|	pcpartpicker	|	ALT: Thermaltake Smart BM2 Semi 550W ($60)
 SOFTWARE	|MakeMKV Beta/Full		|FREE/$60	|	[makemkv](https://www.makemkv.com/buy/)	|Free with beta license key posted each month
-TOTAL	|										|$765	|					|
+TOTAL	|										|$770	|					|
 
 <!-- Section -->
 
