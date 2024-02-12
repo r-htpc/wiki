@@ -79,7 +79,7 @@ Reference the DiY case/drive lists below, and the example builds under the [Wiki
 
 **If you want to skirt the line between a pre-built NAS and DiY, look at the following, these provide more CPU/GPU performance than a pre-built NAS for 2 drives, but give you more OS support with Windows, Linux or Unraid/TrueNAS/OMV compatibility and DiY-like flexibility:**  
 - **Intel-based [Seeed Studio reServer (2 drives)](https://www.seeedstudio.com/reThings-reServer-c-2006.html)**  
-- **Intel-based [AOOSTAR R1 (2 drives)](https://aoostar.com/products/aoostar-r1-2bay-nas-intel-n100-mini-pc-with-w11-pro-lpddr4-16gb-ram-512gb-ssd) / [(4 drives)](https://aoostar.com/blogs/news/aoostar-pro-4-bay-nas-with-n100-n305-5700u-cpu)**  
+- **Intel-based [AOOSTAR R1 (2 drives)](https://aoostar.com/products/aoostar-r1-2bay-nas-intel-n100-mini-pc-with-w11-pro-lpddr4-16gb-ram-512gb-ssd) / [(4 drives - FUTURE)](https://aoostar.com/blogs/news/aoostar-pro-4-bay-nas-with-n100-n305-5700u-cpu)**  
 
 **Ad-hoc**  
 
@@ -89,7 +89,7 @@ If you can't afford any of these and want to do it more cheaply, you can use/buy
 
   - 1 drive: [NanoPi R2S](https://www.friendlyelec.com/index.php?route=product/product&path=69&product_id=282&sort=p.price&order=ASC) (USB2x1) $27, [Orange Pi Zero 3](https://www.aliexpress.us/w/wholesale-Orange-pi-zero-3.html?spm=a2g0o.productlist.search.0) (USB2x1) $25  
 
-  - 2-4 drives: [Orange Pi 3 LTS](https://www.aliexpress.com/w/wholesale-orange-pi-3-lts.html) (USB3x1,USB2x2) $40, [RPI 4b](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) (USB3x2,USB2x2) $35, [Rock64-2GB](https://ameridroid.com/collections/pine) (USB3x1,USB2x2) $35, [Pine H64](https://ameridroid.com/collections/pine) (USB3x1,USB2x2) $45, [Odroid C4](https://www.hardkernel.com/shop/odroid-c4/) (USB3x4) $55, [Odroid HC4](https://www.hardkernel.com/shop/odroid-hc4/) (**SATAx2**) $75, PC: [Dell/Lenovo i3-4130t](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28i3-4130t%2Ci3-4160t%29&_sacat=171957&LH_TitleDesc=0&_sop=15&rt=nc) (USB3x2-4,USB2x2) $50. Optionally, add Mediasonic Probox for single enclosure DAS over USB.  
+  - 2-4 drives: [Orange Pi 3 LTS](https://www.aliexpress.com/w/wholesale-orange-pi-3-lts.html) (USB3x1,USB2x2) $40, [RPI 4b](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) (USB3x2,USB2x2) $35, [Rock64-2GB](https://ameridroid.com/collections/pine) (USB3x1,USB2x2) $35, [Pine H64](https://ameridroid.com/collections/pine) (USB3x1,USB2x2) $45, [Odroid C4](https://www.hardkernel.com/shop/odroid-c4/) (USB3x4) $55, [Odroid HC4](https://www.hardkernel.com/shop/odroid-hc4/) (**SATAx2**) $75, PC: [Dell/Lenovo i3-4130t](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28i3-4130t%2Ci3-4160t%29&_sacat=171957&LH_TitleDesc=0&_sop=15&rt=nc) (USB3x2-4,USB2x2) $50. Optionally, add a [single enclosure DAS](/wiki/storage#direct-attach-storage-das-list) over USB.  
 
   - Install linux or [Openmediavault](https://www.openmediavault.org/) as your OS, create a storage pool under [mergerFS](https://github.com/trapexit/mergerfs/wiki), and share the pool out over the network with Samba.  
 
