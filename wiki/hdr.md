@@ -21,7 +21,7 @@ You are **strongly urged** to test out the simple setups below before potentiall
   * TV/Projector: HDMI >= 2.0/DisplayPort >= 1.3, HDR10, 10-bit panel, [VESA DisplayHDR](https://displayhdr.org/) >= 600
   * Windows 10: version >= 1803  (Settings app -> System -> About)
 * *TV/Projector settings:*  
-  * ONLY display connected to the system before configuration  
+  * Must be **ONLY** display connected to the system before configuration  
   * GPU connected to display's HDMI >= 2.0/DisplayPort >= 1.3 port  
   * UHD Deep Color/Input Signal Plus turned On for your display's HDMI port. Setting name dependent on TV mfgr.  
   * Black Level to Full/Normal (if available)  
