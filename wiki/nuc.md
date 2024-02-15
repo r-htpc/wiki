@@ -21,7 +21,7 @@
 
 **Medium Gaming: Minisforum UM773 Lite, Minisforum EliteMini UM690 Pro, Beelink GTR6**
 
-**High Gaming: Minisforum EliteMini UM790 Pro, Minisforum HX77G, Beelink GTR7**
+**High Gaming: Minisforum EliteMini UM790 Pro, Beelink GTR7, Minisforum HX99G (dGPU)**
 
 ## NUC list
 
