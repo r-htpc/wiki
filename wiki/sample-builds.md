@@ -94,8 +94,8 @@ $175-$550: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB
   - [Beelink SER5 Max](https://www.amazon.com/s?k=beelink+5800h&crid=3AUBU1SOXW7YK&sprefix=beelink+5800h%2Caps%2C163&ref=nb_sb_noss_1) (AMD 5800H)  
 - $410: High (<= PS3)
   - [Minisforum EM680](https://store.minisforum.com/products/minisforum-em680?_pos=1&_sid=3a89b73ed&_ss=r)  
-- $475: Ultra (<= Xbox 360)
-  - Minisforum [UM773 Lite](https://store.minisforum.com/collections/amd-%C2%AE-ryzen-%C2%AE/products/minisforum-um773-lite?variant=43717641666805)/[UM760 Pro](https://store.minisforum.com/collections/game-mini-pc/products/minisforum-um790-pro?variant=44134865731829)  
+- $500: Ultra (<= Xbox 360)
+  - Minisforum [UM773 Lite](https://store.minisforum.com/collections/amd-%C2%AE-ryzen-%C2%AE/products/minisforum-um773-lite?variant=43717641666805)/[UM760 Pro](https://store.minisforum.com/collections/game-mini-pc/products/minisforum-um790-pro?variant=44134865731829)/[UM690S](https://store.minisforum.com/products/minisforum-um690s?variant=44055289954549)  
 
  See [ETA PRIME](https://www.youtube.com/@ETAPRIME) youtube channel for reviews  
 
