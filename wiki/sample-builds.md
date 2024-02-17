@@ -31,15 +31,15 @@ Respected mfgrs are: intel, hp, dell, apple, lenovo, asus, asrock, simply nuc, z
 
 ### 1080p PLAYERS
 
-**TL;DR If you're just playing H264-encoded video, a small ARM-based SBC is fine. If you want HEVC or VP9 (youtube) decoding, then a used Intel 7th gen USFF/SFF/NUC off ebay for $75-125 if you're on a tight budget. For new, an Intel N95 based mini pc <= $150 with ram/disk.**  
+**TL;DR If you need extreme power efficiency, then a small ARM-based SBC is ok; but a used Intel 7th gen USFF/SFF/NUC off ebay for $75-125 has better perf / $ and more hw flexibility. For new, an Intel N95 based mini pc <= $150 with mem/storage.**  
 
- $45-$55: SMALLEST (Linux/Coreelec/Libreelec only): SBC: [ROCK64-2GB](https://pine64.com/product/rock64-2gb-single-board-computer/) / [ROCK64-4GB](https://pine64.com/product/rock64-4gb-single-board-computer/) / [Orange Pi 3](https://www.aliexpress.us/item/3256804341645667.html) / [Odroid XU4](https://www.hardkernel.com/shop/odroid-xu4-special-price/). 32GB MicroSD. X86 Alternative: Atomic Pi x5-z8350 atom 2GB + Baby Breakout Board + PSU (Windows, Linux). Least powerful but small and cheap.  
+ $35-$55: SMALLEST: SBC: (Linux/Coreelec/Libreelec only): [ROCK64-2GB](https://pine64.com/product/rock64-2gb-single-board-computer/) / [Orange Pi 3](https://www.aliexpress.us/item/3256804341645667.html) / [Odroid C4](https://www.hardkernel.com/shop/odroid-c4/). Just good enough, small and cheap.  
 
  $60-100: SMALL/MEDIUM: Used HP/Dell/Lenovo - Intel - i3/i5-7100T/7400T/7500T, >= 8GB RAM, >= 120GB disk. [[Ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28hp%2Cdell%2Clenovo%29+%28i3-7100%2Ci5-7400%2Ci5-7500%29&_sacat=179&LH_TitleDesc=0&LH_BIN=1&_sop=15&_udhi=150&_blrs=recall_filtering)]  
 
  $100: SMALLER: Used Intel NUC7i3/NUC7CJYH, >= 8GB, >= 128GB disk. Lower power than HP/Dell/Lenovo above. [[Ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=nuc7cjyh+nuc7i3+nuc6i3&_in_kw=2&_ex_kw=&_sacat=58058&LH_TitleDesc=1&_udlo=&_udhi=&_ftrt=901&_ftrv=1&_sabdlo=&_sabdhi=&_samilow=&_samihi=&_sadis=15&_stpos=80232-6476&_sargn=-1%26saslc%3D1&_salic=1&_dmd=1&_ipg=60&_sop=15)]  
 
- $125-175: SMALLER: New **Intel N95**/N100/N5095 Mini PC ([Minisforum/Beelink/etc..](https://www.amazon.com/s?k=minsforum+beelink+N5095+N95+N100&crid=CZRI7XC6T32)), 8GB RAM, 256GB disk  
+ $125-175: SMALLER: New **Intel N95**/N5095 Mini PC ([Minisforum/Beelink/etc..](https://www.amazon.com/s?k=minsforum+beelink+N5095+N95&crid=CZRI7XC6T32)), 8GB RAM, 256GB disk  
 
  $150-200: SMALLEST: New Intel N5095/N5105 Nano PC ([GMK Nucbox](https://www.amazon.com/GMKtec-Nucbox5-Desktop-Computer-Windows/dp/B09Q8ZRTCX)/[Mele Quieter3Q](https://www.amazon.com/MeLE-Quieter3Q-Computer-Industrial-Astrophotography/dp/B09TGN1MWV)), 6-8GB RAM, 128GB-256GB disk  
 
@@ -47,13 +47,13 @@ Respected mfgrs are: intel, hp, dell, apple, lenovo, asus, asrock, simply nuc, z
 
 ### 4K HDR PLAYERS
 
-**TL;DR If you're on a budget, then an Intel N95/N100 based mini pc for $140-$170 with ram/disk is fine. If you can afford it, look at a Beelink SEI 11/12 for $300 for better future-proofing.**  
+**TL;DR If you're on a budget, then an Intel N95/N100 based mini pc for $140-$170 with mem/storage is fine. If you can afford it, look at a Beelink SEI 11/12 for $300 for better future-proofing.**  
 
 $70-$85: SMALLEST: SBC: w/CoreELEC OS, 32GB MicroSD, AC Adapter 
 
- - [Odroid C4](https://www.hardkernel.com/shop/odroid-c4/) ($70) 
+ - [Odroid C4](https://www.hardkernel.com/shop/odroid-c4/) ($60) 
 
- - **[Odroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ($82)** 
+ - **[Odroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ($72)** 
 
  - *Used for:* HEVC/VP9 local content, Kodi-based interface, ext. storage 
 
