@@ -261,8 +261,8 @@ If you **can't** meet the restrictions, then either (in order of preference):
  3. Buy a UHD Friendly drive and Play the discs using Redfox AnyDVD HD and your favorite media player
 
 *DVD/Blu-Ray:*  
-Internal: LG WH14NS40/ASUS BW-16D1HT, Pioneer, Asus  
-External, Slim: Archgon MD-3102S/LG BP60NB10/BP50NB40 (External, Slim)  
+Internal: LG WH14NS40, ASUS BW-16D1HT, Pioneer BDR 212  
+External, Slim: Archgon MD-3102S, LG BP60NB10/BP50NB40  
 
 *UHD Blu-Ray (for ripping or AnyDVD playback):*  
 See [MakeMKV forum post on recommended drives/FW](https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634)  
@@ -270,7 +270,7 @@ See [MakeMKV forum post on recommended drives/FW](https://forum.makemkv.com/foru
 *UHD Blu-Ray (for Official Playback/ripping):*  
 Internal: LG WH16NS60  
 Internal, Slim: LG BU40N  
-External, Slim: Archgon MD-8107S/Buffalo BRUHD-PU3/LG BP60NB10  
+External, Slim: Archgon MD-8107S, Buffalo BRUHD-PU3, LG BP60NB10  
 
 <!-- Sub-Section -->
 
