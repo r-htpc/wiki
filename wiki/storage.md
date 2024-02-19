@@ -187,8 +187,8 @@ Recs bolded
 
 BRAND					|CAPACITY|WARRANTY|INTERFACE|CACHE|WORKLOAD|Noise (1)|USE|NOTES		
 :--|:--|:--|:--|:--|:--|:--|:--|:--
-WD Elements/Easystore		|3-22TB			|2 yr			|USB/SATA		|?			|?			|NA|USB, Shucked (pre-built or custom NAS)		|SMR, Cheapest
-WD My Book				|3-22TB			|3 yr			|USB/SATA		|?			|?			|NA|USB, Shucked (pre-built or custom NAS)		|SMR, Cheap
+WD Elements/Easystore		|3-22TB			|2 yr			|USB/SATA		|Various			|Various			|NA|USB, Shucked (pre-built or custom NAS)		|SMR, Cheapest
+WD My Book				|3-22TB			|3 yr			|USB/SATA		|Various			|Various			|NA|USB, Shucked (pre-built or custom NAS)		|SMR, Cheap
 [Toshiba N300 NAS](https://www.toshiba-storage.com/wp-content/uploads/2017/08/TOSHIBA_16046_DS_N300_GB_Screen.pdf)			|4-18TB			|3 yr			|SATA			|128-256MB	|180TByr/1-1.2MHr	|20/NA|Pre-built or custom NAS					|CMR, 128MB <= 4TB, 256MB >= 6TB
 [WD Red](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-red-hdd/product-brief-western-digital-wd-red-hdd.pdf)					|2-6TB			|3 yr			|SATA			|256MB		|180TByr/1MHr	|23/27|Pre-built or custom NAS					|SMR, 5.4K RPM
 [WD Red Plus](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-red-plus-hdd/product-brief-western-digital-wd-red-plus-hdd.pdf)				|1-14TB			|3 yr			|SATA			|64-256MB	|180TByr/1MHr	|20/29|Pre-built or custom NAS					|CMR, 64MB <= 6TB, 256MB >= 8TB, 5.4-7.2K RPM
