@@ -227,20 +227,21 @@ TBW = Total Bytes Written, Workload
 
 <!-- Sub-Section -->
 
-### Hard Drive Prices (as of 2023-08-10)
-[PCPartPicker prices](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=8000000000000,22000000000000&sort=price&page=1)  
+### Hard Drive Prices (as of 2024-02-19)
+Prices: [PCPartPicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=8000000000000,22000000000000&sort=price&page=1)  
+Vendors: [Disctech](https://www.disctech.com), [Serverpartdeals](https://serverpartdeals.com), Amazon, Newegg 
 
-BRAND						|8TB		|12TB	|14TB	|18TB
+BRAND						|8TB	|12TB	|14TB	|18TB
 :--|:--|:--|:--|:--
-WD Elements/Easystore			|$160	|$210|$230|$270
-WD My Book					|$180	|$210|$280|$330
-WD Ultrastar HC				|$170	|$200|$215|$300
-Toshiba N300					|$200	|$210|$250|$320
-WD Red Plus					|$170	|$220|$260|NA
-Seagate Ironwolf NAS				|$160	|$200|$240|NA
-Seagate Ironwolf Pro NAS			|$225	|$230|$250|$300
-Seagate Exos X 					|NA		|$210|$210|$300
-WD Red Pro					|$222	|$290|$260|$290
+WD Elements/Easystore		|$170	|$250 |$270 |$330
+WD My Book					|$180	|$260 |$280 |$330
+WD Ultrastar HC				|$170	|$275 |$240 |$350
+Toshiba N300/Pro			|$150	|$250 |$285 |$330
+WD Red Plus					|$190	|$230 |$355 |NA
+WD Red Pro					|$230	|$290 |$300 |$340
+Seagate Ironwolf NAS		|$170	|$200 |$240 |NA
+Seagate Ironwolf Pro NAS	|$210	|$235 |$240 |$300
+Seagate Exos X 				|$195	|$190 |$220 |$260
 
 <!-- Sub-Section -->
 
