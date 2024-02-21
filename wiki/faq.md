@@ -679,7 +679,7 @@ Here are the methods you can use:
   4. Fan control: Lower the max RPM on your fans causing CPU to throttle its frequencies when hitting thermal limits. Viable, but NOT recommended.  
  AMD  
   1. In Windows (OS): Control Panel->Power Options->Power Plan->Change advanced..->Processor Power Management->Maximum processor state->Lower percentage from 100%  
-  2. In Windows (AMD): Install the AMD Ryzen Master app. [Lower Base/Boost CPU frequency/TDP or Activate ECO mode](https://www.amd.com/system/files/documents/ryzen-master-quick-reference-guide.pdf).  
+  2. In Windows (AMD): Install the AMD Ryzen Master app. [Lower Base/Boost CPU frequency/TDP or Activate ECO mode](https://www.amd.com/system/files/documents/ryzen-master-quick-reference-guide.pdf). In Mini PCs, use [Universal x86 Tuning Utility](https://amdaputuningutility.com/) to lower the max TDP.  
   3. In BIOS: Depends on motherboard vendor. Look in the CBS/NBIO/System Config menus to lower the TDP.  
   4. In BIOS: Depends on motherboard vendor. Lower the base/boost cpu frequencies.  
   5. Fan control: Lower the max RPM on your fans causing CPU to throttle its frequencies when hitting thermal limits. Viable, but NOT recommended.  
