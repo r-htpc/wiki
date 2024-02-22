@@ -484,7 +484,12 @@ You will need to have HDMI 2.1 bandwidth on every HDMI device between your HTPC 
 
 Options below for this are ordered from best to worst in terms of stability and reliability. 
 
-Technically, straight HDMI is the best (#1/#2/#3), followed by Thunderbolt->HDMI (#4/#5), USB-C->HDMI (#6) and DP->HDMI (#7/#8). Use of an adapter in #4/#5/#6/#7/#8 assumes you have a Display with DSC (Display Stream Compression) support on your HTPC/Display HDMI 2.1 connectors. Media content SHOULD be possible without DSC support, but it's not a given. **VRR** gaming will **not** be supported with any adapter.  
+Technically, straight HDMI is the best (#1/#2/#3), followed by Thunderbolt->HDMI (#4/#5), USB-C->HDMI (#6) and DP->HDMI (#7/#8). 
+
+Use case is KEY, as 4k@120 Hz is a broad requirement and knowing what sub-features (media, gaming, HDR) you want will determine bandwidth requirements. 
+
+Use of an adapter in options #4/#5/#6/#7/#8 assumes you have a GPU with Displayport 1.4 protocol support and DSC (Display Stream Compression). 
+Media content (HDR/10-bit/4:2:2) is technically possible without DSC support. Gaming (HDR/10-bit/4:4:4/RGB) is NOT. **VRR** gaming will **not** be supported with any adapter.  
   
 1. DiY: [Any cpu/motherboard](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=sff+%28i3-7100%2Ci5-7400%2Ci3-8100%2Ci5-8400%2Ci5-8500%29&_sacat=179&LH_TitleDesc=0&rt=nc&_odkw=sff+%28i3-7100%2Ci5-7400%2Ci3-8100i5-8400%2Ci5-8500%29&LH_BIN=1&_osacat=179&_sop=15) + a discrete GPU w/a 4k@120 Hz HDMI 2.1. e.g. New: Radeon RX 6400, Used: RTX 3050 
 2. DiY: An AMD Ryzen 7xxx/8xxxG desktop CPU and respective motherboard that states 4k@120Hz HDMI 2.1. e.g. Ryzen 7600 + ASRock A620I/B650I Lightning Wifi for a realistic max of 4:2:2 10-bit HDR. 
