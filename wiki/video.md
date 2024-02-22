@@ -114,17 +114,22 @@ See also: [Audio Software](/wiki/audio#audio-software)
 **Media Servers**
 
 1. [Plex](https://plex.tv) - Media server software that streams content out to clients. Distinguishing features include:  
- -  Support for Windows, Linux, Mac  
+ -  Support for Windows, Linux, Mac, Docker 
  -  Support for live tv via tv tuners  
  -  Automatic scanning of video content directories  
  -  Automatic retrieval of metadata content (posters, descriptions, trailers) from the internet  
- -  Real-time transcoding video/audio down to other containers, codecs, resolutions and bitrates via CPU/GPU  
+ -  Real-time transcoding video/audio down to other containers, codecs, resolutions and bitrates via CPU/GPU. GPU transcoding is a pay feature.  
  -  Streaming of video content to remote video clients  
  -  Support for playback via windows, linux and web browser clients  
  -  Intro skip, Credit skip, Media collections, Subtitle support  
  -  HDR tonemapping support  
-2. [Emby](https://emby.media)  
-3. [Jellyfin](https://jellyfin.org)  
+2. [Jellyfin](https://jellyfin.org)  
+ -  Decent alternative to Plex, but not as polished/supported across clients. 
+ -  Support for Windows, Linux, Mac, Docker 
+ -  GPU transcoding support is free. 
+ -  Streaming of video content to remote video clients requires direct access to server. 
+ -  HDR tonemapping support 
+3. [Emby](https://emby.media)  
 
 **Players**
 
@@ -135,37 +140,40 @@ See also: [Audio Software](/wiki/audio#audio-software)
  - Extensive plug-in support  
  - [HDR support](/wiki/hdr), Subtitle support  
  - MadVR integration  
+ - Keyboard/remote support 
 2. [Plex](https://plex.tv) - A media player that interfaces with the Plex Media Server and plex.tv video content  
  - Support for Windows, Linux, Mac, Android  
  - [HDR support](/wiki/hdr), Subtitle support  
+ - Keyboard/remote support using Plex HTPC 
 3. [VLC](https://www.videolan.org/vlc/)  
  - Support for Windows, Linux, Mac, Android  
  - [HDR support](/wiki/hdr)  
  - DVD/Blu-ray folder support  
-4. PotPlayer  
- - MadVR integration  
- - HDR support (via MadVR)  
- - Not open source
-5. [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases)/[MPC-HC](https://github.com/clsid2/mpc-hc/releases/)  
+4. [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases)/[MPC-HC](https://github.com/clsid2/mpc-hc/releases/)  
  - Support for Windows  
  - Extensive feature-set
- - MadVR integration  
+ - MadVR/MPC VR integration  
  - [HDR support (via MPC VR/MadVR)](/wiki/hdr)  
  - Subtitle support  
  - DVD/Blu-ray folder support  
-6. [JRiver Media Center](https://jriver.com/)  
+5. [JRiver Media Center](https://jriver.com/)  
  - Support for Windows, Mac, Linux  
  - Automatic scanning of video content directories  
  - Automatic retrieval of metadata content (posters, descriptions) from the internet  
  - MadVR integration  
  - HDR support  
+ - Keyboard/remote support 
  - Commercial
-7. [MPV](https://mpv.io)  
+6. [MPV](https://mpv.io)  
  - Support for Windows, Linux, Mac, Android  
  - Minimal GUI  
  - HDR support  
-8. PowerDVD  
+7. PowerDVD  
  - DVD/Blu-ray/UHD Blu-ray disc support  
+8. PotPlayer  
+ - MadVR integration  
+ - HDR support (via MadVR)  
+ - NOT open source
 
 **3rd Party**
 
