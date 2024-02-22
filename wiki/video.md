@@ -161,7 +161,7 @@ See also: [Audio Software](/wiki/audio#audio-software)
  - Automatic scanning of video content directories  
  - Automatic retrieval of metadata content (posters, descriptions) from the internet  
  - MadVR integration  
- - HDR support  
+ - HDR support, Subtitle support  
  - Keyboard/remote support 
  - Commercial
 6. [MPV](https://mpv.io)  
