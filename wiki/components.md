@@ -248,6 +248,20 @@ HDDs: Ultrastar, Seagate Exos, WD Red
 
 ### Optical Drives
 
+See our [Software](/wiki/faq#what-software-will-i-need-and-how-do-i-set-it-up) section for players and [Ripping](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use) section for advise on ripping. 
+
+*DVD/Blu-Ray:*  
+Internal: LG WH14NS40, ASUS BW-16D1HT, Pioneer BDR 212  
+External, Slim: Archgon MD-3102S, LG WP50NB40/BP60NB10/BP50NB40  
+
+*UHD Blu-Ray (for ripping or AnyDVD playback):*  
+See [MakeMKV forum post on recommended drives/FW](https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634)  
+
+*UHD Blu-Ray (for Official Playback/ripping):*  
+Internal: LG WH16NS60  
+Internal, Slim: LG BU40N  
+External, Slim: Archgon MD-8107S, Buffalo BRUHD-PU3, LG BP60NB10  
+
 NOTE: UHD/4k blu-ray **disc** playback is not recommended due to hardware restrictions. See [here](https://www.cyberlink.com/support/faq-content.do?id=19144) and [here](/wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility)   
 
 If you can meet the restrictions, then buy an Official Playback drive and use PowerDVD.  
@@ -259,18 +273,6 @@ If you **can't** meet the restrictions, then either (in order of preference):
  2. Buy a [standalone player](https://www.google.com/search?q=panasonic+ub420+ub820&oq=panasonic+ub420+ub820) for your HT system.  
 
  3. Buy a UHD Friendly drive and Play the discs using Redfox AnyDVD HD and your favorite media player
-
-*DVD/Blu-Ray:*  
-Internal: LG WH14NS40, ASUS BW-16D1HT, Pioneer BDR 212  
-External, Slim: Archgon MD-3102S, LG BP60NB10/BP50NB40  
-
-*UHD Blu-Ray (for ripping or AnyDVD playback):*  
-See [MakeMKV forum post on recommended drives/FW](https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634)  
-
-*UHD Blu-Ray (for Official Playback/ripping):*  
-Internal: LG WH16NS60  
-Internal, Slim: LG BU40N  
-External, Slim: Archgon MD-8107S, Buffalo BRUHD-PU3, LG BP60NB10  
 
 <!-- Sub-Section -->
 
