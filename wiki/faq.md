@@ -268,7 +268,7 @@ To organize your content, look at Radarr (movies), Sonarr (tv), Lidarr (music) a
 
 For Live TV software, see the [dedicated section](/wiki/faq#can-i-watch-live-tv-or-record-it-and-play-it-back-on-my-htpc) below.  
 
-For blu-ray disc playback, both Kodi and VLC (w/[Java 8](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html)) have disc menu support ; for 4k/UHD, use [Cyberlink PowerDVD](https://www.cyberlink.com/products/powerdvd-ultra/features_en_US.html)  
+For DVD/blu-ray disc playback, both Kodi and VLC (w/[Java 8](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html)) have disc menu support. For ISO playback, look at Kodi, VLC, MPC-HC, and Jriver along with [CloneDrive](https://www.redfox.bz/en/virtual-clonedrive.html) to mount the ISO first ; for 4k/UHD discs, use [Cyberlink PowerDVD](https://www.cyberlink.com/products/powerdvd-ultra/features_en_US.html)  
 
 For disc ripping and transcoding software, see the [dedicated section](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use) below.  
 
