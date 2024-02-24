@@ -272,7 +272,7 @@ For DVD/blu-ray disc playback, both Kodi and VLC (w/[Java 8](https://www.oracle.
 
 For disc ripping and transcoding software, see the [dedicated section](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use) below.  
 
-For game emulation, look at [RetroArch](https://www.retroarch.com/?page=platforms), [EmulationStation DE](https://es-de.org/) or [Launchbox Big Box](https://www.launchbox-app.com/premium) on **Windows**. [Batocera](https://batocera.org/), [Lakka (RetroArch on a stick)](https://www.lakka.tv/) on **Linux**, RetroArch or [OpenEmu](https://openemu.org/) on **Mac**, [Lemuroid](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid&hl=en_US&gl=US) or RetroArch on **Android**, [Provenance](https://github.com/Provenance-Emu/Provenance) on **Apple TV**. [Nostlan](https://github.com/quinton-ashley/nostlan) for 4k displays.  
+For game emulation, look at [Batocera](https://batocera.org/), [LibreElec](https://libreelec.tv/downloads/) w/Retroarch, or [Lakka (RetroArch on a stick)](https://www.lakka.tv/) on **Linux/dedicated OS**; [RetroArch](https://www.retroarch.com/?page=platforms), [EmulationStation DE](https://es-de.org/) or [Launchbox Big Box](https://www.launchbox-app.com/premium) on **Windows**; RetroArch or [OpenEmu](https://openemu.org/) on **Mac**; [Lemuroid](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid&hl=en_US&gl=US) or RetroArch on **Android**; [Provenance](https://github.com/Provenance-Emu/Provenance) on **Apple TV**. [Nostlan](https://github.com/quinton-ashley/nostlan) for 4k displays.  
 
 For game streaming, [Sunshine](https://app.lizardbyte.dev/Sunshine) on your server/gaming PC and [Moonlight](https://moonlight-stream.org/) on your HT client.  
 
