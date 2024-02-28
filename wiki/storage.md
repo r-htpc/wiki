@@ -25,7 +25,7 @@ Recommended drives and related prices are given in the Hardware section below.
 
 ## Reliability
 
-Different types of storage have different levels of reliability. The trick is to balance your needs with cost, space, and flexibility issues.
+Different types of storage have different levels of reliability. The trick is to balance your needs with cost, space, and flexibility issues. Avoid "External Storage (USB/DAS)" and "Network Storage (Wifi)" where at all possible, but we will still provide solutions below. 
 
 From Most reliable to Least reliable:
 
