@@ -441,7 +441,7 @@ MEM			|8 GB+ DDR4|	Included|	NA|		NA
 STORAGE		|256GB M.2 SSD (OS/APPS)		|	$25|	[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=240000000000,22000000000000&t=0&sort=price&f=122030,122042,122060,122080)|		OPTIONAL, If not included in ebay build.
 STORAGE		|WD 8-16TB USB HDD (MEDIA)		|$160-280		|	[Best Buy](https://www.bestbuy.com/site/wd-easystore-8tb-external-usb-3-0-hard-drive-black/6425302.p?skuId=6425302&utm_source=feed)		| OPTIONAL, if not included in ebay build or don't have. ALT: [2.5" SATA HDD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=900000000000,22000000000000&sort=price&f=3&t=5000,5200,5400,5640,5700,5760,5900,5940,7200&page=1)
 ACCESSORY	|DP to HDMI Cable	|	$10	|	[Amazon](https://www.amazon.com/Amazon-Basics-Uni-Directional-DisplayPort-Display/dp/B015OW3M1W)	| OPTIONAL, for mgmt. 6 ft
-OS			|Ubuntu 22/Windows 10 Pro				|$0			|	[Ubuntu](https://ubuntu.com/download)	|	Windows 10 Pro included
+OS			|Ubuntu 22/Windows 10 Pro				|$0			|	[Ubuntu](https://ubuntu.com/download)	|	
 SOFTWARE	|Plex Media Server						|$0			|	[Plex](https://www.plex.tv/downloads)	|	Free
 LICENSE		|Plex Pass								|$120		|	[Plex](https://www.plex.tv/plex-pass/)	|	OPTIONAL. Lifetime cost or $40/year, $5/month.	
 TOTAL		|				|	$95	||
@@ -483,7 +483,7 @@ MEM/STORAGE	|8GB RAM, HDD/SSD/Bare					|Included	|	NA			|
 STORAGE		|WD Blue SN570 500GB M.2 NVMe SSD (OS/APPS)		|$35		|	[Amazon](https://www.amazon.com/dp/B09HKG6SDF)		| OPTIONAL, if not included in ebay build.
 STORAGE		|WD 8-20 TB 3.5" SATA HDD (MEDIA)		|$100-280		|	[Ebay](https://www.ebay.com/sch/i.html?_fsrp=1&rt=nc&_from=R40&_nkw=%28wd%2Cwestern%29+%288tb%2C10tb%2C12tb%2C14tb%2C16tb%2C18tb%2C20tb%29+-blue+-purple+-gold&_sacat=56083&LH_BIN=1&LH_TitleDesc=0&_sop=15&LH_ItemCondition=1000%7C1500)		| OPTIONAL, if not included in ebay build or don't have.
 ACCESSORY	|DP to HDMI Cable	|	$10	|	[Amazon](https://www.amazon.com/Amazon-Basics-Uni-Directional-DisplayPort-Display/dp/B015OW3M1W)	| OPTIONAL, for mgmt. 6 ft
-OS			|Ubuntu 22/Windows 10 Pro				|$0			|	[Ubuntu](https://ubuntu.com/download)	|	Windows 10 Pro included
+OS			|Ubuntu 22/Windows 10 Pro				|$0			|	[Ubuntu](https://ubuntu.com/download)	|	
 SOFTWARE	|Plex Media Server						|$0			|	[Plex](https://www.plex.tv/downloads)	|	Free
 LICENSE		|Plex Pass								|$120		|	[Plex](https://www.plex.tv/plex-pass/)	|	OPTIONAL. Lifetime cost or $40/year, $5/month.	
 TOTAL		|										|$125		|	NA			|
