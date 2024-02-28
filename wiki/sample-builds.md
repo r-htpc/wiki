@@ -467,16 +467,13 @@ If you want to fit more than 1x 3.5" HDDs internally, look at these versions:
 
 It's preferred to use an SSD for your OS drive and for storing Plex Metadata. You can either buy the system with an SSD included, or buy it bare, purchasing one separately as per the parts list below. The latter is preferrable as you have more control over size/brand/form factor.  
 
-For media content storage, either use the HDD (if provided in the one you buy), replace it with a bigger one, or use external USB drives. You can get an 8TB drive for about $100, whether it be an 
-internal [WD SATA drive](https://www.ebay.com/sch/i.html?_fsrp=1&rt=nc&_from=R40&_nkw=%28wd%2Cwestern%29+%288tb%2C10tb%2C12tb%2C14tb%2C16tb%2C18tb%2C20tb%29+-blue+-purple+-gold&_sacat=56083&LH_BIN=1&LH_TitleDesc=0&_sop=15&LH_ItemCondition=1000%7C1500) or an external [WD Elements/Easystore USB Drive](https://www.amazon.com/Elements-Desktop-Hard-Drive-WDBWLG0080HBK-NESN/dp/B07D5V2ZXD). If you want to throw a bunch of drives at it (4) and not have all the USB/power cables of external drives, either go with one of the bigger cases or add a Terramaster [F4-210 NAS](/wiki/storage#pre-built-nas-list). If you want to go beyond this you'll want to build everything internally as per the NAS+Media Server sample build below.  
+For media content storage, either use the HDD (if provided in the one you buy), or replace it with a bigger one. You can get an 8TB drive for about $100. Check our [Storage Setup Guide](/wiki/storage#hard-drives) drive list for more options. If you want to throw a bunch of drives at it, either go with one of the bigger cases above or add a Terramaster [F4-210 NAS](/wiki/storage#pre-built-nas-list). If you want to go beyond this you'll want to build everything internally with the next NAS/Media Server build below as a starting point.  
 
-The optimal serving solution would be this system configured with a M.2 SSD for OS/apps, a large 3.5" internal HDD, Ubuntu 22, docker and the plex docker container.
+A good serving solution with the below system would be a M.2 SSD for OS/apps, a large 3.5" internal HDD, Ubuntu 22, docker and the plex docker container.
 
-Windows is fine for ease of administration, but you can go with Ubuntu or OpenMediaVault on the Linux-side for more advanced usage, like Docker, and/or have better disk volume management.  
+Windows would be fine for ease of administration, but you should go with Ubuntu, OpenMediaVault or Unraid on the Linux-side for more advanced usage, like Docker, and/or have better multi-disk volume management.  
 
 See our [Storage Setup Guide](/wiki/storage) for more information on software, drives, and pre-built NASes.  
-
-You can also optionally use this as a HTPC client. Add a used low-profile GT 1030 for 4k@60 HDR content.  
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
