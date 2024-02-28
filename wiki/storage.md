@@ -48,7 +48,7 @@ SSDs are good for smaller app, metadata and cache storage as they have more read
 
 External media storage can come in the format of USB drives or USB/Thunderbolt Direct Attached Storage enclosures (DAS). Drives in a DAS can act as individual drives or as one drive, depending on the DAS. Anything attached by USB is at risk of being disconnected at random, so internal or network storage is preferred to external, where at all possible.
 
-Recommended DASes are given in the Hardware section below.
+Recommended DASes are bolded in the Hardware section below.
 
 <!-- Section -->
 
@@ -173,7 +173,7 @@ Mediasonic	|	Proraid - HFR2/HFR7     	|	4	|	$170/$180	|	USB30/USB31G2, HW RAID 0
 Mediasonic	|	Probox - H82		|	8	|	$270-$350	|	USB30/USB31G2, Single
 **Terramaster**       |       **D4-300**                     |      4       |       $170 | USB31G1, Single
 **Sabrent**       |       **DS-SC4B/SC5B**              |      4/5       |       $230-280 | USB31G2, Single
-**QNAP**		|	**[TL-D400S](https://www.qnapworks.com/TL-D400S.asp)**		|	4	|	$300	| PCIe SATA, JBOD, Single
+**QNAP**		|	**[TL-D400S](https://www.qnapworks.com/TL-D400S.asp)**		|	4	|	$300	| PCIe SATA (more reliable than USB), JBOD, Single
 QNAP		|	TR-002-US		|	2	|	$160	| USB32G1, HW RAID 0/1/10/5, JBOD, Single
 QNAP		|	TR-004-US		|	4	|	$200	| USB32G1, HW RAID 0/1/10/5, JBOD, Single
 PC Pitstop          |       [Various](https://www.pc-pitstop.com/sas-sata-enclosures-no-expander)   |    4-24    |  $270-1400   |  w/LSI 9207-4i4e Host PC PCIe card
