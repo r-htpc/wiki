@@ -409,6 +409,12 @@ If the media you're watching does not have a framerate that's a multiple of your
 
 <!-- Sub-Section -->
 
+### What kind of video is supported for streaming services?
+
+See [Wiki:FAQ:What resolution and audio is supported on streaming service X?](https://r-htpc.github.io/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x)
+
+<!-- Sub-Section -->
+
 ### What are the best algorithms for scaling video?
 
 Video scaling algorithms from Worst to Best (and generally least resource intensive to most) are:  
