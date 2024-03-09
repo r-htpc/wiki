@@ -189,7 +189,7 @@ Advanced, more powerful tonemapping, upscaling and processing than using MPC Vid
   * *MPC-HC/BE app*  
     *  Play a [test HDR video](/wiki/hdr#hdr-tests) and press Ctrl+J to show stats. If avg/max rendering stats are >= 35ms, you're either doing too much madVR processing or your GPU isn't powerful enough. [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper PC/TV hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
 * *Update MadVR* (OPTIONAL)  
-  * If you want newer, beta madVR features, [download madVR beta](http://madshi.net/madVRhdrMeasure113.zip), unzip and copy the files into C:\Program Files (x86)\K-Lite Codec Pack\Filters\madVR\  
+  * If you want newer, beta madVR features, after validating your setup, [download madVR beta](http://madshi.net/madVRhdrMeasure113.zip), unzip and copy the files into C:\Program Files (x86)\K-Lite Codec Pack\Filters\madVR\  
 
 ### **Kodi + MPC-HC + madVR**
 
@@ -348,7 +348,7 @@ Advanced, current way to integrate madVR into Kodi for passthrough, tonemapping,
     * Play a [test HDR video](/wiki/hdr#hdr-tests) and press Ctrl+J to show stats. If avg/max rendering stats are >= 35ms, you're either doing too much madVR processing or your GPU isn't powerful enough. [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper PC/TV hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
 
 * *Update MadVR* (OPTIONAL)
-  * If you want newer, beta madVR features, [download madVR beta](http://madshi.net/madVRhdrMeasure113.zip), unzip and copy the files into C:\Program Files (x86)\K-Lite Codec Pack\Filters\madVR\  
+  * If you want newer, beta madVR features, after validating your setup, [download madVR beta](http://madshi.net/madVRhdrMeasure113.zip), unzip and copy the files into C:\Program Files (x86)\K-Lite Codec Pack\Filters\madVR\  
 
 ### **DSPlayer Kodi + madVR**
 
@@ -423,7 +423,7 @@ Advanced, old way to integrate madVR into Kodi for passthrough, tonemapping, and
   * *Kodi app*
     * Play a [test HDR video](/wiki/hdr#hdr-tests) and press Ctrl+J to show stats. If avg/max rendering stats are >= 35ms, you're either doing too much madVR processing or your GPU isn't powerful enough. [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper PC/TV hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
 * *Update MadVR* (OPTIONAL)
-  * If you want newer, beta madVR features, [download madVR beta](http://madshi.net/madVRhdrMeasure113.zip), unzip and copy the files into C:\Program Files (x86)\K-Lite Codec Pack\Filters\madVR\  
+  * If you want newer, beta madVR features, after validating your setup, [download madVR beta](http://madshi.net/madVRhdrMeasure113.zip), unzip and copy the files into C:\Program Files (x86)\K-Lite Codec Pack\Filters\madVR\  
 
 ### **Plex HTPC**
 
