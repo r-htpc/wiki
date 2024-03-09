@@ -494,7 +494,7 @@ Simple, Tonemapping
 
 WARNING: These settings are for more intensive image processing/scaling that is **NOT** necessary for just HDR passthrough.  
 The settings for the corresponding GPU families below are **conservative** so you don't have to spend hours wasting your time with stuttering due to high rendering times and diminishing returns.  
-This doesn't mean that they're not gpu intensive; they most certainly are. Test with the default settings before changing to any of these.  
+This doesn't mean that they're not gpu intensive; they most certainly are. **Test with the default settings before changing to any of these**.  
 If you can't handle the GPU load/noise/heat these settings produce, turn them down or go back to the madvr Bilinear defaults.  
 
 GPU|IMAGE UPSCALING|IMAGE DOUBLING|IMAGE DOWNSCALING|CHROMA UPSCALING|DITHERING
