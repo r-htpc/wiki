@@ -176,7 +176,7 @@ Advanced, more powerful tonemapping, upscaling and processing than using MPC Vid
     * rendering
       * general settings
         * Enable: delay playback start.., enable automatic fullscreen exclusive mode, use Direct3D 11 for presentation  
-        * Increase CPU/GPU queue size (if frame drops/stuttering occur)  
+        * **If** frame drops/stuttering occur while testing, increase CPU/GPU queue size here
       * dithering
         * algorithm: Ordered dithering (unless you have dedicated GPU, see settings section below)  
 * *MPC-HC/BE settings:*  
@@ -222,7 +222,7 @@ Advanced, current way to integrate madVR into Kodi for passthrough, tonemapping,
 
     ---- Enable delay playback start.., automatic fullscreen exclusive mode, use Direct3D 11 for presentation  
 
-    ---- Increase CPU/GPU queue size (if frame drops/stuttering occur)  
+    ---- **If** frame drops/stuttering occur while testing, increase CPU/GPU queue size here  
 
    -- Rendering -> dithering -> ordered dithering (unless you have dedicated GPU, see settings section below)  
 
@@ -381,7 +381,7 @@ Advanced, old way to integrate madVR into Kodi for passthrough, tonemapping, and
 
     ---- Enable delay playback start.., automatic fullscreen exclusive mode, use Direct3D 11 for presentation  
 
-    ---- Increase CPU/GPU queue size (if frame drops/stuttering occur)  
+    ---- **If** frame drops/stuttering occur while testing, increase CPU/GPU queue size here  
 
    -- Rendering -> dithering -> ordered dithering (unless you have dedicated GPU, see settings section below)  
 
