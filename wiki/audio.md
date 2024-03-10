@@ -532,7 +532,8 @@ Now when Windows detects no monitor on disconnect, it should keep the same resol
 
 **If your audio is ahead of the video:**  
 1. This can happen when your audio path is different than your video path; for instance, you run optical from your HTPC to your AV receiver for audio and HDMI from your HTPC to your display for video. This usually happens if the display is doing extra processing on the video, causing it to lag behind. To alleviate this, either use a mode on the display with low to no processing, like Game mode, or turn off heavy processing like Motion smoothing.  
-2. This can happen on certain displays if you're playing 24/25 fps content and have auto-refresh switching turned on for your media player software (meaning, when it sees 24fps content, it switches to 24Hz from 60Hz). Sometimes you can fix this by turning auto-refresh rate switching off, but then you run into motion smoothing problems playing 24fps at 60 Hz. If you can't live with that, see below for setting audio delay offsets/display syncing.  
+2. This can happen on certain displays if you're playing 24/25 fps content and have auto-refresh switching turned on for your media player software (meaning, when it sees 24fps content, it switches to 24Hz from 60Hz). Sometimes you can fix this by turning auto-refresh rate switching off, but then you run into motion smoothing problems playing 24fps at 60 Hz.
+3. If all else fails, see below for setting audio delay offsets/display syncing in media players/middleware.
 
 **If your audio is behind the video:**  
 1. It may indicate your HTPC is not powerful enough, specifically the CPU.  
@@ -542,7 +543,8 @@ Now when Windows detects no monitor on disconnect, it should keep the same resol
 5. You may be doing too much audio processing on your HTPC. Disable any, or use less, audio enhancements, or use bitstreaming if you're currently letting the HTPC do the decoding.  
 6. You may be doing too much audio processing on your sound system. Disable any, or use less, audio enhancements on it, such as using Pure Direct sound mode on your AVR, if it's supported.  
 7. If on Windows, you may be using a Power Plan that is lowering system performance on various devices. Create a High Performance power plan and re-test.
-8. You are using Dolby Access to send Dolby Atmos (e.g. Gaming) audio through a display to your sound system. This can cause a noticable delay. Make sure you set up your display to pass-through the audio correctly and don't use the Auto/PCM setting values. Alternatively, connect your HTPC to your sound system first, seperate your audio and video paths with multiple connections, or use an audio extractor/splitter between the HTPC and display/sound system. See setup scenarios above.  
+8. You are using Dolby Access to send Dolby Atmos (e.g. Gaming) audio through a display to your sound system. This can cause a noticable delay. Make sure you set up your display to pass-through the audio correctly and don't use the Auto/PCM setting values. Alternatively, connect your HTPC to your sound system first, seperate your audio and video paths with multiple connections, or use an audio extractor/splitter between the HTPC and display/sound system. See setup scenarios above.
+9. If all else fails, see below for setting audio delay offsets/display syncing in media players/middleware.
 
 If ahead/behind delays occur on specific content, it could indicate that the content was created (encoded) improperly or on a PC with less than ideal CPU/GPU performance.  
  
