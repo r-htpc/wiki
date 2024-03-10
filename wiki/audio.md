@@ -418,7 +418,7 @@ There are a number of ways to solve this, but there is usually not one silver bu
 
 2. If you're NOT bitstreaming and you're using Windows, make sure the speaker config in Windows sound control panel is configured to match the speaker configuration you have or are mixing down to in #3.  
 
-3. If you're NOT bitstreaming, Downmix content that doesn't match your speaker configuration. [Downmixing](https://i.stack.imgur.com/kJD3x.png) will try to mix the extra channels down into your current, supported number of channels. VLC, MPC-BE, Internal/External [LAV](https://github.com/Nevcairiel/LAVFilters/releases) filters, and ffdshow all have Mixing options for this. Provide it with your speaker configuration and it will mix extra channels down to that config. You can even boost certain channels, like the Voice (center) channel in the mix. This is a good start when you know what channels you want to emphasize.  
+3. If you're NOT bitstreaming, Downmix content that doesn't match your speaker configuration. [Downmixing](https://i.stack.imgur.com/kJD3x.png) will try to mix the extra channels down into your current, supported number of channels. VLC, MPC-BE, Internal/External [LAV](https://github.com/Nevcairiel/LAVFilters/releases) filters, and [ffdshow](https://sourceforge.net/projects/ffdshow-tryout/files/Official%20releases/) all have Mixing options for this. Provide it with your speaker configuration and it will mix extra channels down to that config. You can even boost certain channels, like the Voice (center) channel in the mix. This is a good start when you know what channels you want to emphasize.  
 
 4. If you're NOT bitstreaming, Enable Dynamic Range Compression in your media player/middleware. DRC squashes or flattens your audio based on a ratio so the lows and highs are closer together. MPC's (and in turn LAV's) compressor is basic and controlled as a % lowered from 100%. You can start setting it to 50% for moderate compression and see how it sounds for you.  
 VLC's compressor gives you more control and you can start by setting it to a RMS/Attack/Release/Threshold/Ratio/Makeup of 0/1.5ms/300ms/-20dB/3.0:1/1dB/15dB. A higher ratio (anything > 8.0:1) will compress more and is akin to a limiter.  
@@ -530,11 +530,11 @@ Now when Windows detects no monitor on disconnect, it should keep the same resol
 
 ### When I play my content, why is the audio out of sync with the video?
 
-If your audio is ahead of the video:  
+**If your audio is ahead of the video:**  
 1. This can happen when your audio path is different than your video path; for instance, you run optical from your HTPC to your AV receiver for audio and HDMI from your HTPC to your display for video. This usually happens if the display is doing extra processing on the video, causing it to lag behind. To alleviate this, either use a mode on the display with low to no processing, like Game mode, or turn off heavy processing like Motion smoothing.  
 2. This can happen on certain displays if you're playing 24/25 fps content and have auto-refresh switching turned on for your media player software (meaning, when it sees 24fps content, it switches to 24Hz from 60Hz). Sometimes you can fix this by turning auto-refresh rate switching off, but then you run into motion smoothing problems playing 24fps at 60 Hz. If you can't live with that, see below for setting audio delay offsets/display syncing.  
 
-If your audio is behind the video:  
+**If your audio is behind the video:**  
 1. It may indicate your HTPC is not powerful enough, specifically the CPU.  
 2. It could also indicate (if it's specifically a PC) that you're running into a problem called DPC latency. This happens most prominently on older PCs where USB is in heavy use, like with storage devices or wi-fi adapters. This causes interruptions in the audio stream. You can run a [DPS Latency checker](https://www.resplendence.com/latencymon) program to see if this is happening to you.  
 3. If you're using Bluetooth for your audio (such as a Bluetooth speaker or headphones), this is likely to happen, as Bluetooth has a fairly large delay in transit. The AptX LL protocol (on supported Bluetooth devices) tries to alleviate this in Bluetooth, but results are still less than optimal. Don't use Bluetooth audio when watching video content, where at all possible.  
@@ -546,7 +546,7 @@ If your audio is behind the video:
 
 If ahead/behind delays occur on specific content, it could indicate that the content was created (encoded) improperly or on a PC with less than ideal CPU/GPU performance.  
  
-If all else fails, most media players (plex, kodi, mpc, etc..) and middleware software (such as [LAV](https://github.com/Nevcairiel/LAVFilters/releases) or ffdshow) have an option to either delay the audio with a time offset or have a feature that allows you to Sync Audio to Display. If you're using a AV Receiver it may also have a lipsync offset that you can alternatively set.  
+**If all else fails**, most media players (plex, kodi, mpc, etc..) and middleware software (such as [LAV](https://github.com/Nevcairiel/LAVFilters/releases), [APO Equalizer](https://sourceforge.net/projects/equalizerapo/)+[Peace GUI](https://sourceforge.net/projects/peace-equalizer-apo-extension/) or [ffdshow](https://sourceforge.net/projects/ffdshow-tryout/files/Official%20releases/)) have an option to either delay the audio with a time offset or have a feature that allows you to Sync Audio to Display. If you're using a AV Receiver it may also have a lipsync offset that you can alternatively set.  
 
 <!-- Sub-Section -->
 
