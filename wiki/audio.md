@@ -393,7 +393,7 @@ EXTERNAL: OPTIONAL: If you need/want an advanced/specialized audio decoder/filte
 
 Media Player Apps: Up to Dolby TrueHD Atmos, DTS:X  
 
-Blu-Ray Media: Required: LPCM <= 7.1. DTS, Dolby Digital <= 5.1. Optional: [Dolby Digital+ 6.1-7.1, Dolby TrueHD 1.0-7.1 Atmos](https://forum.blu-ray.com/showthread.php?t=159814), DTS-HD/MA 7.1, DTS:X  
+Blu-Ray Media: Required: LPCM <= 7.1, DTS, Dolby Digital <= 5.1. Optional: [Dolby Digital+ 6.1-7.1, Dolby TrueHD 1.0-7.1 Atmos](https://forum.blu-ray.com/showthread.php?t=159814), DTS-HD/MA 7.1, DTS:X  
 
 Streaming Services: See [Wiki:FAQ:What resolution and audio is supported on streaming service X?](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x)  
 
