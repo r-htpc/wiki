@@ -176,7 +176,7 @@ This will send audio through your display. This is common for VRR (gsync/freesyn
 
 <img src="https://i.imgur.com/mrtX8DH.png" width="550" height="300" alt="DIAGRAM">
 
-This will give you a primary display for video output and a secondary, cloned display for audio-only output. This is common for VRR (gsync/freesync) gaming setups and/or where the resolution/refresh rate to the display exceeds what the sound system can pass through. If a secondary display is not desirable, see Scenario #4.  
+This will give you a primary display for video output and a secondary, extended display for audio-only output. This is common for VRR (gsync/freesync) gaming setups and/or where the resolution/refresh rate to the display exceeds what the sound system can pass through. If a secondary display is not desirable, see Scenario #4.  
 
 1. Connect the HTPC's primary HDMI output to the display's HDMI input, e.g. HTPC (HDMI) -> TV (HDMI).  
 2. Connect the HTPC's 2nd display output (either from motherboard or dGPU) to the sound system. If Displayport, use a PASSIVE [Displayport->HDMI cable](/wiki/components#video-cablesadapters) or adapter. e.g. HTPC (HDMI/Displayport) -> Sound System (HDMI).  
