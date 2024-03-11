@@ -312,7 +312,7 @@ Most players have audio passthrough support built-in, to be set up as per below.
 
 COMMON REQUIREMENTS (Windows):  
 1. Make sure the audio drivers are installed for your motherboard and/or GPU. If an Intel GPU, the Intel HD Audio driver and the Intel Management Engine driver. If Nvidia, the Nvidia HD Audio driver. If AMD, the AMD High Definition Audio driver.  
-2. Windows Sound control panel-><your sound device>->Properties->Advanced: Enable "Allow applications to take exclusive control of this device".
+2. Windows Sound control panel-> \<your_sound_device\> ->Properties->Advanced: Enable "Allow applications to take exclusive control of this device".
 
 STREAMING SERVICES:  
 1. Make sure your service supports a bitstreamable codec (Dolby/DD). See: [Wiki:FAQ:What resolution and audio is supported on streaming service X?](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x)   
