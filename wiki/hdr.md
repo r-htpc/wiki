@@ -23,7 +23,7 @@ You are **strongly urged** to test out the simple setups below before potentiall
 * *TV/Projector settings:*  
   * Must be the **ONLY** display connected to the system before configuration  
   * GPU connected to display's HDMI >= 2.0/DisplayPort >= 1.3 port  
-  * UHD Deep Color/Input Signal Plus turned On for your display's HDMI port. Setting name dependent on TV mfgr.  
+  * UHD Deep Color/Input Signal Plus turned On for your display's HDMI port (setting name dependent on TV mfgr)  
   * Black Level to Full/Normal (if available)  
   * Colorspace/Input Level/Range to RGB Full/Expanded/Enhanced/0-255 (if available)  
 * *GPU settings:*  
