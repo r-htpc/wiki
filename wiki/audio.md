@@ -414,7 +414,7 @@ For example, you may notice that voices are very quiet if you are playing Surrou
 
 There are a number of ways to solve this, but there is usually not one silver bullet. You may use one or more of the following methods (such as mixing + DRC + normalize) and depending on your sound system configuration (bitstreaming vs not), capabilities, software used, and even just what sounds best to you.  
 
-1. If you ARE bitstreaming, check if your sound system (AVR, soundbar, etc..) has built into it features like Dynamic Range Compression/Volume/EQ, Downmixing and/or the ability to boost certain channel/speaker levels. DRC/Volume/EQ is a good place to start.  
+1. If you ARE bitstreaming, check if your sound system (AVR, soundbar, etc..) has built into it features like Dynamic Range Compression/Dynamic Volume/EQ, Downmixing and/or the ability to boost certain channel/speaker levels. DRC/Dynamic Volume/EQ is a good place to start.  
 
 2. If you're NOT bitstreaming and you're using Windows, make sure the speaker config in Windows sound control panel is configured to match the speaker configuration you have or are mixing down to in #3.  
 
