@@ -270,7 +270,7 @@ Advanced, current way to integrate madVR into Kodi for passthrough, tonemapping,
 
     ---- Internal Filters -> Internal LAV Filters Settings -> Splitter Decoder (OPTIONAL)  
 
-   *Windows: Create text file: C:\Users\YOUR_USERNAME\AppData\Roaming\Kodi\userdata\playercorefactory.xml with content:*  
+   *Windows: Find file path to MPC-HC (usually C:\Program Files (x86)\K-Lite Codec Pack\MPC-HC64\mpc-hc64.exe) and Create text file: C:\Users\YOUR_USERNAME\AppData\Roaming\Kodi\userdata\playercorefactory.xml with contents of:*  
 
 `<playercorefactory>`  
 `<players>`  
@@ -322,7 +322,7 @@ Advanced, current way to integrate madVR into Kodi for passthrough, tonemapping,
 
     ---- External Filters -> Add Filter... -> Add LAV Audio Decoder, LAV Splitter Source, LAV Video Decoder. Set all to "prefer".  
 
-   *Windows: Create text file: C:\Users\YOUR_USERNAME\AppData\Roaming\Kodi\userdata\playercorefactory.xml with content:*  
+   *Windows: Find file path to MPC-BE (usually C:\Program Files\MPC-BE x64\mpc-be64.exe) and Create text file: C:\Users\YOUR_USERNAME\AppData\Roaming\Kodi\userdata\playercorefactory.xml with contents of:*  
 
 `<playercorefactory>`  
 `<players>`  
