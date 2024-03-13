@@ -107,29 +107,27 @@ If you can't afford any of these and want to do it more cheaply, you can use/buy
 
 BRAND		|	MODEL				|	DRIVES	|COST	|	TRANSCODING		|	CPU								|	PASSMARK	|	PM/$|	RAID MODES	| NOTES
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--
-**Terramaster**	|	**F2-424**				|	2	|	$380	|	4k (1a)	|	x64 (Celeron N95) 3.4 Ghz	|		5419	|	14.26	|RAID 0/1, JBOD, Single,8GB RAM, 2x2.5 Gb/s
-Terramaster	|	F2-423				|	2	|	$380	|	4k (1a)	|	x64 (Celeron N5105) 2.0 Ghz	|		4094	|	10.77	|RAID 0/1, JBOD, Single|4GB RAM, 2.5 Gb/s
-**Synology**	|	**DS224+**				|	2	|	$300	|	Some/4k (1b)			|	x64 (Celeron J4125) 2.0 Ghz		|		3035	|	10.1	|RAID 0/1, JBOD, SHR, Single|2GB RAM, 1Gb/s x2
-QNAP	|	TS-264				|	2	|	$425	|	4k (1a)			|	x64 (Celeron N5095) 2.0GHz		|		4125	|	9.7	|RAID 0/1, JBOD, Single|8GB RAM, 2.5Gb/s, ext4
-ASUSTOR		|	AS-6702T			|	2	|	$460	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094|	8.9	|RAID 0/1, JBOD, Single|4GB RAM, 2.5Gb/s, ext4/btrfs
-Terramaster	|	F2-223				|	2	|	$260	|	Some/4k (1b)	|	x64 (Celeron N4505)	|		2241	|	8.62	|RAID 0/1, JBOD, Single|4GB RAM, 2x2.5 Gb/s
-ASUSTOR		|	AS-6602T			|	2	|	$400	|	Some/4k (1b)			|	x64 (Celeron J4125) 2.0 GHz		|		3035	|	7.58	|RAID 0/1, JBOD, Single|ext4/btrfs
+**Terramaster**	|	**F2-424**				|	2	|	$380	|	4k (1a)	|	x64 (Celeron N95) 3.4 Ghz	|		5419	|	14.26	|RAID 0/1,JBOD,Single,8GB RAM, 2x2.5 Gb/s
+Terramaster	|	F2-423				|	2	|	$380	|	4k (1a)	|	x64 (Celeron N5105) 2.0 Ghz	|		4094	|	10.77	|RAID 0/1,JBOD,Single|4GB RAM, 2.5 Gb/s
+ASUSTOR		|	AS-5402T			|	2	|	$380	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094|	10.77	|RAID 0/1,JBOD,Single|4GB RAM, 2x2.5Gb/s, ext4/btrfs
+**Synology**	|	**DS224+**				|	2	|	$300	|	Some/4k (1b)			|	x64 (Celeron J4125) 2.0 Ghz		|		3035	|	10.1	|RAID 0/1,JBOD,SHR,Single|2GB RAM, 1Gb/s x2
+QNAP	|	TS-264				|	2	|	$425	|	4k (1a)			|	x64 (Celeron N5095) 2.0GHz		|		4125	|	9.7	|RAID 0/1,JBOD,Single|8GB RAM, 2.5Gb/s, ext4
+Terramaster	|	F2-223				|	2	|	$260	|	Some/4k (1b)	|	x64 (Celeron N4505)	|		2241	|	8.62	|RAID 0/1,JBOD,Single|4GB RAM, 2x2.5 Gb/s
 
 **STORAGE+SERVICES - 3+ drives**  
 
 BRAND		|	MODEL				|	DRIVES	|COST	|	TRANSCODING		|	CPU								|	PASSMARK	|	PM/$|	RAID MODES	| NOTES
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--
-**Terramaster**	|	**F4-424**				|	4	|	$500	|	4k (1a)	|	x64 (Celeron N95) 3.4 Ghz	|		5419	|	10.83	|RAID 0/1/5/6/10, JBOD, Single|ext4/btrfs, 8GB RAM, 2x2.5 Gb/s
-**QNAP**		|	**TS-364-4G**				|	3	|	$450	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094	|	 9.09	|RAID 0/1/5, JBOD, Single|ext4, 4GB RAM, 2.5 Gb/s
+Terramaster	|	F4-424 Pro				|	4	|	$700	|	4k (1a)	|	x64 (i3-N305) 3.8 Ghz	|		10060	|	14.37	|RAID 0/1/5/6/10,JBOD,Single|ext4/btrfs, 32GB RAM, 2x2.5 Gb/s
+**Terramaster**	|	**F4-424**				|	4	|	$500	|	4k (1a)	|	x64 (Celeron N95) 3.4 Ghz	|		5419	|	10.83	|RAID 0/1/5/6/10,JBOD,Single|ext4/btrfs, 8GB RAM, 2x2.5 Gb/s
+**QNAP**		|	**TS-364-4G**				|	3	|	$450	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094	|	 9.09	|RAID 0/1/5,JBOD,Single|ext4, 4GB RAM, 2.5 Gb/s
 Terramaster		|	[F4-423](https://www.terra-master.com/us/f4-4607.html)				|	4	|	$500	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094	|	 8.18	|RAID 0/1/5/6/10, JBOD, Single|ext4/btrfs, 4GB RAM , 2.5 Gb/s
-QNAP		|	TS-464-4G				|	4	|	$550	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094	|	 7.44	|RAID 0/1/5/6/10, JBOD, Single|ext4, 4GB RAM, 2.5 Gb/s
-ASUSTOR	|	AS-5304T			|	4	|	$430	|	Some/4k (1b)			|	x64 (Celeron J4105) 1.5 GHz		|		2977	|	6.92	|RAID 0/1/5/6/10, JBOD, Single|ext4/btrfs, 4GB RAM
+ASUSTOR		|	AS-5404T			|	4	|	$530	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094|	7.74	|RAID 0/1/5/6/10,JBOD,Single|4GB RAM, 2x2.5Gb/s, ext4/btrfs
+QNAP		|	TS-464-4G				|	4	|	$550	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094	|	 7.44	|RAID 0/1/5/6/10, JBOD,Single|ext4, 4GB RAM, 2.5 Gb/s
 Synology	|	DS423+				|	4	|	$500	|	Some/4k (1b)			|	x64 (Celeron J4125) 2.0 Ghz		|		3035	|	6.07	||2GB RAM
-QNAP		|	TS-453D-4G				|	4	|	$500	|	Some/4k (1b)			|	x64 (Celeron J4125) 2.0 GHz		|		3035	|	6.07	|RAID 0/1/5/6/10, JBOD, Single|ext4, 4GB RAM
-Terramaster		|	[T6-423](https://www.terra-master.com/global/products/smallmedium-businesses-nas/t6-423.html?page=menu&mid=1236)				|	6	|	$700	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094	|	 5.84	|RAID 0/1/5/6/10, JBOD, Single|ext4/btrfs, 4GB RAM (32)
-Synology	|	DS920+				|	4	|	$550	|	Some/4k (1b)			|	x64 (Celeron J4125) 2.0 Ghz		|		3035	|	5.51	||DISC, 4GB RAM
-ASUSTOR		|	AS-6604T			|	4	|	$550	|	Some/4k (1b)			|	x64 (Celeron J4125) 2.0 GHz		|		3035	|	5.51	||4GB RAM	
-Synology	|	DS1522+				|	5	|	$700	|	1080p			|	x64 (Ryzen R1600) 2.6 Ghz		|		3140|	4.48	||8GB RAM, 1 Gb/s x4
+QNAP		|	TS-453D-4G				|	4	|	$500	|	Some/4k (1b)			|	x64 (Celeron J4125) 2.0 GHz		|		3035	|	6.07	|RAID 0/1/5/6/10,JBOD,Single|ext4, 4GB RAM
+Terramaster		|	[T6-423](https://www.terra-master.com/global/products/smallmedium-businesses-nas/t6-423.html?page=menu&mid=1236)				|	6	|	$700	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094	|	 5.84	|RAID 0/1/5/6/10,JBOD,Single|ext4/btrfs, 4GB RAM (32)
+Synology	|	DS1522+				|	5	|	$700	|	1080p			|	x64 (Ryzen R1600) 2.6 Ghz		|		3300|	4.71	||8GB RAM, 1 Gb/s x4
 
 **JUST STORAGE - 2 drives**  
 
@@ -152,7 +150,7 @@ Terramaster	|	F5-221				|	5	|	$380	|	Some/4k 8-bit (3)	|	x64 (Celeron J3355) 2.0
 
 LEGEND  
 
-Passmark = CPU performance. Higher is better.  
+Passmark = [CPU performance](https://www.cpubenchmark.net/cpu.php). Higher is better.  
 PM/$ = Passmark per $. Higher is better.  
 Transcoding = Plex transcoding ability, referenced in [plex's transcoding spreadsheet](https://docs.google.com/spreadsheets/d/1MfYoJkiwSqCXg8cm5-Ac4oOLPRtCkgUxU0jdj3tmMPc/edit#gid=1274624273)  
 (1a) HW Transcoding: 2x 4k or 10x 1080p. SW Transcoding: 2x 1080p
