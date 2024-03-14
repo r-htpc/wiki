@@ -417,7 +417,7 @@ If you need a USB-C to HDMI adapter, we recommend Cable Matters [Adapter](https:
 
 It's highly recommended that you do NOT put 2.4 Ghz wifi routers in the same room as RF or BT devices below.  
 
-For **keyboards**, one with an integrated trackpad and backlight for use in the dark is ideal, but the best ones (like the Logitech K830 or Corsair K83) are discontinued and expensive. Beyond that, Logitech and Microsoft will be the most supported and of higher quality. If you want specific features, you may be forced to venture out to Riitek, Arteck or other unknown sellers. Do not expect the highest quality or good support.  
+For **keyboards**, one with an integrated trackpad and backlight for use in the dark is ideal, but the best ones (like the Logitech K830 or Corsair K83) are discontinued and expensive. Beyond that, Logitech and Microsoft will be the most supported of current ones and of higher quality, comparitvely. If you want specific features, you may be forced to venture out to Riitek, Arteck or other unknown sellers. Do not expect the highest quality or good support.  
 RF and Bluetooth (BT) are the most used connection technologies. Use either with a HTPC. For media devices/smart tvs, BT will be most supported  
 
 KEYBOARD						|	PRICE	|	SIZE	|	INT		|	BACKLIT	|	POINT	|	BATTERY	|	NOTES
