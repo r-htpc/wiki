@@ -274,6 +274,12 @@ For a launcher interface to open multiple apps, look at [Flex Launcher](https://
 
 To organize your content, look at Radarr (movies), Sonarr (tv), Lidarr (music) and Bazarr (subtitles). You can use these together to keep your content in properly named files/folders for Plex, retrieve subtitles and show you what content you have or don't have. You can interface with these using their respective web interfaces or with an app like [nzb360](https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360&hl=en_US&gl=US) on an android device. For metadata management, look at [Media Hoarder](https://media.hoarder.software). For file management, look at [Total Commander](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander) [w/LAN plugin](https://play.google.com/store/apps/details?id=com.ghisler.tcplugins.LAN) or [X-Plore](https://www.lonelycatgames.com/apps/xplore).  
 
+**Gaming/Emulation:** 
+
+For game emulation, look at [Batocera](https://batocera.org/), [LibreElec](https://libreelec.tv/downloads/) w/Retroarch, or [Lakka (RetroArch on a stick)](https://www.lakka.tv/) on **Linux/dedicated OS**; [RetroArch](https://www.retroarch.com/?page=platforms), [EmulationStation DE](https://es-de.org/) or [Launchbox Big Box](https://www.launchbox-app.com/premium) on **Windows**; RetroArch or [OpenEmu](https://openemu.org/) on **Mac**; [Lemuroid](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid&hl=en_US&gl=US) or RetroArch on **Android**; [Provenance](https://github.com/Provenance-Emu/Provenance) on **Apple TV**. [Nostlan](https://github.com/quinton-ashley/nostlan) for 4k displays.  
+
+For game streaming, look at [Sunshine](https://app.lizardbyte.dev/Sunshine) on your server/gaming PC and [Moonlight](https://moonlight-stream.org/) on your frontend client.  
+
 **Other software:** 
 
 For Live TV software, see the [dedicated section](/wiki/faq#can-i-watch-live-tv-or-record-it-and-play-it-back-on-my-htpc) below.  
@@ -281,10 +287,6 @@ For Live TV software, see the [dedicated section](/wiki/faq#can-i-watch-live-tv-
 For DVD/blu-ray disc playback, both Kodi and VLC (w/[Java 8](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html)) have disc menu support. For ISO playback, look at Kodi, VLC, MPC-HC, and Jriver along with [CloneDrive](https://www.redfox.bz/en/virtual-clonedrive.html) to mount the ISO first ; for 4k/UHD discs, use [Cyberlink PowerDVD](https://www.cyberlink.com/products/powerdvd-ultra/features_en_US.html)  
 
 For disc ripping and transcoding software, see the [dedicated section](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use) below.  
-
-For game emulation, look at [Batocera](https://batocera.org/), [LibreElec](https://libreelec.tv/downloads/) w/Retroarch, or [Lakka (RetroArch on a stick)](https://www.lakka.tv/) on **Linux/dedicated OS**; [RetroArch](https://www.retroarch.com/?page=platforms), [EmulationStation DE](https://es-de.org/) or [Launchbox Big Box](https://www.launchbox-app.com/premium) on **Windows**; RetroArch or [OpenEmu](https://openemu.org/) on **Mac**; [Lemuroid](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid&hl=en_US&gl=US) or RetroArch on **Android**; [Provenance](https://github.com/Provenance-Emu/Provenance) on **Apple TV**. [Nostlan](https://github.com/quinton-ashley/nostlan) for 4k displays.  
-
-For game streaming, [Sunshine](https://app.lizardbyte.dev/Sunshine) on your server/gaming PC and [Moonlight](https://moonlight-stream.org/) on your HT client.  
 
 For an overall sense of how a basic HTPC platform should look with playback, serving, storage, and organization, look at our [diagram here](https://i.imgur.com/gUI1R6z.png).  
 
