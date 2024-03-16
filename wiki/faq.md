@@ -238,7 +238,17 @@ For the software side of things, there are various tools you may need to take ad
 
 **Operating Systems:** 
 
-At the minimum you'll need an OS. Windows, Linux and Android are the most popular choices, as you can imagine. If you want to get the highest resolution from streaming services (esp. DRMed ones), use HDR, video upscaling like madVR, or are combining with a gaming solution, you would use Windows. Alternatively, using Linux is possible, but you will be limited to [lower resolution streaming services](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x) and no HDR. There are some specialized OSes out there, like [LibreElec](https://libreelec.tv/)/[CoreElec](https://coreelec.org) which are OSes designed for just running a media player (Kodi) with a single, plugin-capable interface. They also suffer from lower resolutions on streaming services but are very good for local content, even HDR. For a gaming centric OS, look at [ChimeraOS](https://chimeraos.org/).  
+Windows, Linux and Android are the most popular choices, as you can imagine. 
+
+If you want to get the highest resolution from streaming services (esp. DRMed ones), use HDR, video upscaling like madVR, or are combining with a gaming solution, you would use Windows. 
+
+Linux, alternatively, is possible, but you will be limited to [lower resolution streaming services](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x) and no HDR with stock distros.
+
+There are some specialized linux-based distros out there, like [LibreElec](https://libreelec.tv/)/[CoreElec](https://coreelec.org) which are OSes designed for running Kodi as the OS's plugin-capable front interface. They also suffer from lower resolutions on streaming services but are very good for local content, even HDR.
+
+For a gaming centric OS, look at [ChimeraOS](https://chimeraos.org/) or the emulation-specific distros below. 
+
+For Android ports to PC look at [Android x86](https://www.android-x86.org/) or [Bliss OS](https://blissos.org/), but do not expect a TV-like interface, 4K streaming services or HD audio. You can run an Android container under Linux with [Waydroid](https://waydro.id/). 
 
 **Media Players:** 
 
