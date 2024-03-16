@@ -105,7 +105,9 @@ See also: [Video Software](/wiki/video#video-software)
  - Not open source
 7. [MPV](https://mpv.io)  
  - Support for Windows, Linux, Mac, Android  
- - Minimal GUI  
+ - Minimal GUI
+8. [Foobar2000](https://www.foobar2000.org/)
+ - Audio player
 
 **3rd Party**
 
@@ -117,7 +119,7 @@ See also: [Video Software](/wiki/video#video-software)
   - Splitters, Decoders, Filters, Mixers and Compressors  
   - Automatic stream selection  
 4. [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) - Parametric / graphic equalizer. 
-5. [Peace Equalizer GUI](https://sourceforge.net/projects/peace-equalizer-apo-extension/) 
+5. [Peace Equalizer GUI](https://sourceforge.net/projects/peace-equalizer-apo-extension/) - GUI for Equalizer APO. 
 6. [APO Driver](https://puresoftapps.blogspot.com/2018/04/realtek-apo-driver.html) - Audio Enhancements, re-encoders. 
 7. [ffdshow](https://sourceforge.net/projects/ffdshow-tryout/files/Official%20releases/) - Defunct. Audio codecs/filters/splitters/mixers. 
 
@@ -275,7 +277,7 @@ NOTES:
 
 The second is decoding and channelization. This means the media application playing your content sends the audio to your sound system (or your OS does) through Windows DirectSound, converted to the common PCM format you read about above, or analog, if using a 3.5mm/RCA audio interface. The sound system has no knowledge of the codec being played, if there is one.  
 
-This scenario would be used for non-encoded PCM audio, like non-Atmos **Games**, streaming services that only support Stereo, when you want to modify the audio in the PC (upmixing, equalizing, creating fake spatial audio), and/or sound systems where encoded codecs are not supported, like analog audio interfaces.  
+This scenario would be used for non-encoded PCM audio, like non-Atmos **Games**, streaming services that only support Stereo, when you want to modify the audio in the PC using middleware (upmixing, equalizing, creating fake spatial audio), and/or sound systems where encoded codecs are not supported, like analog audio interfaces.  
 
 On a Windows HTPC, this is the default scenario, but usually requires some setup. To configure this in Windows: Open Windows Control Panel -> Sound -> \<your_audio_device\> -> Configure -> Select your speaker configuration -> Next -> Optionally configure the speakers you have/don't have.  
 
@@ -283,10 +285,8 @@ If you select a speaker configuration that is more than what your content provid
 
 If you want to upmix content do one of the following:
  - Configure the speaker configuration as Stereo. This will allow your sound system to use its upmixers (Dolby Surround, Pro Logic, etc..) to upmix the content
- - Configure upmixing in your media application
+ - Configure the speaker configuration to the speakers you want to upmix to, e.g. 5.1. Configure upmixing in your media application/middleware.
  - Install Dolby Access and configure Dolby Atmos for Home Theater with the Channel Upmixer option enabled
-
-You can force Windows apps that don't have sound configurations (like browsers) to decode encoded formats like DD/DTS to PCM by disabling the "Allow applications to take exclusive control of this device" setting in the Properties->Advanced section of your sound device.  
 
 *For Media:* 
 
@@ -295,9 +295,11 @@ In media applications, the most popular ones (MPC-HC/MPC-BE/JRiver/Kodi/VLC/Plex
 
 Additionally, you can set channel downmixing/upmixing in your media application, if desired.  
 
+You can force Windows apps that don't have sound configurations (like browsers) to decode encoded formats like DD/DTS to PCM by disabling the "Allow applications to take exclusive control of this device" setting in the Properties->Advanced section of your sound device.  
+
 After you've configured your app(s) and windows, play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below. 
 
-There are advanced things you can do by using application middleware and external filters like [transcoding audio codecs](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital), decoding obscure codecs and advanced mixing. See Audio Software section above.  
+There are advanced things you can do by using application middleware and external filters like [transcoding audio codecs](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital), decoding obscure codecs and advanced mixing. See the 3rd Party sub-section of the Audio Software section above.  
 
 *For Gaming:* 
 
