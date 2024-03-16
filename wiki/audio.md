@@ -254,11 +254,11 @@ In this scenario you will likely be bitstreaming through Optical, or in the case
 
 ### **Software/OS Setup**  
 
-There are 2 ways to send audio between your HTPC and your sound system, Bitstreaming and Decoding. Depending on your use-case you may be using one or both. A use-case where you'd use both is where you want to bitstream codecs from a media player(s), but send PCM for games; so you'd configure bitstreaming for your media players and configure decoding in windows sound control panel for PCM  
+There are 2 ways to send audio between your HTPC and your sound system, Bitstreaming and Decoding. Depending on your use-case **you may be using one or both**. A use-case where you'd use both is where you want to bitstream codecs from a media player(s), but send PCM for games; so you'd configure bitstreaming for your media players and configure decoding in windows sound control panel for PCM  
 
 **Scenario #1: BITSTREAMING**  
 
-The first is bitstreaming (pass-through). This means the application playing your content sends the audio to your sound system untouched and allows the sound system to decode it.  
+The first is bitstreaming (pass-through). This means the application playing your content sends the audio to your sound system **untouched** and allows the sound system to decode it.  
 
 This scenario would be used with encoded codecs like Dolby and DTS, on digital audio interfaces like HDMI and Optical (i.e. not 3.5mm/RCA).  
 
@@ -275,11 +275,18 @@ NOTES:
 
 The second is decoding and channelization. This means the media application playing your content sends the audio to your sound system (or your OS does) through Windows DirectSound, converted to the common PCM format you read about above, or analog, if using a 3.5mm/RCA audio interface. The sound system has no knowledge of the codec being played, if there is one.  
 
-This scenario would be used for non-encoded audio, like **Gaming**, streaming services that only support stereo, sound systems where encoded codecs are not supported and/or for analog audio interfaces.  
+This scenario would be used for non-encoded PCM audio, like non-Atmos **Games**, streaming services that only support Stereo, when you want to modify the audio in the PC (upmixing, equalizing, creating fake spatial audio), and/or sound systems where encoded codecs are not supported, like analog audio interfaces.  
 
 On a Windows HTPC, this is the default scenario, but usually requires some setup. To configure this in Windows: Open Windows Control Panel -> Sound -> \<your_audio_device\> -> Configure -> Select your speaker configuration -> Next -> Optionally configure the speakers you have/don't have.  
 
-You can force Windows apps that don't have sound configurations (like browsers) to decode to PCM by disabling the "Allow applications to take exclusive control of this device" setting in the Properties->Advanced section of your sound device.  
+If you select a speaker configuration that is more than what your content provides, for instance you choose 5.1 speakers and play a Stereo source, Windows will output the source as 5.1 but with only the Stereo speakers containing audio. 
+
+If you want to upmix content do one of the following:
+ - Configure the speaker configuration as Stereo. This will allow your sound system to use its upmixers (Dolby Surround, Pro Logic, etc..) to upmix the content
+ - Configure upmixing in your media application
+ - Install Dolby Access and configure Dolby Atmos for Home Theater with the Channel Upmixer option enabled
+
+You can force Windows apps that don't have sound configurations (like browsers) to decode encoded formats like DD/DTS to PCM by disabling the "Allow applications to take exclusive control of this device" setting in the Properties->Advanced section of your sound device.  
 
 *For Media:* 
 
@@ -298,9 +305,8 @@ See the instructions/caveats in the [Gaming section](/wiki/audio#how-do-i-config
 
 NOTES:  
 1. You know this way is configured correctly because when you play audio you SHOULD be able to change the volume on the HTPC and hear a difference.  
-2. Changing settings in the Windows Sound control panel controls what channels the audio is converted/mixed to, if not done earlier in your media app manually. For example, if you set it to Stereo, it will be converted to PCM 2.0 for your sound system.  
-3. Some OS sounds/applications primarily output audio as PCM exclusively (like web browsers; see below).
-4. If you have an AV receiver, it would say "PCM"/"Multi Ch In"/"Direct"/"Uncompressed" on it, unless you have the receiver set to upmix the audio with a listening mode such as Dolby Surround.  
+2. Some OS sounds/applications primarily output audio as PCM exclusively (like web browsers; see below).
+3. If you have an AV receiver, it would say "PCM"/"Multi Ch In"/"Direct"/"Uncompressed" on it, unless you have the receiver set to upmix the audio with a listening mode such as Dolby Surround.  
 
 
 <!-- Sub-Sub-Section -->
