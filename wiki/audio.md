@@ -638,8 +638,13 @@ Follow the setup in the Decoding / Channelization software setup section above t
 If you want to, and can, support **Dolby Atmos** from your games:
 * Enable audio passthrough in your Display 
 * Install the [Dolby Access](https://www.microsoft.com/en-us/store/p/dolby-access/9n0866fs04w8) app from the Microsoft store 
-* Open the app and select Products -> Dolby Atmos for Home Theater -> Setup -> Continue. 
-* Open Windows Control Panel -> Sound -> \<your_sound_device\> -> Configure -> Select Dolby Atmos for Home Theater -> Next, and configure the speakers you have in the following screens. 
+* Open the app and select Products -> Dolby Atmos for Home Theater -> Setup -> Continue.
+* Open Windows Control Panel -> Sound -> \<your_sound_device\>
+  - Properties -> Enhancements -> Uncheck all
+  - Properties -> Advanced -> Default Format: Dolby Atmos.., Exclusive Mode: all checked
+  - Properties -> Spatial sound -> Spatial sound format: Dolby Atmos..
+  - Configure -> Select Dolby Atmos for Home Theater -> Next, and configure the speakers you have in the following screens.
+* NOTE: Your sound system may show 'Multi-In' during playback, while your sound device properties shows 'Dolby MAT'. This is normal.
 
 If you can't support the above hardware methods, but have plain **ARC** support or even only **Optical**, you can use that, but **you will only get PCM 2.0/Stereo sound by default**. The only way around this to still get 5.1 sound is to encode the game audio with a tech called **Dolby Digital Live**. To do this, you can either:  
 
