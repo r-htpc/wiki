@@ -640,7 +640,7 @@ If you want to, and can, support **Dolby Atmos** from your games:
 * Install the [Dolby Access](https://www.microsoft.com/en-us/store/p/dolby-access/9n0866fs04w8) app from the Microsoft store 
 * Open the app and select Products -> Dolby Atmos for Home Theater -> Setup -> Continue.
 * Open Windows Control Panel -> Sound -> \<your_sound_device\>
-  - Properties -> Enhancements -> Uncheck all
+  - Properties -> Enhancements -> ALL unchecked
   - Properties -> Advanced -> Default Format: Dolby Atmos.., Exclusive Mode: all checked
   - Properties -> Spatial sound -> Spatial sound format: Dolby Atmos..
   - Configure -> Select Dolby Atmos for Home Theater -> Next, and configure the speakers you have in the following screens.
