@@ -168,7 +168,9 @@ This will send audio through your display. This is common for VRR (gsync/freesyn
 
 1. Connect the HTPC's HDMI output to the display's HDMI non-(e)ARC input, i.e. HTPC (HDMI) -> TV (HDMI).  
 2. Connect the display's HDMI (e)ARC/Optical output to the sound system's HDMI (e)ARC/Optical input, i.e. TV (e)ARC (HDMI/Optical) -> Sound System (e)ARC (HDMI/Optical).  
-3. Change the settings in the sound/audio output section of your display's interface to pass-through/bitstream digital audio.  
+3. Change the settings in the sound/audio output, CEC sections of your display's interface
+   - Enable HDMI CEC (LG: Simplink, Samsung: Anynet+, Sony: Bravia Sync, Phillips: EasyLink, Sharp: Aquos Link)
+   - Enable pass-through/bitstream digital audio.  
 
  Video supported: Negotiated by HTPC and Display  
 
