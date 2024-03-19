@@ -569,6 +569,18 @@ You could be encountering a "feature" that causes a digital audio connection (SP
 
 <!-- Sub-Section -->
 
+### When I play my content, why does my audio drop-out?
+
+You should read [this guide](https://drive.google.com/file/d/1N3FaJmIQicN8TEPzPzOegFepkeKatzY3/view?usp=sharing) for understanding real-time audio and the things that can affect its playback. For fixes to drop-outs, specially read Chapters 4 and 5.
+
+In addition, the following things may fix and/or help you identify your problem:
+1. Re-installing your operating system to a clean state and testing your content.
+2. Install a different version of your operating system. e.g. Windows 10 instead of 11, or vice-versa
+3. Updating your GPU drivers and/or re-installing your GPU drivers by first un-installing them with the [DDU Utility](https://www.guru3d.com/download/display-driver-uninstaller-download/).
+4. Run the [LatencyMon](https://www.resplendence.com/latencymon) utility during playback to help identify drop-out causes.
+
+<!-- Sub-Section -->
+
 ### My sound system only supports decoding Dolby Digital, but I want to play content with varying formats. How do I re-encode it all to Dolby Digital?
 
 See instructions below for setting this up in your media player software.
