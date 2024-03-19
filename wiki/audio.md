@@ -575,9 +575,10 @@ You should read [this guide](https://drive.google.com/file/d/1N3FaJmIQicN8TEPzPz
 
 In addition, the following things may fix and/or help you identify your problem:
 1. Re-installing your operating system to a clean state and testing your content.
-2. Install a different version of your operating system. e.g. Windows 10 instead of 11, or vice-versa
-3. Updating your GPU drivers and/or re-installing your GPU drivers by first un-installing them with the [DDU Utility](https://www.guru3d.com/download/display-driver-uninstaller-download/).
-4. Run the [LatencyMon](https://www.resplendence.com/latencymon) utility during playback to help identify drop-out causes.
+2. Install a different version of your operating system. e.g. Windows 10 instead of 11, or vice-versa.
+3. Re-installing your GPU drivers by first un-installing them with the [DDU Utility](https://www.guru3d.com/download/display-driver-uninstaller-download/).
+4. Trying newer or older versions of your GPU drivers.
+5. Run the [LatencyMon](https://www.resplendence.com/latencymon) utility during playback to help identify drop-out causes.
 
 <!-- Sub-Section -->
 
