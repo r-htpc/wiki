@@ -877,3 +877,10 @@ HDMI 2.1 (4k@120)
 **HDCP Stripper / HDMI Downscaler**  
 
 [Ezcoo EZ-EX11HAS-PRO](https://www.amazon.com/HDMI-Audio-Extractor-60Hz-l-b-y/dp/B07TZRXKYG) - HDMI 2.0, HDCP Strip, 4k->1080p scaler, Optical+3.5mm Stereo extractor, Audio EDIDs
+
+**Audio Cables**  
+
+Optical: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com/store/digital-audio/index.htm). Standard lengths: Bluerigger, KabelDirekt, Monoprice 102765
+
+Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com). Standard lengths: World’s Best Cables, Mediabridge, Monoprice
+
