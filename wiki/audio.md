@@ -545,10 +545,10 @@ You should read [this guide](https://drive.google.com/file/d/1N3FaJmIQicN8TEPzPz
 
 In addition, the following things may fix and/or help you identify your problem:
 1. Re-installing your operating system to a clean state and testing your content again before installing everything else.
-2. Install a different version of your operating system. e.g. Windows 10 instead of 11, or vice-versa.
+2. Installing a different version of your operating system. e.g. Windows 10 instead of 11, or vice-versa.
 3. If you're using HDMI/DP for your audio, Re-installing your GPU drivers by first un-installing them with the [DDU Utility](https://www.guru3d.com/download/display-driver-uninstaller-download/).
 4. If you're using HDMI/DP for your audio, Trying newer or older versions of your GPU drivers.
-5. Run the [LatencyMon](https://www.resplendence.com/latencymon) utility during playback to help identify drop-out causes.
+5. Running the [LatencyMon](https://www.resplendence.com/latencymon) utility during playback to help identify drop-out causes.
 
 <!-- Sub-Section -->
 
