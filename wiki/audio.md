@@ -539,6 +539,19 @@ Now when Windows detects no monitor on disconnect, it should keep the same resol
 
 <!-- Sub-Section -->
 
+### When I play my content, why does my audio drop-out?
+
+You should read [this guide](https://drive.google.com/file/d/1N3FaJmIQicN8TEPzPzOegFepkeKatzY3/view?usp=sharing) for understanding real-time audio and the things that can affect its playback. For fixes to drop-outs, especially read Chapters 4 and 5.
+
+In addition, the following things may fix and/or help you identify your problem:
+1. Re-installing your operating system to a clean state and testing your content.
+2. Install a different version of your operating system. e.g. Windows 10 instead of 11, or vice-versa.
+3. If you're using HDMI/DP for your audio, Re-installing your GPU drivers by first un-installing them with the [DDU Utility](https://www.guru3d.com/download/display-driver-uninstaller-download/).
+4. If you're using HDMI/DP for your audio, Trying newer or older versions of your GPU drivers.
+5. Run the [LatencyMon](https://www.resplendence.com/latencymon) utility during playback to help identify drop-out causes.
+
+<!-- Sub-Section -->
+
 ### When I play my content, why is the audio out of sync with the video?
 
 **If your audio is ahead of the video:**  
@@ -566,19 +579,6 @@ If ahead/behind delays occur on specific content, it could indicate that the con
 ### When I play my content, why does the audio start playing with a delay?
 
 You could be encountering a "feature" that causes a digital audio connection (SPDIF or HDMI) to go to sleep, [into a power saving D3 state](https://www.intel.com/content/dam/www/public/us/en/documents/product-specifications/high-definition-audio-specification.pdf), when audio stops playing for a period of time. It takes some time for the connection to come back to an active D0 power state, causing the delay. To workaround this use a program to keep the connection active, such as [Sound Keeper](https://github.com/vrubleg/soundkeeper) or [SPDIF KA](https://github.com/handruin/spdif-ka) on Windows (or [these methods](https://destinmoulton.com/notes/howto/linux-usb-audio-keep-alive-service/) on Linux) which will play inaudible audio over the connection at all times.  
-
-<!-- Sub-Section -->
-
-### When I play my content, why does my audio drop-out?
-
-You should read [this guide](https://drive.google.com/file/d/1N3FaJmIQicN8TEPzPzOegFepkeKatzY3/view?usp=sharing) for understanding real-time audio and the things that can affect its playback. For fixes to drop-outs, specially read Chapters 4 and 5.
-
-In addition, the following things may fix and/or help you identify your problem:
-1. Re-installing your operating system to a clean state and testing your content.
-2. Install a different version of your operating system. e.g. Windows 10 instead of 11, or vice-versa.
-3. Re-installing your GPU drivers by first un-installing them with the [DDU Utility](https://www.guru3d.com/download/display-driver-uninstaller-download/).
-4. Trying newer or older versions of your GPU drivers.
-5. Run the [LatencyMon](https://www.resplendence.com/latencymon) utility during playback to help identify drop-out causes.
 
 <!-- Sub-Section -->
 
