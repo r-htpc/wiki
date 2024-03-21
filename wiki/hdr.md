@@ -57,8 +57,7 @@ You are **strongly urged** to test out the simple setups below before potentiall
       * Display
         * Color depth: 8 bpc (HDMI 2.0), 10 bpc (HDMI 2.1)  
         * Pixel format: RGB/YCbCr 4:4:4 Full  
-        * Radeon FreeSync: Disabled (create an app profile for your video player if you don't want to disable this globally)  
-      * Graphics -> Enhanced Sync: Disabled  
+        * Radeon FreeSync: Disabled (create an app profile for your media player if you don't want to disable this globally)  
 * *Windows settings:*  
   * [Calibrate your display for HDR in Windows](https://support.microsoft.com/en-us/windows/calibrate-your-built-in-display-for-hdr-content-in-windows-de1c66fa-6cc0-b327-e73a-1bac6bd46bc0#WindowsVersion=Windows_10)
 
