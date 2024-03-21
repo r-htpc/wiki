@@ -274,21 +274,13 @@ Advanced, current way to integrate madVR into Kodi for passthrough, tonemapping,
 `</playercorefactory>`  
 
 * *(ALTERNATIVE) MPC-BE settings:*  
-
    * Install MPC-BE after K-lite Codec Pack
-
      * *Start -> K-lite Codec Pack -> LAV Video app ->*  
-
        * Hardware decoder to use -> D3D11 (win 8+) or DXVA2 (copy-back)  
-
        * Hardware device to use -> Your_GPU_Device (leave on Auto with D3D11)  
-
        * Dithering mode -> Ordered dithering  
-
      * *Start -> K-lite Codec Pack -> LAV Audio app ->*  
-
        *  Enable "Bitstreaming" for the codecs your sound system supports decoding (see Audio wiki page for more details)  
-
      * *MPC-BE app ->*  
        * View -> Options
          * Player
@@ -368,23 +360,21 @@ Advanced, old way to integrate madVR into Kodi for passthrough, tonemapping, and
       * dithering
         * algorithm: Ordered dithering (unless you have dedicated GPU, see settings section below)  
 *  *Kodi settings:*  
-
-   *Kodi app ->*  
-
-   * Settings
-     * Player Settings
-       * DSPlayer
-         * Video Renderer: madVR  
-           * Manage settings with Kodi: Load from madVR active profile
-           * Direct3D presentation: Direct3D 11
-         * Audio Renderer: Internal Audio Renderer (SaneAR)  
-         * Filters management: Internal filters  
-           * Video Decoder
-             * Enable System Tray Icon: On  
-             * Hardware decoder to use: D3D11  
-           * Audio Decoder (OPTIONAL: for bitstreaming)
-             * Enable System Tray Icon: On  
-             * Bitstreaming \<codec\>: On  
+   *Kodi app*  
+     * Settings
+       * Player Settings
+         * DSPlayer
+           * Video Renderer: madVR  
+             * Manage settings with Kodi: Load from madVR active profile
+             * Direct3D presentation: Direct3D 11
+           * Audio Renderer: Internal Audio Renderer (SaneAR)  
+           * Filters management: Internal filters  
+             * Video Decoder
+               * Enable System Tray Icon: On  
+               * Hardware decoder to use: D3D11  
+             * Audio Decoder (OPTIONAL: for bitstreaming)
+               * Enable System Tray Icon: On  
+               * Bitstreaming \<codec\>: On  
 
 * *Test*
   * *Kodi app*
