@@ -359,22 +359,22 @@ Advanced, old way to integrate madVR into Kodi for passthrough, tonemapping, and
         * **If** frame drops/stuttering occur while testing, increase CPU/GPU queue size here
       * dithering
         * algorithm: Ordered dithering (unless you have dedicated GPU, see settings section below)  
-*  *Kodi settings:*  
-   *Kodi app*  
-     * Settings
-       * Player Settings
-         * DSPlayer
-           * Video Renderer: madVR  
-             * Manage settings with Kodi: Load from madVR active profile
-             * Direct3D presentation: Direct3D 11
-           * Audio Renderer: Internal Audio Renderer (SaneAR)  
-           * Filters management: Internal filters  
-             * Video Decoder
-               * Enable System Tray Icon: On  
-               * Hardware decoder to use: D3D11  
-             * Audio Decoder (OPTIONAL: for bitstreaming)
-               * Enable System Tray Icon: On  
-               * Bitstreaming \<codec\>: On  
+* *Kodi settings:*  
+  * *Kodi app*  
+    * Settings
+      * Player Settings
+        * DSPlayer
+          * Video Renderer: madVR  
+            * Manage settings with Kodi: Load from madVR active profile
+            * Direct3D presentation: Direct3D 11
+          * Audio Renderer: Internal Audio Renderer (SaneAR)  
+          * Filters management: Internal filters  
+            * Video Decoder
+              * Enable System Tray Icon: On  
+              * Hardware decoder to use: D3D11  
+            * Audio Decoder (OPTIONAL: for bitstreaming)
+              * Enable System Tray Icon: On  
+              * Bitstreaming \<codec\>: On  
 
 * *Test*
   * *Kodi app*
