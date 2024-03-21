@@ -205,76 +205,57 @@ Advanced, current way to integrate madVR into Kodi for passthrough, tonemapping,
 * *Windows 10 settings:*
   * Settings app -> System -> Display -> Use HDR/HDR and WCG/Play HDR.. -> Off
 * *madVR settings:*
-
-   *Start -> K-lite Codec Pack -> madVR app ->*  
-
-   -- Devices -> Your_Display_Device ->  
-
-    ---- properties -> PC levels 0-255, bitdepth: 10 bit or higher  
-
-    ---- calibration -> this display is already calibrated  
-
-    ---- display modes -> switch to matching display mode..when playback starts  
-
-    ---- display modes -> list all display..: 2160p23, 2160p24, 2160p50, 2160p59, 2160p60 (assumes a 4k display)  
-
-    ---- HDR -> passthrough HDR content to the display, send HDR metadata to the display  
-
-   -- Rendering -> general settings ->  
-
-    ---- Enable delay playback start.., automatic fullscreen exclusive mode, use Direct3D 11 for presentation  
-
-    ---- **If** frame drops/stuttering occur while testing, increase CPU/GPU queue size here  
-
-   -- Rendering -> dithering -> ordered dithering (unless you have dedicated GPU, see settings section below)  
-
-   -- Scaling Algorithms ->  
-
-    ---- Chroma Upscaling -> Bilinear (for more intensive scaling, see Performance settings section at the bottom)  
-
-    ---- Image Downscaling -> Bilinear/DXVA2 (for more intensive scaling, see Performance settings section at the bottom)  
-
-    ---- Image Upscaling -> Bilinear/DXVA2 (for more intensive scaling, see Performance settings section at the bottom)  
-
+  * *Start -> K-lite Codec Pack -> madVR app*  
+    * devices
+      * \<your_display_device\>
+        * properties -> PC levels 0-255, bitdepth: 10 bit or higher  
+        * calibration -> this display is already calibrated  
+        * display modes
+          * Enable: switch to matching display mode..when playback starts  
+          * list all display modes..: 2160p23, 2160p24, 2160p50, 2160p59, 2160p60 (assumes a 4k display)  
+        * HDR -> passthrough HDR content to the display, send HDR metadata to the display  
+    * scaling algorithms
+      * chroma upscaling
+        * processing..: Bilinear (for more intensive scaling, see Performance settings section at the bottom)  
+      * image downscaling
+        * processing..: Bilinear/DXVA2 (for more intensive scaling, see Performance settings section at the bottom)  
+      * image upscaling
+        * processing..: Bilinear/DXVA2 (for more intensive scaling, see Performance settings section at the bottom)  
+    * rendering
+      * general settings
+        * Enable: delay playback start.., enable automatic fullscreen exclusive mode, use Direct3D 11 for presentation  
+        * **If** frame drops/stuttering occur while testing, increase CPU/GPU queue size here
+      * dithering
+        * algorithm: Ordered dithering (unless you have dedicated GPU, see settings section below)  
 * *MPC-HC settings:*  
+  * *Start -> K-lite Codec Pack -> Media Player Classic app ->*  
+    * View -> Options
+      * Player
+        * Enable "Remember File Position" 
+        * Keys
+          * "Stop" & "Exit" commands -> Set to same key (so pressing it in Kodi will exit back to Kodi interface) 
+      * Playback
+        * Fullscreen
+          * Enable "Hide controls in fullscreen", "Hide Docked Panels"  
+        * Output
+          * Directshow Video: madVR  
+          * Audio Renderer: SaneAR Audio Renderer
+          * (OPTIONAL) Subtitles -> Subtitle renderer: XySubFilter  
+      * Internal Filters
+        * Internal LAV Filters Settings
+          * Video Decoder
+            * Hardware decoder to use -> D3D11 (win 8+) or DXVA2 (copy-back) 
+            * Hardware device to use -> Your_GPU_Device (leave on Auto with D3D11)
+            * Dithering mode -> Ordered dithering
+          * Audio Decoder
+            * Enable "Bitstreaming" for the codecs your sound system supports decoding (see Audio wiki page for more details)   
+        * Audio Renderer
+          * Options -> Enable "Exclusive Mode"
+        * Splitter (OPTIONAL) 
 
-  *Start -> K-lite Codec Pack -> Media Player Classic app ->*  
+* *Windows: Find file path to MPC-HC (usually C:\Program Files (x86)\K-Lite Codec Pack\MPC-HC64\mpc-hc64.exe) and Create text file: C:\Users\YOUR_USERNAME\AppData\Roaming\Kodi\userdata\playercorefactory.xml with contents of:*  
 
-   -- View -> Options ->  
-
-    ---- Player -> Enable "Remember File Position"  
-
-    ---- Player -> Keys -> "Stop" & "Exit" commands -> Set to same key (so pressing it in Kodi will exit back to Kodi interface)   
-
-    ---- Playback -> Output ->  
-
-     ------ Directshow Video -> madVR  
-
-     ------ Audio Renderer: SaneAR Audio Renderer  
-
-     ------ (OPTIONAL) Subtitles -> Subtitle renderer: XySubFilter  
-
-    ---- Playback -> Fullscreen -> Enable "Hide controls in fullscreen", "Hide Docked Panels"  
-
-    ---- Internal Filters -> Audio Renderer -> Options -> Enable "Exclusive Mode"  
-
-    ---- Internal Filters -> Internal LAV Filters Settings -> Video Decoder  
-
-     ------ Hardware decoder to use -> D3D11 (win 8+) or DXVA2 (copy-back)  
-
-     ------ Hardware device to use -> Your_GPU_Device (leave on Auto with D3D11)  
-
-     ------ Dithering mode -> Ordered dithering  
-
-    ---- Internal Filters -> Internal LAV Filters Settings -> Audio Decoder
-
-     ------ Enable "Bitstreaming" for the codecs your sound system supports decoding (see Audio wiki page for more details)  
-
-    ---- Internal Filters -> Internal LAV Filters Settings -> Splitter Decoder (OPTIONAL)  
-
-   *Windows: Find file path to MPC-HC (usually C:\Program Files (x86)\K-Lite Codec Pack\MPC-HC64\mpc-hc64.exe) and Create text file: C:\Users\YOUR_USERNAME\AppData\Roaming\Kodi\userdata\playercorefactory.xml with contents of:*  
-
-`<playercorefactory>`  
+  `<playercorefactory>`  
 `<players>`  
 `<player name="MPC-HC" type="ExternalPlayer" audio="false" video="true">`  
 `<filename>C:\YOUR\SPECIFIC\PATH\TO\MPC-HC\mpc-hc64.exe</filename>`  
@@ -294,56 +275,56 @@ Advanced, current way to integrate madVR into Kodi for passthrough, tonemapping,
 
 * *(ALTERNATIVE) MPC-BE settings:*  
 
-   -- Install MPC-BE after K-lite Codec Pack
+   * Install MPC-BE after K-lite Codec Pack
 
-   *Start -> K-lite Codec Pack -> LAV Video app ->*  
+     * *Start -> K-lite Codec Pack -> LAV Video app ->*  
 
-   -- Hardware decoder to use -> D3D11 (win 8+) or DXVA2 (copy-back)  
+       * Hardware decoder to use -> D3D11 (win 8+) or DXVA2 (copy-back)  
 
-   -- Hardware device to use -> Your_GPU_Device (leave on Auto with D3D11)  
+       * Hardware device to use -> Your_GPU_Device (leave on Auto with D3D11)  
 
-   -- Dithering mode -> Ordered dithering  
+       * Dithering mode -> Ordered dithering  
 
-   *Start -> K-lite Codec Pack -> LAV Audio app ->*  
+     * *Start -> K-lite Codec Pack -> LAV Audio app ->*  
 
-   -- Enable "Bitstreaming" for the codecs your sound system supports decoding (see Audio wiki page for more details)  
+       *  Enable "Bitstreaming" for the codecs your sound system supports decoding (see Audio wiki page for more details)  
 
-  *MPC-BE app ->*  
+     * *MPC-BE app ->*  
+       * View -> Options
+         * Player
+           * Enable "Remember File Position" 
+           * Keys
+             * "Stop" & "Exit" commands -> Set to same key (so pressing it in Kodi will exit back to Kodi interface) 
+         * Playback
+           * Disable "Default track preference"
+         * Video
+           * Video Renderer: madVR  
+         * Audio
+           * Audio Renderer: MPC Audio Renderer
+         * (OPTIONAL) Subtitles -> Subtitle renderer: XySubFilter  
+         * External Filters
+           * Add Filter... -> Add LAV Audio Decoder, LAV Splitter Source, LAV Video Decoder. Set all to "prefer".  
 
-   -- View -> Options ->  
+  * *Windows: Find file path to MPC-BE (usually C:\Program Files\MPC-BE x64\mpc-be64.exe) and Create text file: C:\Users\YOUR_USERNAME\AppData\Roaming\Kodi\userdata\playercorefactory.xml with contents of:*  
 
-    ---- Player -> Enable "Remember File Position"  
-
-    ---- Player -> Keys -> "Stop" & "Exit" commands -> Set to same key (so pressing it in Kodi will exit back to Kodi interface)   
-
-    ---- Video -> Video Renderer -> madVR  
-
-    ---- Playback -> Disable "Default track preference"  
-
-    ---- (OPTIONAL) Subtitles -> Subtitle renderer: XySubFilter  
-
-    ---- External Filters -> Add Filter... -> Add LAV Audio Decoder, LAV Splitter Source, LAV Video Decoder. Set all to "prefer".  
-
-   *Windows: Find file path to MPC-BE (usually C:\Program Files\MPC-BE x64\mpc-be64.exe) and Create text file: C:\Users\YOUR_USERNAME\AppData\Roaming\Kodi\userdata\playercorefactory.xml with contents of:*  
-
-`<playercorefactory>`  
-`<players>`  
-`<player name="MPC-BE" type="ExternalPlayer" audio="false" video="true">`  
-`<filename>C:\YOUR\SPECIFIC\PATH\TO\MPC-BE\mpc-be64.exe</filename>`  
-`<args>"{1}" /fullscreen /close</args>`  
-`<hidexbmc>false</hidexbmc>`  
-`<hideconsole>false</hideconsole>`  
-`<warpcursor>none</warpcursor>`  
-`<playcountminimumtime>1140</playcountminimumtime>`  
-`</player>`  
-`</players>`  
-`<rules action="prepend">`  
-`<rule filetypes="mkv|avi|divx|ogm|mp4|mov|m4v|flv|m2v|mpeg|mpg|mts|m2ts|vob|bdmv|iso" player="MPC-BE">`  
-`<rule protocols="http|https" player="MPC-BE"/>`  
-`<rule protocols="daap|rtv|rtsp|rtmp|rtmpe|rtsp|mms|rtp|pvr" player="VideoPlayer"/>`  
-`</rule>`  
-`</rules>`  
-`</playercorefactory>`  
+    `<playercorefactory>`  
+  `<players>`  
+  `<player name="MPC-BE" type="ExternalPlayer" audio="false" video="true">`  
+  `<filename>C:\YOUR\SPECIFIC\PATH\TO\MPC-BE\mpc-be64.exe</filename>`  
+  `<args>"{1}" /fullscreen /close</args>`  
+  `<hidexbmc>false</hidexbmc>`  
+  `<hideconsole>false</hideconsole>`  
+  `<warpcursor>none</warpcursor>`  
+  `<playcountminimumtime>1140</playcountminimumtime>`  
+  `</player>`  
+  `</players>`  
+  `<rules action="prepend">`  
+  `<rule filetypes="mkv|avi|divx|ogm|mp4|mov|m4v|flv|m2v|mpeg|mpg|mts|m2ts|vob|bdmv|iso" player="MPC-BE">`  
+  `<rule protocols="http|https" player="MPC-BE"/>`  
+  `<rule protocols="daap|rtv|rtsp|rtmp|rtmpe|rtsp|mms|rtp|pvr" player="VideoPlayer"/>`  
+  `</rule>`  
+  `</rules>`  
+  `</playercorefactory>`  
 
 * *Test*
   * *Kodi app*
@@ -360,66 +341,50 @@ Advanced, old way to integrate madVR into Kodi for passthrough, tonemapping, and
   * Common settings above
   * Install K-Lite Codec Pack FULL: ([download](https://www.codecguide.com/download_k-lite_codec_pack_full.htm))
     * Install options: Normal, MPC-HC, Essentials
-  * Install DSPlayer Kodi: >= 17.6: ([download](https://forum.kodi.tv/showthread.php?pid=1972183#pid1972183))
+  * Install DSPlayer Kodi: >= 17.6: ([download](https://forum.kodi.tv/showthread.php?pid=1972183))
 * *Windows 10 settings:*
   * Settings app -> System -> Display -> Use HDR/HDR and WCG/Play HDR.. -> Off
 * *madVR settings:*
-
-   *madVR app ->*  
-
-   -- Devices -> Your_Display_Device ->  
-
-    ---- properties -> PC levels 0-255, bitdepth: 10 bit or higher  
-
-    ---- calibration -> this display is already calibrated  
-
-    ---- display modes -> switch to matching display mode..when playback starts  
-
-    ---- display modes -> list all display..: 2160p23, 2160p24, 2160p50, 2160p59, 2160p60 (assumes a 4k display)  
-
-    ---- HDR -> passthrough HDR content to the display, send HDR metadata to the display  
-
-   -- Rendering -> general settings ->  
-
-    ---- Enable delay playback start.., automatic fullscreen exclusive mode, use Direct3D 11 for presentation  
-
-    ---- **If** frame drops/stuttering occur while testing, increase CPU/GPU queue size here  
-
-   -- Rendering -> dithering -> ordered dithering (unless you have dedicated GPU, see settings section below)  
-
-   -- Scaling Algorithms ->  
-
-    ---- Chroma Upscaling -> Bilinear (for more intensive scaling, see Performance settings section at the bottom)  
-
-    ---- Image Downscaling -> Bilinear/DXVA2 (for more intensive scaling, see Performance settings section at the bottom)  
-
-    ---- Image Upscaling -> Bilinear/DXVA2 (for more intensive scaling, see Performance settings section at the bottom)  
-
+  * *Start -> K-lite Codec Pack -> madVR app*  
+    * devices
+      * \<your_display_device\>
+        * properties -> PC levels 0-255, bitdepth: 10 bit or higher  
+        * calibration -> this display is already calibrated  
+        * display modes
+          * Enable: switch to matching display mode..when playback starts  
+          * list all display modes..: 2160p23, 2160p24, 2160p50, 2160p59, 2160p60 (assumes a 4k display)  
+        * HDR -> passthrough HDR content to the display, send HDR metadata to the display  
+    * scaling algorithms
+      * chroma upscaling
+        * processing..: Bilinear (for more intensive scaling, see Performance settings section at the bottom)  
+      * image downscaling
+        * processing..: Bilinear/DXVA2 (for more intensive scaling, see Performance settings section at the bottom)  
+      * image upscaling
+        * processing..: Bilinear/DXVA2 (for more intensive scaling, see Performance settings section at the bottom)  
+    * rendering
+      * general settings
+        * Enable: delay playback start.., enable automatic fullscreen exclusive mode, use Direct3D 11 for presentation  
+        * **If** frame drops/stuttering occur while testing, increase CPU/GPU queue size here
+      * dithering
+        * algorithm: Ordered dithering (unless you have dedicated GPU, see settings section below)  
 *  *Kodi settings:*  
 
    *Kodi app ->*  
 
-   -- Settings -> Player Settings -> DSPlayer ->  
-
-    ---- Helper: Create example player rule (click) -> Yes  
-
-    ---- Video Renderer: madVR  
-
-    ---- Audio Renderer: Internal Audio Renderer (SaneAR)  
-
-    ---- Filters management: Internal filters  
-
-    ---- Video Decoder ->  
-
-    ------ Enable System Tray Icon: On  
-
-    ------ Hardware decoder to use: D3D11  
-
-    ---- Audio Decoder (OPTIONAL: for bitstreaming) ->  
-
-    ------ Enable System Tray Icon: On  
-
-    ------ Bitstreaming \<codec\>: On  
+   * Settings
+     * Player Settings
+       * DSPlayer
+         * Video Renderer: madVR  
+           * Manage settings with Kodi: Load from madVR active profile
+           * Direct3D presentation: Direct3D 11
+         * Audio Renderer: Internal Audio Renderer (SaneAR)  
+         * Filters management: Internal filters  
+           * Video Decoder
+             * Enable System Tray Icon: On  
+             * Hardware decoder to use: D3D11  
+           * Audio Decoder (OPTIONAL: for bitstreaming)
+             * Enable System Tray Icon: On  
+             * Bitstreaming \<codec\>: On  
 
 * *Test*
   * *Kodi app*
