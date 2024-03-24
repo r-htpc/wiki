@@ -714,12 +714,12 @@ Video: [See our separate wiki page here](/wiki/video)
 If internet is available, and automation isn't needed, then a Roku is usually the easiest solution.  
 
 But if internet is not available and/or local content playback/automation is desired, this lends itself well to HTPCs, especially under x86 hardware 
-with linux, windows, or especially hardware that supports installing [Libreelec](https://libreelec.tv/downloads/) (like Raspberry Pis and cheap mini pcs) so you can boot directly into Kodi  
+with linux, windows, or especially hardware that supports installing [Libreelec](https://libreelec.tv/downloads/) (like Raspberry Pis and cheap [mini pcs](https://r-htpc.github.io/wiki/sample-builds#htpc-pre-builtsmini-pcs)) so you can boot directly into Kodi  
 
 Some options/considerations are:  
 
 1. Use Linux/Windows for OS
-   - Simple: Install Kodi, Plex HTPC, set to run on boot, configure.
+   - Simple: Install Kodi, Plex HTPC, etc..; set to run on boot, configure.
    - Advanced: If you need to run multiple programs, use a launcher on boot, like Flex Launcher or just map remote keys to each app with AutoHotKey (see below).
 3. Use [Libreelec](https://libreelec.tv/downloads/)/CoreElec for OS on compatible hardware
    - Boots into a Kodi interface
@@ -735,12 +735,12 @@ Notes:
    - If you need to run the program with command line options/switches, create a <program>.bat file containing what you want to run and put that in the startup folder
  - Common: Key/Button mapping
    - Some programs have a built-in feature for mapping keys to functions like Kodi's [keymap](https://kodi.wiki/view/Keymap) and Plex's [inputmaps](https://support.plex.tv/articles/plex-htpc-input-maps/). If not, use the AutoHotKey (AHK) program to do this; it has a more advanced feature-set.
-   - If not mapping a normal key, get its "scancode" by either using [KeyboardStateView](https://www.nirsoft.net/utils/keyboard_state_view.html), or by opening the window of a running .AHK script and using Cntrl+K. You can then use this in your AHK script/inputmap.
+   - If not mapping a normal key, get its "scancode" by either using [KeyboardStateView](https://www.nirsoft.net/utils/keyboard_state_view.html), or by opening the window of a running .AHK script and using Cntrl+K. You can then use this in your AHK script/inputmap to do basically anything, open a program, etc...
  - Common: Remote Access for help
    - Linux/Windows: Teamviewer, Rustdesk, Chrome Remote Desktop
-   - Libreelec: VPN to network (@router or @device/tailscale) + VNC
+   - Libreelec: VPN to network (@router or @device w/tailscale) + VNC
  - Common: Power Control
-   - Plug device into a [smart power plug](https://www.amazon.com/Assistant-Controlled-Google-Enabled-Vacation/dp/B07XZT24B8), control power on/off by mobile app, set after power loss behavior in BIOS
+   - Plug device into a [smart power plug](https://www.amazon.com/Assistant-Controlled-Google-Enabled-Vacation/dp/B07XZT24B8), control power on/off by mobile app or cheap ECho Pop, set HTPC after power loss behavior in BIOS
  - Kodi
    - Starting in Full Screen (Settings->System->Display->Expert->Display mode)
    - Starting up in certain libraries (Settings->Appearance->Home)
