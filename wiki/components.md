@@ -15,6 +15,8 @@
 
 ## What hardware components should I choose for my HTPC?
 
+For full builds, see the [Sample Builds / Pre-Builts](/wiki/sample-builds) page. 
+
 Use a tool like [PCPartPicker](http://www.pcpartpicker.com) to see prices for hardware across several vendors and optionally to make sure pieces of a build fit together before you buy.  
 Don't discount the secondary and used markets for hardware, especially when prices are high due to demand and/or scarcity. Ebay and aliexpress are good places to start.  
 
