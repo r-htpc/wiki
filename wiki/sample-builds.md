@@ -747,13 +747,13 @@ This budget gaming build runs on Manjaro Linux w/Steam.
 It's good for 1080p, High @ 60 fps+ on normal games, Medium @ 45-60 fps on AAA games.  
 It uses a Pre-built PC and GPU from Ebay. Prices are for buying via auction/Best Offer. Buy It Now will cost you more.  
 Make sure you pick a GPU with a 6-pin (not 8) power connector and a PC with 2 sata connectors free for GPU power.  
-The Dell 7040/7050/3620 or Lenovo M900 is good for the i7-6700. You can usually find one with an M.2 SSD so you don't have to purchase one separately.  
+Anything HP/Dell/Lenovo with an i7-6700 up to a i5-8500 is fine. You can usually find one with an M.2 SSD so you don't have to purchase one separately.  
 Manjaro linux that we use here is fine for Steam and comes pre-installed with it. Simply download the Manjaro KDE Plasma iso, write it to the USB key with Etcher, boot from it and install to the SSD. You can then Enable Proton (experimental version) in Steam preferences.  
 Alternatively, you can run Windows if you want, and you have an activation key.  
 
 PART			|BRAND/MODEL												|	PRICE	|	VENDOR	|	NOTES
 :--|:--|:--|:--|:--
-CASE/CPU/MEM	|Dell/HP/Lenovo Mini Tower pre-built w/i7-6700 + 8GB RAM	|	$100	|	[Ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28dell%2Chp%2Clenovo%29+%28mt%2Ctower%29+%28i7-6700%2Ci7-7700%29&_sacat=179&LH_TitleDesc=0&_sop=15&rt=nc&LH_All=1)	|	ALT: i5-8500 ($145)
+CASE/CPU/MEM	|Dell/HP/Lenovo Mini Tower pre-built w/8GB RAM	|	$100	|	[Ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28dell%2Chp%2Clenovo%29+%28mt%2Ctower%29+%28i7-6700%2Ci7-7700%2Ci5-8500%2Ci5-8400%29&_sacat=179&LH_TitleDesc=0&_sop=15&rt=nc&LH_All=1)	|	ALT: [i5-8500](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28dell%2Chp%2Clenovo%29+%28mt%2Ctower%29+%28i7-6700%2Ci7-7700%2Ci5-8500%2Ci5-8400%29&_sacat=179&LH_TitleDesc=0&_sop=15&rt=nc&LH_All=1) ($110)
 GPU				|Nvidia GTX 1060 6GB w/6-pin								|	$80	|	[Ebay](https://www.ebay.com/sch/i.html?_fsrp=1&_from=R40&_nkw=gtx+1060+6gb&_sacat=0&_sop=15&LH_ItemCondition=1000%7C1500%7C3000&rt=nc&LH_All=1)	|	ALT: Nvidia GTX 1650 Super 6-pin ($100)
 STORAGE		|512GB Silicon Power M.2 SSD										|	$25		|	[Amazon](https://www.amazon.com/Silicon-Power-512GB-Gen3x4-SP512GBP34A60M28/dp/B07ZGJYLNL/)	|	ALT: [2.5" Version](https://www.amazon.com/Silicon-Power-Performance-Internal-SP512GBSS3A55S25/dp/B07997QV4Z) ($25)
 STORAGE		|16GB USB key												|	$5		|	[Amazon](https://www.amazon.com/PNY-Attach%C3%A9-Flash-Drive-Black/dp/B01193UP24)	|	OPTIONAL: For Linux install
