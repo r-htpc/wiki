@@ -753,7 +753,7 @@ Alternatively, you can run Windows if you want, and you have an activation key.
 
 PART			|BRAND/MODEL												|	PRICE	|	VENDOR	|	NOTES
 :--|:--|:--|:--|:--
-CASE/CPU/MEM	|Dell/HP/Lenovo Mini Tower pre-built w/i7-6700 + 8GB RAM	|	$90	|	[Ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28dell%2Chp%2Clenovo%29+%28mt%2Ctower%29+%28i7-6700%2Ci7-7700%29&_sacat=179&LH_TitleDesc=0&_sop=15&rt=nc&LH_All=1)	|	ALT: i5-8500 ($145)
+CASE/CPU/MEM	|Dell/HP/Lenovo Mini Tower pre-built w/i7-6700 + 8GB RAM	|	$100	|	[Ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28dell%2Chp%2Clenovo%29+%28mt%2Ctower%29+%28i7-6700%2Ci7-7700%29&_sacat=179&LH_TitleDesc=0&_sop=15&rt=nc&LH_All=1)	|	ALT: i5-8500 ($145)
 GPU				|Nvidia GTX 1060 6GB w/6-pin								|	$80	|	[Ebay](https://www.ebay.com/sch/i.html?_fsrp=1&_from=R40&_nkw=gtx+1060+6gb&_sacat=0&_sop=15&LH_ItemCondition=1000%7C1500%7C3000&rt=nc&LH_All=1)	|	ALT: Nvidia GTX 1650 Super 6-pin ($100)
 STORAGE		|512GB Silicon Power M.2 SSD										|	$25		|	[Amazon](https://www.amazon.com/Silicon-Power-512GB-Gen3x4-SP512GBP34A60M28/dp/B07ZGJYLNL/)	|	ALT: [2.5" Version](https://www.amazon.com/Silicon-Power-Performance-Internal-SP512GBSS3A55S25/dp/B07997QV4Z) ($25)
 STORAGE		|16GB USB key												|	$5		|	[Amazon](https://www.amazon.com/PNY-Attach%C3%A9-Flash-Drive-Black/dp/B01193UP24)	|	OPTIONAL: For Linux install
@@ -762,7 +762,7 @@ ACCESSORY	|HDMI to HDMI Cable						|$10			|	[Amazon](https://www.amazon.com/Mono
 OS				|Manjaro Linux w/KDE Plasma									|	$0		|	[Download](https://manjaro.org/downloads/official/kde/)	|	
 SOFTWARE		|Steam + Proton Experimental								|	$0		|	NA		|	
 SOFTWARE		|Etcher ISO writer											|	$0		|	[Download](https://www.balena.io/etcher/)	|	
-TOTAL			|															|	$217	|			|	
+TOTAL			|															|	$227	|			|	
 
 <!-- Sub-Section -->
 
@@ -783,7 +783,7 @@ TOTAL	|						|	$617	|
 
 <!-- Sub-Section -->
 
-### $1100 1440p Gaming Box (14L)
+### $1050 1440p Gaming Box (14L)
 
 This is a straight up gaming build for 1440p with High settings, averaging about 90-100 fps which is good for a 120 Hz TV.  
 It's low profile so is good for a media cabinet. If you can handle more height or want to beef up, look at the ALT: notes. 
@@ -791,15 +791,15 @@ It's low profile so is good for a media cabinet. If you can handle more height o
 PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
 :--|:--|:--|:--|:--
 CASE	|	Silverstone Milo Z/ML-07		|	$90	|pcpartpicker	|15" (W)x4.1" (H)x13.8" (D). ALT: Silverstone GD-11 (6.9" (H), 30L)
-CPU	|	Intel i5-12400F				|	$150	|pcpartpicker	|ALT: i5-12600KF
-GPU	|	AMD RX 6750 XT 12GB			|	$360	|pcpartpicker	|ALT: AMD RX 7800 XT 16 GB
+CPU	|	Intel i5-12400F				|	$145	|pcpartpicker	|ALT: i5-12600KF
+GPU	|	AMD RX 6750 XT 12GB			|	$330	|pcpartpicker	|ALT: AMD RX 7800 XT 16 GB
 MOBO	|	ASRock Z690M-ITX/ax			|	$150	|pcpartpicker	|ALT: Gigabyte Z690 AORUS ELITE AX DDR5
 MEM	|	Teamforce VulcanZ 32GB 2x16GB DDR4-3600	|	$55	|pcpartpicker	|ALT: G.Skill Flare S5 2x16GB 32GB DDR5-6000
 STORAGE	|	Solidigm P41 Plus 500GB M.2 (OS)	|	$30	|pcpartpicker	|ALT: Solidigm P41 Plus 1TB M.2 (OS)
 STORAGE	|	Solidigm P41 Plus 2TB M.2 (GAMES)	|	$80	|pcpartpicker	|
 PSU	|	Phanteks Revolt 650W SFX		|	$90	|pcpartpicker	|ALT: Corsair RM650x (2021) ATX
 COOL	|	Thermalright AXP120-X67	CPU Cooler	|	$40	|pcpartpicker	|ALT: Thermalright Silver Soul 135 (Air) / Arctic Liquid Freezer II 240 (AIO)
-TOTAL	|						|	$1085	|	
+TOTAL	|						|	$1050	|	
 
 <!-- Section -->
 
