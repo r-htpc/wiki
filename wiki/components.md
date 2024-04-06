@@ -266,6 +266,9 @@ Internal: LG WH16NS60
 Internal, Slim: LG BU40N  
 External, Slim: Archgon MD-8107S, Buffalo BRUHD-PU3, LG BP60NB10  
 
+*Restrictions:*  
+[HDCP](https://en.wikipedia.org/wiki/High-bandwidth_Digital_Content_Protection) 1.x for DVD, HDCP 1.3 for Blu-Ray, HDCP 2.2 for UHD Blu-Ray; in all devices of the video chain (Drive, GPU, Video Cable, Display) 
+
 NOTE: UHD/4k blu-ray **disc** playback is not recommended due to hardware restrictions. See [here](https://www.cyberlink.com/support/faq-content.do?id=19144) and [here](/wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility)   
 
 If you can meet the restrictions, then buy an Official Playback drive and use PowerDVD.  
