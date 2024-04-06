@@ -61,6 +61,7 @@ HDMI 2.1: Digital. Up to 48 Gbps. 4K @ 120 Hz. HDR+
 Displayport 1.2 (native): Digital. Displayport on both ends. 20 Gbps. 4K @ 60 Hz  
 Displayport 1.4 (native): Digital. Displayport on both ends. 32 Gbps. 4K @ 120 Hz. HDR  
 Displayport (Alternate mode): Digital. Displayport/USB->HDMI cable/adapter  
+[HDCP](https://en.wikipedia.org/wiki/High-bandwidth_Digital_Content_Protection): Copy-protection/DRM required for Disc playback and most commerical streaming services, in all devices of video chain. Supported on DVI, HDMI, DP interfaces. 2.x required for 4k media. 
 
 <!-- Sub-Section -->
 
