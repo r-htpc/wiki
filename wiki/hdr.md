@@ -9,9 +9,12 @@
 </style>
 -->
 
-This setup guide is only for HDR10 passthrough. Dolby Vision/HDR10**+** is not discussed here as **no stable passthrough options exist** on PC. Read our [HDR section](/wiki/faq#what-is-hdr-video-and-what-do-i-need-to-take-advantage-of-it) in the Wiki FAQ for detailed information on hardware requirements. High-end tonemapping is not discussed here yet.  
+This setup guide is only for HDR10 passthrough. 
+Dolby Vision/HDR10**+** is not discussed here as **no stable passthrough options exist** on PC. 
+Read our [HDR section](/wiki/faq#what-is-hdr-video-and-what-do-i-need-to-take-advantage-of-it) in the Wiki FAQ for detailed information on hardware requirements. 
+High-end tonemapping is not discussed here yet. 
 We assume your display, video chain and media player have already been configured/calibrated properly for non-HDR content before you venture into a HDR setup below. If not, you are urged to follow the setup sections in the [Video Setup](/wiki/video#setup) wiki page first.  
-You are **strongly urged** to test out the simple setups below before potentially moving onto the advanced ones.  
+You are **strongly urged** to test out the simple setups below before moving onto the advanced ones.  
 
 ## WINDOWS
 
@@ -64,7 +67,7 @@ You are **strongly urged** to test out the simple setups below before potentiall
 
 ## Local Content
 
-### **Kodi 20 Nexus** (official)
+### **Kodi 21 Omega** (official)
 
 Simple, HDR passthrough, tonemapping.  
 
@@ -75,8 +78,9 @@ Simple, HDR passthrough, tonemapping.
   * Settings app -> System -> Display -> HDR and WCG/Use HDR/Play HDR.. -> Off  
 * *Kodi settings:*  
   * *Kodi app*  
-    * Settings -> Player  
-      * Use HDR display capabilities<!--/v21: Adjust display HDR mode-->: ON  
+    * Settings -> Player -> Videos
+      * v21: Adjust display HDR mode: ON (off to tonemap to SDR)  
+      * v20: Use display HDR capabilities: ON  
 * *Test*  
   * *Kodi app*  
     * Play a [test HDR video](/wiki/hdr#hdr-tests). [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper PC/TV hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
