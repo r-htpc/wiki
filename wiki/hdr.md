@@ -73,7 +73,7 @@ You are **strongly urged** to test out the simple setups below before moving ont
   * [4K/HDR](https://wiki.libreelec.tv/configuration/4k-hdr)
 * *CoreElec:*  
   * [Display Settings](https://wiki.coreelec.org/coreelec:kodi_ce_sys_settings)
-* *Android:*  
+* *Android-like/Roku:*  
   * [Nvidia Shield](https://www.nvidia.com/en-us/shield/support/shield-tv-pro/4k-hdr-dolby-vision-display-setup/) / [Fire TV](https://www.amazon.com/gp/help/customer/display.html?nodeId=G8GNX2B27JG726AH&ref_=hp_GHH5TUHA7677G4HJ_Dolby-Vision-or-High-Dynamic-R) / [Chromecast](https://support.google.com/chromecast/answer/10117046?hl=en&sjid=10251772960481040502-NC) / [Roku](https://support.roku.com/article/235168467)
 
 
