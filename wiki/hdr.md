@@ -16,13 +16,13 @@ High-end tonemapping is not discussed here yet.
 We assume your display, video chain and media player have already been configured/calibrated properly for non-HDR content before you venture into a HDR setup below. If not, you are urged to follow the setup sections in the [Video Setup](/wiki/video#setup) wiki page first.  
 You are **strongly urged** to test out the simple setups below before moving onto the advanced ones.  
 
-## WINDOWS
+## COMMON SETTINGS
 
-### **Common settings**
+### **Hardware**
 
 * *Requirements:*
   * TV/Projector: HDMI >= 2.0/DisplayPort >= 1.3, HDR10, 10-bit panel, [VESA DisplayHDR](https://displayhdr.org/) >= 600
-  * Windows 10: version >= 1803  (Settings app -> System -> About)
+  * HTPC: [HDR-capable PC](/wiki/sample-builds#4k-hdr-players) / [Media Device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc)
 * *TV/Projector settings:*  
   * Must be the **ONLY** display connected to the system before configuration  
   * GPU connected to display's HDMI >= 2.0/DisplayPort >= 1.3 port  
@@ -31,39 +31,51 @@ You are **strongly urged** to test out the simple setups below before moving ont
   * Colorspace/Input Level/Range to RGB Full/Expanded/Enhanced/0-255 (if available)  
 * *AV Receiver settings (if in-between PC and Display):*  
   * HDMI Format/4k Signal Format set to Enhanced
-* *GPU settings:*  
-  * Intel  
-    * Intel Graphics Control Panel/Command Center app
-      * Display -> Resolution/General Settings
-        * Resolution: 3840x2160  
-        * Refresh: 24/30/60Hz  
-      * Display -> Color/Color Settings
-        * Desktop color depth: Highest (32-bit)  
-      * Video -> Color Enhancement -> Input Range -> Driver Settings -> Full Range  
-  * NVIDIA  
-    * Nvidia Control panel app
-      * Manage 3D Settings (>= RTX 20xx) -> Program Settings -> Select a program: \<your media player\> -> Vertical Sync: ON, Low Latency Mode: OFF, Power Managment Mode: Prefer Max/Adaptive/Normal  
-      * Display  
-        * Change Resolution/Adjust desktop color settings:  
+
+### **Software**
+
+* *Windows:*  
+  * *GPU settings:*  
+    * Intel  
+      * Intel Graphics Control Panel/Command Center app
+        * Display -> Resolution/General Settings
           * Resolution: 3840x2160  
-          * Refresh: 24/30/60/120Hz  
+          * Refresh: 24/30/60Hz  
+        * Display -> Color/Color Settings
           * Desktop color depth: Highest (32-bit)  
-          * Output color depth: 8 bpc (HDMI 2.0), 10 bpc (HDMI 2.1)  
-          * Output color format: RGB  
-          * Output dynamic range: Full  
-  * AMD  
-    * Windows
-      * [Change Resolution/Refresh Rate](https://www.amd.com/en/support/kb/faq/dh2-005#faq-Display-Resolution)  
-        * Resolution: 3840x2160  
-        * Refresh: 30/60Hz  
-    * AMD Radeon Settings app
-      * Display
-        * Color depth: 8 bpc (HDMI 2.0), 10 bpc (HDMI 2.1)  
-        * Pixel format: RGB/YCbCr 4:4:4 Full  
-        * Radeon FreeSync: Disabled (create an app profile for your media player if you don't want to disable this globally)
-        <!-- Graphics -> Enhanced Sync: Disabled -->
-* *Windows settings:*  
-  * [Calibrate your display for HDR in Windows](https://support.microsoft.com/en-us/windows/calibrate-your-built-in-display-for-hdr-content-in-windows-de1c66fa-6cc0-b327-e73a-1bac6bd46bc0#WindowsVersion=Windows_10)
+        * Video -> Color Enhancement -> Input Range -> Driver Settings -> Full Range  
+    * NVIDIA  
+      * Nvidia Control panel app
+        * Manage 3D Settings (>= RTX 20xx) -> Program Settings -> Select a program: \<your media player\> -> Vertical Sync: ON, Low Latency Mode: OFF, Power Managment Mode: Prefer Max/Adaptive/Normal  
+        * Display  
+          * Change Resolution/Adjust desktop color settings:  
+            * Resolution: 3840x2160  
+            * Refresh: 24/30/60/120Hz  
+            * Desktop color depth: Highest (32-bit)  
+            * Output color depth: 8 bpc (HDMI 2.0), 10 bpc (HDMI 2.1)  
+            * Output color format: RGB  
+            * Output dynamic range: Full  
+    * AMD  
+      * Windows
+        * [Change Resolution/Refresh Rate](https://www.amd.com/en/support/kb/faq/dh2-005#faq-Display-Resolution)  
+          * Resolution: 3840x2160  
+          * Refresh: 30/60Hz  
+      * AMD Radeon Settings app
+        * Display
+          * Color depth: 8 bpc (HDMI 2.0), 10 bpc (HDMI 2.1)  
+          * Pixel format: RGB/YCbCr 4:4:4 Full  
+          * Radeon FreeSync: Disabled (create an app profile for your media player if you don't want to disable this globally)
+          <!-- Graphics -> Enhanced Sync: Disabled -->
+  * *Windows settings:*
+    * Windows 1x: version >= 1803 (Settings app -> System -> About)
+    * [Calibrate your display for HDR in Windows](https://support.microsoft.com/en-us/windows/calibrate-your-built-in-display-for-hdr-content-in-windows-de1c66fa-6cc0-b327-e73a-1bac6bd46bc0#WindowsVersion=Windows_10)
+* *LibreElec:*  
+  * [4K/HDR](https://wiki.libreelec.tv/configuration/4k-hdr)
+* *CoreElec:*  
+  * [Display Settings](https://wiki.coreelec.org/coreelec:kodi_ce_sys_settings)
+* *Android:*  
+  * [Nvidia Shield](https://www.nvidia.com/en-us/shield/support/shield-tv-pro/4k-hdr-dolby-vision-display-setup/) / [Fire TV](https://www.amazon.com/gp/help/customer/display.html?nodeId=G8GNX2B27JG726AH&ref_=hp_GHH5TUHA7677G4HJ_Dolby-Vision-or-High-Dynamic-R) / [Chromecast](https://support.google.com/chromecast/answer/10117046?hl=en&sjid=10251772960481040502-NC) / [Roku](https://support.roku.com/article/235168467)
+
 
 ## Local Content
 
@@ -73,7 +85,7 @@ Simple, HDR passthrough, tonemapping.
 
 * *Requirements:*  
   * Common settings above  
-  * Install Kodi: >= 20 ([download](https://mirrors.kodi.tv/releases/windows/win64/))  
+  * Install Kodi: >= 20 ([download](https://mirrors.kodi.tv/releases/windows/win64/)) app or [LibreElec](https://libreelec.tv/downloads/)/[CoreElec](https://coreelec.org/#install) OS  
 * *Windows 10 settings:*  
   * Settings app -> System -> Display -> HDR and WCG/Use HDR/Play HDR.. -> Off  
 * *Kodi settings:*  
@@ -435,9 +447,7 @@ Simple, Tonemapping
   * Netflix: Check edge://gpu in Microsoft Edge for: HDCP 2.2 support, HEVC installed/activable, and HEVC - HDR10 support set true. Check [Netflix HDR10 test pattern](https://www.netflix.com/title/80018499) looks correct.
   * Youtube: <!-- Check edge://flags in Microsoft Edge for: Media Foundation for Clear set to Enabled. --> Check [HDR content](https://www.youtube.com/watch?v=njX2bu-_Vw4) looks correct.
 
-## ANDROID
-
-### **Common Settings**
+## ANDROID (This section is Deprecated, see Common Settings)
 
 * *Requirements:*  
   * TV/Projector: HDMI >= 2.0/DisplayPort >= 1.3, HDR10, 10-bit panel, [VESA DisplayHDR](https://displayhdr.org/) >= 600  
