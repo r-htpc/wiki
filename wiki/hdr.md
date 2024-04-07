@@ -448,7 +448,7 @@ Simple, Tonemapping
   * Netflix: Check edge://gpu in Microsoft Edge for: HDCP 2.2 support, HEVC installed/activable, and HEVC - HDR10 support set true. Check [Netflix HDR10 test pattern](https://www.netflix.com/title/80018499) looks correct.
   * Youtube: <!-- Check edge://flags in Microsoft Edge for: Media Foundation for Clear set to Enabled. --> Check [HDR content](https://www.youtube.com/watch?v=njX2bu-_Vw4) looks correct.
 
-## ANDROID (This section is Deprecated, see Common Settings)
+## Android (This section is Deprecated, see Common Settings)
 
 * *Requirements:*  
   * TV/Projector: HDMI >= 2.0/DisplayPort >= 1.3, HDR10, 10-bit panel, [VESA DisplayHDR](https://displayhdr.org/) >= 600  
@@ -462,7 +462,7 @@ Simple, Tonemapping
 [Mehanik's Full HDR10 Test Videos/Patterns](https://drive.google.com/drive/folders/1m4IBq0euAxamL9ePgfdFuf8_5nLcRwHA) - For Advanced HDR video calibration  
 [Ideal 4K HEVC HDR10 test](https://4kmedia.org/samsung-hdr-picture-quality-uhd-4k-demo/) - High UHD Blu-Ray bitrate - 4k, HEVC, HDR10, 50-90Mbps, 10-bit, 30fps, mp4  
 
-## MADVR PERFORMANCE SETTINGS PER GPU
+## MadVR Performance Settings Per GPU
 
 WARNING: These settings are for more intensive image processing/scaling that is **NOT** necessary for just HDR passthrough.  
 The settings for the corresponding GPU families below are **conservative** so you don't have to spend hours wasting your time with stuttering due to high rendering times and diminishing returns.  
