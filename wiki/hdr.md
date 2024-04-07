@@ -79,7 +79,7 @@ Simple, HDR passthrough, tonemapping.
 * *Kodi settings:*  
   * *Kodi app*  
     * Settings -> Player -> Videos
-      * v21: Adjust display HDR mode: ON (off to tonemap to SDR)  
+      * v21: Adjust display HDR mode: ON (off to [tonemap](https://kodi.wiki/view/Video_playback) to SDR)  
       * v20: Use display HDR capabilities: ON  
 * *Test*  
   * *Kodi app*  
