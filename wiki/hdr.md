@@ -16,7 +16,7 @@ High-end tonemapping is not discussed here yet.
 We assume your display, video chain and media player have already been configured/calibrated properly for non-HDR content before you venture into a HDR setup below. If not, you are urged to follow the setup sections in the [Video Setup](/wiki/video#setup) wiki page first.  
 You are **strongly urged** to test out the simple setups below before moving onto the advanced ones.  
 
-## COMMON SETTINGS
+## Common Settings
 
 ### **Hardware**
 
