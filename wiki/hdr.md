@@ -448,14 +448,6 @@ Simple, Tonemapping
   * Netflix: Check edge://gpu in Microsoft Edge for: HDCP 2.2 support, HEVC installed/activable, and HEVC - HDR10 support set true. Check [Netflix HDR10 test pattern](https://www.netflix.com/title/80018499) looks correct.
   * Youtube: <!-- Check edge://flags in Microsoft Edge for: Media Foundation for Clear set to Enabled. --> Check [HDR content](https://www.youtube.com/watch?v=njX2bu-_Vw4) looks correct.
 
-## Android (This section is Deprecated, see Common Settings)
-
-* *Requirements:*  
-  * TV/Projector: HDMI >= 2.0/DisplayPort >= 1.3, HDR10, 10-bit panel, [VESA DisplayHDR](https://displayhdr.org/) >= 600  
-* *TV/Projector settings:*  
-  * GPU Connected to HDMI >= 2.0/DisplayPort >= 1.3 port  
-  * UHD Deep Color/Input Signal Plus turned On for your HDMI port. Setting name dependent on TV mfgr.  
-
 ## HDR Tests
 
 [Our HDR10 Test Videos/Patterns](https://drive.google.com/uc?id=19i_laf6vloxzLic6qOArXt0fLvCpc_qo) - For Basic HDR video calibration  
@@ -484,3 +476,12 @@ Nvidia GTX >= 1080Ti/RTX 2070|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standar
 AMD RX 5xx|Jinc|NGU Standard Luma Low (RX 570/580)|SSIM 1D+LL+AR|super-xbr 100+AR|Error Diff. #2
 AMD RX 56xx - 66xx|Jinc|NGU Standard Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Diff. #2
 AMD RX >= 67xx|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Diff. #2
+
+## Android (This section is Deprecated, see Common Settings)
+
+* *Requirements:*  
+  * TV/Projector: HDMI >= 2.0/DisplayPort >= 1.3, HDR10, 10-bit panel, [VESA DisplayHDR](https://displayhdr.org/) >= 600  
+* *TV/Projector settings:*  
+  * GPU Connected to HDMI >= 2.0/DisplayPort >= 1.3 port  
+  * UHD Deep Color/Input Signal Plus turned On for your HDMI port. Setting name dependent on TV mfgr.  
+
