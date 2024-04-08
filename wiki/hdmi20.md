@@ -273,6 +273,9 @@ Let us know if any others should be added to the list.
 
 Obviously a board that lists the compatibility in its specs or any board that has a ParadeTech PS175/MegaChips MCDP2800 HDMI LSPCON chip is a candidate for HDMI 2.0.  
 
+<!-- Footer -->
 &nbsp;
 
-We will be updating this table as we go.
+---
+
+*This page was last updated on 2024-02-02*
