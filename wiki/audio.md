@@ -886,6 +886,6 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 <!-- Footer -->
 &nbsp;
----
+---  
  *This page was last updated on 2024-03-20*
 
