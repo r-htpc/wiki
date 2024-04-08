@@ -490,3 +490,8 @@ For remotes/setups for the elderly, see our specific [section](/wiki/faq#how-can
 
 On the software side, [Plex HTPC](https://support.plex.tv/articles/plex-htpc-input-maps/), [Kodi](https://kodi.wiki/view/Remote_controls), and [Jriver Media Center](https://wiki.jriver.com/index.php/Remotes) all support multiple remote types. You can also use [AutoHotKey](https://www.autohotkey.com/) and/or [EventGhost](http://www.eventghost.net/) to re-map buttons/automate keyboard tasks.  
 
+<!-- Footer -->
+&nbsp;
+---
+ *This page was last updated on 2024-04-06*
+
