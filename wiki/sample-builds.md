@@ -864,3 +864,8 @@ COOL		|Noctua NF-A9x14 92mm Case fans 3x				|$60				|[Quietpc](https://www.quiet
 PSU			|EVGA SuperNOVA 550 GM SFX				|$110			|[pcpartpicker](https://pcpartpicker.com/product/QgyV3C/evga-supernova-gm-550w-80-gold-certified-fully-modular-sfx-power-supply-123-gm-0550-y1)	|ALT: Cooler Master V550 SFX Gold ($105)
 TOTAL		|											|$844			|	|
 
+<!-- Footer -->
+&nbsp;
+---
+ *This page was last updated on 2024-03-30*
+
