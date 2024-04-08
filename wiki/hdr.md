@@ -485,8 +485,8 @@ AMD RX >= 67xx|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Dif
   * GPU Connected to HDMI >= 2.0/DisplayPort >= 1.3 port  
   * UHD Deep Color/Input Signal Plus turned On for your HDMI port. Setting name dependent on TV mfgr.
 
----
-
 <!-- Footer -->
+&nbsp;
+---
  *This page was last updated on 2024-04-08*
 
