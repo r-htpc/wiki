@@ -754,3 +754,9 @@ Notes:
  - Plex HTPC
    - [Key/Button mapping](https://support.plex.tv/articles/plex-htpc-input-maps/) through a inputmaps json file. Can map to plex functions and even shutdown/reboot for host system. Keys can be the actual keys or scancodes. Supports remote and game controllers
  - [MediaPortal](https://www.team-mediaportal.com/)
+
+<!-- Footer -->
+&nbsp;
+---
+ *This page was last updated on 2024-03-29*
+
