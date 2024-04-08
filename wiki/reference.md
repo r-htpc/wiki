@@ -160,6 +160,8 @@ ARCH|GEN|RELEASED|NOTES
 
 <!-- Footer -->
 &nbsp;
+
 ---
- *This page was last updated on 2023-12-16*
+
+*This page was last updated on 2023-12-16*
 
