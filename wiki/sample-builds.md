@@ -84,20 +84,24 @@ $175-$550: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB
 
 <!-- Sub-Section -->
 
-### Specialized: Emulation/Light Gaming
+### Specialized: Emulation/Light Gaming/Game Streaming
 
-- $85: Low (<= Gamecube)
-  - [Odroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-4gbyte-ram-2/) (S922X)  
-- $175: Med	(<= Wii/PS2)
-  - [HP EliteDesk 705 G5](https://www.ebay.com/sch/179/i.html?_from=R40&_nkw=hp+705+g5+%283200g%2C3400g%29&LH_TitleDesc=1&_sop=15&LH_PrefLoc=2&rt=nc&LH_BIN=1) (AMD 3400G)  
-- $300: Med+ (<= Switch)
-  - [Beelink SER5 Max](https://www.amazon.com/s?k=beelink+5800h&crid=3AUBU1SOXW7YK&sprefix=beelink+5800h%2Caps%2C163&ref=nb_sb_noss_1) (AMD 5800H)  
-- $400: High (<= PS3)
-  - [Minisforum EM680](https://store.minisforum.com/products/minisforum-em680?_pos=1&_sid=3a89b73ed&_ss=r)  
-- $500: Ultra (<= Xbox 360)
-  - Minisforum [UM773 Lite](https://store.minisforum.com/collections/amd-%C2%AE-ryzen-%C2%AE/products/minisforum-um773-lite?variant=43717641666805)/[UM760 Pro](https://store.minisforum.com/collections/game-mini-pc/products/minisforum-um790-pro?variant=44134865731829)/[UM690S](https://store.minisforum.com/products/minisforum-um690s?variant=44055289954549)  
+- Game Streaming:
+  - <= 4K@60Hz: Beelink S12/S12 Pro (N100)
+  - 4K@120Hz: See "Specialized: 4K@120Hz" section
+- Emulation/Light Gaming:
+  - $85: Low (<= Gamecube)
+    - [Odroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-4gbyte-ram-2/) (S922X)  
+  - $175: Med	(<= Wii/PS2)
+    - [HP EliteDesk 705 G5](https://www.ebay.com/sch/179/i.html?_from=R40&_nkw=hp+705+g5+%283200g%2C3400g%29&LH_TitleDesc=1&_sop=15&LH_PrefLoc=2&rt=nc&LH_BIN=1) (AMD 3400G)  
+  - $300: Med+ (<= Switch)
+    - [Beelink SER5 Max](https://www.amazon.com/s?k=beelink+5800h&crid=3AUBU1SOXW7YK&sprefix=beelink+5800h%2Caps%2C163&ref=nb_sb_noss_1) (AMD 5800H)  
+  - $400: High (<= PS3)
+    - [Minisforum EM680](https://store.minisforum.com/products/minisforum-em680?_pos=1&_sid=3a89b73ed&_ss=r)  
+  - $500: Ultra (<= Xbox 360)
+    - Minisforum [UM773 Lite](https://store.minisforum.com/collections/amd-%C2%AE-ryzen-%C2%AE/products/minisforum-um773-lite?variant=43717641666805)/[UM760 Pro](https://store.minisforum.com/collections/game-mini-pc/products/minisforum-um790-pro?variant=44134865731829)/[UM690S](https://store.minisforum.com/products/minisforum-um690s?variant=44055289954549)  
 
- See [ETA PRIME](https://www.youtube.com/@ETAPRIME) youtube channel for reviews  
+ See [ETA PRIME](https://www.youtube.com/@ETAPRIME) YT channel for Emulation device reviews  
 
 <!-- Sub-Section -->
 
@@ -866,6 +870,8 @@ TOTAL		|											|$844			|	|
 
 <!-- Footer -->
 &nbsp;
+
 ---
- *This page was last updated on 2024-03-30*
+
+*This page was last updated on 2024-04-08*
 
