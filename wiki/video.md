@@ -577,3 +577,10 @@ See above sections [Setup For Color Conversion/Reproduction](/wiki/video#setup-f
 **HDMI EDID Emulators**  
 
 [Prophecy EDID Tester](https://www.gofanco.com/prophecy-edid-emulator-pro-edidemul.html)
+
+
+<!-- Footer -->
+&nbsp;
+---
+ *This page was last updated on 2024-04-06*
+
