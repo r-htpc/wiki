@@ -47,7 +47,7 @@ Respected mfgrs are: intel, hp, dell, apple, lenovo, asus, asrock, simply nuc, z
 
 ### 4K HDR PLAYERS
 
-**TL;DR If you're on a budget, then an Intel N95/N100 based mini pc for $140-$170 with mem/storage is fine. If you can afford it, look at a Beelink SEI 11/12 for $300 for better future-proofing.**  
+**TL;DR If you're on a budget, then an Intel [N95/N100](https://www.amazon.com/s?k=intel+n95%7Cn97%7Cn100+pc&rh=n%3A13896591011&ref=nb_sb_noss) based mini pc for $140-$170 with mem/storage is fine. If you can afford it, look at a [Beelink SEI 11/12](https://www.amazon.com/s?k=sei11%7Csei12%7C11320h%7C1235u%7C12450h&rh=n%3A13896591011&ref=nb_sb_noss) for $300 for better future-proofing.**  
 
 $70-$85: SMALLEST: SBC: w/CoreELEC OS, 32GB MicroSD, AC Adapter 
 
