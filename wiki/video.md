@@ -581,6 +581,8 @@ See above sections [Setup For Color Conversion/Reproduction](/wiki/video#setup-f
 
 <!-- Footer -->
 &nbsp;
+
 ---
- *This page was last updated on 2024-04-06*
+
+*This page was last updated on 2024-04-06*
 
