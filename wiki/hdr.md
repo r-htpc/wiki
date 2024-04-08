@@ -117,7 +117,7 @@ Simple, HDR passthrough.
       * Video
         * Output: OpenGL video output for Windows
       * Input / Codecs
-        * Hardware-accelerated decoding: Direct3D11 (win 8+) or DXVA (win 7)
+        * Hardware-accelerated decoding: Direct3D11 (win 8/10/11) or DXVA (win 7)
   * *Restart VLC app*  
 * *Test*  
   * *VLC app*  
@@ -138,9 +138,9 @@ Simple, HDR passthrough, tonemapping and upscaling.
       * Video
         * Video Renderer: MPC Video Renderer  
           * Properties  
-            * Use Direct3D 11: checked (win 8+)  
-            * HDR: Passthrough to display: checked (uncheck to tonemap to SDR)  
-            * HDR: Convert to SDR: unchecked (check to tonemap to SDR)  
+            * Use Direct3D 11: checked (win 8/10/11)  
+            * HDR: Passthrough to display: checked (unchecked to tonemap to SDR)  
+            * HDR: Convert to SDR: unchecked (checked to tonemap to SDR)  
             * HDR: Auto display: used for fullscreen/always used  
             * OPTIONAL: Chroma/Upscaling
               * NOTE: To use these, you must uncheck the four DXVA2/D3D11 video processors. GPU usage will increase as you go down the list of scaling options.
@@ -150,7 +150,7 @@ Simple, HDR passthrough, tonemapping and upscaling.
               * Downscaling: Choose
       * Internal Filters -> Video Decoders  
         * Video decoder configuration  
-          * Preferred Decoder: D3D11 (win 8+) or DXVA2 (win 7) 
+          * Preferred Decoder: D3D11 (win 8/10/11) or DXVA2 (win 7) 
           * Adapter: \<your_GPU_device\> 
           * RGB output levels: PC (0-255) (see VIDEO setup guide if not sure) 
 * *Test*  
@@ -170,7 +170,7 @@ Advanced, more powerful tonemapping, upscaling and processing than using MPC Vid
   * Settings app -> System -> Display -> Use HDR/HDR and WCG/Play HDR.. -> Off  
 * *LAV Filters settings:*  
   * *Start -> K-lite Codec Pack -> LAV Video app*  
-    * Hardware decoder to use -> D3D11 (win 8+) or DXVA2 (copy-back)  
+    * Hardware decoder to use -> D3D11 (win 8/10/11) or DXVA2 (copy-back)  
     * Hardware device to use -> Your_GPU_Device (leave on Auto with D3D11)  
     * Dithering mode -> Ordered dithering  
   * *Start -> K-lite Codec Pack -> LAV Audio app ->*  
@@ -261,7 +261,7 @@ Advanced, current way to integrate madVR into Kodi for passthrough, tonemapping,
       * Internal Filters
         * Internal LAV Filters Settings
           * Video Decoder
-            * Hardware decoder to use -> D3D11 (win 8+) or DXVA2 (copy-back) 
+            * Hardware decoder to use -> D3D11 (win 8/10/11) or DXVA2 (copy-back) 
             * Hardware device to use -> Your_GPU_Device (leave on Auto with D3D11)
             * Dithering mode -> Ordered dithering
           * Audio Decoder
@@ -293,7 +293,7 @@ Advanced, current way to integrate madVR into Kodi for passthrough, tonemapping,
 * *(ALTERNATIVE) MPC-BE settings:*  
    * Install MPC-BE after K-lite Codec Pack
      * *Start -> K-lite Codec Pack -> LAV Video app ->*  
-       * Hardware decoder to use -> D3D11 (win 8+) or DXVA2 (copy-back)  
+       * Hardware decoder to use -> D3D11 (win 8/10/11) or DXVA2 (copy-back)  
        * Hardware device to use -> Your_GPU_Device (leave on Auto with D3D11)  
        * Dithering mode -> Ordered dithering  
      * *Start -> K-lite Codec Pack -> LAV Audio app ->*  
