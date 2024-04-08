@@ -437,6 +437,8 @@ Zotac
 
 <!-- Footer -->
 &nbsp;
+
 ---
- *This page was last updated on 2024-02-15*
+
+*This page was last updated on 2024-02-15*
 
