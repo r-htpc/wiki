@@ -140,3 +140,9 @@ AMD : Noctua NH-L12/s, Thermalright AXP120-X67
 	Phanteks PH-TC12LS				47mm/74mm	$44		95W		120mm		LGA775/115x/1366/2066/FMx/AMx									With NF-A12x15 Noctua would be 64mm
 	Cryorig C1						61mm/74mm	$65		140W	140mm		LGA115x/201x/2066/FMx/AMx
 	Silverstone NT06-Pro/Pro-V2		82mm		$65		65-150W	120mm		LGA775/115x/1366/201x/2066/FMx/AMx			YES
+
+<!-- Footer -->
+&nbsp;
+---
+ *This page was last updated on 2023-12-03*
+
