@@ -157,3 +157,9 @@ ARCH|GEN|RELEASED|NOTES
 **UHD** - Ultra High Definition. A term used to refer to >= 4K resolutions supported by various display and rendering devices. The most common of these is 4K (3840x2160), which is twice the dimension size (or 4x the pixels) of FHD (1920x1080).
 
 **VP9** - A video codec widely used on Youtube. Succeeded by AV1. Supported by >= Intel Kaby/Apollo Lake, AMD Ryzen APUs/dGPUs >= RX 5xxx, >= Nvidia GTX 10-series
+
+<!-- Footer -->
+&nbsp;
+---
+ *This page was last updated on 2023-12-16*
+
