@@ -60,7 +60,7 @@
       * Windows
         * [Change Resolution/Refresh Rate](https://www.amd.com/en/support/kb/faq/dh2-005#faq-Display-Resolution)  
           * Resolution: 3840x2160  
-          * Refresh: 30/60Hz  
+          * Refresh: 30/60/120Hz  
       * AMD Radeon Settings app
         * Display
           * Color depth: 8 bpc (HDMI 2.0), 10 bpc (HDMI 2.1)  
