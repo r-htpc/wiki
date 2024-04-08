@@ -357,3 +357,9 @@ Benchmark (linux): dd, hdparm
 
 If your storage is on a linux-based OS, [follow these instructions](https://www.linuxbabe.com/ubuntu/install-samba-server-file-share) to use Samba  
 If your storage is on a windows-based OS, [follow these instructions](https://support.microsoft.com/en-us/windows/file-sharing-over-a-network-in-windows-b58704b2-f53a-4b82-7bc1-80f9994725bf) to use Windows file sharing
+
+<!-- Footer -->
+&nbsp;
+---
+ *This page was last updated on 2024-03-13*
+
