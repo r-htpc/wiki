@@ -15,7 +15,7 @@
 * Read our [HDR section](/wiki/faq#what-is-hdr-video-and-what-do-i-need-to-take-advantage-of-it) of the Wiki FAQ for detailed information on PC hardware requirements or the sample hardware links given below for pre-built PCs or Media Devices.  
 * High-end tonemapping is not discussed here yet.  
 * We assume your display, video chain and media player have already been configured/calibrated properly for **SDR/non-HDR** content before you venture into a **HDR** setup below. If not, you are urged to follow the setup sections in the [Video Setup Guide](/wiki/video#setup) of the Wiki first.  
-* You are **strongly urged** to test out the simple setups below before moving onto the advanced ones.  
+* You are **strongly urged** to test out the simple setups below before moving onto the advanced ones. Do **NOT** skip any steps or make changes to the settings below until you verify HDR is working. Only then should you go back and make changes specific to your setup.  
 
 ## Common Settings
 
@@ -144,10 +144,10 @@ Simple, HDR passthrough, tonemapping and upscaling.
             * HDR: Auto display: used for fullscreen/always used  
             * OPTIONAL: Chroma/Upscaling
               * NOTE: To use these, you must uncheck the four DXVA2/D3D11 video processors. GPU usage will increase as you go down the list of scaling options.
-              * Chroma/Upscaling: [Choose](/wiki/video#what-are-the-best-algorithms-for-scaling-video)
+              * Chroma/Upscaling: [\<choose\>](/wiki/video#what-are-the-best-algorithms-for-scaling-video)
             * OPTIONAL: Downscaling
-              * NOTE: To use this, you must uncheck "Use for Resizing". GPU usage will increase as you go down the list of scaling options.
-              * Downscaling: Choose
+              * NOTE: To use this, you must uncheck "Use for Resizing".
+              * Downscaling: \<choose\>
       * Internal Filters -> Video Decoders  
         * Video decoder configuration  
           * Preferred Decoder: D3D11 (win 8/10/11) or DXVA2 (win 7) 
