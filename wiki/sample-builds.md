@@ -87,7 +87,7 @@ $175-$550: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB
 ### Specialized: Emulation/Light Gaming/Game Streaming
 
 - Game Streaming:
-  - <= 4K@60Hz: Beelink S12/S12 Pro (N100)
+  - <= 4K@60Hz: Beelink S12/S12 Pro (N95/N100)
   - 4K@120Hz: See "Specialized: 4K@120Hz" section
 - Emulation/Light Gaming:
   - $85: Low (<= Gamecube)
