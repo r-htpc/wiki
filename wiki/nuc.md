@@ -434,3 +434,9 @@ Zotac
 	EN1070K		i5-7500T	GTX 1070 8GB	7066		$1200
 
 	EN1080K		i7-7700		GTX 1080 8GB	10792		$1800
+
+<!-- Footer -->
+&nbsp;
+---
+ *This page was last updated on 2024-02-15*
+
