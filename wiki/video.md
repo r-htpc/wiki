@@ -559,7 +559,7 @@ See above sections [Setup For Color Conversion/Reproduction](/wiki/video#setup-f
 
 [Other 4K Media Test Files](https://4kmedia.org) - 4k, h.264/HEVC, HDR10/DV, TS/MKV/MP4, 24-60fps  
 
-[Other Media Test Files](https://test-videos.co.uk/) - 360p/720p/1080p h264/HEVC/AV1/VP8/VP9  
+[Other Media Test Files](https://kodi.wiki/view/Samples) - 720p/1080p/4k, 23.976/24/25/29.97/59.94/60 fps, h.264/HEVC/AV1/VP9/MPEG2  
 
 <!-- Section -->
 
