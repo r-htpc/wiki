@@ -244,7 +244,7 @@ If you want to get the highest resolution from streaming services (esp. DRMed on
 
 Linux, alternatively, is possible, but you will be limited to [lower resolution streaming services](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x) and no HDR with stock distros.
 
-There are some specialized linux-based distros out there, like [LibreElec](https://libreelec.tv/)/[CoreElec](https://coreelec.org) which are OSes designed for running Kodi as the OS's plugin-capable front interface. They also suffer from lower resolutions on streaming services but are very good for local content, even HDR.
+There are some specialized linux-based distros out there, like [LibreElec](https://libreelec.tv/)/[CoreElec](https://coreelec.org) which are OSes designed for running Kodi as the OS's plugin-capable front interface. They also suffer from lower resolutions on streaming services but are very good for local content, emulation and game streaming, even HDR.
 
 For Android ports to PC look at [Android x86](https://www.android-x86.org/) or [Bliss OS](https://blissos.org/), but do not expect a TV-like interface, 4K streaming services or HD audio. You can run an Android container under Linux with [Waydroid](https://waydro.id/). 
 
@@ -276,7 +276,7 @@ To organize your content, look at Radarr (movies), Sonarr (tv), Lidarr (music) a
 
 For game emulation, look at [Batocera](https://batocera.org/), [LibreElec](https://libreelec.tv/downloads/) w/Retroarch, or [Lakka (RetroArch on a stick)](https://www.lakka.tv/) on **Linux/dedicated OS**; [RetroArch](https://www.retroarch.com/?page=platforms), [EmulationStation DE](https://es-de.org/) or [Launchbox Big Box](https://www.launchbox-app.com/premium) on **Windows**; RetroArch or [OpenEmu](https://openemu.org/) on **Mac**; [Lemuroid](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid&hl=en_US&gl=US) or RetroArch on **Android**; [Provenance](https://github.com/Provenance-Emu/Provenance) on **Apple TV**. [Nostlan](https://github.com/quinton-ashley/nostlan) for 4k displays.  
 
-For game streaming, look at [Sunshine](https://app.lizardbyte.dev/Sunshine) on your server/gaming PC and [Moonlight](https://moonlight-stream.org/) on your frontend client.  
+For game streaming, look at [Sunshine](https://app.lizardbyte.dev/Sunshine) on your server/gaming PC and [Moonlight](https://moonlight-stream.org/) on your frontend client ([Windows/Linux/Android](https://github.com/moonlight-stream/moonlight-qt)/[LibreElec](https://github.com/veldenb/plugin.program.moonlight-qt)/tvOS).  
 
 For gaming, look at Steam w/Windows or Linux. If you have an AMD GPU, look at [ChimeraOS](https://chimeraos.org/).  
 
