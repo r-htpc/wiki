@@ -448,18 +448,21 @@ Any algo beyond **Jinc** will produce diminishing returns compared to the amount
 
 ### Why is my video playback stuttering and/or dropping frames?
 
-1. You haven't configured your video player to use your GPU to hardware decode video. See application-specific setup above.
-2. Your GPU doesn't support hardware decoding for the video codecs you're trying to play and your CPU isn't powerful enough to software decode them. Determine what video codec you're attempting to decode (using something like [MediaInfo](https://mediaarea.net/en/MediaInfo)) and then see the GPU section of the Hardware Components Guide for what codecs are supported by your GPU. Buy a better [CPU](/wiki/components#cpus) or [GPU](/wiki/components#gpusgraphics).
-3. You're running on the edge of what your CPU/GPU can do performance-wise for the video bitrates you're trying to play. The higher the video bitrate, the more stress put on your CPU/GPU. Set your video player's process priority to Above Normal. Play lower bitrate videos. Buy a better [CPU](/wiki/components#cpus) or [GPU](/wiki/components#gpusgraphics).
-4. You're doing too much post-proccessing with your video renderer (MadVR, MPC, EVR, etc..). Do less post-processing - Lower/Disable upscaling/downscaling/dithering techniques (nearest-neighbor/bilinear).  Use a more efficient renderer. Buy a better [GPU](/wiki/components#gpusgraphics).
-5. You're running your RAM in single-channel mode or haven't dedicated enough RAM to your iGPU. Run 2+ sticks of RAM in dual-channel mode for the best performance. If using an iGPU, dedicate as much RAM to it, in your BIOS, where possible.
-6. Your CPU/GPU is doing too much work in the background. Audit windows Task Manager and disable background tasks and/or processes using the CPU/GPU (updates, antivirus, disk indexing).
-7. Your video driver is out of date. Update it and/or re-install the driver clean after running [DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html).
-8. If you have an Nvidia GPU, in Nvidia Control Panel -> Manage 3D Settings, Set Vertical Sync: ON, Low Latency Mode:OFF, Power Management Mode: Prefer Maximum.
-9. If you have an AMD GPU: In Radeon Settings, Display -> Radeon FreeSync: OFF, Graphics -> Enhanced Sync: OFF, Wait for Vertical Refresh: ON, either globally or create a app profile for your video player  
-10. You've configured your windows power plan or video driver power settings to balanced/power saving. Test with your windows power plan set to High Performance. Test with your video driver power management set to maximum performance.
-11. Your video player isn't good/good at playing the video codec(s) you're trying to play. Try a different one (MPC-BE, MPC-HC, Kodi, VLC, Jriver, MPV)
-12. You're using an OLED TV, which can cause stutter due to the nature of the tech. Test with Motion Interpolation enabled on it at various levels. 
+First, make sure what you're experiencing is actually stutter and not judder. Watch [this](https://www.youtube.com/watch?v=CuEZIJDEQyo&t=1s) video.  
+
+1. Your content is poorly encoded or has a frame-rate that is mis-matched from your display's refresh-rate. Test with [known-good test files](/wiki/video#where-do-i-find-additional-sample-video-files-to-test) of varying frame-rates and/or make sure your refresh-rate is a whole number multiple of the frame-rate. 
+2. You're using an OLED TV, which can cause stutter due to the nature of the tech. Test with Motion Interpolation enabled on it at various levels. 
+3. You haven't configured your video player to use your GPU to hardware decode video. See application-specific setup above.
+4. Your GPU doesn't support hardware decoding for the video codecs you're trying to play and your CPU isn't powerful enough to software decode them. Determine what video codec you're attempting to decode (using something like [MediaInfo](https://mediaarea.net/en/MediaInfo)) and then see the GPU section of the Hardware Components Guide for what codecs are supported by your GPU. Buy a better [CPU](/wiki/components#cpus) or [GPU](/wiki/components#gpusgraphics).
+5. You're running on the edge of what your CPU/GPU can do performance-wise for the video bitrates you're trying to play. The higher the video bitrate, the more stress put on your CPU/GPU. Set your video player's process priority to Above Normal. Play lower bitrate videos. Buy a better [CPU](/wiki/components#cpus) or [GPU](/wiki/components#gpusgraphics).
+6. You're doing too much post-proccessing with your video renderer (MadVR, MPC, EVR, etc..). Do less post-processing - Lower/Disable upscaling/downscaling/dithering techniques (nearest-neighbor/bilinear).  Use a more efficient renderer. Buy a better [GPU](/wiki/components#gpusgraphics).
+7. You're running your RAM in single-channel mode or haven't dedicated enough RAM to your iGPU. Run 2+ sticks of RAM in dual-channel mode for the best performance. If using an iGPU, dedicate as much RAM to it, in your BIOS, where possible.
+8. Your CPU/GPU is doing too much work in the background. Audit Task Manager (Windows)/System Monitor (Linux) and disable background tasks and/or processes using the CPU/GPU (updates, antivirus, disk indexing).
+9. Your video driver is out of date. Update it and/or re-install the driver clean after running [DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html).
+10. If you have an Nvidia GPU, in Nvidia Control Panel -> Manage 3D Settings, Set Vertical Sync: ON, Low Latency Mode:OFF, Power Management Mode: Prefer Maximum.
+11. If you have an AMD GPU: In Radeon Settings, Display -> Radeon FreeSync: OFF, Graphics -> Enhanced Sync: OFF, Wait for Vertical Refresh: ON, either globally or create a app profile for your video player  
+12. You've configured your Windows power plan or Video driver power settings to balanced/power saving. Test with your Windows power plan set to High Performance. Test with your Video driver power management set to maximum performance.
+13. Your video player isn't good/good at playing the video codec(s) you're trying to play. Try a different one (MPC-BE, MPC-HC, Kodi, VLC, Jriver, MPV)
 
 <!-- Sub-Section -->
 
@@ -544,7 +547,7 @@ See above sections [Setup For Color Conversion/Reproduction](/wiki/video#setup-f
 
 [AVS HD 709 Test Patterns](https://www.avsforum.com/threads/avs-hd-709-blu-ray-mp4-calibration.948496/) - For video calibration  
 
-[Jellyfish Video Bitrate Test Files](http://www.larmoire.info/jellyfish/) - 1080p/4k, h.264/HEVC, High/Main (8-bit), Main10 (10-bit), MKV  
+[Jellyfish Video Bitrate Test Files](http://www.larmoire.info/jellyfish/) - 1080p/4k, h.264/HEVC, 30 fps, High/Main (8-bit), Main10 (10-bit), MKV  
 
 [Ideal 4K HEVC test](http://www.larmoire.info/jellyfish/media/jellyfish-140-mbps-4k-uhd-hevc-10bit.mkv) - Max UHD Blu-Ray bitrate - 4k, HEVC, SDR, 140Mbps, 10-bit, 30fps, mp4  
 
