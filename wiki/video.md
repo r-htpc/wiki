@@ -459,7 +459,7 @@ Any algo beyond **Jinc** will produce diminishing returns compared to the amount
 9. If you have an AMD GPU: In Radeon Settings, Display -> Radeon FreeSync: OFF, Graphics -> Enhanced Sync: OFF, Wait for Vertical Refresh: ON, either globally or create a app profile for your video player  
 10. You've configured your windows power plan or video driver power settings to balanced/power saving. Test with your windows power plan set to High Performance. Test with your video driver power management set to maximum performance.
 11. Your video player isn't good/good at playing the video codec(s) you're trying to play. Try a different one (MPC-BE, MPC-HC, Kodi, VLC, Jriver, MPV)
-12. You're using an OLED TV, which can cause stutter due to the nature of the tech. Test with Motion Interpolation enabled on it. 
+12. You're using an OLED TV, which can cause stutter due to the nature of the tech. Test with Motion Interpolation enabled on it at various levels. 
 
 <!-- Sub-Section -->
 
@@ -584,5 +584,5 @@ See above sections [Setup For Color Conversion/Reproduction](/wiki/video#setup-f
 
 ---
 
-*This page was last updated on 2024-04-06*
+*This page was last updated on 2024-04-09*
 
