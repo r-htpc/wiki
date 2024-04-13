@@ -220,14 +220,14 @@ OPTIONAL: Application-Specific Setup For HDR/Scaling. See [section below](/wiki/
 
 ### **Setup For Color Reproduction**
 
+You will use this section to set up the resolution, refresh rate, bit-depth and color format for your GPU and Display.
+
 While researching setup of your devices you may have come across confusing terms like YCbCr, RGB, RGB full/limited, black level.  
 
 First, let's get YCbCr and RGB out of the way. These are color spaces for encoding content. RGB treats blacks, whites and colors equally. YCbCr treats blacks and whites differently than colors, in that it compresses colors such that our eyes can't really tell the difference between it and RGB; this saves bandwidth.  
-YCbCr is common for video content. RGB is common for games and the desktop.  
+YCbCr is common for video content and will get converted to RGB in your media application. RGB is common for games and the desktop. Therefore everything coming out of your media application/desktop to the GPU should be RGB. 
 
-Now, to RGB full/limited. In short, RGB full/limited is just different numbering systems to apply to the range of white to black.  
-
-RGB Full denotes 0 as Black and 255 as White. RGB Limited denotes 16 and below as Black and 235 and above as White.  
+Now, to RGB full/limited. In short, RGB full/limited is just different numbering systems to apply to the range of white to black. RGB Full denotes 0 as Black and 255 as White. RGB Limited denotes 16 and below as Black and 235 and above as White.  
 
 What makes this confusing is a setting of Full or Limited can be on multiple pieces of your system, more specifically:  
 
@@ -239,24 +239,32 @@ If you set each piece in the wrong combination, whites and blacks will look wron
 Without getting too into the weeds, here's what you should set for the 3 pieces above, depending on your scenario, but use #1 first, where at all possible.  
 
 - Scenario #1 - PC Recommended: 
-  - Display: Color Space: RGB, Range: Full.  
-  - GPU: Color Space: RGB 8-bit, Range: Full  
-  - Application: Range: Full (0-255), Bit depth: auto/\<display bit depth\> 
+  - Application: Range: **Full (0-255)**, Bit depth: auto/\<display bit depth\> 
+  - GPU: Color/Pixel Format: RGB, Range: Full  
+  - Display: Color Space: RGB/Native, Range: **Full**.  
 - Scenario #2 - PC Alternate: 
-  - Display: Color Space: RGB, Range: Limited  
-  - GPU: Color Space: RGB 8-bit, Range: Full  
-  - Application: Range: Limited (16-235), Bit depth: auto/\<display bit depth\>  
+  - Application: Range: **Limited (16-235)**, Bit depth: auto/\<display bit depth\>  
+  - GPU: Color/Pixel Format: RGB, Range: Full  
+  - Display: Color Space: RGB/Native, Range: **Limited**  
 - Scenario #3 - Media device (roku, shield, fire tv) video content on a TV:  
-  - Display: Limited  
-  - GPU: Color Space: YCbCr/YUV 422 12-bit  
   - Application: Limited (16-235), where available  
+  - GPU: Color Space: YCbCr/YUV 422 12-bit  
+  - Display: Limited  
 
 To confuse things even more, sometimes Full and Limited are called by other names. We urge you to read a primer on calibration settings which explains more of the terms you'll find in your Display and what they're called for each major mfgr. The page at [rtings.com](https://www.rtings.com/tv/learn/how-to-calibrate-your-tv) is a good one to start with. If you still can't figure out what ranges are available on your Display, **assume it's in Limited range by default** unless you change it (like put in PC mode) or your manual says otherwise.  
 
-**After all that, make the changes based on the above 3 scenarios. As mentioned above, when in doubt, use #1, as exampled with the following for a PC**
+**After all that, make the changes based on the above 3 scenarios. As mentioned above, when in doubt, use Scenario #1, as exampled with the following for a PC**
 
-1. Change the color space on your Display to RGB/Native (where available) or Auto. Change the input range to Full. As a last resort, put your Display in PC or Game Mode. This will remove a lot of Display processing options, so if this is not desired, you may want to use Scenario #2's Limited settings for this step and step #3.  
-2. Change your GPU driver settings to a color space of RGB, a color depth of 8-bit, a resolution of what you want (1080p/2160p), and a refresh rate of 60 Hz (or 120 hz where available)  
+1. Change your Display to have a color space of RGB/Native (where available) or Auto. Change the input range to Full. As a last resort, put your Display in PC or Game Mode. This will remove a lot of Display processing options, so if this is not desired, you may want to use Scenario #2's Limited settings for this step and step #3.  
+2. Change your GPU driver settings to a Resolution, Refresh Rate, Color/Pixel Format, Color Depth based on the below for your video interface. 
+ - HDMI 1.4: 3840x2160, 30 Hz, RGB, 8-bit : 1920x1080, 144 Hz, RGB, 8-bit (10-bit w/color format YCbCr 420) 
+ - HDMI 2.0: 3840x2160, 60 Hz, RGB, 8-bit (10-bit w/color format YCbCr 420) 
+ - HDMI 2.1: 3840x2160, 120 Hz, RGB, 10-bit
+ - Displayport 1.2: 3840x2160, 75 Hz/8-bit - 60 Hz/10-bit, RGB
+ - Displayport 1.4: 3840x2160, 144 Hz, RGB, 10-bit
+
+*These are realistic maximums and may not be achievable depending on how good/short your video cable is, how many cable connections are in your video chain and the limits of your Display*
+
 3. Change your video application's renderer to a Range of Full (0-255). This is the default for all renderers (madVR/MPC VR/EVR CP) unless otherwise changed. Change Bit depth to auto  
 
 <!-- Sub-Section -->
