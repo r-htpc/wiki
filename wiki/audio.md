@@ -646,7 +646,17 @@ The easiest and best way to connect your components is: PC (HDMI OUT) -> Sound S
 
 If you need **G-Sync/Freesync** (and not plain VRR) for gaming though, this won't work, as Sound Systems like AVRs/Soundbars won't pass through those VRR techs to the TV. In that case, and if you have **HDMI eARC** support on your Sound System and/or TV, you can connect: PC (HDMI OUT) -> TV (HDMI IN), TV (HDMI eARC) -> Sound System. See **Scenario #2** in the Hardware Setup section above for details before moving on.  
 
-Follow the setup in the Decoding / Channelization software setup section above to configure your speakers for Windows.  
+Finish the setup by following the Decoding / Channelization software setup section above, to configure your speakers for Windows.  
+
+If you can't support the above hardware methods, but have plain **ARC** support or even only **Optical**, you can use that, but **you will only get PCM 2.0/Stereo sound by default**. The only way around this to still get 5.1 sound is to encode the game audio with a tech called **Dolby Digital Live**. To do this, you can either:  
+
+ 1. Buy an internal/external sound card with Dolby Digital Live encoding support (e.g. Sound Blaster X4/X3/Z SE) and connect it via **Optical** to your Sound System  
+
+ 2. For **HDMI ARC**: Use the APO driver to unofficially install Dolby Digital encoding for over HDMI ARC from your PC. This involves installing the [APO driver setup](https://puresoftapps.blogspot.com/2018/04/realtek-apo-driver.html) with the "FX Configurator" & "Dolby DS1" features chosen, running the "FX Configurator" app, selecting your HDMI/Optical interface Endpoint, clicking "Product Config Tool", applying the "Dolby Digital Plus Home Theater (HDMI/SPDIF)" product, and finally open Windows Control Panel -> Sound -> \<your_sound_device\> -> Properties -> Advanced tab, and choose Dolby Digital from the Default Format drop-down.  
+
+ 3. For **OPTICAL/SPDIF**: For Realtek-based Optical/SPDIF you should probably use the [patched drivers](https://github.com/Loliconera/Unlocked-Dolby-Digital-Live-DTS-Interactive-for-Realtek-HD-Audio-Drivers-for-Windows-10-and-11) to unlock DDL. If it doesn't work for you or you have a non-Realtek audio chip, use the previous HDMI ARC way.  
+
+ 4. As a last resort, you can output to just analog surround sound speakers connected directly to the PC, if your motherboard supports it.  
 
 If you want to, and can, support **Dolby Atmos** from your games:
 * Enable audio passthrough in your Display 
@@ -658,16 +668,6 @@ If you want to, and can, support **Dolby Atmos** from your games:
   - Properties -> Spatial sound -> Spatial sound format: Dolby Atmos..
   - Configure -> Select Dolby Atmos for Home Theater -> Next, and configure the speakers you have in the following screens.
 * NOTE: Your sound system may show 'Multi-In' during playback, while your sound device properties shows 'Dolby MAT'. This is normal.
-
-If you can't support the above hardware methods, but have plain **ARC** support or even only **Optical**, you can use that, but **you will only get PCM 2.0/Stereo sound by default**. The only way around this to still get 5.1 sound is to encode the game audio with a tech called **Dolby Digital Live**. To do this, you can either:  
-
- 1. Buy an internal/external sound card with Dolby Digital Live encoding support (e.g. Sound Blaster X4/X3/Z SE) and connect it via **Optical** to your Sound System  
-
- 2. For **HDMI ARC**: Use the APO driver to unofficially install Dolby Digital encoding for over HDMI ARC from your PC. This involves installing the [APO driver setup](https://puresoftapps.blogspot.com/2018/04/realtek-apo-driver.html) with the "FX Configurator" & "Dolby DS1" features chosen, running the "FX Configurator" app, selecting your HDMI/Optical interface Endpoint, clicking "Product Config Tool", applying the "Dolby Digital Plus Home Theater (HDMI/SPDIF)" product, and finally open Windows Control Panel -> Sound -> \<your_sound_device\> -> Properties -> Advanced tab, and choose Dolby Digital from the Default Format drop-down.  
-
- 3. For **OPTICAL/SPDIF**: For Realtek-based Optical/SPDIF you should probably use the [patched drivers](https://github.com/Loliconera/Unlocked-Dolby-Digital-Live-DTS-Interactive-for-Realtek-HD-Audio-Drivers-for-Windows-10-and-11) to unlock DDL. If it doesn't work for you or you have a non-Realtek audio chip, use the previous HDMI ARC way.  
-
- 4. As a last resort, you can output to just analog surround sound speakers connected directly to the PC, if your motherboard supports it.  
 
 <!-- Sub-Section -->
 
