@@ -185,6 +185,7 @@ Advanced, more powerful tonemapping, upscaling and processing than using MPC Vid
           * Enable: switch to matching display mode..when playback starts  
           * list all display modes..: 2160p23, 2160p24, 2160p50, 2160p59, 2160p60 (assumes a 4k display)  
         * HDR -> passthrough HDR content to the display, send HDR metadata to the display  
+          * ALT: For static tonemapping to SDR: HDR -> let madVR decide + rendering->trade quality for..->don't measure HDR.. option checked
     * scaling algorithms
       * chroma upscaling
         * processing..: Bilinear (for more intensive scaling, see Performance settings section at the bottom)  
@@ -231,6 +232,7 @@ Advanced, current way to integrate madVR into Kodi for passthrough, tonemapping,
           * Enable: switch to matching display mode..when playback starts  
           * list all display modes..: 2160p23, 2160p24, 2160p50, 2160p59, 2160p60 (assumes a 4k display)  
         * HDR -> passthrough HDR content to the display, send HDR metadata to the display  
+          * ALT: For static tonemapping to SDR: HDR -> let madVR decide + rendering->trade quality for..->don't measure HDR.. option checked
     * scaling algorithms
       * chroma upscaling
         * processing..: Bilinear (for more intensive scaling, see Performance settings section at the bottom)  
@@ -363,6 +365,7 @@ Advanced, old way to integrate madVR into Kodi for passthrough, tonemapping, and
           * Enable: switch to matching display mode..when playback starts  
           * list all display modes..: 2160p23, 2160p24, 2160p50, 2160p59, 2160p60 (assumes a 4k display)  
         * HDR -> passthrough HDR content to the display, send HDR metadata to the display  
+          * ALT: For static tonemapping to SDR: HDR -> let madVR decide + rendering->trade quality for..->don't measure HDR.. option checked
     * scaling algorithms
       * chroma upscaling
         * processing..: Bilinear (for more intensive scaling, see Performance settings section at the bottom)  
