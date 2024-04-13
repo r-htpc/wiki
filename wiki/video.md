@@ -264,7 +264,7 @@ To confuse things even more, sometimes Full and Limited are called by other name
  - Displayport 1.2: 3840x2160, 75 Hz/8-bit - 60 Hz/10-bit, RGB
  - Displayport 1.4: 3840x2160, 120 Hz, RGB, 10-bit
 
-*The above are realistic and resommended settings. Higher refresh rates may be possible (e.g. 120 to 144 Hz), where supported by the Display and contingent on optimal video cable length and/or a single, direct GPU->Display connection. They are not reccommended for media consumption due to stutter/judder problems.*
+*The above are realistic and recommended settings for each video interface. Higher refresh rates may be possible (e.g. 120 to 144 Hz), where supported by the Display and contingent on optimal video cable length and/or a single, direct GPU->Display connection. They are not recommended for media consumption due to stutter/judder problems.*
 
 <!-- Sub-Section -->
 
