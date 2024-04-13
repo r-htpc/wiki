@@ -57,7 +57,7 @@ You can calculate video bitrate by applying the formula
 
 HDMI 1.4: Digital. 10 Gbps. 4K @ 30 Hz  
 HDMI 2.0: Digital. 18 Gbps. 4K @ 60 Hz. HDR  
-HDMI 2.1: Digital. Up to 48 Gbps. 4K @ 120 Hz. HDR+  
+HDMI 2.1: Digital. Up to 48 Gbps. 4K @ 144 Hz. HDR+  
 Displayport 1.2 (native): Digital. Displayport on both ends. 20 Gbps. 4K @ 60 Hz  
 Displayport 1.4 (native): Digital. Displayport on both ends. 32 Gbps. 4K @ 120 Hz. HDR  
 Displayport (Alternate mode): Digital. Displayport/USB->HDMI cable/adapter  
@@ -255,17 +255,16 @@ To confuse things even more, sometimes Full and Limited are called by other name
 
 **After all that, make the changes based on the above 3 scenarios. As mentioned above, when in doubt, use Scenario #1, as exampled with the following for a PC**
 
-1. Change your Display to have a color space of RGB/Native (where available) or Auto. Change the input range to Full. As a last resort, put your Display in PC or Game Mode. This will remove a lot of Display processing options, so if this is not desired, you may want to use Scenario #2's Limited settings for this step and step #3.  
-2. Change your GPU driver settings to a Resolution, Refresh Rate, Color/Pixel Format, Color Depth based on the below for your video interface. 
- - HDMI 1.4: 3840x2160, 30 Hz, RGB, 8-bit : 1920x1080, 144 Hz, RGB, 8-bit (10-bit w/color format YCbCr 420) 
+1. Change your video application's renderer to a Range of Full (0-255). This is the default for all renderers (madVR/MPC VR/EVR CP) unless otherwise changed. Change Bit depth to auto  
+2. Change your Display to have a color space of RGB/Native (where available) or Auto. Change the input range to Full. As a last resort, put your Display in PC or Game Mode. This will remove a lot of Display processing options, so if this is not desired, you may want to use Scenario #2's Limited settings for this step and step #3.  
+3. Change your GPU driver settings to a Resolution, Refresh Rate, Color/Pixel Format, Color Depth based on the below for your video interface. 
+ - HDMI 1.4: 3840x2160, 30 Hz, RGB, 8-bit : 1920x1080, 120 Hz, RGB, 8-bit (10-bit w/color format YCbCr 420) 
  - HDMI 2.0: 3840x2160, 60 Hz, RGB, 8-bit (10-bit w/color format YCbCr 420) 
  - HDMI 2.1: 3840x2160, 120 Hz, RGB, 10-bit
  - Displayport 1.2: 3840x2160, 75 Hz/8-bit - 60 Hz/10-bit, RGB
- - Displayport 1.4: 3840x2160, 144 Hz, RGB, 10-bit
+ - Displayport 1.4: 3840x2160, 120 Hz, RGB, 10-bit
 
-*These are realistic maximums and may not be achievable depending on how good/short your video cable is, how many cable connections are in your video chain and the limits of your Display*
-
-3. Change your video application's renderer to a Range of Full (0-255). This is the default for all renderers (madVR/MPC VR/EVR CP) unless otherwise changed. Change Bit depth to auto  
+*The above are realistic and resommended settings. Higher refresh rates may be possible (e.g. 120 to 144 Hz), where supported by the Display and contingent on optimal video cable length and/or a single, direct GPU->Display connection. They are not reccommended for media consumption due to stutter/judder problems.*
 
 <!-- Sub-Section -->
 
