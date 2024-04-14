@@ -23,7 +23,7 @@
 - How to configure, fix, and explanation of VIDEO between your HTPC and Display
 
 ### [HDR Setup Guide](/wiki/hdr)
-- How to configure **HDR** and/or **Upscaling** settings for multiple platforms and players
+- How to configure **HDR** and **Upscaling** settings for multiple platforms and players
 
 ### [STORAGE Setup Guide](/wiki/storage)
 - Information on storage for your HTPC/media devices. Pre-built NASes, HDDs, SSDs, DIY NAS cases
