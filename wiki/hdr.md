@@ -100,13 +100,14 @@ Simple, HDR passthrough or tonemapping.
 
 ### **VLC**
 
-Simple, HDR passthrough.  
+Simple, HDR passthrough or tonemapping.  
 
 * *Requirements:*  
   * Common settings above  
   * Install VLC: >= 3.0.8: ([download](https://www.videolan.org/vlc/))
 * *Windows settings:*  
   * Activate HDR
+    * *For static tonemapping to SDR*: Ignore this section
     * Start -> Settings -> System -> Display
       * Windows HD Color
         * Windows HD Color settings -> Stream HDR Video: On  
@@ -116,6 +117,7 @@ Simple, HDR passthrough.
     * Tools -> Preferences
       * Video
         * Output: OpenGL video output for Windows
+        * *For static tonemapping to SDR*: Show settings: All, Video->Output Modules->OpenGL (2nd one)->Tone-mapping algorithm->[Hable (standard)/Reinhard (bright)/Mobius (brighter)/Hard-clip (brightest)](https://imgur.com/6V99TYA)
       * Input / Codecs
         * Hardware-accelerated decoding: Direct3D11 (win 8/10/11) or DXVA (win 7)
   * *Restart VLC app*  
@@ -185,7 +187,7 @@ Advanced, more powerful tonemapping, upscaling and processing than using MPC Vid
           * Enable: switch to matching display mode..when playback starts  
           * list all display modes..: 2160p23, 2160p24, 2160p50, 2160p59, 2160p60 (assumes a 4k display)  
         * HDR -> passthrough HDR content to the display, send HDR metadata to the display  
-          * ALT: For static tonemapping to SDR: HDR -> let madVR decide + rendering->trade quality for..->don't measure HDR.. option checked
+          * *ALT: For static tonemapping to SDR*: HDR -> let madVR decide + rendering->trade quality for..->don't measure HDR.. option checked
     * scaling algorithms
       * chroma upscaling
         * processing..: Bilinear (for more intensive scaling, see Performance settings section at the bottom)  
