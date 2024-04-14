@@ -80,9 +80,9 @@
 
 ## Local Content
 
-### **Kodi 21 Omega** (official)
+### **Kodi**
 
-Simple, HDR passthrough, tonemapping.  
+Simple, HDR passthrough or tonemapping.  
 
 * *Requirements:*  
   * Common settings above  
