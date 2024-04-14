@@ -92,7 +92,7 @@ Simple, HDR passthrough or tonemapping.
 * *Kodi settings:*  
   * *Kodi app*  
     * Settings -> Player -> Videos
-      * v21: Adjust display HDR mode: ON (off to [tonemap](https://kodi.wiki/view/Video_playback) to SDR)  
+      * v21: Adjust display HDR mode: ON (*off to [tonemap](https://kodi.wiki/view/Video_playback) to SDR*)  
       * v20: Use display HDR capabilities: ON  
 * *Test*  
   * *Kodi app*  
@@ -141,8 +141,8 @@ Simple, HDR passthrough, tonemapping and upscaling.
         * Video Renderer: MPC Video Renderer  
           * Properties  
             * Use Direct3D 11: checked (win 8/10/11)  
-            * HDR: Passthrough to display: checked (unchecked to tonemap to SDR)  
-            * HDR: Convert to SDR: unchecked (checked to tonemap to SDR)  
+            * HDR: Passthrough to display: checked (*unchecked to tonemap to SDR*)  
+            * HDR: Convert to SDR: unchecked (*checked to tonemap to SDR*)  
             * HDR: Auto display: used for fullscreen/always used  
             * OPTIONAL: Chroma/Upscaling
               * NOTE: To use these, you must uncheck the four DXVA2/D3D11 video processors. GPU usage will increase as you go down the list of scaling options.
@@ -234,7 +234,7 @@ Advanced, current way to integrate madVR into Kodi for passthrough, tonemapping,
           * Enable: switch to matching display mode..when playback starts  
           * list all display modes..: 2160p23, 2160p24, 2160p50, 2160p59, 2160p60 (assumes a 4k display)  
         * HDR -> passthrough HDR content to the display, send HDR metadata to the display  
-          * ALT: For static tonemapping to SDR: HDR -> let madVR decide + rendering->trade quality for..->don't measure HDR.. option checked
+          * *ALT: For static tonemapping to SDR:* HDR -> let madVR decide + rendering->trade quality for..->don't measure HDR.. option checked
     * scaling algorithms
       * chroma upscaling
         * processing..: Bilinear (for more intensive scaling, see Performance settings section at the bottom)  
