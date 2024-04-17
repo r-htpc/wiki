@@ -111,9 +111,9 @@ $175-$550: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB
 
 <!-- Sub-Section -->
 
-### Specialized: Dolby Vision
+### Specialized: Dolby Vision / HDR10+
 
-- *Local:* Ugoos AM6B Plus + CoreElec. *Local+Streaming:* Nvidia Shield Pro 
+- *Local:* Ugoos AM6B Plus/Dune HD Box R Plus + CoreElec. *Local+Streaming:* Nvidia Shield Pro (DV), FireTV Cube (HDR10+/DV) 
 
 <!-- Sub-Section -->
 
