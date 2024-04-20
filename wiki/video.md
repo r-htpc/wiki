@@ -117,18 +117,27 @@ See also: [Audio Software](/wiki/audio#audio-software)
  -  Support for live tv via tv tuners  
  -  Automatic scanning of video content directories  
  -  Automatic retrieval of metadata content (posters, descriptions, trailers) from the internet  
- -  Real-time transcoding video/audio down to other containers, codecs, resolutions and bitrates via CPU/GPU. GPU transcoding is a pay feature.  
+ -  Real-time transcoding video/audio down to other containers, codecs, resolutions and bitrates via CPU/GPU. 
  -  Streaming of video content to remote video clients  
  -  Support for playback via windows, linux and web browser clients  
- -  Intro skip, Credit skip, Media collections, Subtitle support  
- -  HDR tonemapping support  
+ -  Additional pay-for features such as Hardware Transcoding, Intro skip, Credit skip, DVR, Premium Music, and Offline Downloads  
+ -  HDR tonemapping, Media collections, Subtitle support
+ -  Closed source 
 2. [Jellyfin](https://jellyfin.org)  
- -  Decent alternative to Plex, but not as polished/supported across clients. 
+ -  Decent media server alternative to Plex, but not as polished or supported across clients. 
  -  Support for Windows, Linux, Mac, Docker 
  -  GPU transcoding support is free. 
  -  Streaming of video content to remote video clients requires direct access to server. 
- -  HDR tonemapping support 
+ -  HDR tonemapping support
+ -  Open source
 3. [Emby](https://emby.media)  
+ -  Decent media server alternative to Jellyfin/Plex, but not as polished, or supported across clients for free.
+ -  Support for Windows, Linux, Mac, Docker 
+ -  Additional pay-for features such as Hardware Transcoding, DVR, Offline Downloads and Sync.
+ -  Closed source
+4. [DLNA](https://en.wikipedia.org/wiki/DLNA)  
+ -  Simple, widely supported across hardware and platforms. Varying degress of features (metadata, transcoding, etc..)
+ -  Built into Windows (media streaming); Universal Media Server, Serviio  
 
 **Players**
 
