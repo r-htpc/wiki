@@ -2,8 +2,6 @@
 
 *This page is best viewed with a PC web browser.*  
 
-**THIS PAGE IS IN A DRAFT STATE AND UNDER CONSTRUCTION**
-
 <!-- Section -->
 <!-- -->
 
@@ -296,15 +294,19 @@ This section is UNDER CONSTRUCTION.
 
 You will first run a test for the presence of motion problems like stutter. You will do this under a no-judder condition where the content frame rate and display refresh rate match. After that you will test for judder itself and how bad it is for you subjectively.  
 
-1. Set your display (through the GPU driver) to a specific refresh rate equal to the content you want to test. e.g. 24Hz for 24fps content.
-2. Test that the refresh rate is set correctly and consistently using [this test](https://www.testufo.com/refreshrate).  
-3. Test playing content and look for any observable motion problems. Here is test [24p content](https://www.youtube.com/watch?v=oy8wNzOGVmc)/[25p content](https://www.youtube.com/watch?v=Ou3QXsTro7A)/[60p content](https://www.youtube.com/watch?v=RgGwWN9EC8g).
-4. If you see a motion problem, **it's not judder**, and likely some form of stuttering. You should solve this problem before you move on. See the section "Why is my video playback stuttering and/or dropping frames?" below and repeat the tests.  
-5. If you don't see a motion problem, and you plan to play content on a refresh rate that's not a multiple of your content frame rate (e.g 24p/25p on 60 Hz, 24p on 25Hz/50Hz), you should continue on to test for judder.  
-6. Set your display (through the GPU driver) to the desired non-multiple refresh rate. e.g. 60 Hz for 24 fps content.  
-7. Test that the refresh rate is set correctly and consistently using [this test](https://www.testufo.com/refreshrate).  
-8. Test playing content and look for any observable judder. Here is test [24p content](https://www.youtube.com/watch?v=oy8wNzOGVmc)/[25p content](https://www.youtube.com/watch?v=Ou3QXsTro7A).  
-9. Judder will likely be present; what's important is how bad it is and if it's something that's too distracting that you can't ignore. If you can't ignore it, see the section "How do I fix judder on my htpc?" below and repeat the tests.  
+1. Set your display (through the GPU driver) to a specific refresh rate equal to the content you want to test. e.g. 23Hz for 23.976fps content, 24Hz for 24fps, etc..
+2. Test that the refresh rate is set correctly and consistently using [this page](https://www.testufo.com/refreshrate).  
+3. Test playing content and look for any observable motion problems.
+   - Youtube: [24p content](https://www.youtube.com/watch?v=oy8wNzOGVmc)/[25p content](https://www.youtube.com/watch?v=Ou3QXsTro7A)/[60p content](https://www.youtube.com/watch?v=RgGwWN9EC8g) 
+   - Local: [Test Files -> Frame Rate Tests](/wiki/video#where-do-i-find-additional-sample-video-files-to-test) 
+5. If you see a motion problem, **it's not judder**, and likely some form of stuttering. You should solve this problem before you move on. See the section "Why is my video playback stuttering and/or dropping frames?" below and repeat the tests.  
+6. If you don't see a motion problem, and you plan to play content on a refresh rate that's NOT a multiple of your content frame rate (e.g 24p/25p on 60 Hz, 24p on 25Hz/50Hz), you should continue on to test for judder.  
+7. Set your display (through the GPU driver) to the desired non-multiple refresh rate. e.g. 60 Hz for 24 fps content.  
+8. Test that the refresh rate is set correctly and consistently using [this page](https://www.testufo.com/refreshrate).  
+9. Test playing content and look for any observable judder.
+   - Youtube: [24p content](https://www.youtube.com/watch?v=oy8wNzOGVmc)/[25p content](https://www.youtube.com/watch?v=Ou3QXsTro7A)
+   - Local: [Test Files -> Frame Rate Tests, Judder Tests](/wiki/video#where-do-i-find-additional-sample-video-files-to-test) 
+11. Judder will likely be present; what's important is how bad it is and if it's something that's too distracting that you can't ignore. If you can't ignore it, see the section "How do I fix judder on my htpc?" below and repeat the tests.  
 
 <!-- Sub-Section -->
 
@@ -559,7 +561,7 @@ See above sections [Setup For Color Conversion/Reproduction](/wiki/video#setup-f
 
 [Judder Tests](https://drive.google.com/file/d/176bowvl5QMIw3TNbBFTaeax1aWf7WpG0/view?usp=sharing) - Tests for judder at varying frame rates  
 
-Frame Rate Tests - Known-good test files with a variety of motion - [23.976 fps](https://drive.google.com/file/d/1fmE-ois5fzwVlGccBf3HbBqjv5R_Etv5/view?usp=sharing), [25 fps](https://drive.google.com/file/d/1UimhkIaljhhP3jbuHM75h7yk_WRwkxwQ/view?usp=sharing)  
+Frame Rate Tests - Known-good test files with a variety of motion - [23.976 fps](https://drive.google.com/file/d/1fmE-ois5fzwVlGccBf3HbBqjv5R_Etv5/view?usp=sharing), [24 fps](https://drive.google.com/file/d/1NWdrqmUHg4E_qMiSWoIp1AmV7Ulwm-zb/view?usp=sharing), [25 fps](https://drive.google.com/file/d/1UimhkIaljhhP3jbuHM75h7yk_WRwkxwQ/view?usp=sharing), [29.97 fps](https://drive.google.com/file/d/1K2khAth6dXg3Y1x3crKbaYrR7aRy3q_D/view?usp=sharing)   
 
 [Jellyfish Video Bitrate Test Files](http://www.larmoire.info/jellyfish/) - 1080p/4k, h.264/HEVC, 30 fps, High/Main (8-bit), Main10 (10-bit), MKV  
 
