@@ -5,7 +5,7 @@
 <!-- Section -->
 <!-- -->
 
-## Information / Technologies
+## Technologies
 
 Please read the Video Formats and Transports sections before you embark on the Setup section below it, so you understand the terms and concepts mentioned.  
 
