@@ -5,9 +5,9 @@
 <!-- Section -->
 <!-- -->
 
-## How do I configure my htpc/media device for video?
+## Information / Technologies
 
-Please read the Video Formats and Transports sections before you embark on the sections below it, so you understand the terms and concepts mentioned.  
+Please read the Video Formats and Transports sections before you embark on the Setup section below it, so you understand the terms and concepts mentioned.  
 
 For simplicity, the term "HTPC" here can mean either a PC or a streaming device, like a Roku/Fire TV/etc, except where differences are noted.  
 
