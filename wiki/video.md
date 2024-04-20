@@ -481,15 +481,15 @@ First, make sure what you're experiencing is actually judder and not stutter. Wa
 
 If you do have judder, then do one or more of the following..  
 
-1. Configure your video players to switch the video card refresh rate automatically to match the content being played. See [section above](/wiki/video#application-specific-setup-for-resolutionrefresh-rate-switching)
-2. Configure your video card settings to run at a refresh rate that matches the bulk of the content you play. PC: 23 Hz for 23.976 fps content.
-3. If you can't/won't do #1 or #2. Set your refresh rate to a number that divides equally into the fps of the bulk of the content you play
-. e.g. 120 Hz (for 24/30/60 fps).
-4. If #2/#3 doesn't work, configure Judder reduction in your TV settings. Some TVs do this automatically. This may be called ["Cinema Screen", "Motion Flow/CineMotion" or "Film Mode"](https://www.rtings.com/tv/tests/motion/24p#related-settings). As a worst case, test with Motion Interpolation enabled at various levels. 
-5. If you have an Nvidia GPU, in Nvidia Control Panel -> Manage 3D Settings, Set Vertical Sync: ON, Low Latency Mode:OFF, Power Management Mode: Prefer Max/Adaptive/Normal.
-6. If you have an AMD GPU: In Radeon Settings, Display -> Radeon FreeSync: OFF, Graphics -> Enhanced Sync: OFF, Wait for Vertical Refresh: ON, either globally or create a app profile for your video player  
-7. Use the [SVP (Smooth Video Project)](https://www.svp-team.com/) filter to up-convert the content's fps (e.g. 23.976 fps to 60 fps) before it gets to the display; this is Motion Interpolation, and its effect is unliked by some. Alternatively, you can try madVR's frame blending feature in the rendering->smooth motion section of its settings. 
-8. Use a media device instead that can do automatic Refresh Rate Switching. Fire TV (Prime Video), Nvidia Shield (Netflix, Prime Video), Android TV+[SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) (Youtube)  
+1. Your content is poorly encoded. Test with [known-good test files](/wiki/video#where-do-i-find-additional-sample-video-files-to-test) of varying frame-rates and/or make sure your refresh-rate is a whole number multiple of the frame-rate. 
+2. Configure your video players to switch the video card refresh rate automatically to match the content being played. See [section above](/wiki/video#application-specific-setup-for-resolutionrefresh-rate-switching)
+3. Configure your video card settings to run at a refresh rate that matches the bulk of the content you play. e.g. 23 Hz for 23.976 fps content.
+4. If you can't/won't do #2 or #3. Set your refresh rate to a number that divides equally into the fps of the bulk of the content you play. e.g. 120 Hz (for 24/30/60 fps).
+5. If #3/#4 doesn't work, configure Judder reduction in your TV settings. Some TVs do this automatically. This may be called ["Cinema Screen", "Motion Flow/CineMotion", "Judder Reduction" or "Film Mode"](https://www.rtings.com/tv/tests/motion/24p#related-settings). As a worst case, test with Motion Interpolation enabled at various levels. 
+6. If you have an Nvidia GPU, in Nvidia Control Panel -> Manage 3D Settings, Set Vertical Sync: ON, Low Latency Mode:OFF, Power Management Mode: Prefer Max/Adaptive/Normal.
+7. If you have an AMD GPU: In Radeon Settings, Display -> Radeon FreeSync: OFF, Graphics -> Enhanced Sync: OFF, Wait for Vertical Refresh: ON, either globally or create a app profile for your video player  
+8. Use the [SVP (Smooth Video Project)](https://www.svp-team.com/) filter to up-convert the content's fps (e.g. 23.976 fps to 60 fps) before it gets to the display; this is Motion Interpolation, and its effect is unliked by some. Alternatively, you can try madVR's frame blending feature in the rendering->smooth motion section of its settings. 
+9. Use a media device instead that can do automatic Refresh Rate Switching. Fire TV (Prime Video), Nvidia Shield (Netflix, Prime Video), Android TV+[SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) (Youtube)  
 
 <!-- Sub-Section -->
 
@@ -556,6 +556,10 @@ See above sections [Setup For Color Conversion/Reproduction](/wiki/video#setup-f
 ### Where do I find additional sample video files to test?
 
 [AVS HD 709 Test Patterns](https://www.avsforum.com/threads/avs-hd-709-blu-ray-mp4-calibration.948496/) - For video calibration  
+
+[Judder Tests](https://drive.google.com/file/d/176bowvl5QMIw3TNbBFTaeax1aWf7WpG0/view?usp=sharing) - Tests for judder at varying frame rates  
+
+Frame Rate Tests - Known-good test files with a variety of motion - [23.976 fps](https://drive.google.com/file/d/1fmE-ois5fzwVlGccBf3HbBqjv5R_Etv5/view?usp=sharing), [25 fps](https://drive.google.com/file/d/1UimhkIaljhhP3jbuHM75h7yk_WRwkxwQ/view?usp=sharing)  
 
 [Jellyfish Video Bitrate Test Files](http://www.larmoire.info/jellyfish/) - 1080p/4k, h.264/HEVC, 30 fps, High/Main (8-bit), Main10 (10-bit), MKV  
 
