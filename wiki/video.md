@@ -269,22 +269,25 @@ To confuse things even more, sometimes Full and Limited are called by other name
 
 ### **Video Calibration Testing**
 
+This section is UNDER CONSTRUCTION.  
+
 We know it is tempting to install and configure every software you want to use right away and get on to playing content; but doing everything all at once usually leads to problems which become hard to diagnose once you've added so much software and configuration layers on top of your base OS.  
 As such, it is highly recommended to run video calibration tests before you play content so you know you've set up the combination of your app/gpu/display properly to get the proper colors, whites/blacks, and motion for the media content you will be playing.  
 
 To do this, you should
  
 1. Set the proper color conversion/reproduction settings, if you haven't already, from the [Setup for Color Reproduction](/wiki/video#setup-for-color-conversion-reproduction) section above.  
-2. Calibrate your display in Windows. Start->Color Management->Advanced->Calibrate Display  
-3. **Disable** Hardware Decoding/Acceleration (DXVA, D3D11, NVDEC, pixel shaders etc..) in your video player application, where at all possible, to minimize the chance of the GPU decoder/renderer messing up colors, blacks and whites. You can re-enable it after you're done. The options are different depending on your media player. It should be set to Software/None/Acceleration disabled/etc..; see the location for the option(s) in the Hardware Decoding section below.      
-4. Download calibration media like [AVS HD 709](https://www.avsforum.com/threads/avs-hd-709-blu-ray-mp4-calibration.948496/). Get the MP4 version. At the minimum, extract the tests from the 'Basic Settings' and 'Misc Patterns->A' folder.  
-5. Read the [AVS manual](https://www.w6rz.net/avshd709/Patterns-Manual.pdf) and then run the calibration tests in your video player application.  
-6. If everything looks good, enable Hardware Decoding/Acceleration in your media player as per the below section. If everything does NOT look good, you messed something up in #1/#2. Go back and re-check/re-try.  
-7. Re-run the AVS calibration tests.  
-8. If everything in the tests look good, start playing some test content. Start with known-good content, like the jellyfish and non-HDR real-world [files below](/wiki/video/#where-do-i-find-additional-sample-video-files-to-test). Work your way up from lower resolutions and common codecs (h264) to the resolutions, codecs, and formats you want to use. For example, start with 1080p:h264:8-bit:SDR, then 1080p:HEVC:10-bit:SDR, then 4k:HEVC:8-bit:SDR. This tiered approach will help you find any potential problems along the way. If you're dropping frames from the content, experiencing stutter or judder, consult the appropriate sections below.  
-9. If everything in the tests look good, make any additional video setting changes you desire ([enabling HDR, changing renderers, upscaling](/wiki/hdr), etc..) and play the test content again. If you've enabled HDR, use the HDR test videos/patterns and the real-world files below for that.  
-10. If everything in the tests does NOT look good, either there's something messed up in your GPU color conversion/decoding, your display device is limiting you (e.g. HDR luminance/tonemapping), or your GPU/renderer is limiting you (e.g. aggressive post-processing). Check settings from #8, re-test, and/or seek help on the sub.  
-11. Move on to Motion Calibration Testing or start playing real content.  
+2. Calibrate your display in Windows. Start->Color Management->Advanced->Calibrate Display
+3. Choose a video player application to test with. We recommend [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases) on Windows and [Kodi](https://kodi.tv/download/linux/) on Linux.   
+4. **Disable** Hardware Decoding/Acceleration (DXVA, D3D11, NVDEC, pixel shaders etc..) in your video player application, where at all possible, to minimize the chance of the GPU decoder/renderer messing up colors, blacks and whites. You can re-enable it after you're done. The options are different depending on your media player. It should be set to Software/None/Acceleration disabled/etc..; see the location for the option(s) in the Hardware Decoding section below.      
+5. Download calibration media like [AVS HD 709](https://www.avsforum.com/threads/avs-hd-709-blu-ray-mp4-calibration.948496/). Get the MP4 version. At the minimum, extract the tests from the 'Basic Settings' and 'Misc Patterns->A' folder.  
+6. Read the [AVS manual](https://www.w6rz.net/avshd709/Patterns-Manual.pdf) and then run the calibration tests in your video player application.  
+7. If everything looks good, enable Hardware Decoding/Acceleration in your media player as per the below section. If everything does NOT look good, you messed something up in #1/#2. Go back and re-check/re-try.  
+8. Re-run the AVS calibration tests.  
+9. If everything in the tests look good, start playing some test content. Start with known-good content, like the jellyfish and non-HDR real-world [files below](/wiki/video/#where-do-i-find-additional-sample-video-files-to-test). Work your way up from lower resolutions and common codecs (h264) to the resolutions, codecs, and formats you want to use. For example, start with 1080p:h264:8-bit:SDR, then 1080p:HEVC:10-bit:SDR, then 4k:HEVC:8-bit:SDR. This tiered approach will help you find any potential problems along the way. If you're dropping frames from the content, experiencing stutter or judder, consult the appropriate sections below.  
+10. If everything in the tests look good, make any additional video setting changes you desire ([enabling HDR, changing renderers, upscaling](/wiki/hdr), etc..) and play the test content again. If you've enabled HDR, use the HDR test videos/patterns and the real-world files below for that.  
+11. If everything in the tests does NOT look good, either there's something messed up in your GPU color conversion/decoding, your display device is limiting you (e.g. HDR luminance/tonemapping), or your GPU/renderer is limiting you (e.g. aggressive post-processing). Check settings from #8, re-test, and/or seek help on the sub.  
+12. Move on to Motion Calibration Testing or start playing real content.  
 
 <!-- Sub-Section -->
 
@@ -295,8 +298,9 @@ This section is UNDER CONSTRUCTION.
 You will first run a test for the presence of motion problems like stutter. You will do this under a no-judder condition where the content frame rate and display refresh rate match. After that you will test for judder itself and how bad it is for you subjectively.  
 
 1. Set your display (through the GPU driver) to a specific refresh rate equal to the content you want to test. e.g. 23Hz for 23.976fps content, 24Hz for 24fps, etc..
-2. Test that the refresh rate is set correctly and consistently using [this page](https://www.testufo.com/refreshrate).  
-3. Test playing content and look for any observable motion problems.
+2. Test that the refresh rate is set correctly and consistently using [this page](https://www.testufo.com/refreshrate).
+3. If testing local content, choose a video player application to test with. We recommend [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases) on Windows and [Kodi](https://kodi.tv/download/linux/) on Linux.
+4. Test playing content and look for any observable motion problems.
    - Youtube: [24p content](https://www.youtube.com/watch?v=oy8wNzOGVmc)/[25p content](https://www.youtube.com/watch?v=Ou3QXsTro7A)/[60p content](https://www.youtube.com/watch?v=RgGwWN9EC8g) 
    - Local: [Test Files -> Frame Rate Tests](/wiki/video#where-do-i-find-additional-sample-video-files-to-test) 
 5. If you see a motion problem, **it's not judder**, and likely some form of stuttering. You should solve this problem before you move on. See the section "Why is my video playback stuttering and/or dropping frames?" below and repeat the tests.  
@@ -306,7 +310,7 @@ You will first run a test for the presence of motion problems like stutter. You 
 9. Test playing content and look for any observable judder.
    - Youtube: [24p content](https://www.youtube.com/watch?v=oy8wNzOGVmc)/[25p content](https://www.youtube.com/watch?v=Ou3QXsTro7A)
    - Local: [Test Files -> Frame Rate Tests, Judder Tests](/wiki/video#where-do-i-find-additional-sample-video-files-to-test) 
-11. Judder will likely be present; what's important is how bad it is and if it's something that's too distracting that you can't ignore. If you can't ignore it, see the section "How do I fix judder on my htpc?" below and repeat the tests.  
+10. Judder will likely be present; what's important is how bad it is and if it's something that's too distracting that you can't ignore. If you can't ignore it, see the section "How do I fix judder on my htpc?" below and repeat the tests.  
 
 <!-- Sub-Section -->
 
