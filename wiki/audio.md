@@ -2,7 +2,7 @@
 
 **This page is best viewed with a PC web browser.**  
 
-## How do I configure my htpc/media device for audio?
+## Technologies
 
 &nbsp;
 
