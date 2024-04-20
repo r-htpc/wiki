@@ -198,7 +198,7 @@ See also: [Audio Software](/wiki/audio#audio-software)
 
 **Hardware Setup**  
 
-See the [AUDIO Setup Guide](/wiki/audio#setup) for different ways of connecting your HTPC to a display and sound system.  
+See the [AUDIO Setup Guide](/wiki/audio) for different ways of connecting your HTPC to a display and sound system.  
 
 **Software/OS Setup**  
 
