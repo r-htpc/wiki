@@ -210,9 +210,7 @@ Run motion calibration tests for judder/stutter. See [section below](/wiki/video
 
 Configure your video player application for hardware decoding. See [section below](/wiki/video#application-specific-setup-for-hardware-decoding).  
 
-OPTIONAL: Application-Specific Setup For Resolution/Refresh Rate Switching. See [section below](/wiki/video#application-specific-setup-for-resolutionrefresh-rate-switching).  
-
-OPTIONAL: Application-Specific Setup For HDR/Scaling. See [section below](/wiki/video#application-specific-setup-for-hdrscaling).  
+OPTIONAL: Configure your video player application for additional video features. See [section below](/wiki/video#additional-video-feature-testing).  
 
 <!-- Sub-Section -->
 
@@ -284,10 +282,8 @@ To do this, you should
 6. Read the [AVS manual](https://www.w6rz.net/avshd709/Patterns-Manual.pdf) and then run the calibration tests in your video player application.  
 7. If everything looks good, enable Hardware Decoding/Acceleration in your media player as per the below section. If everything does NOT look good, you messed something up in #1/#2. Go back and re-check/re-try.  
 8. Re-run the AVS calibration tests.  
-9. If everything in the tests look good, start playing some test content. Start with known-good content, like the jellyfish and non-HDR real-world [files below](/wiki/video/#where-do-i-find-additional-sample-video-files-to-test). Work your way up from lower resolutions and common codecs (h264) to the resolutions, codecs, and formats you want to use. For example, start with 1080p:h264:8-bit:SDR, then 1080p:HEVC:10-bit:SDR, then 4k:HEVC:8-bit:SDR. This tiered approach will help you find any potential problems along the way. If you're dropping frames from the content, experiencing stutter or judder, consult the appropriate sections below.  
-10. If everything in the tests look good, make any additional video setting changes you desire ([enabling HDR, changing renderers, upscaling](/wiki/hdr), etc..) and play the test content again. If you've enabled HDR, use the HDR test videos/patterns and the real-world files below for that.  
-11. If everything in the tests does NOT look good, either there's something messed up in your GPU color conversion/decoding, your display device is limiting you (e.g. HDR luminance/tonemapping), or your GPU/renderer is limiting you (e.g. aggressive post-processing). Check settings from #8, re-test, and/or seek help on the sub.  
-12. Move on to Motion Calibration Testing or start playing real content.  
+9. If everything in the tests look good, start playing some test content. Start with known-good content, like the Jellyfish, Frame Rate, and non-HDR real-world [test files](/wiki/video/#where-do-i-find-additional-sample-video-files-to-test) below. Work your way up from lower resolutions and common codecs (h264) to the resolutions, codecs, and formats you want to use. For example, start with 1080p:h264:8-bit:SDR, then 1080p:HEVC:10-bit:SDR, then 4k:HEVC:8-bit:SDR. This tiered approach will help you find any potential problems along the way. If you're dropping frames from the content, consult the [dropping frames](/wiki/video#why-is-my-video-playback-stuttering-andor-dropping-frames) question below before moving on.
+10. Return to the Software/OS Setup section above for additional testing.
 
 <!-- Sub-Section -->
 
@@ -311,6 +307,14 @@ You will first run a test for the presence of motion problems like stutter. You 
    - Youtube: [24p content](https://www.youtube.com/watch?v=oy8wNzOGVmc)/[25p content](https://www.youtube.com/watch?v=Ou3QXsTro7A)
    - Local: [Test Files -> Frame Rate Tests, Judder Tests](/wiki/video#where-do-i-find-additional-sample-video-files-to-test) 
 10. Judder will likely be present; what's important is how bad it is and if it's something that's too distracting that you can't ignore. If you can't ignore it, see the section "How do I fix judder on my htpc?" below and repeat the tests.  
+11. Return to the Software/OS Setup section above for additional testing.
+
+<!-- Sub-Section -->
+
+### **Aditional Video Feature Testing**  
+
+1. Make any additional video setting changes you desire ([enabling HDR, changing renderers, upscaling](/wiki/hdr), [Resolution/Refresh Rate Switching](/wiki/video#application-specific-setup-for-resolutionrefresh-rate-switching), etc..) and play [test content](/wiki/video#where-do-i-find-additional-sample-video-files-to-test) again. 
+2. If everything in the tests do NOT look good, either there's something messed up in your GPU color conversion/decoding, your display device is limiting you (e.g. HDR luminance/tonemapping), or your GPU/renderer is limiting you (e.g. aggressive post-processing); perform a full calibration from the Software/OS section above if you haven't already done so, and/or seek help on the sub.  
 
 <!-- Sub-Section -->
 
