@@ -311,7 +311,7 @@ You will first run a test for the presence of motion problems like stutter. You 
 
 <!-- Sub-Section -->
 
-### **Aditional Video Feature Testing**  
+### **Additional Video Feature Testing**  
 
 1. Make any additional video setting changes you desire ([enabling HDR, changing renderers, upscaling](/wiki/hdr), [Resolution/Refresh Rate Switching](/wiki/video#application-specific-setup-for-resolutionrefresh-rate-switching), etc..) and play [test content](/wiki/video#where-do-i-find-additional-sample-video-files-to-test) again. 
 2. If everything in the tests do NOT look good, either there's something messed up in your GPU color conversion/decoding, your display device is limiting you (e.g. HDR luminance/tonemapping), or your GPU/renderer is limiting you (e.g. aggressive post-processing); perform a full calibration from the Software/OS section above if you haven't already done so, and/or seek help on the sub.  
