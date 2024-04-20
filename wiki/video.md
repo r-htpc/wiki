@@ -471,6 +471,7 @@ First, make sure what you're experiencing is actually stutter and not judder. Wa
 11. If you have an AMD GPU: In Radeon Settings, Display -> Radeon FreeSync: OFF, Graphics -> Enhanced Sync: OFF, Wait for Vertical Refresh: ON, either globally or create a app profile for your video player  
 12. You've configured your Windows power plan or Video driver power settings to balanced/power saving. Test with your Windows power plan set to High Performance. Test with your Video driver power management set to maximum performance.
 13. Your video player isn't good/good at playing the video codec(s) you're trying to play. Try a different one (MPC-BE, MPC-HC, Kodi, VLC, Jriver, MPV)
+14. Use the [SVP (Smooth Video Project)](https://www.svp-team.com/) filter to up-convert the content's fps (e.g. 23.976 fps to 60 fps) before it gets to the display; this is Motion Interpolation, and its effect is unliked by some. Alternatively, you can try madVR's frame blending feature in the rendering->smooth motion section of its settings. 
 
 <!-- Sub-Section -->
 
@@ -483,11 +484,12 @@ If you do have judder, then do one or more of the following..
 1. Configure your video players to switch the video card refresh rate automatically to match the content being played. See [section above](/wiki/video#application-specific-setup-for-resolutionrefresh-rate-switching)
 2. Configure your video card settings to run at a refresh rate that matches the bulk of the content you play. PC: 23 Hz for 23.976 fps content.
 3. If you can't/won't do #1 or #2. Set your refresh rate to a number that divides equally into the fps of the bulk of the content you play
-. e.g. 120 Hz (for 24/30/60 fps). If you can't do this then set your TV to 60 Hz/120 Hz and configure judder reduction in your TV settings. Some TVs do this automatically. Others may call this "Cinema Screen", "Motion Flow/CineMotion" or "Film Mode"  
-4. If you have an Nvidia GPU, in Nvidia Control Panel -> Manage 3D Settings, Set Vertical Sync: ON, Low Latency Mode:OFF, Power Management Mode: Prefer Max/Adaptive/Normal.
-5. If you have an AMD GPU: In Radeon Settings, Display -> Radeon FreeSync: OFF, Graphics -> Enhanced Sync: OFF, Wait for Vertical Refresh: ON, either globally or create a app profile for your video player  
-6. Use the [SVP (Smooth Video Project)](https://www.svp-team.com/) filter to up-convert the content's fps (e.g. 23.976 fps to 60 fps) before it gets to the display.  
-7. Use a media device instead that can do automatic Refresh Rate Switching. Fire TV (Prime Video), Nvidia Shield (Netflix, Prime Video) (beta), Android TV+[SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) (Youtube)  
+. e.g. 120 Hz (for 24/30/60 fps).
+4. If #2/#3 doesn't work, configure Judder reduction in your TV settings. Some TVs do this automatically. This may be called ["Cinema Screen", "Motion Flow/CineMotion" or "Film Mode"](https://www.rtings.com/tv/tests/motion/24p#related-settings). As a worst case, test with Motion Interpolation enabled at various levels. 
+5. If you have an Nvidia GPU, in Nvidia Control Panel -> Manage 3D Settings, Set Vertical Sync: ON, Low Latency Mode:OFF, Power Management Mode: Prefer Max/Adaptive/Normal.
+6. If you have an AMD GPU: In Radeon Settings, Display -> Radeon FreeSync: OFF, Graphics -> Enhanced Sync: OFF, Wait for Vertical Refresh: ON, either globally or create a app profile for your video player  
+7. Use the [SVP (Smooth Video Project)](https://www.svp-team.com/) filter to up-convert the content's fps (e.g. 23.976 fps to 60 fps) before it gets to the display; this is Motion Interpolation, and its effect is unliked by some. Alternatively, you can try madVR's frame blending feature in the rendering->smooth motion section of its settings. 
+8. Use a media device instead that can do automatic Refresh Rate Switching. Fire TV (Prime Video), Nvidia Shield (Netflix, Prime Video), Android TV+[SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) (Youtube)  
 
 <!-- Sub-Section -->
 
@@ -595,5 +597,5 @@ See above sections [Setup For Color Conversion/Reproduction](/wiki/video#setup-f
 
 ---
 
-*This page was last updated on 2024-04-18*
+*This page was last updated on 2024-04-20*
 
