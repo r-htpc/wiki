@@ -284,7 +284,7 @@ To do this, you should
 6. Read the [AVS manual](https://www.w6rz.net/avshd709/Patterns-Manual.pdf) and then run the calibration tests in your video player application.  
 7. If everything looks good, enable Hardware Decoding/Acceleration in your media player as per the below section. If everything does NOT look good, you messed something up in #1/#2. Go back and re-check/re-try.  
 8. Re-run the AVS calibration tests.  
-9. If everything in the tests look good, start playing some test content. Start with known-good content, like the Jellyfish, Frame Rate, and non-HDR real-world [test files](/wiki/video/#where-do-i-find-additional-sample-video-files-to-test) below. Work your way up from lower resolutions and common codecs (h264) to the resolutions, codecs, and formats you want to use. For example, start with 1080p:h264:8-bit:SDR, then 1080p:HEVC:10-bit:SDR, then 4k:HEVC:8-bit:SDR. This tiered approach will help you find any potential problems along the way. If you're dropping frames from the content, consult the [dropping frames](/wiki/video#why-is-my-video-playback-stuttering-andor-dropping-frames) question below before moving on.
+9. If everything in the tests look good, start playing some test content. Start with known-good content, like the Jellyfish, Frame Rate, and non-HDR real-world [test files](/wiki/video#where-do-i-find-additional-sample-video-files-to-test) below. Work your way up from lower resolutions and common codecs (h264) to the resolutions, codecs, and formats you want to use. For example, start with 1080p:h264:8-bit:SDR, then 1080p:HEVC:10-bit:SDR, then 4k:HEVC:8-bit:SDR. This tiered approach will help you find any potential problems along the way. If you're dropping frames from the content, consult the [dropping frames](/wiki/video#why-is-my-video-playback-stuttering-andor-dropping-frames) question below before moving on.
 10. Return to the Software/OS Setup section above for additional testing.
 
 <!-- Sub-Section -->
@@ -324,7 +324,7 @@ You will first run a test for the presence of motion problems like stutter. You 
 
 Most video players have hardware decoding support built-in.  
 
-Configuration usually involves a single toggle on the simple side, or, on the advanced side, choosing between DVXA/D3D11/Quicksync and/or choosing your proper GPU Device. Make sure your GPU Device supports hardware decoding for the format(s) you're trying to play. See the [GPU Feature Set Matrix](/wiki/components/#graphics-gpus) of the Wiki.  
+Configuration usually involves a single toggle on the simple side, or, on the advanced side, choosing between DVXA/D3D11/Quicksync and/or choosing your proper GPU Device. Make sure your GPU Device supports hardware decoding for the format(s) you're trying to play. See the [GPU Feature Set Matrix](/wiki/components#gpusgraphics) of the Wiki.  
 
 If configured correctly, CPU Usage should be low during playback, while GPU Usage (Decode/3D) should be higher in proportion. If GPU Decode/3D is 0, then hardware decoding is not being used.
 
