@@ -14,7 +14,7 @@
 * Dolby Vision/HDR10**+** is not discussed here as **no stable passthrough options exist** on a PC. Media Device setup for these technologies are beyond the scope of this guide, though the Common Settings section for each type of device mostly applies.  
 * Read our [HDR section](/wiki/faq#what-is-hdr-video-and-what-do-i-need-to-take-advantage-of-it) of the Wiki FAQ for detailed information on PC hardware requirements or the sample hardware links given below for pre-built PCs or Media Devices.  
 * This guide is for HT displays only, not monitors, nor multiple displays.  
-* We assume your display, video chain and media player have already been configured/calibrated properly for **SDR/non-HDR** content before you venture into a **HDR** setup below. If not, you are urged to follow the setup sections in the [Video Setup Guide](/wiki/video#setup) of the Wiki first.  
+* We assume your display, video chain and media player have already been configured/calibrated properly for **SDR/non-HDR** content before you venture into a **HDR** setup below. If not, you are urged to follow the setup sections in the [Video Setup Guide](/wiki/video) of the Wiki first.  
 * You are **strongly urged** to test out the simple setups below before moving onto the advanced ones. Do **NOT** skip any steps or make changes to the settings below until you verify HDR is working. Only then should you go back and make changes specific to your setup.  
 
 ## Common Settings
@@ -495,5 +495,5 @@ AMD RX >= 67xx|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Dif
 
 ---
 
-*This page was last updated on 2024-04-14*
+*This page was last updated on 2024-04-20*
 
