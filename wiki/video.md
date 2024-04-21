@@ -307,14 +307,14 @@ You will first run a test for the presence of motion problems like stutter. You 
 1. Set your display (through the GPU driver) to a specific refresh rate equal to the content you want to test. e.g. 23Hz for 23.976fps content, 24Hz for 24fps, etc..
 2. Test that the refresh rate is set correctly and consistently using [this page](https://www.testufo.com/refreshrate).
 3. If testing local content, choose a video player application to test with. We recommend [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases) on Windows and [Kodi](https://kodi.tv/download/linux/) on Linux.
-4. Test playing content and look for any observable motion problems.
+4. Play test content and look for any observable motion problems.
    - Youtube: [24p content](https://www.youtube.com/watch?v=oy8wNzOGVmc)/[25p content](https://www.youtube.com/watch?v=Ou3QXsTro7A)/[60p content](https://www.youtube.com/watch?v=RgGwWN9EC8g) 
    - Local: [Test Files -> Frame Rate Tests](/wiki/video#where-do-i-find-additional-sample-video-files-to-test) 
 5. If you see a motion problem, **it's not judder**, and likely some form of stuttering. You should solve this problem before you move on. See the section "Why is my video playback stuttering and/or dropping frames?" below and repeat the tests.  
 6. If you don't see a motion problem, and you plan to play content on a refresh rate that's NOT a multiple of your content frame rate (e.g 24p/25p on 60 Hz, 24p on 25Hz/50Hz), you should continue on to test for judder.  
 7. Set your display (through the GPU driver) to the desired non-multiple refresh rate. e.g. 60 Hz for 24 fps content.  
 8. Test that the refresh rate is set correctly and consistently using [this page](https://www.testufo.com/refreshrate).  
-9. Test playing content and look for any observable judder.
+9. Play test content and look for any observable judder.
    - Youtube: [24p content](https://www.youtube.com/watch?v=oy8wNzOGVmc)/[25p content](https://www.youtube.com/watch?v=Ou3QXsTro7A)
    - Local: [Test Files -> Frame Rate Tests, Judder Tests](/wiki/video#where-do-i-find-additional-sample-video-files-to-test) 
 10. Judder will likely be present; what's important is how bad it is and if it's something that's too distracting that you can't ignore. If you can't ignore it, see the section "How do I fix judder on my htpc?" below and repeat the tests.  
