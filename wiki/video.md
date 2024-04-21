@@ -348,10 +348,10 @@ VLC:
 1. Tools->Preferences->Input/Codecs->Hardware accelerated decoding: D3D11 (Win 8+) or DirectX (others)
 
 Plex:  
-*- Plex HTPC/Play Media Player*  
-1. Settings->Video->(Use) Hardware Decoding: Enable  
-*- Plex for Windows*  
-1. Settings->Player->Use Hardware Decoding: Enable  
+1. Plex HTPC/Plex Media Player 
+  - Settings->Video->(Use) Hardware Decoding: Enable  
+2. Plex for Windows
+  - Settings->Player->Use Hardware Decoding: Enable  
 
 Kodi:  
 1. Settings->Player->Change to "Advanced" config view  
