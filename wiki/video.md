@@ -349,7 +349,7 @@ VLC:
 
 Plex:  
 1. Plex HTPC/Plex Media Player 
-  - Settings->Video->(Use) Hardware Decoding: Enable  
+  - Settings->Video->Use Hardware Decoding: Enable  
 2. Plex for Windows
   - Settings->Player->Use Hardware Decoding: Enable  
 
