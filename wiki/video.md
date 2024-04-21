@@ -335,7 +335,7 @@ Most video players have hardware decoding support built-in.
 
 Configuration usually involves a single toggle on the simple side, or, on the advanced side, choosing between DVXA/D3D11/Quicksync and/or choosing your proper GPU Device. Make sure your GPU Device supports hardware decoding for the format(s) you're trying to play. See the [GPU Feature Set Matrix](/wiki/components#gpusgraphics) of the Wiki.  
 
-If configured correctly, CPU Usage should be low during playback, while GPU Usage (Decode/3D) should be higher in proportion. If GPU Decode/3D is 0, then hardware decoding is not being used.
+If configured correctly, CPU Usage should be low during playback, while GPU Usage (Video Decode) should be higher in proportion. If GPU Video Decode is 0, then hardware decoding is not being used.
 
 MPC-BE:  
 1. View->Options->Internal Filters->Video Decoders->Video Decoder Configuration: Codecs: <all checked>, Preferred Decoder: D3D11 (Win 8+) or DXVA2 (copy-back) (others)
