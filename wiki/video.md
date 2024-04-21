@@ -280,13 +280,13 @@ To confuse things even more, sometimes Full and Limited are called by other name
 
 This section is UNDER CONSTRUCTION.  
 
-We know it is tempting to install and configure every software you want to use right away and get on to playing content; but doing everything all at once usually leads to problems which become hard to diagnose once you've added so much software and configuration layers on top of your base OS.  
-As such, it is highly recommended to run video calibration tests before you play content so you know you've set up the combination of your app/gpu/display properly to get the proper colors, whites/blacks, and motion for the media content you will be playing.  
+We know it is tempting to install and configure every software you want to use right away and get on to playing content; but doing everything all at once usually leads to problems which become hard to diagnose once you've added so many software and configuration layers on top of your base OS.  
+As such, it is highly recommended to run video calibration tests before you play real content so you know you've set up the combination of your app/gpu/display properly to get the proper colors, whites/blacks, and motion for the video content you will be playing.  
 
 To do this, you should
  
 1. Set the proper color conversion/reproduction settings, if you haven't already, from the [Setup for Color Reproduction](/wiki/video#setup-for-color-conversion-reproduction) section above.  
-2. Calibrate your display in Windows. Start->Color Management->Advanced->Calibrate Display
+2. Calibrate your display by hardware means and through your display's settings. Calibrate your display in your OS. In Windows, Start->Color Management->Advanced->Calibrate Display
 3. Choose a video player application to test with. We recommend [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases) on Windows and [Kodi](https://kodi.tv/download/linux/) on Linux.   
 4. **Disable** Hardware Decoding/Acceleration (DXVA, D3D11, NVDEC, pixel shaders etc..) in your video player application, where at all possible, to minimize the chance of the GPU decoder/renderer messing up colors, blacks and whites. You can re-enable it after you're done. The options are different depending on your media player. It should be set to Software/None/Acceleration disabled/etc..; see the location for the option(s) in the Hardware Decoding section below.      
 5. Download calibration media like [AVS HD 709](https://www.avsforum.com/threads/avs-hd-709-blu-ray-mp4-calibration.948496/). Get the MP4 version. At the minimum, extract the tests from the 'Basic Settings' and 'Misc Patterns->A' folder.  
