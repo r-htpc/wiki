@@ -334,8 +334,8 @@ BRAND/MODEL|PRICE|RESOLUTION|4k NETFLIX?|HDR?|WIFI?|LAN?|VOICE SEARCH?|USB?|NOTE
 [Odroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ([buy](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/))|$66|4k@60|No|YES (6)|Opt|1000M|No|YES (8b)|S922x/2GB RAM/8 GB SD. HDR10, PT:**LL DA/DTSX** w/CoreElec
 [Dune HD Box R Plus](https://www.dune-hd.com/products/homatics-box-r-4k-plus) ([buy](https://www.dune-hd.com/products/homatics-box-r-4k-plus))|$150|4k@60|No|YES (6)|ax|1000M|No|YES (8b)|S905X4-K/4GB RAM/32 GB SD. HDR10+/**DV-5/7/8**, PT:**LL DA/DTSX** w/CoreElec
 [Mi Box S](https://www.mi.com/global/mi-box-s) ([buy](https://www.amazon.com/Xiaomi-Android-Google-Assistant-Streaming/dp/B07KLWGGYS))|$65|4k@60|YES|YES|ac|No|YES|YES (8b)|BT 4. HDR10, PT:LS DD+/DTS, S905X-H/2GB/8GB
-[Apple TV 4k (2021)](https://www.apple.com/apple-tv-4k/) ([buy](https://www.apple.com/shop/buy-tv/apple-tv-4k))|$179/$199|4k@60|YES|YES|ax|1000M|YES|No|2nd gen, A12, 3GB/32-64GB, HDR10/DV-5, DC:DTHD/DTSHD->PCM, PT:LS DA, BT 5.0
-**[Apple TV 4k (2022)](https://www.apple.com/apple-tv-4k/)** ([buy](https://www.apple.com/shop/buy-tv/apple-tv-4k))|**$129/$149**|4k@60|YES|YES|ax|1000M (7)|YES|No|3rd gen, A15, 3GB/64-128GB, HDR10+/DV-5, DC:DTHD/DTSHD->PCM, PT:LS DA, BT 5.0
+[Apple TV 4k (2021)](https://www.apple.com/apple-tv-4k/) ([buy](https://www.apple.com/shop/buy-tv/apple-tv-4k))|$179/$199|4k@60|YES|YES|ax|1000M|YES|No|2nd gen, A12, 3GB/32-64GB, HDR10/DV-5/8, DC:DTHD/DTSHD->PCM, PT:LS DA, BT 5.0
+**[Apple TV 4k (2022)](https://www.apple.com/apple-tv-4k/)** ([buy](https://www.apple.com/shop/buy-tv/apple-tv-4k))|**$129/$149**|4k@60|YES|YES|ax|1000M (7)|YES|No|3rd gen, A15, 3GB/64-128GB, HDR10+/DV-5/8, DC:DTHD/DTSHD->PCM, PT:LS DA, BT 5.0
 [ChromeCast w/Google TV HD](https://store.google.com/product/chromecast_google_tv) ([buy](https://store.google.com/product/chromecast_google_tv))|$30|1080p|No|YES|dual ac|Opt|YES|Opt (8a)|HDR10+, AV1, DC:DD+, PT:LS DA/DTS, S805X2, 1.5GB/8GB
 **[ChromeCast w/Google TV 4k](https://store.google.com/product/chromecast_google_tv)** ([buy](https://store.google.com/config/chromecast_google_tv))|**$50**|4k@60|YES|YES|dual ac|Opt (9a)|YES|Opt (8a)|2nd/latest gen. Remote, HDR10+/DV-5/8, DC:DD+, PT:LS DA/DTS, BT 4.1, S905D3 1.9Ghz/2GB/8GB
 **[Amazon Fire TV stick 4K MAX (2023)](https://www.amazon.com/dp/B0BP9SNVH9)** ([buy](https://www.amazon.com/dp/B0BP9SNVH9))|**$60**|4K@60|YES|YES|tri ax 2x2-6e|Opt (9)|YES|Opt (8a)|2nd gen, BT 5.2 LE, AV1, HDR10+/DV-4/5/8/9/10, PT:LL DA/DTSHD, 2.0Ghz/2GB/16GB
@@ -351,8 +351,8 @@ BRAND/MODEL|PRICE|RESOLUTION|4k NETFLIX?|HDR?|WIFI?|LAN?|VOICE SEARCH?|USB?|NOTE
 [Roku Ultra](https://www.roku.com/products/roku-ultra) ([buy](https://www.bhphotovideo.com/c/product/1594956-REG/roku_4800r_ultra_streaming.html))|$100|4k@60|YES|YES|dual ac 2x2|100M|YES|YES (8b)|2GB RAM, HDR10+/DV, DC:DA, PT:LS DTS/DA, BT. AV1. Model: 4802R
 [Roku Ultra LT](https://www.roku.com/products/roku-ultra-lt) ([buy](https://www.walmart.com/ip/Roku-Ultra-LT-Streaming-Media-Player-2019/857445471))|$80|4k@60|YES|YES|dual ac|100M|YES|No|2GB RAM, HDR10, DC:DD+, PT:LS DTS/DA. Model: 4801RW
 [Vero 4K+](https://osmc.tv/vero/) ([buy](http://buy.getvero.tv/))|$140|4k@60|No|YES|ac|1000M|No|YES (8b)|OSMC, BT 4.0, HDR10, PT:**LL DA**/DTSX, 1.6Ghz/2GB/16GB
-[Nvidia Shield TV Tube](https://www.nvidia.com/en-us/shield/shield-tv/) ([buy](https://smile.amazon.com/NVIDIA-Shield-Streaming-Player-Performance/dp/B07YP94PBJ))|$150|4k@60|YES|YES|ac|1000M|YES|No|DV-5/8/HDR10, PT:LL DA/DTSX DC:DA, 2GB/8GB, BT 5, microSD
-**[Nvidia Shield TV Pro](https://www.nvidia.com/en-us/shield/shield-tv-pro/)** ([buy](https://smile.amazon.com/NVIDIA-Shield-Streaming-Player-Performance/dp/B07YP9FBMM))|**$199**|4k@60|YES|YES|ac|1000M|YES|YES (8b)|**DV-5/8**/HDR10, PT:**LL DA/DTSX** DC:DA, 3GB/16GB, BT 5
+[Nvidia Shield TV Tube](https://www.nvidia.com/en-us/shield/shield-tv/) ([buy](https://smile.amazon.com/NVIDIA-Shield-Streaming-Player-Performance/dp/B07YP94PBJ))|$150|4k@60|YES|YES|ac|1000M|YES|No|DV-5/7/8/HDR10, PT:LL DA/DTSX DC:DA, 2GB/8GB, BT 5, microSD
+**[Nvidia Shield TV Pro](https://www.nvidia.com/en-us/shield/shield-tv-pro/)** ([buy](https://smile.amazon.com/NVIDIA-Shield-Streaming-Player-Performance/dp/B07YP9FBMM))|**$199**|4k@60|YES|YES|ac|1000M|YES|YES (8b)|**DV-5/7/8**/HDR10, PT:**LL DA/DTSX** DC:DA, 3GB/16GB, BT 5
 [Nvidia Shield TV (2017)](https://www.nvidia.com/en-us/shield/shield-tv/) ([buy](https://smile.amazon.com/NVIDIA-SHIELD-Gaming-Streaming-GeForce/dp/B075RXV2VR))|$179|4k@60|YES|YES|ac|1000M|YES|YES (8b)|HDR10, PT:**LL DA/DTSX**, 16GB
 [Xbox One S/X](https://www.xbox.com/en-US/xbox-one/consoles) ([buy](https://smile.amazon.com/gp/bestsellers/electronics/6469295011))|$200-$400|4k@60|YES|YES|dual-ac|1000M|No|YES (8b)|DV/HDR10, PT:LL DA/DTSX, 1TB, UHD-BR
 Mini PC: i3/i5-7x00T ([buy](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28hp%2Cdell%2Clenovo%29+%28i3-7100%2Ci5-7400%2Ci5-7500%29&_sacat=179&LH_TitleDesc=0&LH_BIN=1&_sop=15&_udhi=150&_blrs=recall_filtering))|$60|4k@60 (10)|YES (10)|YES (10)|n/ac|1000M|NO|YES (8b)|HDR10, PT:**LL DA/DTSX**
@@ -758,5 +758,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2024-04-17*
+*This page was last updated on 2024-04-23*
 
