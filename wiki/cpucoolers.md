@@ -54,8 +54,9 @@ AMD Spire Stock			| 68 / 71mm | NA | 95W | NA | AM4 | 4 | -3mm shroud removed - 
 AMD Spire Stock			| 68 / 71mm | NA | 95W | NA | AM4 | 4 | -3mm shroud removed - NO LED 1500X/1600/2600X/3400G/3600X
 Arctic Alpine 12 Passive		| 69mm | $18 | 47W | NA | LGA115x | 4 | NA
 Arctic Alpine 12 AM4 Passive	| 69mm | $18 | 47W | NA | AMx | 4 | NA
-**\*Noctua NH-L12s**				| 70mm | $60 | 95W | 120mm | LGA115x/1200/1700/201x/2066/FMx/AMx (seperate FM kit) | **5** | 23.9 dbA 
+**\*Noctua NH-L12s**			| 70mm | $60 | 95W | 120mm | LGA115x/1200/1700/201x/2066/FMx/AMx (seperate FM kit) | **5** | 23.9 dbA 
 beQuiet Shadow Rock LP			| 75mm | $50 | 130W | 120mm | LGA115x/1200/1700/201x/AMx | 4 | 25.5 dBA 
+Noctua NH-L12sx77			| 77mm | $75 | 107W | 120mm | LGA115x/1200/1700/1851/AMx | 4 | 23.9 dbA 
 AMD Wraith Max Stock		| 85mm | $60 | 140W | NA | AM4/AM3+/FM2+ | 4 | -3mm shroud removed
 Thermalright SI-100			| 99.8mm | $60 | 140W? | 120mm | LGA115x/1200/1700/201x/AMx | 4 | 27.7 dBA 
 AMD Prism Stock			| 93 / 96.3mm | NA | 140W | 92mm | AM4 | 4 | -3mm shroud removed - 2700X/3700X/3800X/3900X
@@ -146,5 +147,5 @@ AMD : Noctua NH-L12/s, Thermalright AXP120-X67
 
 --- 
 
-*This page was last updated on 2023-12-03*
+*This page was last updated on 2024-04-23*
 
