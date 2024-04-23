@@ -324,7 +324,7 @@ If you're looking for the best Plex client, watch [this](https://www.youtube.com
 
 If you want a traditional standalone HTPC see the Mini PCs at the end of the list or our [Sample Builds](/wiki/sample-builds) page for more extensive options.  
 
-Legend: PT: Passthrough, DC: Decode, LS: Lossy, LL: LossLess, DD: Dolby Digital, DV: Dolby Vision, DA: Dolby Atmos, DTHD: Dolby TrueHD, EOL: End of Life
+Legend: PT: Passthrough, DC: Decode, LS: Lossy, LL: LossLess, DD: Dolby Digital, DV: Dolby Vision, DA: Dolby Atmos, DTHD: Dolby TrueHD, DV-5: Dolby Vision - Streaming Services, DV-7: Dolby Vision Disc Rips, EOL: End of Life
 
 BRAND/MODEL|PRICE|RESOLUTION|4k NETFLIX?|HDR?|WIFI?|LAN?|VOICE SEARCH?|USB?|NOTES
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--
