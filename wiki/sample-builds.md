@@ -47,7 +47,7 @@ Respected mfgrs are: intel, hp, dell, apple, lenovo, asus, asrock, simply nuc, z
 
 ### 4K HDR PLAYERS
 
-**TL;DR If you're on a budget, then an Intel [N95/N100](https://www.amazon.com/s?k=intel+n95%7Cn97%7Cn100+pc&rh=n%3A13896591011&ref=nb_sb_noss) based mini pc for $140-$170 with mem/storage is fine. If you can afford it, look at a [Beelink SEI 11/12](https://www.amazon.com/s?k=sei11%7Csei12%7C11320h%7C1235u%7C12450h&rh=n%3A13896591011&ref=nb_sb_noss) for $300 for better future-proofing.**  
+**TL;DR If you're on a budget, then an Intel [N95/N100](https://www.amazon.com/s?k=intel+n95%7Cn97%7Cn100+pc&rh=n%3A13896591011&ref=nb_sb_noss) based mini pc for $150 with mem/storage is fine. If you can afford it, look at a [Beelink SEI 11/12](https://www.amazon.com/s?k=sei11%7Csei12%7C11320h%7C1235u%7C12450h&rh=n%3A13896591011&ref=nb_sb_noss) for $300 for better future-proofing.**  
 
 $70-$85: SMALLEST: SBC: w/CoreELEC OS, 32GB MicroSD, AC Adapter 
 
@@ -55,16 +55,16 @@ $70-$85: SMALLEST: SBC: w/CoreELEC OS, 32GB MicroSD, AC Adapter
 
  - **[Odroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ($72)** 
 
- - *Used for:* HEVC/VP9 local content, Kodi-based interface, ext. storage 
+ - *Used for:* H26x/VP9 local content, Kodi-based interface, ext. storage 
 
 $125-$400: SMALLER: Intel/AMD Mini PC, 8GB (2x4GB) RAM, 256GB SSD
 
-- Intel: [Beelink S12/S12 Pro](https://www.amazon.com/s?k=beelink+s12&i=computers&rh=n%3A13896591011&s=price-asc-rank&ds=v1%3A0rP7%2FYir5%2B3dWoX4iUAxynwHuR7nrtIQNpWFwPZIfME&qid=1701365434&ref=sr_st_price-asc-rank) (N95/N100) ($150+)
+- **Intel: [Beelink S12/S12 Pro](https://www.amazon.com/s?k=beelink+s12&i=computers&rh=n%3A13896591011&s=price-asc-rank&ds=v1%3A0rP7%2FYir5%2B3dWoX4iUAxynwHuR7nrtIQNpWFwPZIfME&qid=1701365434&ref=sr_st_price-asc-rank) (N95/N100) ($150+)**
 - Intel: [Intel NUC 8i3/8i5 - Ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=nuc+%288i3%2C8i5%2C8109u%2C8130u%2C8th%2C8259u%29&_sacat=179&LH_TitleDesc=1&_odkw=nuc+%288i3%2C8i5%2C8109u%2C8130u%2C8th%29&_osacat=179&_sop=15&LH_PrefLoc=2) ($125+)
 - AMD: [Beelink SER5](https://www.amazon.com/s?k=ser5&i=electronics&s=price-asc-rank), [Minisforum UM480XT](https://www.amazon.com/s?k=um480xt&crid=3J3688VURANYX&sprefix=um480xt%2Caps%2C108&ref=nb_sb_noss_1) ($250)
 - **Intel: [Beelink SEI 11/12](https://www.amazon.com/s?k=sei11%7Csei12%7C11320h%7C1235u%7C12450h&rh=n%3A13896591011&ref=nb_sb_noss) ($300+)**
 - AMD: [Beelink SER6](https://www.amazon.com/s?k=ser6&rh=n%3A13896591011&ref=nb_sb_noss) ($375)  
-- *Used for:* local content + 4k netflix/YT, web browsing, int. 2.5" storage, AV1 ([SEI 11/12](https://www.amazon.com/s?k=sei11%7Csei12%7C11320h%7C1235u%7C12450h&rh=n%3A13896591011&ref=nb_sb_noss), SER6), plex server (intel), light gaming (SEI11, SER6).  
+- *Used for:* H26x, VP9, **AV1 (S12, SEI 11/12, SER6)** local content + 4k netflix/YT, web browsing, int. 2.5" storage, plex server (intel), light gaming (SEI11, SER6).  
 
 $125-$725: SMALL/MEDIUM: Intel - i3/i5-7xxx/8xxx/9xxx+ 8GB (2x4GB) RAM, 256GB ssd/1TB hdd: 
 
@@ -72,7 +72,7 @@ $125-$725: SMALL/MEDIUM: Intel - i3/i5-7xxx/8xxx/9xxx+ 8GB (2x4GB) RAM, 256GB ss
 
  - NEW: [Lenovo IdeaCentre Mini](https://www.lenovo.com/us/en/p/desktops/ideacentre/500-series/ideacentre-mini-gen-8-(1l-intel)/90w2000gut) / [Lenovo Neo 50s Gen 4 SFF](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=lenovo+neo+50s&_sacat=179&LH_TitleDesc=0&_odkw=neo+50s&_osacat=179&_sop=15&LH_ItemCondition=3) ($500) 
 
- - *Used for:* local content, 4k netflix/YT, web browsing, **plex server**, **int. 3.5" storage (SFF/MT models)**, low power (xxxxT cpu models).  
+ - *Used for:* H26x/VP9 local content, 4k netflix/YT, web browsing, **int. 3.5" storage (SFF/MT models)**, plex server, low power (xxxxT cpu models).  
 
 $175-$550: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB hdd
 
@@ -80,7 +80,7 @@ $175-$550: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB
 
  - NEW: [Lenovo M75s Gen 2 SFF](https://www.ebay.com/sch/i.html?_from=R40&_nkw=lenovo+m75s+gen+2&_sacat=179&LH_TitleDesc=0&_sop=15&rt=nc&LH_ItemCondition=1500%7C1000) + [CableCreation Active DP 1.4->HDMI Cable](https://www.amazon.com/CableCreation-Unidirectional-DisplayPort-Eyefinity-Multi-Display/dp/B082CXMBCQ) ($575)
 
- - *Used for:* local content + 4k netflix/YT, web browsing, **light gaming**, **int. 3.5" storage (SFF/MT models)**, low power (xxxxGE cpu models).  
+ - *Used for:* H26x/VP9 local content + 4k netflix/YT, web browsing, **int. 3.5" storage (SFF/MT models)**, light gaming, low power (xxxxGE cpu models).  
 
 <!-- Sub-Section -->
 
@@ -873,5 +873,5 @@ TOTAL		|											|$844			|	|
 
 ---
 
-*This page was last updated on 2024-04-17*
+*This page was last updated on 2024-04-25*
 
