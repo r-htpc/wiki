@@ -574,17 +574,19 @@ See the top of the [Sample Builds](/wiki/sample-builds) wiki page or our table o
 
 **If you're building a traditional DiY HTPC**
 
-*TL;DR*
+*Short version:*
 
-4k local content: [HDMI 2.0 motherboard](/wiki/hdmi20) (1.4 if only 30fps non-HDR), >= Intel 7th Gen/Gemini Lake/Athlon 200GE/Ryzen 2200G CPU/GPU **OR** CPU (>= circa 2008) + dGPU >= Nvidia GT1030/AMD RX 550/5x00 **(REC: Ryzen 4600G+B550 mobo)**.  
+4k local content: [HDMI 2.0 motherboard](/wiki/hdmi20) (1.4 if only 30fps non-HDR), >= [Intel 7th Gen/Gemini Lake/Athlon 200GE/Ryzen 2200G CPU](/wiki/components#cpus) **OR** CPU (>= circa 2008) + dGPU >= [Nvidia GT1030/AMD RX 550/5x00](/wiki/components#gpusgraphics) **(REC: Ryzen 4600G+B550 mobo)**.  
 
-4k youtube: [HDMI 2.0 motherboard](/wiki/hdmi20), >= Intel 7th Gen/Gemini Lake/Athlon 200GE/Ryzen 2200G CPU/GPU **OR** CPU (>= circa 2008) + dGPU >= Nvidia GT1030 GDDR5/AMD RX 5x00 **(REC: Ryzen 4600G+B550 mobo)**.  
+4k youtube: [HDMI 2.0 motherboard](/wiki/hdmi20), >= [Intel 7th Gen/Gemini Lake/Athlon 200GE/Ryzen 2200G CPU](/wiki/components#cpus) **OR** CPU (>= circa 2008) + dGPU >= [Nvidia GT1030 GDDR5/AMD RX 5x00](/wiki/components#gpusgraphics) **(REC: Ryzen 4600G+B550 mobo)**.  
 
-4k netflix: HDCP 2.2 display, [HDMI 2.0 motherboard](/wiki/hdmi20), Ryzen 3200G/3400G CPU/GPU **OR** >= Intel 7th Gen/Gemini Lake CPU/GPU **OR** CPU (>= circa 2008) + dGPU >= Nvidia GTX 1050 3GB/AMD RX 550/5x00 **(REC: Ryzen 4600G+B550 mobo)**. Windows 10. Microsoft [HEVC Video Extensions](https://www.microsoft.com/en-us/p/hevc-video-extensions/9nmzlz57r3t7). Intel MEI driver/ME firmware (Intel iGPU). Netflix app/Microsoft Edge browser. Netflix [Premium Plan](https://help.netflix.com/en/node/24926). Netflix [Test Patterns](https://www.netflix.com/title/80018499).  
+4k netflix: HDCP 2.2 display, [HDMI 2.0 motherboard](/wiki/hdmi20), >= [Ryzen 3200G/3400G CPU](/wiki/components#cpus) **OR** >= [Intel 7th Gen/Gemini Lake CPU](/wiki/components#cpus) **OR** CPU (>= circa 2008) + dGPU >= [Nvidia GTX 1050 3GB/AMD RX 550/5x00](/wiki/components#gpusgraphics) **(REC: Ryzen 4600G+B550 mobo)**. Windows 10. Microsoft [HEVC Video Extensions](https://www.microsoft.com/en-us/p/hevc-video-extensions/9nmzlz57r3t7). Intel MEI driver/ME firmware (Intel iGPU). Netflix app/Microsoft Edge browser. Netflix [Premium Plan](https://help.netflix.com/en/node/24926). Netflix [Test Patterns](https://www.netflix.com/title/80018499).  
 
-4k/UHD Blu-Ray disc playing: HDCP 2.2 display, [HDMI 2.0 motherboard w/SGX support](/wiki/hdmi20), Intel i3/5/7/9 **7th-10th Gen CPU w/iGPU ONLY** **(REC: Intel i3-10100+Gigabyte H370N mobo)**. Windows 10+. Use of a dedicated GPU (dGPU) is **not** supported.  
+4k/UHD Blu-Ray disc playing: HDCP 2.2 display, [HDMI 2.0 motherboard w/SGX support](/wiki/hdmi20), [Intel i3/5/7/9](/wiki/components#cpus) **7th-10th Gen CPU w/iGPU ONLY** **(REC: Intel i3-10100+Gigabyte H370N mobo)**. Windows 10+. Use of a dedicated GPU (dGPU) is **not** supported.  
 
 4k@120Hz: See [Wiki:Video:What options are there for 4k @ 120 Hz video output?](/wiki/video#what-options-are-there-for-4k--120-hz-video-output)  
+
+*Long version:*
 
 MAIN REQUIREMENTS
 
@@ -596,7 +598,7 @@ Virtually all modern CPUs with integrated graphics can display 4k video. BUT, al
 On the AMD side, this starts with the Ryzen 2200G and on with any supported motherboard. Buy a Ryzen 4600G and B550/A520 motherboard and move on.    
 On the Intel side, this started with 7th gen Kaby Lake CPUs, but required a [special hdmi 2.0 motherboard](/wiki/hdmi20); But since 11th gen rocket lake CPUs, any supported motherboard will work. Buy a i3-12100 and H610/B660 motherboard and move on.
 
-If one of the motherboards doesn't fit what you need, or you are upgrading an older, existing system that lacks the above, you can choose a dedicated GPU to add on to your system that has these features. The Nvidia GT 1030 GDDR5 is popular, as is the RX 6400 on the AMD side.
+If one of the motherboards doesn't fit what you need, or you are upgrading an older, existing system that lacks the above, you can choose a [dedicated GPU](/wiki/components#gpusgraphics) to add on to your system that has these features. The Intel Arc A380 is popular, as is the RX 6400 on the AMD side.
 
 You CAN display 4k video at 30hz via older HDMI 1.4 and 4k video at 60hz via a Displayport 1.2 connection but you will run into other problems. HDMI 1.4 won't support HDCP 2.2/4k blu-ray/Netflix and the Displayport 1.2 connection won't display HDR content, so stick to the more modern iGPUs/dGPUs above.
 
@@ -610,18 +612,17 @@ To test for HDCP 2.2 compliance, use [Cyberlink Ultra HD Blu-Ray Advisor](https:
 
 SOFTWARE/CONTENT
 
-The only 4k content supported on a PC are: Local files, UHD blu-ray discs, Youtube and Netflix. See the [section above](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x) on what resolutions are supported for other services. 
+The only 4k content supported on a PC are: Local files, UHD blu-ray discs, Youtube and Netflix. See the [section above](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x) on what resolutions are supported for other services and our [oftware section](/wiki/faq#what-software-will-i-need-and-how-do-i-set-it-up) for players. 
+
 If you want access to more 4k content, on your favorite streaming services, use a [media device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) instead.  
 
 It is highly likely that the 4K content will be encoded in HEVC (h.265), the successor to the popular and flexible h.264. Hardware decoding of h.265 is limited to:
 
-- Nvidia >= GTX 10xx dGPUs
+- [Intel 7th-14th Gen/Apollo/Gemini Lake CPU w/iGPU](/wiki/components#cpus) 
 
-- Intel 7th-14th Gen/Apollo/Gemini Lake CPU w/iGPU
+- [AMD >= Athlon 2x0GE/3000G, >= Ryzen 3 2x00G CPUs](/wiki/components#cpus) 
 
-- AMD >= RX 550/5x00/6x00 dGPUs
-
-- AMD >= Athlon 2x0GE/3000G, >= Ryzen 3 2x00G CPUs. 
+- [Nvidia >= GTX 10xx, AMD >= RX 550/5x00/6x00, Intel ARC](/wiki/components#gpusgraphics) dGPUs 
 
 All options are sufficient, and have benchmarked playing 4K 400Mbps bitrate videos at >= 70fps ([See Here](https://forum.doom9.org/showthread.php?p=1803012#post1803012)).  Most 24-30fps 4K videos encoded in HEVC have bitrates between 15-60Mbps (Netflix 4K is HEVC encoded at 15Mbps).
 
@@ -631,7 +632,7 @@ COST
 
 If you go the CPU w/IGPU route, you can expect to spend about $125 for a CPU (like a Intel i3-12100 or AMD Ryzen 4600g) and between $90-$150 for a Intel B660/AMD B550 motherboard, respectively, depending on the form factor.  
 
-If you go the dedicated GPU route, a Nvidia GT 1030 will cost around $80, while a AMD RX 6400 will cost around $140.  
+If you go the dedicated GPU route, an Intel ARC A380 will cost around $100, while a AMD RX 6400 will cost around $140.  
 
 With either option, expect to spend more than $450 on a complete new build. You can get away with less if you get a used SFF system off ebay and add one of the low profile dedicated GPUs. See the Sample Builds wiki page.  
 
