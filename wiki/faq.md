@@ -545,7 +545,7 @@ However, these full quality files are large. DVDs can be up to 9.9GB (11 Mbps), 
 
 In Handbrake..  
 
-On the Summary tab, choose MP4 or MKV for the Format. Neither changes the file size. MP4 is compatible with more devices, but MKV has better embedded subtitle and multi-track audio support. If you're using subtitles and want to embed them into the file, use MKV.  
+Open the content file and on the Summary tab, choose MP4 or MKV for the output Format. Neither changes the file size. MP4 is compatible with more devices, but MKV has better embedded subtitle and multi-track audio support. If you're using subtitles and want to embed them into the file, use MKV.  
 
 On the Dimensions tab, if you want to downscale to a different resolution, use Resolution Limit.  
 
