@@ -533,7 +533,7 @@ The following are the current capabilities of the major streaming services as we
 
 For DVDs and regular HD blu-ray any optical drive that can read the discs will do, internal or external, and you can spend <= $75 on one. For UHD discs, you should have a UHD or UHD-Friendly compatible drive with locked-in firmware. Check our [optical drives section](/wiki/components#optical-drives).  
 
-You will then use software to rip the content off the disc. It's recommended to do this process in two stages, especially if you need content re-encoded for compatibility or space..  
+You will then use software to rip the content off the disc. It's recommended to do this process in two stages, especially if you need content re-encoded for compatibility or space-saving..  
 
 First, use the [MakeMKV](http://www.makemkv.com/) program to extract the content off the disc. You can choose all the video/audio titles on the disc, just some of them, or just the main one. In the end, this will make a full quality MKV file without changing the format or size of the content. This isn't CPU heavy and can be done on a very minimal system.  
 
