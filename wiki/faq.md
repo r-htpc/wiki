@@ -602,7 +602,7 @@ You CAN display 4k video at 30hz via older HDMI 1.4 and 4k video at 60hz via a D
 
 DRM
 
-If you plan on playing DRM protected content, for instance 4k netflix, you will need to have a HDMI 2.0 port that supports HDCP 2.2 or a Displayport with an active DP 1.x->HDMI 2.0 adapter. This can take the form of at least a Ryzen 3200G/3400G with any supported mobo **OR** Intel 7th-13th Gen/Apollo/Gemini Lake CPU and [supported motherboard](/wiki/hdmi20) **OR** Any CPU and an add-on dGPU, **only** Nvidia >= GTX 1050 3GB or AMD >= RX 4xx/5xx/5x00/6x00.
+If you plan on playing DRM protected content, for instance 4k netflix, you will need to have a HDMI 2.0 port that supports HDCP 2.2 or a Displayport with an active DP 1.x->HDMI 2.0 adapter. This can take the form of at least a Ryzen 3200G/3400G with any supported mobo **OR** Intel 7th-14th Gen/Apollo/Gemini Lake CPU and [supported motherboard](/wiki/hdmi20) **OR** Any CPU and an add-on dGPU, **only** Nvidia >= GTX 1050 3GB or AMD >= RX 4xx/5xx/5x00/6x00.
 
 More restrictively, if you plan on playing UHD Blu-ray discs, you are further limited to Intel CPUs w/SGX support (Intel i3/5/7/9 7th-10th Gen **ONLY**) + a [HDMI 2.0 motherboard w/SGX support](/wiki/hdmi20). Dedicated GPUs are **NOT** supported. See [here](https://www.cyberlink.com/support/faq-content.do?id=19144)  
 
@@ -617,7 +617,7 @@ It is highly likely that the 4K content will be encoded in HEVC (h.265), the suc
 
 - Nvidia >= GTX 10xx dGPUs
 
-- Intel 7th-13th Gen/Apollo/Gemini Lake CPU w/iGPU
+- Intel 7th-14th Gen/Apollo/Gemini Lake CPU w/iGPU
 
 - AMD >= RX 550/5x00/6x00 dGPUs
 
@@ -658,7 +658,7 @@ Otherwise, if you stick to Ryzen APUs or Intel >= 11th gen CPUs below, any paire
 
 The following CPU iGPUs/APUs are officially supported:  
 
-- Intel 7th-13th (7xxx-13xxx) Gen Core i3/i5/i7/i9, Intel >= 12th gen (G6900/G7400) Celeron/Pentium, Intel N5xxx/N6xxx Jasper Lake (NOT Apollo/Gemini Lake). **(REC: Intel i3-12100+B660 mobo)**  
+- Intel 7th-14th (7xxx-14xxx) Gen Core i3/i5/i7/i9, Intel >= 12th gen (G6900/G7400) Celeron/Pentium, Intel N5xxx/N6xxx Jasper Lake (NOT Apollo/Gemini Lake). **(REC: Intel i3-12100+B660 mobo)**  
 
 - AMD >= Ryzen 3 2x00G APU, >= Athlon 2x0GE/3000G **(REC: Ryzen 4600G+B550 mobo)**
 
