@@ -234,7 +234,7 @@ While media devices are great frontends that are easy to use and navigate, they'
 
 ## What software will I need and how do I set it up?
 
-For the software side of things, there are various tools you may need to take advantage of your HTPC. An OS, media player, media server, ripper, downloader, file renamer, etc.. [This page](http://kodi.wiki/view/Supplemental_tools) has a list of supplemental software relating to HTPCs.
+For the software side of things, there are various tools you may need to take advantage of your HTPC. An OS, media player, media server, ripper, downloader, file renamer, etc.. 
 
 **Operating Systems:** 
 
@@ -288,14 +288,15 @@ For DVD/blu-ray disc playback, both Kodi and VLC (w/[Java 8](https://www.oracle.
 
 For disc ripping and transcoding software, see the [dedicated section](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use) below.  
 
-For an overall sense of how a basic HTPC platform should look with playback, serving, storage, and organization, look at our [diagram here](https://i.imgur.com/gUI1R6z.png).  
-
 If you're planning on replacing cable/sat with similar streaming services, you will find [r/cordcutters](https://www.reddit.com/r/cordcutters/) to be helpful.  
 
 If you'd like to have a podcast, audio podcast or audiobook library in Plex, [see this handy guide](http://www.reddit.com/r/PleX/comments/3avpi9/how_to_create_a_podcast_library_a_video_podcast/).  
 
+For an overall sense of how a basic HTPC platform should look with playback, serving, storage, and organization, look at our [diagram here](https://i.imgur.com/gUI1R6z.png).  
+
 For a comprehensive guide to setting up all the backend organizational/serving software, we can recommend [The Ultimate Server Guide](http://www.cuttingcords.com/home/ultimate-server/getting-started). This guide takes you through Sonarr, Couchpotato, Headphones, Deluge, SabNZBd and [Plex Media Server](https://plex.tv/). The [htpc box guide](https://github.com/sebgl/htpc-download-box) will take you through a more modern installation approach to the stack using Docker containers. The [Servarr Wiki](https://wiki.servarr.com/) is a great reference for all the \*arr software.  
 
+[This page](http://kodi.wiki/view/Supplemental_tools) has a list of additional, supplemental software relating to HTPCs.
 
 ## Can I use my HTPC for streaming from services such as Netflix, Youtube, Amazon, Hulu, etc..? 
 
@@ -530,7 +531,7 @@ The following are the current capabilities of the major streaming services as we
 
 ## How can i rip my DVD/Blu-ray discs and what are some good quality settings to use?
 
-For DVDs and regular HD blu-ray any optical drive that can read the discs will do, internal or external, and you can spend <= $75 on one. For UHD discs, you should have a UHD or UHD-Friendly compatible drive with locked-in firmware. Check our [optical drives section](/wiki/components#optical-drives) above.  
+For DVDs and regular HD blu-ray any optical drive that can read the discs will do, internal or external, and you can spend <= $75 on one. For UHD discs, you should have a UHD or UHD-Friendly compatible drive with locked-in firmware. Check our [optical drives section](/wiki/components#optical-drives) here.  
 
 You should then use software to rip the content off the disc. It's recommended to do this process in two stages, especially if you need content re-encoded for compatibility or space..  
 
@@ -758,5 +759,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2024-04-23*
+*This page was last updated on 2024-04-25*
 
