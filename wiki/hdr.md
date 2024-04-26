@@ -24,6 +24,7 @@
 * *Requirements:*
   * TV/Projector: HDMI >= 2.0/DisplayPort >= 1.3, HDR10, 10-bit panel, [VESA DisplayHDR](https://displayhdr.org/) >= 600
   * HTPC: [HDR-capable PC](/wiki/sample-builds#4k-hdr-players) / [Media Device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc)
+  * Cables: [Premium/Ultra-Certified HDMI Cables](/wiki/components#video-cablesadapters)
 * *TV/Projector settings:*  
   * Must be the **ONLY** display connected to the system before configuration  
   * GPU connected to display's HDMI >= 2.0/DisplayPort >= 1.3 port  
