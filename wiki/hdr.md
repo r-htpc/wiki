@@ -411,7 +411,7 @@ Simple, HDR Passthrough or Tonemapping
 
 * *Requirements:*  
    * Common settings above  
-   * Install Plex HTPC: >= 1.16: ([download](https://www.plex.tv/media-server-downloads/?cat=plex+home+theater&plat=windows#plex-app))  
+   * Install Plex HTPC: Windows: >= 1.16: ([download](https://www.plex.tv/media-server-downloads/?cat=plex+home+theater&plat=windows#plex-app)), Linux: >= 1.60.1: ([download](https://snapcraft.io/plex-htpc))  
    * *Notes:*  
      * If HDR is not configured as per below, HDR will be tonemapped to SDR. Available for Windows, Linux and Mac.  
 * *Plex HTPC settings:*  
@@ -419,6 +419,21 @@ Simple, HDR Passthrough or Tonemapping
      * Settings -> Video
         * Enable HDR Switching: Checked  
         * HDR Metadata Passthrough: Checked  
+* *MPV settings (Linux) **EXPERIMENTAL**:*  
+   *  Create/Edit file: ~/snap/plex-htpc/common/mpv.conf
+      * Add:  
+     `[HDR]`<br>
+     `profile-cond=p["video-params/primaries"] == "bt.2020"`<br>
+     `vo=gpu-next`<br>
+     `hwdec=auto-copy`<br>
+     `target-colorspace-hint=yes`<br>
+     `target-trc=pq`<br>
+     `target-prim=dci-p3`<br>
+     `dolbyvision=no`<br>
+     <!--
+     `target-contrast=inf ##inf is for OLED, for LCD get the contrast value from rtings or similar`<br>
+     `target-peak=700    ## If you have an HDR display, adjust this to the 10% peak`<br>
+     -->
 * *Test*
   * *Plex HTPC app*  
     * Play a [test HDR video](/wiki/hdr#hdr-tests). [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
