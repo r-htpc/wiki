@@ -411,7 +411,7 @@ Simple, HDR Passthrough or Tonemapping
 
 * *Requirements:*  
    * Common settings above  
-   * Install Plex HTPC: Windows: >= 1.16: ([download](https://www.plex.tv/media-server-downloads/?cat=plex+home+theater&plat=windows#plex-app)), Linux: >= 1.60.1: ([download](https://snapcraft.io/plex-htpc))  
+   * Install Plex HTPC: Windows: >= 1.16: ([download](https://www.plex.tv/media-server-downloads/?cat=plex+htpc&plat=windows#plex-app)), Linux: >= 1.60.1: ([download](https://snapcraft.io/plex-htpc))  
    * *Notes:*  
      * If HDR is not configured as per below, HDR will be tonemapped to SDR. Available for Windows, Linux and Mac.  
 * *Plex HTPC settings:*  
