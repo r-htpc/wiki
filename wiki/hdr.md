@@ -22,7 +22,7 @@
 ### **Hardware**
 
 * *Requirements:*
-  * TV/Projector: HDMI >= 2.0/DisplayPort >= 1.3, HDR10, 10-bit panel, [VESA DisplayHDR](https://displayhdr.org/) >= 600
+  * TV/Projector: HDMI >= 2.0/DisplayPort >= 1.3, HDR10, 10-bit panel, [OLED/Mini-LED TV Recommended](https://www.rtings.com/tv/tools/table/136186)
   * HTPC: [HDR-capable PC](/wiki/sample-builds#4k-hdr-players) / [Media Device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc)
   * Cables: [Premium/Ultra-Certified HDMI Cables](/wiki/components#video-cablesadapters)
 * *TV/Projector settings:*  
