@@ -102,7 +102,7 @@ If you can't afford any of these and want to do it more cheaply, you can use/buy
 ## Hardware
  
 ### Pre-Built NAS List  
-**(as of 2023-08-10)**  
+**(as of 2024-03-13)**  
 **STORAGE+SERVICES - 2 drives**  
 
 BRAND		|	MODEL				|	DRIVES	|COST	|	TRANSCODING		|	CPU								|	PASSMARK	|	PM/$|	RAID MODES	| NOTES
