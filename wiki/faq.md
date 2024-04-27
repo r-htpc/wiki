@@ -272,6 +272,10 @@ For a launcher interface to open multiple apps, look at [Flex Launcher](https://
 
 To organize your content, look at Radarr (movies), Sonarr (tv), Lidarr (music) and Bazarr (subtitles). You can use these together to keep your content in properly named files/folders for Plex, retrieve subtitles and show you what content you have or don't have. You can interface with these using their respective web interfaces or with an app like [nzb360](https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360&hl=en_US&gl=US) on an android device. For metadata management, look at [Media Hoarder](https://media.hoarder.software). For file management, look at [Total Commander](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander) [w/LAN plugin](https://play.google.com/store/apps/details?id=com.ghisler.tcplugins.LAN) or [X-Plore](https://www.lonelycatgames.com/apps/xplore).  
 
+For an overall sense of how a basic HTPC platform should look with playback, serving, storage, and organization, look at our [diagram here](https://i.imgur.com/gUI1R6z.png).  
+
+For a comprehensive guide to setting up all the backend organizational/serving software, the [HTPC Box Guide](https://github.com/sebgl/htpc-download-box) will take you through a modern installation approach to the stack using Linux & Docker containers. The [TRaSH Guide](https://trash-guides.info/Hardlinks/How-to-setup-for/) is a good supplement to this. For Windows, we can recommend [The Ultimate Server Guide](http://www.cuttingcords.com/home/ultimate-server/getting-started); even though it's old, the concepts are the same. The [Servarr Wiki](https://wiki.servarr.com/) is a great reference for all the \*arr software.  
+
 **Gaming/Emulation:** 
 
 For game emulation, look at [Batocera](https://batocera.org/), [LibreElec](https://libreelec.tv/downloads/) w/Retroarch, or [Lakka (RetroArch on a stick)](https://www.lakka.tv/) on **Linux/dedicated OS**; [RetroArch](https://www.retroarch.com/?page=platforms), [EmulationStation DE](https://es-de.org/) or [Launchbox Big Box](https://www.launchbox-app.com/premium) on **Windows**; RetroArch or [OpenEmu](https://openemu.org/) on **Mac**; [Lemuroid](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid&hl=en_US&gl=US) or RetroArch on **Android**; [Provenance](https://github.com/Provenance-Emu/Provenance) on **Apple TV**. [Nostlan](https://github.com/quinton-ashley/nostlan) for 4k displays.  
@@ -291,10 +295,6 @@ For disc ripping and transcoding software, see the [dedicated section](/wiki/faq
 If you're planning on replacing cable/sat with similar streaming services, you will find [r/cordcutters](https://www.reddit.com/r/cordcutters/) to be helpful.  
 
 If you'd like to have a podcast, audio podcast or audiobook library in Plex, [see this handy guide](http://www.reddit.com/r/PleX/comments/3avpi9/how_to_create_a_podcast_library_a_video_podcast/).  
-
-For an overall sense of how a basic HTPC platform should look with playback, serving, storage, and organization, look at our [diagram here](https://i.imgur.com/gUI1R6z.png).  
-
-For a comprehensive guide to setting up all the backend organizational/serving software, we can recommend [The Ultimate Server Guide](http://www.cuttingcords.com/home/ultimate-server/getting-started). This guide takes you through Sonarr, Couchpotato, Headphones, Deluge, SabNZBd and [Plex Media Server](https://plex.tv/). The [htpc box guide](https://github.com/sebgl/htpc-download-box) will take you through a more modern installation approach to the stack using Docker containers. The [Servarr Wiki](https://wiki.servarr.com/) is a great reference for all the \*arr software.  
 
 [This page](http://kodi.wiki/view/Supplemental_tools) has a list of additional, supplemental software relating to HTPCs.
 
@@ -760,5 +760,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2024-04-25*
+*This page was last updated on 2024-04-26*
 
