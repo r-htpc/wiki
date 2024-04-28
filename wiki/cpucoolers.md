@@ -50,6 +50,7 @@ Noctua NH-L12				| 66/93mm | $55 | 95W | 92mm/120mm | LGA775/115x/1366/201x/2066
 ID Cooling IS-60 EVO ARGB	| 49/64mm | $50 | 130W | 120mm | LGA115x/FMx/AMx | 4 | 49mm w/o fan. 64mm w/stock 15mm. not as good/quiet as big shur 3, but shorter
 Noctua NH-L12 Ghost			| 66mm | $55 | 95W | 92mm | LGA775/115x/1366/201x/2066/FMx/AMx (seperate AM4 kit) | **5** | Successor to NH-L12
 **\*Thermalright AXP120-X67**		| 67mm | $40 | 165W | 120mm | LGA115x/1200/1700/201x/2066/AM4 | **5** | 26.1 dbA 
+Deepcool AN600			| 67mm | $55 | 180W | 120mm | LGA115x/1200/1700/AMx | 4 | 24.4dbA - 40mm ram
 AMD Spire Stock			| 68 / 71mm | NA | 95W | NA | AM4 | 4 | -3mm shroud removed - LED 1700/2700
 AMD Spire Stock			| 68 / 71mm | NA | 95W | NA | AM4 | 4 | -3mm shroud removed - NO LED 1500X/1600/2600X/3400G/3600X
 Arctic Alpine 12 Passive		| 69mm | $18 | 47W | NA | LGA115x | 4 | NA
