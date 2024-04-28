@@ -148,5 +148,5 @@ AMD : Noctua NH-L12/s, Thermalright AXP120-X67
 
 --- 
 
-*This page was last updated on 2024-04-23*
+*This page was last updated on 2024-04-28*
 
