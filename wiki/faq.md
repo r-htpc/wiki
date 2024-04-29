@@ -67,9 +67,9 @@ An advanced setup with might have a server/storage tucked away somewhere and one
 
 Setups vary and there are many ways to do things. Finding the best way for you takes some time and research.  
 
-In the next section are listed some quick-fire pre-built solution recommendations for client and server hardware based on common use-cases, with DiY [components](/wiki/components) and special scenarios further below. Detailed, complete PC solutions can be found in the [Building/Buying](/wiki/sample-builds) page of the Wiki. 
+In the next section are listed some quick-fire pre-built solution recommendations for client and server hardware based on common use-cases. If you're not satisfied with those for your use-case, detailed, complete solutions can be found in the [Building/Buying](/wiki/sample-builds) page, with DiY [components](/wiki/components) in their own page.  
 
-Once you build/buy your solution, you can then follow the setup in the appropriate sections of the video/audio/storage pages of the Wiki mentioned above to connect and configure the individual pieces.  
+Once you build/buy your solution, you can then follow the recommendations in the [software](/wiki/faq#what-software-will-i-need-and-how-do-i-set-it-up) section and connect/configure things via the [audio](/wiki/audio) and [video](/wiki/video) pages.  
 
 <!-- Section -->
 
