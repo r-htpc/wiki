@@ -449,7 +449,7 @@ CASE		|HP/Dell/Lenovo	|	$70	|	[Ebay](https://www.ebay.com/sch/i.html?_fsrp=1&rt=
 CPU/GPU		|Intel i5-7500T	|	Included|	NA|		ALT: [i5-8500T](https://www.ebay.com/sch/i.html?_fsrp=1&rt=nc&_from=R40&LH_TitleDesc=0&LH_PrefLoc=2&_nkw=\(hp%2Cdell%2Clenovo\)+\(i5-8500t%2Ci5-8600t\)&_sacat=179&LH_BIN=1&_sop=15&_udhi=150&LH_ItemCondition=3000) ($+30)
 MEM			|8 GB+ DDR4|	Included|	NA|		NA
 STORAGE		|256GB M.2 SSD (OS/APPS)		|	$25|	[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=240000000000,22000000000000&t=0&sort=price&f=122030,122042,122060,122080)|		OPTIONAL, If not included in ebay build.
-STORAGE		|WD 8-16TB USB HDD (MEDIA)		|$160-280		|	[Best Buy](https://www.bestbuy.com/site/wd-easystore-8tb-external-usb-3-0-hard-drive-black/6425302.p?skuId=6425302&utm_source=feed)		| OPTIONAL, if not included in ebay build or don't have. ALT: [2.5" SATA HDD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=900000000000,22000000000000&sort=price&f=3&t=5000,5200,5400,5640,5700,5760,5900,5940,7200&page=1)
+STORAGE		|WD 8-20TB USB HDD (MEDIA)		|$160-350		|	[Best Buy](https://www.bestbuy.com/site/wd-easystore-8tb-external-usb-3-0-hard-drive-black/6425302.p?skuId=6425302&utm_source=feed)		| OPTIONAL, if not included in ebay build or don't have. ALT: [2.5" SATA HDD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=900000000000,22000000000000&sort=price&f=3&t=5000,5200,5400,5640,5700,5760,5900,5940,7200&page=1)
 ACCESSORY	|DP to HDMI Cable	|	$10	|	[Amazon](https://www.amazon.com/Amazon-Basics-Uni-Directional-DisplayPort-Display/dp/B015OW3M1W)	| OPTIONAL, for mgmt. 6 ft
 OS			|Ubuntu 22/Windows 10 Pro				|$0			|	[Ubuntu](https://ubuntu.com/download)	|	
 SOFTWARE	|Plex Media Server						|$0			|	[Plex](https://www.plex.tv/downloads)	|	Free
@@ -491,7 +491,7 @@ PC			|Lenovo M710S SFF PC					|$90		|	[Ebay](https://www.ebay.com/sch/i.html?_fr
 CPU			|Intel i5-7400							|Included	|	NA			|	65 W, 4C/4T. ALT: [i5-8400](https://www.ebay.com/sch/171957/i.html?_from=R40&_nkw=%28m720s%2Cm920s%2C720t%2Cm920t%29+%288400%2C8500%2C8600%2C8700%29&LH_TitleDesc=0&_sop=15&LH_PrefLoc=2&_udhi=250) (+$20)
 MEM/STORAGE	|8GB RAM, HDD/SSD/Bare					|Included	|	NA			|	
 STORAGE		|WD Blue SN570 500GB M.2 NVMe SSD (OS/APPS)		|$35		|	[Amazon](https://www.amazon.com/dp/B09HKG6SDF)		| OPTIONAL, if not included in ebay build.
-STORAGE		|WD 8-20 TB 3.5" SATA HDD (MEDIA)		|$100-280		|	[Ebay](https://www.ebay.com/sch/i.html?_fsrp=1&rt=nc&_from=R40&_nkw=%28wd%2Cwestern%29+%288tb%2C10tb%2C12tb%2C14tb%2C16tb%2C18tb%2C20tb%29+-blue+-purple+-gold&_sacat=56083&LH_BIN=1&LH_TitleDesc=0&_sop=15&LH_ItemCondition=1000%7C1500)		| OPTIONAL, if not included in ebay build or don't have.
+STORAGE		|WD 8-20 TB 3.5" SATA HDD (MEDIA)		|$100-350		|	[Serverpartdeals](https://serverpartdeals.com/collections/wd-ultrastar-sata-hard-drives?sort=price-ascending&pf_t_condition=condition%3AManufacturer+Recertified&pf_t_condition=condition%3ANew)		| OPTIONAL, if not included in ebay build or don't have.
 ACCESSORY	|DP to HDMI Cable	|	$10	|	[Amazon](https://www.amazon.com/Amazon-Basics-Uni-Directional-DisplayPort-Display/dp/B015OW3M1W)	| OPTIONAL, for mgmt. 6 ft
 OS			|Ubuntu 22/Windows 10 Pro				|$0			|	[Ubuntu](https://ubuntu.com/download)	|	
 SOFTWARE	|Plex Media Server						|$0			|	[Plex](https://www.plex.tv/downloads)	|	Free
