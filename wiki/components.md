@@ -475,8 +475,8 @@ MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Has mini keyboard, Air Mouse
 [HTWebRemote](https://github.com/nicko88/HTWebRemote)	|	Free	|	LAN		|	NA	|	NA	|	Software to create web-accessible remote on Windows/[Linux](https://github.com/nicko88/HTWebRemoteHost) HTPC to control multiple devices. [Contact](https://www.reddit.com/message/compose/?to=SirMaster)
 [Unified Remote](https://www.unifiedremote.com/)	|	Free/$5	|	LAN		|	NA	|	NA	|	Software to create app-accessible remote on Windows/Linux HTPC to control multiple devices
 [DS4Windows](https://ds4-windows.com/)	|	Free	|	NA		|	NA	|	NA	|	Software to use PS (DS3/DS4/DS5) controllers as mouse/remote
-[Controller Companion](https://store.steampowered.com/app/367670/Controller_Companion/)	|	$2.99	|	NA		|	NA	|	NA	|	Software to use Xbox/XInput controllers as keyboard/mouse/remote
 [JoyXOff](https://joyxoff.com/en/)	|	Free	|	NA		|	NA	|	NA	|	Software to use Xbox/XInput controllers as keyboard/mouse/remote
+[Controller Companion](https://store.steampowered.com/app/367670/Controller_Companion/)	|	$2.99	|	NA		|	NA	|	NA	|	Software to use Xbox/XInput controllers as keyboard/mouse/remote
 [Netflix Remote Controller](http://sticky-ux.com/apps/NetflixRemoteController/)		|	Free	|	NA		|	NA	|	NA	| Software to control Windows Netflix app from keyboard/remote
 
 (1) Discontinued  
