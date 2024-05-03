@@ -329,8 +329,7 @@ Legend: PT: Passthrough, DC: Decode, LS: Lossy, LL: LossLess, DD: Dolby Digital,
 
 BRAND/MODEL|PRICE|RESOLUTION|4k NETFLIX?|HDR?|WIFI?|LAN?|VOICE SEARCH?|USB?|NOTES
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--
-[Raspberry Pi 4b](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) ([buy](https://www.pishop.us/product/raspberry-pi-4-model-b-1gb/))|$36|4k@60 (2)|No|YES (2)|ac|1000M|No|YES (8b)|HDR10/HLG, LL DTHD/DTS-HD, BT 5.0
-[Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/) ([buy](https://www.pishop.us/product/raspberry-pi-5-4gb/))|$60|4k@60 (4)|No|YES (2)|ac|1000M|No|YES (8b)|HDR10/HLG, LL DTHD/DTS-HD, BT 5.0
+[Raspberry Pi 4b](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) / [5](https://www.raspberrypi.com/products/raspberry-pi-5/) ([buy](https://www.pishop.us/product/raspberry-pi-4-model-b-1gb/)/[buy](https://www.pishop.us/product/raspberry-pi-5-4gb/))|$36/$60|4k@60 (2,4)|No|YES (2)|ac|1000M|No|YES (8b)|HDR10/HLG, LL DA/DTSX w/LibreElec, BT 5.0
 [Odroid C4](https://www.hardkernel.com/shop/odroid-c4/) ([buy](https://www.hardkernel.com/shop/odroid-c4/))|$55|4k@60|No|YES (6)|Opt|1000M|No|YES (8b)|S905X3/4GB RAM. HDR10, PT:**LL DA/DTSX** w/CoreElec
 [Odroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ([buy](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/))|$66|4k@60|No|YES (6)|Opt|1000M|No|YES (8b)|S922x/2GB RAM/8 GB SD. HDR10, PT:**LL DA/DTSX** w/CoreElec
 [Dune HD Box R Plus](https://www.dune-hd.com/products/homatics-box-r-4k-plus) ([buy](https://www.dune-hd.com/products/homatics-box-r-4k-plus))|$150|4k@60|No|YES (6)|ax|1000M|No|YES (8b)|S905X4-K/4GB RAM/32 GB SD. HDR10+/**DV-5/7/8**, PT:**LL DA/DTSX** w/CoreElec
@@ -362,8 +361,6 @@ Mini PC: Intel N100 ([buy](https://www.amazon.com/s?k=n95+n100+mini+pc&crid=GPL0
 Mini PC: [Intel NUC i3/i5/i7](https://www.intel.com/content/www/us/en/products/boards-kits/nuc.html) ([buy](https://www.newegg.com/p/pl?N=100008345%20601398037%20601398023%20601398021%20601398031%20601407140%20601398048%20601398010%20601398014%20601398049%20601398018%20601398044%20601398008%20601398042%20601398025%20601398029%20601398043%20601398019%2050001157&SrchInDesc=-hunsn%2C-Aittact&Order=1))|$300-$900|4k@60|YES|YES|ac|1000M|NO|YES (8b)|HDR10, AV1 (3), PT:**LL DA**/DTSX. add $45 for 8GB RAM/128GB SSD
 
 NOTE: Buy links to Amazon go through Amazon Smile to support your favorite charity
-
-(1) Yes, it will do 4k, but at an abysmal 4k@15Hz
 
 (2) 4k and HDR support using [LibreElec](https://libreelec.tv) >= 10.0.2 and Kodi 
 
@@ -761,5 +758,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2024-04-26*
+*This page was last updated on 2024-05-03*
 
