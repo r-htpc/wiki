@@ -9,7 +9,7 @@
 
 Please read the Video Formats and Transports sections before you embark on the Setup section below it, so you understand the terms and concepts mentioned.  
 
-For simplicity, the term "HTPC" here can mean either a PC or a streaming device, like a Roku/Fire TV/etc, except where differences are noted.  
+For simplicity, the term "HTPC" here means a PC, not a streaming device, like a Roku/Fire TV/etc, except where  noted.  
 
 <!-- Sub-Section -->
 
@@ -68,8 +68,8 @@ Displayport (Alternate mode): Digital. Displayport/USB->HDMI cable/adapter
 **HDR Types**
 
 HDR10: Very common. Very compatible. Static Metadata. 400-4000 cd/m2. 10-bit color.  
-HDR10+: Not common. Dynamic Metadata. 1000-4000 cd/m2. 10-bit color.  
-Dolby Vision: Very common. Not very compatible, esp. with local content. Dynamic Metadata. 1000-4000 cd/m2. 12-bit color.  
+HDR10+: Not common. Dynamic Metadata. 1000-4000 cd/m2. 10-bit color. **Not playable on a HTPC**  
+Dolby Vision: Very common. Not very compatible, esp. with local content. Dynamic Metadata. 1000-4000 cd/m2. 12-bit color. **Not playable on a HTPC**  
 HLG: Not common. No metadata. SDR & HDR in same signal. 1000 cd/m2 nominal. 10-bit color.  
 
 **Color Technologies**
@@ -441,15 +441,15 @@ If the media you're watching does not have a framerate that's a multiple of your
 
 ### What kind of video is supported for streaming services?
 
-See [Wiki:FAQ:What resolution and audio is supported on streaming service X?](https://r-htpc.github.io/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x)
+See [Wiki:FAQ:What resolution and audio is supported on streaming service X?](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x)
 
 <!-- Sub-Section -->
 
 ### Why won't my video signal remain stable?
 ### Why doesn't my video signal go up to the stated resolution/refresh rate?
 
-1. You may be using a bad or inadequately speced HDMI cable. Use a [better cable](https://r-htpc.github.io/wiki/components#video-cablesadapters)
-2. Your total HDMI cable length may be too long for the resolution/refresh you want to use. Use [shorter cables or cables designed for long runs](https://r-htpc.github.io/wiki/components#video-cablesadapters)
+1. You may be using a bad or inadequately speced HDMI cable. Use a [better cable](/wiki/components#video-cablesadapters)
+2. Your total HDMI cable length may be too long for the resolution/refresh you want to use. Use [shorter cables or cables designed for long runs](/wiki/components#video-cablesadapters)
 3. If for 4k: Your Display's HDMI port may not be set to the proper signal format. You should set it to *UHD Deep Color/Input Signal Plus/Enhanced* on the Display (setting name dependent on TV mfgr). If a Sound System is in-between your HTPC and TV, you should set your Sound System's HDMI port to a HDMI Format/4k Signal Format of *Enhanced*, where available.
 4. You may have a bad HDMI port on your Display, GPU, or an in-between Sound System. Try a different port.
 5. You're using too many cable segments in the HDMI cable run from the HTPC to Display. You should limit the amount of segments to 2. HTPC->TV would be 1. HTPC->AVR->TV would be 2. HTPC->AVR->Wall jack->TV would be 3. If you have a wall jack behind the TV AND behind the AVR, that's 4. You can *usually* make up for using more segments with shorter or better cables.
