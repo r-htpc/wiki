@@ -356,7 +356,8 @@ POTPLAYER:
    - Audio Renderer: Built-in WASAPI Audio Renderer -> "..." button
      - Use exclusive mode: checked, Device: \<audio device you will be using for bitstreaming\> 
    - Set Built-In Audio Decoder->Pass Through->Set "Default Pass-through Muxer" for the codecs your sound system supports decoding
-2. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
+2. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.
+3. If not playing correctly, check the Playback/System Information screen (Cntrl-F1) that the Audio Info decoder is using "Built-In WASAPI.." and not something else.  
 
 VLC:  
 1. Tools->Preferences->Show Settings (All)->Audio
