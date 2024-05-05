@@ -762,7 +762,7 @@ Dolby Atmos (DD+/Lossy): [5.1.2 trailer](https://download.dolby.com/us/en/test-t
 
 [DTS-HD MA 5.1](https://www.demolandia.net/downloads.html?id=30191483) / [DTS-HD MA 5.1 Channel Call-out](https://drive.google.com/file/d/1WMteezMh77_xk77ZfE3-8GTJBlGolv47/view?usp=sharing) / [DTS-HD MA 7.1](https://www.demolandia.net/downloads.html?id=4397041) / [DTS-HD MA 7.1 Channel Call-out](https://drive.google.com/file/d/1LK1C_CoNgufMcIPCCSH5PGusdxBFUIuy/view?usp=sharing)  
 
-[DTS:X 11.1](https://www.demolandia.net/downloads.html?id=87980801)  
+[DTS:X 7.1.4 Channel Call-out](https://drive.google.com/file/d/15cynNiLCt5yvr3E1uavYSEoOU2UDWmO4/view?usp=sharing)  
 
 [LPCM 5.1](https://www.jensign.com/bdp95/7dot1voiced/index.html), [ALTERNATIVE 1](https://www2.iis.fraunhofer.de/AAC/ChID-BLITS-EBU-Narration441-16b.wav), 
 [ALTERNATIVE 2](https://www.lynxstudio.com/downloads/aes16e/sample-wav-file-zip-encoded-44-1khz-pcm-24-5-1-surround/) / 
@@ -889,5 +889,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2024-04-29*
+ *This page was last updated on 2024-05-05*
 
