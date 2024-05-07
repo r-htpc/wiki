@@ -576,6 +576,8 @@ See above sections [Setup For Color Conversion/Reproduction](/wiki/video#setup-f
 
 ### Where do I find additional sample video files to test?
 
+These files must be downloaded for the media player(s) you are testing against. Do NOT play them in your browswer.  
+
 [AVS HD 709 Test Patterns](https://www.avsforum.com/threads/avs-hd-709-blu-ray-mp4-calibration.948496/) - For video calibration  
 
 [Judder Tests](https://drive.google.com/file/d/176bowvl5QMIw3TNbBFTaeax1aWf7WpG0/view?usp=sharing) - Tests for judder at varying frame rates  
