@@ -747,7 +747,7 @@ HTBuyingGuides' [Speaker recommendations](https://www.reddit.com/r/HTBuyingGuide
 
 ### Where do I find sample audio files to test?
 
-These files must be downloaded for the media player(s) you are testing against. Do NOT play them in your browswer.  
+These files must be downloaded for the media player(s) you are testing against. Do NOT play them in your browser.  
 
 [Dolby Digital 5.1](https://www.demolandia.net/downloads.html?id=40997883)  
 
