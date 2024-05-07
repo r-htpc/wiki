@@ -582,6 +582,8 @@ See above sections [Setup For Color Conversion/Reproduction](/wiki/video#setup-f
 
 Frame Rate Tests - Known-good test files with a variety of motion - [23.976 fps](https://drive.google.com/file/d/1fmE-ois5fzwVlGccBf3HbBqjv5R_Etv5/view?usp=sharing), [24 fps](https://drive.google.com/file/d/1NWdrqmUHg4E_qMiSWoIp1AmV7Ulwm-zb/view?usp=sharing), [25 fps](https://drive.google.com/file/d/1UimhkIaljhhP3jbuHM75h7yk_WRwkxwQ/view?usp=sharing), [29.97 fps](https://drive.google.com/file/d/1K2khAth6dXg3Y1x3crKbaYrR7aRy3q_D/view?usp=sharing)   
 
+Audio Sync Tests - [1080p/H264/60fps/AAC](https://drive.google.com/file/d/18yl9Kk-ciweGBhkbUTr8aypc_PEXcr5n/view?usp=sharing), [1080p/HEVC/23.98fps/PCM](https://drive.google.com/file/d/1SSxzFXO7OfN4CVxrPTr_Er9CCD1uixFc/view?usp=sharing), [1080p/HEVC/24fps/PCM](https://drive.google.com/file/d/1rijuG0QrRsnRnLfrXqI741BtbOrD0Hu7/view?usp=sharing), [1080p/HEVC/29.97fps/PCM](https://drive.google.com/file/d/1M3DjDtwtpTckWze1crDcBa57hlLlUKtO/view?usp=sharing)  
+
 [Jellyfish Video Bitrate Test Files](http://www.larmoire.info/jellyfish/) - 1080p/4k, h.264/HEVC, 30 fps, High/Main (8-bit), Main10 (10-bit), MKV  
 
 [Ideal 4K HEVC test](http://www.larmoire.info/jellyfish/media/jellyfish-140-mbps-4k-uhd-hevc-10bit.mkv) - Max UHD Blu-Ray bitrate - 4k, HEVC, SDR, 140Mbps, 10-bit, 30fps, mp4  
@@ -622,5 +624,5 @@ Frame Rate Tests - Known-good test files with a variety of motion - [23.976 fps]
 
 ---
 
-*This page was last updated on 2024-05-04*
+*This page was last updated on 2024-05-07*
 
