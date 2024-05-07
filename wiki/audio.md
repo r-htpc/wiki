@@ -775,6 +775,8 @@ Dolby Atmos (DD+/Lossy): [5.1.2 trailer](https://download.dolby.com/us/en/test-t
 
 [FLAC 4.0/5.0/5.1/7.1](https://drive.google.com/file/d/1dWB93rzbd3tuHckQH8ZisnJd7NDgApoe/view)  
 
+Audio Sync Tests: [1080p/H264/60fps/AAC](https://drive.google.com/file/d/18yl9Kk-ciweGBhkbUTr8aypc_PEXcr5n/view?usp=sharing), [1080p/HEVC/23.98fps/PCM](https://drive.google.com/file/d/1SSxzFXO7OfN4CVxrPTr_Er9CCD1uixFc/view?usp=sharing), [1080p/HEVC/24fps/PCM](https://drive.google.com/file/d/1rijuG0QrRsnRnLfrXqI741BtbOrD0Hu7/view?usp=sharing), [1080p/HEVC/29.97fps/PCM](https://drive.google.com/file/d/1M3DjDtwtpTckWze1crDcBa57hlLlUKtO/view?usp=sharing)  
+
 <!-- Section -->
 
 ## Accessories
@@ -892,5 +894,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2024-05-05*
+ *This page was last updated on 2024-05-07*
 
