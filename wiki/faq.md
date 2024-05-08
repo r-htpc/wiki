@@ -252,9 +252,9 @@ For Android ports to PC look at [Android x86](https://www.android-x86.org/) or [
 
 For [video streaming services](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x), use Microsoft Edge to get 1080p+, or the service's app (if available).  
 
-For simple media players, using local content, [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases), [VLC](https://www.videolan.org/vlc/) and Pot Player are popular on Windows, with [VLC](https://www.videolan.org/vlc/) on Linux.  
+For simple media players, using local content, [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases), [VLC](https://www.videolan.org/vlc/) and [MPC-HC](https://github.com/clsid2/mpc-hc/releases/) are popular on Windows, with [VLC](https://www.videolan.org/vlc/) on Linux.  
 
-If [HDR passthrough](/wiki/hdr) is what you're looking for, then look at [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases), [VLC](https://www.videolan.org/vlc/) or Kodi. For high-end video upscaling or HDR tonemapping, look at getting the [madVR](http://madshi.net/madVR.zip) renderer for MPC-BE, Kodi, or Potplayer. For FPS upscaling, [SmoothVideo Project](https://www.svp-team.com/).  
+If [HDR passthrough](/wiki/hdr) is what you're looking for, then look at [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases), [VLC](https://www.videolan.org/vlc/) or Kodi. For high-end video upscaling or HDR tonemapping, look at getting the [madVR](http://madshi.net/madVR.zip) renderer for MPC-BE, Kodi, or MPC-HC For FPS upscaling, [SmoothVideo Project](https://www.svp-team.com/).  
 
 But perhaps you want a more full-featured player/interface..  
 
