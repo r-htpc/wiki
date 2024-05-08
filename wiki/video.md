@@ -181,7 +181,7 @@ See also: [Audio Software](/wiki/audio#audio-software)
 8. PotPlayer  
  - MadVR integration  
  - HDR support (via MadVR)  
- - NOT open source
+ - NOT open source, not recommended
 
 **3rd Party**
 
@@ -359,7 +359,7 @@ Kodi:
 3. Settings->Player->Videos->Allow hardware acceleration - DXVA2: Enable  
 4. Press 'O' during playback to test for (HW) video decoder  
   
-Potplayer: TODO  
+Potplayer: F5 Key->Filter Control->Video Decoder->Built-in Video..->Use DXVA: Enable, Codecs your GPU supports: VLD  
 
 <!-- Sub-Section -->
 
