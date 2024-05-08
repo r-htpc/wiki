@@ -1,4 +1,4 @@
-# FAQ
+# Frequently Asked Questions
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--
@@ -10,6 +10,8 @@
 -->
 
 *This page is best viewed with a PC web browser.*  
+
+If you're new to HTPCs, you should work your way through this page before moving on to other, more specific pages in our Wiki.  
 
 <!-- Section -->
 
@@ -27,14 +29,13 @@ Media can be video content from [ripped personal discs](/wiki/faq#how-can-i-rip-
 
 As computing power has gotten smaller and smaller, traditional PCs have given way to integrated media devices which have blurred the line over what a PC is.
 
-A media device such as a Roku player is very small and performs most of the functions a PC does, with CPU, memory, storage, operating system, etc.. The biggest distinction is that [these devices](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) are usually designed specifically for playing media in a Home Theater setting.
+A media device such as a Roku player is very small and performs most of the functions a PC does, with CPU, memory, storage, operating system, etc.. The biggest distinction is that [these devices](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) are usually designed specifically for playing media in a Home Theater setting. 
 
-MOST of these small devices simply act as clients (they may not even connect to a server in your setup, but simply to internet streaming services, like Netflix), 
-but a small, powerful few also can act as servers.
+MOST of these small devices simply act as clients; to internet streaming services, like Netflix and/or personal content you have on local or network storage. 
 
-An example would be the Nvidia Shield TV. It is a powerful integrated device with an android media interface when connected to a TV. It also can have storage on it which allows you to install server software (like Plex for example) and serve media to other clients in your home.
+An example would be the Nvidia Shield TV. It is a powerful integrated device that's remote-oriented, with an Android media interface, supporting a wide range of streaming services, HDR and HD audio and video codecs for local content. It also can have storage connected to it which makes it a good all-in-one device.
 
-This can be confusing; it's not a traditional HTPC per-se, but performs the functions of one.
+**This can be confusing**; it's not a traditional HTPC per-se, but performs the functions of one. Both traditional HTPCs and media devices have their place. Each is better at different things. Media devices are better as a front-end, as things like ease of navigation and streaming service video/audio support is king. A traditional HTPC is better at being flexible; running wide-ranging programs and utility, high-end gaming, web browsing, doing high-end video and audio processing or transcoding, and the ability to be a server and holds large amounts of storage. For more arguments for/against, read our [section](/wiki/faq#why-would-i-use-a-pc-over-a-media-device-roku-firetv-shield-etc-for-a-htpc) below. 
 
 Below we'll advise you on how to get started with a HTPC.
 
