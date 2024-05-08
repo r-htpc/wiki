@@ -7,8 +7,8 @@
 <!-- ## Content -->
 ---
 
-### [FAQ](/wiki/faq) 
-- Information about getting help, quick-fire RECs, software, client media devices, HTPC tech, common questions, etc..
+### [Frequently Asked Questions](/wiki/faq) 
+- Start here. Information about getting help, quick-fire RECs, software, HTPC concepts/limitations, media devices.
 
 ### [Sample Pre-Built / DiY Builds](/wiki/sample-builds) 
 - Sample builds to help you get started with a HTPC, media server, NAS, gaming emulation or VR build
