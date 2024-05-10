@@ -207,11 +207,10 @@ Recs Bolded
 
 BRAND 						|	SIZE | PCIE/INT | FORM | READ/WRITE | TBW  | CACHE	 | WARRANTY | USE | NOTES
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--
-Silicon Power A60				|	1TB		 | 3.0x4|	M.2 		|2200/1600	 | 600  | YES:SLC 	 | 5 yr 	 | CACHE | BEST $/GB, $40
-**Sabrent Rocket** 					|	1TB		 | 3.0x4|	M.2 		|3400/3000	 | 1620 | YES:D3	 | 5 yr 	 | CACHE | BEST $/TBW, SB-ROCKET, $80
+Silicon Power A60				|	1TB		 | 3.0x4|	M.2 		|2200/1600	 | 600  | YES:SLC 	 | 5 yr 	 | CACHE | BEST $/GB, $60
 **SK Hynix P31**				|	1TB		 | 3.0x4|	M.2 		|3500/3200	 | 750  | YES 		 | 5 yr 	 | STORE | $65
 Samsung 970 Evo+			|	1TB		 | 3.0x4|	M.2 		|3500/3300	 | 600  | YES 		 | 5 yr 	 | STORE | $55
-Sabrent Rocket					|	1TB		 | 4.0x4|	M.2 		|5000/4400	 | 1650 | YES 		 | 5 yr 	 | CACHE | SB-ROCKET-NVMe4, $80
+**Sabrent Rocket**					|	1TB		 | 4.0x4|	M.2 		|5000/4400	 | 1650 | YES 		 | 5 yr 	 | CACHE | BEST $/TBW, SB-ROCKET-NVMe4, $80
 **SK Hynix P41**				|	1TB		 | 4.0x4|	M.2 		|7000/6500	 | 750  | YES 		 | 5 yr 	 | STORE | $90
 **Kingston Fury Renegade**		|	1TB		 | 4.0x4|	M.2 		|7300/6000	 | 1000 | YES 		 | 5 yr 	 | STORE | $80
 Sabrent Rocket 4+ 				|	1TB		 | 4.0x4|	M.2 		|7000/5400	 | 700  | YES 		 | 5 yr 	 | STORE | SB-RKT4P, $90
