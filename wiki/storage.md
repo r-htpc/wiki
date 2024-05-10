@@ -118,7 +118,7 @@ Terramaster	|	F2-223				|	2	|	$260	|	Some/4k (1b)	|	x64 (Celeron N4505)	|		2241	
 
 BRAND		|	MODEL				|	DRIVES	|COST	|	TRANSCODING		|	CPU								|	PASSMARK	|	PM/$|	RAID MODES	| NOTES
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--
-Terramaster	|	F4-424 Pro				|	4	|	$700	|	4k (1a)	|	x64 (i3-N305) 3.8 Ghz	|		10060	|	14.37	|RAID 0/1/5/6/10,JBOD,Single|ext4/btrfs, 32GB RAM, 2x2.5 Gb/s
+Terramaster	|	F4-424 Pro				|	4	|	$700	|	4k (0a)	|	x64 (i3-N305) 3.8 Ghz	|		10060	|	14.37	|RAID 0/1/5/6/10,JBOD,Single|ext4/btrfs, 32GB RAM, 2x2.5 Gb/s
 **Terramaster**	|	**F4-424**				|	4	|	$500	|	4k (1a)	|	x64 (Celeron N95) 3.4 Ghz	|		5419	|	10.83	|RAID 0/1/5/6/10,JBOD,Single|ext4/btrfs, 8GB RAM, 2x2.5 Gb/s
 **QNAP**		|	**TS-364-4G**				|	3	|	$450	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094	|	 9.09	|RAID 0/1/5,JBOD,Single|ext4, 4GB RAM, 2.5 Gb/s
 Terramaster		|	[F4-423](https://www.terra-master.com/us/f4-4607.html)				|	4	|	$500	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094	|	 8.18	|RAID 0/1/5/6/10, JBOD, Single|ext4/btrfs, 4GB RAM , 2.5 Gb/s
@@ -153,6 +153,7 @@ LEGEND
 Passmark = [CPU performance](https://www.cpubenchmark.net/cpu.php). Higher is better.  
 PM/$ = Passmark per $. Higher is better.  
 Transcoding = Plex transcoding ability, referenced in [plex's transcoding spreadsheet](https://docs.google.com/spreadsheets/d/1MfYoJkiwSqCXg8cm5-Ac4oOLPRtCkgUxU0jdj3tmMPc/edit#gid=1274624273)  
+(0a) HW Transcoding: 3x 4k or 14x 1080p. SW Transcoding: 4x 1080p  
 (1a) HW Transcoding: 2x 4k or 10x 1080p. SW Transcoding: 2x 1080p
 (1b) HW Transcoding: 1x 4k or 4x 1080p. SW Transcoding: 1x 1080p + 1x 720p  
 (2) HW Transcoding: 1x 4k or 3x 1080p. SW Transcoding: 1x 1080p  
@@ -363,5 +364,5 @@ If your storage is on a windows-based OS, [follow these instructions](https://su
 
 ---
 
-*This page was last updated on 2024-04-25*
+*This page was last updated on 2024-05-10*
 
