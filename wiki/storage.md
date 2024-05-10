@@ -332,7 +332,7 @@ Disc = Discontinued
 
 ## Software
 
-OS: [Unraid](https://unraid.net), [TrueNAS](https://www.truenas.com/truenas-core/), [Openmediavault](https://www.openmediavault.org/), [Ubuntu Server](https://ubuntu.com/download/server), [Rockstor](http://rockstor.com)  
+OS: [Unraid](https://unraid.net), [TrueNAS](https://www.truenas.com/truenas-scale/), [Openmediavault](https://www.openmediavault.org/), [Ubuntu Server](https://ubuntu.com/download/server), [Rockstor](http://rockstor.com)  
 
 Software mgmt: Docker
 
