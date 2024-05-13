@@ -303,7 +303,15 @@ If you'd like to have a podcast, audio podcast or audiobook library in Plex, [se
 
 Yes, however the interface quality and functionality varies widely and remote control support is almost non-existent. The services will detect your device as a PC and present you with their standard web or app-based interface. It may be up to you to start videos and expand them to full-screen.  
 
-If you don't plan on using a [keyboard/mouse-like device](/wiki/components#keyboardsremotesgamepads), then streaming services on a PC will be painful. There are some workarounds like [software](/wiki/components#keyboardsremotesgamepads) to emulate a mouse on game controllers/mobile and things like the [Leanback interface](https://redd.it/y5o7mi) for Youtube. If those things aren't good enough for you, then you should buy a remote-based [media device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) from the next section instead.  
+If you don't plan on using a [keyboard/mouse-like device](/wiki/components#keyboardsremotesgamepads), then streaming services on a PC will be painful. There are some workarounds like [software](/wiki/components#keyboardsremotesgamepads) to emulate a mouse on game controllers/mobile.  
+Other possible solutions are:  
+* Youtube: <code>chrome.exe --kiosk --enable-extensions --user-agent=Xbox https://www.youtube.com/tv</code> OR [Leanback interface](https://redd.it/y5o7mi)
+* Netflix: <code>chrome.exe --kiosk --enable-extensions https://www.netflix.com</code> + [Netflix Navigator](https://netflixnavigator.com) extension
+* Other services: Browser Kiosk mode (<code>chrome --kiosk/msedge --kiosk --edge-kiosk-type=fullscreen</code>) + [TamperMonkey](https://www.tampermonkey.net/) extension + [Stream Assistant](https://github.com/CHJ85/Stream-Assistant) script
+* Keyboard Macros: [AutoHotKey](https://www.autohotkey.com)
+* Launcher: [Flex Launcher](https://github.com/complexlogic/flex-launcher)
+
+If those things aren't good enough for you, then you should buy a remote-based [media device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) from the next section instead.  
 
 Using Windows Store apps for some of these services may be better than using a web browser in terms of video/audio support. 
 
