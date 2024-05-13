@@ -17,10 +17,10 @@
 - Components you should consider for a build. Cases/CPUs/GPUs/Motherboards/Memory/Storage/PSUs/Cooling, Video Cables/Adapters, Remotes, Keyboards
 
 ### [AUDIO Setup Guide](/wiki/audio)
-- How to configure, fix, and explanation of AUDIO between your HTPC and Sound System
+- How to connect, configure, and explanation of AUDIO between your HTPC and Sound System
 
 ### [VIDEO Setup Guide](/wiki/video)
-- How to configure, fix, and explanation of VIDEO between your HTPC and Display
+- How to configure, calibrate, and explanation of VIDEO between your HTPC and Display
 
 ### [HDR Setup Guide](/wiki/hdr)
 - How to configure **HDR** and **Upscaling** settings for multiple platforms and players
