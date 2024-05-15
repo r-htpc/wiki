@@ -580,7 +580,7 @@ These files must be downloaded for the media player(s) you are testing against. 
 
 [AVS HD 709 Test Patterns](https://www.avsforum.com/threads/avs-hd-709-blu-ray-mp4-calibration.948496/) - For video calibration  
 
-[Judder Tests](https://drive.google.com/file/d/176bowvl5QMIw3TNbBFTaeax1aWf7WpG0/view?usp=sharing) - Tests for judder at varying frame rates  
+Judder Tests - Tests for judder at varying frame rates - [23.976/24/25/29.97/30/50/59.94/60 fps](https://drive.google.com/file/d/176bowvl5QMIw3TNbBFTaeax1aWf7WpG0/view?usp=sharing) 
 
 Frame Rate Tests - Known-good test files with a variety of motion - [23.976 fps](https://drive.google.com/file/d/1fmE-ois5fzwVlGccBf3HbBqjv5R_Etv5/view?usp=sharing), [24 fps](https://drive.google.com/file/d/1NWdrqmUHg4E_qMiSWoIp1AmV7Ulwm-zb/view?usp=sharing), [25 fps](https://drive.google.com/file/d/1UimhkIaljhhP3jbuHM75h7yk_WRwkxwQ/view?usp=sharing), [29.97 fps](https://drive.google.com/file/d/1K2khAth6dXg3Y1x3crKbaYrR7aRy3q_D/view?usp=sharing)   
 
