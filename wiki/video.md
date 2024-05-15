@@ -285,7 +285,7 @@ As such, it is highly recommended to run video calibration tests before you play
 
 To do this, you should
  
-1. Set the proper color conversion/reproduction settings, if you haven't already, from the [Setup for Color Reproduction](/wiki/video#setup-for-color-conversion-reproduction) section above.  
+1. Set the proper color conversion/reproduction settings, if you haven't already, from the [Setup for Color Reproduction](/wiki/video#setup-for-color-reproduction) section above.  
 2. Calibrate your display using [hardware](https://calibrite.com/us/product/display-plus-hl/) and [software](https://displaycal.net/) means if you can afford it; else, do a basic calibration of your display in your OS. In Windows, Start->Color Management->Advanced->Calibrate Display
 3. Choose a video player application to test with. We recommend [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases) on Windows and [Kodi](https://kodi.tv/download/linux/) on Linux.   
 4. **Disable** Hardware Decoding/Acceleration (DXVA, D3D11, NVDEC, pixel shaders etc..) in your video player application, where at all possible, to minimize the chance of the GPU decoder/renderer messing up colors, blacks and whites. You can re-enable it after you're done. The options are different depending on your media player. It should be set to Software/None/Acceleration disabled/etc..; see the location for the option(s) in the [Hardware Decoding section](/wiki/video#application-specific-setup-for-hardware-decoding) below.      
@@ -570,7 +570,7 @@ Media content (HDR/10-bit/4:2:2) is technically possible without DSC support. Ga
 
 ### How do I configure my app/gpu/display for proper color reproduction?
 
-See above sections [Setup For Color Conversion/Reproduction](/wiki/video#setup-for-color-conversion-reproduction) and [Video Calibration Testing](/wiki/video#video-calibration-testing)  
+See above sections [Setup For Color Conversion/Reproduction](/wiki/video#setup-for-color-reproduction) and [Video Calibration Testing](/wiki/video#video-calibration-testing)  
 
 <!-- Sub-Section -->
 
