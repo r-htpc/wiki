@@ -586,7 +586,7 @@ Frame Rate Tests - Known-good test files with a variety of motion - [23.976 fps]
 
 Audio Sync Tests - [1080p/H264/60fps/AAC](https://drive.google.com/file/d/18yl9Kk-ciweGBhkbUTr8aypc_PEXcr5n/view?usp=sharing), [1080p/HEVC/23.98fps/PCM](https://drive.google.com/file/d/1SSxzFXO7OfN4CVxrPTr_Er9CCD1uixFc/view?usp=sharing), [1080p/HEVC/24fps/PCM](https://drive.google.com/file/d/1rijuG0QrRsnRnLfrXqI741BtbOrD0Hu7/view?usp=sharing), [1080p/HEVC/29.97fps/PCM](https://drive.google.com/file/d/1M3DjDtwtpTckWze1crDcBa57hlLlUKtO/view?usp=sharing)  
 
-[Jellyfish Video Bitrate Test Files](http://www.larmoire.info/jellyfish/) - 1080p/4k, h.264/HEVC, 30 fps, High/Main (8-bit), Main10 (10-bit), MKV  
+[Jellyfish Video Bitrate Test Files](http://www.larmoire.info/jellyfish/) ([Alt Link](https://repo.jellyfin.org/jellyfish/)) - 1080p/4k, h.264/HEVC, 30 fps, High/Main (8-bit), Main10 (10-bit), MKV  
 
 [Ideal 4K HEVC test](http://www.larmoire.info/jellyfish/media/jellyfish-140-mbps-4k-uhd-hevc-10bit.mkv) - Max UHD Blu-Ray bitrate - 4k, HEVC, SDR, 140Mbps, 10-bit, 30fps, mp4  
 
