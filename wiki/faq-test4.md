@@ -1,8 +1,7 @@
 
 # Frequently Asked Questions
 
-<meta name="viewport" content="width=device-width, height=device-height, minimum-scale=0.6, maximum-scale=2.0, initial-scale=1.0">
-<!-- <meta name="viewport" content="width=device-width, height=device-height, maximum-scale=2.0, initial-scale=1.0"> -->
+<meta name="viewport" content="width=device-width, height=device-height, maximum-scale=2.0, initial-scale=1.0, user-scalable=0">
 <!-- <meta name="viewport" content="width=device-width, maximum-scale=1.0, minimum-scale=1.0, initial-scale=1.0"> -->
 
 <!--
