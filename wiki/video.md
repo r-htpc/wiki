@@ -243,7 +243,7 @@ What makes this confusing is a setting of Full or Limited can be on multiple pie
 3. The Display (TV, Projector)  
 
 If you set each piece in the wrong combination, whites and blacks will look wrong, colors will be washed out and/or shadows/details will be diminished.  
-Without getting too into the weeds, here's what you should set for the 3 pieces above, depending on your scenario, but use #1 first, where at all possible.  
+Here's what should be set for the 3 pieces above, depending on your scenario, but use #1 first, where at all possible.  
 
 - Scenario #1 - PC Recommended: 
   - Application: Range: **Full (0-255)**, Bit depth: auto/\<display bit depth\> 
