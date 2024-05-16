@@ -279,7 +279,7 @@ If you **can't** meet the restrictions, then either (in order of preference):
 
  2. Buy a [standalone player](https://www.google.com/search?q=panasonic+ub420+ub820&oq=panasonic+ub420+ub820) for your HT system.  
 
- 3. Buy a UHD Friendly drive and Play the discs using Redfox AnyDVD HD and your favorite media player
+ 3. Buy a [UHD Friendly drive](https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634), [flash it](https://forum.redfox.bz/threads/guide-for-flashing-uhd-drives-for-anydvd.79023/), and Play the discs using Redfox AnyDVD HD and your favorite media player
 
 <!-- Sub-Section -->
 
