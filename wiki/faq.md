@@ -203,6 +203,8 @@ You may want to wake your HTPC from sleep or have the ability to power it on or 
 
 10. Wake: Use HDMI CEC with another HT device
 
+If you want to control other devices from your HTPC, there are a number of ways depending on the target device's capabilities. Potential solutions include taking actions on triggers from Task Schedular and [EventGhost](https://github.com/EventGhost/EventGhost/releases), combined with actions to devices using hardware like [Pulse-Eight](https://www.pulse-eight.com/c/59) (CEC), [USB-UIRT](http://www.usbuirt.com/) (IR), [Flirc USB](https://flirc.tv/collections/receivers) (IR), [IR Blasters](https://www.iguanaworks.net/products/usb-ir-transceiver/) (IR) and software like [WinLirc](https://winlirc.sourceforge.net/), EventGhost, [Home Assistant](https://www.home-assistant.io/), [Wake-On-Lan](https://www.nirsoft.net/utils/wake_on_lan.html), and [IFTTT](https://ifttt.com/).  
+
 
 ## Why would I use a PC over a media device (roku, firetv, shield, etc..) for a HTPC?
 
