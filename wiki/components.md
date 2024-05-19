@@ -489,7 +489,7 @@ To get [HDMI-CEC](https://kodi.wiki/view/CEC) functionality where none exists, u
 
 For remotes/setups for the elderly, see our specific [section](/wiki/faq#how-can-i-set-up-an-htpc-for-the-elderlydisabled) below  
 
-On the software side, [Plex HTPC](https://support.plex.tv/articles/plex-htpc-input-maps/), [Kodi](https://kodi.wiki/view/Remote_controls), and [Jriver Media Center](https://wiki.jriver.com/index.php/Remotes) all support multiple remote types. You can also use [AutoHotKey](https://www.autohotkey.com/) and/or [EventGhost](http://www.eventghost.net/) to re-map buttons/automate keyboard tasks.  
+On the software side, [Plex HTPC](https://support.plex.tv/articles/plex-htpc-input-maps/), [Kodi](https://kodi.wiki/view/Remote_controls), and [Jriver Media Center](https://wiki.jriver.com/index.php/Remotes) all support multiple remote types. You can also use [AutoHotKey](https://www.autohotkey.com/) and/or [EventGhost](https://github.com/EventGhost/EventGhost/releases) to re-map buttons/automate keyboard tasks.  
 
 <!-- Footer -->
 &nbsp;
