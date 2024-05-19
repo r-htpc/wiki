@@ -634,7 +634,8 @@ PLEX MEDIA PLAYER/PLEX HTPC:
 
 5. If Device is HDMI: Check box for "Passthrough: Dolby Digital (AC3)". Uncheck boxes for "Passthrough: \<everything else\>"  
 
-SYSTEM-WIDE: See the [section below](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) on encoding gaming audio, which does the same thing, but on a lower-level.  
+SYSTEM-WIDE: If you want to encode all of your system audio into Dolby Digital, either for compatability or for volume-control reasons, see the [section below](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) on encoding gaming audio into Dolby Digital Live, which does the same thing, on a lower-level.  
+
 NON-REALTIME: [Handbrake](https://handbrake.fr/), [ffmpeg-gui](https://www.videohelp.com/software/clever-FFmpeg-GUI), [eac3to](https://www.videohelp.com/software/eac3to), [tdarr](https://tdarr.io/)  
 
 <!-- Sub-Section -->
@@ -894,5 +895,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2024-05-07*
+ *This page was last updated on 2024-05-19*
 
