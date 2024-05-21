@@ -515,7 +515,7 @@ Way #3
 2. Export the EDID data to a .bin file
 3. Download and run [Analog Way EDID Editor](https://www.analogway.com/emea/products/software-tools/aw-edid-editor/)
 4. Import the .bin file
-5. Add your audio formats, speaker config, etc.. (add CEA extension if necessary)
+5. Add your audio formats, speaker config, etc.. (add CTA extension if necessary)
 6. Save the .bin file
 7. Download and run [Custom Resolution Utility](http://www.monitortests.com/forum/thread-custom-resolution-utility-cru)
 8. Import the .bin file
