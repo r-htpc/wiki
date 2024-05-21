@@ -500,8 +500,8 @@ Way #2
 
 1. Download and run [Custom Resolution Utility](http://www.monitortests.com/forum/thread-custom-resolution-utility-cru)
 2. Select your particular display
-3. Download the file "hdmi2-bitstream.dat"/"hdmi-bitstream.dat" from the link above. Import it into CRU. 
-4. Double-click on the CEA-861 block in the "Extension blocks" section.
+3. Download the appropriate file "hdmi2-bitstream.dat" (for HDMI 2.0)/"hdmi-bitstream.dat" (for HDMI 1.x) from the link above. Import it into CRU. 
+4. Double-click on the CTA-861 block in the "Extension blocks" section.
 5. Double-click on the "Audio formats" block in the "Data blocks" section.
 6. Add/Delete/Edit any formats in there as per what your sound system supports (if necessary).
 7. Double-click on the "HDMI support" block in the "Data blocks" section.
