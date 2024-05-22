@@ -784,11 +784,11 @@ Audio Sync Tests: [1080p/H264/60fps/AAC](https://drive.google.com/file/d/18yl9Kk
 
 **HDMI Splitters**  
 
-*Used to clone video output or send HD audio to older sound system*  
+*Used to clone HDMI video output from GPU to TV, or send HD audio to older sound system where DRM/HDCP not a concern*  
 
 HDMI 2.0 (4K@60)  
 
-ViewHD [VHD-UHAE2](https://www.amazon.com/ViewHD-Extractor-Splitter-Support-Toslink/dp/B0755TB82Q) or [UHD1X2SA](https://www.amazon.com/ViewHD-Splitter-Extractor-Optical-Receiver/dp/B07VQF75FW) 1x2 - $50 - Audio only port, EDID Options. Start with one of these for basic A/V splitting.  
+**ViewHD [VHD-UHAE2](https://www.amazon.com/ViewHD-Extractor-Splitter-Support-Toslink/dp/B0755TB82Q)** - $50 - **Audio only port, EDID Options. Start with one of these for basic A/V splitting**. ALT: [UHD1X2SA](https://www.amazon.com/ViewHD-Splitter-Extractor-Optical-Receiver/dp/B07VQF75FW)  
 
 [HDFury AVRKey 18Gbps](https://www.monoprice.com/product?p_id=30457) ([ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=fury+avr+key&_sacat=0&_odkw=avr+key&_osacat=0)) - $160 - Top of the line, but expensive and discontinued.   
 
@@ -810,7 +810,25 @@ HDMI 2.1 (4K@120)
 
 **HDMI Audio Extractors**  
 
-*Used to extract audio from HDMI between GPU and TV and send it to AVR HDMI input, eARC, Optical or Analog Outputs. Passes Dolby/DTS to optical or decodes HD/LCPM 7.1 to HDMI/analog. Does NOT decode audio codecs*  
+*Used to extract audio from HDMI between GPU and TV and send it to AVR HDMI input, eARC, Optical or Analog Outputs. Passes Dolby/DTS to optical or HD/LCPM 7.1 to HDMI/analog. Does NOT decode audio codecs*  
+
+HDMI 2.1 (4k@120)  
+
+**[J-Tech](https://www.amazon.com/Extractor-Compatible-J-Tech-Digital-JTECH-AE8K/dp/B0CQTPSVCK?th=1) - HDMI+Optical+3.5mm outs - Extracts HD audio to non-eARC AVR**
+
+[Navceker](https://www.navceker.com/products/hdmi-2-1-audio-extractor) - HDMI+Optical+3.5mm Stereo - Extracts HD audio to non-eARC AVR  
+
+[OREI](https://www.amazon.com/2x1-HDMI-Switcher-Audio-Out/dp/B00MNGIP2Y) - Optical+3.5mm Stereo - Switch that doubles as an extractor; cheaper than a splitter  
+
+HDMI 2.0 (4k@60)  
+
+**ViewHD [VHD-UHAE2](https://www.amazon.com/ViewHD-Extractor-Splitter-Support-Toslink/dp/B0755TB82Q) - HDMI outs - Extracts HD audio to AVR via audio only HDMI port, EDID Options**  
+
+[OREI](https://www.amazon.com/OREI-Extractor-Extract-Passthrough-HDA-929/dp/B0CDNYH3WN/) - eARC HDMI + HDMI - Extracts HD audio to AVR or eARC soundbar via HDMI. ALT: [optical version](https://www.amazon.com/OREI-Audio-Extractor-Converter-Support/dp/B0C7LK48ZX)
+
+[Ezcoo](https://www.amazon.com/Splitter-Soundbar-Switch-Bi-Direction-Extractor/dp/B0BNSY3VKW) - eARC HDMI + Optical - Extracts HD audio to eARC soundbar via HDMI
+
+[Monoprice](https://www.monoprice.com/product?p_id=24278) / [J-Tech](https://www.amazon.com/J-Tech-Digital-Extractor-Passthrough-JTD18G-H5CH/dp/B074HHSJVN) / [OREI](https://www.amazon.com/OREI-HDA-912-Audio-Converter-Extractor/dp/B07BHYXVTY) - Optical+3.5mm Stereo  
 
 HDMI 1.4 (1080p/4k@30)  
 
@@ -822,20 +840,6 @@ HDMI 1.4 (1080p/4k@30)
 
 [AllAboutAdapters](https://www.amazon.com/AllAboutAdapters-Analog-Surround-Decoder-Version/dp/B07J2VZ8DL) - Optical+RCA Surround  
 
-HDMI 2.0 (4k@60)  
-
-[OREI](https://www.amazon.com/OREI-Audio-Extractor-Converter-Support/dp/B0C7LK48ZX) - eARC + HDMI + Optical - Extracts HD audio to non-eARC AVR or eARC soundbar  
-
-[Ezcoo](https://www.amazon.com/Splitter-Soundbar-Switch-Bi-Direction-Extractor/dp/B0BNSY3VKW) - eARC + Optical - Extracts HD audio to eARC soundbar
-
-[Monoprice](https://www.monoprice.com/product?p_id=24278) / [J-Tech](https://www.amazon.com/J-Tech-Digital-Extractor-Passthrough-JTD18G-H5CH/dp/B074HHSJVN) / [OREI](https://www.amazon.com/OREI-HDA-912-Audio-Converter-Extractor/dp/B07BHYXVTY) - Optical+3.5mm Stereo  
-
-HDMI 2.1 (4k@120)  
-
-[OREI](https://www.amazon.com/2x1-HDMI-Switcher-Audio-Out/dp/B00MNGIP2Y) - Optical+3.5mm Stereo - Switch that doubles as an extractor; cheaper than a splitter  
-
-[Navceker](https://www.navceker.com/products/hdmi-2-1-audio-extractor) - HDMI+Optical+3.5mm Stereo - Extracts HD audio to non-eARC AVR  
-
 **HDMI to Optical/Analog Decoders**  
 
 *Extract audio from HDMI, decode Dolby/DTS/LPCM and send it to Analog Outputs.*  
@@ -844,7 +848,7 @@ HDMI 2.1 (4k@120)
 
 [Xolorspace DU50](https://xolorspace.com/collections/5-1-audio-decoder) (Dolby/DTS Decoder) (RCA Surround) - HDMI 1.4  
 
-**eARC ->HDMI Extractors**  
+**eARC -> HDMI Extractors**  
 
 *Extracts audio from display's HDMI eARC to transport to regular, non-ARC HDMI input of Sound Systems*  
 
