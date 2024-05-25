@@ -496,5 +496,5 @@ On the software side, [Plex HTPC](https://support.plex.tv/articles/plex-htpc-inp
 
 ---
 
-*This page was last updated on 2024-04-06*
+*This page was last updated on 2024-05-18*
 
