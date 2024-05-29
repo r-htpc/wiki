@@ -752,7 +752,7 @@ These files must be downloaded for the media player(s) you are testing against. 
 
 [Dolby Digital 5.1](https://drive.google.com/file/d/1X8XuVXOY0yteXki48fSEYU-8eOGxQVWC/view?usp=sharing)  
 
-[Dolby Digital Plus 5.1](https://drive.google.com/file/d/1oJzvH7l0IR7p23LyEaC-LgGkSrCH2sUX/view?usp=sharing) / [7.1 Channel Callout](https://drive.google.com/file/d/11hoCkMp5NMXXRsJp9XsASBmI_G8f2TUm/view?usp=sharing)  
+[Dolby Digital Plus 5.1 Channel Call-out](https://drive.google.com/file/d/16UDWF-B0iLVnA05C4C-gNYLcMhUdTdp_/view?usp=sharing) / [7.1 Channel Call-out](https://drive.google.com/file/d/1ya5KZcTN64uGfK5hCbxJNBoFReXyLY0D/view?usp=sharing)  
 
 [Dolby TrueHD 5.1](https://www.demolandia.net/downloads.html?id=26284842) / [Dolby TrueHD 7.1](https://www.demolandia.net/downloads.html?id=99509504) / [Dolby TrueHD 7.1 Channel Call-out](https://drive.google.com/file/d/1RwJxv5ifkE8VnKpQGxbzKmWoUJwxzHE_/view?usp=sharing)  
 
@@ -760,7 +760,7 @@ Dolby Atmos (TrueHD/Lossless): [7.1 trailer](https://www.demolandia.net/download
 
 Dolby Atmos (DD+/Lossy): [5.1.2 trailer](https://download.dolby.com/us/en/test-tones/dolby-atmos-trailer_amaze_1080.mp4) / [5.1.2 test tones](https://www.heimkino-atmos.de/wp-content/uploads/2021/06/dolby-test-tones_5_1_2.mp4) / [5.1.4 test tones](https://www.heimkino-atmos.de/wp-content/uploads/2021/06/dolby-test-tones_5_1_4.mp4) / [7.1.2 test tones](https://www.heimkino-atmos.de/wp-content/uploads/2021/06/dolby-test-tones_7_1_2.mp4) / [7.1.4 test tones](https://www.heimkino-atmos.de/wp-content/uploads/2021/06/dolby-test-tones_7_1_4.mp4)  
 
-[DTS 5.1 Channel Call-out](https://drive.google.com/file/d/16qFfb6GJktoPio1hho9_feIXPMaXfcx9/view?usp=drive_link)  
+[DTS 5.1]() / [5.1 Channel Call-out](https://drive.google.com/file/d/16qFfb6GJktoPio1hho9_feIXPMaXfcx9/view?usp=drive_link)  
 
 [DTS-HD HR 5.1](https://www.demolandia.net/downloads.html?id=23989435) / [DTS-HD HR 7.1 Channel Call-out](https://drive.google.com/file/d/1UDSRMHkoVx3m4mS7ntYli2RdyJ_cUC3w/view?usp=sharing)  
 
