@@ -750,7 +750,7 @@ HTBuyingGuides' [Speaker recommendations](https://www.reddit.com/r/HTBuyingGuide
 
 These files must be downloaded for the media player(s) you are testing against. Do NOT play them in your browser.  
 
-[Dolby Digital 5.1](https://drive.google.com/file/d/1X8XuVXOY0yteXki48fSEYU-8eOGxQVWC/view?usp=sharing)  
+[Dolby Digital 5.1](https://drive.google.com/file/d/1X8XuVXOY0yteXki48fSEYU-8eOGxQVWC/view?usp=sharing) / [5.1 Channel Call-out](https://drive.google.com/file/d/1ZmTVv3-6WDHGZt2Pg6LxktPpemZzVdLG/view?usp=sharing)  
 
 [Dolby Digital Plus 5.1 Channel Call-out](https://drive.google.com/file/d/16UDWF-B0iLVnA05C4C-gNYLcMhUdTdp_/view?usp=sharing) / [7.1 Channel Call-out](https://drive.google.com/file/d/1ya5KZcTN64uGfK5hCbxJNBoFReXyLY0D/view?usp=sharing)  
 
