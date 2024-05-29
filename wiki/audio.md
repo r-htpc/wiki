@@ -472,7 +472,7 @@ You can read more about Normalization [here](https://www.realhd-audio.com/?p=674
 6. You're decoding the codec on your PC before you send it to your sound system.  
  This is common if you've installed middleware (like an equalizer or other APO software) to modify the audio signal on the PC first. It will usually decode the codec first to do this. If you're trying to bitstream the codec, this is not ideal.  
  Decide which is more important to you, bitstreaming or use of the middleware. If bitstreaming, don't use the middleware or find additional middleware to re-encode the audio.  
-7. You're using an ACTIVE DP/USB->HDMI adapter or cable. You can't bitstream audio over an active adapter. The max you can do is PCM audio. If you need to bitstream, use a PASSIVE [adapter](/wiki/components#video-cablesadapters).  
+7. You're using an ACTIVE DP/USB->HDMI adapter or cable. You can't bitstream HD audio over an active adapter. The max you can do is PCM audio. If you need to bitstream, use a PASSIVE [adapter](/wiki/components#video-cablesadapters).  
 
 <!-- Sub-Section -->
 
@@ -691,11 +691,10 @@ If you have a USB-C port (that supports DP Alt Mode video out) you can use a [US
 
 Keep in mind that any audio passed over HDMI/DisplayPort/USB-C requires a video signal to be active on the connection as well. You can't get audio without video, so you will either have to use an extended or cloned display for it to work, though the resolution required is minimal (720p).  
 
-Also keep in mind that if you're using an **ACTIVE** DisplayPort/USB-C->HDMI adapter or cable, you **CAN'T** bitstream audio over it. The max you can do is PCM audio.  
-If you need to bitstream audio:  
+Also keep in mind that if you're using an **ACTIVE** DisplayPort/USB-C->HDMI adapter or cable, you **CAN'T** bitstream **HD** audio over it. The max you can do, depending on the quality of the adapter, is DD+ Atmos, DTS and PCM 7.1 audio.  
+If you need to bitstream HD audio:  
 
 - Use a PASSIVE cable/adapter. Using a passive adapter will limit video output to 4k@30hz (A HDMI 1.4-capable connection)  
-- Use a USB-C->HDMI adapter and a USB-C video port that supports DP ALT MODE  
 - Use multiple video outputs; audio over a passive cable/adapter to your sound system, video over an straight HDMI cable or active adapter to your display  
 
 See the [Video Cables/Adapters](/wiki/components#video-cablesadapters) section of the Hardware Components Guide for more recommendations.  
