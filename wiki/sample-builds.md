@@ -37,11 +37,11 @@ Respected mfgrs are: intel, hp, dell, apple, lenovo, asus, asrock, simply nuc, z
 
  $60-100: SMALL/MEDIUM: Used HP/Dell/Lenovo - Intel - i3/i5-7100T/7400T/7500T, >= 8GB RAM, >= 120GB disk. [[Ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28hp%2Cdell%2Clenovo%29+%28i3-7100%2Ci5-7400%2Ci5-7500%29&_sacat=179&LH_TitleDesc=0&LH_BIN=1&_sop=15&_udhi=150&_blrs=recall_filtering)]  
 
- $100: SMALLER: Used Intel NUC7i3/NUC7CJYH, >= 8GB, >= 128GB disk. Lower power than HP/Dell/Lenovo above. [[Ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=nuc7cjyh+nuc7i3+nuc6i3&_in_kw=2&_ex_kw=&_sacat=58058&LH_TitleDesc=1&_udlo=&_udhi=&_ftrt=901&_ftrv=1&_sabdlo=&_sabdhi=&_samilow=&_samihi=&_sadis=15&_stpos=80232-6476&_sargn=-1%26saslc%3D1&_salic=1&_dmd=1&_ipg=60&_sop=15)]  
+ $80: SMALLER: Used Intel NUC7i3/NUC7CJYH, >= 8GB, >= 128GB disk. Lower power than HP/Dell/Lenovo above. [[Ebay](https://www.ebay.com/sch/179/i.html?_from=R40&_nkw=nuc+%287100u%2C7260u%2C7300u%2Cj4005%2Cj4025%2Cj5005%29&LH_BIN=1&_sop=15)]  
 
- $125-175: SMALLER: New **Intel N95**/N5095 Mini PC ([Minisforum/Beelink/etc..](https://www.amazon.com/s?k=minsforum+beelink+N5095+N95&crid=CZRI7XC6T32)), 8GB RAM, 256GB disk  
+ $125-160: SMALLER: New **Intel N95**/N5095 Mini PC ([Minisforum/Beelink/etc..](https://www.amazon.com/s?k=minsforum+beelink+N5095+N95&crid=CZRI7XC6T32)), 8GB RAM, 256GB disk  
 
- $150-200: SMALLEST: New Intel N5095/N5105 Nano PC ([GMK Nucbox](https://www.amazon.com/GMKtec-Nucbox5-Desktop-Computer-Windows/dp/B09Q8ZRTCX)/[Mele Quieter3Q](https://www.amazon.com/MeLE-Quieter3Q-Computer-Industrial-Astrophotography/dp/B09TGN1MWV)), 6-8GB RAM, 128GB-256GB disk  
+ $130-150: SMALLEST: New Intel N95/N5105 Nano PC ([GMKTec](https://www.amazon.com/GMKtec-Nucbox5-Desktop-Computer-Windows/dp/B0B75PT2RY)/[Mele](https://www.amazon.com/MeLE-Overclock4C-Computer-Ethernet-Business/dp/B0CLH62PTK)), 8GB RAM, 128GB-256GB disk  
 
 <!-- Sub-Section -->
 
