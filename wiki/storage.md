@@ -107,7 +107,7 @@ If you can't afford any of these and want to do it more cheaply, you can use/buy
 
 BRAND		|	MODEL				|	DRIVES	|COST	|	TRANSCODING		|	CPU								|	PASSMARK	|	PM/$|	RAID MODES	| NOTES
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--
-**Terramaster**	|	**F2-424**				|	2	|	$380	|	4k (1a)	|	x64 (Celeron N95) 3.4 Ghz	|		5419	|	14.26	|RAID 0/1,JBOD,Single,8GB RAM, 2x2.5 Gb/s
+**Terramaster**	|	**F2-424**				|	2	|	$380	|	4k (1a)	|	x64 (Celeron N95) 3.4 Ghz	|		5419	|	14.26	|RAID 0/1,JBOD,Single|8GB RAM, 2x2.5 Gb/s
 Terramaster	|	F2-423				|	2	|	$380	|	4k (1a)	|	x64 (Celeron N5105) 2.0 Ghz	|		4094	|	10.77	|RAID 0/1,JBOD,Single|4GB RAM, 2.5 Gb/s
 ASUSTOR		|	AS-5402T			|	2	|	$380	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094|	10.77	|RAID 0/1,JBOD,Single|4GB RAM, 2x2.5Gb/s, ext4/btrfs
 **Synology**	|	**DS224+**				|	2	|	$300	|	Some/4k (1b)			|	x64 (Celeron J4125) 2.0 Ghz		|		3035	|	10.1	|RAID 0/1,JBOD,SHR,Single|2GB RAM, 1Gb/s x2
