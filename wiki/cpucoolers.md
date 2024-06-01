@@ -23,6 +23,7 @@ ID Cooling IS-30i			| 30mm | $25 | 100W | 80mm | LGA115x/1200/1700/AM4 | 3 | NA
 **\*Thermalright AXP90-X36**	| 36mm | $30 | 95W | 90mm | LGA115x/1200/1700/AM4 | **5** | 22.4 dbA 
 **\*Noctua NH-L9i**				| 37mm | $40 | 65W | 92mm | LGA115x | **5** | 23.6 dbA 
 **\*Noctua NH-L9a**				| 37mm | $40 | 65W | 92mm | AM3/AM4 | **5** | 23.6 dbA 
+Scythe Shuriken 3	| 39mm | $40 | TBD | 92mm | TBD| TBD | NA
 CoolerMaster MasterAir G200p	| 39.4mm | $40 | 65W | 92mm | LGA 115X/1200/1366/2011/-3/2066/AM4 | 3 | NA
 AMD Athlon 200GE Stock		| 41mm | NA | 35W | NA | AM4 | 3 | 200GE/220GE/240GE
 beQuiet Pure Rock LP			| 45mm | $50 | 100W | 92mm | LGA115x/1200/1700/AMx | NA | 30.6 dbA 
@@ -38,6 +39,7 @@ Intel E97378-001 Stock		| 32/51mm | $16 | 95W | 80mm | NA | 3 | NA
 **\*Arctic Freezer 11 LP**		| 53mm | $22 | 100W | 100mm | LGA771/775/115x/1200/1700 | 4 | 0.3 Sone
 **\*ID Cooling IS-55**			| 55mm | $40 | 125W | 120mm | LGA115x/1200/1700/AMx | **5** | 31.2 dbA - 32mm ram (1)
 Scythe BIG Shuriken 2 Rev. B	| 46mm/58mm | $49 | 95W? | 120mm | LGA775/115x/1366/2011 FM1/AM3+. | 4 | SCBSK-2100. 46mm w/o fan
+Scythe BIG Shuriken 4	| TBD | TBD | TBD | TBD | TBD| TBD | NA
 CoolerMaster MasterAir G400p	| 58mm | $40 | 120W | 92mm | LGA 115X/1200/1366/2011/-3/2066/AM4 | 3 | EOL
 Silverstone AR06			| 58.4mm | $40 | 95W | 92mm | LGA115x/AM3 | 4 | NA
 Intel E97379-001 Stock		| 40/59mm | $9 | 73W | 90mm | LGA115x | NA
