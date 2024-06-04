@@ -453,14 +453,14 @@ MEM			|8 GB+ DDR4|	Included|	NA|		NA
 STORAGE		|256GB M.2 SSD (OS/APPS)		|	$25|	[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=240000000000,22000000000000&t=0&sort=price&f=122030,122042,122060,122080)|		OPTIONAL, If not included in ebay build.
 STORAGE		|WD 8-20TB USB HDD (MEDIA)		|$160-350		|	[Best Buy](https://www.bestbuy.com/site/wd-easystore-8tb-external-usb-3-0-hard-drive-black/6425302.p?skuId=6425302&utm_source=feed)		| OPTIONAL, if not included in ebay build or don't have. ALT: [2.5" SATA HDD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=900000000000,22000000000000&sort=price&f=3&t=5000,5200,5400,5640,5700,5760,5900,5940,7200&page=1)
 ACCESSORY	|DP to HDMI Cable	|	$10	|	[Amazon](https://www.amazon.com/Amazon-Basics-Uni-Directional-DisplayPort-Display/dp/B015OW3M1W)	| OPTIONAL, for mgmt. 6 ft
-OS			|Ubuntu 22/Windows 10 Pro				|$0			|	[Ubuntu](https://ubuntu.com/download)	|	
+OS			|Ubuntu 24/Windows 1x Pro				|$0			|	[Ubuntu](https://ubuntu.com/download)	|	
 SOFTWARE	|Plex Media Server						|$0			|	[Plex](https://www.plex.tv/downloads)	|	Free
 LICENSE		|Plex Pass								|$120		|	[Plex](https://www.plex.tv/plex-pass/)	|	OPTIONAL. Lifetime cost or $40/year, $5/month.	
 TOTAL		|				|	$95	||
 
 <!-- Sub-Section -->
 
-### $125 Medium NAS / Media Server (9-26L) - Used
+### $135 Medium NAS / Media Server (9-26L) - Used
 
 This is also a good setup to get your feet wet. A used pre-built is cheaper and easier to get going if you're new to this. A NAS/media server with these specs has the potential to handle anything you can throw at it with the ability to have some internal media storage. If you're not comfortable buying used, [these](https://www.ebay.com/sch/i.html?_fsrp=1&_from=R40&LH_TitleDesc=1&LH_PrefLoc=2&LH_ItemCondition=1000&Form%2520Factor=Mini%2520Tower%7CSmall%2520Form%2520Factor%2520%2528SFF%2529%7CTower%7CMini%2520Pc&_nkw=%28hp%2Cdell%29+%28i3%2Ci5%2Ci7%29&_sacat=179&LH_BIN=1&_sop=15&rt=nc&Processor=Intel%2520Core%2520i7%252012th%2520Gen%252E%7CIntel%2520Core%2520i5%252013th%2520Gen%252E%7CIntel%2520Core%2520i5%252011th%2520Gen%252E%7CIntel%2520Core%2520i3%252012th%2520Gen%252E%7CIntel%2520Core%2520i5%25209th%2520Gen%252E%7CIntel%2520Core%2520i7%25209th%2520Gen%252E%7CIntel%2520Core%2520i3%252011th%2520Gen%252E%7CIntel%2520Core%2520i7%252010th%2520Gen%252E%7CIntel%2520Core%2520i5%252012th%2520Gen%252E%7CIntel%2520Core%2520i3%25209th%2520Gen%252E%7CIntel%2520Core%2520i3%252010th%2520Gen%252E%7CIntel%2520Core%2520i5%252010th%2520Gen%252E%7CIntel%2520Core%2520i7%252013th%2520Gen%252E%7CIntel%2520Core%2520i7%252011th%2520Gen%252E&_oaa=1&_dcat=179) are comparable.  
 
@@ -489,16 +489,16 @@ See our [Storage Setup Guide](/wiki/storage) for more information on software, d
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
-PC			|Lenovo M710S SFF PC					|$90		|	[Ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=m710s%20%287400%2C7500%2C7600%2C7700%29&_sacat=171957&LH_TitleDesc=0&_sop=15&LH_PrefLoc=2&rt=nc&_udhi=250) | [specs](https://psref.lenovo.com/syspool/Sys/PDF/ThinkCentre/ThinkCentre_M710_SFF/ThinkCentre_M710_SFF_Spec.pdf). ALT: [HP/Dell](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%28i5-7400%2Ci5-7500%2Ci5-7600%2Ci5-8400%2Ci5-8500%2Ci5-8600%29+%28hp%2Cdell%29+-micro&_sacat=179&LH_TitleDesc=0&_fsrp=1&rt=nc&LH_PrefLoc=2&Form%2520Factor=Small%2520Form%2520Factor%2520%2528SFF%2529%7CTower%7CMicro%2520Tower&_odkw=%28i5-7400%2Ci5-7500%2Ci5-7600%2Ci5-8400%2Ci5-8500%2Ci5-8600%29+%28hp%2Cdell%29&_osacat=179&LH_BIN=1&_dcat=179&_sop=15&_oaa=1&_udhi=250)
-CPU			|Intel i5-7400							|Included	|	NA			|	65 W, 4C/4T. ALT: [i5-8400](https://www.ebay.com/sch/171957/i.html?_from=R40&_nkw=%28m720s%2Cm920s%2C720t%2Cm920t%29+%288400%2C8500%2C8600%2C8700%29&LH_TitleDesc=0&_sop=15&LH_PrefLoc=2&_udhi=250) (+$20)
+PC			|Lenovo M720s SFF PC					|$100		|	[Ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28m720s%29+%288400%2C8500%2C8600%2C8700%29&_sacat=171957&_odkw=%28m710s%2Cm720s%29+%288400%2C8500%2C8600%2C8700%29&_osacat=171957&_sop=15&LH_PrefLoc=2&_udhi=250) | [specs](https://psref.lenovo.com/syspool/Sys/PDF/ThinkCentre/ThinkCentre_M720_SFF/ThinkCentre_M720_SFF_Spec.PDF). ALT: [HP/Dell](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28i5-8400%2Ci5-8500%2Ci5-8600%2Ci7-8700%29+%28hp%2Cdell%29+SFF&_sacat=179&_fsrp=1&_odkw=%28i5-8400%2Ci5-8500%2Ci5-8600%2Ci7-8700%29+%28hp%2Cdell%29+%28-micro%2C-DM%2C-MFF%29+%28-8400T%2C-8500T%29&_osacat=179&LH_BIN=1&_sop=15&LH_PrefLoc=2&_udhi=250)
+CPU			|Intel i5-8400							|Included	|	NA			|	65 W, 4C/4T. ALT: [i5-7400](https://www.ebay.com/sch/i.html?_from=R40&_nkw=m710s%20%287400%2C7500%2C7600%2C7700%29&_sacat=171957&LH_TitleDesc=0&_sop=15&LH_PrefLoc=2&rt=nc&_udhi=250) (-$10)
 MEM/STORAGE	|8GB RAM, HDD/SSD/Bare					|Included	|	NA			|	
 STORAGE		|WD Blue SN570 500GB M.2 NVMe SSD (OS/APPS)		|$35		|	[Amazon](https://www.amazon.com/dp/B09HKG6SDF)		| OPTIONAL, if not included in ebay build.
 STORAGE		|WD 8-20 TB 3.5" SATA HDD (MEDIA)		|$100-350		|	[Serverpartdeals](https://serverpartdeals.com/collections/wd-ultrastar-sata-hard-drives?sort=price-ascending&pf_t_condition=condition%3AManufacturer+Recertified&pf_t_condition=condition%3ANew)		| OPTIONAL, if not included in ebay build or don't have.
 ACCESSORY	|DP to HDMI Cable	|	$10	|	[Amazon](https://www.amazon.com/Amazon-Basics-Uni-Directional-DisplayPort-Display/dp/B015OW3M1W)	| OPTIONAL, for mgmt. 6 ft
-OS			|Ubuntu 22/Windows 10 Pro				|$0			|	[Ubuntu](https://ubuntu.com/download)	|	
+OS			|Ubuntu 24/Windows 1x Pro				|$0			|	[Ubuntu](https://ubuntu.com/download)	|	
 SOFTWARE	|Plex Media Server						|$0			|	[Plex](https://www.plex.tv/downloads)	|	Free
 LICENSE		|Plex Pass								|$120		|	[Plex](https://www.plex.tv/plex-pass/)	|	OPTIONAL. Lifetime cost or $40/year, $5/month.	
-TOTAL		|										|$125		|	NA			|
+TOTAL		|										|$135		|	NA			|
 
 <!-- Sub-Section -->
 
