@@ -27,7 +27,7 @@ The SBC options below will have the highest power efficiency, but also lowest co
 
 **Choosing the least expensive option is attractive, but not always the best course of action.** While we recommend some lower-cost chinese vendors below (like Beelink and Minisforum), these may not be for you. With low cost comes limitations like operating system/BIOS support, warranty, quality control and reliability. If you're not comfortable giving up on those things, spend more to purchase similar speced hardware from other, reputable vendors.  
 
-Some of these are: **Intel (NUC), [Lenovo (ThinkCentre/IdeaCentre)](https://www.lenovo.com/us/en/desktops/subseries-results/?visibleDatas=992%3ASmall%2520Form%2520Factor%2CSmall%2520Form%2520Factor%25C2%25A0), [MSI (DP)](https://www.amazon.com/MSI-12M-407US-Business-i3-12100-Graphics/dp/B0B4BN6TQG?th=1&tag=p00935-20&ascsubtag=02xtx2BszHujAjeR4KoSEAo), Asus (PNxx/PBxx), ASRock (NUC Box, DeskMini/Meet), HP (Prodesk/Elitedesk), Dell (Optiplex), Zotac (ZBOX), Simply Nuc, Shuttle**. We're fond of the Lenovo IdeaCentre and MSI DP series.  
+Some of these are: **Intel (NUC), [Lenovo (ThinkCentre/IdeaCentre)](https://www.lenovo.com/us/en/desktops/subseries-results/?visibleDatas=992%3ASmall%2520Form%2520Factor%2CSmall%2520Form%2520Factor%25C2%25A0), [MSI (DP)](https://www.amazon.com/MSI-12M-407US-Business-i3-12100-Graphics/dp/B0B4BN6TQG?th=1&tag=p00935-20&ascsubtag=02xtx2BszHujAjeR4KoSEAo), Asus (PNxx/PBxx), ASRock (NUC Box, DeskMini/Meet), HP (Prodesk/Elitedesk), Dell (Optiplex), Zotac (ZBOX), Simply Nuc, Shuttle**. We're fond of the Lenovo IdeaCentre Mini and MSI DP series.  
 
 <!-- Sub-Section -->
 
@@ -875,5 +875,5 @@ TOTAL		|											|$844			|	|
 
 ---
 
-*This page was last updated on 2024-05-29*
+*This page was last updated on 2024-06-04*
 
