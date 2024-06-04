@@ -443,12 +443,10 @@ With a form factor this small you should use USB external drives, like a [WD Ele
 
 See our [Storage Setup Guide](/wiki/storage) for more information on software, drives and pre-built NASes.  
 
-Will handle 1080p video front-end duties fine.  
-
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
-CASE		|HP/Dell/Lenovo	|	$70	|	[Ebay](https://www.ebay.com/sch/i.html?_fsrp=1&rt=nc&_from=R40&LH_TitleDesc=0&LH_PrefLoc=2&_nkw=\(hp%2Cdell%2Clenovo\)+\(i5-7400t%2Ci5-7500t\)&_sacat=179&LH_BIN=1&_sop=15&_udhi=150&LH_ItemCondition=2000%7C2020%7C2010%7C3000%7C2030)	|	Prodesk G3, Optiplex 3050/5050/7050, Thinkcentre M710q/M910q
-CPU/GPU		|Intel i5-7500T	|	Included|	NA|		ALT: [i5-8500T](https://www.ebay.com/sch/i.html?_fsrp=1&rt=nc&_from=R40&LH_TitleDesc=0&LH_PrefLoc=2&_nkw=\(hp%2Cdell%2Clenovo\)+\(i5-8500t%2Ci5-8600t\)&_sacat=179&LH_BIN=1&_sop=15&_udhi=150&LH_ItemCondition=3000) ($+30)
+CASE		|HP/Dell/Lenovo Micro PC	|	$80	|	[Ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28hp%2Cdell%2Clenovo%29+%28i5-8400t%2Ci5-8500t%29&_sacat=179&_fsrp=1&_odkw=%28hp%2Cdell%2Clenovo%29+%28i5-8400t%2Ci5-8500t%2Ci5-7400t%2Ci5-7500t%29&_osacat=179&LH_BIN=1&_sop=15&LH_PrefLoc=2&_udhi=150)	|	Prodesk G4, Optiplex 3060/5060/7060, Thinkcentre M720q/M920q
+CPU/GPU		|Intel i5-8500T	|	Included|	NA|		35W, 6C/6T. ALT: [i5-7500T](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28hp%2Cdell%2Clenovo%29+%28i5-7400t%2Ci5-7500t%29&_sacat=179&_fsrp=1&_odkw=%28hp%2Cdell%2Clenovo%29+%28i5-8400t%2Ci5-8500t%29&_osacat=179&LH_BIN=1&_sop=15&LH_PrefLoc=2&_udhi=150) ($-10)
 MEM			|8 GB+ DDR4|	Included|	NA|		NA
 STORAGE		|256GB M.2 SSD (OS/APPS)		|	$25|	[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=240000000000,22000000000000&t=0&sort=price&f=122030,122042,122060,122080)|		OPTIONAL, If not included in ebay build.
 STORAGE		|WD 8-20TB USB HDD (MEDIA)		|$160-350		|	[Best Buy](https://www.bestbuy.com/site/wd-easystore-8tb-external-usb-3-0-hard-drive-black/6425302.p?skuId=6425302&utm_source=feed)		| OPTIONAL, if not included in ebay build or don't have. ALT: [2.5" SATA HDD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=900000000000,22000000000000&sort=price&f=3&t=5000,5200,5400,5640,5700,5760,5900,5940,7200&page=1)
@@ -456,7 +454,7 @@ ACCESSORY	|DP to HDMI Cable	|	$10	|	[Amazon](https://www.amazon.com/Amazon-Basic
 OS			|Ubuntu 24/Windows 1x Pro				|$0			|	[Ubuntu](https://ubuntu.com/download)	|	
 SOFTWARE	|Plex Media Server						|$0			|	[Plex](https://www.plex.tv/downloads)	|	Free
 LICENSE		|Plex Pass								|$120		|	[Plex](https://www.plex.tv/plex-pass/)	|	OPTIONAL. Lifetime cost or $40/year, $5/month.	
-TOTAL		|				|	$95	||
+TOTAL		|				|	$105	||
 
 <!-- Sub-Section -->
 
@@ -490,7 +488,7 @@ See our [Storage Setup Guide](/wiki/storage) for more information on software, d
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 PC			|Lenovo M720s SFF PC					|$100		|	[Ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28m720s%29+%288400%2C8500%2C8600%2C8700%29&_sacat=171957&_odkw=%28m710s%2Cm720s%29+%288400%2C8500%2C8600%2C8700%29&_osacat=171957&_sop=15&LH_PrefLoc=2&_udhi=250) | [specs](https://psref.lenovo.com/syspool/Sys/PDF/ThinkCentre/ThinkCentre_M720_SFF/ThinkCentre_M720_SFF_Spec.PDF). ALT: [HP/Dell](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28i5-8400%2Ci5-8500%2Ci5-8600%2Ci7-8700%29+%28hp%2Cdell%29+SFF&_sacat=179&_fsrp=1&_odkw=%28i5-8400%2Ci5-8500%2Ci5-8600%2Ci7-8700%29+%28hp%2Cdell%29+%28-micro%2C-DM%2C-MFF%29+%28-8400T%2C-8500T%29&_osacat=179&LH_BIN=1&_sop=15&LH_PrefLoc=2&_udhi=250)
-CPU			|Intel i5-8400							|Included	|	NA			|	65 W, 4C/4T. ALT: [i5-7400](https://www.ebay.com/sch/i.html?_from=R40&_nkw=m710s%20%287400%2C7500%2C7600%2C7700%29&_sacat=171957&LH_TitleDesc=0&_sop=15&LH_PrefLoc=2&rt=nc&_udhi=250) (-$10)
+CPU/GPU			|Intel i5-8400							|Included	|	NA			|	65 W, 6C/6T. ALT: [i5-7400](https://www.ebay.com/sch/i.html?_from=R40&_nkw=m710s%20%287400%2C7500%2C7600%2C7700%29&_sacat=171957&LH_TitleDesc=0&_sop=15&LH_PrefLoc=2&rt=nc&_udhi=250) (-$10)
 MEM/STORAGE	|8GB RAM, HDD/SSD/Bare					|Included	|	NA			|	
 STORAGE		|WD Blue SN570 500GB M.2 NVMe SSD (OS/APPS)		|$35		|	[Amazon](https://www.amazon.com/dp/B09HKG6SDF)		| OPTIONAL, if not included in ebay build.
 STORAGE		|WD 8-20 TB 3.5" SATA HDD (MEDIA)		|$100-350		|	[Serverpartdeals](https://serverpartdeals.com/collections/wd-ultrastar-sata-hard-drives?sort=price-ascending&pf_t_condition=condition%3AManufacturer+Recertified&pf_t_condition=condition%3ANew)		| OPTIONAL, if not included in ebay build or don't have.
