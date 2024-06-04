@@ -13,9 +13,7 @@ Here you'll find some pre-builts/mini-pcs and some sample DIY PC builds for HT, 
 
 Keep in mind, these are meant as examples for certain usage scenarios, even though they are real builds. You can add/subtract/change certain components to match your specific budget or requirements, but these should be a good starting point. If you're un-sure, check our [Hardware Components Guide](/wiki/components), or post and ask us.  
 
-You can use [PCPartPicker](http://www.pcpartpicker.com/) to help you select parts that will all fit and work together.  
-
-For current deals/promotions on parts for your build, try [r/buildapcsales](https://www.reddit.com/r/buildapcsales).  
+You can use [PCPartPicker](http://www.pcpartpicker.com/) to help you select parts that will all fit and work together. For current deals/promotions on parts for your build, check [/r/buildapcsales](https://www.reddit.com/r/buildapcsales).  
 
 &nbsp;
 
@@ -23,9 +21,11 @@ For current deals/promotions on parts for your build, try [r/buildapcsales](http
 
 ## HTPC Pre-builts/Mini-PCs
 
-The SBC options below will have the highest power efficiency, but also lowest comparative performance. Intel N/NUC CPUs (e.g. N5105/N95) have high efficiency. Intel T CPUs (e.g. i3-7100T) medium efficiency. Intel non-T/AMD CPUs, low efficiency.  
-Choosing the least expensive option is attractive, but not always the best course of action. Be mindful of the added costs like storage, adapters, shipping. Other factors can include limitations like operating system support, warranty, QC and reliability.  
-Respected mfgrs are: intel, hp, dell, apple, lenovo, asus, asrock, simply nuc, zotac, shuttle.  
+The SBC options below will have the highest power efficiency, but also lowest comparative performance. Intel N/NUC CPUs (e.g. N100) have high efficiency. Intel T CPUs (e.g. i3-7100T) medium efficiency. Intel non-T/AMD CPUs, low efficiency.  
+
+**Choosing the least expensive option is attractive, but not always the best course of action.** While we recommend some lower-cost chinese vendors below (like Beelink and Minisforum), these may not be for you. With low cost comes limitations like operating system/BIOS support, warranty, quality control and reliability. If you're not comfortable giving up on those things, spend more to purchase similar speced hardware from other, reputable vendors.  
+
+Some of these are: **Intel (NUC), Asus (PNxx/PBxx), ASRock (NUC Box, DeskMini/Meet), [Lenovo (ThinkCentre/IdeaCentre)](https://www.lenovo.com/us/en/desktops/subseries-results/?visibleDatas=992%3ASmall%2520Form%2520Factor%2CSmall%2520Form%2520Factor%25C2%25A0), HP (Prodesk/Elitedesk), Dell (Optiplex), Zotac (ZBOX), MSI (DP), Simply Nuc, Shuttle**.  
 
 <!-- Sub-Section -->
 
