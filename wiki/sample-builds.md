@@ -9,9 +9,11 @@
 </style>
 -->
 
-Here you'll find some pre-builts/mini-pcs and some sample DIY PC builds for HT, Emulation, Media Server and NAS purposes in their relevant sections. Before going through this page, look at the common scenarios in the [I want a HTPC/media device recommendation, but don't want to get into the complicated details](/wiki/faq#i-want-a-htpcmedia-device-recommendation-but-dont-want-to-get-into-the-complicated-details) section of the FAQ. You may find your specific scenario there and a device to match before you go down this rabbit hole. If what you want is not there, then read on here.  
+Here you'll find some pre-builts/mini-pcs and some sample DiY builds for HT, Emulation, Media Server and NAS purposes in their relevant sections. Before going through this page, look at the common scenarios in the [I want a HTPC/media device recommendation, but don't want to get into the complicated details](/wiki/faq#i-want-a-htpcmedia-device-recommendation-but-dont-want-to-get-into-the-complicated-details) section of the FAQ. You may find your specific scenario there and a device to match before you go down this rabbit hole. If what you want is not there, then read on here.  
 
-Keep in mind, these are meant as examples for certain usage scenarios, even though they are real builds. You can add/subtract/change certain components to match your specific budget or requirements, but these should be a good starting point. If you're un-sure, check our [Hardware Components Guide](/wiki/components), or post and ask us.  
+**There are a lot of options below. You should have a good idea what you're looking for before-hand. Resolution you want to support, video codecs to be decoded, budget, size, used/new, and/or niche capabilities (gaming, 120Hz, specialty ports). All of these will help you narrow your choice down.**
+
+Keep in mind, the DiY builds are meant as examples for certain usage scenarios, even though they are real builds. You can add/subtract/change certain components to match your specific budget or requirements, but these should be a good starting point. If you're un-sure, check our [Hardware Components Guide](/wiki/components), or post and ask us.  
 
 You can use [PCPartPicker](http://www.pcpartpicker.com/) to help you select parts that will all fit and work together. For current deals/promotions on parts for your build, check [/r/buildapcsales](https://www.reddit.com/r/buildapcsales).  
 
@@ -25,23 +27,23 @@ The SBC options below will have the highest power efficiency, but also lowest co
 
 **Choosing the least expensive option is attractive, but not always the best course of action.** While we recommend some lower-cost chinese vendors below (like Beelink and Minisforum), these may not be for you. With low cost comes limitations like operating system/BIOS support, warranty, quality control and reliability. If you're not comfortable giving up on those things, spend more to purchase similar speced hardware from other, reputable vendors.  
 
-Some of these are: **Intel (NUC), Asus (PNxx/PBxx), ASRock (NUC Box, DeskMini/Meet), [Lenovo (ThinkCentre/IdeaCentre)](https://www.lenovo.com/us/en/desktops/subseries-results/?visibleDatas=992%3ASmall%2520Form%2520Factor%2CSmall%2520Form%2520Factor%25C2%25A0), HP (Prodesk/Elitedesk), Dell (Optiplex), Zotac (ZBOX), MSI (DP), Simply Nuc, Shuttle**.  
+Some of these are: **Intel (NUC), [Lenovo (ThinkCentre/IdeaCentre)](https://www.lenovo.com/us/en/desktops/subseries-results/?visibleDatas=992%3ASmall%2520Form%2520Factor%2CSmall%2520Form%2520Factor%25C2%25A0), [MSI (DP)](https://www.amazon.com/MSI-12M-407US-Business-i3-12100-Graphics/dp/B0B4BN6TQG?th=1&tag=p00935-20&ascsubtag=02xtx2BszHujAjeR4KoSEAo), Asus (PNxx/PBxx), ASRock (NUC Box, DeskMini/Meet), HP (Prodesk/Elitedesk), Dell (Optiplex), Zotac (ZBOX), Simply Nuc, Shuttle**. We're fond of the Lenovo IdeaCentre and MSI DP series.  
 
 <!-- Sub-Section -->
 
 ### 1080p PLAYERS
 
-**TL;DR If you need extreme power efficiency, then a small ARM-based SBC is ok; but a used Intel 7th gen USFF/SFF/NUC off ebay for $75-125 has better perf / $ and more hw flexibility. For new, an Intel N95 based mini pc <= $150 with mem/storage.**  
+**TL;DR If you need extreme power efficiency, then a small ARM-based SBC is ok; but a used Intel 7th gen USFF/SFF/NUC off ebay for $60-100 has better perf / $ and more hw flexibility. For new, an Intel N95 based mini pc <= $150 with mem/storage.**  
 
  $35-$55: SMALLEST: SBC: (Linux/Coreelec/Libreelec only): [ROCK64-2GB](https://pine64.com/product/rock64-2gb-single-board-computer/) / [Orange Pi 3](https://www.aliexpress.us/item/3256804341645667.html) / [Odroid C4](https://www.hardkernel.com/shop/odroid-c4/). Just good enough, small and cheap.  
 
- $60-100: SMALL/MEDIUM: Used HP/Dell/Lenovo - Intel - i3/i5-7100T/7400T/7500T, >= 8GB RAM, >= 120GB disk. [[Ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28hp%2Cdell%2Clenovo%29+%28i3-7100%2Ci5-7400%2Ci5-7500%29&_sacat=179&LH_TitleDesc=0&LH_BIN=1&_sop=15&_udhi=150&_blrs=recall_filtering)]  
+ $60-100: SMALL/MEDIUM: Used: HP/Dell/Lenovo - Intel - i3/i5-7100T/7400T/7500T, >= 8GB RAM, >= 120GB disk. [[Ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28hp%2Cdell%2Clenovo%29+%28i3-7100%2Ci5-7400%2Ci5-7500%29&_sacat=179&LH_TitleDesc=0&LH_BIN=1&_sop=15&_udhi=150&_blrs=recall_filtering)]  
 
- $80: SMALLER: Used Intel NUC7i3/NUC7CJYH, >= 8GB, >= 128GB disk. Lower power than HP/Dell/Lenovo above. [[Ebay](https://www.ebay.com/sch/179/i.html?_from=R40&_nkw=nuc+%287100u%2C7260u%2C7300u%2Cj4005%2Cj4025%2Cj5005%29&LH_BIN=1&_sop=15)]  
+ $80: SMALLER: Used: Intel NUC7i3/NUC7CJYH, >= 8GB, >= 128GB disk. Lower power than HP/Dell/Lenovo above. [[Ebay](https://www.ebay.com/sch/179/i.html?_from=R40&_nkw=nuc+%287100u%2C7260u%2C7300u%2Cj4005%2Cj4025%2Cj5005%29&LH_BIN=1&_sop=15)]  
 
- $125-160: SMALLER: New **Intel N95**/N5095 Mini PC ([Minisforum/Beelink/etc..](https://www.amazon.com/s?k=minsforum+beelink+N5095+N95&crid=CZRI7XC6T32)), 8GB RAM, 256GB disk  
+ $125-160: SMALLER: New: **Intel N95**/N5095 Mini PC ([Minisforum/Beelink/etc..](https://www.amazon.com/s?k=minsforum+beelink+N5095+N95&crid=CZRI7XC6T32)), 8GB RAM, 256GB disk  
 
- $130-150: SMALLEST: New Intel N95/N5105 Nano PC ([GMKTec](https://www.amazon.com/GMKtec-Nucbox5-Desktop-Computer-Windows/dp/B0B75PT2RY)/[Mele](https://www.amazon.com/MeLE-Overclock4C-Computer-Ethernet-Business/dp/B0CLH62PTK)), 8GB RAM, 128GB-256GB disk  
+ $130-150: SMALLEST: New: Intel N95/N5105 Nano PC ([GMKTec](https://www.amazon.com/GMKtec-Nucbox5-Desktop-Computer-Windows/dp/B0B75PT2RY)/[Mele](https://www.amazon.com/MeLE-Overclock4C-Computer-Ethernet-Business/dp/B0CLH62PTK)), 8GB RAM, 128GB-256GB disk  
 
 <!-- Sub-Section -->
 
@@ -66,11 +68,11 @@ $125-$400: SMALLER: Intel/AMD Mini PC, 8GB (2x4GB) RAM, 256GB SSD
 - AMD: [Beelink SER6](https://www.amazon.com/s?k=ser6&rh=n%3A13896591011&ref=nb_sb_noss) ($375)  
 - *Used for:* H26x, VP9, **AV1 (S12, SEI 11/12, SER6)** local content + 4k netflix/YT, web browsing, int. 2.5" storage, plex server (intel), light gaming (SEI11, SER6).  
 
-$100-$725: SMALL/MEDIUM: Intel - i3/i5-7xxx/8xxx/9xxx+ 8GB (2x4GB) RAM, 256GB ssd/1TB hdd: 
+$100-$500: SMALL/MEDIUM: Intel - i3/i5-7xxx/8xxx/9xxx+ 8GB (2x4GB) RAM, 256GB ssd/1TB hdd: 
 
  - USED: [Dell Optiplex xx50-xx90](https://www.ebay.com/sch/i.html?_fsrp=1&_from=R40&_nkw=%28optiplex%29+%283050%2C3060%2C3070%2C3080%2C5060%2C5070%2C5080%2C7060%2C7070%2C7080%29+%28i3-8100%2Ci3-9100%2Ci3-10100%2Ci5-7400%2Ci5-7500%2C7600%2Ci5-8400%2C8500%2Ci5-8600%2Ci5-9400%2C9500%2C9600%29&_sacat=0&LH_TitleDesc=0&_sop=15&_oaa=1&_dcat=179&rt=nc&LH_BIN=1) + [CableCreation Active DP 1.4->HDMI Cable](https://www.amazon.com/CableCreation-Unidirectional-DisplayPort-Eyefinity-Multi-Display/dp/B082CXMBCQ) ($100-$300)
 
- - NEW: [Lenovo IdeaCentre Mini](https://www.lenovo.com/us/en/p/desktops/ideacentre/500-series/ideacentre-mini-gen-8-(1l-intel)/90w2000gut) / [Lenovo Neo 50s Gen 4 SFF](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=lenovo+neo+50s&_sacat=179&LH_TitleDesc=0&_odkw=neo+50s&_osacat=179&_sop=15&LH_ItemCondition=3) ($500) 
+ - NEW: [Lenovo IdeaCentre Mini](https://www.lenovo.com/us/en/p/desktops/ideacentre/500-series/ideacentre-mini-gen-8-(1l-intel)/90w2000gut) / [Lenovo Neo 50s Gen 4 SFF](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=lenovo+neo+50s&_sacat=179&LH_TitleDesc=0&_odkw=neo+50s&_osacat=179&_sop=15&LH_ItemCondition=3) / [MSI PRO DP21](https://www.amazon.com/MSI-12M-407US-Business-i3-12100-Graphics/dp/B0B4BN6TQG?th=1&tag=p00935-20&ascsubtag=02xtx2BszHujAjeR4KoSEAo) ($500) 
 
  - *Used for:* H26x/VP9 local content, 4k netflix/YT, web browsing, **int. 3.5" storage (SFF/MT models)**, plex server, low power (xxxxT cpu models).  
 
