@@ -76,11 +76,11 @@ $100-$500: SMALL/MEDIUM: Intel - i3/i5-7xxx/8xxx/9xxx+ 8GB (2x4GB) RAM, 256GB ss
 
  - *Used for:* H26x/VP9, **AV1** (Lenovo/MSI) local content, 4k netflix/YT, web browsing, **int. 3.5" storage (SFF/MT models)**, plex server, low power (xxxxT cpu models).  
 
-$175-$550: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB hdd
+$175-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB hdd
 
  - USED: [HP EliteDesk 705 G5](https://www.ebay.com/sch/179/i.html?_from=R40&_nkw=hp+705+g5+%283200g%2C3400g%29&LH_TitleDesc=1&_sop=15&LH_PrefLoc=2&rt=nc&LH_BIN=1) + [CableCreation Active DP 1.4->HDMI Cable](https://www.amazon.com/CableCreation-Unidirectional-DisplayPort-Eyefinity-Multi-Display/dp/B082CXMBCQ) ($175-$300)
 
- - NEW: [Lenovo M75s Gen 2 SFF](https://www.ebay.com/sch/i.html?_from=R40&_nkw=lenovo+m75s+gen+2&_sacat=179&LH_TitleDesc=0&_sop=15&rt=nc&LH_ItemCondition=1500%7C1000) + [CableCreation Active DP 1.4->HDMI Cable](https://www.amazon.com/CableCreation-Unidirectional-DisplayPort-Eyefinity-Multi-Display/dp/B082CXMBCQ) ($575)
+ - NEW: [Lenovo M75s Gen 2 SFF](https://www.ebay.com/sch/i.html?_from=R40&_nkw=lenovo+m75s+gen+2&_sacat=179&LH_TitleDesc=0&_sop=15&rt=nc&LH_ItemCondition=1500%7C1000) + [CableCreation Active DP 1.4->HDMI Cable](https://www.amazon.com/CableCreation-Unidirectional-DisplayPort-Eyefinity-Multi-Display/dp/B082CXMBCQ) ($500)
 
  - *Used for:* H26x/VP9 local content, 4k netflix/YT, web browsing, **int. 3.5" storage (SFF/MT models)**, **light gaming**, low power (xxxxGE cpu models).  
 
