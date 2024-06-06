@@ -249,7 +249,7 @@ You can add 3.5" HDD content storage for an all-in-one. Since optional, it's not
 
 Choose the DeskMeet option if you don't have a height restriction (like a small media cabinet) or want a full-height ITX GPU, otherwise choose the Apex or one of the slimmer variations.  
 
-*Larger Slimmer variation*: 12-16L, 4" (H): Change CASE to [InWin BL040](https://www.amazon.com/InWin-BL040-mATX-Desktop-Black/dp/B0964K2W4R)/[Apex DM-387](https://www.newegg.com/black-apex-dm-387-micro-atx-media-center-htpc-case/p/N82E16811154087) (PSU still included) ($75-100) or a Silverstone [ML03](https://pcpartpicker.com/product/bWR48d/silverstone-case-ml03b)/[ML04](https://pcpartpicker.com/product/fsw323/silverstone-case-ml04b) (3xHDD), (add an [ATX PSU](https://pcpartpicker.com/products/power-supply/#sort=price&e=4,3,2,1&th=1&m=8,337,50,11,14,106,101,18,229,51,71,63,441,113,56)). You can change to a [uATX mobo](https://pcpartpicker.com/products/motherboard/#xcx=0&f=7&c=145&sort=price&page=1) with these cases, which is cheaper than ITX. LP dGPU possible
+*Larger Slimmer variation*: 12-16L, 4" (H): Change CASE to [InWin BL040](https://www.amazon.com/InWin-BL040-mATX-Desktop-Black/dp/B0964K2W4R) (PSU still included) ($75-100) or a Silverstone [ML03](https://pcpartpicker.com/product/bWR48d/silverstone-case-ml03b)/[ML04](https://pcpartpicker.com/product/fsw323/silverstone-case-ml04b) (3xHDD), (add an [ATX PSU](https://pcpartpicker.com/products/power-supply/#sort=price&e=4,3,2,1&th=1&m=8,337,50,11,14,106,101,18,229,51,71,63,441,113,56)). You can change to a [uATX mobo](https://pcpartpicker.com/products/motherboard/#xcx=0&f=7&c=145&sort=price&page=1) with these cases, which is cheaper than ITX. LP dGPU possible
 
 *Larger Cube variation*: 12-16L: $50 more. Change CASE to [Silverstone SG13B](https://www.amazon.com/SilverStone-Technology-Mini-ITX-Computer-SST-SG13B-USA/dp/B07MNC3JCB) (1xHDD) or [Sharkoon QB One](https://www.amazon.com/Sharkoon-ONE-ITX-CABINET-4044951016433/dp/B00TL8VN5I) (2xHDD), add an [ATX PSU](https://pcpartpicker.com/products/power-supply/#sort=price&e=4,3,2,1&p=1,2&th=1). ITX dGPU possible
 
@@ -280,11 +280,11 @@ TOTAL			|											|$415	|	|
 
 <!-- Sub-Section -->
 
-### CHEAPEST 4K HDR/ALL-IN-ONE PLAYER - NEW (14L)
+### CHEAPEST 4K HDR/ALL-IN-ONE PLAYER - NEW (12L)
 
 TL;DR: You want 4K@60 local/youtube/netflix HDR on a real PC, may want HDD media storage and want the cheapest build with new hardware that we're comfortable recommending.  
 
-Not the prettiest case, but slim and gets the job done at 14 liters.  
+Not the prettiest case, but slim and gets the job done at 12 liters.  
 
 Light 720p gaming can be had here, if you need.  
 
@@ -294,17 +294,17 @@ You can add one or more 3.5" HDD content storage for an all-in-one.
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
-CASE	|Apex Slim MicroATX DM-387 Case w/275W PSU		|$80	|[newegg](https://www.newegg.com/black-apex-dm-387-micro-atx-media-center-htpc-case/p/N82E16811154087)	|17.0" x 12.8" x 3.9"
+CASE	|InWin Slim MicroATX BL040 Case w/300W PSU		|$100	|[amazon](https://www.amazon.com/InWin-BL040-mATX-Desktop-Black/dp/B0964K2W4R)	|13" x 14.4" x 3.8"
 MOBO	|Gigabyte A520M S2H MicroATX				|$50  	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&s=33&sort=price&f=7)	| ALT: [Intel H610M](https://pcpartpicker.com/products/motherboard/#xcx=0&sort=price&f=7&c=155) ($80)
 CPU	|AMD Ryzen 5 4600G (65W)				|$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: [Intel G6900](https://pcpartpicker.com/product/QKbTwP/intel-celeron-g6900-34-ghz-dual-core-processor-bx80715g6900) ($70) 
 MEM	|G.Skill Value DDR4-2400 2x4GB		|$25  	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&sort=price&Z=8192002,16384002&ff=ddr4)	|
 STORAGE	|Silicon Power 256GB 2.5" SATA SSD (OS/APPS)				|$20	|[pcpartpicker](https://pcpartpicker.com/product/kh9tt6/silicon-power-ace-a55-256-gb-25-solid-state-drive-sp256gbss3a55s25)	|ALT: M.2 SSD ($25)
 STORAGE			|Hitachi Ultrastar 7K3000 3TB 7200rpm 3.5" HDD (MEDIA)			|$45	|amazon	|OPTIONAL
-TOTAL	|							|$275  	|	|
+TOTAL	|							|$295  	|	|
 
 <!-- Sub-Section -->
 
-### AV1 DECODING ALL-IN-ONE PLAYER (14L)
+### AV1 DECODING ALL-IN-ONE PLAYER (12L)
 
 HTPC that can hardware decode the next-gen AV1 codec without buying a dGPU, which costs as much as this whole system. Also can do 4K local/youtube/netflix HDR as well as fit a couple 3.5" HDDs.
 
@@ -316,12 +316,12 @@ MicroATX is the cheapest, but ITX alternatives aren't much more.
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
-CASE	|Apex Slim MicroATX DM-387 Case w/275W PSU			|	$80		|	[pcpartpicker](https://pcpartpicker.com/product/vDg323/apex-case-dm387)													|	ALT: ITX: Apex MI-008 Mini ITX w/250W PSU (9.6L) ($60)
+CASE	|InWin Slim MicroATX BL040 Case w/300W PSU			|	$100		|	[amazon](https://www.amazon.com/InWin-BL040-mATX-Desktop-Black/dp/B0964K2W4R)			|	ALT: ITX: Apex MI-008 Mini ITX w/250W PSU (9.6L) ($60)
 MOBO	|MSI PRO B760M-P DDR4 MicroATX					|	$100		|	[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&s=40&f=7&sort=price&page=1)		|	ALT: ITX: [pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&sort=price&f=8&s=40)
 CPU		|Intel i3-12100 - 60W							|	$120		|	[pcpartpicker](https://pcpartpicker.com/product/qrhFf7/intel-core-i3-12100-33-ghz-quad-core-processor-bx8071512100)		| ALT: Intel G7400 ($80)
 MEM		|Teamforce Vulcan Z DDR4-3200 2x8GB				|	$35		|	[pcpartpicker](https://pcpartpicker.com/product/2Bnypg/team-t-force-vulcan-z-16-gb-2-x-8-gb-ddr4-3200-cl16-memory-tlzgd416g3200hc16fdc01)	|	ALT: [pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&sort=price&S=3000,8000&Z=16384002)
 STORAGE		|Teamgroup MP33 512GB NVMe M.2 SSD 			|	$40		|[pcpartpicker](https://pcpartpicker.com/product/Brvqqs/team-mp33-512-gb-m2-2280-nvme-solid-state-drive-tm8fp6512g0c101)	|ALT: WD Black SN770 500 GB M.2 ($40)
-TOTAL							|			|	$375		|			|
+TOTAL							|			|	$395		|			|
 
 <!-- Sub-Section -->
 
@@ -635,7 +635,7 @@ TOTAL		|										|$150		|	NA			|
 ### $100 720p/1080p Gaming Emulation Box (1.2L)
 
 This is a good, small (Micro/USFF) emulation box for NES/SNES, Game Gear, Sega Master/Saturn/Dreamcast, PSP/PS1, N64/Gamecube, AtomisWave.  
-3DS, PS2 and anything >= Wii will struggle, depending on the game. If you want to run those, move up to a i5-6500 SFF and low profile Nvidia GT 1030 GDDR5 used off ebay for $75 more; if you need to stay in the Micro/USFF form-factor, look at [AMD-based pre-builts](https://www.ebay.com/sch/179/i.html?_from=R40&_nkw=%283200ge%2C3400ge%2C2400ge%2C3200ge%29&LH_TitleDesc=0&LH_BIN=1&_sop=15&_udhi=150%29+%28%24100%29+OR+%3E%3D+%5BJ4125+Mini+PC%5D%28https%3A%2F%2Fwww.amazon.com%2FNucBox-Windows-Computer-Intel-J4125%2Fdp%2FB092JFVX2Z) ($175).  
+3DS, PS2 and anything >= Wii will struggle, depending on the game. If you want to run those, move up to a i5-8500 SFF and low profile Nvidia GT 1030 GDDR5 used off ebay for $70 more; if you need to stay in the Micro/USFF form-factor, look at [AMD-based pre-builts](https://www.ebay.com/sch/179/i.html?_from=R40&_nkw=%283200ge%2C3400ge%2C2400ge%2C3200ge%29&LH_TitleDesc=0&LH_BIN=1&_sop=15&_udhi=150%29+%28%24100%29+OR+%3E%3D+%5BJ4125+Mini+PC%5D%28https%3A%2F%2Fwww.amazon.com%2FNucBox-Windows-Computer-Intel-J4125%2Fdp%2FB092JFVX2Z) ($175).  
 This is not for anything like PS3, CEMU, or anything >= Xbox  
 
 Make sure to get one with 2x4GB sticks of RAM, not a single stick.  
@@ -646,8 +646,8 @@ Will handle 1080p video duties fine
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
-CASE		|HP/Dell/Lenovo	|	$90	|	[Ebay](https://www.ebay.com/sch/i.html?_fsrp=1&_from=R40&LH_TitleDesc=0&LH_PrefLoc=2&LH_ItemCondition=1000%7C2010%7C2020%7C2030%7C3000&_nkw=%28hp%2Cdell%2Clenovo%29+%28i5-6400t%2Ci5-6500t%2Ci5-6600t%2Ci5-7400t%29&_sacat=179&LH_BIN=1&_sop=15&_udhi=150&rt=nc&RAM%2520Size=8%2520GB%7C12%2520GB%7C16%2520GB%7C32%2520GB&_oaa=1&_dcat=179)	|	Prodesk 400/600 G2, Optiplex 3040/3050, Thinkcentre M710q/M900
-CPU/GPU		|Intel i5-6500T	|	Included|	NA|		ALT: i5-4590T
+CASE		|HP/Dell/Lenovo	|	$90	|	[Ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28hp%2Cdell%2Clenovo%29+%28i5-8400t%2Ci5-8500t%29&_sacat=179&_fsrp=1&_odkw=%28hp%2Cdell%2Clenovo%29+%28i5-8400t%2Ci5-8500t%2Ci5-7400t%2Ci5-7500t%29&_osacat=179&LH_BIN=1&_sop=15&LH_PrefLoc=2&_udhi=150)	|	Prodesk G4, Optiplex 3060/5060/7060, Thinkcentre M720q/M920q
+CPU/GPU		|Intel i5-8500T	|	Included|	NA|		ALT: i5-7500T
 MEM			|2x4GB (8GB) DDR4|	Included|	NA|		NA
 STORAGE		|120-500GB HDD/SSD		|	Included|	NA|		ALT: 2.5"/M.2 SSD ($30)
 ACCESSORY	|DP to HDMI Cable	|	$10	|	[Amazon](https://www.amazon.com/Amazon-Basics-Uni-Directional-DisplayPort-Display/dp/B015OW3M1W/)	| 1080p/60, 4k/30
@@ -655,7 +655,7 @@ TOTAL		|				|	$100	||
 
 <!-- Sub-Section -->
 
-### $300 720p/1080p Gaming Emulation Box (13.9L)
+### $300 720p/1080p Gaming Emulation Box (12L)
 
 Good for 720p internal resolution on emulators, [1080p up the Wii/Gamecube/PS2](https://www.youtube.com/watch?v=J97MxOr9hu0&t=11s). Less demanding PS3 games are possible, but you might have to take down to 720p.  
 
@@ -671,13 +671,13 @@ If you don't want to build, you can find [SFF/USFF pre-builts on Ebay with the R
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
-CASE	|Apex Slim DM-387 MicroATX case w/275W PSU			|$75		|[newegg](https://www.newegg.com/black-apex-dm-387-micro-atx-media-center-htpc-case/p/N82E16811154087)	|ALT: [InWin BL040](https://www.amazon.com/InWin-BL040-mATX-Desktop-Black/dp/B0964K2W4R) (13.9L) ($95), [Silverstone ML03b](https://pcpartpicker.com/product/bWR48d/silverstone-case-ml03b) (15.7L) ($95)/[Jonsbo C6](https://www.newegg.com/p/2AM-006A-000C4) (15.8L) ($60)
+CASE	|InWin Slim BL040 MicroATX case w/300W PSU			|$100		|[amazon](https://www.amazon.com/InWin-BL040-mATX-Desktop-Black/dp/B0964K2W4R)	|ALT: [Silverstone ML03b](https://pcpartpicker.com/product/bWR48d/silverstone-case-ml03b) (15.7L) ($95)/[Jonsbo C6](https://www.newegg.com/p/2AM-006A-000C4) (15.8L) ($60)
 PSU		|Included							|$0		|	|ALT: [EVGA BQ 500W](https://pcpartpicker.com/product/8P7CmG/evga-bq-500w-80-bronze-certified-semi-modular-atx-power-supply-110-bq-0500-k1) ($60)
 CPU		|AMD Ryzen 5 4600G APU (65W)				|$100		|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: [Ryzen 3400G - Ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=3400g&_sacat=0&LH_BIN=1&_sop=15) ($75)
 MOBO	|MSI A520M-A PRO MicroATX		|$70		|[pcpartpicker](https://pcpartpicker.com/product/nZTzK8/msi-a520m-a-pro-micro-atx-am4-motherboard-a520m-a-pro)	|ALT: 3400G: [MSI A320M PRO](https://pcpartpicker.com/product/mB4BD3/msi-a320m-a-pro-micro-atx-am4-motherboard-a320m-a-pro) ($80)
 MEM		|Silicon Power Gaming 2x8GB DDR4-3200		|$30		|[pcpartpicker](https://pcpartpicker.com/product/P4FKHx/silicon-power-sp016gxlzu320bdaj5-16-gb-2-x-8-gb-ddr4-3200-cl16-memory-sp016gxlzu320bdaj5)	|ALT: Deskmini: [2x8GB DDR4-3200 SODIMMS](https://pcpartpicker.com/products/memory/#xcx=0&b=ddr4&ff=ddr4_sodimm&sort=price&S=2666,8000&Z=16384002)
 STORAGE	 	|Teamgroup MP33 256GB NVMe M.2 SSD					|$25		|[pcpartpicker](https://pcpartpicker.com/product/zZJmP6/team-mp33-256-gb-m2-2280-nvme-solid-state-drive-tm8fp6256g0c101)	|ALT: WD Black SN770 500 GB M.2 ($45)
-TOTAL	|								|$300	|	|
+TOTAL	|								|$325	|	|
 
 <!-- Sub-Section -->
 
@@ -874,5 +874,5 @@ TOTAL		|											|$844			|	|
 
 ---
 
-*This page was last updated on 2024-06-04*
+*This page was last updated on 2024-06-06*
 
