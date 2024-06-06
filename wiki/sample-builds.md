@@ -635,7 +635,7 @@ TOTAL		|										|$150		|	NA			|
 ### $100 720p/1080p Gaming Emulation Box (1.2L)
 
 This is a good, small (Micro/USFF) emulation box for NES/SNES, Game Gear, Sega Master/Saturn/Dreamcast, PSP/PS1, N64/Gamecube, AtomisWave.  
-3DS, PS2 and anything >= Wii will struggle, depending on the game. If you want to run those, move up to a i5-8500 SFF and low profile Nvidia GT 1030 GDDR5 used off ebay for $70 more; if you need to stay in the Micro/USFF form-factor, look at [AMD-based pre-builts](https://www.ebay.com/sch/179/i.html?_from=R40&_nkw=%283200ge%2C3400ge%2C2400ge%2C3200ge%29&LH_TitleDesc=0&LH_BIN=1&_sop=15&_udhi=150%29+%28%24100%29+OR+%3E%3D+%5BJ4125+Mini+PC%5D%28https%3A%2F%2Fwww.amazon.com%2FNucBox-Windows-Computer-Intel-J4125%2Fdp%2FB092JFVX2Z) ($175).  
+3DS, PS2 and anything greater will struggle a bit, depending on the game. Check [ETA Prime's reviews](https://www.youtube.com/watch?v=XONKVZf0m6o). If you want to run those, move up to a i5-8500 SFF and low profile Nvidia GT 1030 GDDR5 used off ebay for $70 more; if you need to stay in the Micro/USFF form-factor, look at [AMD-based pre-builts](https://www.ebay.com/sch/179/i.html?_from=R40&_nkw=%283200ge%2C3400ge%2C2400ge%2C3200ge%29&LH_TitleDesc=0&LH_BIN=1&_sop=15&_udhi=150%29+%28%24100%29+OR+%3E%3D+%5BJ4125+Mini+PC%5D%28https%3A%2F%2Fwww.amazon.com%2FNucBox-Windows-Computer-Intel-J4125%2Fdp%2FB092JFVX2Z) ($175).  
 This is not for anything like PS3, CEMU, or anything >= Xbox  
 
 Make sure to get one with 2x4GB sticks of RAM, not a single stick.  
@@ -657,7 +657,7 @@ TOTAL		|				|	$100	||
 
 ### $300 720p/1080p Gaming Emulation Box (12L)
 
-Good for 720p internal resolution on emulators, [1080p up the Wii/Gamecube/PS2](https://www.youtube.com/watch?v=J97MxOr9hu0&t=11s). Less demanding PS3 games are possible, but you might have to take down to 720p.  
+Good for 720p internal resolution on emulators, [1080p up to Wii/Gamecube/PS2](https://www.youtube.com/watch?v=J97MxOr9hu0&t=11s). Less demanding PS3 games are possible, but you might have to take down to 720p.  
 
 Will handle 4k video duties just fine.  
 
