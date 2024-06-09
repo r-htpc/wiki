@@ -318,11 +318,10 @@ A higher efficiency means a lower power bill, but this comes with a higher PSU c
 
 Efficiency is also tied to how much load you put on the PSU. A PSU is the most efficient when it's at 50% of its maximum load. So if you expect to be using 150W consistently, then a 300W PSU will be ideal. 
 
-For most HTPC builds (but check the calculator!), we usually recommend a 80+ Bronze PSU in the 300-400W range. Problem is, these days, most PC builds are around gaming and PSU sizes 
-tend to trend higher, so finding a good selection of lower wattage PSUs isn't easy. You may have to go up to a 500W PSU. Sometimes you will find a case with a lower wattage 
-(200W-250W) PSU built right-in.  
+For most HTPC builds with just an iGPU (but check the calculator!), we usually recommend at least a 80+ Bronze PSU in the 300-400W range. Problem is, these days, most PC builds are based around gaming and PSU sizes tend to trend higher, so finding a good selection of lower wattage PSUs isn't easy, in standard SFX/ATX form factors. You may have to go up to at least a 500W PSU. Sometimes you will find a case with a lower wattage (200W-300W) TFX PSU built right in.  
 
 BRANDS/MODELS:  
+Ratings: [Cybenetics PSU Database](https://www.cybenetics.com/index.php?option=power-supplies)  
 ATX: Seasonic (Focus/S12/GM), Super Flower (Leadex), EVGA (GA/G5/GD), Corsair (RM/CXM), Silverstone (ST/SX). Shoot for a warranty of 5-10 years.  
 [Example ATX/SFX PSU search](https://pcpartpicker.com/products/power-supply/#m=8,337,169,50,11,14,106,229,71,63,441,56&sort=price&A=200000000000,1000000000000&e=6,5,4,3,2,1)  
 Silent (< 20 dBA): [Phanteks Amp](https://www.cybenetics.com/index.php?option=database&cert=1&bdg=4&volts=1&manfID=83), [Super Flower Leadex III Gold](https://www.cybenetics.com/index.php?option=database&params=1,0,55), [be Quiet! Straight Power 11](https://www.cybenetics.com/index.php?option=database&params=1,0,22), [Corsair RM550x](https://www.cybenetics.com/index.php?option=database&params=1,0,28)  
