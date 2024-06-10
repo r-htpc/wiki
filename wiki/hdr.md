@@ -40,12 +40,14 @@
   * *GPU settings:*  
     * Intel  
       * Intel Graphics Control Panel/Command Center app
-        * Display -> Resolution/General Settings
+        * **Settings location varies per app/driver version**
+        * Display -> General -> Display Settings
           * Resolution: 3840x2160  
           * Refresh: 24/30/60Hz  
-        * Display -> Color/Color Settings
-          * Desktop color depth: Highest (32-bit)  
-        * Video -> Color Enhancement -> Input Range -> Driver Settings -> Full Range  
+        * Display -> Genenal / Display -> Color/Color Settings  
+          * Color Depth: BPC_8 (HDMI 2.0), BPC_10 (HDMI 2.1) / Highest (32-bit)
+          * Color Format: [RGB](/wiki/video#setup-for-color-reproduction) 
+        * Video -> Color Enhancement -> Input Range -> Driver Settings -> [Full Range](/wiki/video#setup-for-color-reproduction)  
     * NVIDIA  
       * Nvidia Control panel app
         * Manage 3D Settings (>= RTX 20xx) -> Program Settings -> Select a program: \<your media player\> -> Vertical Sync: ON, Low Latency Mode: OFF, Power Managment Mode: Prefer Max/Adaptive/Normal  
@@ -55,8 +57,8 @@
             * Refresh: 24/30/60/120Hz  
             * Desktop color depth: Highest (32-bit)  
             * Output color depth: 8 bpc (HDMI 2.0), 10 bpc (HDMI 2.1)  
-            * Output color format: RGB  
-            * Output dynamic range: Full  
+            * Output color format: [RGB](/wiki/video#setup-for-color-reproduction)  
+            * Output dynamic range: [Full](/wiki/video#setup-for-color-reproduction)  
     * AMD  
       * Windows
         * [Change Resolution/Refresh Rate](https://www.amd.com/en/support/kb/faq/dh2-005#faq-Display-Resolution)  
@@ -65,7 +67,7 @@
       * AMD Radeon Settings app
         * Display
           * Color depth: 8 bpc (HDMI 2.0), 10 bpc (HDMI 2.1)  
-          * Pixel format: RGB/YCbCr 4:4:4 Full  
+          * Pixel format: [RGB/YCbCr 4:4:4 Full](/wiki/video#setup-for-color-reproduction)  
           * Radeon FreeSync: Disabled (create an app profile for your media player if you don't want to disable this globally)
           <!-- Graphics -> Enhanced Sync: Disabled -->
   * *Windows settings:*
