@@ -81,6 +81,9 @@ RCA (red/white/etc): Analog: 1 channel/connector. Bitstreamed/PCM: None
 3.5mm: Analog: 1-2 channel(s)/connector. Bitstreamed/PCM: None  
 
 USB/Bluetooth: Digital. Channels dependent on external sound device connected. Bluetooth is **NOT** recommended for audio in video content due to inherent latency in the protocol. See audio sync section below.  
+
+SCART: Old European standard for AV equiptment audio and video. Analog: 2 channels/Stereo. Accessible from/to HTPC using scart to RCA switch. 
+
 <!-- Sub-Section -->
 
 ### **Audio Software**
