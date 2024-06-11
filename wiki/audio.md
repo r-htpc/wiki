@@ -231,15 +231,15 @@ In this scenario you will likely be bitstreaming through Optical, or in the case
 
 <img src="https://i.imgur.com/vpUWS5B.png" width="550" height="300" alt="DIAGRAM">
 
-1. Connect the HTPC's HDMI output to a [HDMI Audio Extractor](https://www.amazon.com/OREI-HDA-912-Audio-Converter-Extractor/dp/B07BHYXVTY)'s HDMI input, i.e. HTPC (HDMI) -> Audio Extractor (HDMI).  
+1. Connect the HTPC's HDMI output to a [HDMI Audio Extractor](/wiki/audio#accessories)'s HDMI input, i.e. HTPC (HDMI) -> Audio Extractor (HDMI).  
 2. Connect the HDMI Audio Extractor's HDMI output to the display's HDMI input, i.e. Audio Extractor (HDMI) -> TV (HDMI).  
-3. Connect the HDMI Audio Extractor's Optical/RCA/3.5mm ports to the sound system's Optical/RCA/3.5mm ports, i.e. Audio Extractor (Optical/RCA/3.5mm) -> Sound System (Optical/RCA/3.5mm).  
+3. Connect the HDMI Audio Extractor's HDMI audio/Optical/RCA/3.5mm ports to the sound system's HDMI/Optical/RCA/3.5mm ports, i.e. Audio Extractor (Optical/RCA/3.5mm) -> Sound System (Optical/RCA/3.5mm).  
 
  Video supported: Negotiated by HTPC, Display and HDMI Audio Extractor  
 
- Audio supported: Stereo PCM, Lossy DD 5.1/DTS 5.1 (optical), Stereo PCM (RCA), or Stereo/Surround analog (3.5mm).  
+ Audio supported: HDMI (all), Stereo PCM, Lossy DD 5.1/DTS 5.1 (optical), Stereo PCM (RCA), or Stereo/Surround analog (3.5mm).  
 
- NOTE: An audio extractor will not DECODE Dolby/DTS audio, it just passes it through its optical connector. If you send such a bitstreamed signal into it and expect audio out of its RCA/3.5" connectors, you will get NO audio; you either have to pass PCM in to get audio out of those connectors, or use an AVR/decoder box behind the optical port, like [this](https://www.amazon.com/J-Tech-Digital-Optical-Toslink-Converter/dp/B01A1HQE38).  
+ NOTE: An audio extractor will not DECODE audio codecs, it just passes it through its output connector. If you send such a bitstreamed signal into it and expect audio out of its analog connectors, you will get NO audio; you either have to pass PCM in to get audio out of those connectors, or use an AVR/decoder box behind the HDMI/optical port.  
 
 **Scenario #7** - Your HTPC does have multiple display outputs (either hdmi or displayport) but your sound system does NOT have a HDMI port
 
