@@ -528,8 +528,8 @@ STORAGE|3 x Ultrastar HC320 8TB HDD (DATA)|$540|[newegg](https://www.newegg.com/
 STORAGE|LSI 9207-8i, in IT/HBA mode|$40|[ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=9207+8i+%2Bcables&_sacat=0&LH_TitleDesc=0&_dmd=1&_stpos=80232-6476&_odkw=9201+%2B16i+%2Bcables&_osacat=0&_sop=15&LH_PrefLoc=2&_ipg=60&_sadis=15)|OPTIONAL. For more than 4xSATA ports/better controller support. ALT: [SATA card](https://www.amazon.com/dp/B0BNFBXBNS)
 COOL|Noctua NH-U12S Redux CPU Cooler|$50|[pcpartpicker](https://pcpartpicker.com/product/vV7G3C/noctua-nh-u12s-redux-7075-cfm-cpu-cooler-nh-u12s-redux)|ALT: be quiet Pure Rock 2 ($40)
 PSU|Corsair CX650M 650W|$75|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=1&A=500000000000,650000000000&p=1,3,2&sort=price&page=1)|ALT: Super Flower Leadex III Full 550W ATX
-SOFTWARE|Unraid - 6 device license|$60|[limetech](https://unraid.net/pricing)|
-TOTAL||$657||
+SOFTWARE|Unraid - 6 device license|$50|[limetech](https://unraid.net/pricing)|
+TOTAL||$647||
 
 <!-- Sub-Section -->
 
@@ -586,10 +586,10 @@ STORAGE          |       SATA Power Splitter Cables                             
 COOL		|	Arctic P14 PWM 140 mm Fan (FRONT)		|	$15	|	[amazon](https://www.amazon.com/dp/B07GZJY4TM?tag=pcpapi-20&linkCode=ogi&th=1&psc=1)		|
 COOL		|	Noctua NH-U12S Redux CPU Cooler			|	$50	|	[pcpartpicker](https://pcpartpicker.com/product/vV7G3C/noctua-nh-u12s-redux-7075-cfm-cpu-cooler-nh-u12s-redux)	|ALT: Thermalright Peerless Assassin 120 SE ($40)
 PSU		|	EVGA GA/G5 Fully-Modular 650W 80+ Gold ATX PSU	|	$100	|	[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&m=14&A=650000000000,2000000000000&p=1,2&sort=price&page=1)	|ALT: [Corsair RM650x (2021) 650W](https://pcpartpicker.com/product/CRC48d/corsair-rm-2021-650-w-80-gold-certified-fully-modular-atx-power-supply-cp-9020233-na) ($100)
-SOFTWARE	|	Unraid Pro - Unlimited device license		|	$130	|	[limetech](https://unraid.net/pricing)	|
+SOFTWARE	|	Unraid Pro - Unlimited device license		|	$110	|	[limetech](https://unraid.net/pricing)	|
 SOFTWARE	|	Plex Media Server				|	$0	|	[Plex](https://www.plex.tv/downloads)		|Free
 LICENSE		|	Plex Pass					|	$120	|	[Plex](https://www.plex.tv/plex-pass/)		|Lifetime cost or $40/year, $5/month.
-TOTAL		|							|	$3560	|			|
+TOTAL		|							|	$3540	|			|
 
 <!-- Sub-Section -->
 
@@ -621,8 +621,8 @@ MEM/STORAGE	|8GB DDR3 RAM, 500GB (varies) HDD		|Included	|	NA			|	Xeon: [ECC](ht
 STORAGE		|256GB 2.5" SATA SSD (OS/APP/CACHE)		|$25		|	[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=240000000000,22000000000000&t=0&sort=price&c1=di_sata.60)		| ALT: [512GB SATA SSD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=480000000000,22000000000000&t=0&sort=price&c1=di_sata.60) ($35)
 STORAGE		|WD Elements 4-20TB HDD - Shucked (DATA)|Varies		|	NA			|	[NAS Drive List](/wiki/storage#hard-drives)
 OS			|Unraid/Ubuntu 22/OMV/Windows			|$0			|	[Ubuntu](https://ubuntu.com/download)		|	Windows 10 usually included
-SOFTWARE	|Unraid - 6 device license				|$60		|	[limetech](https://unraid.net/pricing)		|	OPTIONAL
-TOTAL		|										|$150		|	NA			|
+SOFTWARE	|Unraid - 6 device license				|$50		|	[limetech](https://unraid.net/pricing)		|	OPTIONAL
+TOTAL		|										|$140		|	NA			|
 
 >!$300-$500: NEW, PRE-BUILT, MEDIA SERVER, INTERNAL 3.5" STORAGE: HP TP01,Dell 3891/3910,Intel 10th-12th gen,1xHDDs (official) 3xHDDs (un-official) w/sata power splitter+creative hdd mounting. [Ebay](https://www.ebay.com/sch/i.html?_fsrp=1&rt=nc&_from=R40&_nkw=\(hp%2Cdell\)+\(tp01%2C3891%2C3910\)+\(i3%2Ci5%2Ci7\)&_sacat=179&LH_BIN=1&LH_TitleDesc=0&_sop=15&LH_PrefLoc=2&LH_ItemCondition=1500%7C1000)!<  
 
@@ -874,5 +874,5 @@ TOTAL		|											|$844			|	|
 
 ---
 
-*This page was last updated on 2024-06-06*
+*This page was last updated on 2024-06-12*
 
