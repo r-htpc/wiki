@@ -581,15 +581,15 @@ MEM		|	G.Skill Ripjaws V 32GB (2x16GB) DDR4-3200	|	$70	|	[pcpartpicker](https://
 STORAGE		|	Samsung Bar Plus 64GB USB Flash Drive (BOOT)	|	$10	|	[amazon](https://www.amazon.com/Samsung-BAR-Plus-64GB-MUF-64BE4/dp/B07BPGF6N3/)		|
 STORAGE		|	2x SK Hynix P31 1TB NVMe M.2 SSD (APP/CACHE)	|	$175	|	[pcpartpicker](https://pcpartpicker.com/product/xNCFf7/sk-hynix-gold-p31-1-tb-m2-2280-nvme-solid-state-drive-shgp31-1000gm-2)	|ALT: SK Hynix P41 PCIe4
 STORAGE		|	11x Seagate Exos X16 14TB HDD (DATA)		|	$2300	|	[amazon](https://www.amazon.com/Seagate-3-5-Inch-Internal-Enterprise-ST14000NM001G/dp/B07T63FDJQ)	|ALT: WD Ultrastar DC HC530 14TB
-STORAGE		|	LSI 9207-8i Adapter + Cables, in IT/HBA mode	|	$55	|	[ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=9207+8i+%2Bcables&_sacat=0&LH_TitleDesc=0&_dmd=1&_stpos=80232-6476&_odkw=9201+%2B16i+%2Bcables&_osacat=0&_sop=15&LH_PrefLoc=2&_ipg=60&_sadis=15)	|ALT: [Adaptec ASR 71605](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=adaptec+asr+71605+%2Bcables&_sacat=0&LH_TitleDesc=0&_odkw=Adaptec+ASR+71605&_osacat=0) ($140)
+STORAGE		|	LSI 9207-8i Adapter + Cables, in IT/HBA mode	|	$40	|	[ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=9207+8i+%2Bcables&_sacat=0&LH_TitleDesc=0&_dmd=1&_stpos=80232-6476&_odkw=9201+%2B16i+%2Bcables&_osacat=0&_sop=15&LH_PrefLoc=2&_ipg=60&_sadis=15)	|ALT: [Adaptec ASR 71605](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=adaptec+asr+71605+%2Bcables&_sacat=0&LH_TitleDesc=0&_odkw=Adaptec+ASR+71605&_osacat=0) ($140)
 STORAGE          |       SATA Power Splitter Cables                                  |       $15  |       [amazon](https://www.amazon.com/Cable-Matters-Pack-Power-Splitter/dp/B012BPLW08)   |  
 COOL		|	Arctic P14 PWM 140 mm Fan (FRONT)		|	$15	|	[amazon](https://www.amazon.com/dp/B07GZJY4TM?tag=pcpapi-20&linkCode=ogi&th=1&psc=1)		|
 COOL		|	Noctua NH-U12S Redux CPU Cooler			|	$50	|	[pcpartpicker](https://pcpartpicker.com/product/vV7G3C/noctua-nh-u12s-redux-7075-cfm-cpu-cooler-nh-u12s-redux)	|ALT: Thermalright Peerless Assassin 120 SE ($40)
-PSU		|	EVGA GA/G5 Fully-Modular 650W 80+ Gold ATX PSU	|	$100	|	[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&m=14&A=650000000000,2000000000000&p=1,2&sort=price&page=1)	|ALT: [Corsair RM650x (2021) 650W](https://pcpartpicker.com/product/CRC48d/corsair-rm-2021-650-w-80-gold-certified-fully-modular-atx-power-supply-cp-9020233-na) ($100)
+PSU		|	EVGA GA/G5 Fully-Modular 650W 80+ Gold ATX PSU	|	$100	|	[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&m=14&A=650000000000,2000000000000&p=1,2&sort=price&page=1)	|ALT: [Corsair RM650 (2023) 650W](https://pcpartpicker.com/products/power-supply/#xcx=0&m=11&A=650000000000,2000000000000&p=1,2&sort=price&e=6,5,4) ($80)
 SOFTWARE	|	Unraid Pro - Unlimited device license		|	$110	|	[limetech](https://unraid.net/pricing)	|
 SOFTWARE	|	Plex Media Server				|	$0	|	[Plex](https://www.plex.tv/downloads)		|Free
 LICENSE		|	Plex Pass					|	$120	|	[Plex](https://www.plex.tv/plex-pass/)		|Lifetime cost or $40/year, $5/month.
-TOTAL		|							|	$3540	|			|
+TOTAL		|							|	$3525	|			|
 
 <!-- Sub-Section -->
 
