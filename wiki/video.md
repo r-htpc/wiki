@@ -545,7 +545,7 @@ Keep in mind we assume a HDMI input will be on your Display (TVs/Projectors, whi
 
 You will need to have HDMI 2.1 bandwidth on every HDMI device between your HTPC and your Display (GPU, TV, AVR, Switches, etc..). Simply having "HDMI 2.1" does not mean 4k@120 Hz bandwidth will be supported; this is an important distinction, so make sure they state 4k@120 hz support and/or >= 32 Gbps bandwidth (for at least media content) or >= 40 Gbps for gaming.  
 
-Options below for this are ordered from best to worst in terms of stability and reliability. 
+**Options below for this are ordered from best to worst in terms of stability and reliability.** 
 
 Technically, straight HDMI is the best (#1/#2/#3), followed by Thunderbolt->HDMI (#4/#5), USB-C->HDMI (#6) and DP->HDMI (#7/#8). 
 
@@ -556,7 +556,7 @@ Media content (HDR/10-bit/4:2:2) is technically possible without DSC support. Ga
   
 1. DiY: Any [decent cpu/motherboard](/wiki/components#motherboards) or [OEM build](https://www.ebay.com/sch/i.html?_from=R40&_nkw=sff+%28i5-7400%2Ci3-8100%2Ci5-8400%2Ci5-8500%2Ci3-9100%2Ci5-9400%2Ci5-9500%29&_sacat=179&_odkw=sff+%28i3-9100%2Ci5-9400%2Ci5-9500%29&_osacat=179&LH_BIN=1&_sop=15) + a discrete GPU w/a 4k@120 Hz HDMI 2.1. e.g. Radeon RX 6400, RTX 3050 6GB LP 
 2. DiY: An AMD Ryzen 7xxx/8xxxG desktop CPU and respective motherboard that states 4k@120Hz HDMI 2.1. e.g. Ryzen 8500G + ASRock A620I/B650I Lightning Wifi mobo or a ASRock Deskmini X600, for a realistic max of 4:2:2 10-bit HDR. 
-3. Pre-built: A Ryzen 6000+ or Intel 11th gen+ Mini PC with a 4k@120Hz HDMI 2.1 port. e,g. Ryzen: Minisforum Venus UM760 Pro, ASRock 4x4 7535U, Intel: Gigabyte Brix Extreme
+3. Pre-built: A Ryzen 6000+ or Intel 11th gen+ Mini PC with a 4k@120Hz HDMI 2.1 port. e,g. Ryzen: Minisforum Venus UM760 Pro, Beelink SER6 Max, ASRock 4x4 7535U, Intel: Gigabyte Brix Extreme
 4. Pre-built: An Intel 11th gen+ Mini PC with a Thunderbolt display out connector and a Thunderbolt->HDMI adapter/cable. e.g. Intel NUC [11](https://www.google.com/search?q=nuc11pahi5&oq=nuc11pahi5)/[12/13](https://www.newegg.com/p/pl?N=100008345%2050001157%20601331497&Order=1&SrchInDesc=nuc+12)/Lenovo IdeaCentre Mini Gen 8 + [Thunderbolt->HDMI 2.1 Cable](https://www.amazon.com/Cable-Matters-48Gbps-Adapter-Supporting/dp/B08QDV5H4M) 
 5. DiY: Intel 12th+ Gen CPU and respective motherboard with a Thunderbolt display out connector out and a [Thunderbolt->HDMI 2.1 Cable](https://www.amazon.com/Cable-Matters-48Gbps-Adapter-Supporting/dp/B08QDV5H4M). Not as good as straight HDMI, but better compared to DP or plain USB-C. This will likely be expensive as these boards are rare. e.g. for an ITX board, look at the Asus ROG STRIX Z690-I GAMING WIFI, ASRock Z690 Phantom Gaming-ITX/TB4 or ASRock Z790 PG-ITX/TB4. 
 6. Hybrid/DiY: An Intel 11th gen+ CPU and motherboard w/a USB-C Display Out and a USB-C->HDMI adapter/cable. e.g. ASRock Deskmini B660 + 
@@ -626,5 +626,5 @@ Audio Sync Tests - [1080p/H264/60fps/AAC](https://drive.google.com/file/d/18yl9K
 
 ---
 
-*This page was last updated on 2024-06-10*
+*This page was last updated on 2024-06-21*
 
