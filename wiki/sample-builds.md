@@ -157,7 +157,7 @@ $175-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB
 
   - 4k HDR10/DV-5/7/8, Dolby TrueHD Atmos, DTS:X, 3x4k,10x1080p transcodes, 4xHDDs (WD Ultrastar/Seagate Exos), Ubuntu/Windows, Plex Pass/Jellyfin
 
-- $710 - 4k, high-bitrate, Medium Transcoding: Nvidia Shield Pro (client) + Beelink SEI 12 i5-12450H (server) + Terramaster F4-212 (storage)
+- $750 - 4k, high-bitrate, Medium Transcoding: Nvidia Shield Pro (client) + Beelink SEI 12 i5-12450H (server) + Terramaster F4-212 (storage)
 
   - 4k HDR10/DV-5/7/8, Dolby TrueHD Atmos, DTS:X, 6x4k,20x1080p transcodes, 4xHDDs (WD Ultrastar/Seagate Exos), Ubuntu, Plex Pass/Jellyfin
   - For more transcodes, switch server to [Minisforum NAB6 Lite](https://store.minisforum.com/products/minisforum-nab6?variant=45202603770101)
