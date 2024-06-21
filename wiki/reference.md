@@ -144,7 +144,8 @@ ARCH|GEN|RELEASED|NOTES
 [Zen+](https://en.wikipedia.org/wiki/Zen%2B)|2nd Gen|2018|AM4 12nm. 2xxx-series CPUs. 3xxx-series APUs. 4-8 cores. A320/B350/B450/X370/X470 series chipsets.
 [Zen 2](https://en.wikipedia.org/wiki/Zen_2)|3rd Gen|2019|AM4 7nm. 3xxx-series CPUs. 4xxx-series APUs (OEM). 4-16 cores. X570/B550/A520 series chipsets. PCIe 4 support.
 [Zen 3](https://en.wikipedia.org/wiki/Zen_3)|4th Gen|2020|AM4 7nm+. 5xxx-series CPUs. 5xxx-series APUs. 4-16 cores.
-[Zen 4](https://en.wikipedia.org/wiki/Zen_4)|5th Gen|2022|AM5 5nm. 7xxx-series CPUs. 6-16 cores. X670/B650 chipsets. PCIe 5, DDR5, built-in RDNA 2 iGPU.
+[Zen 4](https://en.wikipedia.org/wiki/Zen_4)|5th Gen|2022|AM5 5nm. 7xxx-series CPUs. 6-16 cores. X670/X870/B650/B850/A620 chipsets. PCIe 5, DDR5, built-in RDNA 2 iGPU.
+[Zen 5](https://en.wikipedia.org/wiki/Zen_5)|6th Gen|2024|AM5 4nm. 9xxx-series CPUs. 6-16 cores. PCIe 5, DDR5, built-in RDNA 2 iGPU.
 
 **SFF** - Small Form Factor. A computer case form factor for desktop computers optimized for space (smaller than a Mini Tower), so ideal for HTPC use. It usually is short and tends to have 1x3.5" internal drive bay and, at most, have 1x5.25" drive slot. It can be various sizes buy usually it's around 14"x13"x4" (WxDxH) and a mean of 14 liters.
 
@@ -163,5 +164,5 @@ ARCH|GEN|RELEASED|NOTES
 
 ---
 
-*This page was last updated on 2023-12-16*
+*This page was last updated on 2024-06-20*
 
