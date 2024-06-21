@@ -66,7 +66,7 @@ There is a full list below, but the best pre-built NASes for the money are..
 
 If you just need storage..  
 - 2 drives: Terramaster F2-212 - $170  
-- 4 drives: Terramaster F4-210 - $250  
+- 4 drives: Terramaster F4-212 - $230  
 
 If you need storage and want to run backend services (like plex)..  
 - 2 drives: Terramaster F2-424 - $380  
@@ -133,18 +133,16 @@ Synology	|	DS1522+				|	5	|	$700	|	1080p			|	x64 (Ryzen R1600) 2.6 Ghz		|		3300|
 
 BRAND		|	MODEL				|	DRIVES	|COST	|	TRANSCODING		|	CPU								|	PASSMARK	|	PM/$|	RAID MODES	|	NOTES
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--
-**Terramaster**|	**[F2-212](https://www.terra-master.com/global/products/homesoho-nas/f2-212.html?page=menu&mid=1448)**				|	2	|	$170	|	Some 1080p/None	|	ARMv8.2 4-core (Realtek 1619B) 1.7Ghz		|		NA		|	NA	|	RAID 0/1, TRAID, JBOD, Single	|	ext4/btrfs, 1GB RAM, 1 Gb/s
+**Terramaster**|	**[F2-212](https://www.terra-master.com/global/products/homesoho-nas/f2-212.html?page=menu&mid=1448)**				|	2	|	$170	|	Some 1080p/None	|	ARMv8.2 (Realtek 1619B) 1.7Ghz		|		NA		|	NA	|	RAID 0/1, TRAID, JBOD, Single	|	ext4/btrfs, 1GB RAM, 1 Gb/s
 QNAP			|	TS-233				|	2	|	$200	|	Some 1080p/None	|	ARMv8.2 4-core 2.0Ghz		|		NA		|	NA	|	RAID 0/1, JBOD, Single	|	ext4, 2GB RAM, 1 Gb/s
 Asustor			|	AS-1102T			|	2	|	$180	|	Some 1080p/None	|	ARMv8 (Realtek 1296) 1.4Ghz			|		NA		|	NA	|	RAID 0/1, JBOD, Single		|	ext4, 1GB RAM, 2.5 Gb/s
 Synology		|	DS220j				|	2	|	$190	|	Some 1080p/None	|	ARMv8 (Realtek 1296) 1.4Ghz	|		NA		|NA|	SHR, RAID 0/1, JBOD, Single	|	ext4, 512MB RAM, 1 Gb/s
 
 **JUST STORAGE - 4+ drives**  
 
-<!-- NOTE: replace F4-210 with more expensive F4-212 eventually when it comes in stock and 210 goes out of stock -->
-
 BRAND		|	MODEL				|	DRIVES	|COST	|	TRANSCODING		|	CPU								|	PASSMARK	|	PM/$|	RAID MODES	|	NOTES
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--
-**Terramaster**		|	**F4-210**				|	4	|	$250	|	Some 1080p/None	|	ARMv8 (Realtek 1296) 1.4Ghz		|		NA		|	NA 	|	RAID 0/1/10/5/6, JBOD, Single		|ext4/btrfs, 2GB RAM, 1 Gb/s
+**Terramaster**		|	**[F4-212](https://www.terra-master.com/us/f4-212.html?page=menu&mid=1480)**				|	4	|	$230	|	Some 1080p/None	|	ARMv8.2 (Realtek 1619B) 1.7Ghz		|		NA		|	NA 	|	RAID 0/1/10/5/6, JBOD, TRAID, Single		|ext4/btrfs, 2GB RAM, 1 Gb/s
 Asustor		|	1104T				|	4	|	$270	|	Some 1080p/None	|	ARMv8 (Realtek 1296) 1.4Ghz		|		NA		|	NA 	|	RAID 0/1/10/5/6, JBOD, Single		|ext4, 1GB RAM, 2.5 Gb/s
 Terramaster	|	F5-221				|	5	|	$380	|	Some/4k 8-bit (3)	|	x64 (Celeron J3355) 2.0-2.5Ghz	|		1186	|	3.12	||
 
@@ -363,5 +361,5 @@ If your storage is on a windows-based OS, [follow these instructions](https://su
 
 ---
 
-*This page was last updated on 2024-06-12*
+*This page was last updated on 2024-06-20*
 
