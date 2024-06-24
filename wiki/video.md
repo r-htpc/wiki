@@ -71,6 +71,7 @@ HDR10: Very common. Very compatible. Static Metadata. 400-4000 cd/m2. 10-bit col
 HDR10+: Not common. Dynamic Metadata. 1000-4000 cd/m2. 10-bit color. **Not playable on a HTPC**  
 Dolby Vision: Very common. Not very compatible, esp. with local content. Dynamic Metadata. 1000-4000 cd/m2. 12-bit color. **Not playable on a HTPC**  
 HLG: Not common. No metadata. SDR & HDR in same signal. 1000 cd/m2 nominal. 10-bit color.  
+[Wiki:FAQ:What is HDR video and what do I need to take advantage of it?](/wiki/faq#what-is-hdr-video-and-what-do-i-need-to-take-advantage-of-it)  
 
 **Color Technologies**
 
@@ -626,5 +627,5 @@ Audio Sync Tests - [1080p/H264/60fps/AAC](https://drive.google.com/file/d/18yl9K
 
 ---
 
-*This page was last updated on 2024-06-21*
+*This page was last updated on 2024-06-23*
 
