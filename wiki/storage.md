@@ -89,7 +89,7 @@ If you can't afford any of these and want to do it more cheaply, you can use/buy
 
   - 1 drive: [NanoPi R2S](https://www.friendlyelec.com/index.php?route=product/product&path=69&product_id=282&sort=p.price&order=ASC) (USB2x1) $27, [Orange Pi Zero 3](https://www.aliexpress.us/w/wholesale-Orange-pi-zero-3.html?spm=a2g0o.productlist.search.0) (USB2x1) $25  
 
-  - 2-4 drives: [Orange Pi 3 LTS](https://www.aliexpress.com/w/wholesale-orange-pi-3-lts.html) (USB3x1,USB2x2) $40, [RPI 4b](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) (USB3x2,USB2x2) $35, [Rock64-2GB](https://ameridroid.com/collections/pine) (USB3x1,USB2x2) $35, [Pine H64](https://ameridroid.com/collections/pine) (USB3x1,USB2x2) $45, [Odroid C4](https://www.hardkernel.com/shop/odroid-c4/) (USB3x4) $55, [Odroid HC4](https://www.hardkernel.com/shop/odroid-hc4/) (**SATAx2**) $75, PC: [Dell/Lenovo i3-4130t](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28i3-4130t%2Ci3-4160t%29&_sacat=171957&LH_TitleDesc=0&_sop=15&rt=nc) (USB3x2-4,USB2x2) $50. Optionally, add a [single enclosure DAS](/wiki/storage#direct-attach-storage-das-list) over USB.  
+  - 2-4 drives: [Orange Pi 3 LTS](https://www.aliexpress.com/w/wholesale-orange-pi-3-lts.html) (USB3x1,USB2x2) $40, [RPI 4b](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) (USB3x2,USB2x2) $35, [Rock64-2GB](https://ameridroid.com/collections/pine) (USB3x1,USB2x2) $35, [Pine H64](https://ameridroid.com/collections/pine) (USB3x1,USB2x2) $45, [Odroid C4](https://www.hardkernel.com/shop/odroid-c4/) (USB3x4) $55, [Odroid HC4](https://www.hardkernel.com/shop/odroid-hc4/) (**SATAx2**) $75, [Odroid H4+](https://www.hardkernel.com/shop/odroid-h4-plus/) (**SATAx4**) $139. PC: [Dell/Lenovo i3-4130t](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28i3-4130t%2Ci3-4160t%29&_sacat=171957&LH_TitleDesc=0&_sop=15&rt=nc) (USB3x2-4,USB2x2) $50. Optionally, add a [single enclosure DAS](/wiki/storage#direct-attach-storage-das-list) over USB.  
 
   - Install linux or [Openmediavault](https://www.openmediavault.org/) as your OS, create a storage pool under [mergerFS](https://github.com/trapexit/mergerfs/wiki), and share the pool out over the network with Samba.  
 
@@ -166,7 +166,7 @@ BRAND		|	MODEL				|	DRIVES|	COST	|	NOTES
 :--|:--|:--|:--|:--
 Mediasonic	|	Proraid - HUR5	        |	2	|	$50		|	USB31G2, HW RAID 0/1, JBOD, Single
 Mediasonic	|	Probox - HF2/HF7	|	4	|	$110/$170	|	HF2: USB 3.0/eSATA, HF7: USB31G2
-Mediasonic	|	Proraid - HFR2/HFR7     	|	4	|	$170/$180	|	USB30/USB31G2, HW RAID 0/1/10/3/5, JBOD, Single
+Mediasonic	|	Proraid - HFR2/HFR7     	|	4	|	$150/$180	|	USB30/USB31G2, HW RAID 0/1/10/3/5, JBOD, Single
 Mediasonic	|	Probox - H82		|	8	|	$270-$350	|	USB30/USB31G2, Single
 Terramaster       |       D4-300                     |      4       |       $170 | USB31G1, Single
 Sabrent       |       DS-SC4B/SC5B              |      4/5       |       $230-280 | USB31G2, Single
@@ -362,5 +362,5 @@ If your storage is on a windows-based OS, [follow these instructions](https://su
 
 ---
 
-*This page was last updated on 2024-06-20*
+*This page was last updated on 2024-06-25*
 
