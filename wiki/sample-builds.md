@@ -602,7 +602,7 @@ This is a setup with hardware off ebay using the old Ivy Bridge architecture. Pl
 and H264 transcode ability (look at the Dell 3620 option in the previous build for 4k/HEVC transcoding), but that's not our primary focus here. Our focus is internal storage capacity.  
 
 This can fit 6x3.5 HDDs (using 3x3.5" and 3x5.25" mounts) officially. Since it has 6x SATA ports, you'll ideally use 1x for a SATA SSD for your OS and the other 5x for any data/cache HDDs. For raw storage 
-this has you hovering in the realm of 40TB-100TB of storage potential depending on whether you go with well-priced 8/10TB drives all the way up to new, still-pricey 20TB drives. If you get creative with space, you can fit 8x 3.5" drives using a [9210-8i SAS->SATA HBA](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=9210+8i&_sacat=0&LH_TitleDesc=0&_odkw=hp+cmt&_osacat=0&LH_PrefLoc=2) and [SATA Power Splitters](https://www.amazon.com/Cable-Matters-Power-Y-Splitter-Inches/dp/B00V6QA65G).  
+this has you hovering in the realm of 40TB-100TB of storage potential depending on whether you go with well-priced 8/10TB drives all the way up to new, still-pricey 20TB drives. If you get creative with space, you can fit 8x 3.5" drives using a [9210-8i SAS->SATA HBA](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=9210+8i&_sacat=0&LH_TitleDesc=0&_odkw=hp+cmt&_osacat=0&LH_PrefLoc=2) or [SATA card](https://www.amazon.com/dp/B0BNFBXBNS), and [SATA Power Splitters](https://www.amazon.com/Cable-Matters-Power-Y-Splitter-Inches/dp/B00V6QA65G).  
 
 If you go with an i5/i7 version, you'll get non-ECC memory. With a Xeon version you can use ECC memory, which is better for data integrity. 
 You should also have a battery-backup UPS as well if you really care about data integrity.  
@@ -612,18 +612,18 @@ either set up drives as individual volumes or use [mergerFS](https://github.com/
 
 If you can't find a HP Z220 CMT setup, you can alternatively go with a HP Z210 CMT.  
 
-See our [Network Storage Guide](/wiki/storage) for more information on software and drives.  
+See our [Storage Setup Guide](/wiki/storage) for more information on software and drives.  
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 PC			|HP Z220 CMT Workstation				|$125		|	[Ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313&_nkw=HP+Z220+CMT&_sacat=0)	| ALT: HP Z210 CMT
 CPU			|Intel i5/i7-3xxx, Xeon E3-1xxx			|Included	|	NA			|	65-77 W, 4C/4T, PASSMARK: 4500
 MEM/STORAGE	|8GB DDR3 RAM, 500GB (varies) HDD		|Included	|	NA			|	Xeon: [ECC](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=ecc+8gb+12800+unbuffered+dimm&_sacat=0&LH_TitleDesc=0&_odkw=ecc+8gb+12800+unbuffered+dimm&_osacat=0&LH_PrefLoc=2), i3/i5: non-ECC
-STORAGE		|256GB 2.5" SATA SSD (OS/APP/CACHE)		|$25		|	[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=240000000000,22000000000000&t=0&sort=price&c1=di_sata.60)		| ALT: [512GB SATA SSD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=480000000000,22000000000000&t=0&sort=price&c1=di_sata.60) ($35)
+STORAGE		|512GB 2.5" SATA SSD (OS/APP/CACHE)		|$30		|	[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=480000000000,22000000000000&t=0&sort=price&c1=di_sata.60)		| 
 STORAGE		|WD Elements 4-20TB HDD - Shucked (DATA)|Varies		|	NA			|	[NAS Drive List](/wiki/storage#hard-drives)
 OS			|Unraid/Ubuntu 22/OMV/Windows			|$0			|	[Ubuntu](https://ubuntu.com/download)		|	Windows 10 usually included
 SOFTWARE	|Unraid Starter - 6 device license				|$50		|	[limetech](https://unraid.net/pricing)		|	OPTIONAL
-TOTAL		|										|$140		|	NA			|
+TOTAL		|										|$155		|	NA			|
 
 >!$300-$500: NEW, PRE-BUILT, MEDIA SERVER, INTERNAL 3.5" STORAGE: HP TP01,Dell 3891/3910,Intel 10th-12th gen,1xHDDs (official) 3xHDDs (un-official) w/sata power splitter+creative hdd mounting. [Ebay](https://www.ebay.com/sch/i.html?_fsrp=1&rt=nc&_from=R40&_nkw=\(hp%2Cdell\)+\(tp01%2C3891%2C3910\)+\(i3%2Ci5%2Ci7\)&_sacat=179&LH_BIN=1&LH_TitleDesc=0&_sop=15&LH_PrefLoc=2&LH_ItemCondition=1500%7C1000)!<  
 
