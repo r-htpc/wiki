@@ -142,7 +142,7 @@ Synology		|	DS220j				|	2	|	$190	|	Some 1080p/None	|	ARMv8 (Realtek 1296) 1.4Ghz
 
 BRAND		|	MODEL				|	DRIVES	|COST	|	TRANSCODING		|	CPU								|	PASSMARK	|	PM/$|	RAID MODES	|	NOTES
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--
-**Terramaster**		|	**[F4-212](https://www.terra-master.com/us/f4-212.html?page=menu&mid=1480)**				|	4	|	$230	|	Some 1080p/None	|	ARMv8.2 (Realtek 1619B) 1.7Ghz		|		NA		|	NA 	|	RAID 0/1/10/5/6, JBOD, TRAID, Single		|ext4/btrfs, 2GB RAM, 1 Gb/s
+**Terramaster**		|	**[F4-212](https://www.terra-master.com/us/f4-212.html?page=menu&mid=1480)**				|	4	|	$230	|	Some 1080p/None	|	ARMv8.2 (Realtek 1619B) 1.7Ghz		|		NA		|	NA 	|	RAID 0/1/10/5/6, JBOD, TRAID, Single		|ext4/btrfs, 1/2GB RAM, 1 Gb/s
 Asustor		|	1104T				|	4	|	$270	|	Some 1080p/None	|	ARMv8 (Realtek 1296) 1.4Ghz		|		NA		|	NA 	|	RAID 0/1/10/5/6, JBOD, Single		|ext4, 1GB RAM, 2.5 Gb/s
 Terramaster	|	F5-221				|	5	|	$380	|	Some/4k 8-bit (3)	|	x64 (Celeron J3355) 2.0-2.5Ghz	|		1186	|	3.12	||
 
