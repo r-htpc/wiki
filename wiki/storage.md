@@ -309,6 +309,12 @@ LEGEND
 Drives: xxx+yyy/zzz = 3.5" native+5.25" native/5.25" with adapter  
 e.g. 4+2/3 = 3.5"x4 native + 3.5"x2 in 5.25"x2 bays (2 in 2) OR 3.5"x3 in 5.25"x2 bays w/[Evercool 5.25 adapter (3 in 2)](https://www.amazon.com/EverCool-Dual-Drive-Triple-Cooling/dp/B0032UUGF4)  
 
+<!-- Cheap, bad cable mgmt
+DARKROCK Classico Storage Master	|10	|3		|$90		|8.07 x 18.5 x 16.92		|No	|41.4			|ATX/uATX/ITX			|ATX PSU, 4 fans inc, 160mm CPU. [link](https://darkflashtech.com/products/darkrock-classico-storage-master-case-atx-computer-case-mid-tower-with-4x120mm-fans-usb-3-0-ready-4-detachable-hard-drive-cages-360mm-supported-on-top-front-radiator-gpu-vertically-mounting-black)
+-->
+
+**DISCONTINUED CASES**
+
 CASE							|3.5"	|2.5"	|COST		|W x H x D (in)				|H.SWAP	|LITERS			|MOBOS				|NOTES
 :--|:--|:--|:--|:--|:--|:--|:--|:--
 Cooler Master Elite 120 Adv		|3+1	|NA		|Disc		|9.4 x 8.2 x 15.8			|No		|20				|ITX				|full dvd, 4x2.5 (from 2x3.5 bays), +1 3.5" in 5.25" bay
@@ -323,8 +329,6 @@ Fractal Design Mini				|6+2/3		|0		|Disc			|8.2 x 15.5 x 19.2			|No		|42.9			|uA
 Fractal Design Arc Mini R2		|6+2/3		|2		|Disc			|8.2 x 15.9 x 19.0			|No		|43.1			|uATX/ITX			|2x5.25
 Lian-Li PC-08S				|6		|2		|Disc			|13.2 x 16.8 x 15.9		|No		|45.9	|EATX/ATX/uATX		|NA
 Coolermaster NR600P		|6+2		|12		|Disc		|8.66 x 19.92 x 19.41		|YES		|54.9	|EATX/ATX/uATX/ITX		|2x Hot Swap - [link](https://www.coolermaster.com/catalog/cases/mid-tower/masterbox-nr600p/)
-
-Disc = Discontinued  
 
 <!-- Section -->
 
@@ -362,5 +366,5 @@ If your storage is on a windows-based OS, [follow these instructions](https://su
 
 ---
 
-*This page was last updated on 2024-06-25*
+*This page was last updated on 2024-06-28*
 
