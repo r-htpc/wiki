@@ -575,6 +575,17 @@ See above sections [Setup For Color Conversion/Reproduction](/wiki/video#setup-f
 
 <!-- Sub-Section -->
 
+<!--
+### How do I burn a digital video file to a physical disc?
+
+DVD: Use DVD Flick to create and burn the disc from the source video file.  
+
+Blu-Ray: Use tsMuxer or BD Rebuilder to create the Blu-Ray folder structure from the source video file. Use ImgBurn to burn the folder structure to the disc.  
+
+-->
+
+<!-- Sub-Section -->
+
 ### Where do I find additional sample video files to test?
 
 These files must be downloaded for the media player(s) you are testing against. Do NOT play them in your browser.  
