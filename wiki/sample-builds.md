@@ -244,14 +244,14 @@ TOTAL			|											|$345	|	|
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
-CASE/PSU			|Apex MI-008 Mini ITX w/250W PSU					|$65	|[pcpartpicker](https://pcpartpicker.com/product/hHg323/apex-case-mi008)	|8.7" (W) x 13.5" (D) x 5.1" (H), 2xHDD, [specs](https://www.apextechusa.com/products.asp?pID=171)
+CASE/PSU			|Apex MI-008 Mini ITX w/250W PSU					|$70	|[pcpartpicker](https://pcpartpicker.com/product/hHg323/apex-case-mi008)	|8.7" (W) x 13.5" (D) x 5.1" (H), 2xHDD, [specs](https://www.apextechusa.com/products.asp?pID=171)
 CPU				|Ryzen 5 4600G (65W)							|$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: AV1: [Intel i3-12100](https://pcpartpicker.com/product/qrhFf7/intel-core-i3-12100-33-ghz-quad-core-processor-bx8071512100)
 MOBO			|ASRock B550M-ITX/ac					|$130	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&s=33&sort=price&page=1)	|ALT: AV1: INTEL: [ASRock Z690M-ITX/ax](https://pcpartpicker.com/products/motherboard/#f=8&sort=price&xcx=0&s=40)
 MEM			|TEAMGROUP T-Force Vulcan Z 2x8GB DDR4-3200			|	$35		|[pcpartpicker](https://pcpartpicker.com/products/memory/#Z=16384002&sort=price&xcx=0&ff=ddr4&S=3200,7200&L=160,180)	|
 STORAGE			|WD Black SN770 500GB NVMe M.2 SSD TLC				|$40	|[pcpartpicker](https://pcpartpicker.com/product/nWC48d/western-digital-500-gb-m2-2280-nvme-solid-state-drive-wds500g3x0e)	|
 STORAGE			|Hitachi Ultrastar 7K3000 3TB 7200rpm 3.5" HDD			|$46	|[amazon](https://smile.amazon.com/dp/B005QTSDDQ/?tag=pcpapi-20)	|OPTIONAL. ALT: 6TB WD Red ($100), 8TB Ironwolf ($130)
-COOL			|Noctua NH-L9a-AM4 CPU Cooler, 37mm					|$45	|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|
-TOTAL			|											|$415	|	|
+COOL			|Thermalright AXP90-X36 CPU Cooler, 36mm					|$25	|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|
+TOTAL			|											|$400	|	|
 
 <!-- Sub-Section -->
 
