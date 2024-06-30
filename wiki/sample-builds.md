@@ -200,8 +200,8 @@ TOTAL		|											|$380	||
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
-CASE/PSU	|Inwin Chopin/BQ656T					|	$90		|pcpartpicker	|PSU included - 8.6" x 9.6" x 3.3"
-MOBO		|Gigabyte A520I AC ITX					|	$120	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&s=33&sort=price&page=1)			|ALT: ASRock A520M-ITX/ac
+CASE/PSU	|Inwin Chopin/BQ656					|	$100		|[google](https://www.google.com/search?q=inwin+bq656+chopin&oq=inwin+bq656+chopin)	|PSU included - 8.6" x 9.6" x 3.3"
+MOBO		|Gigabyte A520I AC ITX					|	$110	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&s=33&sort=price&page=1)			|ALT: ASRock A520M-ITX/ac
 CPU			|AMD Ryzen 5 4600G APU (65W)					|	$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: Ryzen 5600G-5700G ($125-175)
 MEM			|TEAMGROUP T-Force Vulcan Z 2x8GB DDR4-3200			|	$35		|[pcpartpicker](https://pcpartpicker.com/products/memory/#Z=16384002&sort=price&xcx=0&ff=ddr4&S=3200,7200&L=160,180)	|ALT: [2x4GB DDR4 DIMM](https://pcpartpicker.com/products/memory/#Z=8192002&sort=price&xcx=0&ff=ddr4) ($35)
 STORAGE		|Samsung 970 Evo+ 250GB NVMe M.2 SSD (OS) 			|	$25		|[pcpartpicker](https://pcpartpicker.com/product/BDYLrH/samsung-970-evo-plus-250-gb-m2-2280-nvme-solid-state-drive-mz-v7s250bam)	|ALT: WD Black SN770 500 GB M.2 ($40)
@@ -883,5 +883,5 @@ TOTAL		|											|$844			|	|
 
 ---
 
-*This page was last updated on 2024-06-20*
+*This page was last updated on 2024-06-30*
 
