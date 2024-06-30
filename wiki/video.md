@@ -522,6 +522,10 @@ Content varies between 23.976, 24, 25 fps, 29.97 or 60 fps. Local content is usu
 
 <!-- Sub-Section -->
 
+### [Why does my HTPC change audio/display settings when switching inputs or waking from Sleep/Power up?](/wiki/audio#why-does-my-htpc-change-audiodisplay-settings-when-switching-inputs-or-waking-from-sleeppower-up)
+
+<!-- Sub-Section -->
+
 ### What is the best way to change DisplayPort/USB-C to HDMI. What are the limitations associated with doing this?
 
 There are 2 ways to change DisplayPort to HDMI. The 1st is a Passive cable/adapter, the 2nd is an Active cable/adapter.  
