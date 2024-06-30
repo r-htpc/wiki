@@ -169,17 +169,19 @@ $175-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB
 
 <!-- Sub-Section -->
 
-### 4K HDR PLAYER (2-3L)
+### 4K HDR PLAYER (2L)
 
-TL;DR: You want a small 4K@60 HDR player and don't need any or only a small amount of storage.  
+TL;DR: You want a small 4K@60 HDR player and don't need any, or minimal local storage.  
 
 Tiny, simple 4K player. For local content, 4k netflix, youtube, browsing, light 1080p gaming.  
 
-Not the cheapest hardware; just a nice setup. You have the option to bump up to a better 5600G/5700G CPU for $25-50 more. If you can't afford the optional CPU cooler, pop the top off the stock AMD one to make it fit.  
+You have the option to bump up to a better Ryzen 5600G/5700G CPU for $25-50 more. If you can't afford the optional CPU cooler, pop the top off the stock AMD one to make it fit.  
 
-If you can't find the Deskmini case and still want to build, look at the Inwin Chopin alternate build. There's also a stack of good Tiny cases in the [Cases section](/wiki/faq#cases) of the Wiki FAQ. You should use [Pico PSU 150W+](https://www.mini-box.com/Power-Supplies-Kits)-style kits for these.  
+If you want **AV1** decoding to future-proof, go with an Intel i3-12100 alternative with respective HW changes (DeskMeet B660, etc..). You will give up the Ryzen gaming perf if you go this way, so if you want both, go with the latest [Ryzen 8x00G](https://pcpartpicker.com/products/cpu/#xcx=0&g=570,569,568&sort=price&page=1) APUs with respective changes (DeskMini X600, DDR5). 
 
-You could add some media storage with a [2.5" HDD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&f=3&sort=ppgb&A=1900000000000,20000000000000&page=1), but these cases are not for internal 3.5" HDD media storage - they're too small for that.  If you want to stay within this size case, either use external USB HDDs or buy/build a [NAS](/wiki/storage#pre-built-nas-list) for backend storage. Otherwise, look at the all-in-one builds below.  
+If you can't find the DeskMini case and still want to build, look at the Inwin Chopin alternate build. There's also a stack of good Tiny cases in the [Cases section](/wiki/faq#cases) of the Wiki FAQ. You should use [Pico PSU 150W+](https://www.mini-box.com/Power-Supplies-Kits)-style kits for these.  
+
+You could add some media storage with a [2.5" HDD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&f=3&sort=ppgb&A=1900000000000,20000000000000&page=1), but these cases are NOT for internal 3.5" HDD media storage - they're too small for that.  If you want to stay within this size case, either use external USB HDDs or buy/build a [NAS](/wiki/storage#pre-built-nas-list) for backend storage. Otherwise, look at the all-in-one builds below.  
 
 <!-- Sub-Section -->
 
@@ -208,19 +210,21 @@ TOTAL		|										|	$400	|	|
 
 <!-- Sub-Section -->
 
-### 4K HDR ALL-IN-ONE PLAYER (8-9.6L)
+### 4K HDR ALL-IN-ONE PLAYER (9L)
 
 TL;DR: You care about 4K@60 quality, 4K Netflix and HDR, may want HDD media storage and want a value build that doesn't break the bank.  
 
-An AMD Ryzen APU is the best way to get 4k Netflix and HDR at the same time. Light 720p/1080p gaming can also be had on it. An Intel alternative is also provided in the part list if you want to future proof a little more with AV1 decoding, but plan to give up any light gaming vs the Ryzen.  
+An AMD Ryzen APU is the best way to get 4k Netflix and HDR at the same time. Light 720p/1080p gaming can also be had on it. If you want **AV1** decoding to future-proof, go with the Intel i3-12100 alternative with respective HW changes (DeskMeet B660, etc..). You will give up the Ryzen gaming perf if you go this way, so if you want both, go with the latest [Ryzen 8x00G](https://pcpartpicker.com/products/cpu/#xcx=0&g=570,569,568&sort=price&page=1) APUs with respective changes (DeskMeet X600, DDR5). 
+
+An Intel alternative is also provided in the part list if you want to future proof a little more with AV1 decoding, but plan to give up any light gaming vs the Ryzen.  
 
 Expect HDR processing and upscaling with madVR to operate at a basic level - don't expect to be doing heavy upscaling here without a dGPU.  
 
 You can add 3.5" HDD content storage for an all-in-one. Since optional, it's not included in the price.  
 
-Choose the DeskMeet option if you don't have a height restriction (like a small media cabinet) or want a full-height ITX GPU, otherwise choose the Apex or one of the slimmer variations.  
+Choose the DeskMeet option if you don't have a height restriction (like a small media cabinet) or want a full-height ITX GPU, otherwise choose the Apex build or the slimmer variation.  
 
-*Larger Slimmer variation*: 12-16L, 4" (H): Change CASE to [InWin BL040](https://www.amazon.com/InWin-BL040-mATX-Desktop-Black/dp/B0964K2W4R) (PSU still included) ($100) or a Silverstone [ML03](https://pcpartpicker.com/product/bWR48d/silverstone-case-ml03b)/[ML04](https://pcpartpicker.com/product/fsw323/silverstone-case-ml04b) (3xHDD), (add an [ATX PSU](https://pcpartpicker.com/products/power-supply/#sort=price&e=4,3,2,1&th=1&m=8,337,50,11,14,106,101,18,229,51,71,63,441,113,56)). You can change to a [uATX mobo](https://pcpartpicker.com/products/motherboard/#xcx=0&f=7&c=145&sort=price&page=1) with these cases, which is cheaper than ITX. LP dGPU possible
+*Larger Slimmer variation*: 12-16L, 4" (H): Change CASE to [InWin BL040](https://www.amazon.com/InWin-BL040-mATX-Desktop-Black/dp/B0964K2W4R) (PSU still included) ($100) or a Silverstone [ML03](https://pcpartpicker.com/product/bWR48d/silverstone-case-ml03b)/[ML04](https://pcpartpicker.com/product/fsw323/silverstone-case-ml04b) (add an [ATX PSU](https://pcpartpicker.com/products/power-supply/#sort=price&e=4,3,2,1&th=1&m=8,337,50,11,14,106,101,18,229,51,71,63,441,113,56)). You can change to a [uATX mobo](https://pcpartpicker.com/products/motherboard/#xcx=0&f=7&c=145&sort=price&page=1) with these cases, which is cheaper than ITX. LP dGPU and 3xHDDs possible
 
 *Larger Cube variation*: 12-16L: $50 more. Change CASE to [Silverstone SG13B](https://www.amazon.com/SilverStone-Technology-Mini-ITX-Computer-SST-SG13B-USA/dp/B07MNC3JCB) (1xHDD) or [Sharkoon QB One](https://www.amazon.com/Sharkoon-ONE-ITX-CABINET-4044951016433/dp/B00TL8VN5I) (2xHDD), add an [ATX PSU](https://pcpartpicker.com/products/power-supply/#sort=price&e=4,3,2,1&p=1,2&th=1). ITX dGPU possible
 
@@ -241,8 +245,8 @@ TOTAL			|											|$345	|	|
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE/PSU			|Apex MI-008 Mini ITX w/250W PSU					|$65	|[pcpartpicker](https://pcpartpicker.com/product/hHg323/apex-case-mi008)	|8.7" (W) x 13.5" (D) x 5.1" (H), 2xHDD, [specs](https://www.apextechusa.com/products.asp?pID=171)
-CPU				|Ryzen 5 4600G (65W)							|$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: INTEL: [Intel i3-12100](https://pcpartpicker.com/product/qrhFf7/intel-core-i3-12100-33-ghz-quad-core-processor-bx8071512100)
-MOBO			|ASRock B550M-ITX/ac					|$130	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&s=33&sort=price&page=1)	|ALT: INTEL: [ASRock Z690M-ITX/ax](https://pcpartpicker.com/products/motherboard/#f=8&sort=price&xcx=0&s=40)
+CPU				|Ryzen 5 4600G (65W)							|$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: AV1: [Intel i3-12100](https://pcpartpicker.com/product/qrhFf7/intel-core-i3-12100-33-ghz-quad-core-processor-bx8071512100)
+MOBO			|ASRock B550M-ITX/ac					|$130	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&s=33&sort=price&page=1)	|ALT: AV1: INTEL: [ASRock Z690M-ITX/ax](https://pcpartpicker.com/products/motherboard/#f=8&sort=price&xcx=0&s=40)
 MEM			|TEAMGROUP T-Force Vulcan Z 2x8GB DDR4-3200			|	$35		|[pcpartpicker](https://pcpartpicker.com/products/memory/#Z=16384002&sort=price&xcx=0&ff=ddr4&S=3200,7200&L=160,180)	|
 STORAGE			|WD Black SN770 500GB NVMe M.2 SSD TLC				|$40	|[pcpartpicker](https://pcpartpicker.com/product/nWC48d/western-digital-500-gb-m2-2280-nvme-solid-state-drive-wds500g3x0e)	|
 STORAGE			|Hitachi Ultrastar 7K3000 3TB 7200rpm 3.5" HDD			|$46	|[amazon](https://smile.amazon.com/dp/B005QTSDDQ/?tag=pcpapi-20)	|OPTIONAL. ALT: 6TB WD Red ($100), 8TB Ironwolf ($130)
@@ -250,6 +254,8 @@ COOL			|Noctua NH-L9a-AM4 CPU Cooler, 37mm					|$45	|[pcpartpicker](https://pcpa
 TOTAL			|											|$415	|	|
 
 <!-- Sub-Section -->
+
+<!-- Commented out since AV1 wordage added to builds above 
 
 ### 4K HDR AV1 ALL-IN-ONE PLAYER (12L)
 
@@ -270,59 +276,7 @@ MEM		|Teamforce Vulcan Z DDR4-3200 2x8GB				|	$35		|	[pcpartpicker](https://pcpa
 STORAGE		|Teamgroup MP33 512GB NVMe M.2 SSD 			|	$40		|[pcpartpicker](https://pcpartpicker.com/product/Brvqqs/team-mp33-512-gb-m2-2280-nvme-solid-state-drive-tm8fp6512g0c101)	|ALT: WD Black SN770 500 GB M.2 ($40)
 TOTAL							|			|	$395		|			|
 
-<!-- Sub-Section -->
-
-### CHEAPEST 4K HDR/ALL-IN-ONE PLAYER - NEW (12L)
-
-TL;DR: You want 4K@60 local/youtube/netflix HDR on a real PC, may want HDD media storage and want the cheapest build with new hardware that we're comfortable recommending.  
-
-Not the prettiest case, but slim and gets the job done at 12 liters.  
-
-Light 720p gaming can be had here, if you need.  
-
-You can add one or more 3.5" HDD content storage for an all-in-one.  
-
-*Tiny variation*: 1.9L: $25 more. Change CASE & MOBO to a ASRock Deskmini X300W ($180) (mobo included), change MEM to [SO-DIMM](https://pcpartpicker.com/products/memory/#xcx=0&b=ddr4&ff=ddr4_sodimm&sort=price&Z=8192001,8192002)s. No 3.5" HDD content storage possible because of size, only [2.5" HDD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&f=3&sort=ppgb&A=1900000000000,20000000000000&page=1).  
-
-PART|BRAND/MODEL|PRICE|VENDOR|NOTES
-:--|:--|:--|:--|:--
-CASE	|InWin Slim MicroATX BL040 Case w/300W PSU		|$100	|[amazon](https://www.amazon.com/InWin-BL040-mATX-Desktop-Black/dp/B0964K2W4R)	|13" x 14.4" x 3.8"
-MOBO	|Gigabyte A520M S2H MicroATX				|$50  	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&s=33&sort=price&f=7)	| ALT: [Intel H610M](https://pcpartpicker.com/products/motherboard/#xcx=0&sort=price&f=7&c=155) ($80)
-CPU	|AMD Ryzen 5 4600G (65W)				|$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: [Intel G6900](https://pcpartpicker.com/product/QKbTwP/intel-celeron-g6900-34-ghz-dual-core-processor-bx80715g6900) ($70) 
-MEM	|G.Skill Value DDR4-2400 2x4GB		|$25  	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&sort=price&Z=8192002,16384002&ff=ddr4)	|
-STORAGE	|Silicon Power 256GB 2.5" SATA SSD (OS/APPS)				|$20	|[pcpartpicker](https://pcpartpicker.com/product/kh9tt6/silicon-power-ace-a55-256-gb-25-solid-state-drive-sp256gbss3a55s25)	|ALT: M.2 SSD ($25)
-STORAGE			|Hitachi Ultrastar 7K3000 3TB 7200rpm 3.5" HDD (MEDIA)			|$45	|amazon	|OPTIONAL
-TOTAL	|							|$295  	|	|
-
-<!-- Sub-Section -->
-
-### CHEAPEST 4K HTPC PLAYER - USED
-
-TL;DR: Cheapest hardware for 4k@60Hz, HDR and/or 4k netflix player, or a dead simple media server.  
-
-For the insanely frugal, the absolute cheapest way to buy/build a PC for use as a 4k@60Hz player - using used hardware off eBay.  
-
-We will use a i5-4570 CPU and Nvidia GT 1030 GDDR5 GPU (not DDR4).
-
-If you have more specific GPU usage needs, then..  
-4K local+youtube: The quoted config  
-4K local+netflix: [AMD RX 550 4GB](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=rx+550+%22hdmi%22&_sacat=27386&LH_TitleDesc=0&_fsrp=1&_odkw=rx+550+4GB+%22hdmi%22&_osacat=27386&LH_BIN=1&_sop=15&LH_PrefLoc=2&_udhi=120.00) ($50)  
-4K local+netflix+youtube: [Nvidia GTX 1050 Ti 4GB](https://www.ebay.com/sch/27386/i.html?_fsrp=1&rt=nc&_from=R40&_nkw=gtx+1050+ti&LH_BIN=1&_sacat=27386&LH_TitleDesc=0&_sop=15&_udhi=120.00&LH_ItemCondition=1000%7C2500%7C3000%7C1500) ($70) + Mini Tower case or low-profile card for $20 more.  
-1080p: no dGPU  
-
-The quoted config here is with a SFF form factor case, for use with a low-profile GPU, but if you want one of the Mini Tower form factor versions shown as ALT: below , that's fine as well.  
-
-If you don't even need 4k or are using it as a dead simple media server, drop the GPU and you have yourself a very capable all in one 1080p box for $50. Getting one with an included SSD for your OS drive will be very helpful for responsiveness on these low-end machines.  
-
-[Sample i3/i5 Ebay Search](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%28hp%2Cdell%2Clenovo%29+%28i5-4570%2Ci5-4590%2Ci7-4770%29+%28sff%2Cmt%2Cdt%29&_sacat=179&LH_TitleDesc=0&_blrs=recall_filtering&_osacat=179&LH_BIN=1&_sop=15&_geositeid=0&_udhi=120.00)  
-
-PART|BRAND/MODEL|PRICE|VENDOR|NOTES
-:--|:--|:--|:--|:--
-CASE			|HP Prodesk 400/600/800 G1, Dell Optiplex 3020/9020/XE2, Lenovo M73/M83/M93p, HP Z230	|$50	|[Ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%28hp%2Cdell%2Clenovo%29+%28i5-4570%2Ci5-4590%2Ci7-4770%29+%28sff%2Cmt%2Cdt%29&_sacat=179&LH_TitleDesc=0&_blrs=recall_filtering&_osacat=179&LH_BIN=1&_sop=15&_geositeid=0&_udhi=120.00)	|ALT: Mini Tower: Dell 3020/7020/9020/3647 MT, HP 600/800 G1 MT, Lenovo M73, HP PRO Z230
-CPU/MEM			|Intel i5-4570 w/4-8GB DDR3 RAM - Included in above		|NA		|Ebay	|CPU Passmark: 5000-7000
-STORAGE			|250GB-500GB HDD/SSD - Included in above									|NA		|Ebay	|ALT: 128GB 2.5" SSD ($15)
-GPU				|Nvidia GT 1030 GDDR5											|$50	|[Ebay](https://www.ebay.com/sch/i.html?_fsrp=1&rt=nc&_from=R40&_nkw=GT+1030+gddr5&_sacat=27386&LH_BIN=1&LH_TitleDesc=0&_sop=15&_udhi=120.00&LH_ItemCondition=1000%7C1500%7C2500%7C3000)	|ALT: RX 550 4GB Low Profile ($50)
-TOTAL			|																		|$100	|		|
+-->
 
 <!-- Sub-Section -->
 
@@ -419,6 +373,60 @@ COOL	|Thermalright Silver Soul 135 CPU Cooler				|$40	|	[pcpartpicker](https://p
 PSU		|EVGA GA 650W Fully Modular ATX PSU		|$60	|	pcpartpicker	|	ALT: Thermaltake Smart BM2 Semi 550W ($60)
 SOFTWARE	|MakeMKV Beta/Full		|FREE/$60	|	[makemkv](https://www.makemkv.com/buy/)	|Free with beta license key posted each month
 TOTAL	|										|$755	|					|
+
+<!-- Sub-Section -->
+
+### CHEAPEST 4K HDR/ALL-IN-ONE PLAYER - NEW (12L)
+
+TL;DR: You want 4K@60 local/youtube/netflix HDR on a real PC, may want HDD media storage and want the cheapest build with new hardware that we're comfortable recommending.  
+
+Not the prettiest case, but slim and gets the job done at 12 liters.  
+
+Light 720p gaming can be had here, if you need.  
+
+You can add one or more 3.5" HDD content storage for an all-in-one.  
+
+*Tiny variation*: 1.9L: $25 more. Change CASE & MOBO to a ASRock Deskmini X300W ($180) (mobo included), change MEM to [SO-DIMM](https://pcpartpicker.com/products/memory/#xcx=0&b=ddr4&ff=ddr4_sodimm&sort=price&Z=8192001,8192002)s. No 3.5" HDD content storage possible because of size, only [2.5" HDD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&f=3&sort=ppgb&A=1900000000000,20000000000000&page=1).  
+
+PART|BRAND/MODEL|PRICE|VENDOR|NOTES
+:--|:--|:--|:--|:--
+CASE	|InWin Slim MicroATX BL040 Case w/300W PSU		|$100	|[amazon](https://www.amazon.com/InWin-BL040-mATX-Desktop-Black/dp/B0964K2W4R)	|13" x 14.4" x 3.8"
+MOBO	|Gigabyte A520M S2H MicroATX				|$50  	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&s=33&sort=price&f=7)	| ALT: [Intel H610M](https://pcpartpicker.com/products/motherboard/#xcx=0&sort=price&f=7&c=155) ($80)
+CPU	|AMD Ryzen 5 4600G (65W)				|$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: [Intel G6900](https://pcpartpicker.com/product/QKbTwP/intel-celeron-g6900-34-ghz-dual-core-processor-bx80715g6900) ($70) 
+MEM	|G.Skill Value DDR4-2400 2x4GB		|$25  	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&sort=price&Z=8192002,16384002&ff=ddr4)	|
+STORAGE	|Silicon Power 256GB 2.5" SATA SSD (OS/APPS)				|$20	|[pcpartpicker](https://pcpartpicker.com/product/kh9tt6/silicon-power-ace-a55-256-gb-25-solid-state-drive-sp256gbss3a55s25)	|ALT: M.2 SSD ($25)
+STORAGE			|Hitachi Ultrastar 7K3000 3TB 7200rpm 3.5" HDD (MEDIA)			|$45	|amazon	|OPTIONAL
+TOTAL	|							|$295  	|	|
+
+<!-- Sub-Section -->
+
+### CHEAPEST 4K HTPC PLAYER - USED
+
+TL;DR: Cheapest hardware for 4k@60Hz, HDR and/or 4k netflix player, or a dead simple media server.  
+
+For the insanely frugal, the absolute cheapest way to buy/build a PC for use as a 4k@60Hz player - using used hardware off eBay.  
+
+We will use a i5-4570 CPU and Nvidia GT 1030 GDDR5 GPU (not DDR4).
+
+If you have more specific GPU usage needs, then..  
+4K local+youtube: The quoted config  
+4K local+netflix: [AMD RX 550 4GB](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=rx+550+%22hdmi%22&_sacat=27386&LH_TitleDesc=0&_fsrp=1&_odkw=rx+550+4GB+%22hdmi%22&_osacat=27386&LH_BIN=1&_sop=15&LH_PrefLoc=2&_udhi=120.00) ($50)  
+4K local+netflix+youtube: [Nvidia GTX 1050 Ti 4GB](https://www.ebay.com/sch/27386/i.html?_fsrp=1&rt=nc&_from=R40&_nkw=gtx+1050+ti&LH_BIN=1&_sacat=27386&LH_TitleDesc=0&_sop=15&_udhi=120.00&LH_ItemCondition=1000%7C2500%7C3000%7C1500) ($70) + Mini Tower case or low-profile card for $20 more.  
+1080p: no dGPU  
+
+The quoted config here is with a SFF form factor case, for use with a low-profile GPU, but if you want one of the Mini Tower form factor versions shown as ALT: below , that's fine as well.  
+
+If you don't even need 4k or are using it as a dead simple media server, drop the GPU and you have yourself a very capable all in one 1080p box for $50. Getting one with an included SSD for your OS drive will be very helpful for responsiveness on these low-end machines.  
+
+[Sample i3/i5 Ebay Search](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%28hp%2Cdell%2Clenovo%29+%28i5-4570%2Ci5-4590%2Ci7-4770%29+%28sff%2Cmt%2Cdt%29&_sacat=179&LH_TitleDesc=0&_blrs=recall_filtering&_osacat=179&LH_BIN=1&_sop=15&_geositeid=0&_udhi=120.00)  
+
+PART|BRAND/MODEL|PRICE|VENDOR|NOTES
+:--|:--|:--|:--|:--
+CASE			|HP Prodesk 400/600/800 G1, Dell Optiplex 3020/9020/XE2, Lenovo M73/M83/M93p, HP Z230	|$50	|[Ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%28hp%2Cdell%2Clenovo%29+%28i5-4570%2Ci5-4590%2Ci7-4770%29+%28sff%2Cmt%2Cdt%29&_sacat=179&LH_TitleDesc=0&_blrs=recall_filtering&_osacat=179&LH_BIN=1&_sop=15&_geositeid=0&_udhi=120.00)	|ALT: Mini Tower: Dell 3020/7020/9020/3647 MT, HP 600/800 G1 MT, Lenovo M73, HP PRO Z230
+CPU/MEM			|Intel i5-4570 w/4-8GB DDR3 RAM - Included in above		|NA		|Ebay	|CPU Passmark: 5000-7000
+STORAGE			|250GB-500GB HDD/SSD - Included in above									|NA		|Ebay	|ALT: 128GB 2.5" SSD ($15)
+GPU				|Nvidia GT 1030 GDDR5											|$50	|[Ebay](https://www.ebay.com/sch/i.html?_fsrp=1&rt=nc&_from=R40&_nkw=GT+1030+gddr5&_sacat=27386&LH_BIN=1&LH_TitleDesc=0&_sop=15&_udhi=120.00&LH_ItemCondition=1000%7C1500%7C2500%7C3000)	|ALT: RX 550 4GB Low Profile ($50)
+TOTAL			|																		|$100	|		|
 
 <!-- Section -->
 
