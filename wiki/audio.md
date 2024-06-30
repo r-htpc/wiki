@@ -532,11 +532,19 @@ Way #3
 
 Sometimes when you change inputs or power on/off devices, especially in a certain order, your HTPC can change settings, like reverting your audio configuration from Surround Sound back to Stereo, changing your windows/icon layouts on your display, or disabling sound altogether (especially if your display is off).  
 
-This can be because of a feature called Hot Plug Detection on your graphics cable. You can disable this by taping over the relevant pin on the cable coming out of your HTPC. On HDMI, this is pin 19. VGA, pin 12. DVI, pin 16. [Displayport, pin 18](https://www.electronicshub.org/wp-content/uploads/2021/04/Display-Port-Pinout.jpg).  
+This can be because of a feature called Hot Plug Detection on your graphics cable. There are a couple potential solutions to this.
 
-See [here](http://i.stack.imgur.com/Q1ZoJ.jpg) and [here](https://i.stack.imgur.com/k1PeR.gif) for pictures on a HDMI cable.  
+*Hardware*  
 
-Alternatively, you can also try forcing the resolution on display disconnect to keep the video signal detected, either by:  
+You can disable HPD by taping over the relevant pin on the cable coming out of your HTPC. On HDMI, this is pin 19. VGA, pin 12. DVI, pin 16. [Displayport, pin 18](https://www.electronicshub.org/wp-content/uploads/2021/04/Display-Port-Pinout.jpg). See [here](http://i.stack.imgur.com/Q1ZoJ.jpg) and [here](https://i.stack.imgur.com/k1PeR.gif) for pictures on a HDMI cable.  
+
+<!--
+You can introduce a 1x2 HDMI Splitter on the cable coming out of your HTPC, while leaving the splitter's 2nd output unconnected. The video signal should remain active as long as the splitter is still powered on, even if the connected display is off.
+-->
+
+*Software*  
+
+You can try forcing the resolution on display disconnect to keep the video signal detected, either by:  
 1. Remoting into the HTPC with remote control software (Teamviewer, Chrome Remote Desktop, RemotePC), then disconnect the display's cable so it reverts to the "no monitor" resolution, then change it back to the resolution you want.  
 Now when Windows detects no monitor on disconnect, it should keep the same resolution instead of auto-detecting it and re-positioning windows/resetting audio.  
 2. [Use the CRU utility to lock your resolution](https://forum.kodi.tv/showthread.php?tid=251833&pid=3091782#pid3091782)
