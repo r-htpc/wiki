@@ -56,7 +56,7 @@
             * Resolution: 3840x2160  
             * Refresh: 24/30/60/120Hz  
             * Desktop color depth: Highest (32-bit)  
-            * Output color depth: 8 bpc (HDMI 2.0), 10 bpc (HDMI 2.1)  
+            * Output color depth: 8 bpc (HDMI 2.0/2.1 TMDS), 10 bpc (HDMI 2.1 FRL)  
             * Output color format: [RGB](/wiki/video#setup-for-color-reproduction)  
             * Output dynamic range: [Full](/wiki/video#setup-for-color-reproduction)  
     * AMD  
