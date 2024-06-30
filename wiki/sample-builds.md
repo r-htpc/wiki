@@ -177,7 +177,7 @@ Tiny, simple 4K player. For local content, 4k netflix, youtube, browsing, light 
 
 You have the option to bump up to a better Ryzen 5600G/5700G CPU for $25-50 more. If you can't afford the optional CPU cooler, pop the top off the stock AMD one to make it fit.  
 
-If you want **AV1** decoding to future-proof, go with an Intel i3-12100 alternative with respective HW changes (DeskMeet B660, etc..). You will give up the Ryzen gaming perf if you go this way, so if you want both, go with the latest [Ryzen 8x00G](https://pcpartpicker.com/products/cpu/#xcx=0&g=570,569,568&sort=price&page=1) APUs with respective changes (DeskMini X600, DDR5). 
+If you want **AV1** decoding to future-proof, go with an Intel i3-12100 alternative with respective HW changes (DeskMini B760/B660, etc..). You will give up the Ryzen gaming perf if you go this way, so if you want both, go with the latest [Ryzen 8x00G](https://pcpartpicker.com/products/cpu/#xcx=0&g=570,569,568&sort=price&page=1) APUs with respective changes (DeskMini X600, DDR5). 
 
 If you can't find the DeskMini case and still want to build, look at the Inwin Chopin alternate build. There's also a stack of good Tiny cases in the [Cases section](/wiki/faq#cases) of the Wiki FAQ. You should use [Pico PSU 150W+](https://www.mini-box.com/Power-Supplies-Kits)-style kits for these.  
 
