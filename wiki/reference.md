@@ -48,7 +48,7 @@ ARCH|GEN|RELEASED|NOTES
 
 **CEC** - Consumer Electronics Control. A technology used to allow devices to control other devices over a HDMI cable. e.g. when you turn on your AVR, a CEC signal can turn on your TV. CEC is only built-in to a limited amount of PCs, like 6th gen NUCs and up, for power-on capability. You can add USB-CEC adapters for support on other PCs.
 
-**Dolby DD/DD+/TrueHD/Atmos** - Multi-channel audio codecs. Competitor to DTS.
+**Dolby Digital/Digital Plus/TrueHD/Atmos** - Multi-channel audio codecs. Competitor to DTS.
 
 **DTS/DTS-HD/DTS-HD MA/DTS:X** - Multi-channel audio codecs. Competitor to Dolby.
 
