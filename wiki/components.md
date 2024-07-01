@@ -198,7 +198,7 @@ Shoot for spending $100-$200 for a motherboard, with $125 being a good starting 
 
 Example Combinations:  
 - AMD: Ryzen 4600G + B550: [MicroATX](https://pcpartpicker.com/list/mcFhFg), [Mini-ITX](https://pcpartpicker.com/list/NWTfd9)  
-- Intel: Core i3-12100 + B660: [MicroATX](https://pcpartpicker.com/list/fDQNgb), [Mini-ITX](https://pcpartpicker.com/list/mFXf9r)  
+- Intel: Core i3-12100 + B760: [MicroATX](https://pcpartpicker.com/list/ksCg9r), [Mini-ITX](https://pcpartpicker.com/list/nxNWGL)  
 
 BRANDS/MODELS:  
 Asus, MSI, Gigabyte, ASRock. Avoid Biostar!  
