@@ -99,15 +99,15 @@ ATX|12 x 9.6|305 x 244|PCIE x 5/6, MEM x 2/4
 
 **Hz** - Hertz. Commonly referred to as Refresh Rate. Ideally Hz >= FPS. It's still common for Refresh Rate to be multiple times the FPS. For instance, you can have 60 Hz and 30 FPS in which the output device will display each frame twice. This is most commonly used for video output and a higher number means less video flicker and higher image stability.
 
-The gold standard today in HTPCs for media is 60 Hz. For high end gaming, 120 Hz is desirable, but uncommon as of yet. Common rates relating to HTPCs are:
+The gold standard today in HTPCs for media is 120 Hz. For high end gaming, 120 Hz is desirable. Common rates relating to HTPCs are:
 
 RATE|USE|NOTES
 :--|:--|:--
 24|NTSC|For judder reduction of 24p content (movies, almost all 1080p bluray)
 30|NTSC|Older TVs use this. For 30fps
 50|PAL|For 25fps
-60|NTSC|Majority of TVs use this. Used for 60fps
-120|NA|Used in high-end TVs for better motion because 24fps movies evenly multiplies to 120 therefore does not need 2:3 pulldown
+60|NTSC|Majority of budget TVs use this. Used for 60fps
+120|NA|Used in higher-end TVs for better motion because 24fps movies evenly multiplies to 120 therefore does not need 2:3 pulldown
 240|NA|Used to simulate even better motion by rapidly turning the TV backlight off and on at an additional 120 Hz
 
 **Judder** - A common display artifact caused by playing 24p content on a display with a refresh rate (typically 60hz) that doesn't equally divide by the frame rate. This causes stuttering in horizontal motion and panning scenes as the display uses a method called 'pulldown' to fit the frames into the refresh rate. Typical workarounds are switching the display into 24Hz mode or using a display with a true refresh rate that divides equally (such as 120Hz).
