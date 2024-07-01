@@ -17,11 +17,11 @@ This is a list of terms you may find on this subreddit and what they mean
 
 **AAC/HE-AAC** - Multi-channel audio codecs. Part of the MPEG-2/MPEG-4 specs. Competitor to Dolby and DTS. Successor to MP3
 
-**AC-3** - Synonymous with Dolby Digital
+**AC-3** - Synonymous with Dolby Digital 5.1
 
 **APU** - Accelerated Processing Unit. The term AMD gives to their CPU packages that have a GPU built-in. Common ones are Ryzen 2x00G-8x00G (med. perf/power), Athlon 2x0GE/3000G (low perf/power), A4/A6/A8/A10/A12 (last gen), Athlon 5xxx (old).
 
-**ARC/eARC (audio)** - Audio Return Channel. A feature in the HDMI spec that allows audio to flow from a HDMI sink (e.g. TV) back to a sound system. This is useful when an HTPC/media device is connected to a TV first which then has to passthrough the HTPC audio (or its own audio) back to the sound system. ARC (HDMI 1.4/2.0) supports 2.0 PCM uncompressed and DD 5.1/DTS 5.1 compressed audio. eARC (HDMI 2.1) support up to Dolby Atmos/DTS:X uncompressed audio. ARC almost never supported on HTPC/media device GPU ports, only on Displays and sound systems.
+**ARC/eARC (audio)** - Audio Return Channel. A feature in the HDMI spec that allows audio to flow from a HDMI sink (e.g. TV) back to a sound system. This is useful when an HTPC/media device is connected to a TV first which then has to passthrough the HTPC audio (or its own audio) back to the sound system. ARC (HDMI 1.4/2.0) supports 2.0 PCM uncompressed and AC-3+Atmos/DTS 5.1 compressed audio. eARC (HDMI 2.1) support up to Dolby Atmos/DTS:X uncompressed audio. ARC almost never supported on HTPC/media device GPU ports, only on Displays and sound systems.
 
 **ARC (Intel)** - Family of dedicated video cards made by Intel. Supports DP 1.4a/2.0, HDMI 2.0b/2.1, 4k netflix, AV1 decoding/encoding.
 
@@ -56,7 +56,7 @@ ARCH|GEN|RELEASED|NOTES
 
 **DisplayPort/DP** - An interface for transporting audio/video. Commonly used to connect devices in a Home Theater setting, but not nearly as common as HDMI. As TVs and AVRs tend to have HDMI ports, DisplayPorts that are found on HTPCs are usually used in conjunction with a DisplayPort->HDMI adapter when a HDMI 2.0 port is not found on the motherboard to get HDMI 2.0 output. The current standard is DisplayPort 1.4
 
-**E-AC-3** - Synonymous with Dolby Digital Plus
+**E-AC-3** - Synonymous with Dolby Digital Plus 5.1
 
 **FPS** - Frames Per Second. This is used for video output in reference to how many content frames are recorded/shown/transmitted per second. A higher number usually translates to smoother video.
 
