@@ -77,9 +77,9 @@ If you need storage and want to run backend services (like plex)..
 If you want more CPU performance or more flexibility/expandability than any reasonably priced pre-built NAS can offer, build out your own DiY NAS with Unraid/TrueNAS/OMV and commodity hardware.  
 Reference the DiY case/drive lists below, and the example builds under the [Wiki Sample Builds](/wiki/sample-builds#nasmedia-server-builds) page for full-part builds that range from used OEM pre-builts to ultimate DiY  
 
-**If you want to skirt the line between a pre-built NAS and DiY, look at the following, these provide more CPU/GPU performance than a pre-built NAS for 2 drives, but give you more OS support with Windows, Linux or Unraid/TrueNAS/OMV compatibility and DiY-like flexibility:**  
+**If you want to skirt the line between a pre-built NAS and DiY, look at the following, as these can provide the same CPU/GPU performance as a pre-built NAS for cheaper, but give you more OS support with Windows, Linux or Unraid/TrueNAS/OMV compatibility and DiY-like flexibility:**  
 - **Intel-based [Seeed Studio reServer (2 drives)](https://www.seeedstudio.com/reThings-reServer-c-2006.html)**  
-- **Intel-based [AOOSTAR R1 (2 drives)](https://aoostar.com/products/aoostar-r1-2bay-nas-intel-n100-mini-pc-with-w11-pro-lpddr4-16gb-ram-512gb-ssd) / [(4 drives - FUTURE)](https://aoostar.com/blogs/news/aoostar-pro-4-bay-nas-with-n100-n305-5700u-cpu)**  
+- **Intel-based [AOOSTAR R1 (2 drives)](https://aoostar.com/products/aoostar-r1-2bay-nas-intel-n100-mini-pc-with-w11-pro-lpddr4-16gb-ram-512gb-ssd) / [AOOSTAR WTR PRO (4 drives)](https://aoostar.com/products/aoostar-n9e-intel-n100-mini-pc4c-4t-up-to-3-4ghz-with-w11-home-8-16gb-ddr4-3200mhz-ram-256-512gb-m-2-2280-nvme-ssd)**  
 
 **Ad-hoc**  
 
@@ -366,5 +366,5 @@ If your storage is on a windows-based OS, [follow these instructions](https://su
 
 ---
 
-*This page was last updated on 2024-06-28*
+*This page was last updated on 2024-06-30*
 
