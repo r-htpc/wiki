@@ -323,7 +323,7 @@ TOTAL||$250||
 
 This is a build with a dGPU for MadVR upscaling/tonemapping that's going to provide better visual quality than the iGPU on a CPU. Other features include 4k@60 playback, 4k netflix/YT, HDR, and medium 1080p gaming.
 
-The Nvidia GTX 1660 chosen is the most powerful, reasonably-priced, GPU you will find, with the GTX 1060 6GB also capable and a little cheaper.  
+The Nvidia GTX 1660 chosen is the most powerful, reasonably-priced, GPU you will find. If you need something new, then the RTX 3050 6GB.  
 
 We don't go beyond a mid-level GPU here for MadVR because we feel you start to get into diminishing returns on visual quality, while incurring more power usage and heat.  
 
@@ -337,7 +337,7 @@ CASE|Silverstone ML07|$105|[amazon](https://www.amazon.com/SilverStone-Technolog
 CPU|Intel i3-12100F, 60W|$100|[pcpartpicker](https://pcpartpicker.com/product/grhFf7/intel-core-i3-12100f-33-ghz-quad-core-processor-bx8071512100f)|Passmark CPU Mark: 14000. ALT: Intel i5-12400F
 MOBO|ASRock Z690M-ITX/ax|$135|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&s=40&sort=price&page=1)|ALT: GD09: [MSI PRO B660M-A DDR4 MicroATX](https://pcpartpicker.com/product/KKbTwP/msi-pro-b660m-a-ddr4-micro-atx-lga1700-motherboard-pro-b660m-a-ddr4) ($120)
 MEM|Corsair Vengeance LPX 16GB 2x8GB DDR4-3200|$40|[pcpartpicker](https://pcpartpicker.com/product/p6RFf7/corsair-memory-cmk16gx4m2b3200c16)|
-GPU|Nvidia GTX 1660 6GB|$125|[ebay](https://www.ebay.com/sch/27386/i.html?_fsrp=1&rt=nc&_from=R40&LH_TitleDesc=0&LH_PrefLoc=2&_nkw=gtx+1660&LH_BIN=1&_sacat=27386&_sop=15&_oac=1&LH_ItemCondition=1500%7C1000%7C2500%7C3000)|<= 330 mm. ALT: [Nvidia GTX 1060 6GB](https://www.ebay.com/sch/i.html?_from=R40&_nkw=gtx+1060+6gb&_sacat=0&_odkw=gtx+1060+6gb&_osacat=0&LH_BIN=1&_sop=15) ($80)
+GPU|Nvidia GTX 1660 6GB|$125|[ebay](https://www.ebay.com/sch/27386/i.html?_fsrp=1&rt=nc&_from=R40&LH_TitleDesc=0&LH_PrefLoc=2&_nkw=gtx+1660&LH_BIN=1&_sacat=27386&_sop=15&_oac=1&LH_ItemCondition=1500%7C1000%7C2500%7C3000)|<= 330 mm. ALT: [Nvidia RTX 3050 6GB](https://pcpartpicker.com/products/video-card/#xcx=0&c=572,518&sort=price&page=1) ($170)
 STORAGE|Teamgroup MP33 Pro 512GB M.2 NVMe SSD|$40|[pcpartpicker](https://pcpartpicker.com/product/PDtKHx/team-mp33-pro-512-gb-m2-2280-nvme-solid-state-drive-tm8fpd512g0c101)|OS/App Drive
 STORAGE|Hitachi Ultrastar 7K3000 3TB 7200rpm|$45|[amazon](https://smile.amazon.com/dp/B005QTSDDQ/?tag=pcpapi-20)|OPTIONAL: Content drive. 6TB WD Red ($100), 8TB Ironwolf ($130)
 COOL	|	Thermalright AXP120-X67	CPU Cooler	|	$35	|[pcpartpicker](https://pcpartpicker.com/product/K2cG3C/thermalright-axp120-x67-59-cfm-cpu-cooler-axp120-x67)	|OPTIONAL. ALT: GD09: Thermalright Silver Soul 135 ($40)
