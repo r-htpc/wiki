@@ -892,7 +892,7 @@ HDMI 1.4 (1080p/4k@30)
 
 [Douk Audio U2 USB - TOSLINK Optical+Coax](https://www.amazon.com/Douk-Audio-Converter-Interface-PCM192Khz/dp/B085XPRSGM) (Nvidia Shield compatible) - $50 
 
-[Turtle Beach Audio Advantage Micro II USB Sound Card](https://www.amazon.com/Audio-Advantage-Micro-Sound-Card) (Nvidia Shield compatible) - $25 - If you can find it! 
+[Turtle Beach Audio Advantage Micro II USB Sound Card](https://www.ebay.com/sch/i.html?_from=R40&_nkw=turtle+beach+audio+advantage+micro&_sacat=0&_odkw=turtle+beach+audio+advantage&_osacat=0) (Nvidia Shield compatible) - $25 
 
 **HDCP Stripper / HDMI Downscaler**  
 
