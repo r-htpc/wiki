@@ -23,7 +23,7 @@ You can use [PCPartPicker](http://www.pcpartpicker.com/) to help you select part
 
 ## HTPC Pre-builts/Mini-PCs
 
-Pre-builts come in all shapes and sizes. The smallest options are tempting, but usually this means less performance, higher price, and/or more noise. Things like the SBC options below will have the highest power efficiency, but also lowest performance, usualy just good enough to get the job done. Intel N/AMD U CPUs (e.g. N100/5560U) have high efficiency. Intel T/AMD GE CPUs (e.g. i3-8100T) medium efficiency. Non-T/non-GE desktop CPUs, low efficiency.  
+Pre-builts come in all shapes and sizes. The smallest options are tempting, but usually this means less performance, higher price, and/or more noise. Things like the [SBC](https://en.wikipedia.org/wiki/Single-board_computer) options below will have the highest power efficiency, but also lowest performance, usualy just good enough to get the job done. Intel N/AMD U CPUs (e.g. N100/5560U) have high efficiency. Intel T/AMD GE CPUs (e.g. i3-8100T) medium efficiency. Non-T/non-GE desktop CPUs, low efficiency.  
 
 **Choosing the least expensive option is attractive, but not always the best course of action.** While we recommend some lower-cost chinese vendors below (like Beelink and Minisforum), these may not be for you. With low cost comes limitations like operating system/BIOS support, warranty, quality control and reliability. If you're not comfortable giving up on those things, spend more to purchase similar speced hardware from other, reputable vendors.  
 
