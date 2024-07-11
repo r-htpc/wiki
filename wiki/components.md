@@ -353,7 +353,7 @@ We recommend that you assemble the system without supplemental cooling, then add
 In that case, a larger, slower fan is quieter than a smaller, faster fan. 
 
 Avoid putting the case in a space with no airflow (e.g. enclosed entertainment centers). This will just heat the components no matter how many fans you throw at it, especially if you're 
-using a high TDP/Watt CPU. If you need, cut holes in the back of the enclosed space at the minimum or, ideally, add a fan to that back space to expel the hot air from inside.  Look at [AC Infinity](https://acinfinity.com/quiet-cabinet-fans/) fans/grills which can be found in [USB](https://acinfinity.com/quiet-usb-fans/) and [AC power](https://acinfinity.com/ac-axial-fans/) options, to mount outside of your PC.  
+using a high TDP/Watt CPU. If you need, cut holes in the back of the enclosed space at the minimum or, ideally, add a fan to that back space to expel the hot air from inside.  Look at **AC Infinity** fans/grills which can be found in [Plate](https://acinfinity.com/quiet-cabinet-fans/), [USB](https://acinfinity.com/quiet-usb-fans/) and [AC power](https://acinfinity.com/ac-axial-fans/) options, to mount outside of your PC.  
 
 As stated in the CPU section, if your CPU is <= 80C temp-wise, you're ok. SSD <= 60C is ok. HDD <= 40C is ok.  
 
@@ -362,7 +362,7 @@ Make sure that when you are researching builds, if you are looking at a low-prof
 BRANDS/MODELS:  
 Noctua, Thermalright, be Quiet!, Arctic, Scythe  
 
-For case fans, look at the Arctic P12 series for affordability or the Noctua A series for the best.  
+For case fans, look at the Arctic P12/P8 series for affordability or the Noctua A series for the best.  
 For cpu coolers, look at the Noctua [NH-L9i](http://noctua.at/en/products/cpu-cooler-retail/nh-l9i)/[NH-L9a](http://noctua.at/en/products/cpu-cooler-retail/nh-l9a)/L9x65/L12S, Thermalright AXP Series, Scythe Big Shuriken and the Arctic Freezer [11 LP](https://www.arctic.ac/us_en/freezer-11-lp.html) for small cases and the Noctua NH-D12L, ID Cooling SE-224-XT, Thermalright Peerless Assassin or Arctic Liquid Freezer II AIOs for large cases.  
 
 Check our [CPU Coolers](/wiki/cpucoolers) wiki page for an extended list.  
