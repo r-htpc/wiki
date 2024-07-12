@@ -349,10 +349,9 @@ TOTAL||$660||
 
 ### UHD MakeMKV Ripping/Handbrake Transcoding Machine (12-20L)
 
-A build for ripping DVD/FHD Blu Ray and UHD Blu Ray discs. As such, it has space for an internal 5.25 drive and 2-3 HDDs to make this into a NAS/
-media server as well.  
+A build for ripping DVD/FHD Blu Ray and UHD Blu Ray discs. As such, it has space for 5.25 drives and 5-6 HDDs to make this into a NAS/media server as well.  
 If you don't need the drive space and want something smaller, consider the Silverstone ML03/ML04 (16L) w/the i5-13400 instead and no additional CPU Cooler; or the In Win CE685 (12L) w/i5-13400, no cooler or PSU.  
-Alternatively, if you want MORE HDD space look at Silverstone's GD06 (4)/TJ08B-E (6)/GD07 (8)/GD08 (9).  
+Alternatively, if you want a different form factor or more HDD space look at Silverstone's GD06 (4)/TJ08B-E (6)/GD07 (8)/GD08 (9).  
 
 This uses a modern 10-core CPU w/IGPU for very fast Handbrake transcoding performance. This is a high watt part and necessitates an additional CPU cooler. If you don't need best-in-class performance, you can switch to something like a i5-13400 with the stock cooler. and B660 mobo  
 
@@ -364,16 +363,16 @@ If you can't afford to spend this much, buy a 2nd-hand pre-built and make some u
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
-CASE	|Fractal Design Core 500/1000				|$75	|	pcpartpicker	|	ALT: Silverstone ML03
-CPU		|Intel i5-12600K CPU, 125W				|$200	|	[pcpartpicker](https://pcpartpicker.com/product/BB4Ycf/intel-core-i5-12600k-37-ghz-6-core-processor-bx8071512600k)	|	ALT: i5-13400 ($200)
-MOBO	|ASRock Z690M-ITX/ax	|$135	|	[pcpartpicker](https://pcpartpicker.com/product/2PYmP6/asrock-z690m-itxax-mini-itx-lga1700-motherboard-z690m-itxax)	|	ALT: ASRock B760M-ITX/D4 ($150)
-MEM		|Ripjaws V 32GB 2x16GB DDR4-3200			|$65	|	[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&S=3200,8000&Z=32768002&sort=price&page=1)	|	ALT: Ripjaws V 32GB 2x8GB DDR4-3200 ($40)
-STORAGE	|LG WH16NS60 UHD Blu-Ray Drive			|$110	|	pcpartpicker	|	ALT: LG WH16NS40 UHD Friendly ($65)
-STORAGE	|Sabrent Rocket 1TB M.2 SSD			|$70	|	[pcpartpicker](https://pcpartpicker.com/product/N7zkcf/sabrent-1-tb-m2-2280-solid-state-drive-sb-rocket-1tb)	|	ALT: WD Black SN770 1TB
-COOL	|Thermalright Silver Soul 135 CPU Cooler				|$40	|	[pcpartpicker](https://pcpartpicker.com/product/c3pzK8/thermalright-silver-soul-135-82-cfm-cpu-cooler-ss135)	|	ALT: Thermalright AXP120-X67 ($40)
-PSU		|EVGA GA 650W Fully Modular ATX PSU		|$60	|	pcpartpicker	|	ALT: Thermaltake Smart BM2 Semi 550W ($60)
+CASE	|Silverstone PS07				|$110	|	[pcpartpicker](https://pcpartpicker.com/product/qmtCmG/silverstone-case-sstps07b)	| [specs](https://www.silverstonetek.com/en/product/info/computer-chassis/PS07/). ALT: Silverstone ML03
+CPU		|Intel i5-12600K CPU, 125W				|$175	|	[pcpartpicker](https://pcpartpicker.com/product/BB4Ycf/intel-core-i5-12600k-37-ghz-6-core-processor-bx8071512600k)	|	ALT: i5-13400 ($200)
+MOBO	|MSI PRO B760M-A WIFI DDR4	|$150	|	[pcpartpicker](https://pcpartpicker.com/product/VVqPxr/msi-pro-b760m-a-wifi-ddr4-micro-atx-lga1700-motherboard-pro-b760m-a-wifi-ddr4)	|	ALT: [Other uATX mobos](https://pcpartpicker.com/products/motherboard/#f=7&sort=price&xcx=0&s=40&K=4,13)
+MEM		|Ripjaws V 32GB 2x16GB DDR4-3200			|$60	|	[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&S=3200,8000&Z=32768002&sort=price&page=1)	|	ALT: Ripjaws V 32GB 2x8GB DDR4-3200 ($40)
+STORAGE	|LG WH16NS40 UHD Blu-Ray Drive			|$70	|	[pcpartpicker](https://pcpartpicker.com/product/QZ6BD3/lg-optical-drive-wh16ns40)	|	ALT: ASUS BW-16D1HT ($100)
+STORAGE	|WD Black SN770 1TB		|$70	|	[pcpartpicker](https://pcpartpicker.com/product/YVytt6/western-digital-1-tb-m2-2280-nvme-solid-state-drive-wds100t3x0e)	|	ALT:  Teamgroup Cardea Zero Z440 1TB
+COOL	|Thermalright Peerless Assassin CPU Cooler				|$40	|	[pcpartpicker](https://pcpartpicker.com/product/hYxRsY/thermalright-peerless-assassin-120-se-6617-cfm-cpu-cooler-pa120-se-d3)	|	ALT: Thermalright AXP120-X67 ($40)
+PSU		|EVGA 700 BQ 700W Semi Modular ATX PSU		|$75	|	[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=1&sort=price&m=8,337,50,11,14,17,18,27,28,94,29,229,51,71,63,441,56&e=4,2)	|	ALT: be quiet Pure Power 12 M 650W ($80)
 SOFTWARE	|MakeMKV Beta/Full		|FREE/$60	|	[makemkv](https://www.makemkv.com/buy/)	|Free with beta license key posted each month
-TOTAL	|										|$755	|					|
+TOTAL	|										|$750	|					|
 
 <!-- Sub-Section -->
 
