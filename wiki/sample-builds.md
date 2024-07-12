@@ -347,7 +347,7 @@ TOTAL||$660||
 
 <!-- Sub-Section -->
 
-### UHD MakeMKV Ripping/Handbrake Transcoding Machine (12-20L)
+### UHD MakeMKV Ripping/Handbrake Transcoding Machine (16-32L)
 
 A build for ripping DVD/FHD Blu Ray and UHD Blu Ray discs. As such, it has space for 5.25 drives and 5-6 HDDs to make this into a NAS/media server as well.  
 If you don't need the drive space and want something smaller, consider the Silverstone ML03/ML04 (16L) w/the i5-13400 instead and no additional CPU Cooler; or the In Win CE685 (12L) w/i5-13400, no cooler or PSU.  
@@ -883,5 +883,5 @@ TOTAL		|											|$844			|	|
 
 ---
 
-*This page was last updated on 2024-06-30*
+*This page was last updated on 2024-07-12*
 
