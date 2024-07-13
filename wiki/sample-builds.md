@@ -353,7 +353,7 @@ A build for ripping DVD/FHD Blu Ray and UHD Blu Ray discs. As such, it has space
 If you don't need the drive space and want something smaller, consider the Silverstone ML03/ML04 (16L) w/the i5-13400 instead and no additional CPU Cooler; or the In Win CE685 (12L) w/i5-13400, no cooler or PSU.  
 Alternatively, if you want a different form factor or more HDD space look at Silverstone's GD06 (4)/TJ08B-E (6)/GD07 (8)/GD08 (9).  
 
-This uses a modern 10-core CPU w/IGPU for very fast Handbrake transcoding performance. This is a high watt part and necessitates an additional CPU cooler. If you don't need best-in-class performance, you can switch to something like a i5-13400 with the stock cooler. and B660 mobo  
+This uses a modern 10-core CPU w/IGPU for very fast Handbrake transcoding performance. This is a high watt part and necessitates an additional CPU cooler. If you don't need best-in-class performance, you can switch to something like a i5-13400 with the stock cooler.  
 
 Standard software for ripping is: [MakeMKV](https://www.makemkv.com) to rip a disc to a full quality file, and then [Handbrake](https://handbrake.fr) to optionally transcode it down for size and client compatibility. Check the [ripping section](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use) of our FAQ page for detailed instructions. Check [this post](https://forum.makemkv.com/forum/viewforum.php?f=16) on the makemkv forum for firmware for your drive.   
 For automated ripping on disc insert, look at [Automatic Ripping Machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) (ARM), which is a front-end to makemkv/handbrake. Its setup on Linux is not for the faint of heart. 
