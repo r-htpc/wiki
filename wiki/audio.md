@@ -592,6 +592,8 @@ If ahead/behind delays occur on specific content, it could indicate that the con
 
 You could be encountering a "feature" that causes a digital audio connection (SPDIF or HDMI) to go to sleep, [into a power saving D3 state](https://www.intel.com/content/dam/www/public/us/en/documents/product-specifications/high-definition-audio-specification.pdf), when audio stops playing for a period of time. It takes some time for the connection to come back to an active D0 power state, causing the delay. To workaround this use a program to keep the connection active, such as [Sound Keeper](https://github.com/vrubleg/soundkeeper) or [SPDIF KA](https://github.com/handruin/spdif-ka) on Windows (or [these methods](https://destinmoulton.com/notes/howto/linux-usb-audio-keep-alive-service/) on Linux) which will play inaudible audio over the connection at all times.  
 
+You can also reference [this post](https://old.reddit.com/r/htpc/comments/vn3iuy/fixing_the_delay_when_starting_audio_from_windows/) for experiences. 
+
 <!-- Sub-Section -->
 
 ### My sound system only supports decoding Dolby Digital, but I want to play content with varying formats. How do I re-encode it all to Dolby Digital?
@@ -909,5 +911,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2024-06-18*
+ *This page was last updated on 2024-07-14*
 
