@@ -898,9 +898,9 @@ HDMI 1.4 (1080p/4k@30)
 
 **PCIe to Optical/Analog**  
 
-Creative Sound Blaster Z SE/X AE-5 - Analog, DD/DTS Passthrough, Dolby Digital Live Encoding  
+Creative Sound Blaster Z SE/X AE-5 - TOSLINK Optical+Analog, DD/DTS Passthrough, Dolby Digital Live Encoding  
 
-Creative Audigy RX - Analog, DD/DTS Passthrough 
+Creative Audigy RX - TOSLINK Optical+Analog, DD/DTS Passthrough 
 
 **HDCP Stripper / HDMI Downscaler**  
 
@@ -917,5 +917,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2024-07-14*
+ *This page was last updated on 2024-07-15*
 
