@@ -896,6 +896,12 @@ HDMI 1.4 (1080p/4k@30)
 
 [Turtle Beach Audio Advantage Micro II USB Sound Card](https://www.ebay.com/sch/i.html?_from=R40&_nkw=turtle+beach+audio+advantage+micro&_sacat=0&_odkw=turtle+beach+audio+advantage&_osacat=0) (Nvidia Shield compatible) - $25 
 
+**PCIe to Optical/Analog**  
+
+Creative Sound Blaster Z SE/X AE-5 - Analog, DD/DTS Passthrough, Dolby Digital Live Encoding  
+
+Creative Audigy RX - Analog, DD/DTS Passthrough 
+
 **HDCP Stripper / HDMI Downscaler**  
 
 [Ezcoo EZ-EX11HAS-PRO](https://www.amazon.com/HDMI-Audio-Extractor-60Hz-l-b-y/dp/B07TZRXKYG) - HDMI 2.0, HDCP Strip, 4k->1080p scaler, Optical+3.5mm Stereo extractor, Audio EDIDs
