@@ -582,7 +582,7 @@ The PSU wattage may seem overkill, but we again plan for any upgrades, CPU, GPU,
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE		|	Fractal Design Meshify 2			|	$160	|	[pcpartpicker](https://pcpartpicker.com/product/jqTzK8/fractal-design-meshify-2-atx-mid-tower-case-fd-c-mes2a-02)	|[[specs](https://www.fractal-design.com/products/cases/meshify/meshify-2/black-tg-dark-tint/)]. ALT: Fractal Design Define 7 ($160)
-CPU		|	Intel i5-12500 6C/12T CPU (65W)			|	$200	|	[pcpartpicker](https://pcpartpicker.com/product/hvC48d/intel-core-i5-12500-3-ghz-6-core-processor-bx8071512500)	|ALT: Intel i5-12600k
+CPU		|	Intel i5-12500 6C/12T CPU (65W)			|	$200	|	[pcpartpicker](https://pcpartpicker.com/product/hvC48d/intel-core-i5-12500-3-ghz-6-core-processor-bx8071512500)	|ALT: [Intel i5-12600k](https://pcpartpicker.com/product/BB4Ycf/intel-core-i5-12600k-37-ghz-6-core-processor-bx8071512600k)
 MOBO		|ASRock Z690 Extreme DDR4 ATX			|	$160	|	[pcpartpicker](https://pcpartpicker.com/product/FNWzK8/asrock-z690-extreme-atx-lga1700-motherboard-z690-extreme)	|ALT: [Other Motherboards](https://pcpartpicker.com/products/motherboard/#mt=ddr4&h=2,8&K=6,13&sort=price&c0=1x2500-1x1000,1x2500&xcx=0&s=40&f=2,7)
 MEM		|	G.Skill Ripjaws V 32GB (2x16GB) DDR4-3200	|	$70	|	[pcpartpicker](https://pcpartpicker.com/product/kXbkcf/gskill-memory-f43200c16d32gvk)	|
 STORAGE		|	Samsung Bar Plus 64GB USB Flash Drive (BOOT)	|	$10	|	[amazon](https://www.amazon.com/Samsung-BAR-Plus-64GB-MUF-64BE4/dp/B07BPGF6N3/)		|
