@@ -547,7 +547,7 @@ TOTAL||$647||
 
 If you have massive storage requirements now, or plan on in the future, and don't want to go hot-swap or rackmount, this build will fit the bill. 
 The Meshify 2 case is quality and well-priced for 13xHDDs and has fan slots up front to cool your data HDDs sufficiently, as when maxed out they will 
-collectively produce a lot of heat. See our [Storage Setup Guide](/wiki/storage) for additional case options.  
+collectively produce a lot of heat. See our [Storage Setup Guide](/wiki/storage#diy-nas-case-list) for additional case options.  
 
 The CPU may seem meager, not being a K sku, but we don't need much power, we mostly want the iGPU for hardware media transcoding and the Noctua cooler is 
 more than enough for this 65W CPU. If you opt for the 12600K, move up to the Peerless Assassin cooler.  
