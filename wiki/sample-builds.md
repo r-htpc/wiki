@@ -542,7 +542,7 @@ TOTAL||$647||
 
 <!-- Sub-Section -->
 
-### <!-- $4000 Almost Ultimate NAS (126TB) + Media Server (59L) -->
+<!-- ### $4000 Almost Ultimate NAS (126TB) + Media Server (59L) -->
 ### $1300 Almost Ultimate NAS / Media Server (59L)
 
 If you have massive storage requirements now, or plan on in the future, and don't want to go hot-swap or rackmount, this build will fit the bill. 
