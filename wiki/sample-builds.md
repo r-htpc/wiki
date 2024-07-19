@@ -542,7 +542,8 @@ TOTAL||$647||
 
 <!-- Sub-Section -->
 
-### $4000 Almost Ultimate NAS (126TB) + Media Server (59L)
+### <!-- $4000 Almost Ultimate NAS (126TB) + Media Server (59L) -->
+### $1300 Almost Ultimate NAS / Media Server (59L)
 
 If you have massive storage requirements now, or plan on in the future, and don't want to go hot-swap or rackmount, this build will fit the bill. 
 The Meshify 2 case is quality and well-priced for 13xHDDs and has fan slots up front to cool your data HDDs sufficiently, as when maxed out they will 
@@ -554,10 +555,7 @@ more than enough for this 65W CPU. If you opt for the 12600K, move up to the Pee
 We use highly reliable, well-priced Seagate Exos HDDs here for our data. Alternatively, WD Ultrastar drives are just as good. Since this is the bulk of our 
 cost, find the best price you can and, if you can, order from multiple vendors to get different batches of drives.  
 
-We configure for 126TB of usable space with dual-parity protection (14TBx11 = 154TB total - 28TB parity = 126TB usable).  
-
-If you want to start with smaller-sized or a smaller number of drives and mix-and-match sizes later, you can do that, but your parity drive(s) should be 
-as big as the largest usable data drive you plan on having. It is also not recommended to go over 6 usable data drives per parity drive.  
+We configure this build for 126TB of usable space with dual-parity protection (14TBx11 = 154TB total - 28TB parity = 126TB usable) to show the potential of what's possible. If you want to start with smaller-sized or a smaller number of drives and mix-and-match sizes later, you can do that, but your parity drive(s) should be as big as the largest usable data drive you plan on having. It is also not recommended to go over 6 usable data drives per parity drive.  
 
 Keeping a backup of this much data would be a serious problem without building a second system to sync to, even if we do have a dual-parity protected array. 
 If a backup is something you may want, consider splitting up the drives into 2 arrays. Such as 1 active array w/6 drives (5 usable+1 parity) and a backup 
@@ -574,7 +572,7 @@ Lots of well-priced RAM for VMs, Dockers and, if you so choose, Plex media trans
 As a Plex server, with the purchased Plex Pass, you can transcode 8x4k or 20x1080p transcodes concurrently on the CPU's iGPU. Without a Plex Pass, 
 expect 8x1080p streams with CPU software transcoding. For more transcodes, add a used [Quadro P5000](https://www.elpamsoft.com/?p=Plex-Hardware-Transcoding) dGPU (11x4k,22x1080p) ($300).  
 
-The LSI HBA adapter has 8 ports for SATA drives. You can use the 8x SATA ports on the motherboard, then add on the HBA when you outgrow those or vice-versa.  
+The LSI HBA adapter has 8 ports for SATA drives. You can use the 8x SATA ports on the motherboard for your HDDs, then add on the HBA when you outgrow those, or vice-versa.  
 
 For the motherboard, in theory any Z690/Z790 ATX/uATX board will work with 2 x16 slots, if you want to have support for a potential dGPU upgrade. We need at least 1 slot for our LSI HBA Adapter to connect our data drives to and then 1 slot for a potential dGPU. 
 On the chosen board we also have dual 2.5Gb Intel LAN.
@@ -589,7 +587,7 @@ MOBO		|ASRock Z690 Extreme DDR4 ATX			|	$160	|	[pcpartpicker](https://pcpartpick
 MEM		|	G.Skill Ripjaws V 32GB (2x16GB) DDR4-3200	|	$70	|	[pcpartpicker](https://pcpartpicker.com/product/kXbkcf/gskill-memory-f43200c16d32gvk)	|
 STORAGE		|	Samsung Bar Plus 64GB USB Flash Drive (BOOT)	|	$10	|	[amazon](https://www.amazon.com/Samsung-BAR-Plus-64GB-MUF-64BE4/dp/B07BPGF6N3/)		|
 STORAGE		|	2x SK Hynix P31 1TB NVMe M.2 SSD (APP/CACHE)	|	$175	|	[pcpartpicker](https://pcpartpicker.com/product/xNCFf7/sk-hynix-gold-p31-1-tb-m2-2280-nvme-solid-state-drive-shgp31-1000gm-2)	|ALT: SK Hynix P41 PCIe4
-STORAGE		|	11x Seagate Exos X16 14TB HDD (DATA)		|	$2300	|	[amazon](https://www.amazon.com/Seagate-3-5-Inch-Internal-Enterprise-ST14000NM001G/dp/B07T63FDJQ)	|ALT: WD Ultrastar DC HC530 14TB
+STORAGE		|	11x Seagate Exos X16 14TB SATA HDD (DATA)		|	$2300	|	SEPARATE. [amazon](https://www.amazon.com/Seagate-3-5-Inch-Internal-Enterprise-ST14000NM001G/dp/B07T63FDJQ)	|ALT: WD Ultrastar DC HC530 14TB
 STORAGE		|	LSI 9207-8i Adapter + Cables, in IT/HBA mode	|	$40	|	[ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=9207+8i+%2Bcables&_sacat=0&LH_TitleDesc=0&_dmd=1&_stpos=80232-6476&_odkw=9201+%2B16i+%2Bcables&_osacat=0&_sop=15&LH_PrefLoc=2&_ipg=60&_sadis=15)	|ALT: [Adaptec ASR 71605](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=adaptec+asr+71605+%2Bcables&_sacat=0&LH_TitleDesc=0&_odkw=Adaptec+ASR+71605&_osacat=0) ($140)
 STORAGE          |       SATA Power Splitter Cables                                  |       $15  |       [amazon](https://www.amazon.com/Cable-Matters-Pack-Power-Splitter/dp/B012BPLW08)   |  
 COOL		|	Arctic P14 PWM 140 mm Fan (FRONT)		|	$15	|	[amazon](https://www.amazon.com/dp/B07GZJY4TM?tag=pcpapi-20&linkCode=ogi&th=1&psc=1)		|
@@ -598,7 +596,7 @@ PSU		|	EVGA GA/G5 Fully-Modular 650W 80+ Gold ATX PSU	|	$100	|	[pcpartpicker](ht
 SOFTWARE	|	Unraid Unleashed - Unlimited device license		|	$110	|	[limetech](https://unraid.net/pricing)	|
 SOFTWARE	|	Plex Media Server				|	$0	|	[Plex](https://www.plex.tv/downloads)		|Free
 LICENSE		|	Plex Pass					|	$120	|	[Plex](https://www.plex.tv/plex-pass/)		|Lifetime cost or $40/year, $5/month.
-TOTAL		|							|	$3525	|			|
+TOTAL		|							|	$1225	|			|
 
 <!-- Sub-Section -->
 
