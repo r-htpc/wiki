@@ -32,7 +32,7 @@ Some audio tracks will have multiple codec streams in them for compatibility. Fo
 
 These are the codecs/encoded formats you're likely to run into:  
 
-PCM/LPCM: Lossless. # of channels dependent on interface. Optical/HDMI ARC only supports 2 channels. More than 2 channels can be play over regular HDMI/eARC/Displayport/RCA/3.5mm. Common in PC Gaming audio.  
+PCM/LPCM: Lossless. # of channels dependent on interface. Optical/HDMI ARC only supports 2 channels. More than 2 channels can be play over regular HDMI/eARC/Displayport/RCA/3.5mm. **Common in PC Gaming audio. Default OS output**  
 
 AAC/HE-AAC: Lossy, <= 320 Kbps. Up to 48 channels. Almost always cannot be bitstreamed due to current lack of Sound System support. Also applies to FLAC/MP3/WAV. 
 
@@ -74,7 +74,7 @@ Displayport (native): Digital. Displayport on both ends. Bitstreamed: None. PCM:
 
 Displayport (Alternate mode): Digital. Displayport->HDMI cable/adapter. Bitstreamed: HDMI supported. PCM: 8 channels  
 
-Optical/TOSLINK/RCA (Orange/Black): Digital. S/PDIF. Lossy Dolby Digital 5.1, Lossy DTS 5.1. PCM: 2.0 channels. 
+Optical/TOSLINK/RCA (Orange/Black): Digital. S/PDIF. Lossy Dolby Digital 5.1, Lossy DTS 5.1. **PCM: 2.0** channels. 
 
 RCA (red/white/etc): Analog: 1 channel/connector. Bitstreamed/PCM: None  
 
@@ -262,7 +262,7 @@ In this scenario you will likely be bitstreaming through Optical, or in the case
 
 ### **Software/OS Setup**  
 
-There are 2 ways to send audio between your HTPC and your sound system, Bitstreaming and Decoding. Depending on your use-case **you may be using one or both**. A use-case where you'd use both is where you want to bitstream codecs from a media player(s), but send PCM for games; so you'd configure bitstreaming for your media players and configure decoding in windows sound control panel for PCM  
+There are 2 ways to send audio between your HTPC and your sound system, Bitstreaming and Decoding. Depending on your use-case **you may be using one or both**. A use-case where you'd use both is where you want to bitstream codecs from a media player(s), but send PCM for games; so you'd **configure bitstreaming for your media players and configure decoding in your Operating Ssstem sound control panel for PCM**  
 
 **Scenario #1: BITSTREAMING**  
 
@@ -285,7 +285,7 @@ The second is decoding and channelization. This means the media application play
 
 This scenario would be used for non-encoded PCM audio, like non-Atmos **Games**, streaming services that only support Stereo, when you want to modify the audio in the PC using middleware (upmixing, equalizing, creating fake spatial audio), and/or sound systems where encoded codecs are not supported, like analog audio interfaces.  
 
-On a Windows HTPC, this is the default scenario, but usually requires some setup. To configure this in Windows: Open Windows Control Panel -> Sound -> \<your_audio_device\> -> Configure -> Select your speaker configuration -> Next -> Optionally configure the speakers you have/don't have.  
+**On a Windows HTPC, this is the default, so audio interfaces are limited by their PCM capabilities**, but usually requires some setup. To configure this in Windows: Open Windows Control Panel -> Sound -> \<your_audio_device\> -> Configure -> Select your speaker configuration -> Next -> Optionally configure the speakers you have/don't have.  
 
 If you select a speaker configuration that is more than what your content provides, for instance you choose 5.1 speakers and play a Stereo source, Windows will output the source as 5.1 but with only the Stereo speakers containing audio. 
 
