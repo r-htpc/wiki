@@ -262,7 +262,7 @@ In this scenario you will likely be bitstreaming through Optical, or in the case
 
 ### **Software/OS Setup**  
 
-There are 2 ways to send audio between your HTPC and your sound system, Bitstreaming and Decoding. Depending on your use-case **you may be using one or both**. A use-case where you'd use both is where you want to bitstream codecs from a media player(s), but send PCM for games; so you'd **configure bitstreaming for your media players and configure decoding in your Operating Ssstem sound control panel for PCM**  
+There are 2 ways to send audio between your HTPC and your sound system, Bitstreaming and Decoding. Depending on your use-case **you may be using one or both**. A use-case where you'd use both is where you want to bitstream codecs from a media player(s), but send PCM for games; so you'd **configure bitstreaming for your media players and configure decoding in your Operating System sound control panel for PCM**  
 
 **Scenario #1: BITSTREAMING**  
 
