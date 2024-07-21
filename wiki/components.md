@@ -363,7 +363,7 @@ BRANDS/MODELS:
 Noctua, Thermalright, be Quiet!, Arctic, Scythe  
 
 For case fans, look at the Arctic P12/P8 series for affordability or the Noctua A series for the best.  
-For cpu coolers, look at the Noctua [NH-L9i](http://noctua.at/en/products/cpu-cooler-retail/nh-l9i)/[NH-L9a](http://noctua.at/en/products/cpu-cooler-retail/nh-l9a)/L9x65/L12S, Thermalright AXP Series, Scythe Big Shuriken and the Arctic Freezer [11 LP](https://www.arctic.ac/us_en/freezer-11-lp.html) for small cases and the Noctua NH-D12L, ID Cooling SE-224-XT, Thermalright Peerless Assassin or Arctic Liquid Freezer II AIOs for large cases.  
+For cpu coolers, look at the Noctua [NH-L9i](http://noctua.at/en/products/cpu-cooler-retail/nh-l9i)/[NH-L9a](http://noctua.at/en/products/cpu-cooler-retail/nh-l9a)/L9x65/L12S, Thermalright AXP Series, Scythe Big Shuriken and the Arctic Freezer [11 LP](https://www.arctic.ac/us_en/freezer-11-lp.html) for small cases and the Noctua NH-D12L, ID Cooling SE-224-XT, Thermalright Peerless Assassin or Arctic Liquid Freezer AIOs for large cases.  
 
 Check our [CPU Coolers](/wiki/cpucoolers) wiki page for an extended list.  
 
