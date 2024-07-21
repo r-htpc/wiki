@@ -322,7 +322,7 @@ For most HTPC builds with just an iGPU (but check the calculator!), we usually r
 
 BRANDS/MODELS:  
 Ratings: [Cybenetics PSU Database](https://www.cybenetics.com/index.php?option=power-supplies)  
-ATX: Seasonic (Focus/S12/GM), Super Flower (Leadex), EVGA (GA/G5/GD), Corsair (RM/CXM), Silverstone (ST/SX). Shoot for a warranty of 5-10 years.  
+ATX: Seasonic (Focus/S12/GM), Super Flower (Leadex), EVGA (GD/GA/G5/G7/GT/G+), Corsair (RM/CXM), Silverstone (ST/SX). Shoot for a warranty of 5-10 years.  
 [Example ATX/SFX PSU search](https://pcpartpicker.com/products/power-supply/#m=8,337,169,50,11,14,106,229,71,63,441,56&sort=price&A=200000000000,1000000000000&e=6,5,4,3,2,1)  
 Silent (< 20 dBA): [Phanteks Amp](https://www.cybenetics.com/index.php?option=database&cert=1&bdg=4&volts=1&manfID=83), [Super Flower Leadex III Gold](https://www.cybenetics.com/index.php?option=database&params=1,0,55), [be Quiet! Straight Power 11](https://www.cybenetics.com/index.php?option=database&params=1,0,22), [Corsair RM550x](https://www.cybenetics.com/index.php?option=database&params=1,0,28)  
 SFX: Seasonic Focus SGX, Silverstone ST30SF/SX, Corsair SF, EVGA GM, FSP Dagger Pro Gold  
