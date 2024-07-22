@@ -101,7 +101,7 @@ Below are the minimum CPUs required for each scenario and a recommendation. **Al
 
 **In most cases, a CPU that has an integrated GPU as recommended above will work fine for new HTPCs**. If you need more than what they provide or you're adding onto an existing system, then a dGPU is warranted. Since HTPCs are in listening environments and tend to be small, low TDP, low profile dGPUs are what we aim for to keep heat and noise in check, wherever possible. You can pair these up with CPU without the integrated GPUs. For Intel these are 'F' tagged skus. For AMD, non 'G' tagged skus.  
 
-Some features like HDR, 4K and protected content will restrict you to certain models. For instance, for 4K netflix you cannot use a Nvidia GT 1030 or GTX 1050 with only 2GB of VRAM. You need at least 3GB, so do not ignore the ">=" below in the 4k Netflix recommendations. See the 4K/HDR sections for more system requirements.  
+Some features like HDR, 4K and protected content will restrict you to certain dGPU models. For instance, for **4K Netflix** you cannot use a Nvidia GT 1030 or GTX 1050 with only 2GB of VRAM. You need at least 3GB, so do not ignore the ">=" below in the 4k Netflix recommendations. For **4K Youtube**, you can't use any GP104/GP106 (GTX 1060/1070&Ti/1080) based GPUs as they can't decode VP9 10-bit; See the Nvidia matrix [here](https://en.wikipedia.org/wiki/Nvidia_NVDEC) and our matrix below.  
 
 Below are the minimum requirements for each scenario and a recommendation. The recommendations are generalized and may change depending on your budget, regional availability, space/power requirements, and whether you want new or second-hand parts. If you're not sure, post and ask us for a rec based on your detailed use-case.  
 
@@ -110,17 +110,17 @@ Below are the minimum requirements for each scenario and a recommendation. The r
 
 - 1080p H264, 4k@30Hz video out: AMD Radeon R5 240/HD 8570 (REC: Dell R5 240) 
 
-- 4K Local HDR+4K Youtube HDR: Nvidia >= GT 1030 GDDR5, AMD >= 5x00/6x00 (REC: Used: GTX 1050 Ti, New: RX 6400/Intel A3x0) 
+- 4K Local HDR+4K Youtube HDR: Nvidia >= GT 1030 GDDR5, AMD >= 5x00/6x00 (REC: Used: GTX 1650, New: RX 6400/Intel A3x0) 
 
-- 4K Netflix: Nvidia >= GTX 1050 3GB, AMD >= RX 550/5x00/6x00 (REC: Used: GTX 1050 Ti, New: RX 6400/Intel A3x0) 
+- 4K Netflix: Nvidia >= GTX 1050 3GB, AMD >= RX 550/5x00/6x00 (REC: Used: GTX 1650, New: RX 6400/Intel A3x0) 
 
-- 4K Netflix+Youtube+Local HDR: Nvidia >= GTX 1050 3GB, AMD >= RX 6x00 (REC: Used: GTX 1050 Ti, New: RX 6400/Intel A3x0) 
+- 4K Netflix+Youtube+Local HDR: Nvidia >= GTX 1050 3GB, AMD >= RX 6x00 (REC: Used: GTX 1650, New: RX 6400/Intel A3x0) 
 
 - AV1 decoding: >= Intel A3xx/Nvidia RTX 3050/A2000/AMD RX 6600 (REC: Intel A3x0) 
 
 - HDMI 2.1 4K@120Hz (>= 32Gbps): >= Nvidia RTX 3050/AMD RX 6400 (REC: RX 6400) 
 
-- Emulation/Medium Gaming: Nvidia >= GT 1030 GDDR5, AMD >= 5xx/5x00/6x00 (REC: Used: GTX 1050 Ti, New: RX 6400) 
+- Emulation/Medium Gaming: Nvidia >= GT 1030 GDDR5, AMD >= 5xx/5x00/6x00 (REC: Used: GTX 1650, New: RX 6400) 
 
 - High Gaming: (REC: Used: GTX 1070/1660 Super, New: AMD RX 6600/RTX 4060 LP) 
 
@@ -128,7 +128,7 @@ Below are the minimum requirements for each scenario and a recommendation. The r
 
 - Plex Transcoding: [Elpamsoft GPU transcode tables](https://www.elpamsoft.com/?p=Plex-Hardware-Transcoding) (REC: Intel A3x0/Quadro P600/GTX 1050 Ti) 
 
-- Low Profile (4K Netflix+Youtube+Local HDR/Gaming): AMD RX 6400, Intel A380, Nvidia GTX 1050 Ti/1650, RTX 3050/4060 LP (REC: Used: GTX 1050 Ti LP, New: Gaming: RTX 3050 LP, Media: Intel A380/AMD RX 6400) 
+- Low Profile (4K Netflix+Youtube+Local HDR/Gaming): AMD RX 6400, Intel A380, Nvidia GTX 1050 Ti/1650, RTX 3050/4060 LP (REC: Used: GTX 1650 LP, New: Gaming: RTX 3050 LP, Media: Intel A380/AMD RX 6400) 
 
 - Single Slot, Low Profile: Intel ARC A310
 
@@ -181,7 +181,7 @@ Nvidia RTX 40xx								|	Y		|	Y		|	Y	|	Y		|2.1		|1.4	|	Y	|	Y		|	Y		|Ada Lovelace
 (6) Requires >= RX 6600  
 (7) Only provides HDMI 2.0 bandwidth/resolutions  
 (8) HDMI 2.1 (>= 32Gbps) available on specific SKUs  
-(9) [Not GTX 1060/1070/1080](https://en.wikipedia.org/wiki/Nvidia_NVDEC)  
+(9) [Not GTX 1060/1070&Ti/1080](https://en.wikipedia.org/wiki/Nvidia_NVDEC)  
 (11) 4k@120 Hz 4:2:2 10-bit HDR - 32 Gbps (mobo limited)  
 (12) DP 2.1 - 40 Gbps with usb available on specific 13xxx mobo SKUs  
 
