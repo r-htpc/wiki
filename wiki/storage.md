@@ -93,7 +93,7 @@ If you can't afford any of these and want to do it more cheaply, you can use/buy
 
   - 2-4 drives: [Orange Pi 3 LTS](https://www.aliexpress.com/w/wholesale-orange-pi-3-lts.html) (USB3x1,USB2x2) $40, [RPI 4b](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) (USB3x2,USB2x2) $35, [Rock64-2GB](https://ameridroid.com/collections/pine) (USB3x1,USB2x2) $35, [Pine H64](https://ameridroid.com/collections/pine) (USB3x1,USB2x2) $45, [Odroid C4](https://www.hardkernel.com/shop/odroid-c4/) (USB3x4) $55, [Odroid HC4](https://www.hardkernel.com/shop/odroid-hc4/) (**SATAx2**) $75, [Odroid H4+](https://www.hardkernel.com/shop/odroid-h4-plus/) (**SATAx4**) $139. PC: [Dell/Lenovo i3-4130t](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28i3-4130t%2Ci3-4160t%29&_sacat=171957&LH_TitleDesc=0&_sop=15&rt=nc) (USB3x2-4,USB2x2) $50. Optionally, add a [single enclosure DAS](/wiki/storage#direct-attach-storage-das-list) over USB.  
 
-  - Install linux or [Openmediavault](https://www.openmediavault.org/) as your OS, optionally create a storage pool under [mergerFS](https://github.com/trapexit/mergerfs/wiki), and share out [over the network with Samba](/wiki/storage#how-do-i-share-htpc-storage-on-my-network).  
+  - Install linux or [Openmediavault](https://www.openmediavault.org/) as your OS, optionally create a storage pool under [mergerFS](https://github.com/trapexit/mergerfs/wiki) if more than one drive, and share your storage out [over the network with Samba](/wiki/storage#how-do-i-share-htpc-storage-on-my-network).  
 
 - Wireless Access Point with USB port. if you already have one
 
