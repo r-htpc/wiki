@@ -183,7 +183,7 @@ Various              |       Various (DiY)                    |       4      |  
 
 ### Hard Drives
 
-Recs bolded  
+Recs bolded. Choose WD Ultrastar DC HC unless you need the lowest noise during read/write, then choose Ironwolf Pro NAS **NT** (you will give up cache size until 22TB model).  
 
 BRAND					|CAPACITY|WARRANTY|INTERFACE|CACHE|WORKLOAD|Noise (1)|USE|NOTES		
 :--|:--|:--|:--|:--|:--|:--|:--|:--
