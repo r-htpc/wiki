@@ -225,7 +225,7 @@ In this scenario you will likely be bitstreaming through Optical, or in the case
 
  Video supported: Negotiated by HTPC and Display  
 
- Audio supported: Stereo PCM, Lossy DD 5.1/DTS 5.1 (optical) or Stereo/Surround analog (3.5mm). [Gaming audio](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system)  
+ Audio supported: Stereo PCM, Lossy DD 5.1/DTS 5.1 (optical) or Stereo/Surround analog (3.5mm). [Gaming audio setup](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system)  
 
 **Scenario #6** - Your HTPC does NOT have multiple display outputs, does not have an Optical/SPDIF port, and your display does not have a HDMI ARC or Optical port
 
@@ -237,7 +237,7 @@ In this scenario you will likely be bitstreaming through Optical, or in the case
 
  Video supported: Negotiated by HTPC, Display and HDMI Audio Extractor  
 
- Audio supported: HDMI (all), Stereo PCM, Lossy DD 5.1/DTS 5.1 (optical), Stereo PCM (RCA), or Stereo/Surround analog (3.5mm). [Gaming audio](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system)  
+ Audio supported: HDMI (all), Stereo PCM, Lossy DD 5.1/DTS 5.1 (optical), Stereo PCM (RCA), or Stereo/Surround analog (3.5mm). [Gaming audio setup](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system)  
 
  NOTE: An audio extractor will not DECODE audio codecs, it just passes it through its output connector. If you send such a bitstreamed signal into it and expect audio out of its analog connectors, you will get NO audio; you either have to pass PCM in to get audio out of those connectors, or use an AVR/decoder box behind the HDMI/optical port.  
 
@@ -254,7 +254,7 @@ In this scenario you will likely be bitstreaming through Optical, or in the case
 
  Video supported: Negotiated by HTPC and Display  
 
- Audio supported: Stereo PCM, Lossy DD 5.1/DTS 5.1 (optical), Stereo PCM (RCA), or Stereo/Surround analog (3.5mm). [Gaming audio](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system)  
+ Audio supported: Stereo PCM, Lossy DD 5.1/DTS 5.1 (optical), Stereo PCM (RCA), or Stereo/Surround analog (3.5mm). [Gaming audio setup](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system)  
 
  NOTE: An audio extractor will not DECODE Dolby/DTS audio, it just passes it through to the optical connector. If you send such a signal in and expect audio out of the RCA/3.5" connectors, you will get NO audio; you either have to pass PCM in to get audio out of those connectors, or use an AVR/decoder box behind the optical port, like [this](https://www.amazon.com/J-Tech-Digital-Optical-Toslink-Converter/dp/B01A1HQE38).  
 
