@@ -698,6 +698,7 @@ There are no perfect solutions for 4k/120Hz video. Either buy a new AVR and pass
 
 Yes.  
 
+*DISPLAYPORT/USB-C*  
 If you have a spare DisplayPort port (either on a dGPU or on your motherboard with a CPU iGPU) you can use a simple, **PASSIVE** [DisplayPort to HDMI cable/adapter](/wiki/components#video-cablesadapters) to get HD audio (up to TrueHD Atmos/DTS:X) to an HDMI port on a sound system.  
 
 If you have a USB-C port (that supports DP Alt Mode video out) you can use a [USB-C to HDMI cable/adapter](/wiki/components#video-cablesadapters) to do the same thing. Your mileage may vary depending on the adapter and source device, so use a recommended adapter/cable.  
@@ -711,6 +712,10 @@ If you need to bitstream HD audio:
 - Use multiple video outputs; audio over a passive cable/adapter to your sound system, video over an straight HDMI cable or active adapter to your display  
 
 See the [Video Cables/Adapters](/wiki/components#video-cablesadapters) section of the Hardware Components Guide for more recommendations.  
+
+*ANALOG/OPTICAL*  
+If you decode HD audio on your HTPC and use analog output jacks then technically you're getting HD audio.  
+If you decode and re-encode HD audio to a non-HD codec for bandwidth reasons (such as TrueHD->PCM->DD) you can output it over Optical. See gaming audio question above for how to do this.  
 
 <!-- Sub-Section -->
 
