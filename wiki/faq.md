@@ -538,6 +538,36 @@ The following are the current capabilities of the major streaming services as we
   - *Windows:* Unknown, but will not be higher than 1080p
   - *Linux:* Unknown, but will not be higher than 1080p
 
+## How can i play my DVD/Blu-ray discs on my HTPC?
+
+Ideally, you shouldn't; especially for UHD/4K, as the [system requirements are so restrictive](/wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility) to make it not worth-while.  
+
+You should rip your discs to digital files per [Wiki:How can i rip my DVD/Blu-ray discs and what are some good quality settings to use?](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use)  
+
+If you must have menus, which is presumably the reason you want disc playback, create an unencrypted ISO of it.  
+ 1. If UHD Blu-Ray, make sure [you have a UHD Friendly drive](/wiki/components#optical-drives)
+ 2. Install and run [MakeMKV](https://www.makemkv.com/)
+ 3. Insert your disc
+ 4. Create the backup
+    - If DVD:
+      - Click the disc backup icon in the Toolbar. This will create an unecrypted ISO. Specify the output path for it
+    - If FHD/UHD Blu-ray:
+      - Click the disc backup icon in the Toolbar. This will create an unencrypted folder structure. Specify the output path for it
+      - Use [ImgBurn](https://www.imgburn.com/index.php?act=download) to create an ISO file from the unencrypted folder
+ 5. Play the ISO with a compatible player; these are:
+    - Kodi (w/[Java 8](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html) for Blu-Ray)
+    - VLC
+    - MPC-HC/MPC-BE
+    - JRiver
+    - If you have problems opening the ISO with a player, mount the ISO with [CloneDrive](https://www.redfox.bz/en/virtual-clonedrive.html) first and open the folder structure
+
+If you must have disc playback:
+ 1. DVD: Kodi/MPC-BE/VLC, [Microsoft DVD player](https://apps.microsoft.com/detail/9nblggh2j19w?activetab=pivot%3Aoverviewtab&rtc=1&hl=en-us&gl=US#activetab=pivot:overviewtab)
+ 2. FHD Blu-Ray: [Leawo Blu-Ray Player](https://www.leawo.com/blu-ray-player/)
+ 3. UHD Blu-Ray: *Official UHD Drive*: [CyberLink PowerDVD](https://www.cyberlink.com/products/powerdvd-ultra/features_en_US.html). *[UHD-Friendly Drive](/wiki/components#optical-drives)*: Redfox AnyDVD HD + Media player above
+
+See our [Optical Drive](/wiki/components#optical-drives) section of the Hardware Components page for drive selection  
+
 ## How can i rip my DVD/Blu-ray discs and what are some good quality settings to use?
 
 For DVDs and regular HD blu-ray any optical drive that can read the discs will do, internal or external, and you can spend <= $75 on one. For UHD discs, you should have a UHD or UHD-Friendly compatible drive with locked-in firmware. Check our [optical drives section](/wiki/components#optical-drives).  
@@ -545,7 +575,7 @@ For DVDs and regular HD blu-ray any optical drive that can read the discs will d
 You will then use software to rip the content off the disc. It's recommended to do this process in two stages, especially if you need content re-encoded for compatibility or space-saving..  
 
 First, use the [MakeMKV](http://www.makemkv.com/) program to extract the content off the disc. You can choose all the video/audio titles on the disc, just some of them, or just the main one. In the end, this will make a full quality MKV file without changing the format or size of the content. This isn't CPU heavy and can be done on a very minimal system.  
-If you want to make a full ISO instead of an MKV, use Backup in the toolbar to output the disc to a folder, then make an ISO of the folder using something like ImgBurn.  
+If you want to make a full ISO instead of an MKV, use Backup in the toolbar to output the disc to a folder, then make an ISO of the folder using something like [ImgBurn](https://www.imgburn.com/index.php?act=download).  
 
 If you're after the best quality, you're done. Play the file with your favorite media player or put the file on your media server storage for serving.  
 
