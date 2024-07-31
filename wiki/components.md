@@ -252,9 +252,9 @@ HDDs: Ultrastar, Seagate Exos, WD Red
 
 ### Optical Drives
 
-See our [Playback](/wiki/faq#how-can-i-play-my-dvdblu-ray-discs-on-my-htpc) section for how to do disc/ISO playback and [Ripping](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use) section for advise on ripping. 
+See our [Playback](/wiki/faq#how-can-i-play-my-dvdblu-ray-discs-on-my-htpc) section for how to do disc/ISO playback and our [Ripping](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use) section for advice on ripping. 
 
-*DVD/Blu-Ray:*  
+*DVD/FHD Blu-Ray:*  
 Internal: LG WH14NS40, ASUS BW-16D1HT, Pioneer BDR 212  
 External, Slim: Archgon MD-3102S, LG WP50NB40/BP60NB10/BP50NB40  
 
@@ -267,7 +267,7 @@ Internal, Slim: LG BU40N
 External, Slim: Archgon MD-8107S, Buffalo BRUHD-PU3, LG BP60NB10  
 
 *Restrictions:*  
-[HDCP](https://en.wikipedia.org/wiki/High-bandwidth_Digital_Content_Protection) 1.x for DVD, HDCP 1.3 for Blu-Ray, HDCP 2.2 for UHD Blu-Ray; in all devices of the video chain (Drive, GPU, Video Cable, Display) 
+[HDCP](https://en.wikipedia.org/wiki/High-bandwidth_Digital_Content_Protection) 1.x for DVD, HDCP 1.3 for FHD Blu-Ray, HDCP 2.2 for UHD Blu-Ray; in all devices of the video chain (Drive, GPU, Video Cable, Display) 
 
 UHD/4k blu-ray **disc** playback is not recommended due to hardware restrictions. See [here](https://www.cyberlink.com/support/faq-content.do?id=19144) and [here](/wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility)   
 
@@ -275,7 +275,7 @@ UHD/4k blu-ray **disc** playback is not recommended due to hardware restrictions
 
 - If you **can't** meet the restrictions, then either (in order of preference):  
 
-  1. Buy a MakeMKV-supported drive and Rip the discs to digital with makemkv
+  1. Buy a MakeMKV-supported drive and [Rip the discs to digital with MakeMKV](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use)
 
   2. Buy a [standalone player](https://www.google.com/search?q=panasonic+ub420+ub820&oq=panasonic+ub420+ub820) for your HT system.  
 
