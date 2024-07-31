@@ -559,7 +559,7 @@ If you must have menus, which is presumably the reason you want disc playback, c
     - VLC
     - MPC-HC/MPC-BE
     - JRiver
-    - If you have problems opening the ISO with a player, mount the ISO with [CloneDrive](https://www.redfox.bz/en/virtual-clonedrive.html) first and open the folder structure
+    - If you have problems opening the ISO with a player, mount the ISO with [CloneDrive](https://www.majorgeeks.com/files/details/virtual_clonedrive.html) first and open the folder structure
 
 If you must have disc playback:
  1. DVD: Kodi/MPC-BE/VLC, [Microsoft DVD player](https://apps.microsoft.com/detail/9nblggh2j19w?activetab=pivot%3Aoverviewtab&rtc=1&hl=en-us&gl=US#activetab=pivot:overviewtab)
