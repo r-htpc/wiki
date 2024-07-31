@@ -291,9 +291,9 @@ For gaming, look at Steam w/Windows or Linux. If you have an AMD GPU, look at [C
 
 For Live TV software, see the [dedicated section](/wiki/faq#can-i-watch-live-tv-or-record-it-and-play-it-back-on-my-htpc) below.  
 
-For DVD disc playback, Kodi, VLC, MPC-BE, or [Windows DVD Player](https://www.microsoft.com/store/p/windows-dvd-player/9nblggh2j19w). For Blu-Ray, both Kodi and VLC (w/[Java 8](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html)) have disc menu support. For ISO playback, look at Kodi, VLC, MPC-HC, and Jriver along with [CloneDrive](https://www.redfox.bz/en/virtual-clonedrive.html) to mount the ISO first ; for 4k/UHD discs, use [Cyberlink PowerDVD](https://www.cyberlink.com/products/powerdvd-ultra/features_en_US.html)  
+For Optical disc playback, see the [dedicated section](/wiki/faq#how-can-i-play-my-dvdblu-ray-discs-on-my-htpc) below.  
 
-For disc ripping and transcoding software, see the [dedicated section](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use) below.  
+For Optical disc ripping and transcoding, see the [dedicated section](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use) below.  
 
 If you're planning on replacing cable/sat with similar streaming services, you will find [r/cordcutters](https://www.reddit.com/r/cordcutters/) to be helpful.  
 
@@ -800,5 +800,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2024-05-03*
+*This page was last updated on 2024-07-31*
 
