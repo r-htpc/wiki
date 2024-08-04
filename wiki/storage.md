@@ -46,9 +46,10 @@ SSDs are good for smaller app, metadata and cache storage as they have more read
 
 ## External Storage
 
-External media storage can come in the format of USB drives or USB/Thunderbolt Direct Attached Storage enclosures (DAS). Drives in a DAS can act as individual drives or as one drive, depending on the DAS. Anything attached by USB is at risk of being disconnected at random, so internal or network storage is preferred to external, where at all possible.
+External media storage can come in the format of USB drives or USB/Thunderbolt Direct Attached Storage enclosures (DAS); drives in a DAS can act as individual drives or as one drive. These USB-based storage devices are o.k. for beginner setups, but anything attached by USB is at risk of being disconnected at random, so **internal or network storage is preferred** to external, for reliability and stability. That said, if a DAS is PCIe SAS-based instead of USB, this is just as good as internal/network storage.  
+**Never** do Software RAID over USB.  
 
-Recommended DASes are bolded in the Hardware section below.
+Recommended DASes are bolded in the Hardware section below. PCIe solutions being preferred. 
 
 Attach to a DiY or Ad-hoc solution below  
 
@@ -144,7 +145,7 @@ If you can't afford a pre-built NAS and want to do it more cheaply, you can use/
 
   - 2-4 drives:
     - USB-based: [Orange Pi 3 LTS](https://www.aliexpress.com/w/wholesale-orange-pi-3-lts.html) (USB3x1,USB2x2) $40, [RPI 4b](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) (USB3x2,USB2x2) $35, [Rock64-2GB](https://ameridroid.com/collections/pine) (USB3x1,USB2x2) $35, [Pine H64](https://ameridroid.com/collections/pine) (USB3x1,USB2x2) $45, [Odroid C4](https://www.hardkernel.com/shop/odroid-c4/) (USB3x4) $55, PC: [Dell/Lenovo i3-4130t](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28i3-4130t%2Ci3-4160t%29&_sacat=171957&LH_TitleDesc=0&_sop=15&rt=nc) (USB3x2-4,USB2x2) $50. Optionally, add a [single enclosure DAS](/wiki/storage#direct-attach-storage-das-list) over USB.
-    - SATA-based: [Odroid HC4](https://www.hardkernel.com/shop/odroid-hc4/) (**SATAx2**) $75, [Odroid H4+](https://www.hardkernel.com/shop/odroid-h4-plus/) (**SATAx4**) $139.
+    - SATA-based: [Odroid HC4](https://www.hardkernel.com/shop/odroid-hc4/) (**SATAx2**) $75, [Odroid H4+](https://www.hardkernel.com/shop/odroid-h4-plus/) + [Case](https://www.hardkernel.com/product-category/cases/) (**SATAx4**) $150.
 
   - Install linux or [Openmediavault](https://www.openmediavault.org/) as your OS, optionally create a storage pool under [mergerFS](https://github.com/trapexit/mergerfs/wiki) if more than one drive, and share your storage out [over the network with Samba](/wiki/storage#how-do-i-share-htpc-storage-on-my-network).  
 
@@ -163,7 +164,7 @@ Reference the DiY case/drive lists below, and the example builds under the [Wiki
 
 <!-- Sub-Section -->
 
-### Direct Attach Storage (DAS) List
+### Direct Attach Storage (DAS)
 
 BRAND		|	MODEL				|	DRIVES|	COST	|	NOTES
 :--|:--|:--|:--|:--
