@@ -60,7 +60,12 @@ You should keep your network storage away from your listening environments/clien
 
 If you have the money to spend on a pre-built NAS and your requirements will not shift drastically, you should do that. Otherwise, looks at the other alternate options.  
 
-**Pre-Built NAS**  
+<!-- Section -->
+
+## Hardware
+
+### Pre-Built NAS  
+**(as of 2024-03-13)**  
 
 The best option where cpu/mem requirements are not large and will not shift drastically. Becomes less cost effective as the number of drives increase, but may be justified if you really don't want to learn the ins/outs of DiY network storage and just want an easy, low-maintenance setup with a purpose-built pre-installed OS.  
 
@@ -74,37 +79,6 @@ If you need storage and want to run backend services (like plex)..
 - 2 drives: Terramaster F2-424 - $380  
 - 4 drives: Terramaster F4-424 - $500  
 
-**DiY**  
-
-If you want more CPU performance or more flexibility/expandability than any reasonably priced pre-built NAS can offer, build out your own DiY NAS with Unraid/TrueNAS/OMV and commodity hardware.  
-Reference the DiY case/drive lists below, and the example builds under the [Wiki Sample Builds](/wiki/sample-builds#nasmedia-server-builds) page for full-part builds that range from used OEM pre-builts to ultimate DiY  
-
-**If you want to skirt the line between a pre-built NAS and DiY, look at the following, as these can provide the same CPU/GPU performance as a pre-built NAS for cheaper, but give you more OS support with Windows, Linux or Unraid/TrueNAS/OMV compatibility and DiY-like flexibility:**  
-- **Intel-based [Seeed Studio reServer (2 drives)](https://www.seeedstudio.com/reThings-reServer-c-2006.html)**  
-- **Intel-based [AOOSTAR R1 (2 drives)](https://aoostar.com/products/aoostar-r1-2bay-nas-intel-n100-mini-pc-with-w11-pro-lpddr4-16gb-ram-512gb-ssd) / [AOOSTAR WTR PRO (4 drives)](https://aoostar.com/products/aoostar-n9e-intel-n100-mini-pc4c-4t-up-to-3-4ghz-with-w11-home-8-16gb-ddr4-3200mhz-ram-256-512gb-m-2-2280-nvme-ssd)**  
-
-**Ad-hoc**  
-
-If you can't afford any of these and want to do it more cheaply, you can use/buy one of these and add external drives/enclosures to it:  
-
-- Single Board Computer (SBC) or Pre-owned OEM PC
-
-  - 1 drive: [NanoPi R2S](https://www.friendlyelec.com/index.php?route=product/product&path=69&product_id=282&sort=p.price&order=ASC) (USB2x1) $27, [Orange Pi Zero 3](https://www.aliexpress.us/w/wholesale-Orange-pi-zero-3.html?spm=a2g0o.productlist.search.0) (USB2x1) $25  
-
-  - 2-4 drives: [Orange Pi 3 LTS](https://www.aliexpress.com/w/wholesale-orange-pi-3-lts.html) (USB3x1,USB2x2) $40, [RPI 4b](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) (USB3x2,USB2x2) $35, [Rock64-2GB](https://ameridroid.com/collections/pine) (USB3x1,USB2x2) $35, [Pine H64](https://ameridroid.com/collections/pine) (USB3x1,USB2x2) $45, [Odroid C4](https://www.hardkernel.com/shop/odroid-c4/) (USB3x4) $55, [Odroid HC4](https://www.hardkernel.com/shop/odroid-hc4/) (**SATAx2**) $75, [Odroid H4+](https://www.hardkernel.com/shop/odroid-h4-plus/) (**SATAx4**) $139. PC: [Dell/Lenovo i3-4130t](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28i3-4130t%2Ci3-4160t%29&_sacat=171957&LH_TitleDesc=0&_sop=15&rt=nc) (USB3x2-4,USB2x2) $50. Optionally, add a [single enclosure DAS](/wiki/storage#direct-attach-storage-das-list) over USB.  
-
-  - Install linux or [Openmediavault](https://www.openmediavault.org/) as your OS, optionally create a storage pool under [mergerFS](https://github.com/trapexit/mergerfs/wiki) if more than one drive, and share your storage out [over the network with Samba](/wiki/storage#how-do-i-share-htpc-storage-on-my-network).  
-
-- Wireless Access Point with USB port. if you already have one
-
-  - Put it in AP mode on wired ethernet and [share the disk with samba](https://www.net-usb.com/share-hard-drive-over-network/#usb). Not advised for very large or non-powered drives. Get a SBC instead.  
-
-<!-- Section -->
-
-## Hardware
- 
-### Pre-Built NAS List  
-**(as of 2024-03-13)**  
 **STORAGE+SERVICES - 2 drives**  
 
 BRAND		|	MODEL				|	DRIVES	|COST	|	TRANSCODING		|	CPU								|	PASSMARK	|	PM/$|	RAID MODES	| NOTES
@@ -159,6 +133,33 @@ Transcoding = Plex transcoding ability, referenced in [plex's transcoding spread
 (2) HW Transcoding: 1x 4k or 3x 1080p. SW Transcoding: 1x 1080p  
 (3) HW Transcoding: 2x 1080p. SW Transcoding: 2x 720p  
 (4) HW Transcoding: 1x 1080p. SW Transcoding: 1x 720p  
+
+### Ad-hoc  
+
+If you can't afford a pre-built NAS and want to do it more cheaply, you can use/buy one of these and add external drives/enclosures to it:  
+
+- Single Board Computer (SBC) or Pre-owned OEM PC
+
+  - 1 drive: [NanoPi R2S](https://www.friendlyelec.com/index.php?route=product/product&path=69&product_id=282&sort=p.price&order=ASC) (USB2x1) $27, [Orange Pi Zero 3](https://www.aliexpress.us/w/wholesale-Orange-pi-zero-3.html?spm=a2g0o.productlist.search.0) (USB2x1) $25  
+
+  - 2-4 drives:
+    - USB-based: [Orange Pi 3 LTS](https://www.aliexpress.com/w/wholesale-orange-pi-3-lts.html) (USB3x1,USB2x2) $40, [RPI 4b](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) (USB3x2,USB2x2) $35, [Rock64-2GB](https://ameridroid.com/collections/pine) (USB3x1,USB2x2) $35, [Pine H64](https://ameridroid.com/collections/pine) (USB3x1,USB2x2) $45, [Odroid C4](https://www.hardkernel.com/shop/odroid-c4/) (USB3x4) $55, PC: [Dell/Lenovo i3-4130t](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28i3-4130t%2Ci3-4160t%29&_sacat=171957&LH_TitleDesc=0&_sop=15&rt=nc) (USB3x2-4,USB2x2) $50. Optionally, add a [single enclosure DAS](/wiki/storage#direct-attach-storage-das-list) over USB.
+    - SATA-based: [Odroid HC4](https://www.hardkernel.com/shop/odroid-hc4/) (**SATAx2**) $75, [Odroid H4+](https://www.hardkernel.com/shop/odroid-h4-plus/) (**SATAx4**) $139.
+
+  - Install linux or [Openmediavault](https://www.openmediavault.org/) as your OS, optionally create a storage pool under [mergerFS](https://github.com/trapexit/mergerfs/wiki) if more than one drive, and share your storage out [over the network with Samba](/wiki/storage#how-do-i-share-htpc-storage-on-my-network).  
+
+- Wireless Access Point with USB port. if you already have one
+
+  - Put it in AP mode on wired ethernet and [share the disk with samba](https://www.net-usb.com/share-hard-drive-over-network/#usb). Not advised for very large or non-powered drives. Get a SBC instead.  
+
+### DiY   
+
+If you want more CPU performance or more flexibility/expandability than any reasonably priced pre-built NAS or Ad-hoc solution can offer, build out your own DiY NAS with Unraid/TrueNAS/OMV and commodity hardware.  
+Reference the DiY case/drive lists below, and the example builds under the [Wiki Sample Builds](/wiki/sample-builds#nasmedia-server-builds) page for full-part builds that range from used OEM pre-builts to ultimate DiY  
+
+**If you want to skirt the line between a pre-built NAS and DiY, look at the following, as these can provide the same CPU/GPU performance as a pre-built NAS for cheaper, but give you more OS support with Windows, Linux or Unraid/TrueNAS/OMV compatibility and DiY-like flexibility:**  
+- **Intel-based [Seeed Studio reServer (2 drives)](https://www.seeedstudio.com/reThings-reServer-c-2006.html)**  
+- **Intel-based [AOOSTAR R1 (2 drives)](https://aoostar.com/products/aoostar-r1-2bay-nas-intel-n100-mini-pc-with-w11-pro-lpddr4-16gb-ram-512gb-ssd) / [AOOSTAR WTR PRO (4 drives)](https://aoostar.com/products/aoostar-n9e-intel-n100-mini-pc4c-4t-up-to-3-4ghz-with-w11-home-8-16gb-ddr4-3200mhz-ram-256-512gb-m-2-2280-nvme-ssd)**  
 
 <!-- Sub-Section -->
 
@@ -369,5 +370,5 @@ If your storage is on a windows-based OS, [follow these instructions](https://su
 
 ---
 
-*This page was last updated on 2024-07-28*
+*This page was last updated on 2024-08-04*
 
