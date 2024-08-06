@@ -345,7 +345,6 @@ BRAND/MODEL|PRICE|RESOLUTION|4k NETFLIX?|HDR?|WIFI?|LAN?|VOICE SEARCH?|USB?|NOTE
 [Odroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ([buy](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/))|$66|4k@60|No|10 (6)|Opt|1000M|No|YES (8b)|S922x/2GB RAM/8 GB SD. PT:**LL DA/DTSX** w/CoreElec
 [Dune HD Box R Plus](https://www.dune-hd.com/products/homatics-box-r-4k-plus) ([buy](https://www.dune-hd.com/products/homatics-box-r-4k-plus))|$150|4k@60|No|10/+/DV (6)|ax|1000M|No|YES (8b)|S905X4-K/4GB RAM/32 GB SD. **DV-5/7/8**, PT:**LL DA/DTSX** w/CoreElec
 [Mi Box S](https://www.mi.com/global/mi-box-s) ([buy](https://www.amazon.com/Xiaomi-Android-Google-Assistant-Streaming/dp/B07KLWGGYS))|$65|4k@60|YES|10|ac|No|YES|YES (**8b**)|PT:LS DD+/DTS, S905X-H/2GB/8GB, NTFS
-[Apple TV 4k (2021)](https://www.apple.com/apple-tv-4k/) ([buy](https://www.apple.com/shop/buy-tv/apple-tv-4k))|$179/$199|4k@60|YES|10/DV|ax|1000M|YES|No|2nd gen, A12, 3GB/32-64GB, DV-5/8, DC:DTHD/DTSHD->PCM, PT:LS DA, BT 5.0
 **[Apple TV 4k (2022)](https://www.apple.com/apple-tv-4k/)** ([buy](https://www.apple.com/shop/buy-tv/apple-tv-4k))|**$129/$149**|4k@60|YES|10/+/DV|ax|1000M (7)|YES|No|3rd gen, A15, 3GB/64-128GB, DV-5/8, DC:DTHD/DTSHD->PCM, PT:LS DA, BT 5.0
 [Onn 4K](https://www.walmart.com/ip/onn-Google-TV-4K-Streaming-Box-New-2023-4K-UHD-resolution/2835618394) ([buy](https://www.walmart.com/ip/onn-Google-TV-4K-Streaming-Box-New-2023-4K-UHD-resolution/2835618394))|$20|4k@60|YES|10|dual ac|Opt (9a)|YES|Opt (8a)|DC:NA, PT:LS DD/DTS, S905Y4 1.9Ghz/2GB/8GB
 [ChromeCast w/Google TV HD](https://store.google.com/product/chromecast_google_tv) ([buy](https://store.google.com/product/chromecast_google_tv))|$30|1080p|No|10/+|dual ac|Opt|YES|Opt (8a)|AV1, DC:DD+, PT:LS DA/DTS, S805X2, 1.5GB/8GB
@@ -390,6 +389,7 @@ NOTE: Buy links to Amazon go through Amazon Smile to support your favorite chari
 (10) w/[CableCreation Active DP 1.4->HDMI Cable](https://www.amazon.com/CableCreation-Unidirectional-DisplayPort-Eyefinity-Multi-Display/dp/B082CXMBCQ) 
 
 <!--
+[Apple TV 4k (2021)](https://www.apple.com/apple-tv-4k/) ([buy](https://www.apple.com/shop/buy-tv/apple-tv-4k))|$179/$199|4k@60|YES|10/DV|ax|1000M|YES|No|2nd gen, A12, 3GB/32-64GB, DV-5/8, DC:DTHD/DTSHD->PCM, PT:LS DA, BT 5.0
 [Amazon Fire TV stick 4K (2018)](https://www.amazon.com/all-new-fire-tv-stick-4k-with-alexa-voice-remote/dp/B08XVYZ1Y5) ([buy](https://www.amazon.com/all-new-fire-tv-stick-4k-with-alexa-voice-remote/dp/B08XVYZ1Y5))|$40|4K@60|YES|10/+/DV|dual ac 2x2|Opt (9)|YES|Opt (8a)|1st gen, PT:LS DA, 1.7Ghz/1.5GB/8GB
 -->
 
