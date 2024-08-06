@@ -353,8 +353,7 @@ BRAND/MODEL|PRICE|RESOLUTION|4k NETFLIX?|HDR?|WIFI?|LAN?|VOICE SEARCH?|USB?|NOTE
 [Google TV Streamer 4k](https://store.google.com/us/product/google_tv_streamer?hl=en-US) ([buy](https://store.google.com/us/product/google_tv_streamer?hl=en-US))|$100|4k@60|YES|10/+/DV|dual ac|1000M|YES|Opt (8a)|3rd/latest gen. Remote, DV-5/8, DC:DD+, PT:LS DA, MT8696/4GB/32GB
 **[Amazon Fire TV stick 4K MAX (2023)](https://www.amazon.com/dp/B0BP9SNVH9)** ([buy](https://www.amazon.com/dp/B0BP9SNVH9))|**$60**|4K@60|YES|10/+/DV|tri ax 2x2-6e|Opt (9)|YES|Opt (8a)|2nd gen, AV1, DV-4/5/8/9/10, PT:**LL DA**/DTSHD, 2.0Ghz/2GB/16GB
 [Amazon Fire TV stick 4K MAX (2021)](https://www.amazon.com/dp/B08MQZXN1X) ([buy](https://www.amazon.com/dp/B08MQZXN1X))|$55|4K@60|YES|10/+/DV|dual ax 2x2-6|Opt (9)|YES|Opt (8a)|1st gen, AV1, PT:LS DA, 1.8Ghz/2GB/8GB
-[Amazon Fire TV stick 4K (2023)](https://www.amazon.com/dp/B0CDR2MSVC) ([buy](https://www.amazon.com/dp/B0CDR2MSVC))|$50|4K@60|YES|10/+/DV|dual ax 2x2-6|Opt (9)|YES|Opt (8a)|2nd gen, DV-4/5/8/9/10, PT:**LL DA**, 1.7Ghz/2GB/8GB
-[Amazon Fire TV stick 4K (2018)](https://www.amazon.com/all-new-fire-tv-stick-4k-with-alexa-voice-remote/dp/B08XVYZ1Y5) ([buy](https://www.amazon.com/all-new-fire-tv-stick-4k-with-alexa-voice-remote/dp/B08XVYZ1Y5))|$40|4K@60|YES|10/+/DV|dual ac 2x2|Opt (9)|YES|Opt (8a)|1st gen, PT:LS DA, 1.7Ghz/1.5GB/8GB
+[Amazon Fire TV stick 4K (2023)](https://www.amazon.com/dp/B0CDR2MSVC) ([buy](https://www.amazon.com/dp/B0CDR2MSVC))|$40|4K@60|YES|10/+/DV|dual ax 2x2-6|Opt (9)|YES|Opt (8a)|2nd gen, DV-4/5/8/9/10, PT:**LL DA**, 1.7Ghz/2GB/8GB
 [Amazon Fire TV stick](https://www.amazon.com/dp/B07ZZVX1F2/B08C1W5N87) ([buy](https://www.amazon.com/dp/B07ZZVX1F2/B08C1W5N87))|$40|1080p|NO|10/+|dual ac 2x2|Opt (9)|YES|Opt (8a)|3rd Gen, DC: LS DA, PT:LS DA/DTS, 1.7Ghz/1GB/8GB
 [Amazon Fire TV stick Lite](https://www.amazon.com/dp/B091G4YP57) ([buy](https://www.amazon.com/dp/B091G4YP57))|$30|1080p|NO|10/+|dual ac 2x2|Opt (9)|YES|Opt (8a)|BT 5.0 LE, PT:LS DA/DTS, 1.7Ghz/1GB/8GB
 [Amazon Fire TV cube](https://www.amazon.com/dp/B0BFD4M9C8) ([buy](https://www.amazon.com/dp/B0BFD4M9C8))|$140|4K@60|YES|10/+/DV|tri ax 2x2-6E|10/100 (9)|YES|YES (**8b**)|3rd gen, AV1, PT:**LL DA**/DTSHD,DC:LL DA->PCM, 2.2Ghz/2GB/16GB, NTFS
@@ -389,6 +388,10 @@ NOTE: Buy links to Amazon go through Amazon Smile to support your favorite chari
 (9) [Ethernet Adapter](https://www.amazon.com/Cable-Matters-Streaming-Including-Chromecast/dp/B07N2ZHFY9/) <= 350 Mbps, (9a) [Ethernet Adapter](https://www.amazon.com/Cable-Matters-Gigabit-Ethernet-Charging/dp/B08NXS46DN) <= 350 Mbps 
 
 (10) w/[CableCreation Active DP 1.4->HDMI Cable](https://www.amazon.com/CableCreation-Unidirectional-DisplayPort-Eyefinity-Multi-Display/dp/B082CXMBCQ) 
+
+<!--
+[Amazon Fire TV stick 4K (2018)](https://www.amazon.com/all-new-fire-tv-stick-4k-with-alexa-voice-remote/dp/B08XVYZ1Y5) ([buy](https://www.amazon.com/all-new-fire-tv-stick-4k-with-alexa-voice-remote/dp/B08XVYZ1Y5))|$40|4K@60|YES|10/+/DV|dual ac 2x2|Opt (9)|YES|Opt (8a)|1st gen, PT:LS DA, 1.7Ghz/1.5GB/8GB
+-->
 
 ## What is the best client device to stream content to my TV?
 
