@@ -307,9 +307,9 @@ Yes, however the interface quality and functionality varies widely and remote co
 
 If you don't plan on using a [keyboard/mouse-like device](/wiki/components#keyboardsremotesgamepads), then streaming services on a PC will be painful. There are some workarounds like [software](/wiki/components#keyboardsremotesgamepads) to emulate a mouse on game controllers/mobile.  
 Other possible solutions are:  
-* Youtube: <code>chrome.exe --kiosk --enable-extensions --user-agent=Xbox https://www.youtube.com/tv</code> OR [Leanback interface](https://redd.it/y5o7mi)
-* Netflix: <code>chrome.exe --kiosk --enable-extensions https://www.netflix.com</code> + [Netflix Navigator](https://netflixnavigator.com) extension
-* Other services: Browser Kiosk mode (<code>chrome --kiosk/msedge --kiosk --edge-kiosk-type=fullscreen</code>) + [TamperMonkey](https://www.tampermonkey.net/) extension + [Stream Assistant](https://github.com/CHJ85/Stream-Assistant) script
+* Youtube: <code>"%PROGRAMFILES%\Google\Chrome\Application\chrome.exe" --kiosk --enable-extensions --user-agent=Xbox https://www.youtube.com/tv</code> OR [Leanback interface](https://redd.it/y5o7mi)
+* Netflix: <code>"%PROGRAMFILES%\Google\Chrome\Application\chrome.exe" --kiosk --enable-extensions https://www.netflix.com</code> + [Netflix Navigator](https://netflixnavigator.com) extension
+* Other services: Browser Kiosk mode (<code>"%PROGRAMFILES(X86)%\Microsoft\Edge\Application\msedge.exe" --kiosk --edge-kiosk-type=fullscreen</code>) + [TamperMonkey](https://www.tampermonkey.net/) extension + [Stream Assistant](https://github.com/CHJ85/Stream-Assistant) script
 * Keyboard Macros: [AutoHotKey](https://www.autohotkey.com)
 * Launcher: [Flex Launcher](https://github.com/complexlogic/flex-launcher)
 
