@@ -581,7 +581,7 @@ You will then use software to rip the content off the disc. It's recommended to 
 First, use the [MakeMKV](http://www.makemkv.com/) program to extract the content off the disc. You can choose all the video/audio titles on the disc, just some of them, or just the main one. In the end, this will make a full quality MKV file without changing the format or size of the content. This isn't CPU heavy and can be done on a very minimal system.  
 If you want to make a full ISO instead of an MKV, click the Backup icon in the toolbar to output the disc to (*DVD*: an ISO file; *Blu-Ray*: a folder, then make an ISO of the folder using something like [ImgBurn](https://www.imgburn.com/index.php?act=download)).  
 
-If you're after the best quality, you're done. Play the file with your favorite media player or put the file on your media server storage for serving.  
+If you're after the best quality, you're done. Play the file with your [favorite media player](/wiki/video#video-software) or put the file on your [media server storage for serving](/wiki/faq#can-i-streamhow-do-i-serve-my-content-from-another-computer-or-a-networked-storage-device).  
 
 However, these full quality files are large. DVDs can be up to 9.9GB (11 Mbps), FHD Blu-rays 36GB (40 Mbps), and UHD Blu-Ray 115GB (128 Mbps) for 2 hours worth of content. For this reason, some people move to stage two next and use a program called Handbrake to make the files smaller. It's up to you.  
 
