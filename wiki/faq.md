@@ -624,7 +624,7 @@ See the top of the [Sample Builds](/wiki/sample-builds) wiki page or our table o
 
 4k youtube: [HDMI 2.0 motherboard](/wiki/hdmi20), >= [Intel 7th Gen/Gemini Lake/Athlon 200GE/Ryzen 2200G CPU](/wiki/components#cpus) **OR** CPU (>= circa 2008) + dGPU >= [Nvidia GT1030 GDDR5/AMD RX 5x00](/wiki/components#gpusgraphics) **(REC: Ryzen 4600G+B550 mobo)**.  
 
-4k netflix: HDCP 2.2 display, [HDMI 2.0 motherboard](/wiki/hdmi20), >= [Ryzen 3200G/3400G CPU](/wiki/components#cpus) **OR** >= [Intel 7th Gen/Gemini Lake CPU](/wiki/components#cpus) **OR** CPU (>= circa 2008) + dGPU >= [Nvidia GTX 1050 3GB/AMD RX 550/5x00](/wiki/components#gpusgraphics) **(REC: Ryzen 4600G+B550 mobo)**. Windows 10. Microsoft [HEVC Video Extensions](https://www.microsoft.com/en-us/p/hevc-video-extensions/9nmzlz57r3t7). Intel MEI driver/ME firmware (Intel iGPU). Netflix app/Microsoft Edge browser. Netflix [Premium Plan](https://help.netflix.com/en/node/24926). Netflix [Test Patterns](https://www.netflix.com/title/80018499).  
+4k netflix: HDCP 2.2 display, [HDMI 2.0 motherboard](/wiki/hdmi20), >= [Ryzen 3200G/3400G CPU](/wiki/components#cpus) **OR** >= [Intel 7th Gen/Gemini Lake CPU](/wiki/components#cpus) **OR** CPU (>= circa 2008) + dGPU >= [Nvidia GTX 1050 3GB/AMD RX 550/5x00](/wiki/components#gpusgraphics) **(REC: Ryzen 4600G+B550 mobo)**. Windows 10+. Microsoft [HEVC Video Extensions](https://www.microsoft.com/en-us/p/hevc-video-extensions/9nmzlz57r3t7). Intel MEI driver/ME firmware (Intel iGPU). Netflix app/Microsoft Edge browser. Netflix [Premium Plan](https://help.netflix.com/en/node/24926). Netflix [Test Patterns](https://www.netflix.com/title/80018499).  
 
 4k/UHD Blu-Ray disc playing: HDCP 2.2 display, [HDMI 2.0 motherboard w/SGX support](/wiki/hdmi20), [Intel i3/5/7/9](/wiki/components#cpus) **7th-10th Gen CPU w/iGPU ONLY** **(REC: Intel i3-10100+Gigabyte H370N mobo)**. Windows 10+. Use of a dedicated GPU (dGPU) is **not** supported.  
 
@@ -639,7 +639,7 @@ The major requirements for full 4k compatibility are [HDMI 2.0a](http://www.cnet
 HARDWARE
 
 Virtually all modern CPUs with integrated graphics can display 4k video. BUT, all of the components in your home theater (TV, AV Receiver and HTPC motherboard) will need to have a HDMI 2.0a or DisplayPort 1.2 port in order to use all sources of 4K content.  
-On the AMD side, this starts with the Ryzen 2200G and on with any supported motherboard. Buy a Ryzen 4600G and B550/A520 motherboard and move on.    
+On the AMD side, this starts with the Ryzen 2200G and on with any supported motherboard. Buy a Ryzen 4600G and B550 motherboard and move on.    
 On the Intel side, this started with 7th gen Kaby Lake CPUs, but required a [special hdmi 2.0 motherboard](/wiki/hdmi20); But since 11th gen rocket lake CPUs, any supported motherboard will work. Buy a i3-12100 and H610/B660 motherboard and move on.
 
 If one of the motherboards doesn't fit what you need, or you are upgrading an older, existing system that lacks the above, you can choose a [dedicated GPU](/wiki/components#gpusgraphics) to add on to your system that has these features. The Intel Arc A380 is popular, as is the RX 6400 on the AMD side.
