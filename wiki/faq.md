@@ -579,7 +579,7 @@ For DVDs and regular HD blu-ray any optical drive that can read the discs will d
 You will then use software to rip the content off the disc. It's recommended to do this process in two stages, especially if you need content re-encoded for compatibility or space-saving..  
 
 First, use the [MakeMKV](http://www.makemkv.com/) program to extract the content off the disc. You can choose all the video/audio titles on the disc, just some of them, or just the main one. In the end, this will make a full quality MKV file without changing the format or size of the content. This isn't CPU heavy and can be done on a very minimal system.  
-If you want to make a full ISO instead of an MKV, use Backup in the toolbar to output the disc to a folder, then make an ISO of the folder using something like [ImgBurn](https://www.imgburn.com/index.php?act=download).  
+If you want to make a full ISO instead of an MKV, click the Backup icon in the toolbar to output the disc to (*DVD*: an ISO file; *Blu-Ray*: a folder, then make an ISO of the folder using something like [ImgBurn](https://www.imgburn.com/index.php?act=download)).  
 
 If you're after the best quality, you're done. Play the file with your favorite media player or put the file on your media server storage for serving.  
 
