@@ -585,7 +585,7 @@ If you're after the best quality, you're done. Play the file with your [favorite
 
 However, these full quality files are large. DVDs can be up to 9.9GB (11 Mbps), FHD Blu-rays 36GB (40 Mbps), and UHD Blu-Ray 115GB (128 Mbps) for 2 hours worth of content. For this reason, some people move to stage two next and use a program called Handbrake to make the files smaller. It's up to you.  
 
-[Handbrake](https://handbrake.fr/) is used to re-encode content for size, bandwidth and/or compatibility. The goal is to create a file that is highly compatible with client devices and is reasonable on bandwidth use, but doesn't negatively effect the video quality. Re-encoding can take a long time, depending on how fast your CPU is; a modern 4-6 core CPU is ideal, but if you don't care about how long it takes, then it doesn't matter. You can also use a iGPU/dGPU for faster encoding times. Intel QSV (QuickSync) and Nvidia NVENC encoders are supported, but while you reduce encoding times, you also reduce visual quality a bit as GPUs aren't as good as encoding as CPUs.  
+[Handbrake](https://handbrake.fr/) is used to re-encode content for size, bandwidth and/or compatibility. The goal is to create a file that is highly compatible with client devices and is reasonable on bandwidth use, but doesn't negatively effect the video quality. Re-encoding can take a long time, depending on how fast your CPU is; a modern 4-6 core CPU is ideal, but if you don't care about how long it takes, then it doesn't matter. You can also use a iGPU/dGPU for faster encoding times. Intel QSV (QuickSync) and Nvidia NVENC encoders are supported, but while you reduce encoding times, you also reduce visual quality a bit as GPUs aren't as good encoding as CPUs.  
 
 In Handbrake..  
 
