@@ -549,7 +549,7 @@ If you have massive storage requirements now, or plan on in the future, and don'
 The Meshify 2 case is quality and well-priced for 13xHDDs and has fan slots up front to cool your data HDDs sufficiently, as when maxed out they will 
 collectively produce a lot of heat. See our [Storage Setup Guide](/wiki/storage#diy-nas-case-list) for additional case options.  
 
-The CPU may seem meager, not being a K sku, but we don't need much power, we mostly want the iGPU for hardware media transcoding and the Noctua cooler is 
+The CPU may seem meager, not being a K sku, but we don't need much power, we mostly want the iGPU for hardware media transcoding and the specced cooler is 
 more than enough for this 65W CPU. If you opt for the 12600K, move up to the Peerless Assassin cooler.  
 
 We use highly reliable, well-priced Seagate Exos HDDs here for our data. Alternatively, WD Ultrastar drives are just as good. Since this is the bulk of our 
@@ -574,29 +574,28 @@ expect 8x1080p streams with CPU software transcoding. For more transcodes, add a
 
 The LSI HBA adapter has 8 ports for SATA drives. You can use the 8x SATA ports on the motherboard for your HDDs, then add on the HBA when you outgrow those, or vice-versa.  
 
-For the motherboard, in theory any Z690/Z790 ATX/uATX board will work with 2 x16 slots, if you want to have support for a potential dGPU upgrade. We need at least 1 slot for our LSI HBA Adapter to connect our data drives to and then 1 slot for a potential dGPU. 
-On the chosen board we also have dual 2.5Gb Intel LAN.
+For the motherboard, in theory any Z690/Z790 ATX/uATX board will work with 2 x16 slots, if you want to have support for a potential dGPU upgrade. We need at least 1 slot for our LSI HBA Adapter to connect our data drives to and then 1 slot for a potential dGPU. On the chosen board we also have dual LAN. 
 
 The PSU wattage may seem overkill, but we again plan for any upgrades, CPU, GPU, etc.. and remember that each HDD can pull 10W on spin-up.  
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
-CASE		|	Fractal Design Meshify 2			|	$160	|	[pcpartpicker](https://pcpartpicker.com/product/jqTzK8/fractal-design-meshify-2-atx-mid-tower-case-fd-c-mes2a-02)	|[[specs](https://www.fractal-design.com/products/cases/meshify/meshify-2/black-tg-dark-tint/)]. ALT: Fractal Design Define 7 ($160)
+CASE		|	Fractal Design Meshify 2			|	$130	|	[pcpartpicker](https://pcpartpicker.com/product/jqTzK8/fractal-design-meshify-2-atx-mid-tower-case-fd-c-mes2a-02)	|[[specs](https://www.fractal-design.com/products/cases/meshify/meshify-2/black-tg-dark-tint/)]. ALT: Fractal Design Define 7 ($160)
 CPU		|	Intel i5-12500 6C/12T CPU (65W)			|	$200	|	[pcpartpicker](https://pcpartpicker.com/product/hvC48d/intel-core-i5-12500-3-ghz-6-core-processor-bx8071512500)	|ALT: [Intel i5-12600k](https://pcpartpicker.com/product/BB4Ycf/intel-core-i5-12600k-37-ghz-6-core-processor-bx8071512600k)
-MOBO		|ASRock Z690 Extreme DDR4 ATX			|	$160	|	[pcpartpicker](https://pcpartpicker.com/product/FNWzK8/asrock-z690-extreme-atx-lga1700-motherboard-z690-extreme)	|ALT: [Other Motherboards](https://pcpartpicker.com/products/motherboard/#mt=ddr4&h=2,8&K=6,13&sort=price&c0=1x2500-1x1000,1x2500&xcx=0&s=40&f=2,7)
-MEM		|	G.Skill Ripjaws V 32GB (2x16GB) DDR4-3200	|	$70	|	[pcpartpicker](https://pcpartpicker.com/product/kXbkcf/gskill-memory-f43200c16d32gvk)	|
-STORAGE		|	Samsung Bar Plus 64GB USB Flash Drive (BOOT)	|	$10	|	[amazon](https://www.amazon.com/Samsung-BAR-Plus-64GB-MUF-64BE4/dp/B07BPGF6N3/)		|
-STORAGE		|	2x Solidigm P44 Pro 1TB NVMe M.2 SSD (APP/CACHE)	|	$175	|	[pcpartpicker](https://pcpartpicker.com/product/vrTp99/solidigm-p44-pro-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-ssdpfkkw010x7x1)	|ALT: SK Hynix P31/P41
+MOBO		|ASRock Z690 Extreme DDR4 ATX			|	$200	|	[pcpartpicker](https://pcpartpicker.com/product/mcmmP6/asrock-z690-extreme-wifi-6e-atx-lga1700-motherboard-z690-extreme-wifi-6e)	|ALT: [Other Motherboards](https://pcpartpicker.com/products/motherboard/#mt=ddr4&h=2,8&K=6,13&sort=price&c0=1x2500-1x1000,1x2500&xcx=0&s=40&f=2,7)
+MEM		|	G.Skill Ripjaws V 32GB (2x16GB) DDR4-3200	|	$60	|	[pcpartpicker](https://pcpartpicker.com/product/kXbkcf/gskill-memory-f43200c16d32gvk)	|
+STORAGE		|	Samsung Bar Plus 64GB USB Flash Drive (BOOT)	|	$15	|	[amazon](https://www.amazon.com/Samsung-BAR-Plus-64GB-MUF-64BE4/dp/B07BPGF6N3/)		|
+STORAGE		|	2x Solidigm P44 Pro 1TB NVMe M.2 SSD (APP/CACHE)	|	$180	|	[pcpartpicker](https://pcpartpicker.com/product/vrTp99/solidigm-p44-pro-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-ssdpfkkw010x7x1)	|ALT: SK Hynix P31/P41
 STORAGE		|	11x Seagate Exos X16 14TB SATA HDD (DATA)		|	$2300	|	[amazon](https://www.amazon.com/Seagate-3-5-Inch-Internal-Enterprise-ST14000NM001G/dp/B07T63FDJQ)	| SEPARATE. ALT: WD Ultrastar DC HC530 14TB
 STORAGE		|	LSI 9207-8i Adapter (x8) + Cables, in IT/HBA mode	|	$40	|	[ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=9207+8i+%2Bcables&_sacat=0&LH_TitleDesc=0&_dmd=1&_stpos=80232-6476&_odkw=9201+%2B16i+%2Bcables&_osacat=0&_sop=15&LH_PrefLoc=2&_ipg=60&_sadis=15)	|ALT: [Adaptec ASR 71605 (x16)](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=adaptec+asr+71605+%2Bcables&_sacat=0&LH_TitleDesc=0&_odkw=Adaptec+ASR+71605&_osacat=0) ($50)
 STORAGE          |       SATA Power Splitter Cables                                  |       $15  |       [amazon](https://www.amazon.com/Cable-Matters-Pack-Power-Splitter/dp/B012BPLW08)   |  
 COOL		|	Arctic P14 PWM 140 mm Fan (FRONT)		|	$15	|	[amazon](https://www.amazon.com/dp/B07GZJY4TM?tag=pcpapi-20&linkCode=ogi&th=1&psc=1)		|
-COOL		|	Noctua NH-U12S Redux CPU Cooler			|	$50	|	[pcpartpicker](https://pcpartpicker.com/product/vV7G3C/noctua-nh-u12s-redux-7075-cfm-cpu-cooler-nh-u12s-redux)	|ALT: Thermalright Peerless Assassin 120 SE ($40)
+COOL		|	Thermalright Silver Soul 135 CPU Cooler			|	$35	|	[pcpartpicker](https://pcpartpicker.com/product/sRPQzy/thermalright-silver-soul-135-82-cfm-cpu-cooler-silver-soul-135-black-d2)	|ALT: Thermalright Peerless Assassin 120 SE ($40)
 PSU		|	EVGA GA/G5/G7/GT/G+ Full-Modular 650W 80+ Gold ATX PSU	|	$100	|	[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&m=14&A=650000000000,2000000000000&p=1,2&sort=price&page=1)	|ALT: [Corsair RM650 (2023) 650W](https://pcpartpicker.com/products/power-supply/#xcx=0&m=11&A=650000000000,2000000000000&p=1,2&sort=price&e=6,5,4) ($90)
 SOFTWARE	|	Unraid Unleashed - Unlimited device license		|	$110	|	[limetech](https://unraid.net/pricing)	|
 SOFTWARE	|	Plex Media Server				|	$0	|	[Plex](https://www.plex.tv/downloads)		|Free
 LICENSE		|	Plex Pass					|	$120	|	[Plex](https://www.plex.tv/plex-pass/)		|Lifetime cost or $40/year, $5/month.
-TOTAL		|							|	$1225	|			|
+TOTAL		|							|	$1220	|			|
 
 <!-- Sub-Section -->
 
