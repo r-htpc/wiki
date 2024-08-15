@@ -156,7 +156,8 @@ In this scenario, the sound system gets the audio and video first and then passe
 When the sound system supports the required video resolution for passthrough to the display, this scenario is simple and provides the highest audio compatibility.  
 
 1. Connect the HTPC's primary HDMI output to the Sound System's HDMI input, e.g. HTPC (HDMI) -> Sound System (HDMI). If you only have a Displayport connector, use an ACTIVE [DP->HDMI adapter](https://www.amazon.com/CAC-1080-DisplayPort-Adapter-displays-4096x2160/dp/B077JB28KM?th=1) first.  
-2. Connect the Sound System's HDMI output to an HDMI input on the Display.  
+2. Connect the Sound System's HDMI output to an HDMI input on the Display.
+3. Configure your media players for the audio codecs you can support per [Software/OS Setup](/wiki/audio#softwareos-setup)  
 
 Where this doesn't work is when the sound system:  
 
@@ -175,6 +176,7 @@ This will send audio through your display. This is common for VRR (gsync/freesyn
    - Enable HDMI CEC
    - Enable pass-through/bitstream digital audio.
    - Roku has a [good guide](https://support.roku.com/article/360034303013) for many display mfgrs
+4. Configure your media players for the audio codecs you can support per [Software/OS Setup](/wiki/audio#softwareos-setup)  
 
  Video supported: Negotiated by HTPC and Display  
 
@@ -190,6 +192,7 @@ This will give you a primary display for video output and a secondary, extended 
 2. Connect the HTPC's 2nd display output (either from motherboard or dGPU) to the sound system. If Displayport, use a PASSIVE [Displayport->HDMI cable](/wiki/components#video-cablesadapters) or adapter. e.g. HTPC (HDMI/Displayport) -> Sound System (HDMI).  
 3. Set the 2nd display output in your OS as an extended display at a resolution of 720p@60Hz. Drag this display to the top-right corner of the primary display. NOTE: Even though you are using this only for audio, a video signal IS required.  
 4. In Windows sound control panel, disable the audio device on the primary display output. Enable audio on the 2nd display output.  
+5. Configure your media players for the audio codecs you can support per [Software/OS Setup](/wiki/audio#softwareos-setup)  
 
  Video supported: Negotiated by HTPC and Display. DRMed content may not work properly if both display outputs are coming from the same GPU.  
 
@@ -207,6 +210,7 @@ You will use an HDMI splitter to split/clone the source signal and send the same
 2. Connect the 1st output of the HDMI Splitter to your Display.  
 3. Connect the 2nd output of the HDMI Splitter to your Sound system.  
 4. Set the dip switches on the HDMI Splitter to the desired behavior for display/edid priority.  
+5. Configure your media players for the audio codecs you can support per [Software/OS Setup](/wiki/audio#softwareos-setup)  
 
  Video supported: Negotiated by HTPC and Splitter, set by dip switches.  
 
@@ -222,6 +226,7 @@ In this scenario you will likely be bitstreaming through Optical, or in the case
 
 1. Connect the HTPC's primary HDMI output to the display's HDMI input, i.e. HTPC (HDMI) -> TV (HDMI).  
 2. Connect the HTPC's optical/3.5mm output to the sound system's optical/RCA/3.5mm.. input, e.g. HTPC (Optical) -> Sound System (Optical).  
+3. Configure your media players for the audio codecs you can support per [Software/OS Setup](/wiki/audio#softwareos-setup)  
 
  Video supported: Negotiated by HTPC and Display  
 
@@ -234,6 +239,7 @@ In this scenario you will likely be bitstreaming through Optical, or in the case
 1. Connect the HTPC's HDMI output to a [HDMI Audio Extractor](/wiki/audio#accessories)'s HDMI input, i.e. HTPC (HDMI) -> Audio Extractor (HDMI).  
 2. Connect the HDMI Audio Extractor's HDMI output to the display's HDMI input, i.e. Audio Extractor (HDMI) -> TV (HDMI).  
 3. Connect the HDMI Audio Extractor's HDMI audio/Optical/RCA/3.5mm ports to the sound system's HDMI/Optical/RCA/3.5mm ports, i.e. Audio Extractor (Optical/RCA/3.5mm) -> Sound System (Optical/RCA/3.5mm).  
+4. Configure your media players for the audio codecs you can support per [Software/OS Setup](/wiki/audio#softwareos-setup)  
 
  Video supported: Negotiated by HTPC, Display and HDMI Audio Extractor  
 
@@ -251,6 +257,7 @@ In this scenario you will likely be bitstreaming through Optical, or in the case
 4. Connect a [HDMI dummy plug](https://www.amazon.com/Headless-Display-Emulator-Generation-Single/dp/B07FB8GJ1Z) to the HDMI Audio Extractor's HDMI Out port.  
 5. Set the 2nd display output in your OS as an extended display at a resolution of 720p@60Hz. Drag this display to the top-right corner of the primary display.. NOTE: Even though you are using this only for audio, a video signal IS required.  
 6. In Windows sound control panel, disable the audio device on the primary display output. Enable audio on the 2nd display output.  
+7. Configure your media players for the audio codecs you can support per [Software/OS Setup](/wiki/audio#softwareos-setup)  
 
  Video supported: Negotiated by HTPC and Display  
 
@@ -262,7 +269,9 @@ In this scenario you will likely be bitstreaming through Optical, or in the case
 
 ### **Software/OS Setup**  
 
-There are 2 ways to send audio between your HTPC and your sound system, Bitstreaming and Decoding. Depending on your use-case **you may be using one or both**. A use-case where you'd use both is where you want to bitstream codecs from a media player(s), but send PCM for games; so you'd **configure bitstreaming for your media players and configure decoding in your Operating System sound control panel for PCM**  
+There are 2 ways to send audio between your HTPC and your sound system, Bitstreaming and Decoding.  
+Depending on your use-case **you may be using one or both**. A use-case where you'd use both is where you want to bitstream Dolby/DTS codecs from a media player(s), but send PCM for games; so you'd **configure bitstreaming for your media players and then configure decoding in your Operating System sound control panel for PCM**  
+**Do NOT continue on until you know what codecs your sound system/display supports and [which you want to use](/wiki/audio#what-kind-of-audio-is-supported-on-a-htpc)**
 
 **Scenario #1: BITSTREAMING**  
 
@@ -285,14 +294,17 @@ The second is decoding and channelization. This means the media application play
 
 This scenario would be used for non-encoded PCM audio, like non-Atmos **Games**, streaming services that only support Stereo, when you want to modify the audio in the PC using middleware (upmixing, equalizing, creating fake spatial audio), and/or sound systems where encoded codecs are not supported, like analog audio interfaces.  
 
-**On a Windows HTPC, this is the default, so audio interfaces are limited by their PCM capabilities**, but usually requires some setup. To configure this in Windows: Open Windows Control Panel -> Sound -> \<your_audio_device\> -> Configure -> Select your speaker configuration -> Next -> Optionally configure the speakers you have/don't have.  
+**On a Windows HTPC, this is the DEFAULT scenario, so audio interfaces are limited by their PCM capabilities and Stereo is the default output**. To configure this in Windows: Open Windows Control Panel -> Sound -> \<your_audio_device\> -> Configure -> Select your speaker configuration -> Next -> Optionally configure the speakers you have/don't have.  
 
-If you select a speaker configuration that is more than what your content provides, for instance you choose 5.1 speakers and play a Stereo source, Windows will output the source as 5.1 but with only the Stereo speakers containing audio. 
+If you select a speaker configuration that is more than what your content provides, for instance you choose 5.1 speakers and play a Stereo source, Windows will output the source as 5.1 but with only the Stereo speakers containing audio.  
 
 If you want to upmix content do one of the following:
  - Configure the speaker configuration as Stereo. This will allow your sound system to use its upmixers (Dolby Surround, Pro Logic, etc..) to upmix the content
  - Configure the speaker configuration to the speakers you want to upmix to, e.g. 5.1. Configure upmixing in your media application/middleware.
  - Install Dolby Access and configure Dolby Atmos for Home Theater with the Channel Upmixer option enabled
+
+Troubleshooting:  
+ - If you're trying to configure more than Stereo but the options aren't available, it's usually because your setup is limited by hardware (audio interfaces, sound system support, display passthrough mis-configuration). Double-check all the connected pieces support PCM 5.1. For instance, don't use an Optical audio interface that only supports PCM 2.0 as per above and try to configure PCM 5.1 surround. 
 
 *For Media:* 
 
