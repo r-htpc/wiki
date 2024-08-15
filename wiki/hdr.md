@@ -146,7 +146,7 @@ Simple, HDR passthrough, tonemapping and upscaling.
             * Use Direct3D 11: checked (win 8/10/11)  
             * HDR: Passthrough to display: checked (*unchecked to tonemap to SDR*)  
             * HDR: Convert to SDR: unchecked (*checked to tonemap to SDR*)  
-            * HDR: Auto display: used for fullscreen/always used  
+            * HDR: Windows HDR: Allow turn on/off  
             * OPTIONAL: Chroma/Upscaling
               * NOTE: To use these, you must uncheck the four DXVA2/D3D11 video processors. GPU usage will increase as you go down the list of scaling options.
               * Chroma/Upscaling: [\<choose\>](/wiki/video#what-are-the-best-algorithms-for-scaling-video)
