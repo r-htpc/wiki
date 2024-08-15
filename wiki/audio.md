@@ -199,7 +199,7 @@ This will give you a primary display for video output and a secondary, extended 
 
 <img src="https://i.imgur.com/f2qsP4W.png" width="550" height="300" alt="DIAGRAM">
 
-This is an alternative to Scenario #3 where you don't want to deal with multiple displays in windows either out of navigational annoyance, visual annoyance, or performance hit due to driving multiple display outputs. It could also be used with a single display output (e.g. APU) where you want full audio support but don't have eARC.  
+This is an alternative to Scenario #3 where you don't want to deal with multiple displays in windows either out of navigational or visual annoyance due to driving multiple display outputs. It could also be used with a single display output (e.g. APU) where you want full audio support but don't have eARC.  
 
 You will use an HDMI splitter to split/clone the source signal and send the same signal to both your display and sound system. Note that not all splitters are built the same and can vary dramatically in price, depending on feature set and reliability. See the [accessories](/wiki/audio#accessories) section.  
 
