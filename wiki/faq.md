@@ -514,7 +514,7 @@ The following are the current capabilities of the major streaming services as we
 
 - [APPLE TV+](https://support.apple.com/guide/tvplus/welcome/web)  
 
-  - *Windows:* (MS Edge/Chrome/Firefox) 720p SDR?
+  - *Windows:* (MS Edge/MS Store App) 4k HDR10 DD+ 5.1 Atmos. (Chrome/Firefox) 720p SDR
   - *Linux:* Unknown, but will not be higher than 1080p
 
 - [TWITCH](https://help.twitch.tv/)  
