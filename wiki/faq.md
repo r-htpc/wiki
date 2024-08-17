@@ -181,27 +181,27 @@ Do NOT ask for help with playing media on [laptop screens or PC monitors](/wiki/
 
 ## How do i wake/power on/power off my HTPC with a remote/mobile app?
 
-You may want to wake your HTPC from sleep or have the ability to power it on or off from your remote control or a mobile app. There are a few ways to do this. Each has its own pros and cons.  
+You may want to wake your HTPC from sleep (S3) or have the ability to power it on (S5) or off from your remote control or a mobile app. There are a few ways to do this. Each has its own pros and cons.  
 
-1. Wake: Use a [Flirc USB](https://flirc.tv/more/flirc-usb) device plugged into your HTPC and an IR remote
+1. Wake/Power On/Off: Use HDMI CEC with another HT device. Wake: [Pulse-Eight USB adapter](https://www.pulse-eight.com/c/59), Wake/Power On/Off: [Intel NUC 7+](https://www.intel.com/content/www/us/en/support/articles/000023500/intel-nuc/intel-nuc-kits.html); add HTPC Control: NUC 7/8/10 + [Pulse-Eight Int. CEC](https://www.pulse-eight.com/p/154/intel-nuc-hdmi-cec-adapter).
 
-2. Wake/Power On/Off: Use a [Flirc Streamcom USB](https://flirc.tv/products/flirc-streacom?variant=43085036486888) device wired into your HTPC mobo and an IR remote. Requires a case with an IR window or drill-modded to allow the IR signal into the module.
+2. Wake: Use a [Flirc USB](https://flirc.tv/more/flirc-usb) device plugged into your HTPC and an IR remote
 
-3. Wake: Use a HTPC with an IR sensor ([Intel NUC 7/8/11, Asus PN, Gigabyte Brix](/wiki/nuc)) and a [Pepper Jobs W10](https://www.pepper-jobs.com/products/w10-gyro-smart-remote) IR remote
+3. Wake/Power On/Off: DiY: Use a [Flirc Streamcom USB](https://flirc.tv/products/flirc-streacom?variant=43085036486888) device wired into your HTPC mobo and an IR remote. Requires a case with an IR window or drill-modded to allow the IR signal into the module.
 
-4. Wake/Power On/Off: Use a Silverstone [ES02](https://www.silverstonetek.com/en/product/expansion-cards/?page=1&filter=Power_OnOff_addon_cards&sort=Newsest) and included remote or [ES03-WIFI](https://www.silverstonetek.com/en/product/expansion-cards/?page=1&filter=Power_OnOff_addon_cards&sort=Newsest) and mobile app
+4. Wake: Use a HTPC with an IR sensor ([Intel NUC 7/8/11, Asus PN, Gigabyte Brix](/wiki/nuc)) and a [Pepper Jobs W10](https://www.pepper-jobs.com/products/w10-gyro-smart-remote) IR remote
 
-5. Power On/Off: Use a [Simerec IR Remote Switch](https://www.simerec.com/index.html) and an IR remote  
+5. Wake/Power On/Off: DiY: Use a Silverstone [ES02](https://www.silverstonetek.com/en/product/expansion-cards/?page=1&filter=Power_OnOff_addon_cards&sort=Newsest) and included remote or [ES03-WIFI](https://www.silverstonetek.com/en/product/expansion-cards/?page=1&filter=Power_OnOff_addon_cards&sort=Newsest) and mobile app
 
-6. Power On/Off: Plug your HTPC into a [smart power plug](https://www.amazon.com/Assistant-Controlled-Google-Enabled-Vacation/dp/B07XZT24B8). Use with mobile app and/or google/alexa voice tech. If you're IoT-averse, use a [dumb power plug](https://www.amazon.com/DEWENWILS-Control-Wireless-Interference-Programmable/dp/B09X2W2TRT) w/remote instead.
+6. Power On/Off: DiY: Use a [Simerec IR Remote Switch](https://www.simerec.com/index.html) and an IR remote  
 
-7. Power On/Off: Plug your HTPC into a [power strip with a master/control](https://www.amazon.com/Smart-Strip-LCG-3MVR-Autoswitching-Technology/dp/B0006PUDQK/ref=psdc_761520_t1_B01G6VTIDG) plus and configure your BIOS to set Power On for AC after power loss. Plug master/initial power-on device (like TV) into control port.
+7. Power On/Off: Plug your HTPC into a [smart power plug](https://www.amazon.com/Assistant-Controlled-Google-Enabled-Vacation/dp/B07XZT24B8). Use with mobile app and/or google/alexa voice tech. If you're IoT-averse, use a [dumb power plug](https://www.amazon.com/DEWENWILS-Control-Wireless-Interference-Programmable/dp/B09X2W2TRT) w/remote instead.
 
-8. Wake/Power On: [Configure Wake-on-Lan](https://www.gearrice.com/update/turn-on-a-pc-remotely-with-wake-on-lan-or-remote-control/) in your BIOS and on your network card. Use with a mobile app like Unified Remote
+8. Power On/Off: Plug your HTPC into a [power strip with a master/control](https://www.amazon.com/Smart-Strip-LCG-3MVR-Autoswitching-Technology/dp/B0006PUDQK/ref=psdc_761520_t1_B01G6VTIDG) plus and configure your BIOS to set Power On for AC after power loss. Plug master/initial power-on device (like TV) into control port.
 
-9. Wake/Power On/Off: Install a [SwitchBot bot](https://www.switch-bot.com/) on your HTPC's power button. Use SwitchBot Remote or mobile app.
+9. Wake/Power On: [Configure Wake-on-Lan](https://www.gearrice.com/update/turn-on-a-pc-remotely-with-wake-on-lan-or-remote-control/) in your BIOS and on your network card. Use with a mobile app like Unified Remote
 
-10. Wake: Use HDMI CEC with another HT device
+10. Wake/Power On/Off: Install a [SwitchBot bot](https://www.switch-bot.com/) on your HTPC's power button. Use SwitchBot Remote or mobile app.
 
 If you want to control other devices from your HTPC, there are a number of ways depending on the target device's capabilities. Potential solutions include taking actions on triggers from Task Schedular and [EventGhost](https://github.com/EventGhost/EventGhost/releases), combined with actions to devices using hardware like [Pulse-Eight](https://www.pulse-eight.com/c/59) (CEC), [USB-UIRT](http://www.usbuirt.com/) (IR), [Flirc USB](https://flirc.tv/collections/receivers) (IR), [IR Blasters](https://www.iguanaworks.net/products/usb-ir-transceiver/) (IR) and software like [WinLirc](https://winlirc.sourceforge.net/), EventGhost, [Home Assistant](https://www.home-assistant.io/), [Wake-On-Lan](https://www.nirsoft.net/utils/wake_on_lan.html), and [IFTTT](https://ifttt.com/).  
 
