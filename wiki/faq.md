@@ -187,7 +187,7 @@ You may want to wake your HTPC from sleep (S3) or have the ability to power it o
 
 2. Wake: Use a [Flirc USB](https://flirc.tv/more/flirc-usb) device plugged into your HTPC and an IR remote
 
-3. Wake/Power On/Off: DiY: Use a [Flirc Streamcom USB](https://flirc.tv/products/flirc-streacom?variant=43085036486888) device wired into your HTPC mobo and an IR remote. Requires a case with an IR window or drill-modded to allow the IR signal into the module.
+3. Wake/Power On/Off: DiY: Use a [Flirc Streacom USB](https://flirc.tv/products/flirc-streacom?variant=43085036486888) device wired into your HTPC mobo and an IR remote. Requires a case with an IR window or drill-modded to allow the IR signal into the module.
 
 4. Wake: Use a HTPC with an IR sensor ([Intel NUC 7/8/11, Asus PN, Gigabyte Brix](/wiki/nuc)) and a [Pepper Jobs W10](https://www.pepper-jobs.com/products/w10-gyro-smart-remote) IR remote
 
