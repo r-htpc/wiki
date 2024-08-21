@@ -339,6 +339,8 @@ Coolermaster NR600P		|6+2		|12		|Disc		|8.66 x 19.92 x 19.41		|YES		|54.9	|EATX/
 
 ## Software
 
+If you're looking for a software storage solution for your DiY hardware, [Unraid](https://unraid.net) is highly suggested. If you can't afford it, then use  [Openmediavault](https://www.openmediavault.org/) with [mergerfs+snapraid](https://www.networkshinobi.com/snapraid-and-mergerfs-on-openmediavault/) or, if all disks will be the same size, RAID5 w/mdadm. If you need to use Windows, [StableBit DrivePool](https://stablebit.com/DrivePool) ($)+[snapraid](https://www.snapraid.it/). If you can't afford it, then Windows Storage Spaces.  
+
 OS: [Unraid](https://unraid.net), [TrueNAS](https://www.truenas.com/truenas-scale/), [Openmediavault](https://www.openmediavault.org/), [Ubuntu Server](https://ubuntu.com/download/server), [Rockstor](http://rockstor.com)  
 
 Software mgmt: Docker
