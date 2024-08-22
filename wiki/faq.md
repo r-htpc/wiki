@@ -251,6 +251,8 @@ There are some specialized linux-based distros out there, like [LibreElec](https
 
 For Android ports to PC look at [Android x86](https://www.android-x86.org/) or [Bliss OS](https://blissos.org/), but do not expect a TV-like interface, 4K streaming services or HD audio. You can run an Android container under Linux with [Waydroid](https://waydro.id/). 
 
+For a gaming-centric OS, if you have a AMD or Intel ARC gpu, look at the Gamescope interfaces of [ChimeraOS](https://chimeraos.org/) and [Bazzite](https://universal-blue.discourse.group/t/bazzite-inital-setup-and-installation-for-htpc-setups/1145).  
+
 **Media Players:** 
 
 For [video streaming services](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x), use Microsoft Edge to get 1080p+, or the service's app (if available).  
@@ -285,7 +287,7 @@ For game emulation, look at [Batocera](https://batocera.org/), [LibreElec](https
 
 For game streaming, look at [Sunshine](https://app.lizardbyte.dev/Sunshine) on your server/gaming PC and [Moonlight](https://moonlight-stream.org/) on your frontend client ([Windows/Linux/Android](https://github.com/moonlight-stream/moonlight-qt)/[LibreElec](https://github.com/veldenb/plugin.program.moonlight-qt)/tvOS).  
 
-For gaming, look at Steam w/Windows or Linux. If you have an AMD GPU, look at [ChimeraOS](https://chimeraos.org/).  
+For gaming, look at Steam w/Windows or Linux, as well as ChimeraOS or Bazzite for a whole Steam-based OS.  
 
 **Other software:** 
 
