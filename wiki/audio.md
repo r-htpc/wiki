@@ -192,7 +192,8 @@ This will give you a primary display for video output and a secondary, extended 
 2. Connect the HTPC's 2nd display output (either from motherboard or dGPU) to the sound system. If Displayport, use a PASSIVE [Displayport->HDMI cable](/wiki/components#video-cablesadapters) or adapter. e.g. HTPC (HDMI/Displayport) -> Sound System (HDMI).  
 3. Set the 2nd display output in your OS as an extended display at a resolution of 720p@60Hz. Drag this display to the top-right corner of the primary display. NOTE: Even though you are using this only for audio, a video signal IS required.  
 4. In Windows sound control panel, disable the audio device on the primary display output. Enable audio on the 2nd display output.  
-5. Configure your media players for the audio codecs you can support per [Software/OS Setup](/wiki/audio#softwareos-setup)  
+5. Configure your media players for the audio codecs you can support per [Software/OS Setup](/wiki/audio#softwareos-setup)
+6. OPTIONAL: Use window management software to lock window placement to your primary display ([DisplayFusion](https://www.displayfusion.com/)/[MonitorSwitcher](https://sourceforge.net/projects/monitorswitcher/)).
 
  Video supported: Negotiated by HTPC and Display. DRMed content may not work properly if both display outputs are coming from the same GPU.  
 
