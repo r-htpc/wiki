@@ -146,14 +146,14 @@ Scenario #1 listed below, with video passthrough through your sound system, is t
 
 Consult [this section](/wiki/components#video-cablesadapters) of the Hardware Components Guide for cable/adapter recommendations. Consult [this section](/wiki/audio#what-kind-of-sound-system-should-i-get) below for sound system recommendations.  
 
-**Scenario #1** - The ideal scenario is to connect your HTPC to your sound system and then connect your sound system to your TV
+**Scenario #1** - The ideal scenario, connecting your HTPC to your sound system and then your sound system to your TV
 
 <img src="https://i.imgur.com/MWYvscz.png" width="550" height="300" alt="DIAGRAM">
 
 <!-- ![DIAGRAM](/assets/images/audio-diagram-1.png) -->
 
 In this scenario, the sound system gets the audio and video first and then passes the video through to the display, e.g. HTPC (HDMI) -> Sound System (HDMI) in -> Sound System (HDMI) out -> TV (HDMI).  
-When the sound system supports the required video resolution for passthrough to the display, this scenario is simple and provides the highest audio compatibility.  
+When the sound system supports the required video resolution for passthrough to the display, this scenario is simple and provides the highest compatibility and best audio support.  
 
 1. Connect the HTPC's primary HDMI output to the Sound System's HDMI input, e.g. HTPC (HDMI) -> Sound System (HDMI). If you only have a Displayport/USB-C connector, use an ACTIVE [adapter](/wiki/components#video-cablesadapters) first, but expect to be limited to Lossy codec/PCM audio. Otherwise, see Scenario #3.
 2. Connect the Sound System's HDMI output to an HDMI input on the Display.
