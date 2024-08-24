@@ -24,7 +24,7 @@ Each codec has its own bandwidth and number of channels supported. Lossless (unc
 
 **Support for specific codecs is wide and varied. When researching digital equipment (such as your a AV Receiver, sound bar, and/or TV for passthrough), make sure it supports the codec(s) you want to decode or passthrough over the interfaces you want. If one piece of equipment in the audio workflow doesn't support a codec, you may end up with PCM, or no sound at all when playing that codec. Read spec pages, user manuals, [rtings.com](https://www.rtings.com) reviews, [flatpanelshd.com](https://www.flatpanelshd.com/), and/or [displayspecifications.com](https://www.displayspecifications.com/).**
 
-Interface support for codecs is also varied because of bandwidth limitations. See the next section on what codecs each interface supports up to. An example of one limitation that can exist is the codecs that can be played over a HDMI ARC connection, which is in wide use on TVs for audio return to a Sound System. Under normal circumstances, HDMI ARC only supports Stereo PCM and Lossy DD 5.1/DTS 5.1. Though, if supported by both the Display and Sound System, it can use an extension called "Common Mode" (or MAT) to support Lossy DD+. This allows it to support the Lossy version of Dolby Atmos. Check your TV's manual to see if this is supported.  
+Interface support for codecs is also varied because of bandwidth limitations. See the next section on what codecs each interface supports up to. An example of one limitation that can exist is the codecs that can be played over a HDMI ARC connection, which is in wide use on TVs for audio return to a Sound System. Under normal circumstances, HDMI ARC only supports Stereo PCM and Lossy Dolby Digital+ 5.1 Atmos/DTS 5.1. 
 
 If you are sending codecs to your sound system as-is (bitstreaming), you do not need audio drivers/software for them on your HTPC. You may though if you are using special features that will decode the audio stream instead, like headphones access or re-encoding an audio stream for gaming.  
 
@@ -44,7 +44,7 @@ DTS Connect / Interactive: DTS's version of Dolby Digital Live. Encodes into a l
 
 DTS: Lossy, <= 1.5 Mbps. Up to 5.1 channels. Common in physical media, not streaming media. DD competitor. Can be played over Optical/HDMI/HDMI ARC  
 
-DD+/E-AC-3: Dolby Digital Plus. Lossy, <= 6 Mbps (1.7 on Blu-Ray). Up to 15.1 channels. Can be played over full HDMI or HDMI eARC. Sometimes over HDMI ARC (per above). Common in streaming media.  
+DD+/E-AC-3: Dolby Digital Plus. Lossy, <= 6 Mbps (1.7 on Blu-Ray). Up to 15.1 channels. Can be played over full HDMI or HDMI ARC (5.1)/eARC (7.1). Common in streaming media. 
 
 Dolby TrueHD: Lossless, <= 18 Mbps. Up to 7.1 channels. Common in physical media, not in streaming media. Can be played over full HDMI or HDMI eARC.  
 
@@ -52,7 +52,7 @@ DTS-HD HRA: Lossy, <= 6Mbps. Up to 7.1 channels. DD+ competitor. Can be played o
 
 DTS-HD MA: Lossless, <= 25.4 Mbps. Up to 7.1 channels. Common in physical media, not in streaming media. TrueHD competitor. Can be played over full HDMI or eARC. DTS lossy included within for over Optical/HDMI ARC.  
 
-Dolby Atmos: Metadata around the TrueHD/DD+ codec. Lossless/Lossy indirectly. Up to 24.1.10 channels. Gold standard. Lossless can be played over full HDMI or eARC. Lossy DD+ version can be played over HDMI ARC. 
+Dolby Atmos: Metadata around the TrueHD/DD+ codec. Lossless/Lossy indirectly. Up to 24.1.10 channels. Gold standard. Lossless can be played over full HDMI or eARC. Lossy DD+ 5.1 version can be played over HDMI ARC. 
 
 DTS:X: Metadata around the DTS-HD MA/DTS codec. Lossless. Up to 24.1.10 channels. Gold standard. Atmos competitor. Lossless can be played over full HDMI or eARC. Lossy DTS core for over Optical/HDMI ARC.  
 
@@ -64,11 +64,11 @@ Dolby Atmos/DTS:X > Dolby TrueHD/DTS-HD MA > DD+/DTS-HD HRA > DD/DTS > Stereo
 
 HDMI 1.3+ (Full): Digital. Bitstreamed: Lossless Dolby TrueHD/DTS-HD MA (Atmos/DTS:X). PCM: 8 channels (1.x), 32 channels (2.x).
 
-HDMI 1.4+ (ARC): Digital. Bitstreamed: Lossy Dolby Digital 5.1, Lossy DTS 5.1, Lossy Dolby Digital+/Atmos (Sometimes, if hardware implements Common Mode/MAT). PCM: 2.0 channels  
+HDMI 1.4+ (ARC): Digital. Bitstreamed: Lossy Dolby Digital+ 5.1 Atmos, Lossy DTS 5.1. PCM: 2.0 channels  
 
 HDMI 2.1+ (eARC): Digital. Bitstreamed: Lossless Dolby TrueHD/DTS-HD MA (Atmos/DTS:X). PCM: 32 channels  
 
-ARC/eARC: A feature of the HDMI spec that allows audio to travel back from a HDMI "sink" (TV/Projector) to a HDMI "source" (Sound System). Must be supported on both source/sink sides. eARC can fall-back to ARC, where supported. eARC can support up to TrueHD Atmos/DTS:X/PCM 5.1, ARC up to DD+ Atmos/DTS/PCM 2.0. it does **NOT** apply to Monitors, nor is a function of GPUs.  
+ARC/eARC: A feature of the HDMI spec that allows audio to travel back from a HDMI "sink" (TV/Projector) to a HDMI "source" (Sound System). Must be supported on both source/sink sides. eARC can fall-back to ARC, where supported. eARC can support up to TrueHD Atmos/DTS:X/PCM 5.1, ARC up to DD+ 5.1 Atmos/DTS/PCM 2.0. it does **NOT** apply to most Monitors, nor is it a feature of GPUs.  
 
 Displayport (native): Digital. Displayport on both ends. Bitstreamed: None. PCM: 8 channels (1.0-1.3). 32 channels (1.4+)  
 
@@ -155,7 +155,7 @@ Consult [this section](/wiki/components#video-cablesadapters) of the Hardware Co
 In this scenario, the sound system gets the audio and video first and then passes the video through to the display, e.g. HTPC (HDMI) -> Sound System (HDMI) in -> Sound System (HDMI) out -> TV (HDMI).  
 When the sound system supports the required video resolution for passthrough to the display, this scenario is simple and provides the highest audio compatibility.  
 
-1. Connect the HTPC's primary HDMI output to the Sound System's HDMI input, e.g. HTPC (HDMI) -> Sound System (HDMI). If you only have a Displayport connector, use an ACTIVE [DP->HDMI adapter](https://www.amazon.com/CAC-1080-DisplayPort-Adapter-displays-4096x2160/dp/B077JB28KM?th=1) first.  
+1. Connect the HTPC's primary HDMI output to the Sound System's HDMI input, e.g. HTPC (HDMI) -> Sound System (HDMI). If you only have a Displayport/USB-C connector, use an ACTIVE [adapter](/wiki/components#video-cablesadapters) first, but expect to be limited to Lossy codec/PCM audio. Otherwise, see Scenario #3.
 2. Connect the Sound System's HDMI output to an HDMI input on the Display.
 3. Configure your media players for the audio codecs you can support per [Software/OS Setup](/wiki/audio#softwareos-setup)  
 
