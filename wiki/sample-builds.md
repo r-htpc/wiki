@@ -11,7 +11,7 @@
 
 Here you'll find some pre-builts/mini-pcs and some sample DiY builds for HT, Emulation, Media Server and NAS purposes in their relevant sections. Before going through this page, look at the common scenarios in the [I want a HTPC/media device recommendation, but don't want to get into the complicated details](/wiki/faq#i-want-a-htpcmedia-device-recommendation-but-dont-want-to-get-into-the-complicated-details) section of the FAQ. You may find your specific scenario there and a device to match before you go down this rabbit hole. If what you want is not there, then read on here.  
 
-**There are a lot of options below. You should have a good idea what you're looking for before-hand. Resolution you want to support, video codecs to be decoded, budget, size, used/new, and/or niche capabilities (gaming, 120Hz, specialty ports). All of these will help you narrow your choice down.**
+**There are a lot of options below. You should have a good idea what you're looking for before-hand. Resolution you want to support, video codecs to be decoded, budget, size, used/new, and/or niche capabilities (gaming, 120Hz, output ports). All of these will help you narrow your choice down.**
 
 Keep in mind, the DiY builds are meant as examples for certain usage scenarios, even though they are real builds. You can add/subtract/change certain components to match your specific budget or requirements, but these should be a good starting point. If you're un-sure, check our [Hardware Components Guide](/wiki/components), or post and ask us.  
 
@@ -49,11 +49,11 @@ Some of these are: **Intel (NUC), [Lenovo (ThinkCentre/IdeaCentre)](https://www.
 
 ### 4K HDR PLAYERS
 
-**TL;DR If you're on a budget, then an Intel [N95/N100](https://www.amazon.com/s?k=intel+n95%7Cn97%7Cn100+pc&rh=n%3A13896591011&ref=nb_sb_noss) based mini pc for $150 with mem/storage is fine. If you can afford it, look at a [Beelink SEI 11/12](https://www.amazon.com/s?k=sei11%7Csei12%7C11320h%7C1235u%7C12450h&rh=n%3A13896591011&ref=nb_sb_noss) for $300 for better future-proofing.**  
+**TL;DR If you're on a budget, then an Intel [N95/N100](https://www.amazon.com/s?k=intel+n95%7Cn97%7Cn100+pc&rh=n%3A13896591011&ref=nb_sb_noss) based mini pc for $150 with mem/storage is fine. If you can afford it, look at a [Beelink SEI 11/12](https://www.amazon.com/s?k=sei11%7Csei12%7C11320h%7C1235u%7C12450h&rh=n%3A13896591011&ref=nb_sb_noss) for $300 for better future-proofing performance**  
 
 $70-$85: SMALLEST: SBC: w/CoreELEC OS, 32GB MicroSD, AC Adapter 
 
- - *Used for:* H26x/VP9 local content, Kodi-based interface, ext. storage 
+ - *Used for:* H26x/VP9 **local** content, Kodi-based interface, ext. storage, lowest power 
 
  - [Odroid C4](https://www.hardkernel.com/shop/odroid-c4/) ($60) 
 
@@ -61,7 +61,7 @@ $70-$85: SMALLEST: SBC: w/CoreELEC OS, 32GB MicroSD, AC Adapter
 
 $125-$400: SMALLER: Intel/AMD Mini PC, 8GB (2x4GB) RAM, 256GB SSD
 
-- *Used for:* H26x, VP9, **AV1 (S12, SEI 11/12, SER6)** local content, 4k netflix/YT, web browsing, int. 2.5" storage, plex server (intel), light gaming (SEI11, SER6).  
+- *Used for:* H26x, VP9, **AV1 (S12, SEI 11/12, SER6)** local content, 4k netflix/YT, web browsing, int. 2.5" storage, plex server (intel), light gaming (SEI11, SER6), lower power.  
 - **Intel: [Beelink S12/S12 Pro](https://www.amazon.com/s?k=beelink+s12&i=computers&rh=n%3A13896591011&s=price-asc-rank&ds=v1%3A0rP7%2FYir5%2B3dWoX4iUAxynwHuR7nrtIQNpWFwPZIfME&qid=1701365434&ref=sr_st_price-asc-rank) (N95/N100) ($150+)**
 - Intel: [Intel NUC 8i3/8i5](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=nuc+%288i3%2C8i5%2C8109u%2C8130u%2C8th%2C8259u%29&_sacat=179&LH_TitleDesc=1&_odkw=nuc+%288i3%2C8i5%2C8109u%2C8130u%2C8th%29&_osacat=179&_sop=15&LH_PrefLoc=2) (USED) ($100+)
 - AMD: [Beelink SER5](https://www.amazon.com/s?k=ser5&i=electronics&s=price-asc-rank) ($250)
@@ -70,13 +70,13 @@ $125-$400: SMALLER: Intel/AMD Mini PC, 8GB (2x4GB) RAM, 256GB SSD
 
 $100-$500: SMALL/MEDIUM: Intel - i3/i5-7xxx/8xxx/9xxx+ 8GB (2x4GB) RAM, 256GB ssd/1TB hdd: 
 
- - *Used for:* H26x/VP9, **AV1** (Lenovo/MSI) local content, 4k netflix/YT, web browsing, **int. 3.5" storage/ODD (SFF/MT models)**, plex server, low power (xxxxT cpu models).  
+ - *Used for:* H26x/VP9, **AV1 (Lenovo/MSI)** local content, 4k netflix/YT, web browsing, **int. 3.5" storage/ODD (SFF/MT models)**, plex server, low power (xxxxT cpu models).  
 
  - USED: [Dell Optiplex xx50-xx90](https://www.ebay.com/sch/i.html?_fsrp=1&_from=R40&_nkw=%28optiplex%29+%283050%2C3060%2C3070%2C3080%2C5060%2C5070%2C5080%2C7060%2C7070%2C7080%29+%28i3-8100%2Ci3-9100%2Ci3-10100%2Ci5-7400%2Ci5-7500%2C7600%2Ci5-8400%2C8500%2Ci5-8600%2Ci5-9400%2C9500%2C9600%29&_sacat=0&LH_TitleDesc=0&_sop=15&_oaa=1&_dcat=179&rt=nc&LH_BIN=1) + [HDMI 2.0 card](https://www.ebay.com/sch/i.html?_from=R40&_nkw=dell+hdmi+2.0+%28HXPK2%2C1KNYY%2CR07CP%2C5N1NY%29&_sacat=0&_sop=12) ($100-$300)
 
  - **NEW: [Lenovo IdeaCentre Mini](https://www.lenovo.com/us/en/p/desktops/ideacentre/500-series/ideacentre-mini-gen-8-(1l-intel)/90w2000gut) / [Lenovo Neo 50s Gen 4 SFF](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=lenovo+neo+50s&_sacat=179&LH_TitleDesc=0&_odkw=neo+50s&_osacat=179&_sop=15&LH_ItemCondition=3) / [MSI PRO DP21](https://www.amazon.com/MSI-12M-407US-Business-i3-12100-Graphics/dp/B0B4BN6TQG?th=1&tag=p00935-20&ascsubtag=02xtx2BszHujAjeR4KoSEAo) ($500)** 
 
-$175-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB hdd
+$175-$500: SMALL/MEDIUM: AMD - Ryzen **3x**00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB hdd
 
  - *Used for:* H26x/VP9 local content, 4k netflix/YT, web browsing, **int. 3.5" storage/ODD (SFF/MT models)**, **light gaming**, low power (xxxxGE cpu models).  
 
