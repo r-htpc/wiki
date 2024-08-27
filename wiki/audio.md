@@ -302,7 +302,7 @@ If you select a speaker configuration that is more than what your content provid
 *If you want to upmix content do one of the following:*
  - Configure the speaker configuration in the OS as Stereo. This will allow your sound system to use its upmixers (Dolby Surround, Pro Logic, etc..) to upmix the content
  - Configure the speaker configuration in your media applications to the speakers you want to upmix to, e.g. 5.1
- - Use a 3rd party upmixer, such as Equalizer APO, with Stereo Effect.
+ - Use a 3rd party upmixer, such as [Equalizer APO + Peace Equalizer GUI](/wiki/audio#audio-software), with Stereo Effect.
  - If available, set your windows sound device to use the 'Speaker fill' enhancement.
  - Install Dolby Access and configure Dolby Atmos for Home Theater with the Channel Upmixer option enabled
 
