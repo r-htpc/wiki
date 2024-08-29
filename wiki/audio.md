@@ -299,17 +299,17 @@ This scenario would be used for non-encoded PCM audio, like non-Atmos **Games**,
 
 If you select a speaker configuration that is more than what your content provides, for instance you choose 5.1 speakers and play a Stereo source, Windows will output the source as 5.1 but with only the Stereo speakers containing audio.  
 
-*If you want to upmix content do one of the following:*
- - Configure the speaker configuration in the OS as Stereo. This will allow your sound system to use its upmixers (Dolby Surround, Pro Logic, etc..) to upmix the content
- - Configure the speaker configuration in your media applications to the speakers you want to upmix to, e.g. 5.1
- - Use a 3rd party upmixer, such as [Equalizer APO + Peace Equalizer GUI](/wiki/audio#audio-software), with Stereo Effect.
- - If available, set your windows sound device to use the 'Speaker fill' enhancement.
- - Install Dolby Access and configure Dolby Atmos for Home Theater with the Channel Upmixer option enabled
+- *If you want to upmix content do one of the following:*
+   - Configure the speaker configuration in the OS as Stereo. This will allow your sound system to use its upmixers (Dolby Surround, Pro Logic, etc..) to upmix the content
+   - Configure the speaker configuration in your media applications to the speakers you want to upmix to, e.g. 5.1
+   - Use a 3rd party upmixer, such as [Equalizer APO + Peace Equalizer GUI](/wiki/audio#audio-software), with Stereo Effect.
+   - If available, set your windows sound device to use the 'Speaker fill' enhancement.
+   - Install Dolby Access and configure Dolby Atmos for Home Theater with the Channel Upmixer option enabled
 
-*Troubleshooting:*  
- - If you're trying to configure more than Stereo but the options aren't available, it's usually because your setup is limited by hardware (audio interfaces, sound system support, display passthrough mis-configuration). Double-check all the connected pieces support PCM 5.1. For instance, don't use an Optical audio interface that only supports PCM 2.0 as per above and try to configure PCM 5.1 surround. 
+- *Troubleshooting:*  
+   - If you're trying to configure more than Stereo but the options aren't available, it's usually because your setup is limited by hardware (audio interfaces, sound system support, display passthrough mis-configuration). Double-check all the connected pieces support PCM 5.1. For instance, don't use an Optical audio interface that only supports PCM 2.0 as per above and try to configure PCM 5.1 surround. 
 
-*Setting up Decoding for Media:* 
+- *Setting up Decoding for Media:* 
 
 You should configure your media application(s) (if needed), by setting the sound device/audio renderer to "DirectSound" or "System Default". "DirectSound" sits between the application and the audio driver, controlling the channel layout and audio stream.  
 In media applications, the most popular ones will have the codecs to decode up to **Dolby TrueHD**, **DTS-HD MA** and many others (object metadata overlays like Dolby Atmos/DTS:X can NOT be channelized or meaningfully used by the PC without professional software; you must bitstream those codecs to an AVR or sound processor).  
@@ -322,9 +322,11 @@ After you've configured your app(s) and windows, play test channel-callout conte
 
 There are advanced things you can do by using application middleware and external filters like [transcoding audio codecs](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital), decoding obscure codecs and advanced mixing. See the 3rd Party sub-section of the Audio Software section above.  
 
+<!--
 *Setting up Decoding for Gaming:* 
 
 See the instructions/caveats in the [Gaming section](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) below.
+-->
 
 NOTES:  
 1. You know this way is configured correctly because when you play audio you SHOULD be able to change the volume on the HTPC and hear a difference.  
