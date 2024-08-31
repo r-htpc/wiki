@@ -758,7 +758,7 @@ TOTAL		|											|$790	|		|
 
 <!-- Sub-Section -->
 
-### $225 1080p Gaming Steam Box - USED
+### 1080p Gaming Steam Box - USED
 
 This budget gaming build runs on Manjaro Linux w/Steam.  
 It's good for 1080p, High @ 60 fps+ on normal games, Medium @ 45-60 fps on AAA games.  
@@ -779,7 +779,7 @@ ACCESSORY	|HDMI to HDMI Cable						|$10			|	[Amazon](https://www.amazon.com/Mono
 OS				|Manjaro Linux w/KDE Plasma									|	$0		|	[Download](https://manjaro.org/downloads/official/kde/)	|	
 SOFTWARE		|Steam + Proton Experimental								|	$0		|	NA		|	
 SOFTWARE		|Etcher ISO writer											|	$0		|	[Download](https://www.balena.io/etcher/)	|	
-TOTAL			|															|	$227	|			|	
+TOTAL			|															|	**$227**	|			|	
 
 <!-- Sub-Section -->
 
@@ -796,7 +796,7 @@ GPU	|	AMD RX 6600 8GB			|	$200	|[pcpartpicker](https://pcpartpicker.com/products
 MEM	|	Teamforce Vulcan Z 16GB 2x8GB DDR4-3600	|	$35	|pcpartpicker	|ALT: G.Skill Ripjaws V 16 GB 2x8GB DDR4-3600 ($40)
 STORAGE	|	WD SN580 1TB M.2 (OS/GAMES)	|	$65	|pcpartpicker	|
 COOL		|Thermalright AXP90-X47 CPU Cooler, 47mm			|	$30		|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|OPTIONAL: Quieter than stock cooler
-TOTAL	|						|	$590	|	
+TOTAL	|						|	**$590**	|	
 
 <!-- Sub-Section -->
 
@@ -816,7 +816,7 @@ STORAGE	|	WD SN570 500GB M.2 (OS)	|	$40	|pcpartpicker	|ALT: Solidigm P41 Plus 1T
 STORAGE	|	WD SN580 2TB M.2 (GAMES)	|	$105	|pcpartpicker	|
 PSU	|	Cooler Master V 850W SFX		|	$105	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&p=1,2&A=550000000000,2050000000000&sort=price&page=1)	|ALT: Corsair RM650x (2021) ATX
 COOL	|	Thermalright AXP120-X67	CPU Cooler	|	$35	|pcpartpicker	|ALT: Thermalright Silver Soul 135 (Air) / Arctic Liquid Freezer II 240 (AIO)
-TOTAL	|						|	$1020	|	
+TOTAL	|						|	**$1020**	|	
 
 <!-- Section -->
 
