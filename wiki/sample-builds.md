@@ -191,7 +191,7 @@ You could add some media storage with a [2.5" HDD](https://pcpartpicker.com/prod
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE/PSU		|Asrock Deskmini X300W					|$170	|Amazon	|MOBO/PSU included - 6.1" x 6.1" x 3.1"
-CPU			|AMD Ryzen 5 4600G APU (65W)					|	$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: Ryzen 5600G-5700G ($125-175)
+CPU			|AMD Ryzen 4600G APU (65W)					|	$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: Ryzen 5600G-5700G ($125-175)
 MEM			|Crucial 2x8GB DDR4-3200 SODIMM - CT2K8G4SFRA32A	|$40		|[amazon](https://www.amazon.com/Crucial-2x8GB-Laptop-Memory-CT2K8G4SFRA32A/dp/B08C4WV6FT)	|ALT: [2x8GB DDR4 SODIMM](https://pcpartpicker.com/products/memory/#xcx=0&b=ddr4&ff=ddr4_sodimm&sort=price&S=2666,8000&Z=16384002) ($30)
 STORAGE	 	|Sabrent Rocket 256GB NVMe M.2 SSD	(OS)				|$30		|[pcpartpicker](https://pcpartpicker.com/product/f4yV3C/sabrent-256-gb-m2-2280-solid-state-drive-sb-rocket-256)	|ALT: WD Black SN770 500 GB M.2 ($60)
 COOL	 	|Noctua NH-L9a-AM4 CPU Cooler, 37mm					|$45		|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|OPTIONAL. Quieter than stock cooler
@@ -203,7 +203,7 @@ PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE/PSU	|Inwin Chopin/BQ656					|	$100		|[google](https://www.google.com/search?q=inwin+bq656+chopin&oq=inwin+bq656+chopin)	|PSU included - 8.6" x 9.6" x 3.3"
 MOBO		|Gigabyte A520I AC ITX					|	$110	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&s=33&sort=price&page=1)			|ALT: ASRock A520M-ITX/ac
-CPU			|AMD Ryzen 5 4600G APU (65W)					|	$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: Ryzen 5600G-5700G ($125-175)
+CPU			|AMD Ryzen 4600G APU (65W)					|	$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: Ryzen 5600G-5700G ($125-175)
 MEM			|TEAMGROUP T-Force Vulcan Z 2x8GB DDR4-3200			|	$35		|[pcpartpicker](https://pcpartpicker.com/products/memory/#Z=16384002&sort=price&xcx=0&ff=ddr4&S=3200,7200&L=160,180)	|ALT: [2x4GB DDR4 DIMM](https://pcpartpicker.com/products/memory/#Z=8192002&sort=price&xcx=0&ff=ddr4) ($35)
 STORAGE	 	|Sabrent Rocket 256GB NVMe M.2 SSD	(OS)				|$30		|[pcpartpicker](https://pcpartpicker.com/product/f4yV3C/sabrent-256-gb-m2-2280-solid-state-drive-sb-rocket-256)	|ALT: WD Black SN770 500 GB M.2 ($60)
 COOL		|Thermalright AXP90-X47 CPU Cooler, 47mm			|	$30		|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|OPTIONAL: Quieter than stock cooler
@@ -234,7 +234,7 @@ Choose the DeskMeet option if you don't have a height restriction (like a small 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE/MOBO/PSU		|Asrock DeskMeet X300W w/500W PSU					|$190	|[newegg](https://www.newegg.com/asrock-deskmeet-x300w-b-bb-box-us/p/N82E16856158083)	|6.6" (W) x 9.3" (D) x 8.7" (H), 2xHDD, [specs](https://www.asrock.com/nettop/AMD/DeskMeet%20X300%20Series/index.asp#Specification)
-CPU				|Ryzen 5 4600G (65W)							|$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: Ryzen 5600G-5700G ($125-175)
+CPU				|Ryzen 4600G (65W)							|$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: Ryzen 5600G-5700G ($125-175)
 MEM			|TEAMGROUP T-Force Vulcan Z 2x8GB DDR4-3200			|	$35		|[pcpartpicker](https://pcpartpicker.com/products/memory/#Z=16384002&sort=price&xcx=0&ff=ddr4&S=3200,7200&L=160,180)	|
 STORAGE			|Sabrent Rocket 512GB NVMe M.2 SSD TLC				|$45	|[pcpartpicker](https://pcpartpicker.com/product/nqc48d/sabrent-512-gb-m2-2280-solid-state-drive-sb-rocket-512)	|
 STORAGE			|Hitachi Ultrastar 7K3000 3TB 7200rpm 3.5" HDD			|$46	|[amazon](https://smile.amazon.com/dp/B005QTSDDQ/?tag=pcpapi-20)	|OPTIONAL. ALT: 6TB WD Red ($100), 8TB Ironwolf ($130)
@@ -246,7 +246,7 @@ TOTAL			|											|$370	|	|
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE/PSU			|Apex MI-008 Mini ITX w/250W PSU					|$70	|[pcpartpicker](https://pcpartpicker.com/product/hHg323/apex-case-mi008)	|8.7" (W) x 13.5" (D) x 5.1" (H), 2xHDD, [specs](https://www.apextechusa.com/products.asp?pID=171)
-CPU				|Ryzen 5 4600G (65W)							|$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: AV1: [Intel i3-12100](https://pcpartpicker.com/product/qrhFf7/intel-core-i3-12100-33-ghz-quad-core-processor-bx8071512100)
+CPU				|Ryzen 4600G (65W)							|$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: AV1: [Intel i3-12100](https://pcpartpicker.com/product/qrhFf7/intel-core-i3-12100-33-ghz-quad-core-processor-bx8071512100)
 MOBO			|ASRock B550M-ITX/ac					|$130	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&s=33&sort=price&page=1)	|ALT: AV1: INTEL: [ASRock Z690M-ITX/ax](https://pcpartpicker.com/products/motherboard/#f=8&sort=price&xcx=0&s=40)
 MEM			|TEAMGROUP T-Force Vulcan Z 2x8GB DDR4-3200			|	$35		|[pcpartpicker](https://pcpartpicker.com/products/memory/#Z=16384002&sort=price&xcx=0&ff=ddr4&S=3200,7200&L=160,180)	|
 STORAGE			|Sabrent Rocket 512GB NVMe M.2 SSD TLC				|$45	|[pcpartpicker](https://pcpartpicker.com/product/nqc48d/sabrent-512-gb-m2-2280-solid-state-drive-sb-rocket-512)	|
@@ -392,7 +392,7 @@ PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE	|InWin Slim MicroATX BL040 Case w/300W PSU		|$100	|[amazon](https://www.amazon.com/InWin-BL040-mATX-Desktop-Black/dp/B0964K2W4R)	|13" x 14.4" x 3.8"
 MOBO	|Gigabyte A520M S2H MicroATX				|$50  	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&s=33&sort=price&f=7)	| ALT: [Intel H610M](https://pcpartpicker.com/products/motherboard/#xcx=0&sort=price&f=7&c=155) ($80)
-CPU	|AMD Ryzen 5 4600G (65W)				|$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: [Intel G6900](https://pcpartpicker.com/product/QKbTwP/intel-celeron-g6900-34-ghz-dual-core-processor-bx80715g6900) ($70) 
+CPU	|AMD Ryzen 4600G (65W)				|$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: [Intel G6900](https://pcpartpicker.com/product/QKbTwP/intel-celeron-g6900-34-ghz-dual-core-processor-bx80715g6900) ($70) 
 MEM	|G.Skill Value DDR4-2400 2x4GB		|$25  	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&sort=price&Z=8192002,16384002&ff=ddr4)	|
 STORAGE	|Silicon Power 256GB 2.5" SATA SSD (OS/APPS)				|$20	|[pcpartpicker](https://pcpartpicker.com/product/kh9tt6/silicon-power-ace-a55-256-gb-25-solid-state-drive-sp256gbss3a55s25)	|ALT: M.2 SSD ($25)
 STORAGE			|Hitachi Ultrastar 7K3000 3TB 7200rpm 3.5" HDD (MEDIA)			|$45	|amazon	|OPTIONAL
@@ -679,7 +679,7 @@ PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE	|InWin Slim BL040 MicroATX case w/300W PSU			|$100		|[amazon](https://www.amazon.com/InWin-BL040-mATX-Desktop-Black/dp/B0964K2W4R)	|ALT: [Silverstone ML03b](https://pcpartpicker.com/product/bWR48d/silverstone-case-ml03b) (15.7L) ($95)/[Jonsbo C6](https://www.newegg.com/p/2AM-006A-000C4) (15.8L) ($60)
 PSU		|Included							|$0		|	|ALT: [EVGA BQ 500W](https://pcpartpicker.com/product/8P7CmG/evga-bq-500w-80-bronze-certified-semi-modular-atx-power-supply-110-bq-0500-k1) ($60)
-CPU		|AMD Ryzen 5 4600G APU (65W)				|$100		|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: [Ryzen 3400G - Ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=3400g&_sacat=0&LH_BIN=1&_sop=15) ($75)
+CPU		|AMD Ryzen 4600G APU (65W)				|$100		|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: [Ryzen 3400G - Ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=3400g&_sacat=0&LH_BIN=1&_sop=15) ($75)
 MOBO	|MSI A520M-A PRO MicroATX		|$70		|[pcpartpicker](https://pcpartpicker.com/product/nZTzK8/msi-a520m-a-pro-micro-atx-am4-motherboard-a520m-a-pro)	|ALT: 3400G: [MSI A320M PRO](https://pcpartpicker.com/product/mB4BD3/msi-a320m-a-pro-micro-atx-am4-motherboard-a320m-a-pro) ($80)
 MEM		|Silicon Power Gaming 2x8GB DDR4-3200		|$30		|[pcpartpicker](https://pcpartpicker.com/product/P4FKHx/silicon-power-sp016gxlzu320bdaj5-16-gb-2-x-8-gb-ddr4-3200-cl16-memory-sp016gxlzu320bdaj5)	|ALT: Deskmini: [2x8GB DDR4-3200 SODIMMS](https://pcpartpicker.com/products/memory/#xcx=0&b=ddr4&ff=ddr4_sodimm&sort=price&S=2666,8000&Z=16384002)
 STORAGE	 	|Teamgroup MP33 256GB NVMe M.2 SSD					|$25		|[pcpartpicker](https://pcpartpicker.com/product/zZJmP6/team-mp33-256-gb-m2-2280-nvme-solid-state-drive-tm8fp6256g0c101)	|ALT: WD Black SN770 500 GB M.2 ($45)
@@ -744,7 +744,7 @@ PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE|Fractal Design Node 304|$100|[newegg](https://www.newegg.com/black-fractal-design-node-304-mini-itx-tower/p/N82E16811352027)|ITX, 14.7"x9.8"x8.3" ALT: Thermaltake Core V1 ($51)
 MOBO		|Asrock Z690M-ITX/ax				|$135	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&s=40&f=8&sort=price&page=1)		|ALT: ASRock B550M-ITX/ac ($135)
-CPU			|Intel i5-12400F								|$165	|[pcpartpicker](https://pcpartpicker.com/product/pQNxFT/intel-core-i5-12400f-25-ghz-6-core-processor-bx8071512400f)		|ALT: AMD Ryzen 5600 ($140)
+CPU			|Intel i5-12400F								|$165	|[pcpartpicker](https://pcpartpicker.com/product/pQNxFT/intel-core-i5-12400f-25-ghz-6-core-processor-bx8071512400f)		|ALT: AMD Ryzen 5600 ($120)
 GPU			|Nvidia RTX 2060				|$160	|[ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=rtx+2060&_sacat=0&_sop=15&rt=nc&LH_BIN=1)		|ALT: AMD RX 5700 XT
 MEM			|G.Skill Ripjaws V 16GB 2x8GB DDR4-3600 CL18				|$40		|[pcpartpicker](https://pcpartpicker.com/product/n6RgXL/gskill-ripjaws-v-16-gb-2-x-8-gb-ddr4-3600-memory-f4-3600c18d-16gvk)		|ALT: Corsair Vengeance LPX 2x8GB DDR4-3600
 STORAGE		|WD Black SN770 1TB NVMe M.2 SSD TLC			|$60	|		|
@@ -842,7 +842,7 @@ PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE		|SilverStone SG13B										|$65			|[pcpartpicker](https://pcpartpicker.com/product/WG2bt6/silverstone-sg13-v2-mini-itx-tower-case-sg13b-usa)	|11.2" x 8.7" x 7.1"
 MOBO		|ASRock B550M-ITX/ac					|$130			|[pcpartpicker](https://pcpartpicker.com/product/G6VG3C/asrock-b550m-itxac-mini-itx-am4-motherboard-b550m-itxac)	|ALT: [ASrock Fatal1ty B450 Gaming-ITX/ac](https://pcpartpicker.com/product/N4jJ7P/asrock-fatal1ty-b450-gaming-itxac-mini-itx-am4-motherboard-b450-gaming-itxac) ($150)
-CPU			|AMD Ryzen 5600								|$120			|[pcpartpicker](https://pcpartpicker.com/product/PgcG3C/amd-ryzen-5-5600-36-ghz-6-core-processor-100-100000927box)	|ALT: Ryzen 5 5500
+CPU			|AMD Ryzen 5600								|$120			|[pcpartpicker](https://pcpartpicker.com/product/PgcG3C/amd-ryzen-5-5600-36-ghz-6-core-processor-100-100000927box)	|ALT: Ryzen 5500
 GPU			|AMD Radeon RX 6600	|$180		|[pcpartpicker](https://pcpartpicker.com/products/video-card/#sort=price&c=436,511,509&L=69000000,271000000)|ALT: Nvidia RTX 2060 ($200)
 COOL		|Cooler Master MasterLiquid ML120L 120mm AIO				|$80		|[pcpartpicker](https://pcpartpicker.com/product/4TpmP6/cooler-master-masterliquid-ml120l-rgb-v2-6559-cfm-liquid-cpu-cooler-mlw-d12m-a18pc-r2)	|ALT: Corsair H60/H80i 120mm AIO ($80/$120), Noctua NH-L12S ($50)
 MEM			|Corsair Vengeance 16GB 2x8GB DDR4-3200					|$40			|[pcpartpicker](https://pcpartpicker.com/product/p6RFf7/corsair-memory-cmk16gx4m2b3200c16)	|
@@ -866,7 +866,7 @@ PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE		|Geeek A50 Plus + PCIe riser cable					|$89				|[Geeek](https://www.geeekstore.com/shop/a50-plus-mini-itx-case/)	|13" x 5.5" x 8.4" ALT: Geeek A60 Plus ($99)
 MOBO		|ASRock B550M-ITX/ac					|$130			|[pcpartpicker](https://pcpartpicker.com/product/G6VG3C/asrock-b550m-itxac-mini-itx-am4-motherboard-b550m-itxac)	|ALT: [ASrock Fatal1ty B450 Gaming-ITX/ac](https://pcpartpicker.com/product/N4jJ7P/asrock-fatal1ty-b450-gaming-itxac-mini-itx-am4-motherboard-b450-gaming-itxac) ($150)
-CPU			|AMD Ryzen 5600								|$120			|[pcpartpicker](https://pcpartpicker.com/product/PgcG3C/amd-ryzen-5-5600-36-ghz-6-core-processor-100-100000927box)	|ALT: Ryzen 5 5500
+CPU			|AMD Ryzen 5600								|$120			|[pcpartpicker](https://pcpartpicker.com/product/PgcG3C/amd-ryzen-5-5600-36-ghz-6-core-processor-100-100000927box)	|ALT: Ryzen 5500
 GPU			|AMD Radeon RX 6600	|$180		|[pcpartpicker](https://pcpartpicker.com/products/video-card/#sort=price&c=436,511,509&L=69000000,304000000)|ALT: Nvidia RTX 2060 ($200)
 MEM			|Corsair Vengeance 16GB 2x8GB DDR4-3200					|$40			|[pcpartpicker](https://pcpartpicker.com/product/p6RFf7/corsair-memory-cmk16gx4m2b3200c16)	|
 STORAGE		|WD Black SN770 1TB NVMe M.2 SSD TLC					|$60		|[pcpartpicker](https://pcpartpicker.com/product/YVytt6/western-digital-1-tb-m2-2280-nvme-solid-state-drive-wds100t3x0e)	|
