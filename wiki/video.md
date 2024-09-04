@@ -336,17 +336,17 @@ Most video players have hardware decoding support built-in.
 
 Configuration usually involves a single toggle on the simple side, or, on the advanced side, choosing between DVXA/D3D11/Quicksync and/or choosing your proper GPU Device. Make sure your GPU Device supports hardware decoding for the format(s) you're trying to play. See the [GPU Feature Set Matrix](/wiki/components#gpusgraphics) of the Wiki.  
 
-If configured correctly, CPU Usage should be low during playback, while GPU Usage (Video Decode) should be higher in proportion. If GPU Video Decode is 0, then hardware decoding is not being used.
+If configured correctly, CPU Usage should be low during playback, while GPU Usage (Video Decode) should be non-0. If GPU Video Decode is 0, then hardware decoding is not being used.
 
 MPC-BE:  
-1. View->Options->Internal Filters->Video Decoders->Video Decoder Configuration: Codecs: <all checked>, Preferred Decoder: D3D11 (Win 8+) or DXVA2 (copy-back) (others)
+1. View->Options->Internal Filters->Video Decoders->Video Decoder Configuration: Codecs: <all checked>, Preferred Decoder: 'D3D11, DXVA2' (Win 8+) or DXVA2 (copy-back) (others)
 
 MPC-HC:  
 1. View->Options->Internal Filters->Video Decoder: Hardware Decoder to use: D3D11 (Win 8+) or DXVA2 (copy-back) (others)  
 2. View->Options->Internal Filters->Video Decoder: Hardware Device to use: Automatic (if D3D11) or Your_GPU_Device (DXVA2)
 
 VLC:  
-1. Tools->Preferences->Input/Codecs->Hardware accelerated decoding: D3D11 (Win 8+) or DirectX (others)
+1. Tools->Preferences->Input/Codecs->Hardware-accelerated decoding: Direct3D11 (Win 8+) or DirectX (others)
 
 Plex:  
 1. Plex HTPC/Plex Media Player 
