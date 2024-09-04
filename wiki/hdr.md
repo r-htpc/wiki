@@ -155,7 +155,7 @@ Simple, HDR passthrough, tonemapping and upscaling.
               * Downscaling: \<choose\>
       * Internal Filters -> Video Decoders  
         * Video decoder configuration  
-          * Preferred Decoder: D3D11 (win 8/10/11) or DXVA2 (win 7) 
+          * Preferred Decoder: 'D3D11, DXVA2' (win 8/10/11) or DXVA2 (win 7) 
           * Adapter: \<your_GPU_device\> 
           * RGB output levels: PC (0-255) (see VIDEO setup guide if not sure) 
 * *Test*  
