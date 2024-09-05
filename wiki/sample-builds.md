@@ -449,9 +449,7 @@ If you need to transcode more streams than this (either because your internal cl
 
 It's preferred to use an SSD for your OS drive and for storing Plex Metadata. Purchase one separately as per the parts list below or get one included.
 
-With a form factor this small you should use USB external drives, like a [WD Elements/Easystore](https://www.bestbuy.com/site/wd-easystore-8tb-external-usb-3-0-hard-drive-black/6425302.p?skuId=6425302&utm_source=feed) for media storage. It is possible to use an internal [2.5" HDD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=900000000000,22000000000000&sort=price&f=3&t=5000,5200,5400,5640,5700,5760,5900,5940,7200&page=1) up to 5TB if you use an M.2 SSD for your OS. If you want an internal 3.5" HDD instead, look at the next build.  
-
-See our [Storage Setup Guide](/wiki/storage) for more information on software, drives and pre-built NASes.  
+With a form factor this small, you should use USB external drives, in the short-term, like a [WD Elements/Easystore](https://www.bestbuy.com/site/wd-easystore-8tb-external-usb-3-0-hard-drive-black/6425302.p?skuId=6425302&utm_source=feed), for media storage. It is possible to use an internal [2.5" HDD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=900000000000,22000000000000&sort=price&f=3&t=5000,5200,5400,5640,5700,5760,5900,5940,7200&page=1) up to 5TB if you use an M.2 SSD for your OS. If you want more reliable, long-term storage, look at the next build w/internal 3.5" HDD(s) instead or a NAS from our [Storage Setup Guide](/wiki/storage).  
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
@@ -460,7 +458,6 @@ CPU/GPU		|Intel i5-8500T	|	Included|	NA|		35W, 6C/6T. ALT: [i5-7500T](https://ww
 MEM			|8 GB+ DDR4|	Included|	NA|		NA
 STORAGE		|256GB M.2 SSD (OS/APPS)		|	$25|	[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=240000000000,22000000000000&t=0&sort=price&f=122030,122042,122060,122080)|		OPTIONAL, If not included in ebay build.
 STORAGE		|WD 8-20TB USB HDD (MEDIA)		|$160-350		|	[Best Buy](https://www.bestbuy.com/site/wd-easystore-8tb-external-usb-3-0-hard-drive-black/6425302.p?skuId=6425302&utm_source=feed)		| OPTIONAL, if not included in ebay build or don't have. ALT: [2.5" SATA HDD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=900000000000,22000000000000&sort=price&f=3&t=5000,5200,5400,5640,5700,5760,5900,5940,7200&page=1)
-ACCESSORY	|DP to HDMI Cable	|	$10	|	[Amazon](https://www.amazon.com/Amazon-Basics-Uni-Directional-DisplayPort-Display/dp/B015OW3M1W)	| OPTIONAL, for mgmt. 6 ft
 OS			|Ubuntu 24/Windows 1x Pro				|$0			|	[Ubuntu](https://ubuntu.com/download)	|	
 SOFTWARE	|Plex Media Server						|$0			|	[Plex](https://www.plex.tv/downloads)	|	Free
 LICENSE		|Plex Pass								|$120		|	[Plex](https://www.plex.tv/plex-pass/)	|	OPTIONAL. Lifetime cost or $40/year, $5/month.	
@@ -489,7 +486,7 @@ It's preferred to use an SSD for your OS drive and for storing Plex Metadata. Yo
 
 For media content storage, either use the HDD (if provided in the one you buy), or replace it with a bigger one. You can get an 8TB drive for about $100. Check our [Storage Setup Guide](/wiki/storage#hard-drives) drive list for more options. If you want to throw a bunch of drives at it, either go with one of the bigger cases above or add a Terramaster [F4-212 NAS](/wiki/storage#pre-built-nas-list). If you want to go beyond this you'll want to build everything internally with the next NAS/Media Server build below as a starting point.  
 
-A good serving solution with the below system would be a M.2 SSD for OS/apps, a large 3.5" internal HDD, Ubuntu 22, docker and the plex docker container.
+A good serving solution with the below system would be a M.2 SSD for OS/apps, a large 3.5" internal HDD, Ubuntu 24, docker and the plex docker container.
 
 Windows would be fine for ease of administration, but you should go with Ubuntu, OpenMediaVault or Unraid on the Linux-side for more advanced usage, like Docker, and/or have better multi-disk volume management.  
 
@@ -502,7 +499,6 @@ CPU/GPU			|Intel i5-8400							|Included	|	NA			|	65 W, 6C/6T. ALT: [i5-7400](ht
 MEM/STORAGE	|8GB RAM, HDD/SSD/Bare					|Included	|	NA			|	
 STORAGE		|500GB M.2 NVMe SSD (OS/APPS)		|$35		|	[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=480000000000,22000000000000&t=0&sort=price&f=122030,122042,122060,122080&D=1)		| OPTIONAL, if not included in ebay build.
 STORAGE		|WD 8-20 TB 3.5" SATA HDD (MEDIA)		|$100-350		|	[Serverpartdeals](https://serverpartdeals.com/collections/wd-ultrastar-sata-hard-drives?sort=price-ascending&pf_t_condition=condition%3AManufacturer+Recertified&pf_t_condition=condition%3ANew)		| OPTIONAL, if not included in ebay build or don't have.
-ACCESSORY	|DP to HDMI Cable	|	$10	|	[Amazon](https://www.amazon.com/Amazon-Basics-Uni-Directional-DisplayPort-Display/dp/B015OW3M1W)	| OPTIONAL, for mgmt. 6 ft
 OS			|Ubuntu 24/Windows 1x Pro				|$0			|	[Ubuntu](https://ubuntu.com/download)	|	
 SOFTWARE	|Plex Media Server						|$0			|	[Plex](https://www.plex.tv/downloads)	|	Free
 LICENSE		|Plex Pass								|$120		|	[Plex](https://www.plex.tv/plex-pass/)	|	OPTIONAL. Lifetime cost or $40/year, $5/month.	
