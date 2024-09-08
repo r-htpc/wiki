@@ -571,6 +571,7 @@ If you must have disc playback:
  1. DVD: Kodi/MPC-BE/VLC, [Microsoft DVD player](https://apps.microsoft.com/detail/9nblggh2j19w?activetab=pivot%3Aoverviewtab&rtc=1&hl=en-us&gl=US#activetab=pivot:overviewtab)
  2. FHD Blu-Ray: [Leawo Blu-Ray Player](https://www.leawo.com/blu-ray-player/)
  3. UHD Blu-Ray: *Official UHD Drive*: [CyberLink PowerDVD](https://www.cyberlink.com/products/powerdvd-ultra/features_en_US.html). *[UHD-Friendly Drive](/wiki/components#optical-drives)*: Redfox AnyDVD HD + Media player above
+ 4. Make sure you meet audio/video chain restrictions: [HDCP](https://en.wikipedia.org/wiki/High-bandwidth_Digital_Content_Protection) 1.x for DVD, HDCP 1.3 for FHD Blu-Ray, HDCP 2.2 for UHD Blu-Ray; in all devices of the video chain (Drive, GPU, Video Cable, Display)  
 
 See our [Optical Drive](/wiki/components#optical-drives) section of the Hardware Components page for drive selection  
 
