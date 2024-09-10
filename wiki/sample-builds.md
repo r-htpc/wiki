@@ -43,7 +43,7 @@ Some of these are: **Intel (NUC), [Lenovo (ThinkCentre/IdeaCentre)](https://www.
 
  $125-160: SMALLER: New: **Intel N95**/N5095 Mini PC ([Minisforum/Beelink/etc..](https://www.amazon.com/s?k=minsforum+beelink+N5095+N95&crid=CZRI7XC6T32)), 8GB RAM, 256GB disk  
 
- $130-150: SMALLEST: New: Intel N95/N5105 Nano PC ([GMKTec](https://www.amazon.com/GMKtec-Nucbox5-Desktop-Computer-Windows/dp/B0B75PT2RY)/[Mele](https://www.amazon.com/MeLE-Overclock4C-Computer-Ethernet-Business/dp/B0CLH62PTK)), 8GB RAM, 128GB-256GB disk  
+ $130-150: SMALLEST: New: Intel N9x/N5105 Nano PC ([GMKTec](https://www.amazon.com/GMKtec-Nucbox5-Desktop-Computer-Windows/dp/B0B75PT2RY)/[Mele](https://www.amazon.com/MeLE-Overclock3C-Windows-Celeron-Computer/dp/B0CB412GMM)), 8GB RAM, 128GB-256GB disk  
 
 <!-- Sub-Section -->
 
