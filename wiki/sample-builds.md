@@ -316,7 +316,7 @@ MEM|G.Skill Ripjaws V 1x16GB DDR4-3200 DIMM|$35|[pcpartpicker](https://pcpartpic
 STORAGE			|Teamgroup MP33 256GB NVMe M.2 SSD TLC				|$25	|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#t=0&A=256000000000,22000000000000&f=122080&D=1&sort=price&page=1)	|
 STORAGE			|Hitachi Ultrastar 7K3000 3TB 7200rpm 3.5" HDD			|$46	|[amazon](https://smile.amazon.com/dp/B005QTSDDQ/?tag=pcpapi-20)	|OPTIONAL. ALT: 6TB WD Red ($100), 8TB Ironwolf ($130)
 POWER			|19V 65W AC-DC Adapter|$25	|[amazon](https://www.amazon.com/Pwr-Power-Supply-Intel-FSP065-10AABA/dp/B076L52WV4)	|
-TOTAL||$250||
+TOTAL||$260||
 
 <!-- Sub-Section -->
 
@@ -876,5 +876,5 @@ TOTAL		|											|$824			|	|
 
 ---
 
-*This page was last updated on 2024-07-21*
+*This page was last updated on 2024-09-09*
 
