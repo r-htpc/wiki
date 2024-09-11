@@ -66,7 +66,7 @@ $125-$400: SMALLER: Intel/AMD Mini PC, 8GB (2x4GB) RAM, 256GB SSD
 - Intel: [Intel NUC 8i3/8i5](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=nuc+%288i3%2C8i5%2C8109u%2C8130u%2C8th%2C8259u%29&_sacat=179&LH_TitleDesc=1&_odkw=nuc+%288i3%2C8i5%2C8109u%2C8130u%2C8th%29&_osacat=179&_sop=15&LH_PrefLoc=2) (USED) ($100+)
 - AMD: [Beelink SER5](https://www.amazon.com/s?k=ser5&i=electronics&s=price-asc-rank) ($250)
 - **Intel: [Beelink SEI 11/12](https://www.amazon.com/s?k=sei11%7Csei12%7C11320h%7C1235u%7C12450h&rh=n%3A13896591011&ref=nb_sb_noss) ($300+)**
-- AMD: [Beelink SER6](https://www.amazon.com/s?k=ser6&rh=n%3A13896591011&ref=nb_sb_noss) ($375)  
+- AMD: [Beelink SER6](https://www.amazon.com/s?k=ser6&rh=n%3A13896591011&ref=nb_sb_noss) ($370)  
 
 $100-$500: SMALL/MEDIUM: Intel - i3/i5-7xxx/8xxx/9xxx+ 8GB (2x4GB) RAM, 256GB ssd/1TB hdd: 
 
@@ -99,10 +99,10 @@ $175-$500: SMALL/MEDIUM: AMD - Ryzen **3x**00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd
     - [Minisforum UN300](https://www.amazon.com/MINISFORUM-LPDDR5-i3-N300-Threads-USB3-2/dp/B0CQYW121V) (N300)  
   - $300: Med+ (<= Switch)
     - [Beelink SER5 Max](https://www.amazon.com/s?k=beelink+5800h&crid=3AUBU1SOXW7YK&sprefix=beelink+5800h%2Caps%2C163&ref=nb_sb_noss_1) (AMD 5800H)  
-  - $400: High (<= PS3)
-    - [Minisforum EM680](https://store.minisforum.com/products/minisforum-em680?_pos=1&_sid=3a89b73ed&_ss=r)  
-  - $500: Ultra (<= Xbox 360)
-    - Minisforum [UM773 Lite](https://store.minisforum.com/collections/amd-%C2%AE-ryzen-%C2%AE/products/minisforum-um773-lite?variant=43717641666805)/[UM790 Pro](https://store.minisforum.com/collections/game-mini-pc/products/minisforum-um790-pro?variant=44134865731829)/[UM690S](https://store.minisforum.com/products/minisforum-um690s?variant=44055289954549)  
+  - $350-400: High (<= PS3)
+    - [Beelink SER6](https://www.amazon.com/Beelink-SER6-Desktop-Computer-Display/dp/B0CZNV3RRY)/[Minisforum UM690S](https://www.amazon.com/MINISFORUM-UM690-6900HX-Threads-Bluetooth5-2/dp/B0BP1S1YNS/)  
+  - $500+: Ultra (<= Xbox 360)
+    - [Minisforum UM790 Pro](https://store.minisforum.com/collections/game-mini-pc/products/minisforum-um790-pro?variant=44134865731829)/[Beelink SER7](https://www.amazon.com/Beelink-SER7-7840HS-Computer-Display/dp/B0CQT9N951)
 
  See [ETA PRIME](https://www.youtube.com/@ETAPRIME) YT channel for Emulation device reviews  
 
