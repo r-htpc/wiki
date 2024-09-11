@@ -349,6 +349,7 @@ BRAND/MODEL|PRICE|RESOLUTION|4k NETFLIX?|HDR?|WIFI?|LAN?|VOICE SEARCH?|USB?|NOTE
 [Mi Box S](https://www.mi.com/global/mi-box-s) ([buy](https://www.amazon.com/Xiaomi-Android-Google-Assistant-Streaming/dp/B07KLWGGYS))|$65|4k@60|YES|10|ac|No|YES|YES (**8b**)|PT:LS DD+/DTS, S905X-H/2GB/8GB, NTFS
 **[Apple TV 4k (2022)](https://www.apple.com/apple-tv-4k/)** ([buy](https://www.apple.com/shop/buy-tv/apple-tv-4k))|**$129/$149**|4k@60|YES|10/+/DV|ax|1000M (7)|YES|No|3rd gen, A15, 3GB/64-128GB, DV-5/8, DC:DTHD/DTSHD->PCM, PT:LS DA, BT 5.0
 [Onn 4K](https://www.walmart.com/ip/onn-Google-TV-4K-Streaming-Box-New-2023-4K-UHD-resolution/2835618394) ([buy](https://www.walmart.com/ip/onn-Google-TV-4K-Streaming-Box-New-2023-4K-UHD-resolution/2835618394))|$20|4k@60|YES|10|dual ac|Opt (9a)|YES|Opt (8a)|DC:NA, PT:LS DD/DTS, S905Y4 1.9Ghz/2GB/8GB
+[Onn 4K Pro](https://www.walmart.com/ip/4K-Pro-Streaming-Device/5193222892) ([buy](https://www.walmart.com/ip/4K-Pro-Streaming-Device/5193222892))|$50|4k@60|YES|10/+/DV|ax|100M, Opt (9a)|YES|Opt (8c)|DC:NA, PT:LS DA/DTS, S905X4 2Ghz/3GB/32GB
 [ChromeCast w/Google TV HD](https://store.google.com/product/chromecast_google_tv) ([buy](https://store.google.com/product/chromecast_google_tv))|$30|1080p|No|10/+|dual ac|Opt|YES|Opt (8a)|AV1, DC:DD+, PT:LS DA/DTS, S805X2, 1.5GB/8GB
 **[ChromeCast w/Google TV 4k](https://store.google.com/product/chromecast_google_tv)** ([buy](https://store.google.com/config/chromecast_google_tv))|**$50**|4k@60|YES|10/+/DV|dual ac|Opt (9a)|YES|Opt (8a)|2nd gen. AV1, DV-5/8, DC:DD+, PT:LS DA/DTS, S905D3 1.9Ghz/2GB/8GB
 [Google TV Streamer 4k](https://store.google.com/us/product/google_tv_streamer?hl=en-US) ([buy](https://store.google.com/us/product/google_tv_streamer?hl=en-US))|$100|4k@60|YES|10/+/DV|dual ac|1000M|YES|Opt (8a)|3rd/latest gen. AV1, DV-5/8, DC:DD+, PT:LS DA, MT8696/4GB/32GB
@@ -384,15 +385,18 @@ NOTE: Buy links to Amazon go through Amazon Smile to support your favorite chari
 
 (7) 128GB model 
 
-(8a) FAT32, (8b) FAT32+NTFS - "Opt" devices must use [OTG](https://www.amazon.com/s?k=OTG+power+cable&i=electronics) cable 
+(8a) FAT32, (8b) NTFS+EXFAT+FAT32, (8c) EXFAT+FAT32. "Opt" devices must use [OTG](https://www.amazon.com/s?k=OTG+power+cable&i=electronics) cable 
 
 (9) [Ethernet Adapter](https://www.amazon.com/Cable-Matters-Streaming-Including-Chromecast/dp/B07N2ZHFY9/) <= 350 Mbps, (9a) [Ethernet Adapter](https://www.amazon.com/Cable-Matters-Gigabit-Ethernet-Charging/dp/B08NXS46DN) <= 350 Mbps 
 
 (10) w/[CableCreation Active DP 1.4->HDMI Cable](https://www.amazon.com/CableCreation-Unidirectional-DisplayPort-Eyefinity-Multi-Display/dp/B082CXMBCQ) 
 
 <!--
+DISCONTINUED
 [Apple TV 4k (2021)](https://www.apple.com/apple-tv-4k/) ([buy](https://www.apple.com/shop/buy-tv/apple-tv-4k))|$179/$199|4k@60|YES|10/DV|ax|1000M|YES|No|2nd gen, A12, 3GB/32-64GB, DV-5/8, DC:DTHD/DTSHD->PCM, PT:LS DA, BT 5.0
 [Amazon Fire TV stick 4K (2018)](https://www.amazon.com/all-new-fire-tv-stick-4k-with-alexa-voice-remote/dp/B08XVYZ1Y5) ([buy](https://www.amazon.com/all-new-fire-tv-stick-4k-with-alexa-voice-remote/dp/B08XVYZ1Y5))|$40|4K@60|YES|10/+/DV|dual ac 2x2|Opt (9)|YES|Opt (8a)|1st gen, PT:LS DA, 1.7Ghz/1.5GB/8GB
+[ChromeCast w/Google TV HD](https://store.google.com/product/chromecast_google_tv) ([buy](https://store.google.com/product/chromecast_google_tv))|$30|1080p|No|10/+|dual ac|Opt|YES|Opt (8a)|AV1, DC:DD+, PT:LS DA/DTS, S805X2, 1.5GB/8GB
+**[ChromeCast w/Google TV 4k](https://store.google.com/product/chromecast_google_tv)** ([buy](https://store.google.com/config/chromecast_google_tv))|**$50**|4k@60|YES|10/+/DV|dual ac|Opt (9a)|YES|Opt (8a)|2nd gen. AV1, DV-5/8, DC:DD+, PT:LS DA/DTS, S905D3 1.9Ghz/2GB/8GB
 -->
 
 ## What is the best client device to stream content to my TV?
