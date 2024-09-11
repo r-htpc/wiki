@@ -348,17 +348,17 @@ BRAND/MODEL|PRICE|RESOLUTION|4k NETFLIX?|HDR?|WIFI?|LAN?|VOICE SEARCH?|USB?|NOTE
 [Dune HD Box R Plus](https://www.dune-hd.com/products/homatics-box-r-4k-plus) ([buy](https://www.dune-hd.com/products/homatics-box-r-4k-plus))|$150|4k@60|No|10/+/DV (6)|ax|1000M|No|YES (8b)|S905X4-K/4GB RAM/32 GB SD. **DV-5/7/8**, PT:**LL DA/DTSX** w/CoreElec
 [Mi Box S](https://www.mi.com/global/mi-box-s) ([buy](https://www.amazon.com/Xiaomi-Android-Google-Assistant-Streaming/dp/B07KLWGGYS))|$65|4k@60|YES|10|ac|No|YES|YES (**8b**)|PT:LS DD+/DTS, S905X-H/2GB/8GB, NTFS
 **[Apple TV 4k (2022)](https://www.apple.com/apple-tv-4k/)** ([buy](https://www.apple.com/shop/buy-tv/apple-tv-4k))|**$129/$149**|4k@60|YES|10/+/DV|ax|1000M (7)|YES|No|3rd gen, A15, 3GB/64-128GB, DV-5/8, DC:DTHD/DTSHD->PCM, PT:LS DA, BT 5.0
-[Onn 4K](https://www.walmart.com/ip/onn-Google-TV-4K-Streaming-Box-New-2023-4K-UHD-resolution/2835618394) ([buy](https://www.walmart.com/ip/onn-Google-TV-4K-Streaming-Box-New-2023-4K-UHD-resolution/2835618394))|$20|4k@60|YES|10|dual ac|Opt (9a)|YES|Opt (8a)|DC:NA, PT:LS DD/DTS, S905Y4 1.9Ghz/2GB/8GB
-[Onn 4K Pro](https://www.walmart.com/ip/4K-Pro-Streaming-Device/5193222892) ([buy](https://www.walmart.com/ip/4K-Pro-Streaming-Device/5193222892))|$50|4k@60|YES|10/+/DV|ax|100M, Opt (9a)|YES|Opt (8c)|DC:NA, PT:LS DA/DTS, S905X4 2Ghz/3GB/32GB
+[Onn 4K](https://www.walmart.com/ip/onn-Google-TV-4K-Streaming-Box-New-2023-4K-UHD-resolution/2835618394) ([buy](https://www.walmart.com/ip/onn-Google-TV-4K-Streaming-Box-New-2023-4K-UHD-resolution/2835618394))|$20|4k@60|YES|10|dual ac|Opt (9b)|YES|Opt (8a)|DC:NA, PT:LS DD/DTS, S905Y4 1.9Ghz/2GB/8GB
+[Onn 4K Pro](https://www.walmart.com/ip/4K-Pro-Streaming-Device/5193222892) ([buy](https://www.walmart.com/ip/4K-Pro-Streaming-Device/5193222892))|$50|4k@60|YES|10/+/DV|ax|100M, Opt (9c)|YES|Opt (8c)|DC:NA, PT:LS DA/DTS, S905X4 2Ghz/3GB/32GB
 [ChromeCast w/Google TV HD](https://store.google.com/product/chromecast_google_tv) ([buy](https://store.google.com/product/chromecast_google_tv))|$30|1080p|No|10/+|dual ac|Opt|YES|Opt (8a)|AV1, DC:DD+, PT:LS DA/DTS, S805X2, 1.5GB/8GB
-**[ChromeCast w/Google TV 4k](https://store.google.com/product/chromecast_google_tv)** ([buy](https://store.google.com/config/chromecast_google_tv))|**$50**|4k@60|YES|10/+/DV|dual ac|Opt (9a)|YES|Opt (8a)|2nd gen. AV1, DV-5/8, DC:DD+, PT:LS DA/DTS, S905D3 1.9Ghz/2GB/8GB
+**[ChromeCast w/Google TV 4k](https://store.google.com/product/chromecast_google_tv)** ([buy](https://store.google.com/config/chromecast_google_tv))|**$50**|4k@60|YES|10/+/DV|dual ac|Opt (9b)|YES|Opt (8a)|2nd gen. AV1, DV-5/8, DC:DD+, PT:LS DA/DTS, S905D3 1.9Ghz/2GB/8GB
 [Google TV Streamer 4k](https://store.google.com/us/product/google_tv_streamer?hl=en-US) ([buy](https://store.google.com/us/product/google_tv_streamer?hl=en-US))|$100|4k@60|YES|10/+/DV|dual ac|1000M|YES|Opt (8a)|3rd/latest gen. AV1, DV-5/8, DC:DD+, PT:LS DA, MT8696/4GB/32GB
-**[Amazon Fire TV stick 4K MAX (2023)](https://www.amazon.com/dp/B0BP9SNVH9)** ([buy](https://www.amazon.com/dp/B0BP9SNVH9))|**$60**|4K@60|YES|10/+/DV|tri ax 2x2-6e|Opt (9)|YES|Opt (8a)|2nd gen, AV1, DV-4/5/8/9/10, PT:**LL DA**/DTSHD, 2.0Ghz/2GB/16GB
-[Amazon Fire TV stick 4K MAX (2021)](https://www.amazon.com/dp/B08MQZXN1X) ([buy](https://www.amazon.com/dp/B08MQZXN1X))|$55|4K@60|YES|10/+/DV|dual ax 2x2-6|Opt (9)|YES|Opt (8a)|1st gen, AV1, PT:LS DA, 1.8Ghz/2GB/8GB
-[Amazon Fire TV stick 4K (2023)](https://www.amazon.com/dp/B0CDR2MSVC) ([buy](https://www.amazon.com/dp/B0CDR2MSVC))|$40|4K@60|YES|10/+/DV|dual ax 2x2-6|Opt (9)|YES|Opt (8a)|2nd gen, DV-4/5/8/9/10, PT:**LL DA**, 1.7Ghz/2GB/8GB
-[Amazon Fire TV stick](https://www.amazon.com/dp/B07ZZVX1F2/B08C1W5N87) ([buy](https://www.amazon.com/dp/B07ZZVX1F2/B08C1W5N87))|$40|1080p|NO|10/+|dual ac 2x2|Opt (9)|YES|Opt (8a)|3rd Gen, DC: LS DA, PT:LS DA/DTS, 1.7Ghz/1GB/8GB
-[Amazon Fire TV stick Lite](https://www.amazon.com/dp/B091G4YP57) ([buy](https://www.amazon.com/dp/B091G4YP57))|$30|1080p|NO|10/+|dual ac 2x2|Opt (9)|YES|Opt (8a)|BT 5.0 LE, PT:LS DA/DTS, 1.7Ghz/1GB/8GB
-[Amazon Fire TV cube](https://www.amazon.com/dp/B0BFD4M9C8) ([buy](https://www.amazon.com/dp/B0BFD4M9C8))|$140|4K@60|YES|10/+/DV|tri ax 2x2-6E|10/100 (9)|YES|YES (**8b**)|3rd gen, AV1, PT:**LL DA**/DTSHD,DC:LL DA->PCM, 2.2Ghz/2GB/16GB, NTFS
+**[Amazon Fire TV stick 4K MAX (2023)](https://www.amazon.com/dp/B0BP9SNVH9)** ([buy](https://www.amazon.com/dp/B0BP9SNVH9))|**$60**|4K@60|YES|10/+/DV|tri ax 2x2-6e|Opt (9a)|YES|Opt (8a)|2nd gen, AV1, DV-4/5/8/9/10, PT:**LL DA**/DTSHD, 2.0Ghz/2GB/16GB
+[Amazon Fire TV stick 4K MAX (2021)](https://www.amazon.com/dp/B08MQZXN1X) ([buy](https://www.amazon.com/dp/B08MQZXN1X))|$55|4K@60|YES|10/+/DV|dual ax 2x2-6|Opt (9a)|YES|Opt (8a)|1st gen, AV1, PT:LS DA, 1.8Ghz/2GB/8GB
+[Amazon Fire TV stick 4K (2023)](https://www.amazon.com/dp/B0CDR2MSVC) ([buy](https://www.amazon.com/dp/B0CDR2MSVC))|$40|4K@60|YES|10/+/DV|dual ax 2x2-6|Opt (9a)|YES|Opt (8a)|2nd gen, DV-4/5/8/9/10, PT:**LL DA**, 1.7Ghz/2GB/8GB
+[Amazon Fire TV stick](https://www.amazon.com/dp/B07ZZVX1F2/B08C1W5N87) ([buy](https://www.amazon.com/dp/B07ZZVX1F2/B08C1W5N87))|$40|1080p|NO|10/+|dual ac 2x2|Opt (9a)|YES|Opt (8a)|3rd Gen, DC: LS DA, PT:LS DA/DTS, 1.7Ghz/1GB/8GB
+[Amazon Fire TV stick Lite](https://www.amazon.com/dp/B091G4YP57) ([buy](https://www.amazon.com/dp/B091G4YP57))|$30|1080p|NO|10/+|dual ac 2x2|Opt (9a)|YES|Opt (8a)|BT 5.0 LE, PT:LS DA/DTS, 1.7Ghz/1GB/8GB
+[Amazon Fire TV cube](https://www.amazon.com/dp/B0BFD4M9C8) ([buy](https://www.amazon.com/dp/B0BFD4M9C8))|$140|4K@60|YES|10/+/DV|tri ax 2x2-6E|10/100 (9a)|YES|YES (**8b**)|3rd gen, AV1, PT:**LL DA**/DTSHD,DC:LL DA->PCM, 2.2Ghz/2GB/16GB, NTFS
 [Roku Express](https://www.roku.com/products/roku-express) ([buy](https://smile.amazon.com/Roku-Express-Streaming-Media-Player/dp/B07WVFCVJN))|$25|1080p|NO|NO|n|No|No|No|DD, PT:LS DTS/DA
 [Roku Express 4K](https://www.roku.com/products/roku-express-4k)/[+](https://www.roku.com/products/roku-express-4k-plus) ([buy](https://www.walmart.com/ip/Roku-Express-4K-2021-Streaming-Media-Player-HD-4K-HDR-with-Smooth-Wireless-Streaming-and-Simple-Remote-includes-Premium-HDMI-Cable/651641821)/[buy](https://amzn.to/3g56Djl))|$35/$40|4k@60|YES|10/+|dual ac|No/Opt|No/YES|Opt|DC:DD/PT:LS DTS/DA
 **[Roku Streaming 4K](https://www.roku.com/products/roku-streaming-stick-4k)** ([buy](https://www.amazon.com/Roku-Streaming-Device-Vision-Controls/dp/B09BKCDXZC))|**$50**|4k@60|YES|10/+/DV|dual ac 2x2|No|YES|No|1GB, DC:DD/PT:LS DTS/DA. Model: 3820R2
@@ -387,16 +387,16 @@ NOTE: Buy links to Amazon go through Amazon Smile to support your favorite chari
 
 (8a) FAT32, (8b) NTFS+EXFAT+FAT32, (8c) EXFAT+FAT32. "Opt" devices must use [OTG](https://www.amazon.com/s?k=OTG+power+cable&i=electronics) cable 
 
-(9) [Ethernet Adapter](https://www.amazon.com/Cable-Matters-Streaming-Including-Chromecast/dp/B07N2ZHFY9/) <= 350 Mbps, (9a) [Ethernet Adapter](https://www.amazon.com/Cable-Matters-Gigabit-Ethernet-Charging/dp/B08NXS46DN) <= 350 Mbps 
+(9a) micro-usb [Ethernet Adapter](https://www.amazon.com/Cable-Matters-Streaming-Including-Chromecast/dp/B07N2ZHFY9/), (9b) usb-c [Ethernet Adapter](https://www.amazon.com/Cable-Matters-Gigabit-Ethernet-Charging/dp/B08NXS46DN), (9c) usb-a [Ethernet Adapter](https://www.amazon.com/gp/product/B00BBD7NFU/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1). <= 350 Mbps 
 
 (10) w/[CableCreation Active DP 1.4->HDMI Cable](https://www.amazon.com/CableCreation-Unidirectional-DisplayPort-Eyefinity-Multi-Display/dp/B082CXMBCQ) 
 
 <!--
 DISCONTINUED
 [Apple TV 4k (2021)](https://www.apple.com/apple-tv-4k/) ([buy](https://www.apple.com/shop/buy-tv/apple-tv-4k))|$179/$199|4k@60|YES|10/DV|ax|1000M|YES|No|2nd gen, A12, 3GB/32-64GB, DV-5/8, DC:DTHD/DTSHD->PCM, PT:LS DA, BT 5.0
-[Amazon Fire TV stick 4K (2018)](https://www.amazon.com/all-new-fire-tv-stick-4k-with-alexa-voice-remote/dp/B08XVYZ1Y5) ([buy](https://www.amazon.com/all-new-fire-tv-stick-4k-with-alexa-voice-remote/dp/B08XVYZ1Y5))|$40|4K@60|YES|10/+/DV|dual ac 2x2|Opt (9)|YES|Opt (8a)|1st gen, PT:LS DA, 1.7Ghz/1.5GB/8GB
+[Amazon Fire TV stick 4K (2018)](https://www.amazon.com/all-new-fire-tv-stick-4k-with-alexa-voice-remote/dp/B08XVYZ1Y5) ([buy](https://www.amazon.com/all-new-fire-tv-stick-4k-with-alexa-voice-remote/dp/B08XVYZ1Y5))|$40|4K@60|YES|10/+/DV|dual ac 2x2|Opt (9a)|YES|Opt (8a)|1st gen, PT:LS DA, 1.7Ghz/1.5GB/8GB
 [ChromeCast w/Google TV HD](https://store.google.com/product/chromecast_google_tv) ([buy](https://store.google.com/product/chromecast_google_tv))|$30|1080p|No|10/+|dual ac|Opt|YES|Opt (8a)|AV1, DC:DD+, PT:LS DA/DTS, S805X2, 1.5GB/8GB
-**[ChromeCast w/Google TV 4k](https://store.google.com/product/chromecast_google_tv)** ([buy](https://store.google.com/config/chromecast_google_tv))|**$50**|4k@60|YES|10/+/DV|dual ac|Opt (9a)|YES|Opt (8a)|2nd gen. AV1, DV-5/8, DC:DD+, PT:LS DA/DTS, S905D3 1.9Ghz/2GB/8GB
+**[ChromeCast w/Google TV 4k](https://store.google.com/product/chromecast_google_tv)** ([buy](https://store.google.com/config/chromecast_google_tv))|**$50**|4k@60|YES|10/+/DV|dual ac|Opt (9b)|YES|Opt (8a)|2nd gen. AV1, DV-5/8, DC:DD+, PT:LS DA/DTS, S905D3 1.9Ghz/2GB/8GB
 -->
 
 ## What is the best client device to stream content to my TV?
