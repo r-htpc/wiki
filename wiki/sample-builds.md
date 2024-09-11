@@ -102,7 +102,7 @@ $175-$500: SMALL/MEDIUM: AMD - Ryzen **3x**00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd
   - $350-400: High (<= PS3)
     - [Beelink SER6](https://www.amazon.com/Beelink-SER6-Desktop-Computer-Display/dp/B0CZNV3RRY)/[Minisforum UM690S](https://www.amazon.com/MINISFORUM-UM690-6900HX-Threads-Bluetooth5-2/dp/B0BP1S1YNS/)  
   - $500+: Ultra (<= Xbox 360)
-    - [Minisforum UM790 Pro](https://store.minisforum.com/collections/game-mini-pc/products/minisforum-um790-pro?variant=44134865731829)/[Beelink SER7](https://www.amazon.com/Beelink-SER7-7840HS-Computer-Display/dp/B0CQT9N951)
+    - [Beelink SER7](https://www.amazon.com/Beelink-SER7-7840HS-Computer-Display/dp/B0CQT9N951)/[Minisforum UM790 Pro](https://store.minisforum.com/collections/game-mini-pc/products/minisforum-um790-pro?variant=44134865731829) 
 
  See [ETA PRIME](https://www.youtube.com/@ETAPRIME) YT channel for Emulation device reviews  
 
@@ -162,7 +162,7 @@ $175-$500: SMALL/MEDIUM: AMD - Ryzen **3x**00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd
 - $750 - 4k, high-bitrate, Medium Transcoding: Nvidia Shield Pro (client) + Beelink SEI 12 i5-12450H (server) + Terramaster F4-212 (storage)
 
   - 4k HDR10/DV-5/7/8, Dolby TrueHD Atmos, DTS:X, 6x4k,20x1080p transcodes, 4xHDDs (WD Ultrastar/Seagate Exos), Ubuntu, Plex Pass/Jellyfin
-  - For more transcodes, switch server to [Minisforum NAB6 Lite](https://store.minisforum.com/products/minisforum-nab6?variant=45202603770101)
+  - For more transcodes, switch server to [Minisforum NAB6 Lite](https://store.minisforum.com/products/minisforum-nab6?variant=45797300863221)
 
 <!-- Section -->
 
