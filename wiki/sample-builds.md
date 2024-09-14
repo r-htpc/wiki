@@ -80,7 +80,7 @@ $175-$500: SMALL/MEDIUM: AMD - Ryzen **3x**00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd
 
  - *Used for:* H26x/VP9 local content, 4k netflix/YT, web browsing, **int. 3.5" storage/ODD (SFF/MT models)**, **light gaming**, low power (xxxxGE cpu models).  
 
- - USED: [HP EliteDesk 705 G5](https://www.ebay.com/sch/179/i.html?_from=R40&_nkw=hp+705+g5+%283200g%2C3400g%29&LH_TitleDesc=1&_sop=15&LH_PrefLoc=2&rt=nc&LH_BIN=1) + [HDMI 2.0 card - 3TK75AA](https://www.ebay.com/sch/i.html?_from=R40&_nkw=hdmi+705+%283TK75AA%2CL25757%29&_sacat=0&_odkw=hdmi+%283TK75AA%2CL25757%29&_osacat=0&_nls=2&_dmd=1) ($175-$300)
+ - USED: [HP EliteDesk 705 G5](https://www.ebay.com/sch/179/i.html?_from=R40&_nkw=hp+705+g5+%283200g%2C3400g%29&LH_TitleDesc=1&_sop=15&LH_PrefLoc=2&rt=nc&LH_BIN=1) + [HDMI 2.0 card - 3TK75AA](https://www.ebay.com/sch/i.html?_from=R40&_nkw=hdmi+705+%283TK75AA%2CL25757%29&_sacat=0&_odkw=hdmi+%283TK75AA%2CL25757%29&_osacat=0&_nls=2&_dmd=1) ($140-$300)
 
  - NEW: [Lenovo M75s Gen 2 SFF](https://www.ebay.com/sch/i.html?_from=R40&_nkw=lenovo+m75s+gen+2&_sacat=179&LH_TitleDesc=0&_sop=15&rt=nc&LH_ItemCondition=1500%7C1000) + [CableCreation Active DP 1.4->HDMI Cable](https://www.amazon.com/CableCreation-Unidirectional-DisplayPort-Eyefinity-Multi-Display/dp/B082CXMBCQ) ($500)
 
@@ -94,7 +94,7 @@ $175-$500: SMALL/MEDIUM: AMD - Ryzen **3x**00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd
 - Emulation/Light Gaming:
   - $85: Low (<= Gamecube)
     - [Odroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-4gbyte-ram-2/) (S922X)  
-  - $175-200: Med (<= Wii/PS2)
+  - $150-200: Med (<= Wii/PS2)
     - [HP EliteDesk 705 G5](https://www.ebay.com/sch/179/i.html?_from=R40&_nkw=hp+705+g5+%283200g%2C3400g%29&LH_TitleDesc=1&_sop=15&LH_PrefLoc=2&rt=nc&LH_BIN=1) (AMD 3400G)
     - [Minisforum UN300](https://www.amazon.com/MINISFORUM-LPDDR5-i3-N300-Threads-USB3-2/dp/B0CQYW121V) (N300)  
   - $300: Med+ (<= Switch)
