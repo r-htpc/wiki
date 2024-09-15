@@ -413,6 +413,8 @@ If you need an **active Displayport** to HDMI adapter, buy one from a reputable 
 
 If you need a USB-C to HDMI adapter, we recommend Cable Matters [Adapter](https://www.amazon.com/Cable-Matters-Braided-Adapter-Aluminum/dp/B08KSMK87K)/[Cable](https://www.amazon.com/Cable-Matters-USB-C-Supporting-Black/dp/B073H9RG9T) for 4K@60Hz and Cable Matters [Adapter](https://www.amazon.com/dp/B08MSWMXT4)/[Cable](https://www.amazon.com/dp/B08QDV5H4M) for up to 4K@120Hz.  
 
+If you need a DVI to HDMI cable, we recommend [BlueRigger](https://www.amazon.com/BlueRigger-High-Speed-Adapter-Cable/dp/B004S4R5CK)  
+
 <!-- Sub-Section -->
 
 ### Keyboards/Remotes/Gamepads
