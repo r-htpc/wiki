@@ -90,29 +90,27 @@ SCART: Old European standard for AV equiptment audio and video. Analog: 2 channe
 
 See also: [Video Software](/wiki/video#video-software)  
 
-**Players**
+**Players/Utilities**
 
-1. [Kodi](https://kodi.tv) - An open source media player/center.  
+1. [Foobar2000](https://www.foobar2000.org/) - Audio Player
+ - Support for Windows, Mac, Mobile  
+2. [Exact Audio Copy](https://www.exactaudiocopy.de/)/[Fre:ac](https://www.freac.org/) - Audio CD Ripper/converter
+ - Support for Windows, Mac, Linux
+3. [MusicBrainz Picard](https://picard.musicbrainz.org/) - Audio ID tagger
+ - Support for Windows, Mac, Linux
+4. [JRiver Media Center](https://jriver.com/) - A commercial media player/center
+ - Support for Windows, Mac, Linux  
+ - Extensive plug-in support  
+5. [Kodi](https://kodi.tv) - An open source media player/center.  
  - Support for Windows, Linux, Mac, Android  
  - Extensive plug-in support  
-2. [Plex](https://plex.tv) - A media player that interfaces with the Plex Media Server and plex.tv video content  
- - Support for Windows, Linux, Mac, Android  
-3. [VLC](https://www.videolan.org/vlc/)  
- - Support for Windows, Linux, Mac, Android  
-4. [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases)/[MPC-HC](https://github.com/clsid2/mpc-hc/releases/)  
+6. [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases)/[MPC-HC](https://github.com/clsid2/mpc-hc/releases/) - A popular media player 
  - Support for Windows  
  - Extensive feature-set
-5. [JRiver Media Center](https://jriver.com/)  
- - Support for Windows, Mac, Linux  
-6. PotPlayer  
- - Not open source
-7. [MPV](https://mpv.io)  
+7. [Plex](https://plex.tv) - A media player that interfaces with the Plex Media Server and plex.tv video content  
  - Support for Windows, Linux, Mac, Android  
- - Minimal GUI
-8. [Foobar2000](https://www.foobar2000.org/)
- - Audio player
-9. [Exact Audio Copy](https://www.exactaudiocopy.de/)/[Fre:ac](https://www.freac.org/)
- - Audio CD Ripper
+8. [VLC](https://www.videolan.org/vlc/) - A simple media player 
+ - Support for Windows, Linux, Mac, Android  
 
 **3rd Party**
 
