@@ -549,11 +549,9 @@ This can be because of a feature called Hot Plug Detection on your graphics cabl
 
 *Hardware*  
 
-You can disable HPD by taping over the relevant pin on the cable coming out of your HTPC. On HDMI, this is pin 19. VGA, pin 12. DVI, pin 16. [Displayport, pin 18](https://www.electronicshub.org/wp-content/uploads/2021/04/Display-Port-Pinout.jpg). See [here](http://i.stack.imgur.com/Q1ZoJ.jpg) and [here](https://i.stack.imgur.com/k1PeR.gif) for pictures on a HDMI cable.  
-
-<!--
-You can introduce a 1x2 HDMI Splitter on the cable coming out of your HTPC, while leaving the splitter's 2nd output unconnected. The video signal should remain active as long as the splitter is still powered on, even if the connected display is off.
--->
+You can disable HPD, either by:
+1. Taping over the relevant male connector pin on the cable coming out of your HTPC. On HDMI, this is pin 19. VGA, pin 12. DVI, pin 16. [Displayport, pin 18](https://myelo.elotouch.com/support/servlet/rtaImage?eid=ka01E0000004rEY&feoid=00N1E000006Nm3v&refid=0EM1E000002gndA). See [here](http://i.stack.imgur.com/Q1ZoJ.jpg) and [here](https://live.staticflickr.com/8055/8091356838_cdd27cbb56_z.jpg) for pictures on a HDMI cable.
+2. Using a 1x2 [HDMI splitter](/wiki/audio#accessories) in between your GPU and Sound System, while leaving the splitter's 2nd output unconnected. The video signal should remain active as long as the splitter is still powered on, even if the connected display is off.
 
 *Software*  
 
