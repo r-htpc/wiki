@@ -164,7 +164,7 @@ Where this doesn't work is when the sound system:
 1. Doesn't support the required video resolution/refresh rate for passthrough to the display. e.g. you want to pass through 4k video to a 4k tv but the sound system only supports 1080p passthrough. See alternate scenarios below.  
 2. Doesn't have both input and output hdmi ports (e.g. cheap soundbars with only 1 HDMI ARC port) or no HDMI ports (only S/PDIF/Optical). See alternate scenarios below.  
 
-**Scenario #2** - Your display has a HDMI (e)ARC or Optical port
+**Scenario #2** - Your display & sound system have a HDMI (e)ARC or Optical port
 
 <a href="https://i.imgur.com/3HpEIni.png"><img src="https://i.imgur.com/3HpEIni.png" width="550" height="300" alt="DIAGRAM"></a>
 
@@ -182,7 +182,7 @@ This will send audio through your display. This is common for VRR (gsync/freesyn
 
  Audio supported: Stereo PCM, Lossy DD 5.1/DTS 5.1 (ARC) or All (eARC) - Dependent on your display's audio pass-through support. See your display's manual or [rtings.com](https://rtings.com/tv) reviews for what audio codecs are supported and how to configure your display to pass-through/bitstream audio. If your display can't pass-through the codecs you want, see below scenarios. **If your display supports eARC but your sound system doesn't**, use an [eARC extractor](https://www.amazon.com/ViewHD-Adapter-Audio-Receiver-Application/dp/B08ZHCS5D9) between the display and the sound system's HDMI **input**.  
 
-**Scenario #3** - Your display does not have HDMI (e)ARC/optical ports but your HTPC does have multiple display outputs (hdmi/displayport/usb-c display out)
+**Scenario #3** - Your HTPC has/[could have](/wiki/components#gpusgraphics) multiple display outputs (hdmi/displayport/usb-c display out)
 
 <img src="https://i.imgur.com/mrtX8DH.png" width="550" height="300" alt="DIAGRAM">
 
