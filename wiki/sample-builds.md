@@ -59,7 +59,7 @@ $70-$85: SMALLEST: SBC: w/CoreELEC OS, 32GB MicroSD, AC Adapter
 
  - **[Odroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ($72)** 
 
-$125-$400: SMALLER: Intel/AMD Mini PC, 8GB+ RAM, 256GB+ SSD
+$150-$400: SMALLER: Intel/AMD Mini PC, 8GB+ RAM, 256GB+ SSD
 
 - *Used for:* H264/H265, VP9, **AV1** local content, 4k netflix/YT, web browsing, int. 2.5" storage, plex server (intel), light gaming (SEI11, SER6), lower power.  
 - **Intel: [Beelink S12/S12 Pro](https://www.amazon.com/s?k=beelink+s12&i=computers&rh=n%3A13896591011&s=price-asc-rank&ds=v1%3A0rP7%2FYir5%2B3dWoX4iUAxynwHuR7nrtIQNpWFwPZIfME&qid=1701365434&ref=sr_st_price-asc-rank) (N95/N100) ($150+)**
