@@ -111,6 +111,8 @@ See also: [Video Software](/wiki/video#video-software)
  - Minimal GUI
 8. [Foobar2000](https://www.foobar2000.org/)
  - Audio player
+9. [Exact Audio Copy](https://www.exactaudiocopy.de/)/[Fre:ac](https://www.freac.org/)
+ - Audio CD Ripper
 
 **3rd Party**
 
