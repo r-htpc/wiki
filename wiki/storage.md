@@ -66,7 +66,7 @@ If you have the money to spend on a pre-built NAS and your requirements will not
 ## Hardware
 
 ### Pre-Built NAS  
-**(as of 2024-03-13)**  
+**(as of 2024-09-14)**  
 
 The best option where cpu/mem requirements are not large and will not shift drastically. Becomes less cost effective as the number of drives increase, but may be justified if you really don't want to learn the ins/outs of DiY network storage and just want an easy, low-maintenance setup with a purpose-built pre-installed OS.  
 
@@ -98,6 +98,7 @@ BRAND		|	MODEL				|	DRIVES	|COST	|	TRANSCODING		|	CPU								|	PASSMARK	|	PM/$|	
 Terramaster	|	F4-424 Pro				|	4	|	$700	|	4k (0a)	|	x64 (i3-N305) 3.8 Ghz	|		10060	|	14.37	|RAID 0/1/5/6/10,JBOD,Single|ext4/btrfs, 32GB RAM, 2x2.5 Gb/s
 **Terramaster**	|	**F4-424**				|	4	|	$500	|	4k (1a)	|	x64 (Celeron N95) 3.4 Ghz	|		5419	|	10.83	|RAID 0/1/5/6/10,JBOD,Single|ext4/btrfs, 8GB RAM, 2x2.5 Gb/s
 **QNAP**		|	**TS-364-4G**				|	3	|	$450	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094	|	 9.09	|RAID 0/1/5,JBOD,Single|ext4, 4GB RAM, 2.5 Gb/s
+Terramaster	|	[F6-424](https://www.terra-master.com/us/products/homesoho-nas/f6-424.html?page=menu&mid=1588)				|	6	|	$600	|	4k (1a)	|	x64 (Celeron N95) 3.4 Ghz	|		5419	|	9.03	|RAID 0/1/5/6/10,JBOD,Single|ext4/btrfs, 8GB RAM, 2x2.5 Gb/s
 Terramaster		|	[F4-423](https://www.terra-master.com/us/f4-4607.html)				|	4	|	$500	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094	|	 8.18	|RAID 0/1/5/6/10, JBOD, Single|ext4/btrfs, 4GB RAM , 2.5 Gb/s
 ASUSTOR		|	AS-5404T			|	4	|	$530	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094|	7.74	|RAID 0/1/5/6/10,JBOD,Single|4GB RAM, 2x2.5Gb/s, ext4/btrfs
 QNAP		|	TS-464-4G				|	4	|	$550	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094	|	 7.44	|RAID 0/1/5/6/10, JBOD,Single|ext4, 4GB RAM, 2.5 Gb/s
@@ -373,5 +374,5 @@ If your storage is on a windows-based OS, [follow these instructions](https://su
 
 ---
 
-*This page was last updated on 2024-08-04*
+*This page was last updated on 2024-09-14*
 
