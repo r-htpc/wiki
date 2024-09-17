@@ -369,7 +369,7 @@ BRAND/MODEL|PRICE|RESOLUTION|4k NETFLIX?|HDR?|WIFI?|LAN?|VOICE SEARCH?|USB?|NOTE
 **[Nvidia Shield TV Pro](https://www.nvidia.com/en-us/shield/shield-tv-pro/)** ([buy](https://smile.amazon.com/NVIDIA-Shield-Streaming-Player-Performance/dp/B07YP9FBMM))|**$199**|4k@60|YES|10/DV|ac|1000M|YES|YES (**8b**)|**DV-5/7/8**, PT:**LL DA/DTSX** DC:DA, 3GB/16GB, NTFS
 [Nvidia Shield TV (2017)](https://www.nvidia.com/en-us/shield/shield-tv/) ([buy](https://smile.amazon.com/NVIDIA-SHIELD-Gaming-Streaming-GeForce/dp/B075RXV2VR))|$179|4k@60|YES|10|ac|1000M|YES|YES (8b)|PT:**LL DA/DTSX**, 16GB, NTFS
 [Xbox One S/X](https://www.xbox.com/en-US/xbox-one/consoles) ([buy](https://smile.amazon.com/gp/bestsellers/electronics/6469295011))|$200-$400|4k@60|YES|10/DV|dual-ac|1000M|No|YES (8b)|PT:LL DA/DTSX, 1TB, UHD-BR
-Mini PC: i3/i5-8x00T ([buy](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28hp%2Cdell%2Clenovo%29+%28i3-8100%2Ci5-8400%2Ci5-8500%29&_sacat=179&LH_TitleDesc=0&LH_BIN=1&_sop=15&_udhi=150&_blrs=recall_filtering))|$80|4k@60 (10)|YES (10)|10 (10)|n/ac|1000M|NO|YES (8b)|PT:**LL DA/DTSX**
+Mini PC: i3/i5-8x00T ([buy](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28dell%29+%28i3-8100%2Ci5-8400%2Ci5-8500%29&_sacat=179&LH_TitleDesc=0&LH_BIN=1&_sop=15&_udhi=150&_blrs=recall_filtering))|$100|4k@60 (10a)|YES|10|n/ac|1000M|NO|YES (8b)|PT:**LL DA/DTSX**
 Mini PC: Intel N100 ([buy](https://www.amazon.com/s?k=n95+n100+mini+pc&crid=GPL0MOIHFBH&sprefix=n95+n100+mini+p%2Caps%2C102&ref=nb_sb_noss_2))|$150|4k@60|YES|10|ac|1000M|NO|YES (8b)|AV1, PT:**LL DA/DTSX**. w/RAM&SSD
 Mini PC: [Intel NUC i3/i5/i7](https://www.intel.com/content/www/us/en/products/boards-kits/nuc.html) ([buy](https://www.newegg.com/p/pl?N=100008345%20601398037%20601398023%20601398021%20601398031%20601407140%20601398048%20601398010%20601398014%20601398049%20601398018%20601398044%20601398008%20601398042%20601398025%20601398029%20601398043%20601398019%2050001157&SrchInDesc=-hunsn%2C-Aittact&Order=1))|$300-$900|4k@60|YES|10|ac|1000M|NO|YES (8b)|AV1 (3), PT:**LL DA**/DTSX. add $45 for 8GB RAM/128GB SSD
 
@@ -389,7 +389,7 @@ NOTE: Buy links to Amazon go through Amazon Smile to support your favorite chari
 
 (9a) micro-usb [Ethernet Adapter](https://www.amazon.com/Cable-Matters-Streaming-Including-Chromecast/dp/B07N2ZHFY9/), (9b) usb-c [Ethernet Adapter](https://www.amazon.com/Cable-Matters-Gigabit-Ethernet-Charging/dp/B08NXS46DN), (9c) usb-a [Ethernet Adapter](https://www.amazon.com/gp/product/B00BBD7NFU/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1). <= 350 Mbps 
 
-(10) w/[CableCreation Active DP 1.4->HDMI Cable](https://www.amazon.com/CableCreation-Unidirectional-DisplayPort-Eyefinity-Multi-Display/dp/B082CXMBCQ) 
+(10a) w/[HDMI 2.0 card](https://www.ebay.com/sch/i.html?_from=R40&_nkw=dell+hdmi+2.0+%28HXPK2%2C1KNYY%2CR07CP%2C5N1NY%29&_sacat=0&_sop=12) 
 
 <!--
 DISCONTINUED
