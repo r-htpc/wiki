@@ -72,6 +72,7 @@ Below are the minimum CPUs required for each scenario and a recommendation. **Al
 
 - **Best All-Rounder: AMD Ryzen 4600G, Intel i3-12100**
   - Both CPUs will play 4K/HDR/h264/h265/VP9 media just fine and run 4k@60hz. The 4600G will have more graphics power for emulation/casual gaming, but the 12100 will have newer AV1 media decoding, so is a little more future-proofed.
+  - If the 4600G isn't available in your region, then the 5500GT or 5600GT.
 
 - 1080p, No gaming: Intel >= i3/i5/i7-7xxx iGPU, Pentium G4xxx or Apollo/Gemini Lake J3xxx, AMD Athlon 3000G, AMD >= Ryzen 3 2200G APU (REC: Intel G7400)  
 
