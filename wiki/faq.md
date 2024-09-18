@@ -25,11 +25,11 @@ Specific hardware can be a TV tuner card, high-end sound card, other decoder car
 
 [Specific software can be media players, codecs, certain operating systems and specialized media software interfaces](/wiki/faq#what-software-will-i-need-and-how-do-i-set-it-up).
 
-Media can be video content from [ripped personal discs](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use), [streaming services](/wiki/faq#can-i-use-my-htpc-for-streaming-from-services-such-as-netflix-amazon-hulu-etc), audio, photos, or emulation gaming content.  
+Media can be video content from [ripped personal discs](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use), [streaming services](/wiki/faq#can-i-use-my-htpc-for-streaming-from-services-such-as-netflix-youtube-amazon-hulu-etc), audio, photos, or emulation gaming content. If you are planning on playing streaming services in >= 1080p, or >= 5.1 sound, you should use a [media device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) instead. A traditional HTPC [lacks HD video/audio for a lot of the streaming services](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x) and is poor at navigating them.
 
 As computing power has gotten smaller and smaller, traditional PCs have given way to integrated media devices which have blurred the line over what a PC is.
 
-A media device such as a Roku player is very small and performs most of the functions a PC does, with CPU, memory, storage, operating system, etc.. The biggest distinction is that [these devices](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) are usually designed specifically for playing media in a Home Theater setting. 
+A media device such as a Roku player is very small and performs most of the functions a PC does, with CPU, memory, storage, operating system, etc.. The biggest distinction is that [these devices](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) are usually designed specifically for playing streaming media in a Home Theater setting. 
 
 MOST of these small devices simply act as clients; to internet streaming services, like Netflix and/or personal content you have on local or network storage. 
 
@@ -47,7 +47,7 @@ What is NOT a HTPC: Playing media just on your laptop. Playing media at your des
 
 A HTPC whether it be a PC or media device, can act as a client, a server, both or standalone.  
 
-For instance, it can act standalone and play media from [internal storage](/wiki/storage) or [streaming services](/wiki/faq#can-i-use-my-htpc-for-streaming-from-services-such-as-netflix-amazon-hulu-etc) to a connected TV/sound system.  
+For instance, it can act standalone and play media from [internal storage](/wiki/storage) or [streaming services](/wiki/faq#can-i-use-my-htpc-for-streaming-from-services-such-as-netflix-youtube-amazon-hulu-etc) to a connected TV/sound system. If you are planning on playing streaming services in >= 1080p, or >= 5.1 sound, you should use a [media device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) instead. A traditional HTPC [lacks HD video/audio for a lot of the streaming services](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x) and is poor at navigating them.  
 
 It can be a client connected to a TV/sound system and then [connect to a server](/wiki/faq#can-i-streamhow-do-i-serve-my-content-from-another-computer-or-a-networked-storage-device) which provides it the media to play.  
 
@@ -61,8 +61,7 @@ You should first decide which of these roles you need based on your use-case, bu
 You should reference the [video](/wiki/video)/[audio](/wiki/audio)/[storage](/wiki/storage) sections of the wiki as a guide to overall concepts if you're not familiar with them while researching a solution.  
 
 A simple setup may just have a standalone PC (pre-built or DiY) with the [appropriate software](/wiki/faq#what-software-will-i-need-and-how-do-i-set-it-up) 
-or a [media device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc). Usually if streaming or a remote-based interface is a priority, then a media device is best, where a PC is better for more customization, 
-keyboard/mouse interaction or lots of storage.  
+or a [media device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc). Usually if streaming or a remote-based interface is a priority, then a media device is best, where a PC is better for more customization, local content, keyboard/mouse interaction or lots of storage.  
 
 An advanced setup with might have a server/storage tucked away somewhere and one or more client PCs/media devices connected to each display.  
 
@@ -78,13 +77,9 @@ Once you build/buy your solution, you can then follow the recommendations in the
 
 Here are recommendations for the most common scenarios, if you don't want to read our whole wiki and/or build something..
 
-Streaming services only, no HD audio: Fire TV 4K stick (Amazon ecosystem) ($40), Chromecast w/Google TV (Google ecosystem) ($50)  
+Streaming services only: Fire TV 4K stick (Amazon ecosystem) ($40), Onn 4k (Google ecosystem) ($30)  
 
-Streaming services only, HD audio: Nvidia Shield Tube ($150)  
-
-Streaming services + 4K local content (high bitrate w/great > 200Mbps wifi), no HD audio: Fire TV 4K Max stick ($55), Chromecast w/Google TV 4k (Google ecosystem) ($50)  
-
-Streaming services + 4K local content (high bitrate w/poor <= 200Mbps wifi), no HD audio: Fire TV 4K Max stick+[USB Ethernet adapter](https://www.amazon.com/Cable-Matters-Streaming-Including-Chromecast/dp/B07N2ZHFY9) ($65), Xiaomi Mi Box S+[USB Ethernet Adapter](https://www.amazon.com/UGREEN-Network-Ethernet-Supports-Nintendo/dp/B00MYTSN18) ($75)  
+Streaming services + 4K local content, no HD audio: Fire TV 4K Max stick ($55), Onn 4k Pro (Google ecosystem) ($50). If poor wifi env, add [micro-USB](https://www.amazon.com/Cable-Matters-Streaming-Including-Chromecast/dp/B07N2ZHFY9) or [usb-a](https://www.amazon.com/gp/product/B00BBD7NFU/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) ethernet adapter.  
 
 Streaming services + 4K local content, HD audio: Nvidia Shield Pro ($200)  
 
@@ -93,7 +88,7 @@ Streaming services + 4K local content, HD audio: Nvidia Shield Pro ($200)
 Cheap Emulation Gaming: Odroid [N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ($80) + EmuElec/Batocera OR Used: >= 
 [SFF/USFF PC - CPU >= i5-7500T, 8GB RAM, SSD](https://www.ebay.com/sch/i.html?_fsrp=1&rt=nc&_from=R40&_nkw=\(hp%2Cdell%2Clenovo\)+\(i5-7500%2Ci5-8400\)+\(sff%2Cdt%2Cmt%2Cusff%2Cmicro%2Ctiny%2Cmini\)+ssd&_sacat=179&LH_BIN=1&LH_TitleDesc=0&_sop=15&_udhi=175&LH_ItemCondition=2010%7C2020%7C3000) ($75)
 
-1080p Casual Gaming: HP pre-built - [Ryzen 5600g/2x4GB RAM/>=256GB](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=hp+%285600g%2C5700g%29&_sacat=179&LH_TitleDesc=0&_odkw=hp+5700g&_osacat=179&LH_BIN=1&_sop=15) ($400-$500)
+1080p Casual Gaming: [Beelink SER5 Max (5800H) mini pc](https://www.amazon.com/s?k=beelink+5800h&crid=3AUBU1SOXW7YK&sprefix=beelink+5800h%2Caps%2C163&ref=nb_sb_noss_1) ($300)
 
 Single Layer Dolby Vision, HD audio: Nvidia Shield Pro ($200)  
 
@@ -103,11 +98,11 @@ Single Layer Dolby Vision, HD audio: Nvidia Shield Pro ($200)
 
 1080p local/streaming content + Web Browsing (standard), Windows: Used: >= [SFF/USFF PC - CPU >= i5-7500T, 8GB RAM, SSD](https://www.ebay.com/sch/i.html?_fsrp=1&rt=nc&_from=R40&_nkw=\(hp%2Cdell%2Clenovo\)+\(i5-7500%2Ci5-8400\)+\(sff%2Cdt%2Cmt%2Cusff%2Cmicro%2Ctiny%2Cmini\)+ssd&_sacat=179&LH_BIN=1&LH_TitleDesc=0&_sop=15&_udhi=175&LH_ItemCondition=2010%7C2020%7C3000) ($75) OR New: >= [N100 Mini PC](https://www.amazon.com/Beelink-Desktop-Computer-Ethernet-Family-NAS/dp/B0BWDGVCV7) ($150)   
 
-4K local/streaming content + Web Browsing (standard), Windows: Used: Intel i3 8th Gen [NUC (NUC8I3BEH)](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=nuc+%288i3%2C8i5%2C8109u%2C8130u%2C8th%29&_sacat=179&LH_TitleDesc=1&_odkw=nuc+%288i3%2C8i5%2C8109u%2C8130u%29&_osacat=179&_sop=15&LH_PrefLoc=2) ($150) OR New: [N100 Mini PC](https://www.amazon.com/Beelink-Desktop-Computer-Ethernet-Family-NAS/dp/B0BWDGVCV7) ($150)/[Beelink SEI 12](https://www.amazon.com/s?k=beelink+sei11&i=electronics&crid=2WL5SNSMMT01O&sprefix=beelink+sei11%2Celectronics%2C141&ref=nb_sb_noss_2) ($325)  
+4K local/streaming content + Web Browsing (standard), Windows: Used: Intel i3 8th Gen [NUC (NUC8I3BEH)](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=nuc+%288i3%2C8i5%2C8109u%2C8130u%2C8th%29&_sacat=179&LH_TitleDesc=1&_odkw=nuc+%288i3%2C8i5%2C8109u%2C8130u%29&_osacat=179&_sop=15&LH_PrefLoc=2) ($100) OR New: [N100 Mini PC](https://www.amazon.com/Beelink-Desktop-Computer-Ethernet-Family-NAS/dp/B0BWDGVCV7) ($150)/[Beelink SEI 12](https://www.amazon.com/s?k=beelink+sei11&i=electronics&crid=2WL5SNSMMT01O&sprefix=beelink+sei11%2Celectronics%2C141&ref=nb_sb_noss_2) ($325)  
 
 Media Server (no/1080p transcoding): Used: [SFF/USFF PC - CPU >= i3-7100T, 4GB RAM, SSD](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28hp%2Cdell%2Clenovo%29+%28i3-7100%29+ssd&_sacat=179&_fsrp=1&_odkw=%28hp%2Cdell%2Clenovo%29+%28i3-7100%29+ssd&_osacat=179&LH_BIN=1&_sop=15&_udhi=150) ($60) OR New: >= [N100 Mini PC](https://www.amazon.com/Beelink-Desktop-Computer-Ethernet-Family-NAS/dp/B0BWDGVCV7) ($150)  
 
-Media Server (4k transcoding):  Used: [SFF/USFF PC - CPU >= i5-7500T, 8GB RAM, SSD](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28hp%2Cdell%2Clenovo%29+%28i5-7500%2Ci5-8400%29+ssd&_sacat=179&LH_TitleDesc=0&_fsrp=1&rt=nc&_odkw=%5C%28hp%2Cdell%2Clenovo%5C%29+%5C%28i5-7500%2Ci5-8400%5C%29+%5C%28sff%2Cdt%2Cmt%2Cusff%2Cmicro%2Ctiny%2Cmini%5C%29+ssd&_osacat=179&LH_BIN=1&_sop=15&LH_ItemCondition=2010%7C2020%7C3000&_udhi=175) ($75) OR New: >= [N100 Mini PC](https://www.amazon.com/Beelink-Desktop-Computer-Ethernet-Family-NAS/dp/B0BWDGVCV7) ($150)   
+Media Server (4k transcoding):  Used: [SFF/USFF PC - CPU >= i5-8x00T, 8GB RAM, SSD](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28hp%2Cdell%2Clenovo%29+%28i5-8400t%2Ci5-8500t%29&_sacat=179&_fsrp=1&_odkw=%28hp%2Cdell%2Clenovo%29+%28i5-8400t%2Ci5-8500t%2Ci5-7400t%2Ci5-7500t%29&_osacat=179&LH_BIN=1&_sop=15&LH_PrefLoc=2&_udhi=150) ($90) OR New: >= [N100 Mini PC](https://www.amazon.com/Beelink-Desktop-Computer-Ethernet-Family-NAS/dp/B0BWDGVCV7) ($150)   
 
 Network Storage: [Storage Setup Guide](/wiki/storage)
 
