@@ -572,7 +572,7 @@ In addition, the following things may fix and/or help you identify your problem:
 2. Installing a different version of your operating system. e.g. Windows 10 instead of 11, or vice-versa.
 3. If you're using HDMI/DP for your audio, Re-installing your GPU drivers by first un-installing them with the [DDU Utility](https://www.guru3d.com/download/display-driver-uninstaller-download/).
 4. If you're using HDMI/DP for your audio, Trying newer or older versions of your GPU drivers.
-5. Replacing your audio cables, perhaps due to loss of signal integrity because of length or bad quality.
+5. Replacing your [audio](/wiki/audio#accessories)/[video](/wiki/components#video-cablesadapters) cables, perhaps due to loss of signal integrity because of excessive length, excessive terminations and/or bad cable quality.
 6. Running the [LatencyMon](https://www.resplendence.com/latencymon) utility during playback to help identify drop-out causes.
 
 <!-- Sub-Section -->
