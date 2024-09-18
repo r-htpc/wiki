@@ -394,6 +394,8 @@ Refer to [this table](https://images.idgesg.net/images/article/2018/02/formatdat
 
 There are a LOT of cable/adapter companies floating around on the internet. Some good. Some bad. NOTICE THE TREND OF WELL-KNOWN BRANDS BELOW. DO NOT MESS AROUND WITH NO-NAME CABLES OR ADAPTERS OF DUBIOUS QUALITY CONTROL. IF YOU DO, YOU'RE ON YOUR OWN!  
 
+Signal integrity on a cable drops the more cable terminations you make. **Avoid** cable terminations, like **couplers or wall-plates**, where at all possible! Test cable runs before commiting them to their final locations!  
+
 **HDMI Cables**
 
 For **4K@60Hz** or 1080p@120Hz, always get a "High Speed" cable that supports "18 Gbps". We HIGHLY recommended a cable that is "[Premium Certified](https://www.hdmi.org/spec/premiumcable)", which means that it has been tested by the HDMI spec organization up to the full 18 Gbps bandwidth and not the Standard speed of 10.2 Gbps. Do not settle for anything less than a wire thickness of 28 AWG up to 15 ft and 24 AWG up to 25 ft (lower AWG is thicker) for these passive type cables.  
