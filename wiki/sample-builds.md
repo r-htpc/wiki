@@ -187,7 +187,7 @@ PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 CASE/PSU		|Asrock Deskmini X300W					|$170	|Amazon	|MOBO/PSU included - 6.1" x 6.1" x 3.1"
 CPU			|AMD Ryzen 4600G APU (65W)					|	$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: Ryzen 5600G-5700G ($125-175)
 MEM			|Crucial 2x8GB DDR4-3200 SODIMM - CT2K8G4SFRA32A	|$40		|[amazon](https://www.amazon.com/Crucial-2x8GB-Laptop-Memory-CT2K8G4SFRA32A/dp/B08C4WV6FT)	|ALT: [2x8GB DDR4 SODIMM](https://pcpartpicker.com/products/memory/#xcx=0&b=ddr4&ff=ddr4_sodimm&sort=price&S=2666,8000&Z=16384002) ($30)
-STORAGE	 	|WD SN580 250GB NVMe M.2 SSD	(OS)				|$30		|[pcpartpicker](https://pcpartpicker.com/product/xx26Mp/western-digital-blue-sn580-250-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds250g3b0e)	|ALT: WD Black SN770 500 GB M.2 ($60)
+STORAGE	 	|WD SN580 250GB NVMe M.2 SSD	(OS)				|$30		|[pcpartpicker](https://pcpartpicker.com/product/xx26Mp/western-digital-blue-sn580-250-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds250g3b0e)	|ALT: WD Black SN770 500 GB M.2 ($45)
 COOL	 	|Noctua NH-L9a-AM4 CPU Cooler, 37mm					|$45		|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|OPTIONAL. Quieter than stock cooler
 TOTAL		|											|$385	||
 
@@ -199,7 +199,7 @@ CASE/PSU	|Inwin Chopin/BQ656					|	$100		|[google](https://www.google.com/search
 MOBO		|Gigabyte A520I AC ITX					|	$110	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&s=33&sort=price&page=1)			|ALT: ASRock A520M-ITX/ac
 CPU			|AMD Ryzen 4600G APU (65W)					|	$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: Ryzen 5600G-5700G ($125-175)
 MEM			|TEAMGROUP T-Force Vulcan Z 2x8GB DDR4-3200			|	$35		|[pcpartpicker](https://pcpartpicker.com/products/memory/#Z=16384002&sort=price&xcx=0&ff=ddr4&S=3200,7200&L=160,180)	|ALT: [2x4GB DDR4 DIMM](https://pcpartpicker.com/products/memory/#Z=8192002&sort=price&xcx=0&ff=ddr4) ($35)
-STORAGE	 	|WD SN580 250GB NVMe M.2 SSD	(OS)				|$30		|[pcpartpicker](https://pcpartpicker.com/product/xx26Mp/western-digital-blue-sn580-250-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds250g3b0e)	|ALT: WD Black SN770 500 GB M.2 ($60)
+STORAGE	 	|WD SN580 250GB NVMe M.2 SSD	(OS)				|$30		|[pcpartpicker](https://pcpartpicker.com/product/xx26Mp/western-digital-blue-sn580-250-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds250g3b0e)	|ALT: WD Black SN770 500 GB M.2 ($45)
 COOL		|Thermalright AXP90-X47 CPU Cooler, 47mm			|	$30		|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|OPTIONAL: Quieter than stock cooler
 TOTAL		|										|	$405	|	|
 
@@ -716,9 +716,9 @@ MOBO		|ASRock B760M-ITX/D4			|$150	|[pcpartpicker](https://pcpartpicker.com/prod
 CPU			|Intel i3-12100F						|$100	|[pcpartpicker](https://pcpartpicker.com/product/grhFf7/intel-core-i3-12100f-33-ghz-quad-core-processor-bx8071512100f)	|ALT: 1440p: Intel i5-12400F ($150)
 GPU			|Nvidia GTX 1660 Super		|$110	|[ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=gtx+1660+super&_sacat=0&LH_TitleDesc=0&rt=nc&_odkw=rtx+2060&_osacat=0&LH_BIN=1&_sop=15)	|ALT: 1440p: GTX 1070
 MEM			|Corsair Vengeance 16GB 2x8GB DDR4-3200	|$40		|[pcpartpicker](https://pcpartpicker.com/product/p6RFf7/corsair-memory-cmk16gx4m2b3200c16)	|
-STORAGE		|WD Black SN770 500GB NVMe M.2 SSD TLC	|$40		|[pcpartpicker](https://pcpartpicker.com/product/nWC48d/western-digital-500-gb-m2-2280-nvme-solid-state-drive-wds500g3x0e)	|ALT: [1TB M.2 SSD](https://pcpartpicker.com/product/YVytt6/western-digital-1-tb-m2-2280-nvme-solid-state-drive-wds100t3x0e) ($90)
+STORAGE		|WD Black SN770 500GB NVMe M.2 SSD TLC	|$45		|[pcpartpicker](https://pcpartpicker.com/product/nWC48d/western-digital-500-gb-m2-2280-nvme-solid-state-drive-wds500g3x0e)	|ALT: [1TB M.2 SSD](https://pcpartpicker.com/product/YVytt6/western-digital-1-tb-m2-2280-nvme-solid-state-drive-wds100t3x0e) ($70)
 PSU			|EVGA Supernova GM 550W Full Modular SFX			|$90		|[pcpartpicker](https://pcpartpicker.com/product/QgyV3C/evga-supernova-gm-550w-80-gold-certified-fully-modular-sfx-power-supply-123-gm-0550-y1)	|ALT: [Fractal Design Ion 500W](https://pcpartpicker.com/product/VMCFf7/fractal-design-ion-sfx-l-500-w-80-gold-certified-fully-modular-sfx-power-supply-fd-psu-ion-sfx-500g-bk)
-TOTAL		|									|$650	|	|
+TOTAL		|									|$655	|	|
 
 <!-- Sub-Section -->
 
