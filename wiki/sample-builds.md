@@ -187,7 +187,7 @@ PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 CASE/PSU		|Asrock Deskmini X300W					|$170	|Amazon	|MOBO/PSU included - 6.1" x 6.1" x 3.1"
 CPU			|AMD Ryzen 4600G APU (65W)					|	$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: Ryzen 5600G-5700G ($125-175)
 MEM			|Crucial 2x8GB DDR4-3200 SODIMM - CT2K8G4SFRA32A	|$40		|[amazon](https://www.amazon.com/Crucial-2x8GB-Laptop-Memory-CT2K8G4SFRA32A/dp/B08C4WV6FT)	|ALT: [2x8GB DDR4 SODIMM](https://pcpartpicker.com/products/memory/#xcx=0&b=ddr4&ff=ddr4_sodimm&sort=price&S=2666,8000&Z=16384002) ($30)
-STORAGE	 	|Sabrent Rocket 256GB NVMe M.2 SSD	(OS)				|$30		|[pcpartpicker](https://pcpartpicker.com/product/f4yV3C/sabrent-256-gb-m2-2280-solid-state-drive-sb-rocket-256)	|ALT: WD Black SN770 500 GB M.2 ($60)
+STORAGE	 	|WD SN580 250GB NVMe M.2 SSD	(OS)				|$30		|[pcpartpicker](https://pcpartpicker.com/product/xx26Mp/western-digital-blue-sn580-250-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds250g3b0e)	|ALT: WD Black SN770 500 GB M.2 ($60)
 COOL	 	|Noctua NH-L9a-AM4 CPU Cooler, 37mm					|$45		|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|OPTIONAL. Quieter than stock cooler
 TOTAL		|											|$385	||
 
@@ -199,7 +199,7 @@ CASE/PSU	|Inwin Chopin/BQ656					|	$100		|[google](https://www.google.com/search
 MOBO		|Gigabyte A520I AC ITX					|	$110	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&s=33&sort=price&page=1)			|ALT: ASRock A520M-ITX/ac
 CPU			|AMD Ryzen 4600G APU (65W)					|	$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: Ryzen 5600G-5700G ($125-175)
 MEM			|TEAMGROUP T-Force Vulcan Z 2x8GB DDR4-3200			|	$35		|[pcpartpicker](https://pcpartpicker.com/products/memory/#Z=16384002&sort=price&xcx=0&ff=ddr4&S=3200,7200&L=160,180)	|ALT: [2x4GB DDR4 DIMM](https://pcpartpicker.com/products/memory/#Z=8192002&sort=price&xcx=0&ff=ddr4) ($35)
-STORAGE	 	|Sabrent Rocket 256GB NVMe M.2 SSD	(OS)				|$30		|[pcpartpicker](https://pcpartpicker.com/product/f4yV3C/sabrent-256-gb-m2-2280-solid-state-drive-sb-rocket-256)	|ALT: WD Black SN770 500 GB M.2 ($60)
+STORAGE	 	|WD SN580 250GB NVMe M.2 SSD	(OS)				|$30		|[pcpartpicker](https://pcpartpicker.com/product/xx26Mp/western-digital-blue-sn580-250-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds250g3b0e)	|ALT: WD Black SN770 500 GB M.2 ($60)
 COOL		|Thermalright AXP90-X47 CPU Cooler, 47mm			|	$30		|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|OPTIONAL: Quieter than stock cooler
 TOTAL		|										|	$405	|	|
 
@@ -230,10 +230,10 @@ PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 CASE/MOBO/PSU		|Asrock DeskMeet X300W w/500W PSU					|$190	|[newegg](https://www.newegg.com/asrock-deskmeet-x300w-b-bb-box-us/p/N82E16856158083)	|6.6" (W) x 9.3" (D) x 8.7" (H), 2xHDD, [specs](https://www.asrock.com/nettop/AMD/DeskMeet%20X300%20Series/index.asp#Specification)
 CPU				|Ryzen 4600G (65W)							|$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: Ryzen 5600G-5700G ($125-175)
 MEM			|TEAMGROUP T-Force Vulcan Z 2x8GB DDR4-3200			|	$35		|[pcpartpicker](https://pcpartpicker.com/products/memory/#Z=16384002&sort=price&xcx=0&ff=ddr4&S=3200,7200&L=160,180)	|
-STORAGE			|Sabrent Rocket 512GB NVMe M.2 SSD TLC				|$45	|[pcpartpicker](https://pcpartpicker.com/product/nqc48d/sabrent-512-gb-m2-2280-solid-state-drive-sb-rocket-512)	|
+STORAGE			|WD SN580 500GB NVMe M.2 SSD TLC				|$40	|[pcpartpicker](https://pcpartpicker.com/product/kHRwrH/western-digital-blue-sn580-500-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds500g3b0e)	|
 STORAGE			|Hitachi Ultrastar 7K3000 3TB 7200rpm 3.5" HDD			|$46	|[amazon](https://smile.amazon.com/dp/B005QTSDDQ/?tag=pcpapi-20)	|OPTIONAL. ALT: 6TB WD Red ($100), 8TB Ironwolf ($130)
 COOL		|Thermalright AXP90-X47 CPU Cooler, 47mm			|	$30		|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|OPTIONAL: Quieter than stock cooler
-TOTAL			|											|$370	|	|
+TOTAL			|											|$365	|	|
 
 **Apex - Slim, 9.6L** 
 
@@ -243,10 +243,10 @@ CASE/PSU			|Apex MI-008 Mini ITX w/250W PSU					|$70	|[pcpartpicker](https://pcp
 CPU				|Ryzen 4600G (65W)							|$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: AV1: [Intel i3-12100](https://pcpartpicker.com/product/qrhFf7/intel-core-i3-12100-33-ghz-quad-core-processor-bx8071512100)
 MOBO			|ASRock B550M-ITX/ac					|$130	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&s=33&sort=price&page=1)	|ALT: AV1: INTEL: [ASRock B760M-ITX/D4](https://pcpartpicker.com/product/3xLFf7/asrock-b760m-itxd4-wifi-mini-itx-lga1700-motherboard-b760m-itxd4-wifi)
 MEM			|TEAMGROUP T-Force Vulcan Z 2x8GB DDR4-3200			|	$35		|[pcpartpicker](https://pcpartpicker.com/products/memory/#Z=16384002&sort=price&xcx=0&ff=ddr4&S=3200,7200&L=160,180)	|
-STORAGE			|Sabrent Rocket 512GB NVMe M.2 SSD TLC				|$45	|[pcpartpicker](https://pcpartpicker.com/product/nqc48d/sabrent-512-gb-m2-2280-solid-state-drive-sb-rocket-512)	|
+STORAGE			|WD SN580 500GB NVMe M.2 SSD TLC				|$40	|[pcpartpicker](https://pcpartpicker.com/product/kHRwrH/western-digital-blue-sn580-500-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds500g3b0e)	|
 STORAGE			|Hitachi Ultrastar 7K3000 3TB 7200rpm 3.5" HDD			|$46	|[amazon](https://smile.amazon.com/dp/B005QTSDDQ/?tag=pcpapi-20)	|OPTIONAL. ALT: 6TB WD Red ($100), 8TB Ironwolf ($130)
 COOL			|Thermalright AXP90-X36 CPU Cooler, 36mm					|$25	|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|
-TOTAL			|											|$405	|	|
+TOTAL			|											|$400	|	|
 
 <!-- Sub-Section -->
 
@@ -333,11 +333,11 @@ CPU|Intel i3-12100F, 60W|$100|[pcpartpicker](https://pcpartpicker.com/product/gr
 MOBO|ASRock B760M-ITX/D4|$150|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&s=40&sort=price&page=1)|ALT: GD09: [MSI PRO B660M-A DDR4 MicroATX](https://pcpartpicker.com/product/KKbTwP/msi-pro-b660m-a-ddr4-micro-atx-lga1700-motherboard-pro-b660m-a-ddr4) ($120)
 MEM|Corsair Vengeance LPX 16GB 2x8GB DDR4-3200|$40|[pcpartpicker](https://pcpartpicker.com/product/p6RFf7/corsair-memory-cmk16gx4m2b3200c16)|
 GPU|Nvidia GTX 1660 6GB|$125|[ebay](https://www.ebay.com/sch/27386/i.html?_fsrp=1&rt=nc&_from=R40&LH_TitleDesc=0&LH_PrefLoc=2&_nkw=gtx+1660&LH_BIN=1&_sacat=27386&_sop=15&_oac=1&LH_ItemCondition=1500%7C1000%7C2500%7C3000)|<= 330 mm. ALT: [Nvidia RTX 3050 6GB](https://pcpartpicker.com/products/video-card/#xcx=0&c=572,518&sort=price&page=1) ($170)
-STORAGE			|Sabrent Rocket 512GB NVMe M.2 SSD TLC				|$45	|[pcpartpicker](https://pcpartpicker.com/product/nqc48d/sabrent-512-gb-m2-2280-solid-state-drive-sb-rocket-512)	|OS/App Drive
+STORAGE			|WD SN580 500GB NVMe M.2 SSD TLC				|$40	|[pcpartpicker](https://pcpartpicker.com/product/kHRwrH/western-digital-blue-sn580-500-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds500g3b0e)	|OS/App Drive
 STORAGE|Hitachi Ultrastar 7K3000 3TB 7200rpm|$45|[amazon](https://smile.amazon.com/dp/B005QTSDDQ/?tag=pcpapi-20)|OPTIONAL: Content drive. 6TB WD Red ($100), 8TB Ironwolf ($130)
 COOL	|	Thermalright AXP120-X67	CPU Cooler	|	$35	|[pcpartpicker](https://pcpartpicker.com/product/K2cG3C/thermalright-axp120-x67-59-cfm-cpu-cooler-axp120-x67)	|OPTIONAL. ALT: GD09: Thermalright Silver Soul 135 ($40)
 PSU|Silverstone SX500-G 500W SFX|$110|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&sort=price&m=8,337,50,11,14,101,17,18,27,28,94,29,229,51,71,63,441,56&A=450000000000,2050000000000)|ALT: GD09: [500W+ ATX](https://pcpartpicker.com/products/power-supply/#xcx=0&th=1&sort=price&m=8,337,50,11,14,17,18,27,28,94,29,229,51,71,63,441,56&e=4,2)
-TOTAL||$675||
+TOTAL||$670||
 
 <!-- Sub-Section -->
 
