@@ -581,7 +581,7 @@ STORAGE		|	LSI 9207-8i Adapter (x8) + Cables, in IT/HBA mode	|	$40	|	[ebay](http
 STORAGE          |       SATA Power Splitter Cables                                  |       $15  |       [amazon](https://www.amazon.com/Cable-Matters-Pack-Power-Splitter/dp/B012BPLW08)   |  
 COOL		|	Arctic P14 PWM 140 mm Fan (FRONT)		|	$15	|	[amazon](https://www.amazon.com/dp/B07GZJY4TM?tag=pcpapi-20&linkCode=ogi&th=1&psc=1)		|
 COOL		|	Thermalright Silver Soul 135 CPU Cooler			|	$35	|	[pcpartpicker](https://pcpartpicker.com/product/sRPQzy/thermalright-silver-soul-135-82-cfm-cpu-cooler-silver-soul-135-black-d2)	|ALT: Thermalright Peerless Assassin 120 SE ($40)
-PSU		|	SeaSonic FOCUS Plus 750 Gold ATX PSU	|	$100	|	[pcpartpicker](https://pcpartpicker.com/product/64cMnQ/seasonic-focus-plus-gold-750w-80-gold-certified-fully-modular-atx-power-supply-ssr-750fx)	|ALT: [Other PSUs](https://pcpartpicker.com/products/power-supply/#xcx=0&A=750000000000,2000000000000&p=1,2&sort=price&D=7,20&e=5,4&m=337,50,11,14,229,71,63,441)
+PSU		|	SeaSonic FOCUS Plus 750 Gold ATX PSU	|	$100	|	[pcpartpicker](https://pcpartpicker.com/product/64cMnQ/seasonic-focus-plus-gold-750w-80-gold-certified-fully-modular-atx-power-supply-ssr-750fx)	|ALT: [Other PSUs](https://pcpartpicker.com/products/power-supply/#xcx=0&A=750000000000,2000000000000&p=1,2&sort=price&D=7,20&e=5,4&m=337,50,11,14,229,71,63,441&th=1)
 SOFTWARE	|	Unraid Unleashed - Unlimited device license		|	$110	|	[limetech](https://unraid.net/pricing)	|
 SOFTWARE	|	Plex Media Server				|	$0	|	[Plex](https://www.plex.tv/downloads)		|Free
 LICENSE		|	Plex Pass					|	$120	|	[Plex](https://www.plex.tv/plex-pass/)		|Lifetime cost or $40/year, $5/month.
