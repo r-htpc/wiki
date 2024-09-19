@@ -46,15 +46,15 @@ DTS: Lossy, <= 1.5 Mbps. Up to 5.1 channels. Common in physical media, not strea
 
 DD+/E-AC-3: Dolby Digital Plus. Lossy, <= 6 Mbps (1.7 on Blu-Ray). Up to 15.1 channels. Can be played over full HDMI or HDMI ARC (5.1)/eARC (7.1). Common in streaming media. 
 
-Dolby TrueHD: Lossless, <= 18 Mbps. Up to 7.1 channels. Common in physical media, not in streaming media. Can be played over full HDMI or HDMI eARC.  
+Dolby TrueHD: Lossless, <= 18 Mbps. Up to 7.1 channels. Common in physical media, not in streaming media. Can be played over full HDMI (1.3+) or HDMI eARC.  
 
 DTS-HD HRA: Lossy, <= 6Mbps. Up to 7.1 channels. DD+ competitor. Can be played over full HDMI or eARC.  
 
-DTS-HD MA: Lossless, <= 25.4 Mbps. Up to 7.1 channels. Common in physical media, not in streaming media. TrueHD competitor. Can be played over full HDMI or eARC. DTS lossy included within for over Optical/HDMI ARC.  
+DTS-HD MA: Lossless, <= 25.4 Mbps. Up to 7.1 channels. Common in physical media, not in streaming media. TrueHD competitor. Can be played over full HDMI (1.3+) or eARC. DTS lossy included within for over Optical/HDMI ARC.  
 
-Dolby Atmos: Metadata around the TrueHD/DD+ codec. Lossless/Lossy indirectly. Up to 24.1.10 channels. Gold standard. Lossless can be played over full HDMI or eARC. Lossy DD+ 5.1 version can be played over HDMI ARC. 
+Dolby Atmos: Metadata around the TrueHD/DD+ codec. Lossless/Lossy indirectly. Up to 24.1.10 channels. Gold standard. Lossless can be played over full HDMI (1.3+) or eARC. Lossy DD+ 5.1 version can be played over HDMI ARC. 
 
-DTS:X: Metadata around the DTS-HD MA/DTS codec. Lossless. Up to 24.1.10 channels. Gold standard. Atmos competitor. Lossless can be played over full HDMI or eARC. Lossy DTS core for over Optical/HDMI ARC.  
+DTS:X: Metadata around the DTS-HD MA/DTS codec. Lossless. Up to 24.1.10 channels. Gold standard. Atmos competitor. Lossless can be played over full HDMI (1.3+) or eARC. Lossy DTS core for over Optical/HDMI ARC.  
 
 Dolby Atmos/DTS:X > Dolby TrueHD/DTS-HD MA > DD+/DTS-HD HRA > DD/DTS > Stereo  
 
@@ -419,7 +419,7 @@ EXTERNAL: OPTIONAL: If you need/want an advanced/specialized audio decoder/filte
 
 ### What kind of audio is supported on a HTPC?
 
-Media Player Apps: Up to Dolby TrueHD Atmos, DTS:X  
+Media Player Apps: Up to [Dolby TrueHD Atmos, DTS:X](/wiki/audio#audio-formatscodecs)  
 
 Blu-Ray Media: Required: LPCM <= 7.1, DTS, Dolby Digital <= 5.1. Optional: [Dolby Digital+ 6.1-7.1, Dolby TrueHD 1.0-7.1 Atmos](https://forum.blu-ray.com/showthread.php?t=159814), DTS-HD/MA 7.1, DTS:X  
 
