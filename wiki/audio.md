@@ -293,7 +293,7 @@ On a Windows HTPC, this is usually done per media application by telling the aud
 
 The second is decoding and channelization. This means the media application playing your content sends the audio to your sound system (or your OS does) through Windows DirectSound, converted to the common PCM format you read about above, or analog, if using a 3.5mm/RCA audio interface. The sound system has no knowledge of the codec being played, if there is one.  
 
-This scenario would be used for non-encoded PCM audio, like non-Atmos **Games**, streaming services that only support Stereo, when you want to modify the audio in the PC using middleware (upmixing, equalizing, creating fake spatial audio), and/or sound systems where encoded codecs are not supported, like analog audio interfaces.  
+This scenario would be used for non-encoded PCM audio, like **Gameing**, streaming services that only support Stereo, when you want to modify the audio in the PC using middleware (upmixing, equalizing, creating fake spatial audio), and/or sound systems where encoded codecs are not supported, like analog audio interfaces.  
 
 **On a Windows HTPC, this is the DEFAULT scenario, so audio interfaces are limited by their PCM capabilities and Stereo is the default output**. To configure this in Windows: Open Windows Control Panel -> Sound -> \<your_audio_device\> -> Configure -> Select your speaker configuration -> Next -> Optionally configure the speakers you have/don't have.  
 
@@ -312,7 +312,7 @@ In media applications, the most popular ones will have the codecs to decode up t
 
     - There are advanced things you can do by using application middleware and external filters like [transcoding audio codecs](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital), decoding obscure codecs and advanced mixing. See the 3rd Party sub-section of the Audio Software section above.  
 
-- *Setting up Decoding for Gaming:*
+- *Setting up for Gaming:*
    - See the [Gaming section](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) below for caveats and advanced Atmos setup.
 
 - *If you want to upmix content:*
@@ -592,7 +592,7 @@ In addition, the following things may fix and/or help you identify your problem:
 5. You may be doing too much audio processing on your HTPC. Disable any, or use less, audio enhancements, or use bitstreaming if you're currently letting the HTPC do the decoding.  
 6. You may be doing too much audio processing on your sound system. Disable any, or use less, audio enhancements on it, such as using Pure Direct sound mode on your AVR, if it's supported.  
 7. If on Windows, you may be using a Power Plan that is lowering system performance on various devices. Create a High Performance power plan and re-test.
-8. You are using Dolby Access to send Dolby Atmos (e.g. Gaming) audio through a display to your sound system. This can cause a noticable delay. Make sure you set up your display to pass-through the audio correctly and don't use the Auto/PCM setting values. Alternatively, connect your HTPC to your sound system first, seperate your audio and video paths with multiple connections, or use an audio extractor/splitter between the HTPC and display/sound system. See setup scenarios above.
+8. You are using Dolby Access to send Dolby Atmos (e.g. Gaming) audio through a display to your sound system. This can cause a noticable delay. Make sure you set up your display to pass-through the audio correctly and don't use the Auto/PCM setting values. Alternatively, connect your HTPC to your sound system first, seperate your audio and video paths with multiple connections, or use an audio extractor/splitter between the HTPC and display/sound system. See setup scenarios above. If none of that works, see the [Gaming section](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) below for more options.
 9. If all else fails, see below for setting audio delay offsets/display syncing in media players/middleware.
 
 If ahead/behind delays occur on specific content, it could indicate that the content was created (encoded) improperly or on a PC with less than ideal CPU/GPU performance.  
@@ -670,11 +670,13 @@ NON-REALTIME: [Handbrake](https://handbrake.fr/), [ffmpeg-gui](https://www.video
 
 First, most games output audio in the **PCM 5.1** format. Not all audio interfaces and connection schemes support this bandwidth; those that don't will give you 2.0/Stereo instead.  
 
-The easiest and best way to connect your components is: PC (HDMI OUT) -> Sound System (HDMI IN) -> TV (HDMI IN/ARC). This will give you PCM 5.1 capability.  
+The easiest and best way to connect your components is: PC (HDMI OUT) -> Sound System (HDMI IN) -> TV (HDMI IN/ARC). This will give you PCM 5.1 capability. See **Scenario #1** in the Hardware Setup section above for details
 
 If you need **G-Sync/Freesync** (and not plain VRR) for gaming though, this won't work, as Sound Systems like AVRs/Soundbars won't pass through those VRR techs to the TV. In that case, and if you have **HDMI eARC** support on your Sound System and/or TV, you can connect: PC (HDMI OUT) -> TV (HDMI IN), TV (HDMI eARC) -> Sound System. See **Scenario #2** in the Hardware Setup section above for details before moving on.  
 
-Finish the setup by following the [Decoding / Channelization software setup](/wiki/audio#softwareos-setup) section above, to configure your speakers for Windows. 
+If neither scenario is viable, you should split up the video and audio paths with **Scenario #3** in the Hardware Setup section above.
+
+Finish the basic setup by following the [Decoding / Channelization software setup](/wiki/audio#softwareos-setup) section above, to configure your speakers for Windows, if you haven't already. 
 
 If you can't support the above hardware methods, but have plain **ARC** support or even only **Optical**, you can use that, but **you will only get PCM 2.0/Stereo sound by default**. The only way around this to still get 5.1 sound is to encode the game audio with a tech called **Dolby Digital Live**. To do this, you can either:  
 
