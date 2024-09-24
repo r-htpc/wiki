@@ -293,13 +293,13 @@ On a Windows HTPC, this is usually done per media application by telling the aud
 
 The second is decoding and channelization. This means the media application playing your content sends the audio to your sound system (or your OS does) through Windows DirectSound, converted to the common PCM format you read about above, or analog, if using a 3.5mm/RCA audio interface. The sound system has no knowledge of the codec being played, if there is one.  
 
-This scenario would be used for non-encoded PCM audio, like **Gameing**, streaming services that only support Stereo, when you want to modify the audio in the PC using middleware (upmixing, equalizing, creating fake spatial audio), and/or sound systems where encoded codecs are not supported, like analog audio interfaces.  
+This scenario would be used for non-encoded PCM audio, like **Gaming**, streaming services that only support Stereo, when you want to modify the audio in the PC using middleware (upmixing, equalizing, creating fake spatial audio), and/or sound systems where encoded codecs are not supported, like analog audio interfaces.  
 
 **On a Windows HTPC, this is the DEFAULT scenario, so audio interfaces are limited by their PCM capabilities and Stereo is the default output**. To configure this in Windows: Open Windows Control Panel -> Sound -> \<your_audio_device\> -> Configure -> Select your speaker configuration -> Next -> Optionally configure the speakers you have/don't have.  
 
 If you select a speaker configuration that is more than what your content provides, for instance you choose 5.1 speakers and play a Stereo source, Windows will output the source as 5.1 but with only the Stereo speakers containing audio.  
 
-- *Setting up Decoding for Media:* 
+- *Setting up Decoding for Media (NOT bitstreaming):* 
 
     - You should configure your media application(s) (if needed), by setting the sound device/audio renderer to "DirectSound" or "System Default". "DirectSound" sits between the application and the audio driver, controlling the channel layout and audio stream.  
 In media applications, the most popular ones will have the codecs to decode up to **Dolby TrueHD**, **DTS-HD MA** and many others (object metadata overlays like Dolby Atmos/DTS:X can NOT be channelized or meaningfully used by the PC without professional software; you must bitstream those codecs to an AVR or sound processor).  
@@ -942,5 +942,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2024-09-22*
+ *This page was last updated on 2024-09-23*
 
