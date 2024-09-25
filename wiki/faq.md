@@ -357,7 +357,7 @@ BRAND/MODEL|PRICE|RESOLUTION|4k NETFLIX?|HDR?|WIFI?|LAN?|VOICE SEARCH?|USB?|NOTE
 [Roku Express](https://www.roku.com/products/roku-express) ([buy](https://smile.amazon.com/Roku-Express-Streaming-Media-Player/dp/B07WVFCVJN))|$25|1080p|NO|NO|n|No|No|No|DD, PT:LS DTS/DA
 [Roku Express 4K](https://www.roku.com/products/roku-express-4k)/[+](https://www.roku.com/products/roku-express-4k-plus) ([buy](https://www.walmart.com/ip/Roku-Express-4K-2021-Streaming-Media-Player-HD-4K-HDR-with-Smooth-Wireless-Streaming-and-Simple-Remote-includes-Premium-HDMI-Cable/651641821)/[buy](https://amzn.to/3g56Djl))|$35/$40|4k@60|YES|10/+|dual ac|No/Opt|No/YES|Opt|DC:DD/PT:LS DTS/DA
 **[Roku Streaming 4K](https://www.roku.com/products/roku-streaming-stick-4k)** ([buy](https://www.amazon.com/Roku-Streaming-Device-Vision-Controls/dp/B09BKCDXZC))|**$50**|4k@60|YES|10/+/DV|dual ac 2x2|No|YES|No|1GB, DC:DD/PT:LS DTS/DA. Model: 3820R2
-[Roku Ultra](https://www.roku.com/products/roku-ultra) ([buy](https://www.bhphotovideo.com/c/product/1594956-REG/roku_4800r_ultra_streaming.html))|$100|4k@60|YES|10/+/DV|dual ac 2x2|100M|YES|YES (**8b**)|2GB RAM, DC:DA, PT:LS DTS/DA, AV1, NTFS. Model: 4802R
+[Roku Ultra](https://www.roku.com/products/roku-ultra) ([buy](https://www.amazon.com/Roku-Ultra-2024-Streaming-Rechargeable/dp/B0DF44RTTP))|$100|4k@60|YES|10/+/DV|ax|100M|YES|YES (**8b**)|2GB RAM, DC:DA, PT:LS DTS/DA, AV1, NTFS. Model: 4850R
 [Roku Ultra LT](https://www.roku.com/products/roku-ultra-lt) ([buy](https://www.walmart.com/ip/Roku-Ultra-LT-Streaming-Media-Player-2019/857445471))|$80|4k@60|YES|10|dual ac|100M|YES|No|2GB RAM, DC:DD+, PT:LS DTS/DA. Model: 4801RW
 [Vero 4K+](https://osmc.tv/vero/) ([buy](http://buy.getvero.tv/))|$140|4k@60|No|10|ac|1000M|No|YES (**8b**)|OSMC, PT:**LL DA**/DTSX, 1.6Ghz/2GB/16GB, NTFS
 [Nvidia Shield TV Tube](https://www.nvidia.com/en-us/shield/shield-tv/) ([buy](https://smile.amazon.com/NVIDIA-Shield-Streaming-Player-Performance/dp/B07YP94PBJ))|$150|4k@60|YES|10/DV|ac|1000M|YES|No|DV-5/7/8, PT:LL DA/DTSX DC:DA, 2GB/8GB, NTFS, microSD
@@ -806,5 +806,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2024-09-22*
+*This page was last updated on 2024-09-25*
 
