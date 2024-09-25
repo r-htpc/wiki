@@ -203,7 +203,7 @@ This will give you a primary display for video output and a secondary, extended 
 
 <img src="https://i.imgur.com/f2qsP4W.png" width="550" height="300" alt="DIAGRAM">
 
-This is an alternative to Scenario #3 where you don't want to deal with multiple displays in windows either out of navigational or visual annoyance due to driving multiple display outputs. It could also be used with a single display output (e.g. APU) where you want full audio support but don't have eARC.  
+This is an alternative to Scenario #3 where you don't want to deal with multiple displays in windows either out of navigational or visual annoyance due to driving multiple display outputs. It could also be used with a single display output (e.g. APU) where you want full audio support but don't have eARC on your display. If you have only an ARC/eARC port on your sound system (like a cheaper soundbar), use a [HDMI Splitter](/wiki/audio#accessories) with an eARC output.  
 
 You will use an HDMI splitter to split/clone the source signal and send the same signal to both your display and sound system. Note that not all splitters are built the same and can vary dramatically in price, depending on feature set and reliability. See the [accessories](/wiki/audio#accessories) section.  
 
@@ -827,7 +827,7 @@ HDMI 2.0 (4K@60)
 
 **ViewHD [VHD-UHAE2](https://www.amazon.com/ViewHD-Extractor-Splitter-Support-Toslink/dp/B0755TB82Q)** - $50 - **Audio only port, EDID Options. Start with one of these for basic A/V splitting**. ALT: [UHD1X2SA](https://www.amazon.com/ViewHD-Splitter-Extractor-Optical-Receiver/dp/B07VQF75FW)  
 
-[HDFury AVRKey 18Gbps](https://www.monoprice.com/product?p_id=30457) ([ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=fury+avr+key&_sacat=0&_odkw=avr+key&_osacat=0)) - $160 - Top of the line, but expensive and discontinued.   
+[EZcoo w/eARC](https://www.amazon.com/Splitter-Soundbar-Switch-Bi-Direction-Extractor/dp/B0BNSY3VKW) - $100 - For splitting audio out to ARC/eARC-only sound system.
 
 [SIIG 1x2](https://www.amazon.com/gp/product/B00YT6V9A6) - $45 - EDID Options
 
@@ -836,6 +836,8 @@ HDMI 2.0 (4K@60)
 [gofanco Prophecy](https://www.amazon.com/gofanco-Prophecy-Intelligent-60Hz-Splitter/dp/B079HJWF31?ref_=ast_sto_dp) - $55 - Good price, lots of EDID options. Not as reliable as AVR Key or Plug n Play as Egreat.  
 
 [Wolfpack 1x2](https://www.hdtvsupply.com/1x2-hdmi-splitter-hdcp-2-2.html) - $75 - Unknown, but reported compatible with media devices (Shield, etc..)
+
+[HDFury AVRKey 18Gbps](https://www.monoprice.com/product?p_id=30457) ([ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=fury+avr+key&_sacat=0&_odkw=avr+key&_osacat=0)) - $160 - Top of the line, but expensive and discontinued.   
 
 HDMI 2.1 (4K@120)  
 
