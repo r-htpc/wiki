@@ -275,7 +275,7 @@ To confuse things even more, sometimes Full and Limited are called by other name
  - Displayport 1.4: 3840x2160, 120 Hz, RGB, 10-bit
 4. Run the Contrast, Black Level and Gradient tests from [Lagom LCD Tests](http://www.lagom.nl/lcd-test/)
 
-*The above are realistic and recommended settings for each video interface. Higher refresh rates may be possible (e.g. 120 to 144 Hz), where supported by the Display and contingent on optimal video cable length and/or a single, direct GPU->Display connection. They are not recommended for media consumption due to stutter/judder problems.*
+*The above are realistic and recommended settings for each video interface. Higher refresh rates may be possible (e.g. 120 to 144 Hz), where supported by the Display and contingent on [proper cables and optimal video cable length](/wiki/components#video-cablesadapters) and/or a single, direct GPU->Display connection. They are not recommended for media consumption due to stutter/judder problems.*
 
 <!-- Sub-Section -->
 
@@ -646,5 +646,5 @@ Audio Sync Tests - [1080p/H264/60fps/AAC](https://drive.google.com/file/d/18yl9K
 
 ---
 
-*This page was last updated on 2024-06-23*
+*This page was last updated on 2024-09-24*
 
