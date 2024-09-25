@@ -455,7 +455,7 @@ See [Wiki:FAQ:What resolution and audio is supported on streaming service X?](/w
 2. Your total HDMI cable length may be too long for the resolution/refresh you want to use. Use [shorter cables or cables designed for long runs](/wiki/components#video-cablesadapters)
 3. If for 4k: Your Display's HDMI port may not be set to the proper signal format. You should set it to *UHD Deep Color/Input Signal Plus/Enhanced* on the Display (setting name dependent on TV mfgr). If a Sound System is in-between your HTPC and TV, you should set your Sound System's HDMI port to a HDMI Format/4k Signal Format of *Enhanced*, where available.
 4. You may have a bad HDMI port on your Display, GPU, or an in-between Sound System. Try a different port.
-5. You're using too many cable segments in the HDMI cable run from the HTPC to Display. You should limit the amount of segments to 2. HTPC->TV would be 1. HTPC->AVR->TV would be 2. HTPC->AVR->Wall jack->TV would be 3. If you have a wall jack behind the TV AND behind the AVR, that's 4. You can *usually* make up for using more segments with shorter or better cables.
+5. You're using too many cable segments in the HDMI cable run from the HTPC to Display. You should limit the amount of segments to 2. HTPC->TV would be 1. HTPC->AVR->TV would be 2. HTPC->AVR->Wall jack->TV would be 3. If you have a wall jack behind the TV AND behind the AVR, that's 4. You can *usually* make up for using more segments with shorter/better cables or brush plates instead of wall jacks.
 6. You GPU driver may be corrupted. Run [DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) to remove it fully and then re-install the driver.
 7. You're overclocking your GPU or have a bad GPU.
  
