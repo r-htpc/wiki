@@ -109,7 +109,7 @@ Below are the minimum requirements for each scenario and a recommendation. The r
 - **Best All-Rounder: AMD RX 6400**
   - Will run 4k@120Hz, has low-profile versions and only requires PCIe slot power. Its weakness is it doesn't have AV1 media decoding. To get that at the downside of only 4k@60Hz, look at Intel Arc A310/A380. 
 
-- 1080p H264, 4k@30Hz video out or for DP/HDMI HD audio only: AMD Radeon R5 240/340 (REC: [Dell R5 340](https://www.ebay.com/sch/27386/i.html?_from=R40&_nkw=amd+%28r5%2Cr7%29+%28240%2C340%29&LH_BIN=1&_sop=15)) 
+- 1080p H264, 4k@30Hz video out or for DP/HDMI HD audio only: AMD Radeon R5 340/Nvidia GT 730 (REC: [Dell R5 340](https://www.ebay.com/sch/27386/i.html?_from=R40&_nkw=amd+%28r5%2Cr7%29+%28240%2C340%29&LH_BIN=1&_sop=15)) 
 
 - 4K Local HDR+4K Youtube HDR: Nvidia >= GT 1030 GDDR5, AMD >= 5x00/6x00 (REC: Used: GTX 1650, New: RX 6400/Intel A3x0) 
 
