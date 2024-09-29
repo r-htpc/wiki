@@ -213,7 +213,7 @@ While media devices are great frontends that are easy to use and navigate, they'
 
 4. You want to have more control over video processing; with video renderers like madVR and SVP you can have more control and get better results when doing things like HDR->SDR tonemapping and image, chroma and frame-rate upscaling. You want video refresh rates beyond 60 Hz (e.g. 120 Hz). You need to use multiple displays.  
 
-5. You want more control over audio processing (decoding, mixing, equalization, etc..). You want HD audio (TrueHD, Atmos) that most streaming devices don't provide. Most streaming devices like Roku, FireTV (some), Chromecast (not counting Nvidia Shields or SBCs) don't provide HD audio. They'll only do lower quality versions of DD/DTS/Atmos. See media devices section below for details per device.  
+5. You want more control over audio processing (decoding, mixing, equalization, etc..). You want HD audio (TrueHD/DTS-HD MA, Atmos/DTS:X) that most streaming devices like Roku, FireTV (some), Google TV, (not counting Nvidia Shields or SBCs) don't provide. They'll only do lower quality versions of DD/DTS/Atmos. See [media devices](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) section below for details per device.  
 
 6. You'd rather use a keyboard/mouse instead of a remote for navigation. Media devices are better suited for remote-based navigation. PCs are better suited for keyboard/mouse.  
 
