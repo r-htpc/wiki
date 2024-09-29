@@ -278,22 +278,17 @@ Norco ITX-S8					|8		|NA		|$230		|8 x 10.2 x 13.25			|YES	|17.7			|ITX				|1x2.5
 Jonsbo N3					|8		|1		|$155		|9.2 x 10.3 x 11.7			|YES	|18.2			|ITX				|130mm CPU, SFX PSU - [link](https://www.jonsbo.com/en/products/N3.html)
 **Fractal Design Node 304**						|6		|NA		|$90		|10 x 8.27 x 14.72			|No		|19.3			|ITX/DTX			|[link](https://www.fractal-design.com/products/cases/node/node-304/black/)
 Jonsbo N4					|8		|2		|$120		|11.3 x 9 x 11.8			|YES	|19.6			|ITX				|70mm CPU, SFX PSU - [link](https://www.jonsbo.com/en/products/N4Black.html)
-Cooler Master Elite 130		|2+1	|5		|$65		|9.4 x 8.2 x 15.7			|No		|20				|ITX				|full dvd, +1 3.5" in 5.25" bay
 FD Core 500						|3+1	|3		|$60		|9.84 x 8.39 x 14.96		|No		|20.2			|ITX/DTX			|ATX PSU, 1x5.25", +1 3.5" in 5.25" bay
-Rosewill FBM-01/Ranger-M		|3+2/3	|0		|$35			|6.9 x 13.86 x 13.8/15.26			|No		|21.5/23.8			|uATX/ITX			|3x3.5",2x5.25", +2x3.5" in 5.25" (or +3 w/[Evercool adapter](https://www.amazon.com/EverCool-Dual-Drive-Triple-Cooling/dp/B0032UUGF4))
 Silverstone GD06				|4+1		|2		|$140		|17.32 x 5.91 x 13.39		|No		|22.4			|uATX/ITX			|70-120mm CPU COOL, ATX PSU, +1 3.5" in 5.25" bay, full dvd.
-Rosewill SRM-01B				|2+2/3		|2		|$35		|6.69 x 14.96 x 13.78		|No		|22.5			|uATX				|2x3.5",2x525", +2x3.5" in 5.25" (or +3 w/[Evercool adapter](https://www.amazon.com/EverCool-Dual-Drive-Triple-Cooling/dp/B0032UUGF4))
 Silverstone DS380				|8		|4		|$215		|8.31 x 11.22 x 14.17		|YES	|21.6			|ITX				|SFX-L PSU, 57mm CPU.  [link](https://www.silverstonetek.com/en/product/info/server-nas/DS380/)
 Raijintek Styx		|3		|4		|$70		|8.26 x 13.2 x 14.2	|No		|25.4			|uATX/ITX				|ATX PSU - [link](https://www.raijintek.com/en/products_detail.php?ProductID=26)
 **Fractal Design Core 1000**		|2+2/3		|3		|$55		|6.89 x 13.97 x 16.53		|No		|26.1			|uATX/ITX/DTX				|2x5.25",2x3.5" - [link](https://www.fractal-design.com/products/cases/core/core-1000/black/)
 Silverstone CS381				|8		|NA		|$400		|NA							|YES	|28				|uATX/ITX			|SFX-L PSU. [link](https://www.silverstonetek.com/en/product/info/server-nas/CS381/)
 Cooler Master Masterbox E300L	|2+2/3	|NA		|$70		|7.1 x 14.33 x 17.6			|NA		|29.3			|uATX				|2x3.5",2x5.25"
 Silverstone TJ08B-E				|5+2/3		|NA		|$140		|8.27 x 14.72 x 15.16		|NA		|30.2			|uATX/ITX/DTX		|5x3.5",2x5.25"
-BitFenix Phenom					|5+1	|NA		|$90		|9.84 x 12.99 x 14.72		|NA		|30.8			|ITX				|BFC-PHE-300-	Hard to find
 Silverstone GD08				|8+2/3		|2		|$180		|17.3 x 6.9 x 16.7			|No		|32.7			|EATX/ATX/uATX			|8x3.5",2x5.25", 138mm CPU COOL, ATX PSU. [link](https://www.silverstonetek.com/en/product/info/computer-chassis/GD08/)
 Silverstone GD07				|5+4/6		|2		|$180		|17.3 x 6.9 x 17.1			|No		|33.5			|EATX/ATX/uATX			|5x3.5",4x5.25", 138mm CPU COOL, ATX PSU. [link](https://www.silverstonetek.com/en/product/info/computer-chassis/GD07/)
 Cooler Master N200				|3+1		|4		|$74		|7.9 x 17.5 x 14.9 			|NA		|33.7			|uATX/ITX				|3x3.5",1x5.25"
-BitFenix Prodigy					|5+1	|NA		|$90		|9.84 x 15.91 x 14.13		|NA		|36.2			|ITX				|BFC-PRO-300- Hard to find
 BitFenix Prodigy M 2022			|4	|5		|$100		|9.84 x 15.91 x 14.13		|NA		|36.2			|uATX/ITX				|BFC-PM2-300-KKGSK-RP - [link](https://www.bitfenix.com/products/chassis/micro-atx/prodigy-m-2022/)
 FD Focus G Mini					|2+2/3	|NA		|$55		|8.07 x 15.08 x 18.27		|No		|36.4			|uATX				|2x3.5",2x5.25", +2x3.5" in 5.25" (or +3 w/[Evercool adapter](https://www.amazon.com/EverCool-Dual-Drive-Triple-Cooling/dp/B0032UUGF4)) Could probably fit 8x3.5 w/2x[Phanteks 2-drive](https://www.amazon.com/Phanteks-Stackable-Bracket-Cases-PH-HDDKT_03/dp/B07GY2B3WP) cages
 **Cooler Master N400**				|8+2/3	|3		|$80		|7.5 x 19.7 x 16.7			|No		|40.6			|ATX/uATX			|8x3.5",2x5.25". [link](https://www.coolermaster.com/catalog/cases/mid-tower/n400/)
@@ -324,8 +319,13 @@ DARKROCK Classico Storage Master	|10	|3		|$90		|8.07 x 18.5 x 16.92		|No	|41.4		
 CASE							|3.5"	|2.5"	|COST		|W x H x D (in)				|H.SWAP	|LITERS			|MOBOS				|NOTES
 :--|:--|:--|:--|:--|:--|:--|:--|:--
 Cooler Master Elite 120 Adv		|3+1	|NA		|Disc		|9.4 x 8.2 x 15.8			|No		|20				|ITX				|full dvd, 4x2.5 (from 2x3.5 bays), +1 3.5" in 5.25" bay
+Cooler Master Elite 130		|2+1	|5		|$65		|9.4 x 8.2 x 15.7			|No		|20				|ITX				|full dvd, +1 3.5" in 5.25" bay
 LIAN LI PC-Q25B					|5/7	|NA		|Disc		|7.83 x 11.02 x 14.41		|YES	|20.4			|ITX/DTX			|Hotswap (5) - Hard to find
+Rosewill FBM-01/Ranger-M		|3+2/3	|0		|$35			|6.9 x 13.86 x 13.8/15.26			|No		|21.5/23.8			|uATX/ITX			|3x3.5",2x5.25", +2x3.5" in 5.25" (or +3 w/[Evercool adapter](https://www.amazon.com/EverCool-Dual-Drive-Triple-Cooling/dp/B0032UUGF4))
+Rosewill SRM-01B				|2+2/3		|2		|$35		|6.69 x 14.96 x 13.78		|No		|22.5			|uATX				|2x3.5",2x525", +2x3.5" in 5.25" (or +3 w/[Evercool adapter](https://www.amazon.com/EverCool-Dual-Drive-Triple-Cooling/dp/B0032UUGF4))
 LIAN LI PC-M25					|5		|NA		|Disc			|7.83 x 12.67 x 17.36		|YES	|28.2			|uATX/ITX			|ATX PSU, 80mm CPU, +3.5x2 unofficial, 2.5x3 int, - Hard to find
+BitFenix Phenom					|5+1	|NA		|$90		|9.84 x 12.99 x 14.72		|NA		|30.8			|ITX				|BFC-PHE-300-	Hard to find
+BitFenix Prodigy					|5+1	|NA		|$90		|9.84 x 15.91 x 14.13		|NA		|36.2			|ITX				|BFC-PRO-300- Hard to find
 Lian-Li PC-V354					|7		|4		|Disc			|9.6 x 12.6 x 16.5			|No		|38.7			|uATX/ITX			|1x5.25, Cube
 Lian-Li PC-V358				|6		|2		|Disc			|12.7 x 11.2 x 15.3			|No		|39.2			|uATX/ITX			|Cube
 Fractal Design Core 1500		|4		|1		|Disc			|7.6 x 14.5 x 17.7			|No		|39.8			|uATX/ITX			|2x5.25
