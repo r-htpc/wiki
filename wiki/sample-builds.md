@@ -187,7 +187,7 @@ PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 CASE/PSU		|Asrock Deskmini X300W					|$170	|Amazon	|MOBO/PSU included - 6.1" x 6.1" x 3.1"
 CPU			|AMD Ryzen 4600G APU (65W)					|	$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: Ryzen 5600G-5700G ($125-175)
 MEM			|Crucial 2x8GB DDR4-3200 SODIMM - CT2K8G4SFRA32A	|$40		|[amazon](https://www.amazon.com/Crucial-2x8GB-Laptop-Memory-CT2K8G4SFRA32A/dp/B08C4WV6FT)	|ALT: [2x8GB DDR4 SODIMM](https://pcpartpicker.com/products/memory/#xcx=0&b=ddr4&ff=ddr4_sodimm&sort=price&S=2666,8000&Z=16384002) ($30)
-STORAGE	 	|WD SN580 250GB NVMe M.2 SSD	(OS)				|$30		|[pcpartpicker](https://pcpartpicker.com/product/xx26Mp/western-digital-blue-sn580-250-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds250g3b0e)	|ALT: WD Black SN770 500 GB M.2 ($45)
+STORAGE	 	|WD SN580 250GB NVMe M.2 SSD	(OS)				|$30		|[pcpartpicker](https://pcpartpicker.com/product/xx26Mp/western-digital-blue-sn580-250-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds250g3b0e)	|ALT: WD Black SN580 500 GB M.2 ($40)
 COOL	 	|Noctua NH-L9a-AM4 CPU Cooler, 37mm					|$45		|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|OPTIONAL. Quieter than stock cooler
 TOTAL		|											|$385	||
 
@@ -199,7 +199,7 @@ CASE/PSU	|Inwin Chopin/BQ656					|	$100		|[google](https://www.google.com/search
 MOBO		|Gigabyte A520I AC ITX					|	$110	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&s=33&sort=price&page=1)			|ALT: ASRock A520M-ITX/ac
 CPU			|AMD Ryzen 4600G APU (65W)					|	$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: Ryzen 5600G-5700G ($125-175)
 MEM			|TEAMGROUP T-Force Vulcan Z 2x8GB DDR4-3200			|	$35		|[pcpartpicker](https://pcpartpicker.com/products/memory/#Z=16384002&sort=price&xcx=0&ff=ddr4&S=3200,7200&L=160,180)	|ALT: [2x4GB DDR4 DIMM](https://pcpartpicker.com/products/memory/#Z=8192002&sort=price&xcx=0&ff=ddr4) ($35)
-STORAGE	 	|WD SN580 250GB NVMe M.2 SSD	(OS)				|$30		|[pcpartpicker](https://pcpartpicker.com/product/xx26Mp/western-digital-blue-sn580-250-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds250g3b0e)	|ALT: WD Black SN770 500 GB M.2 ($45)
+STORAGE	 	|WD SN580 250GB NVMe M.2 SSD	(OS)				|$30		|[pcpartpicker](https://pcpartpicker.com/product/xx26Mp/western-digital-blue-sn580-250-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds250g3b0e)	|ALT: WD Black SN580 500 GB M.2 ($40)
 COOL		|Thermalright AXP90-X47 CPU Cooler, 47mm			|	$30		|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|OPTIONAL: Quieter than stock cooler
 TOTAL		|										|	$405	|	|
 
@@ -307,10 +307,10 @@ PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 CASE|Goodisory A01/MX01 ITX|$45|[amazon](https://www.amazon.com/Goodisory-Aluminum-Mini-ITX-Computer-Tempered/dp/B07GYP2TWC)|7.9" x 7.9" x 3.3" ALT: Apex MI-008/ML03
 CPU/MOBO|ASRock N100DC-ITX, 6W|$130|[newegg](https://www.newegg.com/p/N82E16813162133)|[specs](https://www.asrock.com/mb/Intel/N100DC-ITX/).
 MEM|G.Skill Ripjaws V 1x16GB DDR4-3200 DIMM|$35|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&b=ddr4&ff=ddr4&sort=price&S=3200,8000&Z=8192001,16384001)|ALT: 1x8GB ($20)
-STORAGE			|Teamgroup MP33 256GB NVMe M.2 SSD TLC				|$25	|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#t=0&A=256000000000,22000000000000&f=122080&D=1&sort=price&page=1)	|
+STORAGE			|Kingston NV2 256GB NVMe M.2 SSD TLC				|$30	|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#t=0&A=256000000000,22000000000000&f=122080&D=1&sort=price&page=1)	|
 STORAGE			|Hitachi Ultrastar 7K3000 3TB 7200rpm 3.5" HDD			|$46	|[amazon](https://smile.amazon.com/dp/B005QTSDDQ/?tag=pcpapi-20)	|OPTIONAL. ALT: 6TB WD Red ($100), 8TB Ironwolf ($130)
 POWER			|19V 65W AC-DC Adapter|$25	|[amazon](https://www.amazon.com/Pwr-Power-Supply-Intel-FSP065-10AABA/dp/B076L52WV4)	|
-TOTAL||$260||
+TOTAL||$265||
 
 <!-- Sub-Section -->
 
@@ -362,7 +362,7 @@ CPU		|Intel i5-12600K CPU, 125W				|$175	|	[pcpartpicker](https://pcpartpicker.c
 MOBO	|ASRock Z790M PG LIGHTNING/D4	|$160	|	[pcpartpicker](https://pcpartpicker.com/product/JPRYcf/asrock-z790m-pg-lightningd4-micro-atx-lga1700-motherboard-z790m-pg-lightningd4)	|	ALT: [Other uATX mobos](https://pcpartpicker.com/products/motherboard/#xcx=0&c=152,162&f=7&sort=price&page=1)
 MEM		|Ripjaws V 32GB 2x16GB DDR4-3200			|$60	|	[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&S=3200,8000&Z=32768002&sort=price&page=1)	|	ALT: Ripjaws V 32GB 2x8GB DDR4-3200 ($40)
 STORAGE	|LG WH16NS40 UHD Blu-Ray Drive			|$70	|	[pcpartpicker](https://pcpartpicker.com/product/QZ6BD3/lg-optical-drive-wh16ns40)	|	ALT: ASUS BW-16D1HT ($100)
-STORAGE	|WD Black SN770 1TB NVMe M.2 SSD		|$70	|	[pcpartpicker](https://pcpartpicker.com/product/YVytt6/western-digital-1-tb-m2-2280-nvme-solid-state-drive-wds100t3x0e)	|	ALT:  Teamgroup Cardea Zero Z440 1TB
+STORAGE	|Lexar NM800PRO 1TB NVMe M.2 SSD		|$70	|	[pcpartpicker](https://pcpartpicker.com/product/JXKKHx/lexar-professional-nm800pro-1-tb-m2-2280-nvme-solid-state-drive-lnm800p001t-rnnng)	|	ALT:  Teamgroup Cardea Zero Z440 1TB
 COOL	|Thermalright Peerless Assassin CPU Cooler				|$40	|	[pcpartpicker](https://pcpartpicker.com/product/hYxRsY/thermalright-peerless-assassin-120-se-6617-cfm-cpu-cooler-pa120-se-d3)	|	ALT: Thermalright AXP120-X67 ($40)
 PSU		|EVGA 700 BQ 700W Semi Modular ATX PSU		|$75	|	[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=1&sort=price&m=8,337,50,11,14,17,18,27,28,94,29,229,51,71,63,441,56&e=4,2)	|	ALT: be quiet Pure Power 12 M 650W ($80)
 SOFTWARE	|MakeMKV Beta/Full		|FREE/$60	|	[makemkv](https://www.makemkv.com/buy/)	|Free with beta license key posted each month
@@ -521,7 +521,7 @@ CPU|Intel i3-12100 CPU, 60W|$115|[pcpartpicker](https://pcpartpicker.com/product
 MOBO|ASRock B760M-ITX/D4|$150|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&s=40&f=8&sort=price&page=1)|ALT: [B660M/B760M uATX mobo](https://pcpartpicker.com/products/motherboard/#f=7&sort=price&xcx=0&s=40&K=5,13)
 MEM|Team T-Force Vulcan Z 16GB 2x8GB DDR4-3200|$40|[pcpartpicker](https://pcpartpicker.com/product/z3VD4D/team-t-force-vulcan-z-16-gb-2-x-8-gb-ddr4-3200-memory-tlzgd416g3200hc16cdc01)|ALT: Team T-Force Vulcan Z 32GB 2x16GB DDR4-3200 ($60)
 STORAGE|Samsung Bar Plus 64GB USB Flash Drive (BOOT)|$12|[amazon](https://www.amazon.com/Samsung-BAR-Plus-64GB-MUF-64BE4/dp/B07BPGF6N3/)|
-STORAGE|WD Black SN770 1TB NVMe M.2 SSD (APP/CACHE)|$70|[pcpartpicker](https://pcpartpicker.com/product/YVytt6/western-digital-1-tb-m2-2280-nvme-solid-state-drive-wds100t3x0e)|ALT: [Crucial P5 Plus](https://pcpartpicker.com/product/7nXJ7P/crucial-p5-plus-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-ct1000p5pssd8) ($70)
+STORAGE|Lexar NM800PRO 1TB NVMe M.2 SSD (APP/CACHE)|$70|[pcpartpicker](https://pcpartpicker.com/product/JXKKHx/lexar-professional-nm800pro-1-tb-m2-2280-nvme-solid-state-drive-lnm800p001t-rnnng)|ALT: [Crucial P5 Plus](https://pcpartpicker.com/product/7nXJ7P/crucial-p5-plus-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-ct1000p5pssd8) ($70)
 STORAGE|3 x Seagate Exos X14 12TB HDD (DATA)|$540|[disctech](https://www.disctech.com/Seagate-Exos-X14-ST12000NM0538-12TB-3.5-LFF-6Gbps-7.2K-RPM-FastFormat-512e-Enterprise-SATA-Hard-Disk)| SEPARATE. ALT: [Ultrastar HC530 14TB](https://www.disctech.com/interface-types/SATA?order=relevance:asc&keywords=hc530) (better $/GB)
 STORAGE|LSI 9207-8i, in IT/HBA mode|$40|[ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=9207+8i+%2Bcables&_sacat=0&LH_TitleDesc=0&_dmd=1&_stpos=80232-6476&_odkw=9201+%2B16i+%2Bcables&_osacat=0&_sop=15&LH_PrefLoc=2&_ipg=60&_sadis=15)|OPTIONAL. For more than 4xSATA ports/better controller support. ALT: [SATA card](https://www.amazon.com/dp/B0BNFBXBNS)
 COOL|Noctua NH-U12S Redux CPU Cooler|$50|[pcpartpicker](https://pcpartpicker.com/product/vV7G3C/noctua-nh-u12s-redux-7075-cfm-cpu-cooler-nh-u12s-redux)|ALT: be quiet Pure Rock 2 ($40)
@@ -671,8 +671,8 @@ PSU		|Included							|$0		|	|ALT: [EVGA BQ 500W](https://pcpartpicker.com/produc
 CPU		|AMD Ryzen 4600G APU (65W)				|$100		|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: [Ryzen 3400G - Ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=3400g&_sacat=0&LH_BIN=1&_sop=15) ($75)
 MOBO	|MSI A520M-A PRO MicroATX		|$70		|[pcpartpicker](https://pcpartpicker.com/product/nZTzK8/msi-a520m-a-pro-micro-atx-am4-motherboard-a520m-a-pro)	|ALT: 3400G: [MSI A320M PRO](https://pcpartpicker.com/product/mB4BD3/msi-a320m-a-pro-micro-atx-am4-motherboard-a320m-a-pro) ($80)
 MEM		|Silicon Power Gaming 2x8GB DDR4-3200		|$30		|[pcpartpicker](https://pcpartpicker.com/product/P4FKHx/silicon-power-sp016gxlzu320bdaj5-16-gb-2-x-8-gb-ddr4-3200-cl16-memory-sp016gxlzu320bdaj5)	|ALT: Deskmini: [2x8GB DDR4-3200 SODIMMS](https://pcpartpicker.com/products/memory/#xcx=0&b=ddr4&ff=ddr4_sodimm&sort=price&S=2666,8000&Z=16384002)
-STORAGE	 	|Teamgroup MP33 256GB NVMe M.2 SSD					|$25		|[pcpartpicker](https://pcpartpicker.com/product/zZJmP6/team-mp33-256-gb-m2-2280-nvme-solid-state-drive-tm8fp6256g0c101)	|ALT: WD Black SN770 500 GB M.2 ($45)
-TOTAL	|								|$325	|	|
+STORAGE	 	|Kingston NV2 256GB NVMe M.2 SSD					|$30		|[pcpartpicker](https://pcpartpicker.com/product/KQXJ7P/kingston-nv2-250-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-snv2s250g)	|ALT: WD Black SN580 500 GB M.2 ($40)
+TOTAL	|								|$330	|	|
 
 <!-- Sub-Section -->
 
@@ -736,7 +736,7 @@ MOBO		|Asrock B760M-ITX/D4				|$150	|[pcpartpicker](https://pcpartpicker.com/pro
 CPU			|Intel i5-12400F								|$165	|[pcpartpicker](https://pcpartpicker.com/product/pQNxFT/intel-core-i5-12400f-25-ghz-6-core-processor-bx8071512400f)		|ALT: AMD Ryzen 5600 ($120)
 GPU			|Nvidia RTX 2060				|$160	|[ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=rtx+2060&_sacat=0&_sop=15&rt=nc&LH_BIN=1)		|ALT: AMD RX 5700 XT
 MEM			|G.Skill Ripjaws V 16GB 2x8GB DDR4-3600 CL18				|$40		|[pcpartpicker](https://pcpartpicker.com/product/n6RgXL/gskill-ripjaws-v-16-gb-2-x-8-gb-ddr4-3600-memory-f4-3600c18d-16gvk)		|ALT: Corsair Vengeance LPX 2x8GB DDR4-3600
-STORAGE		|WD Black SN770 1TB NVMe M.2 SSD TLC			|$70	| [pcpartpicker](https://pcpartpicker.com/product/YVytt6/western-digital-1-tb-m2-2280-nvme-solid-state-drive-wds100t3x0e)		|
+STORAGE		|Lexar NM800PRO 1TB NVMe M.2 SSD TLC			|$70	| [pcpartpicker](https://pcpartpicker.com/product/JXKKHx/lexar-professional-nm800pro-1-tb-m2-2280-nvme-solid-state-drive-lnm800p001t-rnnng)		|
 COOL		|Noctua NH-U12S Redux CPU Cooler					|$50		|[pcpartpicker](https://pcpartpicker.com/product/vV7G3C/noctua-nh-u12s-redux-7075-cfm-cpu-cooler-nh-u12s-redux)		|ALT: [Thermalright Silver Soul 135](https://pcpartpicker.com/product/c3pzK8/thermalright-silver-soul-135-82-cfm-cpu-cooler-ss135) ($40)
 PSU			|EVGA G5 Full-Modular 650W ATX			|$80	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&sort=price&th=1&e=6,5,4,3,2,1&p=1,2)		|ALT: Corsair CX650M ($90)
 TOTAL		|											|$815	|		|
@@ -801,11 +801,11 @@ CPU	|	Intel i5-12400F				|	$115	|pcpartpicker	|ALT: i5-12600KF
 GPU	|	AMD RX 6750 XT 12GB			|	$310	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#c=523,495&xcx=0&sort=price)	|ALT: AMD RX 7800 XT 16 GB
 MOBO	|	ASRock B760M-ITX/D4		|	$150	|pcpartpicker	|ALT: Gigabyte Z690 AORUS ELITE AX DDR5
 MEM	|	Teamforce VulcanZ 32GB 2x16GB DDR4-3600	|	$55	|pcpartpicker	|ALT: G.Skill Flare S5 2x16GB 32GB DDR5-6000
-STORAGE	|	WD SN570 500GB M.2 (OS)	|	$40	|pcpartpicker	|ALT: Solidigm P41 Plus 1TB M.2 (OS)
-STORAGE	|	WD SN580 2TB M.2 (GAMES)	|	$105	|pcpartpicker	|
+STORAGE	|	Lexar NM800PRO 500GB M.2 (OS)	|	$50	|pcpartpicker	|ALT: Lexar NM800PRO 1TB M.2 (OS)
+STORAGE	|	Solidigm P44 Pro 2TB M.2 (GAMES)	|	$140	|pcpartpicker	|
 PSU	|	Cooler Master V 850W SFX		|	$105	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&p=1,2&A=550000000000,2050000000000&sort=price&page=1)	|ALT: Corsair RM650x (2021) ATX
 COOL	|	Thermalright AXP120-X67	CPU Cooler	|	$35	|pcpartpicker	|ALT: Thermalright Silver Soul 135 (Air) / Arctic Liquid Freezer II 240 (AIO)
-TOTAL	|						|	**$1020**	|	
+TOTAL	|						|	**$1065**	|	
 
 <!-- Section -->
 
@@ -835,7 +835,7 @@ CPU			|AMD Ryzen 5600								|$120			|[pcpartpicker](https://pcpartpicker.com/pr
 GPU			|AMD Radeon RX 6600	|$180		|[pcpartpicker](https://pcpartpicker.com/products/video-card/#sort=price&c=436,511,509&L=69000000,271000000)|ALT: Nvidia RTX 2060 ($200)
 COOL		|Cooler Master MasterLiquid ML120L 120mm AIO				|$80		|[pcpartpicker](https://pcpartpicker.com/product/4TpmP6/cooler-master-masterliquid-ml120l-rgb-v2-6559-cfm-liquid-cpu-cooler-mlw-d12m-a18pc-r2)	|ALT: Corsair H60/H80i 120mm AIO ($80/$120), Noctua NH-L12S ($50)
 MEM			|Corsair Vengeance 16GB 2x8GB DDR4-3200					|$40			|[pcpartpicker](https://pcpartpicker.com/product/p6RFf7/corsair-memory-cmk16gx4m2b3200c16)	|
-STORAGE		|WD Black SN770 1TB NVMe M.2 SSD TLC					|$70		|[pcpartpicker](https://pcpartpicker.com/product/YVytt6/western-digital-1-tb-m2-2280-nvme-solid-state-drive-wds100t3x0e)	|ALT: WD Blue 6TB ($100) w/120mm AIO only, Seagate 2TB FireCuda ($80)
+STORAGE		|Lexar NM800PRO 1TB NVMe M.2 SSD TLC					|$70		|[pcpartpicker](https://pcpartpicker.com/product/JXKKHx/lexar-professional-nm800pro-1-tb-m2-2280-nvme-solid-state-drive-lnm800p001t-rnnng)	|ALT: WD SN850X 1TB M.2 ($75)
 PSU			|Corsair CX650M (2021) 650W ATX				|$80			|[pcpartpicker](https://pcpartpicker.com/product/x96p99/corsair-cx650m-2021-650-w-80-bronze-certified-semi-modular-atx-power-supply-cp-9020221-na)	|ALT: [EVGA SuperNOVA 550 GM SFX](https://pcpartpicker.com/product/QgyV3C/evga-supernova-gm-550w-80-gold-certified-fully-modular-sfx-power-supply-123-gm-0550-y1) ($110)
 TOTAL		|													|$765		|	|
 
@@ -858,7 +858,7 @@ MOBO		|ASRock B550M-ITX/ac					|$130			|[pcpartpicker](https://pcpartpicker.com/
 CPU			|AMD Ryzen 5600								|$120			|[pcpartpicker](https://pcpartpicker.com/product/PgcG3C/amd-ryzen-5-5600-36-ghz-6-core-processor-100-100000927box)	|ALT: Ryzen 5500
 GPU			|AMD Radeon RX 6600	|$180		|[pcpartpicker](https://pcpartpicker.com/products/video-card/#sort=price&c=436,511,509&L=69000000,304000000)|ALT: Nvidia RTX 2060 ($200)
 MEM			|Corsair Vengeance 16GB 2x8GB DDR4-3200					|$40			|[pcpartpicker](https://pcpartpicker.com/product/p6RFf7/corsair-memory-cmk16gx4m2b3200c16)	|
-STORAGE		|WD Black SN770 1TB NVMe M.2 SSD TLC					|$70		|[pcpartpicker](https://pcpartpicker.com/product/YVytt6/western-digital-1-tb-m2-2280-nvme-solid-state-drive-wds100t3x0e)	|
+STORAGE		|Lexar NM800PRO 1TB NVMe M.2 SSD TLC					|$70		|[pcpartpicker](https://pcpartpicker.com/product/JXKKHx/lexar-professional-nm800pro-1-tb-m2-2280-nvme-solid-state-drive-lnm800p001t-rnnng)	|ALT: WD SN850X 1TB M.2 ($75)
 COOL		|Thermalright AXP90-X47 CPU cooler 						|$35				|[pcpartpicker](https://pcpartpicker.com/product/7GTp99/thermalright-axp90-x47-black-4258-cfm-cpu-cooler-axp90-x47-black)	|ALT: ID Cooling IS-50X/55 ($30)
 COOL		|Noctua NF-A9x14 92mm Case fans 3x				|$60				|[Quietpc](https://www.quietpc.com/nf-a9x14-hs-pwm-ch-bk-s)	|2x is ok too for less noise, +4-5C temp
 PSU			|EVGA SuperNOVA 550 GM SFX				|$110			|[pcpartpicker](https://pcpartpicker.com/product/QgyV3C/evga-supernova-gm-550w-80-gold-certified-fully-modular-sfx-power-supply-123-gm-0550-y1)	|ALT: Cooler Master V550 SFX Gold ($105)
