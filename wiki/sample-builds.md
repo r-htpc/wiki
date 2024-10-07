@@ -678,25 +678,25 @@ TOTAL	|								|$330	|	|
 
 ### $500 720p/1080p Gaming Emulation Box (3.3L)
 
-This just uses a Ryzen 5600G APU, no dedicated GPU which is fine for light gaming and 4k video. A 5700G would give even better gaming performance.  
+This just uses a Ryzen 8500G APU, no dedicated GPU which is fine for light gaming and 4k video. A 8600G would give even better gaming performance.  
 
-Emulation: You should be able to play at 45-60 fps for most everything at 720p internal resolution and <= 32-bit systems at 1080p. Demanding platforms (like Xbox 360) and 64-bit titles, like BoTW, expect <= 30 fps@1080p. You can push Wii/PS3 to 60 fps@1080p, w/BoTW up to 50 fps at the extreme limits of a 5700G. Check out ETA PRIME's [5600G](https://youtu.be/wH0Gpk7Hi3A?t=558) and [5700G](https://www.youtube.com/watch?v=h66gd8kVlZ0) reviews for actual game data.  
+Emulation: You should be able to play at 45-60 fps for most everything at 720p internal resolution and <= 32-bit systems at 1080p. Demanding platforms (like Xbox 360) and 64-bit titles, like BoTW, expect <= 30 fps@1080p. You can push Wii/PS3 to 60 fps@1080p, w/BoTW up to 50 fps at the extreme limits of a 8600G. Check out ETA PRIME's [8600G](https://www.youtube.com/watch?v=puKstrlDLOI) reviews for actual game data.  
 
-Gaming: Expect 50 fps@1080p Med for most games, with a 5600G/5700G pushing that up to 60 fps@1080p Med sans harder games like Doom Eternal/Cyberpunk/etc.. which you'll have to run at 720p low. Check out ETA PRIME's [5600G](https://youtu.be/wH0Gpk7Hi3A?t=558) and [5700G](https://www.youtube.com/watch?v=ImrIc0PJEDw) reviews for actual game data.  
+Gaming: Expect 50 fps@1080p Med for most games, with a 8600G pushing that up to 60 fps@1080p Med sans harder games like Doom Eternal/Cyberpunk/etc.. which you'll have to run Low w/FSR upscaling.
 
-For an even smaller box, you could go with the Asrock Deskmini A300W/X300W at 1.9L as shown in the Notes column. And it comes out to about $45 cheaper since you don't need to buy a motherboard. Everything else stays the same.  
+For an even smaller box, you could go with the Asrock Deskmini X600 at 1.9L as shown in the Notes column. And it comes out to about $45 cheaper since you don't need to buy a motherboard. Everything else stays the same.  
 
 For a fanless build, with same perf., for $250 more, see build in HTPC section above
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
-CASE			|Inwin Chopin										|$95		|[pcpartpicker](https://pcpartpicker.com/product/7zfmP6/inwin-case-bq696blk)		|8.6"x9.6"x3.3" ALT: Deskmini A300W/X300W ($170) (1.9L)
-MOBO			|ASRock B550M-ITX/ac						|$130	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#f=8&s=33&sort=price&page=1)		|ALT: Deskmini: Not applicable
-CPU				|AMD Ryzen 5600G APU				|$130	|[pcpartpicker](https://pcpartpicker.com/product/sYmmP6/amd-ryzen-5-5600g-39-ghz-6-core-processor-100-100000252box)		|ALT: [Ryzen 5700G](https://pcpartpicker.com/products/cpu/#sort=price&g=537,489,418,419&k=33)
-MEM		|Silicon Power Gaming 2x8GB DDR4-3200		|$30		|[pcpartpicker](https://pcpartpicker.com/product/P4FKHx/silicon-power-sp016gxlzu320bdaj5-16-gb-2-x-8-gb-ddr4-3200-cl16-memory-sp016gxlzu320bdaj5)	|ALT: Deskmini: [2x8GB DDR4-3200 SODIMMS](https://pcpartpicker.com/products/memory/#xcx=0&b=ddr4&ff=ddr4_sodimm&sort=price&S=2666,8000&Z=16384002)
-STORAGE			|WD Black SN770 500GB NVMe M.2 SSD TLC			|$45		|[pcpartpicker](https://pcpartpicker.com/product/nWC48d/western-digital-500-gb-m2-2280-nvme-solid-state-drive-wds500g3x0e)		|ALT: [1TB M.2 SSD](https://pcpartpicker.com/product/YVytt6/western-digital-1-tb-m2-2280-nvme-solid-state-drive-wds100t3x0e) ($90)
-COOL			|Noctua NH-L9a-AM4 CPU Cooler							|$45		|[pcpartpicker](https://pcpartpicker.com/product/DZfhP6/noctua-nh-l9a-am4-338-cfm-cpu-cooler-nh-l9a-am4)		|
-TOTAL			|												|$475	|		|
+CASE			|Inwin Chopin/BQ656										|$100		|[amazon](https://www.amazon.com/InWin-BQ656-Mini-ITX-Internal-Optical/dp/B0CXLTTXM9)		|8.6"x9.6"x3.3" ALT: Deskmini X600 ($170) (1.9L)
+MOBO			|ASRock A620I Lightning Wifi						|$130	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#f=8&sort=price&xcx=0&s=41)		|ALT: Deskmini: Not applicable
+CPU				|AMD Ryzen 8500G APU				|$150	|[pcpartpicker](https://pcpartpicker.com/product/y3XV3C/amd-ryzen-5-8500g-41-ghz-6-core-processor-100-100000931box)		|ALT: [Ryzen 8600G](https://pcpartpicker.com/product/QqyH99/amd-ryzen-5-8600g-43-ghz-6-core-processor-100-100001237box)
+MEM		|Crucial Classic 2x8GB DDR5-5600		|$47		|[pcpartpicker](https://pcpartpicker.com/product/y4BzK8/crucial-classic-16-gb-2-x-8-gb-ddr5-5600-cl46-memory-ct2k8g56c46u5)	|ALT: Deskmini: [2x8GB DDR5-5600 SODIMMS](https://pcpartpicker.com/products/memory/#xcx=0&b=ddr5&Z=16384002&sort=price&ff=ddr5_sodimm)
+STORAGE			|WD Black SN770 500GB NVMe M.2 SSD TLC			|$45		|[pcpartpicker](https://pcpartpicker.com/product/nWC48d/western-digital-500-gb-m2-2280-nvme-solid-state-drive-wds500g3x0e)		|ALT: [1TB M.2 SSD](https://pcpartpicker.com/product/YVytt6/western-digital-1-tb-m2-2280-nvme-solid-state-drive-wds100t3x0e) ($75)
+COOL			|Thermalright AXP90-X53 CPU Cooler							|$25		|[pcpartpicker](https://pcpartpicker.com/product/3g7G3C/thermalright-axp90-x53-4258-cfm-cpu-cooler-axp90-x53)		|
+TOTAL			|												|$497	|		|
 
 <!-- Sub-Section -->
 
