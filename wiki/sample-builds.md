@@ -167,9 +167,9 @@ $175-$500: SMALL/MEDIUM: AMD - Ryzen **3x**00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd
 
 ### 4K HDR PLAYER (2L)
 
-TL;DR: You want a small 4K@60 HDR player and don't need any, or minimal local storage.  
+TL;DR: You want a small 4K@60 HDR player and don't need any, or need only minimal 2.5" local storage.  
 
-Tiny, simple 4K player. For local content, 4k netflix, youtube, browsing, light 1080p gaming.  
+Tiny, simple 4K player. Good for 4K playback; local content, netflix, youtube, HDR, browsing, and game streaming; light 1080p gaming.  
 
 You have the option to bump up to a better Ryzen 5600G/5700G CPU for $25-50 more. If you can't afford the optional CPU cooler, pop the top off the stock AMD one to make it fit.  
 
@@ -208,9 +208,9 @@ TOTAL		|										|	$405	|	|
 
 ### 4K HDR ALL-IN-ONE PLAYER (9L)
 
-TL;DR: You care about 4K@60 quality, 4K Netflix and HDR, may want HDD media storage and want a value build that doesn't break the bank.  
+TL;DR: You want a 4K@60 HDR player, may want 3.5" HDD media storage and want a value build that doesn't break the bank.  
 
-An AMD Ryzen APU is the best way to get 4k Netflix and HDR at the same time. Light 720p/1080p gaming can also be had on it. If you want **AV1** decoding to future-proof, go with the Intel i3-12100 alternative with respective HW changes (DeskMeet B660, etc..). You will give up the Ryzen gaming perf if you go this way, so if you want both, go with the latest [Ryzen 8x00G](https://pcpartpicker.com/products/cpu/#xcx=0&g=570,569,568&sort=price&page=1) APUs with respective changes (DeskMeet X600, DDR5). 
+This build is good for 4K playback; local content, netflix, youtube, HDR, and game streaming. Light 720p/1080p gaming can also be had on it. If you want **AV1** decoding to future-proof, go with the Intel i3-12100 alternative with respective HW changes (DeskMeet B660, etc..). You will give up the Ryzen gaming perf if you go this way, so if you want both, go with the latest [Ryzen 8x00G](https://pcpartpicker.com/products/cpu/#xcx=0&g=570,569,568&sort=price&page=1) APUs with respective changes (DeskMeet X600, DDR5). 
 
 An Intel alternative is also provided in the part list if you want to future proof a little more with AV1 decoding, but plan to give up any light gaming vs the Ryzen.  
 
@@ -870,5 +870,5 @@ TOTAL		|											|$834			|	|
 
 ---
 
-*This page was last updated on 2024-10-05*
+*This page was last updated on 2024-10-09*
 
