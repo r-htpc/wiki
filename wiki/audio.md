@@ -438,11 +438,11 @@ Gaming: [PCM 5.1/7.1, Dolby Digital Live w/supported sound card or APO, Dolby At
 ### Why is the volume of my audio so wide ranging? e.g. voices are quiet, explosions are loud
 
 If you are playing audio with a different channel configuration than the number of speakers you have, you will be missing some audio fidelity. 
-For example, you may notice that voices are very quiet if you are playing Surround sound (5.1+) when you only have Stereo (2.0) speakers. This is because voices are in the center channel of surround sound audio, which isn't in stereo.  
+For example, you may notice that voices are very quiet if you are playing Surround sound (5.1+) when you have less than 5.1 distinct speakers. This is because voices are in the center channel of surround sound audio, which is not present in sounds systems that are stereo only or lower-quality soundbars.  
 
 There are a number of ways to solve this, but there is usually not one silver bullet. You may use one or more of the following methods (such as mixing + DRC + normalize) and depending on your sound system configuration (bitstreaming vs not), capabilities, software used, and even just what sounds best to you.  
 
-1. If you ARE bitstreaming, check if your sound system (AVR, soundbar, etc..) has built into it features like Dynamic Range Compression/Dynamic Volume/EQ, Downmixing and/or the ability to boost certain channel/speaker levels. DRC/Dynamic Volume/EQ is a good place to start.  
+1. If you ARE bitstreaming, you won't be able to change anything in your HTPC. Check if your sound system (AVR, soundbar, etc..) has built into it features like Dynamic Range Compression/Dynamic Volume/EQ, Downmixing and/or the ability to boost certain channel/speaker levels. DRC/Dynamic Volume/EQ is a good place to start.  
 
 2. If you're NOT bitstreaming and you're using Windows, make sure the speaker config in Windows sound control panel is configured to match the speaker configuration you have or are mixing down to in #3.  
 
@@ -452,19 +452,20 @@ There are a number of ways to solve this, but there is usually not one silver bu
 VLC's compressor gives you more control and you can start by setting it to a RMS/Attack/Release/Threshold/Ratio/Makeup of 0/1.5ms/300ms/-20dB/3.0:1/1dB/15dB. A higher ratio (anything > 8.0:1) will compress more and is akin to a limiter.  
 MPC-BE has a ffmpeg filter preset called "compand" under its Sound Processing section.  
 Internal/External LAV filters have a DRC option in the Audio Decoder for AC3/E-AC3 formats.  
+For system-wide, use [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) with VST-based compressors like [MJUC](https://klanghelm.com/contents/main.html) or [RoughRider](https://www.audiodamage.com/pages/free-and-legacy).  
 You can read more about DRC [here](https://www.realhd-audio.com/?p=6749) and [here](https://www.realhd-audio.com/?p=3294).  
 
-5. If you're NOT bitstreaming, Enable Volume Normalization in your media player/middleware. Normalization finds the highest peak and basically raises the rest of the audio up to that level. Normalization can and usually is used in conjunction with DRC above, after the fact. DRC will flatten the audio and then Normalization will make the whole thing louder. Normalization can also allow you to manually boost channel levels (like in ffdshow's Volume control), before downmixing.  
+6. If you're NOT bitstreaming, Enable Volume Normalization in your media player/middleware. Normalization finds the highest peak and basically raises the rest of the audio up to that level. Normalization can and usually is used in conjunction with DRC above, after the fact. DRC will flatten the audio and then Normalization will make the whole thing louder. Normalization can also allow you to manually boost channel levels (like in ffdshow's Volume control), before downmixing.  
 VLC's volume normalizer can also work the opposite way, as more of a gain reducer; You can start with Buffers of 10 and if you set Max Vol Level to < 1 it will make it quieter; if you set the Level to > 1 it will make it louder.  
 MPC-BE has Auto Volume Control under its Sound Processing section.  
 Internal/External LAV filters have a Normalize Matrix option in the Mixing section of the Audio Decoder.  
 You can read more about Normalization [here](https://www.realhd-audio.com/?p=6749) and [here](https://www.realhd-audio.com/?p=3294).  
 
-6. If you're NOT bitstreaming, Use a Equalizer in your media player/middleware to emphasize or de-emphasize the frequencies in question. VLC, MPC-HC and [LAV](https://github.com/Nevcairiel/LAVFilters/releases) have basic equalizers. The [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) middleware will give you more control. For better voice emphasis, start by lowering the < 100Hz range and boosting the 1000Hz-4000Hz range.  
+7. If you're NOT bitstreaming, Use a Equalizer in your media player or system-wide middleware to emphasize or de-emphasize the frequencies in question. VLC, MPC-HC and [LAV](https://github.com/Nevcairiel/LAVFilters/releases) have basic equalizers. The [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) middleware will give you more, system-wide control. For better voice emphasis, start by lowering the < 100Hz range and boosting the 1000Hz-4000Hz range. 
 
-7. If you're using a sound system or TV, check for a volume leveling/boost mode on it. This may be called Auto Volume, Night Mode or Volume Leveling for leveling out frequencies or Clear Voice to boost center channel frequencies on voices.  
+8. If you're using a sound system or TV, check for a volume leveling/boost mode on it. This may be called Auto Volume, Night Mode or Volume Leveling for leveling out frequencies or Clear Voice to boost center channel frequencies on voices.  
 
-8. If you're playing local content, re-encode the audio stream in the content to your speaker configuration. For example, to fix 5.1 for stereo you might use FFMpeg's [dynamic audio normalization](https://ffmpeg.org/ffmpeg-filters.html#dynaudnorm) with the flag "-af dynaudnorm" to level out the audio, or the [downmix](https://trac.ffmpeg.org/wiki/AudioChannelManipulation) flags to downmix the channels, or use [eac3to](https://en.wikibooks.org/wiki/Eac3to/How_to_Use) with the flag "-downtoStereo" or "-downDPL". This is more work up front, but if you want the audio consistent across a wide range of media players/clients, which may or may not have audio normalization functionality, this becomes a more feasible option. If you need to change content on a mass scale, look at the [Tdarr](https://tdarr.io/) server software. It can watch a number of folders and then use plugins to re-encode your audio streams based on conditions you specify.  
+9. If you're playing local content, re-encode the audio stream in the content to your speaker configuration. For example, to fix 5.1 for stereo you might use FFMpeg's [dynamic audio normalization](https://ffmpeg.org/ffmpeg-filters.html#dynaudnorm) with the flag "-af dynaudnorm" to level out the audio, or the [downmix](https://trac.ffmpeg.org/wiki/AudioChannelManipulation) flags to downmix the channels, or use [eac3to](https://en.wikibooks.org/wiki/Eac3to/How_to_Use) with the flag "-downtoStereo" or "-downDPL". This is more work up front, but if you want the audio consistent across a wide range of media players/clients, which may or may not have audio normalization functionality, this becomes a more feasible option. If you need to change content on a mass scale, look at the [Tdarr](https://tdarr.io/) server software. It can watch a number of folders and then use plugins to re-encode your audio streams based on conditions you specify.  
 
 <!-- Sub-Section -->
 
