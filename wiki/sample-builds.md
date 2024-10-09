@@ -169,7 +169,7 @@ $175-$500: SMALL/MEDIUM: AMD - Ryzen **3x**00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd
 
 TL;DR: You want a small 4K@60 HDR player and don't need any, or need only minimal 2.5" local storage.  
 
-Tiny, simple 4K player. Good for 4K playback; local content, netflix, youtube, HDR, browsing, and game streaming; light 1080p gaming.  
+Tiny, simple player. Good for 4K playback; local content, netflix, youtube, HDR, browsing, and game streaming; light 1080p gaming.  
 
 You have the option to bump up to a better Ryzen 5600G/5700G CPU for $25-50 more. If you can't afford the optional CPU cooler, pop the top off the stock AMD one to make it fit.  
 
