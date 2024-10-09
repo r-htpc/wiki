@@ -86,9 +86,10 @@ $175-$500: SMALL/MEDIUM: AMD - Ryzen **3x**00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd
   - 4K@120Hz: See "Specialized: 4K@120Hz" section
 - Emulation/Light Gaming:
   - $85-100: Low (<= Gamecube/PS1)
-    - [Odroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-4gbyte-ram-2/) (S922X)
+    - [Odroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-4gbyte-ram-2/) (S922X) (Fanless)
     - [Intel NUC 8i3/8i5](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=nuc+%288i3%2C8i5%2C8109u%2C8130u%2C8th%2C8259u%29&_sacat=179&LH_TitleDesc=1&_odkw=nuc+%288i3%2C8i5%2C8109u%2C8130u%2C8th%29&_osacat=179&_sop=15&LH_PrefLoc=2) (USED)
   - $150-200: Med (<= Wii/PS2)
+    - [Odroid H4](https://www.hardkernel.com/shop/odroid-h4/) (N97) (Fanless)
     - [HP EliteDesk 705 G5](https://www.ebay.com/sch/179/i.html?_from=R40&_nkw=hp+705+g5+%283200g%2C3400g%29&LH_TitleDesc=1&_sop=15&LH_PrefLoc=2&rt=nc&LH_BIN=1) (AMD 3400G)
     - [Minisforum UN300](https://www.amazon.com/MINISFORUM-LPDDR5-i3-N300-Threads-USB3-2/dp/B0CQYW121V) (N300)  
   - $300: Med+ (<= Switch)
@@ -117,7 +118,7 @@ $175-$500: SMALL/MEDIUM: AMD - Ryzen **3x**00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd
 
 ### Specialized: Fanless
 
-- [Asus PN42](https://www.asus.com/us/displays-desktops/mini-pcs/pn-series/asus-expertcenter-pn42/), [Zotac CI6xx](https://www.zotac.com/us/product/mini_pcs/all?field_filter_m_series_tid%5B%5D=2229&field_filter_m_processor_tid%5B%5D=2241&field_filter_m_processor_tid%5B%5D=2242&field_filter_m_processor_tid%5B%5D=2243&field_filter_m_processor_tid%5B%5D=2510), [Asus PL64](https://www.asus.com/displays-desktops/mini-pcs/pl-series/mini-pc-pl64/), [Mele Quieter](https://www.amazon.com/s?k=mele+quieter&i=electronics), Intel/Asus NUC+[Akasa Case](https://www.akasa.co.uk/update.php?tpl=list%2FCHASSIS+POWER.tpl&type=CHASSIS+POWER&type_sub=FANLESS+CASES&fval=all), [SimplyNUC PorCoolPine](https://simplynuc.com/embedded-industrial/), [OnLogic NUCs](https://www.onlogic.com/computers/nuc/)  
+- [Odroid H4](https://www.hardkernel.com/shop/odroid-h4/), [Asus PN42](https://www.asus.com/us/displays-desktops/mini-pcs/pn-series/asus-expertcenter-pn42/), [Zotac CI6xx](https://www.zotac.com/us/product/mini_pcs/all?field_filter_m_series_tid%5B%5D=2229&field_filter_m_processor_tid%5B%5D=2241&field_filter_m_processor_tid%5B%5D=2242&field_filter_m_processor_tid%5B%5D=2243&field_filter_m_processor_tid%5B%5D=2510), [Asus PL64](https://www.asus.com/displays-desktops/mini-pcs/pl-series/mini-pc-pl64/), [Mele Quieter](https://www.amazon.com/s?k=mele+quieter&i=electronics), Intel/Asus NUC+[Akasa Case](https://www.akasa.co.uk/update.php?tpl=list%2FCHASSIS+POWER.tpl&type=CHASSIS+POWER&type_sub=FANLESS+CASES&fval=all), [SimplyNUC PorCoolPine](https://simplynuc.com/embedded-industrial/), [OnLogic NUCs](https://www.onlogic.com/computers/nuc/)  
 
 <!-- Sub-Section -->
 
