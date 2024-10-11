@@ -557,12 +557,12 @@ For app/cache storage, such things as VMs, Docker data and media caching, we hav
 
 Unraid will boot off the USB flash drive, so we have a decent one here. Consider buying an extra one as a backup.  
 
-Lots of well-priced RAM for VMs, Dockers and, if you so choose, Plex media transcoding in RAM.  
+Lots of well-priced DDR4 RAM for VMs, Dockers and, if you so choose, Plex media transcoding in RAM.  
 
-As a Plex server, with the purchased Plex Pass, you can transcode 8x4k or 20x1080p transcodes concurrently on the CPU's iGPU. Without a Plex Pass, 
+As a Plex server, with the purchased Plex Pass, you can transcode 10x4k or 20x1080p transcodes concurrently on the CPU's iGPU. Without a Plex Pass, 
 expect 8x1080p streams with CPU software transcoding. For more transcodes, add a used [Quadro P5000](https://www.elpamsoft.com/?p=Plex-Hardware-Transcoding) dGPU (11x4k,22x1080p) ($300).  
 
-The LSI HBA adapter has 8 ports for SATA drives. You can use the 8x SATA ports on the motherboard for your HDDs, then add on the HBA when you outgrow those, or vice-versa.  
+The LSI HBA adapter has 8 ports for SATA drives. You can use the SATA ports on the motherboard for your HDDs, then add on the HBA when you outgrow those, or vice-versa.  
 
 For the motherboard, in theory any Z690/Z790 ATX/uATX board will work with 2 x16 slots, if you want to have support for a potential dGPU upgrade. We need at least 1 slot for our LSI HBA Adapter to connect our data drives to and then 1 slot for a potential dGPU. On the chosen board we also have dual LAN. 
 
@@ -572,11 +572,11 @@ PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE		|	Fractal Design Meshify 2			|	$130	|	[pcpartpicker](https://pcpartpicker.com/product/jqTzK8/fractal-design-meshify-2-atx-mid-tower-case-fd-c-mes2a-02)	|[[specs](https://www.fractal-design.com/products/cases/meshify/meshify-2/black-tg-dark-tint/)]. ALT: Fractal Design Define 7 ($160)
 CPU		|	Intel i5-12500 6C/12T CPU (65W)			|	$200	|	[pcpartpicker](https://pcpartpicker.com/product/hvC48d/intel-core-i5-12500-3-ghz-6-core-processor-bx8071512500)	|ALT: [Intel i5-12600k](https://pcpartpicker.com/product/BB4Ycf/intel-core-i5-12600k-37-ghz-6-core-processor-bx8071512600k)
-MOBO		|ASRock Z690 Extreme DDR4 ATX			|	$200	|	[pcpartpicker](https://pcpartpicker.com/product/FNWzK8/asrock-z690-extreme-atx-lga1700-motherboard-z690-extreme)	|ALT: [Other Motherboards](https://pcpartpicker.com/products/motherboard/#mt=ddr4&h=2,8&K=6,13&sort=price&c0=1x2500-1x1000,1x2500&xcx=0&s=40&f=2,7)
+MOBO		|ASRock Z690 Extreme DDR4 ATX			|	$200	|	[pcpartpicker](https://pcpartpicker.com/product/FNWzK8/asrock-z690-extreme-atx-lga1700-motherboard-z690-extreme)	|ALT: [Other DDR4 Motherboards](https://pcpartpicker.com/products/motherboard/#mt=ddr4&h=2,8&K=6,13&sort=price&c0=1x2500-1x1000,1x2500&xcx=0&s=40&f=2,7)
 MEM		|	G.Skill Ripjaws V 32GB (2x16GB) DDR4-3200	|	$60	|	[pcpartpicker](https://pcpartpicker.com/product/kXbkcf/gskill-memory-f43200c16d32gvk)	| ALT: [64GB (2x32GB) DDR4-3600](https://pcpartpicker.com/product/kmBhP6/gskill-ripjaws-v-64-gb-2-x-32-gb-ddr4-3600-memory-f4-3600c18d-64gvk)
 STORAGE		|	Samsung Bar Plus 64GB USB Flash Drive (BOOT)	|	$15	|	[amazon](https://www.amazon.com/Samsung-BAR-Plus-64GB-MUF-64BE4/dp/B07BPGF6N3/)		|
-STORAGE		|	2x Solidigm P44 Pro 1TB NVMe M.2 SSD (APP/CACHE)	|	$180	|	[pcpartpicker](https://pcpartpicker.com/product/vrTp99/solidigm-p44-pro-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-ssdpfkkw010x7x1)	|ALT: SK Hynix P31/P41
-STORAGE		|	11x Seagate Exos X16 14TB SATA HDD (DATA)		|	$2300	|	[amazon](https://www.amazon.com/Seagate-3-5-Inch-Internal-Enterprise-ST14000NM001G/dp/B07T63FDJQ)	| SEPARATE. ALT: WD Ultrastar DC HC530 14TB
+STORAGE		|	2x Solidigm P44 Pro 1TB NVMe M.2 SSD (APP/CACHE)	|	$200	|	[pcpartpicker](https://pcpartpicker.com/product/vrTp99/solidigm-p44-pro-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-ssdpfkkw010x7x1)	|ALT: SK Hynix P31/P41
+STORAGE		|	11x Seagate Exos X16 14TB SATA HDD (DATA)		|	$2300	|	[dsictech](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/14TB/manufacturer/Seagate?order=onlinecustomerprice:asc)	| SEPARATE. ALT: WD Ultrastar DC HC530 14TB
 STORAGE		|	LSI 9207-8i Adapter (x8) + Cables, in IT/HBA mode	|	$40	|	[ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=9207+8i+%2Bcables&_sacat=0&LH_TitleDesc=0&_dmd=1&_stpos=80232-6476&_odkw=9201+%2B16i+%2Bcables&_osacat=0&_sop=15&LH_PrefLoc=2&_ipg=60&_sadis=15)	|ALT: [Adaptec ASR 71605 (x16)](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=adaptec+asr+71605+%2Bcables&_sacat=0&LH_TitleDesc=0&_odkw=Adaptec+ASR+71605&_osacat=0) ($50)
 STORAGE          |       SATA Power Splitter Cables                                  |       $15  |       [amazon](https://www.amazon.com/Cable-Matters-Pack-Power-Splitter/dp/B012BPLW08)   |  
 COOL		|	Arctic P14 PWM 140 mm Fan (FRONT)		|	$15	|	[amazon](https://www.amazon.com/dp/B07GZJY4TM?tag=pcpapi-20&linkCode=ogi&th=1&psc=1)		|
@@ -585,7 +585,7 @@ PSU		|	SeaSonic FOCUS Plus 750 Gold ATX PSU	|	$100	|	[pcpartpicker](https://pcpa
 SOFTWARE	|	Unraid Unleashed - Unlimited device license		|	$110	|	[limetech](https://unraid.net/pricing)	|
 SOFTWARE	|	Plex Media Server				|	$0	|	[Plex](https://www.plex.tv/downloads)		|Free
 LICENSE		|	Plex Pass					|	$120	|	[Plex](https://www.plex.tv/plex-pass/)		|Lifetime cost or $40/year, $5/month.
-TOTAL		|							|	$1220	|			|
+TOTAL		|							|	$1240	|			|
 
 <!-- Sub-Section -->
 
