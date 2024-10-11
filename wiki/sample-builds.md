@@ -521,7 +521,7 @@ CASE|Fractal Design Node 304|$100|[newegg](https://www.newegg.com/black-fractal-
 CPU|Intel i3-12100 CPU, 60W|$115|[pcpartpicker](https://pcpartpicker.com/product/qrhFf7/intel-core-i3-12100-33-ghz-quad-core-processor-bx8071512100)|Passmark CPU Mark: [13800](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i3-12100&id=4687). ALT: i5-12400 ($150)
 MOBO|ASRock B760M-ITX/D4|$150|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&s=40&f=8&sort=price&page=1)|ALT: [B660M/B760M uATX mobo](https://pcpartpicker.com/products/motherboard/#f=7&sort=price&xcx=0&s=40&K=5,13)
 MEM|Team T-Force Vulcan Z 16GB 2x8GB DDR4-3200|$40|[pcpartpicker](https://pcpartpicker.com/product/z3VD4D/team-t-force-vulcan-z-16-gb-2-x-8-gb-ddr4-3200-memory-tlzgd416g3200hc16cdc01)|ALT: Team T-Force Vulcan Z 32GB 2x16GB DDR4-3200 ($60)
-STORAGE|Samsung Bar Plus 64GB USB Flash Drive (BOOT)|$12|[amazon](https://www.amazon.com/Samsung-BAR-Plus-64GB-MUF-64BE4/dp/B07BPGF6N3/)|
+STORAGE|PNY Attache 4 32GB USB Flash Drive (BOOT)|$12|[amazon](https://www.amazon.com/PNY-Attache-Drives-3-Pack-P-FD32GX3ATT4-GE/dp/B07YVY2H1J)|
 STORAGE|Lexar NM800PRO 1TB NVMe M.2 SSD (APP/CACHE)|$70|[pcpartpicker](https://pcpartpicker.com/product/JXKKHx/lexar-professional-nm800pro-1-tb-m2-2280-nvme-solid-state-drive-lnm800p001t-rnnng)|ALT: [Crucial P5 Plus](https://pcpartpicker.com/product/7nXJ7P/crucial-p5-plus-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-ct1000p5pssd8) ($70)
 STORAGE|3 x Seagate Exos X14 12TB HDD (DATA)|$540|[disctech](https://www.disctech.com/Seagate-Exos-X14-ST12000NM0538-12TB-3.5-LFF-6Gbps-7.2K-RPM-FastFormat-512e-Enterprise-SATA-Hard-Disk)| SEPARATE. ALT: [Ultrastar HC530 14TB](https://www.disctech.com/interface-types/SATA?order=relevance:asc&keywords=hc530) (better $/GB)
 STORAGE|LSI 9207-8i, in IT/HBA mode|$40|[ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=9207+8i+%2Bcables&_sacat=0&LH_TitleDesc=0&_dmd=1&_stpos=80232-6476&_odkw=9201+%2B16i+%2Bcables&_osacat=0&_sop=15&LH_PrefLoc=2&_ipg=60&_sadis=15)|OPTIONAL. For more than 4xSATA ports/better controller support. ALT: [SATA card](https://www.amazon.com/dp/B0BNFBXBNS)
@@ -555,7 +555,7 @@ that'd give you 70TB usable and backed-up. If you wanted to make up for the lost
 
 For app/cache storage, such things as VMs, Docker data and media caching, we have 2 SSDs to create a 1TB parity-protected array (essentially a RAID1).  
 
-Unraid will boot off the USB flash drive, so we have a decent one here. Consider buying an extra one as a backup.  
+Unraid will boot off the USB flash drive, so we have a reliable USB 2.0 one here, with backups.  
 
 Lots of well-priced DDR5 RAM for VMs, Dockers and, if you so choose, Plex media transcoding in RAM.  
 
@@ -574,7 +574,7 @@ CASE		|	Fractal Design Meshify 2			|	$130	|	[pcpartpicker](https://pcpartpicker.
 CPU		|	Intel i5-12500 6C/12T CPU (65W)			|	$200	|	[pcpartpicker](https://pcpartpicker.com/product/hvC48d/intel-core-i5-12500-3-ghz-6-core-processor-bx8071512500)	|ALT: [Intel i5-12600k](https://pcpartpicker.com/product/BB4Ycf/intel-core-i5-12600k-37-ghz-6-core-processor-bx8071512600k)
 MOBO		|ASRock Z690 Taichi DDR5 ATX			|	$200	|	[pcpartpicker](https://pcpartpicker.com/product/VVC48d/asrock-z690-taichi-atx-lga1700-motherboard-z690-taichi)	|ALT: [Other DDR5 Motherboards](https://pcpartpicker.com/products/motherboard/#h=2,8&K=6,13&sort=price&c0=1x2500-1x1000,1x2500&xcx=0&s=40&f=2,7&mt=ddr5)
 MEM		|	G.Skill Flare S5 32GB (2x16GB) DDR5-6000	|	$85	|	[pcpartpicker](https://pcpartpicker.com/product/XsqPxr/gskill-ripjaws-s5-32-gb-2-x-16-gb-ddr5-6000-cl36-memory-f5-6000j3636f16gx2-rs5k)	| ALT: [64GB (2x32GB) DDR5](https://pcpartpicker.com/products/memory/#xcx=0&Z=65536002&sort=price&ff=ddr5&S=5600,8400)
-STORAGE		|	Samsung Bar Plus 64GB USB Flash Drive (BOOT)	|	$15	|	[amazon](https://www.amazon.com/Samsung-BAR-Plus-64GB-MUF-64BE4/dp/B07BPGF6N3/)		|
+STORAGE		|	PNY Attache 4 32GB USB Flash Drive (BOOT)	|	$12 |	[amazon](https://www.amazon.com/PNY-Attache-Drives-3-Pack-P-FD32GX3ATT4-GE/dp/B07YVY2H1J)		|
 STORAGE		|	2x Solidigm P44 Pro 1TB NVMe M.2 SSD (APP/CACHE)	|	$200	|	[pcpartpicker](https://pcpartpicker.com/product/vrTp99/solidigm-p44-pro-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-ssdpfkkw010x7x1)	|ALT: SK Hynix P31/P41
 STORAGE		|	11x Seagate Exos X16 14TB SATA HDD (DATA)		|	$2300	|	[disctech](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/14TB/manufacturer/Seagate?order=onlinecustomerprice:asc)	| SEPARATE. ALT: WD Ultrastar DC HC530 14TB
 STORAGE		|	LSI 9207-8i Adapter (x8) + Cables, in IT/HBA mode	|	$40	|	[ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=9207+8i+%2Bcables&_sacat=0&LH_TitleDesc=0&_dmd=1&_stpos=80232-6476&_odkw=9201+%2B16i+%2Bcables&_osacat=0&_sop=15&LH_PrefLoc=2&_ipg=60&_sadis=15)	|ALT: [Adaptec ASR 71605 (x16)](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=adaptec+asr+71605+%2Bcables&_sacat=0&LH_TitleDesc=0&_odkw=Adaptec+ASR+71605&_osacat=0) ($50)
@@ -585,7 +585,7 @@ PSU		|	SeaSonic FOCUS Plus 750 Gold ATX PSU	|	$100	|	[pcpartpicker](https://pcpa
 SOFTWARE	|	Unraid Unleashed - Unlimited device license		|	$110	|	[limetech](https://unraid.net/pricing)	|
 SOFTWARE	|	Plex Media Server				|	$0	|	[Plex](https://www.plex.tv/downloads)		|Free
 LICENSE		|	Plex Pass					|	$120	|	[Plex](https://www.plex.tv/plex-pass/)		|Lifetime cost or $40/year, $5/month.
-TOTAL		|							|	$1255	|			|
+TOTAL		|							|	$1252	|			|
 
 <!-- Sub-Section -->
 
