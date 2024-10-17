@@ -288,7 +288,7 @@ Silverstone GD07				|5+4/6		|2		|$180		|17.3 x 6.9 x 17.1			|No		|33.5			|EATX/A
 Cooler Master N200				|3+1		|4		|$55		|7.9 x 17.5 x 14.9 			|No		|33.7			|uATX/ITX				|3x3.5",1x5.25"
 BitFenix Prodigy M 2022			|4	|5		|$100		|9.84 x 15.91 x 14.13		|No		|36.2			|uATX/ITX				|BFC-PM2-300-KKGSK-RP - [link](https://www.bitfenix.com/products/chassis/micro-atx/prodigy-m-2022/)
 FD Focus G Mini					|2+2/3	|NA		|$55		|8.07 x 15.08 x 18.27		|No		|36.4			|uATX				|2x3.5",2x5.25", +2x3.5" in 5.25" (or +3 w/[Evercool adapter](https://www.amazon.com/EverCool-Dual-Drive-Triple-Cooling/dp/B0032UUGF4)) Could probably fit 8x3.5 w/2x[Phanteks 2-drive](https://www.amazon.com/Phanteks-Stackable-Bracket-Cases-PH-HDDKT_03/dp/B07GY2B3WP) cages
-Silverstone CS382				|8+1		|NA		|$215		| 8.54 x 15.94 x 17.76							|**YES**	|39.6				|uATX/ITX			|1x5.25", 168mm CPU, ATX PSU. [link](https://www.silverstonetek.com/en/product/info/computer-chassis/cs382/)
+Silverstone CS382				|8+1		|2		|$215		| 8.54 x 15.94 x 17.76							|**YES**	|39.6				|uATX/ITX			|1x5.25", 168mm CPU, ATX PSU. [link](https://www.silverstonetek.com/en/product/info/computer-chassis/cs382/)
 **Cooler Master N300**           |8+2/3 |1      |$55        |7.5 x 19.4 x 16.8          |No     |39.8           |ATX/uATX           |8x3.5",2x5.25". [link](https://www.coolermaster.com/en-au/products/n300/)
 **Cooler Master N400**	  	     |8+2/3	|3		|$80		|7.5 x 19.7 x 16.7			|No		|40.6			|ATX/uATX			|8x3.5",2x5.25". [link](https://www.coolermaster.com/catalog/cases/mid-tower/n400/)
 **Fractal Design Node 804**		|8+2		|2/4		|$110			|13.5 x 12.0 x 15.3			|No		|40.3			|uATX/ITX			|ATX PSU, Cube - [link](https://www.fractal-design.com/products/cases/node/node-804/black/)
