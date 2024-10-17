@@ -271,10 +271,9 @@ iStarUSA S-35-B4/B5/DE4/DE5				|4/5	|NA		|$140-160	|8.68 x 8.90 x 12.76		|**YES*
 iStarUSA S-35-3/S-35EX			|3/5	|NA		|$85		|8.69 x 8.90 x 12.76		|No		|16.2			|ITX				|EX has 5.25"x3 (3.5"x5 with 5-in-3 adapter), 1U Flex PSU
 Chenbro SR301					|4		|NA		|$240		|7.78 x 12.2" x 10.63		|**YES**	|16.5			|ITX				|SR30169. w/PSU
 U-NAS NSC-810A				|8		|1		|$220		|12.4 x 7.8 x 10.8			|**YES**	|17.0			|uATX/ITX			|1x2.5 int, Flex PSU. [link](https://www.u-nas.com/xcart/cart.php?target=product&product_id=17640)
-HciPC 6bay P401-1 HCNAS			|6		|NA		|$65+70		|12.59 x 9.84 x 8.66		|No		|17.6			|ITX				|Node 304 clone. Pricey Shipping! - [link](https://www.aliexpress.com/item/32719919894.html?spm=a2g0o.detail.1000014.1.4bab14f6MEe7Us&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.14976.177813.0&scm_id=1007.14976.177813.0&scm-url=1007.14976.177813.0&pvid=b3e5fc96-0d9f-495e-b705-4d80981a3b5a&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.14976.177813.0,pvid:b3e5fc96-0d9f-495e-b705-4d80981a3b5a,tpp_buckets:668%230%23131923%2358_668%23808%235965%23588_668%23888%233325%233_4976%230%23177813%2316_4976%232711%237538%23700_4976%233223%2310328%232_4976%233104%239653%235_4976%233141%239887%239_668%232846%238110%23377_668%232717%237558%23179_)
 Norco ITX-S8					|8		|NA		|$230		|8 x 10.2 x 13.25			|**YES**	|17.7			|ITX				|1x2.5 int, SFF-8643x2, 1U Flex PSU. Hard to find
 Jonsbo N3					|8		|1		|$155		|9.2 x 10.3 x 11.7			|**YES**	|18.2			|ITX				|130mm CPU, SFX PSU - [link](https://www.jonsbo.com/en/products/N3.html)
-**Fractal Design Node 304**						|6		|NA		|$90		|10 x 8.27 x 14.72			|No		|19.3			|ITX/DTX			|[link](https://www.fractal-design.com/products/cases/node/node-304/black/)
+**Fractal Design Node 304**						|6		|NA		|$90		|10 x 8.27 x 14.72			|No		|19.3			|ITX/DTX			|165mm CPU, ATX PSU - [link](https://www.fractal-design.com/products/cases/node/node-304/black/)
 Jonsbo N4					|8		|2		|$130		|11.3 x 9 x 11.8			|**YES**	|19.6			|uATX/ITX				|70mm CPU, SFX PSU - [link](https://www.jonsbo.com/en/products/N4Black.html)
 FD Core 500						|3+1	|3		|$60		|9.84 x 8.39 x 14.96		|No		|20.2			|ITX/DTX			|ATX PSU, 1x5.25", +1 3.5" in 5.25" bay
 Silverstone GD06				|4+1		|2		|$140		|17.32 x 5.91 x 13.39		|No		|22.4			|uATX/ITX			|70-120mm CPU COOL, ATX PSU, +1 3.5" in 5.25" bay, full dvd.
@@ -320,6 +319,7 @@ CASE							|3.5"	|2.5"	|COST		|W x H x D (in)				|H.SWAP	|LITERS			|MOBOS				|NO
 :--|:--|:--|:--|:--|:--|:--|:--|:--
 NAS6							|6		|NA		|$162		|8.43 x 8.5 x 11.65			|**YES**	|13.68			|ITX				|40mm CPU, 350W PSU included - [link](https://www.mini-itx.com/store/category?type=case)
 Kolink Satellite Cube			|2/3		|2/4	|$49		|10.3 x 7.48 x 11			|NO		|13.8			|uATX/ITX				|165mm CPU, ATX PSU - [specs](https://kolink.eu/Home/case-1/mini-itx-2/satellite.html), [link](https://www.google.com/search?q=kolink+satellite+case)
+HciPC 6bay P401-1 HCNAS			|6		|NA		|$65+70		|12.59 x 9.84 x 8.66		|No		|17.6			|ITX				|Node 304 clone. Pricey Shipping! - [link](https://www.aliexpress.com/item/32719919894.html?spm=a2g0o.detail.1000014.1.4bab14f6MEe7Us&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.14976.177813.0&scm_id=1007.14976.177813.0&scm-url=1007.14976.177813.0&pvid=b3e5fc96-0d9f-495e-b705-4d80981a3b5a&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.14976.177813.0,pvid:b3e5fc96-0d9f-495e-b705-4d80981a3b5a,tpp_buckets:668%230%23131923%2358_668%23808%235965%23588_668%23888%233325%233_4976%230%23177813%2316_4976%232711%237538%23700_4976%233223%2310328%232_4976%233104%239653%235_4976%233141%239887%239_668%232846%238110%23377_668%232717%237558%23179_)
 Cooler Master Elite 120 Adv		|3+1	|NA		|Disc		|9.4 x 8.2 x 15.8			|No		|20				|ITX				|full dvd, 4x2.5 (from 2x3.5 bays), +1 3.5" in 5.25" bay
 Cooler Master Elite 130		|2+1	|5		|$65		|9.4 x 8.2 x 15.7			|No		|20				|ITX				|full dvd, +1 3.5" in 5.25" bay
 LIAN LI PC-Q25B					|5/7	|NA		|Disc		|7.83 x 11.02 x 14.41		|YES	|20.4			|ITX/DTX			|Hotswap (5) - Hard to find
