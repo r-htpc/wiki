@@ -258,44 +258,44 @@ DiY drive cages: [2-drive](https://www.amazon.com/Phanteks-Stackable-Bracket-Cas
 
 CASE							|3.5"	|2.5"	|COST		|W x H x D (in)				|H.SWAP	|LITERS			|MOBOS				|NOTES
 :--|:--|:--|:--|:--|:--|:--|:--|:--
-U-NAS NSC-400/401/410			|4		|NA		|$150		|7.5 x 7.1 x 10				|YES	|8.7/8.7/10.1	|ITX				|[link](https://www.u-nas.com/xcart/cart.php?target=category&category_id=249)
-INNOVISION (U-NAS KNOCK-OFF)		|4		|NA		|$47-113+48	|7.4 x 7.1 x 10.3			|YES	|8.8			|ITX				|Shipping cost! 1U Flex PSU - [link](https://www.aliexpress.com/item/4000151540264.html?spm=a2g0o.detail.1000060.2.3e9f65bd3NFIQG&gps-id=pcDetailBottomMoreThisSeller&scm=1007.14977.161853.0&scm_id=1007.14977.161853.0&scm-url=1007.14977.161853.0&pvid=28de11ce-d35d-40a4-bc22-7ac6928eb016&_t=gps-id:pcDetailBottomMoreThisSeller,scm-url:1007.14977.161853.0,pvid:28de11ce-d35d-40a4-bc22-7ac6928eb016,tpp_buckets:668%230%23131923%238_668%23808%235965%23588_668%23888%233325%233_668%232717%237558%23179)
-Norco ITX-S4					|4		|NA		|$200		|7.75 x 7.5 x 10			|YES	|9.5			|ITX				|ITX-S8 version too
-**Jonsbo N2**					|5		|1		|$150		|8.8 x 8.8 x 8.8			|YES	|11.1			|ITX				|65mm CPU, SFX PSU - [link](https://www.jonsbo.com/en/products/N2Black.html)
-TOPLOONG NAS-6					|6		|NA		|$75+93		|10.23 x 7.67 x 9.84		|YES	|12.7			|ITX				|add +45 for 250W PSU - [link](https://www.aliexpress.com/item/4001316943062.html?spm=a2g0o.detail.1000014.5.5dd96f0c6YZrmJ&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.14976.195817.0&scm_id=1007.14976.195817.0&scm-url=1007.14976.195817.0&pvid=940ac58e-11f8-42df-89b7-d4eb52d1029a&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.14976.195817.0,pvid:940ac58e-11f8-42df-89b7-d4eb52d1029a,tpp_buckets:668%230%23131923%2379_668%23808%234094%23588_668%23888%233325%233_4976%230%23195817%236_4976%232711%237538%23641_4976%233104%239653%235_4976%234052%2318551%2393_4976%233141%239887%239_668%234328%2319924%23137_668%232846%238110%23377_668%232717%237558%23179_668%231000022185%231000066058%230_668%233422%2315392%237_4452%230%23194213%230_4452%233474%2315675%23168_4452%233098%239599%23462_4452%233564%2316062%23742)
-Jonsbo N1					|5		|1		|$145		|6.69 x 8.54 x 13.93			|YES	|13.0			|ITX				|70mm CPU, SFX PSU - [link](https://www.jonsbo.com/en/products/N1.html)
-InWIN IW-MS04					|4		|2		|$160		|8.3 x 9.10 x 10.80			|YES	|13.3			|ITX				|65mm CPU, 1U 265W-315W PSU, SFF-8087x1/8643x1/SATAx4 - [link](https://www.ipc.in-win.com/soho-smb-iw-ms04)
-NAS6							|6		|NA		|$162		|8.43 x 8.5 x 11.65			|YES	|13.68			|ITX				|40mm CPU, 350W PSU included - [link](https://www.mini-itx.com/store/category?type=case)
+U-NAS NSC-400/401/410			|4		|NA		|$150		|7.5 x 7.1 x 10				|**YES**	|8.7/8.7/10.1	|ITX				|[link](https://www.u-nas.com/xcart/cart.php?target=category&category_id=249)
+INNOVISION (U-NAS KNOCK-OFF)		|4		|NA		|$47-113+48	|7.4 x 7.1 x 10.3			|**YES**	|8.8			|ITX				|Shipping cost! 1U Flex PSU - [link](https://www.aliexpress.com/item/4000151540264.html?spm=a2g0o.detail.1000060.2.3e9f65bd3NFIQG&gps-id=pcDetailBottomMoreThisSeller&scm=1007.14977.161853.0&scm_id=1007.14977.161853.0&scm-url=1007.14977.161853.0&pvid=28de11ce-d35d-40a4-bc22-7ac6928eb016&_t=gps-id:pcDetailBottomMoreThisSeller,scm-url:1007.14977.161853.0,pvid:28de11ce-d35d-40a4-bc22-7ac6928eb016,tpp_buckets:668%230%23131923%238_668%23808%235965%23588_668%23888%233325%233_668%232717%237558%23179)
+Norco ITX-S4					|4		|NA		|$200		|7.75 x 7.5 x 10			|**YES**	|9.5			|ITX				|ITX-S8 version too
+**Jonsbo N2**					|5		|1		|$150		|8.8 x 8.8 x 8.8			|**YES**	|11.1			|ITX				|65mm CPU, SFX PSU - [link](https://www.jonsbo.com/en/products/N2Black.html)
+TOPLOONG NAS-6					|6		|NA		|$75+93		|10.23 x 7.67 x 9.84		|**YES**	|12.7			|ITX				|add +45 for 250W PSU - [link](https://www.aliexpress.com/item/4001316943062.html?spm=a2g0o.detail.1000014.5.5dd96f0c6YZrmJ&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.14976.195817.0&scm_id=1007.14976.195817.0&scm-url=1007.14976.195817.0&pvid=940ac58e-11f8-42df-89b7-d4eb52d1029a&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.14976.195817.0,pvid:940ac58e-11f8-42df-89b7-d4eb52d1029a,tpp_buckets:668%230%23131923%2379_668%23808%234094%23588_668%23888%233325%233_4976%230%23195817%236_4976%232711%237538%23641_4976%233104%239653%235_4976%234052%2318551%2393_4976%233141%239887%239_668%234328%2319924%23137_668%232846%238110%23377_668%232717%237558%23179_668%231000022185%231000066058%230_668%233422%2315392%237_4452%230%23194213%230_4452%233474%2315675%23168_4452%233098%239599%23462_4452%233564%2316062%23742)
+Jonsbo N1					|5		|1		|$145		|6.69 x 8.54 x 13.93			|**YES**	|13.0			|ITX				|70mm CPU, SFX PSU - [link](https://www.jonsbo.com/en/products/N1.html)
+InWIN IW-MS04					|4		|2		|$160		|8.3 x 9.10 x 10.80			|**YES**	|13.3			|ITX				|65mm CPU, 1U 265W-315W PSU, SFF-8087x1/8643x1/SATAx4 - [link](https://www.ipc.in-win.com/soho-smb-iw-ms04)
+NAS6							|6		|NA		|$162		|8.43 x 8.5 x 11.65			|**YES**	|13.68			|ITX				|40mm CPU, 350W PSU included - [link](https://www.mini-itx.com/store/category?type=case)
 Kolink Satellite Cube			|2/3		|2/4	|$49		|10.3 x 7.48 x 11			|NO		|13.8			|uATX/ITX				|165mm CPU, ATX PSU - [specs](https://kolink.eu/Home/case-1/mini-itx-2/satellite.html), [link](https://www.google.com/search?q=kolink+satellite+case)
-Supermicro CSE-721TQ-250B		|4		|NA		|$170		|8.27 x 9.45 x 11			|YES	|14.0			|ITX				|w/1U 250W Flex PSU
-INNOVISION (UNAS KNOCK-OFF)		|6		|NA		|$83+76		|8.66 x 10.23 x 9.84		|YES	|14.3			|ITX				|Shipping cost! 1U Flex PSU - [link](https://www.aliexpress.com/item/4001180247506.html)
-iStarUSA S-35-B4/B5/DE4/DE5				|4/5	|NA		|$140-160	|8.68 x 8.90 x 12.76		|YES	|16.2			|ITX				|1U Flex PSU
+Supermicro CSE-721TQ-250B		|4		|NA		|$170		|8.27 x 9.45 x 11			|**YES**	|14.0			|ITX				|w/1U 250W Flex PSU
+INNOVISION (UNAS KNOCK-OFF)		|6		|NA		|$83+76		|8.66 x 10.23 x 9.84		|**YES**	|14.3			|ITX				|Shipping cost! 1U Flex PSU - [link](https://www.aliexpress.com/item/4001180247506.html)
+iStarUSA S-35-B4/B5/DE4/DE5				|4/5	|NA		|$140-160	|8.68 x 8.90 x 12.76		|**YES**	|16.2			|ITX				|1U Flex PSU
 iStarUSA S-35-3/S-35EX			|3/5	|NA		|$85		|8.69 x 8.90 x 12.76		|No		|16.2			|ITX				|EX has 5.25"x3 (3.5"x5 with 5-in-3 adapter), 1U Flex PSU
-Chenbro SR301					|4		|NA		|$120		|7.78 x 12.2" x 10.63		|YES	|16.5			|ITX				|SR30169. w/PSU
-U-NAS NSC-810A				|8		|1		|$220		|12.4 x 7.8 x 10.8			|YES	|17.0			|uATX/ITX			|1x2.5 int, Flex PSU. [link](https://www.u-nas.com/xcart/cart.php?target=product&product_id=17640)
+Chenbro SR301					|4		|NA		|$120		|7.78 x 12.2" x 10.63		|**YES**	|16.5			|ITX				|SR30169. w/PSU
+U-NAS NSC-810A				|8		|1		|$220		|12.4 x 7.8 x 10.8			|**YES**	|17.0			|uATX/ITX			|1x2.5 int, Flex PSU. [link](https://www.u-nas.com/xcart/cart.php?target=product&product_id=17640)
 HciPC 6bay P401-1 HCNAS			|6		|NA		|$65+70		|12.59 x 9.84 x 8.66		|No		|17.6			|ITX				|Node 304 clone. Pricey Shipping! - [link](https://www.aliexpress.com/item/32719919894.html?spm=a2g0o.detail.1000014.1.4bab14f6MEe7Us&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.14976.177813.0&scm_id=1007.14976.177813.0&scm-url=1007.14976.177813.0&pvid=b3e5fc96-0d9f-495e-b705-4d80981a3b5a&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.14976.177813.0,pvid:b3e5fc96-0d9f-495e-b705-4d80981a3b5a,tpp_buckets:668%230%23131923%2358_668%23808%235965%23588_668%23888%233325%233_4976%230%23177813%2316_4976%232711%237538%23700_4976%233223%2310328%232_4976%233104%239653%235_4976%233141%239887%239_668%232846%238110%23377_668%232717%237558%23179_)
-Norco ITX-S8					|8		|NA		|$230		|8 x 10.2 x 13.25			|YES	|17.7			|ITX				|1x2.5 int, SFF-8643x2, 1U Flex PSU. Hard to find
-Jonsbo N3					|8		|1		|$155		|9.2 x 10.3 x 11.7			|YES	|18.2			|ITX				|130mm CPU, SFX PSU - [link](https://www.jonsbo.com/en/products/N3.html)
+Norco ITX-S8					|8		|NA		|$230		|8 x 10.2 x 13.25			|**YES**	|17.7			|ITX				|1x2.5 int, SFF-8643x2, 1U Flex PSU. Hard to find
+Jonsbo N3					|8		|1		|$155		|9.2 x 10.3 x 11.7			|**YES**	|18.2			|ITX				|130mm CPU, SFX PSU - [link](https://www.jonsbo.com/en/products/N3.html)
 **Fractal Design Node 304**						|6		|NA		|$90		|10 x 8.27 x 14.72			|No		|19.3			|ITX/DTX			|[link](https://www.fractal-design.com/products/cases/node/node-304/black/)
-Jonsbo N4					|8		|2		|$120		|11.3 x 9 x 11.8			|YES	|19.6			|ITX				|70mm CPU, SFX PSU - [link](https://www.jonsbo.com/en/products/N4Black.html)
+Jonsbo N4					|8		|2		|$120		|11.3 x 9 x 11.8			|**YES**	|19.6			|ITX				|70mm CPU, SFX PSU - [link](https://www.jonsbo.com/en/products/N4Black.html)
 FD Core 500						|3+1	|3		|$60		|9.84 x 8.39 x 14.96		|No		|20.2			|ITX/DTX			|ATX PSU, 1x5.25", +1 3.5" in 5.25" bay
 Silverstone GD06				|4+1		|2		|$140		|17.32 x 5.91 x 13.39		|No		|22.4			|uATX/ITX			|70-120mm CPU COOL, ATX PSU, +1 3.5" in 5.25" bay, full dvd.
-Silverstone DS380				|8		|4		|$215		|8.31 x 11.22 x 14.17		|YES	|21.6			|ITX				|SFX-L PSU, 57mm CPU.  [link](https://www.silverstonetek.com/en/product/info/server-nas/DS380/)
+Silverstone DS380				|8		|4		|$215		|8.31 x 11.22 x 14.17		|**YES**	|21.6			|ITX				|SFX-L PSU, 57mm CPU.  [link](https://www.silverstonetek.com/en/product/info/server-nas/DS380/)
 Raijintek Styx		|3		|4		|$70		|8.26 x 13.2 x 14.2	|No		|25.4			|uATX/ITX				|ATX PSU - [link](https://www.raijintek.com/en/products_detail.php?ProductID=26)
 **Fractal Design Core 1000**		|2+2/3		|3		|$55		|6.89 x 13.97 x 16.53		|No		|26.1			|uATX/ITX/DTX				|2x5.25",2x3.5" - [link](https://www.fractal-design.com/products/cases/core/core-1000/black/)
-Silverstone CS381				|8		|NA		|$400		|NA							|YES	|28				|uATX/ITX			|SFX-L PSU. [link](https://www.silverstonetek.com/en/product/info/server-nas/CS381/)
+Silverstone CS381				|8		|NA		|$400		|15.75 x 8.86 x 12.44 							|**YES**	|28				|uATX/ITX			|SFX-L PSU. [link](https://www.silverstonetek.com/en/product/info/server-nas/CS381/)
 Silverstone PS16                |3+1        |3      |$75        |7.8 x 14.21 x 15.67        |No     |28.5           |uATX/DTX/ITX           |3x3.5",1x5.25"
-Cooler Master Masterbox E300L	|2+2/3    	|NA		|$70		|7.1 x 14.33 x 17.6			|NA		|29.3			|uATX				|2x3.5",2x5.25"
-Silverstone TJ08B-E				|5+2/3		|NA		|$140		|8.27 x 14.72 x 15.16		|NA		|30.2			|uATX/ITX/DTX		|5x3.5",2x5.25"
+Silverstone TJ08-E				|5+2/3		|NA		|$140		|8.27 x 14.72 x 15.16		|No		|30.2			|uATX/ITX/DTX		|5x3.5",2x5.25"
 Silverstone GD08				|8+2/3		|2		|$180		|17.3 x 6.9 x 16.7			|No		|32.7			|EATX/ATX/uATX			|8x3.5",2x5.25", 138mm CPU COOL, ATX PSU. [link](https://www.silverstonetek.com/en/product/info/computer-chassis/GD08/)
 Silverstone GD07				|5+4/6		|2		|$180		|17.3 x 6.9 x 17.1			|No		|33.5			|EATX/ATX/uATX			|5x3.5",4x5.25", 138mm CPU COOL, ATX PSU. [link](https://www.silverstonetek.com/en/product/info/computer-chassis/GD07/)
-Cooler Master N200				|3+1		|4		|$55		|7.9 x 17.5 x 14.9 			|NA		|33.7			|uATX/ITX				|3x3.5",1x5.25"
-BitFenix Prodigy M 2022			|4	|5		|$100		|9.84 x 15.91 x 14.13		|NA		|36.2			|uATX/ITX				|BFC-PM2-300-KKGSK-RP - [link](https://www.bitfenix.com/products/chassis/micro-atx/prodigy-m-2022/)
+Cooler Master N200				|3+1		|4		|$55		|7.9 x 17.5 x 14.9 			|No		|33.7			|uATX/ITX				|3x3.5",1x5.25"
+BitFenix Prodigy M 2022			|4	|5		|$100		|9.84 x 15.91 x 14.13		|No		|36.2			|uATX/ITX				|BFC-PM2-300-KKGSK-RP - [link](https://www.bitfenix.com/products/chassis/micro-atx/prodigy-m-2022/)
 FD Focus G Mini					|2+2/3	|NA		|$55		|8.07 x 15.08 x 18.27		|No		|36.4			|uATX				|2x3.5",2x5.25", +2x3.5" in 5.25" (or +3 w/[Evercool adapter](https://www.amazon.com/EverCool-Dual-Drive-Triple-Cooling/dp/B0032UUGF4)) Could probably fit 8x3.5 w/2x[Phanteks 2-drive](https://www.amazon.com/Phanteks-Stackable-Bracket-Cases-PH-HDDKT_03/dp/B07GY2B3WP) cages
+Silverstone CS382				|8		|NA		|$215		| 8.54 x 15.94 x 17.76							|**YES**	|39.6				|uATX/ITX			|ATX PSU. [link](https://www.silverstonetek.com/en/product/info/computer-chassis/cs382/)
 **Cooler Master N300**           |8+2/3 |1      |$55        |7.5 x 19.4 x 16.8          |No     |39.8           |ATX/uATX           |8x3.5",2x5.25". [link](https://www.coolermaster.com/en-au/products/n300/)
 **Cooler Master N400**	  	     |8+2/3	|3		|$80		|7.5 x 19.7 x 16.7			|No		|40.6			|ATX/uATX			|8x3.5",2x5.25". [link](https://www.coolermaster.com/catalog/cases/mid-tower/n400/)
 **Fractal Design Node 804**		|8+2		|2/4		|$110			|13.5 x 12.0 x 15.3			|No		|40.3			|uATX/ITX			|ATX PSU, Cube - [link](https://www.fractal-design.com/products/cases/node/node-804/black/)
-Silverstone CS380B				|8+2/3	|NA		|$190		|8.48 x 16.79 x 19.19		|YES	|44.7			|ATX/uATX/ITX			|ATX PSU, SATAx2 (12Gbps), 146mm CPU, 2x5.25"
+Silverstone CS380B				|8+2/3	|NA		|$190		|8.48 x 16.79 x 19.19		|**YES**	|44.7			|ATX/uATX/ITX			|ATX PSU, SATAx2 (12Gbps), 146mm CPU, 2x5.25"
 Phanteks P400A			|2+4+2	|2		|$85		|8.3 x 18.5 x 18.3		|No		|46	|ATX/uATX/ITX		|2x3.5 (std)+4x3.5" (sleds)+2x3.5" (psu shroud top) 
 Fractal Design Define R5			|8+2/3	|2		|$120		|9.1 x 17.7 x 20.5		|No		|47.3	|ATX/uATX/ITX		|8x3.5",2x5.25", +2x3.5" in 5.25" (+3 w/[Evercool adapter](https://www.amazon.com/EverCool-Dual-Drive-Triple-Cooling/dp/B0032UUGF4)) + 2x3.5 on top (unofficially)? could fit 13 total?
 Silverstone TJ04B-E				|9+4/6		|NA		|$245		|8.43 x 19.25 x 19.25		|No		|51.2			|CEB/ATX/uATX		|9x3.5",4x5.25"
@@ -326,6 +326,7 @@ LIAN LI PC-Q25B					|5/7	|NA		|Disc		|7.83 x 11.02 x 14.41		|YES	|20.4			|ITX/DT
 Rosewill FBM-01/Ranger-M		|3+2/3	|0		|$35			|6.9 x 13.86 x 13.8/15.26			|No		|21.5/23.8			|uATX/ITX			|3x3.5",2x5.25", +2x3.5" in 5.25" (or +3 w/[Evercool adapter](https://www.amazon.com/EverCool-Dual-Drive-Triple-Cooling/dp/B0032UUGF4))
 Rosewill SRM-01B				|2+2/3		|2		|$35		|6.69 x 14.96 x 13.78		|No		|22.5			|uATX				|2x3.5",2x525", +2x3.5" in 5.25" (or +3 w/[Evercool adapter](https://www.amazon.com/EverCool-Dual-Drive-Triple-Cooling/dp/B0032UUGF4))
 LIAN LI PC-M25					|5		|NA		|Disc			|7.83 x 12.67 x 17.36		|YES	|28.2			|uATX/ITX			|ATX PSU, 80mm CPU, +3.5x2 unofficial, 2.5x3 int, - Hard to find
+Cooler Master Masterbox E300L	|2+2/3    	|NA		|$70		|7.1 x 14.33 x 17.6			|No		|29.3			|uATX				|2x3.5",2x5.25"
 BitFenix Phenom					|5+1	|NA		|$90		|9.84 x 12.99 x 14.72		|NA		|30.8			|ITX				|BFC-PHE-300-	Hard to find
 BitFenix Prodigy					|5+1	|NA		|$90		|9.84 x 15.91 x 14.13		|NA		|36.2			|ITX				|BFC-PRO-300- Hard to find
 Lian-Li PC-V354					|7		|4		|Disc			|9.6 x 12.6 x 16.5			|No		|38.7			|uATX/ITX			|1x5.25, Cube
