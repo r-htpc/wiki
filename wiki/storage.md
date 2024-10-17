@@ -277,7 +277,7 @@ HciPC 6bay P401-1 HCNAS			|6		|NA		|$65+70		|12.59 x 9.84 x 8.66		|No		|17.6			|
 Norco ITX-S8					|8		|NA		|$230		|8 x 10.2 x 13.25			|**YES**	|17.7			|ITX				|1x2.5 int, SFF-8643x2, 1U Flex PSU. Hard to find
 Jonsbo N3					|8		|1		|$155		|9.2 x 10.3 x 11.7			|**YES**	|18.2			|ITX				|130mm CPU, SFX PSU - [link](https://www.jonsbo.com/en/products/N3.html)
 **Fractal Design Node 304**						|6		|NA		|$90		|10 x 8.27 x 14.72			|No		|19.3			|ITX/DTX			|[link](https://www.fractal-design.com/products/cases/node/node-304/black/)
-Jonsbo N4					|8		|2		|$120		|11.3 x 9 x 11.8			|**YES**	|19.6			|ITX				|70mm CPU, SFX PSU - [link](https://www.jonsbo.com/en/products/N4Black.html)
+Jonsbo N4					|8		|2		|$130		|11.3 x 9 x 11.8			|**YES**	|19.6			|uATX/ITX				|70mm CPU, SFX PSU - [link](https://www.jonsbo.com/en/products/N4Black.html)
 FD Core 500						|3+1	|3		|$60		|9.84 x 8.39 x 14.96		|No		|20.2			|ITX/DTX			|ATX PSU, 1x5.25", +1 3.5" in 5.25" bay
 Silverstone GD06				|4+1		|2		|$140		|17.32 x 5.91 x 13.39		|No		|22.4			|uATX/ITX			|70-120mm CPU COOL, ATX PSU, +1 3.5" in 5.25" bay, full dvd.
 Silverstone DS380				|8		|4		|$215		|8.31 x 11.22 x 14.17		|**YES**	|21.6			|ITX				|SFX-L PSU, 57mm CPU.  [link](https://www.silverstonetek.com/en/product/info/server-nas/DS380/)
