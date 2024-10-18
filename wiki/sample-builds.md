@@ -116,6 +116,12 @@ $150-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB
 
 <!-- Sub-Section -->
 
+### Specialized: 3D MVC/Frame-Packed
+
+- [HTPC w/Windows or Mac](https://www.reddit.com/r/htpc/comments/115ap94/how_to_get_full_hd_3d_frame_packing_from_a_pc_or/), Odroid N2+ + CoreElec, Vero V / Ugoos AM6B Plus / Zidoo Z9X w/Kodi-based player
+
+<!-- Sub-Section -->
+
 ### Specialized: Fanless
 
 - [Odroid H4](https://www.hardkernel.com/shop/odroid-h4/), [Asus PN42](https://www.asus.com/us/displays-desktops/mini-pcs/pn-series/asus-expertcenter-pn42/), [Zotac CI6xx](https://www.zotac.com/us/product/mini_pcs/all?field_filter_m_series_tid%5B%5D=2229&field_filter_m_processor_tid%5B%5D=2241&field_filter_m_processor_tid%5B%5D=2242&field_filter_m_processor_tid%5B%5D=2243&field_filter_m_processor_tid%5B%5D=2510), [Asus PL64](https://www.asus.com/displays-desktops/mini-pcs/pl-series/mini-pc-pl64/), [Mele Quieter](https://www.amazon.com/s?k=mele+quieter&i=electronics), Intel/Asus NUC+[Akasa Case](https://www.akasa.co.uk/update.php?tpl=list%2FCHASSIS+POWER.tpl&type=CHASSIS+POWER&type_sub=FANLESS+CASES&fval=all), [SimplyNUC PorCoolPine](https://simplynuc.com/embedded-industrial/), [OnLogic NUCs](https://www.onlogic.com/computers/nuc/)  
