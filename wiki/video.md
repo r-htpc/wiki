@@ -44,6 +44,7 @@ BDMV/BDAV: Used in HD/UHD blu-ray discs. BDMV has menu capability, BDAV does not
 
 Commonly known as FPS or Frames Per Second. Do not confuse this with Refresh Rate; they are related, but not the same thing. Frame rate refers to Content,
 Refresh rate refers to Displays.
+
 FRAME RATE|USE|NOTES
 :--|:--|:--
 23.976/24|Movie content (common) - Local or Streaming, Youtube (rare)|Usually upconverted to 60i on TVs through a process known as 2:3/3:2 pulldown.
