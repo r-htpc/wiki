@@ -43,7 +43,7 @@ BDMV/BDAV: Used in HD/UHD blu-ray discs. BDMV has menu capability, BDAV does not
 **Frame rates** 
 
 Commonly known as FPS or Frames Per Second. Do not confuse this with Refresh Rate; they are related, but not the same thing. Frame rate refers to Content,
-Refresh rate refers to Displays.
+Refresh rate refers to Displays. The refresh rate should be either equal to the frame rate or greater than it by an whole number multiplier (120Hz for 24fps (5x)). A refresh rate greater than it by anything else (60 Hz for 24 fps (2.5x)) can cause a [Judder](https://www.rtings.com/tv/tests/motion/24p) effect.
 
 FRAME RATE|USE|NOTES
 :--|:--|:--
