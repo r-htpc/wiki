@@ -38,7 +38,21 @@ BDMV/BDAV: Used in HD/UHD blu-ray discs. BDMV has menu capability, BDAV does not
 
 <!-- Sub-Section -->
 
-### **Video bitrates**
+### **Video Frame rates / Bit rates**
+
+**Frame rates** 
+
+Commonly known as FPS or Frames Per Second. Do not confuse this with Refresh Rate; they are related, but not the same thing. Frame rate refers to Content,
+Refresh rate refers to Displays.
+FRAME RATE|USE|NOTES
+:--|:--|:--
+23.976/24|Movie content (common) - Local or Streaming, Youtube (rare)|Usually upconverted to 60i on TVs through a process known as 2:3/3:2 pulldown.
+25|TV content - Local, Streaming or Broadcast TV (outside US/Central America/SE Asia), Youtube (rare)|European standard used in PAL color-encoding for 576i
+29.97/30|TV content (common) - Local, Streaming or Broadcast TV (US/Central America/SE Asia), Youtube (rare)|Standard used in NTSC color-encoding. Interlaced to 60 fps for TV
+48|Movie content (very rare)|< 10 movies
+60|Youtube [TV] content (common), Broadcast TV/Streaming - Live Events, Movie content (very rare)|60i (cable/sat), < 10 movies
+
+**Bit rates** 
 
 An aggregation of video content information encoded in a pixel over time. Usually referenced in Mbps.  
 A lower bitrate indicates less video information which can induce video artifacting, blurring, and color banding  
@@ -651,5 +665,5 @@ Audio Sync Tests - [1080p/H264/60fps/AAC](https://drive.google.com/file/d/18yl9K
 
 ---
 
-*This page was last updated on 2024-09-24*
+*This page was last updated on 2024-10-20*
 
