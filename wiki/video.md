@@ -38,7 +38,7 @@ BDMV/BDAV: Used in HD/UHD blu-ray discs. BDMV has menu capability, BDAV does not
 
 <!-- Sub-Section -->
 
-### **Video Frame rates / Bit rates**
+### **Video Frame rates/Bit rates**
 
 **Frame rates** 
 
