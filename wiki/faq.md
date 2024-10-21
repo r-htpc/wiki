@@ -614,13 +614,15 @@ For a more automated way to do this process, look at [Automatic Ripping Machine]
 
 ## What do I need for 4k ultraHD compatibility?
 
-**If you want to use a pre-built device/HTPC**
+**If you want to use a pre-built HTPC/media device**
 
-See the top of our [Sample Builds](/wiki/sample-builds) wiki page or our table of media devices [above](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc).  
+See the top of our [Sample Builds](/wiki/sample-builds#htpc-pre-builtsmini-pcs) wiki page or our table of media devices [above](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc).  
 
 **If you're building a traditional DiY HTPC**
 
 *Short version:*
+
+See the DiY section of our [Sample Builds](/wiki/sample-builds#htpc-diy-builds) wiki page. 
 
 4k local content: [HDMI 2.0 motherboard](/wiki/hdmi20) (1.4 if only 30fps non-HDR), >= [Intel 7th Gen/Gemini Lake/Athlon 200GE/Ryzen 2200G CPU](/wiki/components#cpus) **OR** CPU (>= circa 2008) + dGPU >= [Nvidia GT1030/AMD RX 550/5x00](/wiki/components#gpusgraphics) **(REC: Ryzen 4600G+B550 mobo)**.  
 
@@ -631,8 +633,6 @@ See the top of our [Sample Builds](/wiki/sample-builds) wiki page or our table o
 4k/UHD Blu-Ray disc playing: HDCP 2.2 display, [HDMI 2.0 motherboard w/SGX support](/wiki/hdmi20), [Intel i3/5/7/9](/wiki/components#cpus) **7th-10th Gen CPU w/iGPU ONLY** **(REC: Intel i5-8xxx+Gigabyte H370N mobo)**. Windows 10+. Use of a dedicated GPU (dGPU) is **not** supported.  
 
 4k@120Hz: See [Wiki:Video:What options are there for 4k @ 120 Hz video output?](/wiki/video#what-options-are-there-for-4k--120-hz-video-output)  
-
-See the DiY section of our [Sample Builds](/wiki/sample-builds) wiki page for real builds.  
 
 *Long version:*
 
@@ -660,11 +660,11 @@ To test for HDCP 2.2 compliance, use [Cyberlink Ultra HD Blu-Ray Advisor](https:
 
 SOFTWARE/CONTENT
 
-The only 4k content supported on a PC are: Local files, UHD blu-ray discs, Youtube and Netflix. See the [section above](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x) on what resolutions are supported for other services and our [oftware section](/wiki/faq#what-software-will-i-need-and-how-do-i-set-it-up) for players. 
+The only 4k content supported on a PC are: Local files, UHD blu-ray discs, Youtube and Netflix. See the [section above](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x) on what resolutions are supported for other services and our [software section](/wiki/faq#what-software-will-i-need-and-how-do-i-set-it-up) for players. 
 
 If you want access to more 4k content, on your favorite streaming services, use a [media device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) instead.  
 
-It is highly likely that the 4K content will be encoded in HEVC (h.265), the successor to the popular and flexible h.264. Hardware decoding of h.265 is limited to:
+It is highly likely that the 4K content will be encoded in the H.265 (HEVC) codec, the successor to H.264. Hardware decoding of H.265 is limited to:
 
 - [Intel 7th-14th Gen/Apollo/Gemini Lake CPU w/iGPU](/wiki/components#cpus) 
 
@@ -672,7 +672,7 @@ It is highly likely that the 4K content will be encoded in HEVC (h.265), the suc
 
 - [Nvidia >= GTX 10xx, AMD >= RX 550/5x00/6x00, Intel ARC](/wiki/components#gpusgraphics) dGPUs 
 
-All options are sufficient, and have benchmarked playing 4K 400Mbps bitrate videos at >= 70fps ([See Here](https://forum.doom9.org/showthread.php?p=1803012#post1803012)).  Most 4K videos encoded in HEVC have avg. bitrates between 15-128Mbps (Netflix 4K is HEVC encoded at 16Mbps).
+All options are sufficient, and have benchmarked playing 4K 400Mbps bitrate videos at >= 70fps ([See Here](https://forum.doom9.org/showthread.php?p=1803012#post1803012)). Most 4K videos encoded in HEVC have avg. bitrates between 15-128Mbps (Netflix 4K is HEVC encoded at 16Mbps).
 
 HDR is also a popular feature these days. For additional requirements, see the section below.
 
