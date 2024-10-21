@@ -616,7 +616,7 @@ For a more automated way to do this process, look at [Automatic Ripping Machine]
 
 **If you want to use a pre-built device/HTPC**
 
-See the top of the [Sample Builds](/wiki/sample-builds) wiki page or our table of media devices [above](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc).  
+See the top of our [Sample Builds](/wiki/sample-builds) wiki page or our table of media devices [above](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc).  
 
 **If you're building a traditional DiY HTPC**
 
@@ -632,6 +632,8 @@ See the top of the [Sample Builds](/wiki/sample-builds) wiki page or our table o
 
 4k@120Hz: See [Wiki:Video:What options are there for 4k @ 120 Hz video output?](/wiki/video#what-options-are-there-for-4k--120-hz-video-output)  
 
+See the DiY section of our [Sample Builds](/wiki/sample-builds) wiki page for real builds.  
+
 *Long version:*
 
 MAIN REQUIREMENTS
@@ -640,9 +642,9 @@ The major requirements for full 4k compatibility are [HDMI 2.0a](http://www.cnet
 
 HARDWARE
 
-Virtually all modern CPUs with integrated graphics can display 4k video. BUT, all of the components in your home theater (TV, AV Receiver and HTPC motherboard) will need to have a HDMI 2.0a or DisplayPort 1.2 port in order to use all sources of 4K content.  
+Virtually all modern CPUs with integrated graphics can display 4k video. BUT, all of the components in your home theater (TV, AV Receiver and HTPC motherboard) will need to have a HDMI 2.0a port in order to use all sources of 4K content.  
 On the AMD side, this starts with the Ryzen 2200G and on with any supported motherboard. Buy a Ryzen 4600G and B550 motherboard and move on.    
-On the Intel side, this started with 7th gen Kaby Lake CPUs, but required a [special hdmi 2.0 motherboard](/wiki/hdmi20); But since 11th gen rocket lake CPUs, any supported motherboard will work. Buy a i3-12100 and H610/B660 motherboard and move on.
+On the Intel side, this started with 7th gen (7xxx) CPUs, but required a [special hdmi 2.0 motherboard](/wiki/hdmi20); But since 11th gen (11xxx) CPUs, any supported motherboard will work. Buy a i3-12100 and B760 motherboard and move on.
 
 If one of the motherboards doesn't fit what you need, or you are upgrading an older, existing system that lacks the above, you can choose a [dedicated GPU](/wiki/components#gpusgraphics) to add on to your system that has these features. The Intel Arc A380 is popular, as is the RX 6400 on the AMD side.
 
@@ -650,9 +652,9 @@ You CAN display 4k video at 30hz via older HDMI 1.4 and 4k video at 60hz via a D
 
 DRM
 
-If you plan on playing DRM protected content, for instance 4k netflix, you will need to have a HDMI 2.0 port that supports HDCP 2.2 or a Displayport with an active DP 1.x->HDMI 2.0 adapter. This can take the form of at least a Ryzen 3200G/3400G with any supported mobo **OR** Intel 7th-14th Gen/Apollo/Gemini Lake CPU and [supported motherboard](/wiki/hdmi20) **OR** Any CPU and an add-on dGPU, **only** Nvidia >= GTX 1050 3GB or AMD >= RX 4xx/5xx/5x00/6x00.
+If you plan on playing DRM protected content, for instance 4k netflix, you will need to have a HDMI 2.0 port that supports HDCP 2.2 or a Displayport with an active DP 1.x->HDMI 2.0 adapter. This can take the form of an AMD Ryzen 3200G+ CPU with supported mobo **OR** Intel 7th-14th Gen CPU and [supported motherboard](/wiki/hdmi20) **OR** Any CPU and an add-on dGPU, **only** Nvidia >= GTX 1050 3GB, AMD >= RX 4xx/5xx/5x00/6x00, or Intel >= ARC A310.
 
-More restrictively, if you plan on playing UHD Blu-ray discs, you are further limited to Intel CPUs w/SGX support (Intel i3/5/7/9 7th-10th Gen **ONLY**) + a [HDMI 2.0 motherboard w/SGX support](/wiki/hdmi20). Dedicated GPUs are **NOT** supported. See [here](https://www.cyberlink.com/support/faq-content.do?id=19144)  
+If you plan on playing UHD Blu-ray discs, things are even more restrictive; you are further limited to Intel CPUs w/SGX support (Intel i3/5/7/9 7th-10th Gen **ONLY**) + a [HDMI 2.0 motherboard w/SGX support](/wiki/hdmi20). Dedicated GPUs are **NOT** supported. **We do not recommend this** and you should play rips or ISOs of your discs. See our wiki section [here](/wiki/faq#how-can-i-play-my-dvdblu-ray-discs-on-my-htpc). 
 
 To test for HDCP 2.2 compliance, use [Cyberlink Ultra HD Blu-Ray Advisor](https://www.cyberlink.com/prog/bd-support/diagnosis.do) or [Corel Ultra HD Blu-Ray Check Tool](https://dwnld.windvdpro.com/tools/CorelUltraHDBlurayCheckTool.exe)  
 
@@ -670,13 +672,13 @@ It is highly likely that the 4K content will be encoded in HEVC (h.265), the suc
 
 - [Nvidia >= GTX 10xx, AMD >= RX 550/5x00/6x00, Intel ARC](/wiki/components#gpusgraphics) dGPUs 
 
-All options are sufficient, and have benchmarked playing 4K 400Mbps bitrate videos at >= 70fps ([See Here](https://forum.doom9.org/showthread.php?p=1803012#post1803012)).  Most 24-30fps 4K videos encoded in HEVC have bitrates between 15-60Mbps (Netflix 4K is HEVC encoded at 15Mbps).
+All options are sufficient, and have benchmarked playing 4K 400Mbps bitrate videos at >= 70fps ([See Here](https://forum.doom9.org/showthread.php?p=1803012#post1803012)).  Most 4K videos encoded in HEVC have avg. bitrates between 15-128Mbps (Netflix 4K is HEVC encoded at 16Mbps).
 
 HDR is also a popular feature these days. For additional requirements, see the section below.
 
 COST
 
-If you go the CPU w/IGPU route, you can expect to spend about $125 for a CPU (like a Intel i3-12100 or AMD Ryzen 4600g) and between $90-$150 for a Intel B660/AMD B550 motherboard, respectively, depending on the form factor.  
+If you go the CPU w/IGPU route, you can expect to spend about $125 for a CPU (like a Intel i3-12100 or AMD Ryzen 4600g) and between $90-$150 for a Intel B760/AMD B550 motherboard, respectively, depending on the form factor.  
 
 If you go the dedicated GPU route, an Intel ARC A380 will cost around $100, while a AMD RX 6400 will cost around $140.  
 
@@ -705,11 +707,11 @@ Otherwise, if you stick to Ryzen APUs or Intel >= 11th gen CPUs below, any paire
 
 The following CPU iGPUs/APUs are officially supported:  
 
-- Intel 7th-14th (7xxx-14xxx) Gen Core i3/i5/i7/i9, Intel >= 12th gen (G6900/G7400) Celeron/Pentium, Intel N5xxx/N6xxx Jasper Lake (NOT Apollo/Gemini Lake). **(REC: Intel i3-12100+B660 mobo)**  
+- Intel 7th-14th (7xxx-14xxx) Gen Core i3/i5/i7/i9, Intel >= 12th gen (G6900/G7400) Celeron/Pentium, Intel N5xxx/N6xxx Jasper Lake. **(REC: Intel i3-12100+B760 mobo)**  
 
 - AMD >= Ryzen 3 2x00G APU, >= Athlon 2x0GE/3000G **(REC: Ryzen 4600G+B550 mobo)**
 
-It's also available on the following dGPUs: Nvidia GTX >= 950, GT >= 1030, Titan X, Quadro P5000/P6000, AMD RX >= 4x0/5x0/5x00, Radeon 7, Vega 56/64.  
+It's also available on the following dGPUs: Nvidia GTX >= 950, GT >= 1030, Titan X, Quadro P5000/P6000, AMD RX >= 4x0/5x0/5x00, Radeon 7, Vega 56/64, Intel ARC >= A310.  
 
 For older DiY motherboard support, reference our [HDMI 2.0 motherboards](/wiki/hdmi20) page.  
 
@@ -806,5 +808,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2024-09-25*
+*This page was last updated on 2024-10-20*
 
