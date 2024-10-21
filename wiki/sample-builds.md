@@ -49,7 +49,7 @@ Some of these are: **Intel (NUC), [Lenovo (ThinkCentre/IdeaCentre)](https://www.
 
 ### 4K HDR PLAYERS
 
-**TL;DR If you're on a budget, then an Intel [N100](https://www.amazon.com/s?k=intel+n95%7Cn97%7Cn100+pc&rh=n%3A13896591011&ref=nb_sb_noss) based mini pc for $150 with mem/storage is fine. If you can afford it, look at a [Beelink EQR6](https://www.amazon.com/Beelink-4-75GHz-Copilot-Computer-1000Mbps/dp/B09K39RJDQ?th=1) or better ($270+) for better future-proofing performance**  
+**TL;DR If you're on a budget, then an Intel [N100](https://www.amazon.com/s?k=intel+n95%7Cn97%7Cn100+pc&rh=n%3A13896591011&ref=nb_sb_noss) based mini pc for $150 with mem/storage is fine. If you can afford it, look at a [Beelink EQR6](https://www.amazon.com/Beelink-4-75GHz-Copilot-Computer-1000Mbps/dp/B09K39RJDQ?th=1) ($270+) or better for future-proofing**  
 
 $70-$85: SMALLEST: SBC: w/CoreELEC OS, 32GB MicroSD, AC Adapter 
 
