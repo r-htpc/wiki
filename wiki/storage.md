@@ -174,7 +174,7 @@ Mediasonic	|	Probox - HF2/HF7	|	4	|	$110/$170	|	HF2: USB 3.0/eSATA, HF7: USB31G2
 Mediasonic	|	Proraid - HFR2/HFR7     	|	4	|	$150/$180	|	USB30/USB31G2, HW RAID 0/1/10/3/5, JBOD, Single
 Mediasonic	|	Probox - H82		|	8	|	$270-$350	|	USB30/USB31G2, Single
 Terramaster       |       D4-300                     |      4       |       $170 | USB31G1, Single
-Sabrent       |       DS-SC4B/SC5B              |      4/5       |       $230-280 | USB31G2, Single
+OWC      |       [Mercury Elite Pro Quad](https://www.amazon.com/OWC-Mercury-Elite-Storage-Enclosure/dp/B09SC124GS)              |      4       |       $220 | USB31G2, Single
 **QNAP**		|	**[TL-D400S](https://www.qnapworks.com/TL-D400S.asp)**		|	4	|	$300	| **PCIe SAS (more reliable than USB)**, JBOD, Single
 QNAP		|	TR-002-US		|	2	|	$160	| USB32G1, HW RAID 0/1/10/5, JBOD, Single
 QNAP		|	TR-004-US		|	4	|	$200	| USB32G1, HW RAID 0/1/10/5, JBOD, Single
