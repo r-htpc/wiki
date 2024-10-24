@@ -186,7 +186,7 @@ Advanced, more powerful tonemapping, upscaling and processing than using MPC Vid
       * \<your_display_device\>
         * properties -> PC levels 0-255, bitdepth: 10 bit or higher  
         * calibration -> this display is already calibrated  
-        * display modes
+        * display modes (OPTIONAL - for refresh rate switching)
           * Enable: switch to matching display mode..when playback starts  
           * list all display modes..: 2160p23, 2160p24, 2160p50, 2160p59, 2160p60 (assumes a 4k display)  
         * HDR -> passthrough HDR content to the display, send HDR metadata to the display  
@@ -233,7 +233,7 @@ Advanced, current way to integrate madVR into Kodi for passthrough, tonemapping,
       * \<your_display_device\>
         * properties -> PC levels 0-255, bitdepth: 10 bit or higher  
         * calibration -> this display is already calibrated  
-        * display modes
+        * display modes (OPTIONAL - for refresh rate switching)
           * Enable: switch to matching display mode..when playback starts  
           * list all display modes..: 2160p23, 2160p24, 2160p50, 2160p59, 2160p60 (assumes a 4k display)  
         * HDR -> passthrough HDR content to the display, send HDR metadata to the display  
@@ -366,7 +366,7 @@ Advanced, old way to integrate madVR into Kodi for passthrough, tonemapping, and
       * \<your_display_device\>
         * properties -> PC levels 0-255, bitdepth: 10 bit or higher  
         * calibration -> this display is already calibrated  
-        * display modes
+        * display modes (OPTIONAL - for refresh rate switching)
           * Enable: switch to matching display mode..when playback starts  
           * list all display modes..: 2160p23, 2160p24, 2160p50, 2160p59, 2160p60 (assumes a 4k display)  
         * HDR -> passthrough HDR content to the display, send HDR metadata to the display  
