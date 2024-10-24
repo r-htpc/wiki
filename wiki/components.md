@@ -88,7 +88,7 @@ Below are the minimum CPUs required for each scenario and a recommendation. **Al
 
 - AV1 decoding: >= Intel i3/i5/i7-11xxx iGPU, >= Ryzen 8xxxG/7xxx iGPU (REC: Intel i3-12100)  
 
-- UHD Blu-Ray disc playing: Intel i3/5/7/9 7th-10th Gen iGPU ONLY + [Motherboard BIOS supporting Intel SGX](/wiki/hdmi20) (REC: Intel i3-10100)  
+- UHD Blu-Ray disc playing: Intel i3/5/7/9-7xxx-10xxx Gen iGPU ONLY + [Motherboard BIOS supporting Intel SGX](/wiki/hdmi20) (REC: Intel i3-10100)  
 
 - HDMI 2.1 4K@120Hz (>= 32Gbps): >= Ryzen 8xxxG/7xxx iGPU (REC: Ryzen 8500G)
 
@@ -143,6 +143,7 @@ Intel i3-i7 2xxx-3xxx (DT)					|	N		|	N		|	N	|	N		|1.4		|1.2	|	N	|	N		|	N		|Sand
 Intel i3-i7 4xxx-6xxx (DT)					|	Y		|	N		|	N	|	N		|1.4		|1.2	|	N	|	N		|	N		|Haswell/Broadwell/Skylake
 Intel i3-i9 7xxx-10xxx (DT)					|	Y		|	Y		|	N	|	Y (2)	|1.4 (1)	|1.2	|	Y	|	Y		|	Y (2)	|Kaby/Coffee/Comet Lake
 Intel i3-i9 11xxx-14xxx	(DT)				|	Y		|	Y		|	Y	|	Y		|2.1 (7)		|1.4 (12)	|	Y	|	Y		|	Y		|Rocket/Alder/Raptor Lake
+Intel Core Ultra 2xx (DT)				|	Y		|	Y		|	Y	|	Y		|2.1 (8)		|2.1	|	Y	|	Y		|	Y		|Arrow Lake
 Intel G39/45/46/49/54/55xx (DT)				|	Y		|	Y		|	N	|	Y (2)	|1.4 (1)	|1.2	|	Y	|	Y		|	Y (3)	|Kaby/Coffee/Comet Lake
 Intel G69xx/G74xx (DT)				|	Y		|	Y		|	Y	|	Y		|2.1 (7)		|1.4	|	Y	|	Y		|	Y		|Alder Lake
 Intel z3xxx/z8xxx/J30xx/J31xx/J37xx/N30xx (EM)	|	Y		|	N		|	N	|	N		|1.4		|1.2	|	N	|	N		|	N		|Braswell/Cherry Trail
