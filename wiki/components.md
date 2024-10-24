@@ -182,7 +182,7 @@ Nvidia RTX 40xx								|	Y		|	Y		|	Y	|	Y		|2.1		|1.4	|	Y	|	Y		|	Y		|Ada Lovelace
 (5) Requires >= 1050 3GB/1050 Ti  
 (6) Requires >= RX 6600  
 (7) Only provides HDMI 2.0 bandwidth/resolutions  
-(8) HDMI 2.1 (>= 32Gbps) available on specific SKUs  
+(8) HDMI 2.1 (>= 32Gbps) available on specific OEM/AIB SKUs  
 (9) [Not GTX 1060/1070&Ti/1080](https://en.wikipedia.org/wiki/Nvidia_NVDEC)  
 (11) 4k@120 Hz 4:2:2 10-bit HDR - 32 Gbps (mobo limited)  
 (12) DP 2.1 - 40 Gbps with usb available on specific 13xxx mobo SKUs  
