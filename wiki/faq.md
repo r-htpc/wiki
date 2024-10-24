@@ -707,7 +707,7 @@ Otherwise, if you stick to Ryzen APUs or Intel >= 11th gen CPUs below, any paire
 
 The following CPU iGPUs/APUs are officially supported:  
 
-- Intel 7th-14th (7xxx-14xxx) Gen Core i3/i5/i7/i9, Intel >= 12th gen (G6900/G7400) Celeron/Pentium, Intel N5xxx/N6xxx Jasper Lake. **(REC: Intel i3-12100+B760 mobo)**  
+- Intel 7th+ Gen (7xxx+) Core i3/i5/i7/i9/Ultra, Intel >= 12th gen (G6900/G7400) Celeron/Pentium, Intel N5xxx/N6xxx Jasper Lake. **(REC: Intel i3-12100+B760 mobo)**  
 
 - AMD >= Ryzen 3 2x00G APU, >= Athlon 2x0GE/3000G **(REC: Ryzen 4600G+B550 mobo)**
 
@@ -808,5 +808,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2024-10-20*
+*This page was last updated on 2024-10-23*
 
