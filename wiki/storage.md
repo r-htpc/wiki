@@ -258,7 +258,8 @@ DiY drive cages: [2-drive](https://www.amazon.com/Phanteks-Stackable-Bracket-Cas
 
 CASE							|3.5"	|2.5"	|COST		|W x H x D (in)				|H.SWAP	|LITERS			|MOBOS				|NOTES
 :--|:--|:--|:--|:--|:--|:--|:--|:--
-U-NAS NSC-400/401/410			|4		|NA		|$150		|7.5 x 7.1 x 10				|**YES**	|8.7/8.7/10.1	|ITX				|w/250W Flex PSU. [link](https://www.u-nas.com/xcart/cart.php?target=category&category_id=249)
+U-NAS NSC-201			|2		|NA		|$130		|5.5 x 7.1 x 8				|**YES**	|6.4	|ITX				|w/150W Flex PSU. 47mm CPU. [link](https://www.u-nas.com/xcart/cart.php?target=category&category_id=249)
+U-NAS NSC-401/410			|4		|NA		|$150		|7.5 x 7.1 x 10				|**YES**	|8.7/10.1	|ITX				|w/250W Flex PSU. [link](https://www.u-nas.com/xcart/cart.php?target=category&category_id=249)
 INNOVISION (U-NAS KNOCK-OFF)		|4		|NA		|$47-113+60	|7.4 x 7.1 x 10.3			|**YES**	|8.8			|ITX				|Shipping cost! 1U Flex PSU options - [link](https://www.aliexpress.com/item/4000151540264.html?spm=a2g0o.detail.1000060.2.3e9f65bd3NFIQG&gps-id=pcDetailBottomMoreThisSeller&scm=1007.14977.161853.0&scm_id=1007.14977.161853.0&scm-url=1007.14977.161853.0&pvid=28de11ce-d35d-40a4-bc22-7ac6928eb016&_t=gps-id:pcDetailBottomMoreThisSeller,scm-url:1007.14977.161853.0,pvid:28de11ce-d35d-40a4-bc22-7ac6928eb016,tpp_buckets:668%230%23131923%238_668%23808%235965%23588_668%23888%233325%233_668%232717%237558%23179)
 Norco ITX-S4					|4		|NA		|$200		|7.75 x 7.5 x 10			|**YES**	|9.5			|ITX				|ITX-S8 version too
 **Jonsbo N2**					|5		|1		|$150		|8.8 x 8.8 x 8.8			|**YES**	|11.1			|ITX				|65mm CPU, SFX PSU - [link](https://www.jonsbo.com/en/products/N2Black.html)
