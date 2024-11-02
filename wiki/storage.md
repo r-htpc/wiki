@@ -77,15 +77,15 @@ If you just need storage..
 - 4 drives: Terramaster F4-212 - $230  
 
 If you need storage and want to run backend services (like plex)..  
-- 2 drives: Terramaster F2-424 - $380  
+- 2 drives: Terramaster F2-423 - $280  
 - 4 drives: Terramaster F4-424 - $500  
 
 **STORAGE+SERVICES - 2 drives**  
 
 BRAND		|	MODEL				|	DRIVES	|COST	|	TRANSCODING		|	CPU								|	PASSMARK	|	PM/$|	RAID MODES	| NOTES
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--
-**Terramaster**	|	**F2-424**				|	2	|	$380	|	4k (1a)	|	x64 (Celeron N95) 3.4 Ghz	|		5419	|	14.26	|RAID 0/1,JBOD,Single|8GB RAM, 2x2.5 Gb/s
-Terramaster	|	F2-423				|	2	|	$380	|	4k (1a)	|	x64 (Celeron N5105) 2.0 Ghz	|		4094	|	10.77	|RAID 0/1,JBOD,Single|4GB RAM, 2.5 Gb/s
+**Terramaster**	|	**F2-423**				|	2	|	$280	|	4k (1a)	|	x64 (Celeron N5105) 2.0 Ghz	|		4094	|	14.6	|RAID 0/1,JBOD,Single|4GB RAM, 2.5 Gb/s
+Terramaster	|	F2-424				|	2	|	$380	|	4k (1a)	|	x64 (Celeron N95) 3.4 Ghz	|		5419	|	14.26	|RAID 0/1,JBOD,Single|8GB RAM, 2x2.5 Gb/s
 ASUSTOR		|	AS-5402T			|	2	|	$380	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094|	10.77	|RAID 0/1,JBOD,Single|4GB RAM, 2x2.5Gb/s, ext4/btrfs
 **Synology**	|	**DS224+**				|	2	|	$300	|	Some/4k (1b)			|	x64 (Celeron J4125) 2.0 Ghz		|		3035	|	10.1	|RAID 0/1,JBOD,SHR,Single|2GB RAM, 1Gb/s x2
 QNAP	|	TS-264				|	2	|	$425	|	4k (1a)			|	x64 (Celeron N5095) 2.0GHz		|		4125	|	9.7	|RAID 0/1,JBOD,Single|8GB RAM, 2.5Gb/s, ext4
@@ -97,9 +97,9 @@ BRAND		|	MODEL				|	DRIVES	|COST	|	TRANSCODING		|	CPU								|	PASSMARK	|	PM/$|	
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--
 Terramaster	|	F4-424 Pro				|	4	|	$700	|	4k (0a)	|	x64 (i3-N305) 3.8 Ghz	|		10060	|	14.37	|RAID 0/1/5/6/10,JBOD,Single|ext4/btrfs, 32GB RAM, 2x2.5 Gb/s
 **Terramaster**	|	**F4-424**				|	4	|	$500	|	4k (1a)	|	x64 (Celeron N95) 3.4 Ghz	|		5419	|	10.83	|RAID 0/1/5/6/10,JBOD,Single|ext4/btrfs, 8GB RAM, 2x2.5 Gb/s
-**QNAP**		|	**TS-364-4G**				|	3	|	$450	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094	|	 9.09	|RAID 0/1/5,JBOD,Single|ext4, 4GB RAM, 2.5 Gb/s
+**Terramaster**		|	**[F4-423](https://www.terra-master.com/us/f4-4607.html)**				|	4	|	$400	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094	|	 10.2	|RAID 0/1/5/6/10, JBOD, Single|ext4/btrfs, 4GB RAM , 2.5 Gb/s
+QNAP		|	TS-364-4G				|	3	|	$450	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094	|	 9.09	|RAID 0/1/5,JBOD,Single|ext4, 4GB RAM, 2.5 Gb/s
 Terramaster	|	[F6-424](https://www.terra-master.com/us/products/homesoho-nas/f6-424.html?page=menu&mid=1588)				|	6	|	$600	|	4k (1a)	|	x64 (Celeron N95) 3.4 Ghz	|		5419	|	9.03	|RAID 0/1/5/6/10,JBOD,Single|ext4/btrfs, 8GB RAM, 2x2.5 Gb/s
-Terramaster		|	[F4-423](https://www.terra-master.com/us/f4-4607.html)				|	4	|	$500	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094	|	 8.18	|RAID 0/1/5/6/10, JBOD, Single|ext4/btrfs, 4GB RAM , 2.5 Gb/s
 ASUSTOR		|	AS-5404T			|	4	|	$530	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094|	7.74	|RAID 0/1/5/6/10,JBOD,Single|4GB RAM, 2x2.5Gb/s, ext4/btrfs
 QNAP		|	TS-464-4G				|	4	|	$550	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094	|	 7.44	|RAID 0/1/5/6/10, JBOD,Single|ext4, 4GB RAM, 2.5 Gb/s
 Synology	|	DS423+				|	4	|	$500	|	Some/4k (1b)			|	x64 (Celeron J4125) 2.0 Ghz		|		3035	|	6.07	||2GB RAM
