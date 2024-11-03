@@ -690,7 +690,7 @@ If you can't support the above hardware methods, but have plain **ARC** support 
  4. As a last resort, you can output to just analog surround sound speakers connected directly to the PC, if your motherboard supports it.  
 
 If you want to, and can, support **Dolby Atmos** from your games:
-* Enable audio passthrough in your Display 
+* Enable audio passthrough and eARC in your Display 
 * Install the [Dolby Access](https://www.microsoft.com/en-us/store/p/dolby-access/9n0866fs04w8) app from the Microsoft store 
 * Open the app and select Products -> Dolby Atmos for Home Theater -> Setup -> Continue.
 * Open Windows Control Panel -> Sound -> \<your_sound_device\>
@@ -945,5 +945,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2024-09-23*
+ *This page was last updated on 2024-11-03*
 
