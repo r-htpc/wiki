@@ -270,34 +270,28 @@ In this scenario you will likely be bitstreaming through Optical, or in the case
 
 ### **Software/OS Setup**  
 
-There are 2 ways to send audio between your HTPC and your sound system, Bitstreaming and Decoding.  
-Depending on your use-case **you may be using one or both**. A use-case where you'd use both is where you want to bitstream Dolby/DTS codecs from a media player(s), but send PCM for games; so you'd **configure Bitstreaming for your media players and then configure Decoding in your Operating System sound control panel, for PCM**.  
-**Do NOT continue on until you know what codecs your sound system/display supports (per above research/setup) and [which you want to use](/wiki/audio#what-kind-of-audio-is-supported-on-a-htpc)**
+There are 2 ways to send audio between your HTPC and your sound system, Decoding and Bitstreaming.  
+Depending on your use-case **you may be using one or both**. A use-case where you'd use both is where you want to bitstream Dolby/DTS codecs from a media player(s), but send PCM for games and other non-encoded content (music, youtube, etc..);  
+You should **configure Scenario #1 first and then optionally configure Scenario #2 for bitstreaming Dolby/DTS encoded content in your OS and media players**.  
+**Do NOT continue on until you know what codecs your sound system/display and related audio interfaces support (per above research/setup) and [which you want to use](/wiki/audio#what-kind-of-audio-is-supported-on-a-htpc)**
 
-**Scenario #1: BITSTREAMING**  
+**Scenario #1: DECODING/CHANNELIZATION**  
 
-The first is bitstreaming (pass-through). This means the application playing your content sends the audio to your sound system **untouched** and allows the sound system to decode it.  
+The first scenario is decoding and channelization. This means the media application playing your content sends the audio to your sound system (or your OS does) through Windows DirectSound, converted to the common PCM format you (hopefully) read about above, or analog, if using a 3.5mm/RCA audio interface. The sound system has no knowledge of the codec being played, if there is one.  
 
-This scenario would be used with encoded codecs like Dolby and DTS, on digital audio interfaces like HDMI and Optical (i.e. not 3.5mm/RCA).  
+This scenario would be used for non-encoded PCM audio, like **Gaming**, streaming services that only support Stereo, and/or when you want to modify the audio in the PC using middleware (upmixing, equalizing, creating fake spatial audio), and/or sound systems where encoded codecs are not supported, like analog audio interfaces.  
 
-If, for example, if you're trying to play Dolby TrueHD and your sound system CAN decode Dolby TrueHD, you would configure bitstreaming. If you have an AV receiver, it would then say "Dolby TrueHD" on it.  
-On a Windows HTPC, this is usually done per media application by telling the audio decoder in it which codecs to bitstream. It may also involve setting the sound device in the app to "WASAPI Exclusive". WASAPI allows the application to talk directly to the audio driver.  
+**On a Windows HTPC, this is the DEFAULT scenario, so audio interfaces are limited by their PCM capabilities and Stereo is the default output unless configured**.  
 
-**Follow the application-specific setup instructions for Bitstreaming in the next section**  
+Start by setting up your Speaker configuration in your OS so it knows how many channels you have.  
+To do this in Windows: Open Windows Sound control panel (run mmsys.cpl) -> \<your_audio_device\> -> Configure -> Select your speaker configuration -> Next -> Optionally configure the speakers you have/don't have. Click 'Test' and confirm all channels you're configuring are being represented properly.  
+If you're trying to configure more than Stereo but the options aren't available or channels aren't being represented, it's usually because:
+ - Your setup is limited by hardware (audio interfaces, sound system support, display passthrough mis-configuration). Double-check that all the connected equipment and interfaces support PCM 5.1. For instance, don't use an Optical or regular ARC audio interface that only supports PCM 2.0 as per above and try to configure PCM 5.1 surround. 
+ - Your setup is limited by software. You haven't set up audio passthrough properly in your display, your sound system is not in direct mode, your speakers are mis-configured at your sound system or you installed/configured middleware audio software (like an APO, Spatial Sound, Mixer, Dolby Access/DTS Connect) before doing this setup.
 
-- NOTES:  
-  1. You know this way is configured correctly because when you play audio you should NOT be able to change the volume on the HTPC and hear a difference. The volume is only controlled through the sound system.  You should also see a codec name or indicator on your AV Receiver display.  
-  2. For applications that support bitstreaming, changing settings in the Windows Sound control panel means nothing. Bitstreaming bypasses any Speaker Setup config (Stereo/Surround).  
+*If you select a speaker configuration that is more than what your content provides, for instance you choose 5.1 speakers and play a Stereo source, Windows will output the source as 5.1 but with only the Stereo speakers containing audio.*  
 
-**Scenario #2: DECODING/CHANNELIZATION**  
-
-The second is decoding and channelization. This means the media application playing your content sends the audio to your sound system (or your OS does) through Windows DirectSound, converted to the common PCM format you read about above, or analog, if using a 3.5mm/RCA audio interface. The sound system has no knowledge of the codec being played, if there is one.  
-
-This scenario would be used for non-encoded PCM audio, like **Gaming**, streaming services that only support Stereo, when you want to modify the audio in the PC using middleware (upmixing, equalizing, creating fake spatial audio), and/or sound systems where encoded codecs are not supported, like analog audio interfaces.  
-
-**On a Windows HTPC, this is the DEFAULT scenario, so audio interfaces are limited by their PCM capabilities and Stereo is the default output**. To configure this in Windows: Open Windows Control Panel -> Sound -> \<your_audio_device\> -> Configure -> Select your speaker configuration -> Next -> Optionally configure the speakers you have/don't have.  
-
-If you select a speaker configuration that is more than what your content provides, for instance you choose 5.1 speakers and play a Stereo source, Windows will output the source as 5.1 but with only the Stereo speakers containing audio.  
+Now you can proceed to setting up specific applications and decoding of media/games.  
 
 - *Setting up Decoding for Media (NOT bitstreaming):* 
 
@@ -313,7 +307,7 @@ In media applications, the most popular ones will have the codecs to decode up t
     - There are advanced things you can do by using application middleware and external filters like [transcoding audio codecs](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital), decoding obscure codecs and advanced mixing. See the 3rd Party sub-section of the Audio Software section above.  
 
 - *Setting up for Gaming:*
-   - See the [Gaming section](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) below for caveats and advanced Atmos setup.
+   - If you're playing games with just PCM, you're done. If you're doing advanced setups like using Dolby Access/Atmos or Dolby Digital Live, see the [Gaming section](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) below for caveats and advanced setup.
 
 - *If you want to upmix content:*
    - Configure the speaker configuration in the OS as Stereo. This will allow your sound system to use its upmixers (Dolby Surround, Pro Logic, etc..) to upmix the content
@@ -322,13 +316,25 @@ In media applications, the most popular ones will have the codecs to decode up t
    - If available, set your windows sound device to use the 'Speaker fill' enhancement.
    - Install Dolby Access and configure Dolby Atmos for Home Theater with the Channel Upmixer option enabled
 
-- *Troubleshooting:*  
-   - If you're trying to configure more than Stereo but the options aren't available, it's usually because your setup is limited by hardware (audio interfaces, sound system support, display passthrough mis-configuration). Double-check all the connected pieces support PCM 5.1. For instance, don't use an Optical audio interface that only supports PCM 2.0 as per above and try to configure PCM 5.1 surround. 
-
 - NOTES:  
   1. You know this way is configured correctly because when you play audio you SHOULD be able to change the volume on the HTPC and hear a difference.  
   2. Some OS sounds/applications primarily output audio as PCM exclusively (like web browsers; see below).
   3. If you have an AV receiver, it would say "PCM"/"Multi Ch In"/"Direct"/"Uncompressed" on it, unless you have the receiver set to upmix the audio with a listening mode such as Dolby Surround.  
+
+**Scenario #2: BITSTREAMING**  
+
+The second scenario is bitstreaming (pass-through). This means the application playing your content sends the audio to your sound system **untouched** and allows the sound system to decode it.  
+
+This scenario would be used with encoded codecs like Dolby and DTS, on digital audio interfaces like HDMI and Optical (i.e. not 3.5mm/RCA).  
+
+If, for example, if you're trying to play Dolby TrueHD and your sound system CAN decode Dolby TrueHD, you would configure bitstreaming. If you have an AV receiver, it would then say "Dolby TrueHD" on it.  
+On a Windows HTPC, this is usually done per media application by telling the audio decoder in it which codecs to bitstream. It may also involve setting the sound device in the app to "WASAPI Exclusive". WASAPI allows the application to talk directly to the audio driver.  
+
+**Follow the application-specific setup instructions for Bitstreaming in the next section**  
+
+- NOTES:  
+  1. You know this way is configured correctly because when you play audio you should NOT be able to change the volume on the HTPC and hear a difference. The volume is only controlled through the sound system.  You should also see a codec name or indicator on your AV Receiver display.  
+  2. For applications that support bitstreaming, changing settings in the Windows Sound control panel means nothing. Bitstreaming bypasses any Speaker Setup config (Stereo/Surround).  
 
 <!-- Sub-Sub-Section -->
 
