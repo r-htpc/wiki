@@ -9,15 +9,15 @@
 </style>
 -->
 
-**4K HDR: Beelink SEI 11/12, Intel NUC [11/12 i3-i5](https://www.newegg.com/p/pl?N=100008345%20601398021%20601398031%20601407140%20601398049%20601398018%20601398044%20601398029%20601398043%20601398019&SrchInDesc=-hunsn%2C-Aittact&Order=1), Minisforum UM560XT, On the cheap: Used Intel NUC8i3BEH**
+**4K HDR: Beelink EQR6, Intel NUC [11-13 i3-i5](https://www.newegg.com/p/pl?N=100008345%20601398021%20601398031%20601407140%20601398049%20601398018%20601398044%20601398029%20601398043%20601398019%2050001157%2050001315%20601412543%20601412542%20601435126%20601435127%20601450721%20601412544&SrchInDesc=-hunsn%2C-Aittact&Order=1). On the cheap: Used Intel NUC8i3BEH**
 
-**1080p: Beelink Mini S12 N95, Intel NUC11TAK, On the cheap: Intel NUC7PJYH/NUC7CJYH/NUC6CAYH**
+**1080p: Beelink Mini S12 N95, Intel NUC11ATK, On the cheap: Intel NUC7PJYH/NUC7CJYH/NUC6CAYH**
 
-**Plex Server Transcoding: Less: Beelink Mini S12 Pro/Intel NU8i5, More: Beelink SEI11/12. On the cheap: Used [i3-7100T Micro/Tiny](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%28hp%2Cdell%2Clenovo%2Cintel%29+%28i3-7100t%2Ci5-7400t%2Ci5-7500t%2Ci3-7100u%29&_sacat=179&LH_TitleDesc=0&_fsrp=1&_odkw=%28hp%2Cdell%2Clenovo%2Cintel%29+%28i3-7100t%2Ci5-7400t%2Ci5-7500ti3-7100u%2C%29&_osacat=179&LH_BIN=1&_sop=15&LH_PrefLoc=2&_udhi=150)**
+**Plex Server Transcoding: Less: Beelink Mini S12 Pro/Intel NU8i5, More: Minisforum NAB6 Lite. On the cheap: Used [i3-7100T Micro/Tiny](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%28hp%2Cdell%2Clenovo%2Cintel%29+%28i3-7100t%2Ci5-7400t%2Ci5-7500t%2Ci3-7100u%29&_sacat=179&LH_TitleDesc=0&_fsrp=1&_odkw=%28hp%2Cdell%2Clenovo%2Cintel%29+%28i3-7100t%2Ci5-7400t%2Ci5-7500ti3-7100u%2C%29&_osacat=179&LH_BIN=1&_sop=15&LH_PrefLoc=2&_udhi=150)**
 
 **Fanless: Intel NUC/Asus PNxx + [Akasa Turing/Plato/Newton](https://www.akasa.com.tw/index.php?lang=en) chassis**
 
-**Emulation/Light Gaming: Beelink SEI11, Intel NUC 11 (i5/i7), Asus PN51 5500u, Asrock Deskmini A300W w/5600G**
+**Emulation/Light Gaming: Minisforum NAB6 Lite, Intel NUC 11 (i5/i7), Beelink EQR6**
 
 **Medium Gaming: Minisforum UM773 Lite, Minisforum EliteMini UM690 Pro, Beelink GTR6**
 
