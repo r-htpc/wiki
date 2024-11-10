@@ -46,8 +46,8 @@ SSDs are good for smaller app, metadata and cache storage as they have more read
 
 ## External Storage
 
-External media storage can come in the format of USB drives or USB/Thunderbolt Direct Attached Storage enclosures (DAS); drives in a DAS can act as individual drives or as one drive. These USB-based storage devices are o.k. for beginner setups, but anything attached by USB is at risk of being disconnected at random, so **internal or network storage is preferred** to external, for reliability and stability. That said, if a DAS is PCIe SAS-based instead of USB, this is just as good as internal/network storage.  
-**Never** do Software RAID over USB.  
+External media storage can come in the format of USB drives or USB/Thunderbolt Direct Attached Storage enclosures (DAS); drives in a DAS can act as individual drives or as one drive. These USB-based storage devices are o.k. for beginner setups, but anything attached by **USB is at risk of being disconnected at random**, so **internal or network storage is preferred** to external, for reliability and stability. That said, if a DAS is PCIe SAS-based instead of USB, this is just as good as internal/network storage.  
+**Never** do Software RAID or drive pooling over USB.  
 
 Recommended DASes are bolded in the Hardware section below. PCIe solutions being preferred. 
 
@@ -167,14 +167,20 @@ Reference the DiY case/drive lists below, and the example builds under the [Wiki
 
 ### Direct Attach Storage (DAS)
 
+As stated above, avoid USB based DASes. PCIe SAS is much more reliable. You can fit the low-profile PCIe cards into SFF sized servers (m920s) and even in a number of pre-built Micros (m920q/m90q, P320/P330 Tiny, ms-01).
+
+<!--
+Mediasonic	|	Proraid - HUR5	        |	2	|	$50		|	USB31G2, HW RAID 0/1, JBOD, Single
+-->
+
 BRAND		|	MODEL				|	DRIVES|	COST	|	NOTES
 :--|:--|:--|:--|:--
-Mediasonic	|	Proraid - HUR5	        |	2	|	$50		|	USB31G2, HW RAID 0/1, JBOD, Single
-Mediasonic	|	Probox - HF2/HF7	|	4	|	$110/$170	|	HF2: USB 3.0/eSATA, HF7: USB31G2
+Mediasonic	|	Probox - HF2/HF7	|	4	|	$100/$150	|	HF2: USB 3.0/eSATA, HF7: USB31G2
 Mediasonic	|	Proraid - HFR2/HFR7     	|	4	|	$150/$180	|	USB30/USB31G2, HW RAID 0/1/10/3/5, JBOD, Single
 Mediasonic	|	Probox - H82		|	8	|	$270-$350	|	USB30/USB31G2, Single
 Terramaster       |       D4-300                     |      4       |       $170 | USB31G1, Single
-OWC      |       [Mercury Elite Pro Quad](https://www.amazon.com/OWC-Mercury-Elite-Storage-Enclosure/dp/B09SC124GS)              |      4       |       $220 | USB31G2, Single
+OWC      |       [Mercury Elite Pro 2](https://www.amazon.com/OWC-Mercury-Elite-eSATA-Enclosure/dp/B06XRK93R9?th=1)  |      2       |       $65 | USB31G1/eSATA, Single
+OWC      |       [Mercury Elite Pro Quad](https://www.amazon.com/OWC-Mercury-Elite-Storage-Enclosure/dp/B09SC124GS)  |      4       |       $220 | USB31G2, Single
 **QNAP**		|	**[TL-D400S](https://www.qnapworks.com/TL-D400S.asp)**		|	4	|	$300	| **PCIe SAS (more reliable than USB)**, JBOD, Single
 QNAP		|	TR-002-US		|	2	|	$160	| USB32G1, HW RAID 0/1/10/5, JBOD, Single
 QNAP		|	TR-004-US		|	4	|	$200	| USB32G1, HW RAID 0/1/10/5, JBOD, Single
