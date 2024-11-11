@@ -195,21 +195,21 @@ PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 CASE/PSU		|Asrock Deskmini X300W					|$170	|Amazon	|MOBO/PSU included - 6.1" x 6.1" x 3.1"
 CPU			|AMD Ryzen 4600G APU (65W)					|	$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: Ryzen 5600G-5700G ($125-175)
 MEM			|Crucial 2x8GB DDR4-3200 SODIMM - CT2K8G4SFRA32A	|$40		|[amazon](https://www.amazon.com/Crucial-2x8GB-Laptop-Memory-CT2K8G4SFRA32A/dp/B08C4WV6FT)	|ALT: [2x8GB DDR4 SODIMM](https://pcpartpicker.com/products/memory/#xcx=0&b=ddr4&ff=ddr4_sodimm&sort=price&S=2666,8000&Z=16384002) ($30)
-STORAGE	 	|WD SN580 250GB NVMe M.2 SSD	(OS)				|$30		|[pcpartpicker](https://pcpartpicker.com/product/xx26Mp/western-digital-blue-sn580-250-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds250g3b0e)	|ALT: WD Black SN580 500 GB M.2 ($40)
+STORAGE	 	|Kingston NV2 500GB NVMe M.2 SSD	(OS)				|$38		|[pcpartpicker](https://pcpartpicker.com/product/QvpzK8/kingston-nv2-500-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-snv2s500g)	|ALT: WD Black SN770 500 GB M.2 ($60)
 COOL	 	|Noctua NH-L9a-AM4 CPU Cooler, 37mm					|$45		|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|OPTIONAL. Quieter than stock cooler
-TOTAL		|											|$385	||
+TOTAL		|											|$393	||
 
 **Inwin Chopin - MOBO separate, PSU internal, 3.3L** 
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE/PSU	|Inwin Chopin/BQ656					|	$100		|[google](https://www.google.com/search?q=inwin+bq656+chopin&oq=inwin+bq656+chopin)	|PSU included - 8.6" x 9.6" x 3.3"
-MOBO		|Gigabyte A520I AC ITX					|	$110	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&s=33&sort=price&page=1)			|ALT: ASRock A520M-ITX/ac
-CPU			|AMD Ryzen 4600G APU (65W)					|	$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: Ryzen 5600G-5700G ($125-175)
-MEM			|TEAMGROUP T-Force Vulcan Z 2x8GB DDR4-3200			|	$35		|[pcpartpicker](https://pcpartpicker.com/products/memory/#Z=16384002&sort=price&xcx=0&ff=ddr4&S=3200,7200&L=160,180)	|ALT: [2x4GB DDR4 DIMM](https://pcpartpicker.com/products/memory/#Z=8192002&sort=price&xcx=0&ff=ddr4) ($35)
-STORAGE	 	|WD SN580 250GB NVMe M.2 SSD	(OS)				|$30		|[pcpartpicker](https://pcpartpicker.com/product/xx26Mp/western-digital-blue-sn580-250-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds250g3b0e)	|ALT: WD Black SN580 500 GB M.2 ($40)
+MOBO		|Gigabyte A520I AC ITX					|	$110	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&s=33&sort=price&page=1)			|ALT: [ASRock A620I Lightning](https://pcpartpicker.com/products/motherboard/#f=8&sort=price&xcx=0&s=41) ($120)
+CPU			|AMD Ryzen 4600G APU (65W)					|	$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: [Ryzen 8500G](https://pcpartpicker.com/product/y3XV3C/amd-ryzen-5-8500g-41-ghz-6-core-processor-100-100000931box) ($150)
+MEM			|TEAMGROUP T-Force Vulcan Z 2x8GB DDR4-3200			|	$35		|[pcpartpicker](https://pcpartpicker.com/products/memory/#Z=16384002&sort=price&xcx=0&ff=ddr4&S=3200,7200&L=160,180)	|ALT: [Crucial 2x8GB DDR5-5600](https://pcpartpicker.com/product/y4BzK8/crucial-classic-16-gb-2-x-8-gb-ddr5-5600-cl46-memory-ct2k8g56c46u5) ($45)
+STORAGE	 	|Kingston NV2 500GB NVMe M.2 SSD	(OS)				|$38		|[pcpartpicker](https://pcpartpicker.com/product/QvpzK8/kingston-nv2-500-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-snv2s500g)	|ALT: WD Black SN770 500 GB M.2 ($60)
 COOL		|Thermalright AXP90-X47 CPU Cooler, 47mm			|	$30		|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|OPTIONAL: Quieter than stock cooler
-TOTAL		|										|	$405	|	|
+TOTAL		|										|	$413	|	|
 
 <!-- Sub-Section -->
 
