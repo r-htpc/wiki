@@ -239,7 +239,7 @@ CASE/MOBO/PSU		|Asrock DeskMeet X300W w/500W PSU					|$190	|[newegg](https://www
 CPU				|Ryzen 4600G (65W)							|$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: Ryzen 5600G-5700G ($125-175)
 MEM			|TEAMGROUP T-Force Vulcan Z 2x8GB DDR4-3200			|	$35		|[pcpartpicker](https://pcpartpicker.com/products/memory/#Z=16384002&sort=price&xcx=0&ff=ddr4&S=3200,7200&L=160,180)	|
 STORAGE			|WD SN580 500GB NVMe M.2 SSD TLC				|$40	|[pcpartpicker](https://pcpartpicker.com/product/kHRwrH/western-digital-blue-sn580-500-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds500g3b0e)	|
-STORAGE			|Hitachi Ultrastar 7K3000 3TB 7200rpm 3.5" HDD			|$46	|[amazon](https://smile.amazon.com/dp/B005QTSDDQ/?tag=pcpapi-20)	|OPTIONAL. ALT: 6TB WD Red ($100), 8TB Ironwolf ($130)
+STORAGE			|4TB 7200rpm 3.5" HDD			|$40	|[disctech](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/4TB?order=onlinecustomerprice:asc&show=48)	|OPTIONAL. ALT: [6TB ($70), 8TB ($90)](https://serverpartdeals.com/collections/manufacturer-recertified-drives?pf_t_interface_type=interface%3ASATA&pf_t_capacity=capacity%3A6TB&pf_t_capacity=capacity%3A8TB)
 COOL		|Thermalright AXP90-X47 CPU Cooler, 47mm			|	$30		|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|OPTIONAL: Quieter than stock cooler
 TOTAL			|											|$365	|	|
 
@@ -252,7 +252,7 @@ CPU				|Ryzen 4600G (65W)							|$100	|[pcpartpicker](https://pcpartpicker.com/p
 MOBO			|ASRock B550M-ITX/ac					|$130	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&s=33&sort=price&page=1)	|ALT: AV1: INTEL: [ASRock B760M-ITX/D4](https://pcpartpicker.com/product/3xLFf7/asrock-b760m-itxd4-wifi-mini-itx-lga1700-motherboard-b760m-itxd4-wifi)
 MEM			|TEAMGROUP T-Force Vulcan Z 2x8GB DDR4-3200			|	$35		|[pcpartpicker](https://pcpartpicker.com/products/memory/#Z=16384002&sort=price&xcx=0&ff=ddr4&S=3200,7200&L=160,180)	|
 STORAGE			|WD SN580 500GB NVMe M.2 SSD TLC				|$40	|[pcpartpicker](https://pcpartpicker.com/product/kHRwrH/western-digital-blue-sn580-500-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds500g3b0e)	|
-STORAGE			|Hitachi Ultrastar 7K3000 3TB 7200rpm 3.5" HDD			|$46	|[amazon](https://smile.amazon.com/dp/B005QTSDDQ/?tag=pcpapi-20)	|OPTIONAL. ALT: 6TB WD Red ($100), 8TB Ironwolf ($130)
+STORAGE			|4TB 7200rpm 3.5" HDD			|$40	|[disctech](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/4TB?order=onlinecustomerprice:asc&show=48)	|OPTIONAL. ALT: [6TB ($70), 8TB ($90)](https://serverpartdeals.com/collections/manufacturer-recertified-drives?pf_t_interface_type=interface%3ASATA&pf_t_capacity=capacity%3A6TB&pf_t_capacity=capacity%3A8TB)
 COOL			|Thermalright AXP90-X36 CPU Cooler, 36mm					|$25	|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|
 TOTAL			|											|$400	|	|
 
@@ -316,7 +316,7 @@ CASE|Goodisory A01/MX01 ITX|$45|[amazon](https://www.amazon.com/Goodisory-Alumin
 CPU/MOBO|ASRock N100DC-ITX, 6W|$130|[newegg](https://www.newegg.com/p/N82E16813162133)|[specs](https://www.asrock.com/mb/Intel/N100DC-ITX/).
 MEM|G.Skill Ripjaws V 1x16GB DDR4-3200 DIMM|$35|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&b=ddr4&ff=ddr4&sort=price&S=3200,8000&Z=8192001,16384001)|ALT: 1x8GB ($20)
 STORAGE			|Kingston NV2 256GB NVMe M.2 SSD TLC				|$30	|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#t=0&A=256000000000,22000000000000&f=122080&D=1&sort=price&page=1)	|
-STORAGE			|Hitachi Ultrastar 7K3000 3TB 7200rpm 3.5" HDD			|$46	|[amazon](https://smile.amazon.com/dp/B005QTSDDQ/?tag=pcpapi-20)	|OPTIONAL. ALT: 6TB WD Red ($100), 8TB Ironwolf ($130)
+STORAGE			|4TB 7200rpm 3.5" HDD			|$40	|[disctech](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/4TB?order=onlinecustomerprice:asc&show=48)	|OPTIONAL. ALT: [6TB ($70), 8TB ($90)](https://serverpartdeals.com/collections/manufacturer-recertified-drives?pf_t_interface_type=interface%3ASATA&pf_t_capacity=capacity%3A6TB&pf_t_capacity=capacity%3A8TB)
 POWER			|19V 65W AC-DC Adapter|$25	|[amazon](https://www.amazon.com/Pwr-Power-Supply-Intel-FSP065-10AABA/dp/B076L52WV4)	|
 TOTAL||$265||
 
@@ -342,7 +342,7 @@ MOBO|ASRock B760M-ITX/D4|$150|[pcpartpicker](https://pcpartpicker.com/products/m
 MEM|Corsair Vengeance LPX 16GB 2x8GB DDR4-3200|$40|[pcpartpicker](https://pcpartpicker.com/product/p6RFf7/corsair-memory-cmk16gx4m2b3200c16)|
 GPU|Nvidia GTX 1660 6GB|$100|[ebay](https://www.ebay.com/sch/27386/i.html?_fsrp=1&rt=nc&_from=R40&LH_TitleDesc=0&LH_PrefLoc=2&_nkw=gtx+1660&LH_BIN=1&_sacat=27386&_sop=15&_oac=1&LH_ItemCondition=1500%7C1000%7C2500%7C3000)|<= 330 mm. ALT: [Nvidia RTX 3050 6GB](https://pcpartpicker.com/products/video-card/#xcx=0&c=572,518&sort=price&page=1) ($170)
 STORAGE			|WD SN580 500GB NVMe M.2 SSD TLC				|$40	|[pcpartpicker](https://pcpartpicker.com/product/kHRwrH/western-digital-blue-sn580-500-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds500g3b0e)	|OS/App Drive
-STORAGE|Hitachi Ultrastar 7K3000 3TB 7200rpm|$45|[amazon](https://smile.amazon.com/dp/B005QTSDDQ/?tag=pcpapi-20)|OPTIONAL: Content drive. 6TB WD Red ($100), 8TB Ironwolf ($130)
+STORAGE			|4TB 7200rpm 3.5" HDD			|$40	|[disctech](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/4TB?order=onlinecustomerprice:asc&show=48)	|OPTIONAL. ALT: [6TB ($70), 8TB ($90)](https://serverpartdeals.com/collections/manufacturer-recertified-drives?pf_t_interface_type=interface%3ASATA&pf_t_capacity=capacity%3A6TB&pf_t_capacity=capacity%3A8TB)
 COOL	|	Thermalright AXP120-X67	CPU Cooler	|	$35	|[pcpartpicker](https://pcpartpicker.com/product/K2cG3C/thermalright-axp120-x67-59-cfm-cpu-cooler-axp120-x67)	|OPTIONAL. ALT: GD09: Thermalright Silver Soul 135 ($40)
 PSU|Silverstone SX500-G 500W SFX|$110|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&sort=price&m=8,337,50,11,14,101,17,18,27,28,94,29,229,51,71,63,441,56&A=450000000000,2050000000000)|ALT: GD09: [500W+ ATX](https://pcpartpicker.com/products/power-supply/#xcx=0&th=1&sort=price&m=8,337,50,11,14,17,18,27,28,94,29,229,51,71,63,441,56&e=4,2)
 TOTAL||$630||
@@ -397,7 +397,7 @@ MOBO	|ASRock B450M-HDV R4.0 MicroATX				|$60  	|[pcpartpicker](https://pcpartpic
 CPU	|AMD Ryzen 3200G (65W)				|$80	|[pcpartpicker](https://pcpartpicker.com/product/J8drxr/amd-ryzen-3-3200g-36-ghz-quad-core-processor-yd3200c5fhbox)	|ALT: Ryzen 4600G ($100) 
 MEM	|G.Skill Value DDR4-2400 2x4GB		|$25  	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&sort=price&Z=8192002,16384002&ff=ddr4)	|
 STORAGE	|Patriot P300 256GB M.2 SSD (OS/APPS)				|$20	|[pcpartpicker](https://pcpartpicker.com/product/rWxbt6/patriot-p300-256-gb-m2-2280-nvme-solid-state-drive-p300p256gm28)	|
-STORAGE			|Hitachi Ultrastar 7K3000 3TB 7200rpm 3.5" HDD (MEDIA)			|$45	|amazon	|OPTIONAL
+STORAGE			|4TB 7200rpm 3.5" HDD			|$40	|[disctech](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/4TB?order=onlinecustomerprice:asc&show=48)	|OPTIONAL. ALT: [6TB ($70), 8TB ($90)](https://serverpartdeals.com/collections/manufacturer-recertified-drives?pf_t_interface_type=interface%3ASATA&pf_t_capacity=capacity%3A6TB&pf_t_capacity=capacity%3A8TB)
 TOTAL	|							|$285  	|	|
 
 <!-- Sub-Section -->
