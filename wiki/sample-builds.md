@@ -217,9 +217,9 @@ TOTAL		|										|	$413	|	|
 
 TL;DR: You want a 4K@60 HDR player, may want 3.5" HDD media storage and want a value build that doesn't break the bank.  
 
-This build is good for 4K playback; local content, netflix, youtube, HDR, and game streaming. Light 720p/1080p gaming can also be had on it. If you want **AV1** decoding to future-proof, go with the Intel i3-12100 alternative with respective HW changes (DeskMeet B660, etc..). You will give up the Ryzen gaming perf if you go this way, so if you want both, go with the latest [Ryzen 8x00G](https://pcpartpicker.com/products/cpu/#xcx=0&g=570,569,568&sort=price&page=1) APUs with respective changes (DeskMeet X600, DDR5). 
+This build is good for 4K playback; local content, netflix, youtube, HDR, and game streaming. Light 720p/1080p gaming can also be had on it. 
 
-If you want to future proof a little more with AV1 decoding, Intel and Ryzen 8x00g alternatives are also provided in the part list; plan to give up any light gaming with the Intel version.  
+If you want **AV1** decoding to future-proof, go with the alternative Ryzen 8500G with respective changes (DeskMeet X600, DDR5) parts or an Intel i3-12100 with respective HW changes (DeskMeet B760/B660, etc..). You will give up gaming performance with the Intel version.
 
 Expect HDR processing and upscaling with madVR to operate at a basic level - don't expect to be doing heavy upscaling here without a dGPU.  
 
@@ -236,7 +236,7 @@ Choose the DeskMeet option if you don't have a height restriction (like a small 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE/MOBO/PSU		|[Asrock DeskMeet X300W w/500W PSU](https://www.asrock.com/nettop/AMD/DeskMeet%20X300%20Series/index.asp#Specification)					|$190	|[newegg](https://www.newegg.com/asrock-deskmeet-x300w-b-bb-box-us/p/N82E16856158083)	|6.6" (W) x 9.3" (D) x 8.7" (H). ALT: [X600](https://www.newegg.com/asrock-deskmeet-x600w-deskmeet-x600-series/p/N82E16856158094) ($200)
-CPU				|Ryzen 4600G (65W)							|$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: Ryzen 8500G ($150)
+CPU				|Ryzen 4600G (65W)							|$100	|[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)	|ALT: [Ryzen 8500G](https://pcpartpicker.com/product/y3XV3C/amd-ryzen-5-8500g-41-ghz-6-core-processor-100-100000931box) ($150)
 MEM			|TEAMGROUP T-Force Vulcan Z 2x8GB DDR4-3200			|	$35		|[pcpartpicker](https://pcpartpicker.com/products/memory/#Z=16384002&sort=price&xcx=0&ff=ddr4&S=3200,7200&L=160,180)	|ALT: [Crucial 2x8GB DDR5-5600](https://pcpartpicker.com/product/y4BzK8/crucial-classic-16-gb-2-x-8-gb-ddr5-5600-cl46-memory-ct2k8g56c46u5) ($45)
 STORAGE			|WD SN580 500GB NVMe M.2 SSD TLC				|$40	|[pcpartpicker](https://pcpartpicker.com/product/kHRwrH/western-digital-blue-sn580-500-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds500g3b0e)	|
 STORAGE			|4TB 7200rpm 3.5" HDD			|$40	|[disctech](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/4TB?order=onlinecustomerprice:asc&show=48)	|OPTIONAL. ALT: [6TB ($70), 8TB ($90)](https://serverpartdeals.com/collections/manufacturer-recertified-drives?pf_t_interface_type=interface%3ASATA&pf_t_capacity=capacity%3A6TB&pf_t_capacity=capacity%3A8TB)
