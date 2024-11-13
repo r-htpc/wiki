@@ -366,7 +366,7 @@ If you can't afford to spend this much, buy a 2nd-hand pre-built and make some u
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE	|Silverstone PS07				|$110	|	[pcpartpicker](https://pcpartpicker.com/product/qmtCmG/silverstone-case-sstps07b)	| [specs](https://www.silverstonetek.com/en/product/info/computer-chassis/PS07/). ALT: Silverstone ML03
-CPU		|Intel i5-12600K CPU, 125W				|$175	|	[pcpartpicker](https://pcpartpicker.com/product/BB4Ycf/intel-core-i5-12600k-37-ghz-6-core-processor-bx8071512600k)	|	ALT: i5-12400 ($140)
+CPU		|Intel i5-12600K CPU, 125W				|$175	|	[pcpartpicker](https://pcpartpicker.com/product/BB4Ycf/intel-core-i5-12600k-37-ghz-6-core-processor-bx8071512600k)	|	ALT: i5-12400 ($135)
 MOBO	|ASRock B760M Pro RS	|$125	|	[pcpartpicker](https://pcpartpicker.com/product/pTbTwP/asrock-b760m-pro-rs-micro-atx-lga1700-motherboard-b760m-pro-rs)	|	ALT: [Other uATX mobos](https://pcpartpicker.com/products/motherboard/#xcx=0&c=154,163,152,162&f=7&sort=price&mt=ddr5)
 MEM		|Teamgroup T-Create Expert 32GB 2x16GB DDR5-6000			|$85	|	[pcpartpicker](https://pcpartpicker.com/product/H9CZxr/teamgroup-t-create-expert-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-ctced532g6000hc30dc01)	|	ALT: Teamgroup Elite 16GB 2x8GB DDR5-5200 ($45)
 STORAGE	|LG WH16NS40 UHD Blu-Ray Drive			|$70	|	[pcpartpicker](https://pcpartpicker.com/product/QZ6BD3/lg-optical-drive-wh16ns40)	|	ALT: ASUS BW-16D1HT ($100)
@@ -525,7 +525,7 @@ If used as a Plex server, you can [Direct Play](https://support.plex.tv/articles
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE|Fractal Design Node 304|$100|[newegg](https://www.newegg.com/black-fractal-design-node-304-mini-itx-tower/p/N82E16811352027)|ITX, 14.7"x9.8"x8.3" ALT: Node 804 ($120), CM N400 ($80), [DIY NAS Case List](/wiki/storage#diy-nas-case-list)
-CPU|Intel i3-12100 CPU, 60W|$115|[pcpartpicker](https://pcpartpicker.com/product/qrhFf7/intel-core-i3-12100-33-ghz-quad-core-processor-bx8071512100)|Passmark CPU Mark: [13800](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i3-12100&id=4687). ALT: i5-12400 ($150)
+CPU|Intel i3-12100 CPU, 60W|$115|[pcpartpicker](https://pcpartpicker.com/product/qrhFf7/intel-core-i3-12100-33-ghz-quad-core-processor-bx8071512100)|Passmark CPU Mark: [13000+](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i3-12100&id=4687). ALT: i5-12400 ($135)
 MOBO|ASRock B760M-ITX/D4|$150|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&s=40&f=8&sort=price&page=1)|ALT: [B660M/B760M uATX mobo](https://pcpartpicker.com/products/motherboard/#f=7&sort=price&xcx=0&s=40&K=5,13)
 MEM|Team T-Force Vulcan Z 16GB 2x8GB DDR4-3200|$40|[pcpartpicker](https://pcpartpicker.com/product/z3VD4D/team-t-force-vulcan-z-16-gb-2-x-8-gb-ddr4-3200-memory-tlzgd416g3200hc16cdc01)|ALT: Team T-Force Vulcan Z 32GB 2x16GB DDR4-3200 ($60)
 STORAGE|PNY Attache 4 32GB USB Flash Drive (BOOT)|$12|[amazon](https://www.amazon.com/PNY-Attache-Drives-3-Pack-P-FD32GX3ATT4-GE/dp/B07YVY2H1J)|
@@ -877,5 +877,5 @@ TOTAL		|											|$834			|	|
 
 ---
 
-*This page was last updated on 2024-11-03*
+*This page was last updated on 2024-11-13*
 
