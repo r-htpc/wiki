@@ -148,7 +148,7 @@ $150-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB
 
 - Light: Beelink S12/S12 Pro - ~3x 4k transcodes
 - Medium: Beelink SEI 12 i5-12450H - ~6x 4k transcodes
-- Heavy: Minisforum NAB6 Lite, [Intel NUC 11/12/13 i5](https://www.newegg.com/p/pl?N=100008345%2050001157%20601398044%20601412542%20601398019%20601412544%20601398041%20601412545%20601398018&Order=1) - ~10x 4k transcodes.
+- Heavy: Minisforum NAB6 Lite, [Intel NUC 11/12/13 i5](https://www.newegg.com/p/pl?N=100008345%2050001157%20601398044%20601412542%20601398019%20601412544%20601398041%20601412545%20601398018&Order=1) - ~12x 4k transcodes.
 <!-- - [DiY NAS/Media Server Build w/i5-12500+](https://r-htpc.github.io/wiki/sample-builds#nasmedia-server-builds) - ~18 4k transcodes -->
 
 <!-- Sub-Section -->
@@ -568,7 +568,7 @@ Unraid will boot off the USB flash drive, so we have a reliable USB 2.0 one here
 
 Lots of well-priced DDR5 RAM for VMs, Dockers and, if you so choose, Plex media transcoding in RAM.  
 
-As a Plex server, with the purchased Plex Pass, you can transcode 10x4k or 20x1080p transcodes concurrently on the CPU's iGPU. Without a Plex Pass, 
+As a Plex server, with the purchased Plex Pass, you can transcode ~12x4k or 25x1080p transcodes concurrently on the CPU's iGPU. Without a Plex Pass, 
 expect 8x1080p streams with CPU software transcoding. For more transcodes, add a used [Quadro P5000](https://www.elpamsoft.com/?p=Plex-Hardware-Transcoding) dGPU (11x4k,22x1080p) ($300).  
 
 The LSI HBA adapter has 8 ports for SATA drives. You can use the SATA ports on the motherboard for your HDDs, then add on the HBA when you outgrow those, or vice-versa.  
@@ -879,5 +879,5 @@ TOTAL		|											|$834			|	|
 
 ---
 
-*This page was last updated on 2024-11-13*
+*This page was last updated on 2024-11-14*
 
