@@ -345,12 +345,12 @@ Most players have audio passthrough support built-in, to be set up as per below.
 
 COMMON REQUIREMENTS (Windows):  
 1. Make sure the audio drivers are installed for your motherboard and/or GPU. If an Intel GPU, the Intel HD Audio driver and the Intel Management Engine driver. If Nvidia, the Nvidia HD Audio driver. If AMD, the AMD High Definition Audio driver.
-2. If you're using **Windows 11 24H2** installed fresh and you plan on using commericial streaming services, install the AC-3 codec from [here](https://www.majorgeeks.com/files/details/dolby_ac_3ac_4_installer.html)  
-3. Windows Sound control panel-> \<your_sound_device\> ->Properties->Advanced: Enable "Allow applications to take exclusive control of this device".
+2. Windows Sound control panel-> \<your_sound_device\> ->Properties->Advanced: Enable "Allow applications to take exclusive control of this device".
 
 STREAMING SERVICES:  
-1. Make sure your service supports a bitstreamable codec (Dolby/DD). See: [Wiki:FAQ:What resolution and audio is supported on streaming service X?](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x)   
-2. Install the app for your service from the Microsoft store or use the Microsoft Edge browser.  
+1. Make sure your service supports a bitstreamable codec (Dolby/DD). See: [Wiki:FAQ:What resolution and audio is supported on streaming service X?](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x)
+2. If you're using **Windows 11 24H2** installed fresh, install the AC-3 codec from [here](https://www.majorgeeks.com/files/details/dolby_ac_3ac_4_installer.html)  
+3. Install the app for your service from the Microsoft store or use the Microsoft Edge browser.  
 
 MPC-HC:  
 These steps assume you have the latest version of [MPC-HC clsid2](https://github.com/clsid2/mpc-hc/releases)  
