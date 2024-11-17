@@ -434,11 +434,7 @@ Streaming Services: See [Wiki:FAQ:What resolution and audio is supported on stre
 
 Gaming: [PCM 5.1/7.1, Dolby Digital Live w/supported sound card or APO, Dolby Atmos w/Dolby Access app](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system)
 
- [Web Browsers](https://en.wikipedia.org/wiki/HTML5_audio):  
-1. Microsoft Edge Chromium: PCM/AAC/MP3/DD/DD+/Atmos  
-2. Chrome: [PCM/AAC/MP3](https://www.chromium.org/audio-video)  
-3. Firefox: [PCM/AAC/MP3](https://support.mozilla.org/en-US/kb/html5-audio-and-video-firefox)  
-4. Safari (10+): PCM/AAC/MP3/DD+  
+[Web Browsers](https://en.wikipedia.org/wiki/HTML5_audio)  
 
 <!-- Sub-Section -->
 
