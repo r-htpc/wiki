@@ -254,7 +254,7 @@ HDDs: Ultrastar, Seagate Exos, WD Red
 
 ### Optical Drives
 
-See our [Playback](/wiki/faq#how-can-i-play-my-dvdblu-ray-discs-on-my-htpc) section for how to do disc/ISO playback and our [Ripping](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use) section for advice on ripping. 
+See our [Playback](/wiki/video#how-can-i-play-my-dvdblu-ray-discs-on-my-htpc) section for how to do disc/ISO playback and our [Ripping](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use) section for advice on ripping. 
 
 *DVD/FHD Blu-Ray:*  
 Internal: LG WH14NS40, ASUS BW-16D1HT, Pioneer BDR 212  
@@ -276,7 +276,7 @@ UHD/4k blu-ray **disc** playback is not recommended due to hardware restrictions
 
   2. Buy a [standalone player](https://www.google.com/search?q=panasonic+ub420+ub820&oq=panasonic+ub420+ub820) for your HT system.  
 
-  3. Buy a [UHD Friendly drive](https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634), [flash it](https://forum.redfox.bz/threads/guide-for-flashing-uhd-drives-for-anydvd.79023/), and follow our [Playback](/wiki/faq#how-can-i-play-my-dvdblu-ray-discs-on-my-htpc) section.
+  3. Buy a [UHD Friendly drive](https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634), [flash it](https://forum.redfox.bz/threads/guide-for-flashing-uhd-drives-for-anydvd.79023/), and follow our [Playback](/wiki/video#how-can-i-play-my-dvdblu-ray-discs-on-my-htpc) section.
 
 
 <!-- Sub-Section -->
