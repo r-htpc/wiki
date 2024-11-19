@@ -468,6 +468,39 @@ See [Wiki:FAQ:What resolution and audio is supported on streaming service X?](/w
 
 <!-- Sub-Section -->
 
+### How can i play my DVD/Blu-ray discs on my HTPC?
+
+Ideally, you shouldn't; especially for UHD/4K, as the [system requirements are so restrictive](/wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility) to make it not worth-while.  
+
+You should rip your discs to digital files per [Wiki:How can i rip my DVD/Blu-ray discs and what are some good quality settings to use?](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use)  
+
+If you must have menus, which is presumably the reason you want disc playback, create an unencrypted ISO of it.  
+ 1. If UHD Blu-Ray, make sure [you have a UHD Friendly drive](/wiki/components#optical-drives)
+ 2. Install and run [MakeMKV](https://www.makemkv.com/)
+ 3. Insert your disc
+ 4. Create the backup
+    - If DVD:
+      - Click the disc backup icon in the Toolbar. This will create an unecrypted ISO. Specify the output path for it
+    - If FHD/UHD Blu-ray:
+      - Click the disc backup icon in the Toolbar. This will create an unencrypted folder structure. Specify the output path for it
+      - Use [ImgBurn](https://www.imgburn.com/index.php?act=download) to create an ISO file from the unencrypted folder
+ 5. Play the ISO with a compatible player; these are:
+    - Kodi (w/[Java 8](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html) for Blu-Ray)
+    - VLC
+    - MPC-HC/MPC-BE
+    - JRiver
+    - If you have problems opening the ISO with a player, mount the ISO with [CloneDrive](https://www.majorgeeks.com/files/details/virtual_clonedrive.html) first and open the folder structure
+
+If you must have disc playback:
+ 1. DVD: Kodi/MPC-BE/VLC, [Microsoft DVD player](https://apps.microsoft.com/detail/9nblggh2j19w?activetab=pivot%3Aoverviewtab&rtc=1&hl=en-us&gl=US#activetab=pivot:overviewtab)
+ 2. FHD Blu-Ray: [Leawo Blu-Ray Player](https://www.leawo.com/blu-ray-player/)
+ 3. UHD Blu-Ray: *Official UHD Drive*: [CyberLink PowerDVD](https://www.cyberlink.com/products/powerdvd-ultra/features_en_US.html). *[UHD-Friendly Drive](/wiki/components#optical-drives)*: [Xreveal](https://www.xreveal.com/) + Media player above
+ 4. Make sure you meet audio/video chain restrictions: [HDCP](https://en.wikipedia.org/wiki/High-bandwidth_Digital_Content_Protection) 1.x for DVD, HDCP 1.3 for FHD Blu-Ray, HDCP 2.2 for UHD Blu-Ray; in all devices of the video chain (Drive, GPU, Video Cable, Display)  
+
+See our [Optical Drive](/wiki/components#optical-drives) section of the Hardware Components page for drive selection  
+
+<!-- Sub-Section -->
+
 ### Why won't my video signal remain stable?
 ### Why doesn't my video signal go up to the stated resolution/refresh rate?
 
