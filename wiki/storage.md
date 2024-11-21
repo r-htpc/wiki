@@ -289,7 +289,7 @@ Raijintek Styx		|3		|4		|$70		|8.26 x 13.2 x 14.2	|No		|25.4			|uATX/ITX				|ATX
 **Fractal Design Core 1000**		|2+2/3		|3		|$55		|6.89 x 13.97 x 16.53		|No		|26.1			|uATX/ITX/DTX				|2x5.25",2x3.5" - [link](https://www.fractal-design.com/products/cases/core/core-1000/black/)
 Silverstone CS381				|8		|NA		|$400		|15.75 x 8.86 x 12.44 							|**YES**	|28				|uATX/ITX			|SFX-L PSU. [link](https://www.silverstonetek.com/en/product/info/server-nas/CS381/)
 Silverstone PS16                |3+1        |3      |$75        |7.8 x 14.21 x 15.67        |No     |28.5           |uATX/DTX/ITX           |3x3.5",1x5.25"
-Silverstone TJ08-E				|5+2/3		|NA		|$140		|8.27 x 14.72 x 15.16		|No		|30.2			|uATX/ITX/DTX		|5x3.5",2x5.25"
+**Silverstone TJ08-E**				|5+2/3		|NA		|$140		|8.27 x 14.72 x 15.16		|No		|30.2			|uATX/ITX/DTX		|5x3.5",2x5.25"
 Silverstone GD08				|8+2/3		|2		|$180		|17.3 x 6.9 x 16.7			|No		|32.7			|EATX/ATX/uATX			|8x3.5",2x5.25", 138mm CPU COOL, ATX PSU. [link](https://www.silverstonetek.com/en/product/info/computer-chassis/GD08/)
 Silverstone GD07				|5+4/6		|2		|$180		|17.3 x 6.9 x 17.1			|No		|33.5			|EATX/ATX/uATX			|5x3.5",4x5.25", 138mm CPU COOL, ATX PSU. [link](https://www.silverstonetek.com/en/product/info/computer-chassis/GD07/)
 Cooler Master N200				|3+1		|4		|$55		|7.9 x 17.5 x 14.9 			|No		|33.7			|uATX/ITX				|3x3.5",1x5.25"
