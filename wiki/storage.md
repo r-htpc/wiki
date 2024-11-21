@@ -258,7 +258,7 @@ Seagate Exos X 				|$195	|$190 |$220 |$260
 **For additional space to mount 3.5" HDDs, you can use:**  
 PCI Slot to 3.5" HDD Adapter: [Micro connectors](https://www.amazon.com/dp/B07GDXBXPK/)  
 5.25"x1 to 3.5"x1+2.5"x2 bay adapter: [Micro Connectors](https://www.amazon.com/dp/B07GDYNNWJ)  
-5.25"x1 to 3.5"x1 bay adapter: [Metal 1-piece](https://www.amazon.com/dp/B07K8G41FZ), [Metal 2-piece](https://www.amazon.com/dp/B08YMMCXY2/), [Plastic](https://www.amazon.com/StarTech-com-3-5in-5-25in-Bracket-Adapter/dp/B000HLZXH2)  
+5.25"x1 to 3.5"x1 bay adapter: [Metal 1-piece](https://www.amazon.com/ORICO-Aluminum-Internal-Mounting-Absorption/dp/B005OJFASY), [Metal 2-piece](https://www.amazon.com/dp/B08YMMCXY2/), [Plastic](https://www.amazon.com/StarTech-com-3-5in-5-25in-Bracket-Adapter/dp/B000HLZXH2)  
 5.25"x2 to 3.5"x3 bay adapter: [Evercool](https://www.amazon.com/EverCool-Dual-Drive-Triple-Cooling/dp/B0032UUGF4)  
 DiY drive cages: [2-drive](https://www.amazon.com/Phanteks-Stackable-Bracket-Cases-PH-HDDKT_03/dp/B07GY2B3WP), [5-drive](https://www.amazon.com/Sans-Digital-HDDRACK5-5-Bay-Organizing/dp/B001LF40KE), [10-drive](https://www.amazon.com/Kingjinglo-Stacking-Aluminum-Absorbing-Installation/dp/B09B9WCB3G)
 
