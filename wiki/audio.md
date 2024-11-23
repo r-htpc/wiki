@@ -585,8 +585,9 @@ In addition, the following things may fix and/or help you identify your problem:
 
 **If your audio is ahead of the video:**  
 1. This can happen if the display is doing extra processing on the video, causing it to lag behind. To alleviate this, either use a mode on the display with low to no processing, like Game mode, or turn off heavy processing like Motion smoothing.  
-2. This can happen on certain displays if you're playing 24/25 fps content and have auto-refresh switching turned on for your media player software (meaning, when it sees 24fps content, it switches to 24Hz from 60Hz). Sometimes you can fix this by turning auto-refresh rate switching off, but then you run into motion smoothing problems playing 24fps at 60 Hz.
-3. If all else fails, see below for common solutions.
+2. This can happen if the HTPC is doing extra processing on the video, causing it to lag behind. Video upscaling or dynamic tonemapping in your player's video renderer can cause this (e.g. madvr). 
+3. This can happen on certain displays if you're playing 24/25 fps content and have auto-refresh switching turned on for your media player software (meaning, when it sees 24fps content, it switches to 24Hz from 60Hz). Sometimes you can fix this by turning auto-refresh rate switching off, but then you run into motion smoothing problems playing 24fps at 60 Hz.
+4. If all else fails, see below for common solutions.
 
 **If your audio is behind the video:**  
 1. It may indicate your HTPC is not powerful enough, specifically the CPU.  
