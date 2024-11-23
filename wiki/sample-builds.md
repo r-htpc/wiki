@@ -785,13 +785,13 @@ TOTAL			|															|	**$227**	|			|
 ### 1080p Gaming Box (8.8L)
 
 This is a straight up gaming build for 1080p with High settings, averaging about 90-100 fps which is good for a 120 Hz TV.  
-If you want a low profile case or beef up the perf, look at the ALT: config with a Silverstone Milo Z/ML-07 instead (you'll have to add an [ITX mobo](https://pcpartpicker.com/products/motherboard/#xcx=0&s=33&f=8&sort=price&page=1) and [SFX PSU](https://pcpartpicker.com/products/power-supply/#th=5&sort=price&page=1&A=450000000000,2050000000000)).  
+If you want a low profile case, look at the ALT: config with a Silverstone Milo Z/ML-07 instead (you'll have to add an [ITX mobo](https://pcpartpicker.com/products/motherboard/#xcx=0&s=33&f=8&sort=price&page=1) and [SFX PSU](https://pcpartpicker.com/products/power-supply/#th=5&sort=price&page=1&A=450000000000,2050000000000)).  
 
 PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
 :--|:--|:--|:--|:--
 CASE/MOBO/PSU		|Asrock DeskMeet X300W w/500W PSU					|$170	|[newegg](https://www.newegg.com/asrock-deskmeet-x300w-b-bb-box-us/p/N82E16856158083)	|6.6" (W) x 9.3" (D) x 8.7" (H), [specs](https://www.asrock.com/nettop/AMD/DeskMeet%20X300%20Series/index.asp#Specification). ALT: ML-07+ITX+SFX
-CPU	|	AMD Ryzen 5600 (65W)				|	$120	|pcpartpicker	|ALT: AMD Ryzen 5700X3D
-GPU	|	AMD RX 6600 8GB			|	$200	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&c=511&L=69000000,200000000&sort=price&page=1)	|<= 200 mm (L). ALT: AMD RX 6750 XT 12GB
+CPU	|	AMD Ryzen 5600 (65W)				|	$120	|pcpartpicker	|ALT: AMD Ryzen 5700X
+GPU	|	AMD RX 6600 8GB			|	$200	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&c=511&L=69000000,200000000&sort=price&page=1)	|<= 200 mm (L). ALT: AMD RX 7600 8GB
 MEM	|	Teamforce Vulcan Z 16GB 2x8GB DDR4-3600	|	$35	|pcpartpicker	|ALT: G.Skill Ripjaws V 16 GB 2x8GB DDR4-3600 ($40)
 STORAGE	|	WD SN580 1TB M.2 (OS/GAMES)	|	$65	|pcpartpicker	|
 COOL		|Thermalright AXP90-X47 CPU Cooler, 47mm			|	$30		|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|OPTIONAL: Quieter than stock cooler
