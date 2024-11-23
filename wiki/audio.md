@@ -586,7 +586,7 @@ In addition, the following things may fix and/or help you identify your problem:
 **If your audio is ahead of the video:**  
 1. This can happen if the display is doing extra processing on the video, causing it to lag behind. To alleviate this, either use a mode on the display with low to no processing, like Game mode, or turn off heavy processing like Motion smoothing.  
 2. This can happen on certain displays if you're playing 24/25 fps content and have auto-refresh switching turned on for your media player software (meaning, when it sees 24fps content, it switches to 24Hz from 60Hz). Sometimes you can fix this by turning auto-refresh rate switching off, but then you run into motion smoothing problems playing 24fps at 60 Hz.
-3. If all else fails, see below for setting audio delay offsets/display syncing in media players/middleware.
+3. If all else fails, see below for common solutions.
 
 **If your audio is behind the video:**  
 1. It may indicate your HTPC is not powerful enough, specifically the CPU.  
@@ -597,11 +597,16 @@ In addition, the following things may fix and/or help you identify your problem:
 6. You may be doing too much audio processing on your sound system. Disable any, or use less, audio enhancements on it, such as using Pure Direct sound mode on your AVR, if it's supported.  
 7. If on Windows, you may be using a Power Plan that is lowering system performance on various devices. Create a High Performance power plan and re-test.
 8. You are using Dolby Access to send Dolby Atmos (e.g. Gaming) audio through a display to your sound system. This can cause a noticable delay. Make sure you set up your display to pass-through the audio correctly and don't use the Auto/PCM setting values. Alternatively, connect your HTPC to your sound system first, seperate your audio and video paths with multiple connections, or use an audio extractor/splitter between the HTPC and display/sound system. See setup scenarios above. If none of that works, see the [Gaming section](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) below for more options.
-9. If all else fails, see below for setting audio delay offsets/display syncing in media players/middleware.
+9. If all else fails, see below for common solutions.
 
-If ahead/behind delays occur on specific content, it could indicate that the content was created (encoded) improperly or on a PC with less than ideal CPU/GPU performance.  
+*Common Solutions*  
+1. If ahead/behind delays occur on specific content, it could indicate that the content was created (encoded) improperly or on a PC with less than ideal CPU/GPU performance. Test with [known good content](/wiki/video#where-do-i-find-additional-sample-video-files-to-test).  
+2. Test with other [media players](/wiki/audio#audio-software) 
+3. Uninstall any middleware; Dolby Access, DTS:Connect, re-encoders, re-samplers, equalizers, etc..
+4. Remove any hardware in between your HTPC and sound system. Splitters, matrixs, extractors, etc..
+5. Re-install your operating system or test from a live USB OS.
+6. **If all else fails**, most media players (plex, kodi, mpc, etc..) and middleware software (such as [LAV](https://github.com/Nevcairiel/LAVFilters/releases), [APO Equalizer](https://sourceforge.net/projects/equalizerapo/)+[Peace GUI](https://sourceforge.net/projects/peace-equalizer-apo-extension/) or [ffdshow](https://sourceforge.net/projects/ffdshow-tryout/files/Official%20releases/)) have an option to either delay the audio with a time offset or have a feature that allows you to Sync Audio to Display. If you're using a AV Receiver it may also have a lipsync offset that you can alternatively set.  
  
-**If all else fails**, most media players (plex, kodi, mpc, etc..) and middleware software (such as [LAV](https://github.com/Nevcairiel/LAVFilters/releases), [APO Equalizer](https://sourceforge.net/projects/equalizerapo/)+[Peace GUI](https://sourceforge.net/projects/peace-equalizer-apo-extension/) or [ffdshow](https://sourceforge.net/projects/ffdshow-tryout/files/Official%20releases/)) have an option to either delay the audio with a time offset or have a feature that allows you to Sync Audio to Display. If you're using a AV Receiver it may also have a lipsync offset that you can alternatively set.  
 
 <!-- Sub-Section -->
 
