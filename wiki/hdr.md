@@ -90,8 +90,8 @@ Simple, HDR passthrough or tonemapping.
 * *Requirements:*  
   * Common settings above  
   * Install Kodi: >= 20 ([download](https://mirrors.kodi.tv/releases/windows/win64/)) app or [LibreElec](https://libreelec.tv/downloads/)/[CoreElec](https://coreelec.org/#install) OS  
-* *Windows 10 settings:*  
-  * Settings app -> System -> Display -> HDR and WCG/Use HDR/Play HDR.. -> Off  
+* *Windows 1x settings:*  
+  * Settings app -> System -> Display -> HDR and WCG/Use HDR/Play HDR.. -> **Off**  
 * *Kodi settings:*  
   * *Kodi app*  
     * Settings -> Player -> Videos
@@ -135,8 +135,8 @@ Simple, HDR passthrough, tonemapping and upscaling.
 * *Requirements:*  
   * Install MPC-BE: ([download](https://github.com/Aleksoid1978/MPC-BE/releases))  
     * Install options: Default Installation + "MPC Video Renderer" option checked  
-* *Windows 10 settings:*  
-  * Settings app -> System -> Display -> Use HDR/HDR and WCG/Play HDR.. -> Off  
+* *Windows 1x settings:*  
+  * Settings app -> System -> Display -> Use HDR/HDR and WCG/Play HDR.. -> **Off**  
 * *MPC-BE settings:*  
   * *MPC-BE app*  
     * View -> Options
@@ -171,8 +171,8 @@ Advanced, more powerful tonemapping, upscaling and processing than using MPC Vid
     * Install options: Normal, MPC-HC, Essentials  
   * MPC-BE: Install MPC-BE: ([download](https://github.com/Aleksoid1978/MPC-BE/releases)), then Install K-Lite Codec Pack FULL: ([download](https://www.codecguide.com/download_k-lite_codec_pack_full.htm))  
     * K-lite install options: No, Normal, MPC-BE, Essentials  
-* *Windows 10 settings:*  
-  * Settings app -> System -> Display -> Use HDR/HDR and WCG/Play HDR.. -> Off  
+* *Windows 1x settings:*  
+  * Settings app -> System -> Display -> Use HDR/HDR and WCG/Play HDR.. -> **Off**  
 * *LAV Filters settings:*  
   * *Start -> K-lite Codec Pack -> LAV Video app*  
     * Hardware decoder to use -> D3D11 (win 8/10/11) or DXVA2 (copy-back)  
@@ -225,8 +225,8 @@ Advanced, current way to integrate madVR into Kodi for passthrough, tonemapping,
   * Install K-Lite Codec Pack FULL: ([download](https://www.codecguide.com/download_k-lite_codec_pack_full.htm))
     * Install options: Normal, MPC-HC, Essentials
   * (OPTIONAL) Install XySubFilter (64-bit) (subtitle renderer): ([download](http://forum.doom9.org/showthread.php?t=168282))
-* *Windows 10 settings:*
-  * Settings app -> System -> Display -> Use HDR/HDR and WCG/Play HDR.. -> Off
+* *Windows 1x settings:*
+  * Settings app -> System -> Display -> Use HDR/HDR and WCG/Play HDR.. -> **Off**
 * *madVR settings:*
   * *Start -> K-lite Codec Pack -> madVR app*  
     * devices
@@ -358,8 +358,8 @@ Advanced, old way to integrate madVR into Kodi for passthrough, tonemapping, and
   * Install K-Lite Codec Pack FULL: ([download](https://www.codecguide.com/download_k-lite_codec_pack_full.htm))
     * Install options: Normal, MPC-HC, Essentials
   * Install DSPlayer Kodi: >= 17.6: ([download](https://forum.kodi.tv/showthread.php?pid=1972183))
-* *Windows 10 settings:*
-  * Settings app -> System -> Display -> Use HDR/HDR and WCG/Play HDR.. -> Off
+* *Windows 1x settings:*
+  * Settings app -> System -> Display -> Use HDR/HDR and WCG/Play HDR.. -> **Off**
 * *madVR settings:*
   * *Start -> K-lite Codec Pack -> madVR app*  
     * devices
@@ -513,5 +513,5 @@ AMD RX >= 67xx|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Dif
 
 ---
 
-*This page was last updated on 2024-06-10*
+*This page was last updated on 2024-11-23*
 
