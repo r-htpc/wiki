@@ -601,9 +601,9 @@ In addition, the following things may fix and/or help you identify your problem:
 
 *Common Solutions*  
 1. If ahead/behind delays occur on specific content, it could indicate that the content was created (encoded) improperly or on a PC with less than ideal CPU/GPU performance. Test with [known good content](/wiki/video#where-do-i-find-additional-sample-video-files-to-test).  
-2. Test with other [media players](/wiki/audio#audio-software) 
-3. Uninstall any middleware; Dolby Access, DTS:Connect, re-encoders, re-samplers, equalizers, etc..
-4. Remove any hardware in between your HTPC and sound system. Splitters, matrixs, extractors, etc..
+2. Test with other [media player](/wiki/audio#audio-software) software.
+3. Test with any middleware software (Dolby Access, DTS:Connect, re-encoders, re-samplers, equalizers, etc..) uninstalled.
+4. Test with any hardware in between your HTPC and sound system (splitters, matrixs, extractors, etc..) removed.
 5. Re-install your operating system or test from a live USB OS.
 6. **If all else fails**, most media players (plex, kodi, mpc, etc..) and middleware software (such as [LAV](https://github.com/Nevcairiel/LAVFilters/releases), [APO Equalizer](https://sourceforge.net/projects/equalizerapo/)+[Peace GUI](https://sourceforge.net/projects/peace-equalizer-apo-extension/) or [ffdshow](https://sourceforge.net/projects/ffdshow-tryout/files/Official%20releases/)) have an option to either delay the audio with a time offset or have a feature that allows you to Sync Audio to Display. If you're using a AV Receiver it may also have a lipsync offset that you can alternatively set.  
  
