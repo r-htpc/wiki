@@ -720,7 +720,7 @@ If you want to, and can, support **Dolby Atmos** from your games:
 
 You can use a good HDMI 2.0 splitter to send 4k/60hz video to a display and HD audio (TrueHD/DTS:X/etc..) to an old AVR that only supports HDMI 1.3/1.4. Find an old/now-discontinued HD Fury AVR Key or Integral. If not, then the ViewHD or SIIG in the "[HDMI 2.0 Splitters](/wiki/audio#accessories)" section below are the best bets. They won't work with all hardware combinations, and you may have to fiddle with the EDID dip switches quite a bit in the initial setup, but should work.  
 
-There are no perfect solutions for 4k/120Hz video. Either buy a new AVR and pass-through it or use eARC through your display. If your display supports eARC but your sound system doesn't, use an [eARC extractor](https://www.amazon.com/ViewHD-Adapter-Audio-Receiver-Application/dp/B08ZHCS5D9) between the display and sound system.  
+There are no perfect solutions for 4k/120Hz video without an expensive [HDMI 2.1 splitter](/wiki/audio#accessories). Either buy a new AVR and pass-through it or use eARC through your display. If your display supports eARC but your sound system doesn't, use an [eARC extractor](https://www.amazon.com/ViewHD-Adapter-Audio-Receiver-Application/dp/B08ZHCS5D9) between the display and sound system.  
 
 <!-- Sub-Section -->
 
