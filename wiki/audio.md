@@ -584,7 +584,7 @@ In addition, the following things may fix and/or help you identify your problem:
 ### When I play my content, why is the audio out of sync with the video?
 
 **If your audio is ahead of the video:**  
-1. This can happen when your audio path is different than your video path; for instance, you run optical from your HTPC to your AV receiver for audio and HDMI from your HTPC to your display for video. This usually happens if the display is doing extra processing on the video, causing it to lag behind. To alleviate this, either use a mode on the display with low to no processing, like Game mode, or turn off heavy processing like Motion smoothing.  
+1. This can happensif the display is doing extra processing on the video, causing it to lag behind. To alleviate this, either use a mode on the display with low to no processing, like Game mode, or turn off heavy processing like Motion smoothing.  
 2. This can happen on certain displays if you're playing 24/25 fps content and have auto-refresh switching turned on for your media player software (meaning, when it sees 24fps content, it switches to 24Hz from 60Hz). Sometimes you can fix this by turning auto-refresh rate switching off, but then you run into motion smoothing problems playing 24fps at 60 Hz.
 3. If all else fails, see below for setting audio delay offsets/display syncing in media players/middleware.
 
@@ -948,5 +948,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2024-11-16*
+ *This page was last updated on 2024-11-23*
 
