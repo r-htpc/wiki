@@ -13,7 +13,7 @@
 * This setup guide is only for HDR10 passthrough and simple tonemapping. 
 * **Dolby Vision/HDR10+ is not discussed here as no stable passthrough options exist on a PC**. Read [this post](https://www.reddit.com/r/htpc/comments/1936n8g/dolby_vision_lldv_now_possible_on_windows_1011/) for experimental, half-baked dynamic tonemapping support, otherwise stick to static tonemapping from [JRiver](https://jriver.com/) or the MPC Video Renderer in [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases)  
 * Read our [HDR section](/wiki/faq#what-is-hdr-video-and-what-do-i-need-to-take-advantage-of-it) of the Wiki FAQ for detailed information on PC hardware requirements.  
-* This guide is for HT displays only, not monitors, nor multiple displays.  
+* This guide is for HT displays only. Neither monitors, nor multiple displays are officially supported here.  
 * We assume your display, video chain and media player have already been configured/calibrated properly for **SDR/non-HDR** content before you venture into a **HDR** setup below. If not, you are urged to follow the setup sections in the [Video Setup Guide](/wiki/video) of the Wiki first.  
 * You are **strongly urged** to test out the simple setups below before moving onto the advanced ones. Do **NOT** skip any steps or make changes to the settings below until you verify HDR is working. Only then should you go back and make changes specific to your setup.  
 
