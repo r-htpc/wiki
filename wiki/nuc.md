@@ -372,15 +372,16 @@ MODULES|SIZE|TOTAL SIZE|PRICE|SPECS/NOTES
 1|4 GB|4 GB|$30|240Pin SO-DIMM DDR3L 1866
 2|4 GB|8 GB|$37|240Pin SO-DIMM DDR3L 1866
 1|4 GB|4 GB|$25|260Pin SO-DIMM DDR4 2400
-2|4 GB|8 GB|$35|[260Pin SO-DIMM DDR4 2400](https://www.amazon.com/Crucial-PC4-19200-SODIMM-260-Pin-Memory/dp/B019FRD3SE)
-2|8 GB|16 GB|$60|[260Pin SO-DIMM DDR4 2400](https://www.amazon.com/Team-PC4-19200-2400MHz-Laptop-TED416G2400C16DC-S01/dp/B01BU77LQW)
+2|4 GB|8 GB|$30|[260Pin SO-DIMM DDR4 2400](https://www.amazon.com/Crucial-PC4-19200-SODIMM-260-Pin-Memory/dp/B019FRD3SE)
+2|8 GB|16 GB|$40|[260Pin SO-DIMM DDR4 2400](https://www.amazon.com/Team-PC4-19200-2400MHz-Laptop-TED416G2400C16DC-S01/dp/B01BU77LQW)
+2|8 GB|16 GB|$47|[262Pin SO-DIMM DDR5 5200](https://www.amazon.com/Crucial-5600MHz-5200MHz-4800MHz-CT2K32G56C46S5/dp/B0C79QT9DT?th=1)
 
 *STORAGE*
 
 TYPE|SIZE|PRICE|NOTES
 :--|:--|:--|:--
-SATA 2.5|120 GB/250 GB/500 GB|$25/$50/$70|WD Blue/Crucial MX
-M.2|120 GB/250 GB/500 GB|$35/$50/$70|WD Blue/Crucial MX
+SATA 2.5|250 GB/500 GB|$25/$50|WD Blue/Crucial MX
+M.2|250 GB/500 GB|$25/$50|WD Blue/Crucial MX
 
 &nbsp;
 
@@ -443,5 +444,5 @@ Zotac
 
 ---
 
-*This page was last updated on 2024-02-15*
+*This page was last updated on 2024-11-24*
 
