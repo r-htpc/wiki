@@ -639,7 +639,7 @@ MPC-HC/BE, POTPLAYER:
    - Download and install [ffdshow](https://sourceforge.net/projects/ffdshow-tryout/files/Official%20releases/). Make sure you install the version that matches your player (i.e. the "64-bit" version for a 64-bit player. "generic build" for a 32-bit player).
    - In the Windows sound control panel, make sure you enable "Allow applications to take exclusive control of this device" in Your_Playback_Device->Advanced 
    - Open your media player
-   - Go to player Options, then External Filters->Add Filter->"ffdshow Audio Decoder". Set to "Prefer". Double-click on the filter.
+   - Go to player Options, then External Filters->Add Filter->"ffdshow Audio Processor". Set to "Prefer". Double-click on the filter.
    - Enable "Resample" in the left-hand sidebar. Click on Resample, set Resample to 48000 Hz.  
    - Enable "Mixer" in the left-hand sidebar. Click on Mixer, set output to 3/0/2. Enable "LFE"  
    - Go to "Output" in the left-hand sidebar
