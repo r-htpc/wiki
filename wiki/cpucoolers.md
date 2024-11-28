@@ -105,7 +105,7 @@ Intel : Noctua NH-L12/s, Thermalright AXP120-X67
 AMD : Noctua NH-L12/s, Thermalright AXP120-X67  
 
 **Silverstone GD09**  
-w/5.25" ODD: Corsair H80i v2 AIO (PSU-side), Noctua U9S, Noctua D9L, Noctua L12s + 15 mm  
+w/5.25" ODD: Corsair H80i v2 AIO (PSU-side), Noctua U9S, Noctua D9L, Noctua L12s  
 
 **Silverstone GD11**  
 Arctic Liquid Freezer III 240 AIO  
