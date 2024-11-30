@@ -923,15 +923,17 @@ HDMI 1.4 (1080p/4k@30)
 
 *Used to send audio from HTPC to Optical/Analog* 
 
+[Cubilux USB->TOSLINK Optical](https://www.amazon.com/Cubilux-TOSLINK-Converter-Compatible-Computer/dp/B0B2DBGKL3) - $20 - DD/DTS Passthrough. Windows/Linux/Nvidia Shield 
+
 [Startech USB Audio Card - 3.5mm Optical+Mic+Head](https://www.amazon.com/dp/B00F7120TQ) - $30 - DD/DTS Passthrough 
 
-[Startech USB Audio Card - TOSLINK Optical+Analogs+Head](https://www.amazon.com/dp/B002LM0U2S) - $35 - DD/DTS Passthrough 
+[Startech USB Audio Card - TOSLINK Optical+5.1 Analogs+Head](https://www.amazon.com/dp/B002LM0U2S) - $35 - DD/DTS Passthrough 
 
-[Creative Sound Blaster X3/X4 - TOSLINK Optical+Analogs+Line in](https://www.amazon.com/External-Holographic-Discrete-Surround-Optical-Out/dp/B0953LL5R6?th=1) - $140 - DD/DTS Passthrough, Dolby Digital Live Encoding 
+[Creative Sound Blaster X3/X4 - TOSLINK Optical+7.1 Analogs+Line in](https://www.amazon.com/External-Holographic-Discrete-Surround-Optical-Out/dp/B0953LL5R6?th=1) - $140 - DD/DTS Passthrough, Dolby Digital Live Encoding 
 
-[Douk Audio U2 USB - TOSLINK Optical+Coax](https://www.amazon.com/Douk-Audio-Converter-Interface-PCM192Khz/dp/B085XPRSGM) (Nvidia Shield compatible) - $50 
+[Douk Audio U2 USB - TOSLINK Optical+Coax](https://www.amazon.com/Douk-Audio-Converter-Interface-PCM192Khz/dp/B085XPRSGM) (Nvidia Shield compatible) - $55 
 
-[Turtle Beach Audio Advantage Micro II USB Sound Card](https://www.ebay.com/sch/i.html?_from=R40&_nkw=turtle+beach+audio+advantage+micro&_sacat=0&_odkw=turtle+beach+audio+advantage&_osacat=0) (Nvidia Shield compatible) - $25 
+<!-- [Turtle Beach Audio Advantage Micro II USB Sound Card](https://www.ebay.com/sch/i.html?_from=R40&_nkw=turtle+beach+audio+advantage+micro&_sacat=0&_odkw=turtle+beach+audio+advantage&_osacat=0) (Nvidia Shield compatible) - $25 -->
 
 **PCIe to Optical/Analog**  
 
