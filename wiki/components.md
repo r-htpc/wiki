@@ -90,7 +90,7 @@ Below are the minimum CPUs required for each scenario and a recommendation. **Al
 
 - UHD Blu-Ray disc playing: Intel i3/5/7/9-7xxx-10xxx Gen iGPU ONLY + [Motherboard BIOS supporting Intel SGX](/wiki/hdmi20) (REC: Intel i3-10100)  
 
-- HDMI 2.1 4K@120Hz (>= 32Gbps): >= Ryzen 8xxxG/7xxx iGPU (REC: Ryzen 8500G)
+- [HDMI 2.1 4K@120Hz (>= 32Gbps)](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output): >= Ryzen 8xxxG/7xxx iGPU (REC: Ryzen 8500G)
 
 - For use w/dGPU below (no iGPU): >= i3-10100F (REC: Ryzen 5600)  
 
@@ -107,7 +107,7 @@ Some features like HDR, 4K and protected content will restrict you to certain dG
 Below are the minimum requirements for each scenario and a recommendation. The recommendations are generalized and may change depending on your budget, regional availability, space/power requirements, and whether you want new or second-hand parts. If you're not sure, post and ask us for a rec based on your detailed use-case.  
 
 - **Best All-Rounder: AMD RX 6400**
-  - Will run 4k@120Hz, has low-profile versions and only requires PCIe slot power. Its weakness is it doesn't have AV1 media decoding. To get that at the downside of only 4k@60Hz, look at Intel Arc A310/A380. 
+  - Will run [4k@120Hz](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output), has low-profile versions and only requires PCIe slot power. Its weakness is it doesn't have AV1 media decoding. To get that at the downside of only 4k@60Hz, look at Intel Arc A310/A380. 
 
 - 1080p H264, 4k@30Hz video out or for DP/HDMI HD audio only: AMD Radeon R5 340/Nvidia GT 730 (REC: [Dell R5 340](https://www.ebay.com/sch/27386/i.html?_from=R40&_nkw=amd+%28r5%2Cr7%29+%28240%2C340%29&LH_BIN=1&_sop=15)) 
 
@@ -119,7 +119,7 @@ Below are the minimum requirements for each scenario and a recommendation. The r
 
 - AV1 decoding: >= Intel A3xx/Nvidia RTX 3050/A2000/AMD RX 6600 (REC: Intel A3x0) 
 
-- HDMI 2.1 4K@120Hz (>= 32Gbps): >= Nvidia RTX 3050/AMD RX 6400 (REC: RX 6400) 
+- [HDMI 2.1 4K@120Hz (>= 32Gbps)](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output): >= Nvidia RTX 3050/AMD RX 6400 (REC: RX 6400) 
 
 - Emulation/Medium Gaming: Nvidia >= GT 1030 GDDR5, AMD >= 5xx/5x00/6x00 (REC: Used: GTX 1650, New: RX 6400) 
 
