@@ -167,7 +167,8 @@ Reference the DiY case/drive lists below, and the example builds under the [Wiki
 
 ### Direct Attach Storage (DAS)
 
-As stated above, avoid USB based DASes. PCIe SAS is much more reliable. You can fit the low-profile PCIe cards into SFF sized servers (m920s) and even in a number of pre-built Micros (m920q/m90q, P320/P330 Tiny, ms-01).
+As stated above, **avoid USB based DASes**. PCIe SAS is much more reliable.  
+You can fit the [low-profile PCIe cards](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=hba+%289201%2C9202%2C9207%29+%288e%2C16e%29&_sacat=56091&_odkw=hba+%288e%2C16e%29&_osacat=56091) into SFF sized servers (m920s) and even in a number of pre-built Micros (m920q/m90q, P320/P330 Tiny, ms-01) and DiY your own solution for the same cost of the USB solutions. Yes, it's more work, but more reliable and flexible. For a smaller, simpler version, look at the D400S.
 
 <!--
 Mediasonic	|	Proraid - HUR5	        |	2	|	$50		|	USB31G2, HW RAID 0/1, JBOD, Single
@@ -181,7 +182,7 @@ Mediasonic	|	Probox - H82		|	8	|	$270-$350	|	USB30/USB31G2, Single
 Terramaster       |       D4-300                     |      4       |       $170 | USB31G1, Single
 OWC      |       [Mercury Elite Pro 2](https://www.amazon.com/OWC-Mercury-Elite-eSATA-Enclosure/dp/B06XRK93R9?th=1)  |      2       |       $65 | USB31G1/eSATA, Single
 OWC      |       [Mercury Elite Pro Quad](https://www.amazon.com/OWC-Mercury-Elite-Storage-Enclosure/dp/B09SC124GS)  |      4       |       $220 | USB31G2, Single
-**QNAP**		|	**[TL-D400S](https://www.qnapworks.com/TL-D400S.asp)**		|	4	|	$300	| **PCIe SAS (more reliable than USB)**, JBOD, Single
+**QNAP**		|	**[TL-D400S](https://www.qnapworks.com/TL-D400S.asp)**		|	4	|	$300	| **PCIe SAS**, JBOD, Single
 QNAP		|	TR-002-US		|	2	|	$160	| USB32G1, HW RAID 0/1/10/5, JBOD, Single
 QNAP		|	TR-004-US		|	4	|	$200	| USB32G1, HW RAID 0/1/10/5, JBOD, Single
 **PC Pitstop**           |       Various (Semi-DiY)  |    4-16    |  $350-1300   |  [Enclosure](https://www.pc-pitstop.com/sas-sata-enclosures-no-expander) + [PCIe SAS card](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=hba+%289201%2C9202%2C9207%29+%288e%2C16e%29&_sacat=56091&_odkw=hba+%288e%2C16e%29&_osacat=56091)
