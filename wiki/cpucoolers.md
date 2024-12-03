@@ -67,9 +67,7 @@ AMD Prism Stock			| 93 / 96.3mm | NA | 140W | 92mm | AM4 | 4 | -3mm shroud remov
 
 (1) G.Skill Aegis/Patriot Signature/Crucial Green (31.25), Teamgroup Elite (31.5), Teamgroup Vulcan Z (31.6), Vengeance LPX (34), HyperX Fury (34.1)  
 
-&nbsp;
-
-**Recommendations**
+## **Recommendations**
 
 **Best Under 50mm**  
 Intel : Noctua NH-L9i, Cryorig C7, Alpenföhn Black Ridge, Thermalright AXP90-X47 Full  
