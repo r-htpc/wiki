@@ -9,7 +9,7 @@
 </style>
 -->
 
-This table does not consider tower coolers or those over 100mm in height. It is sorted by nominal height. Categorized recommendations follow  
+This table is sorted by nominal height. Categorized and case-specific recommendations follow  
 
 MODEL	|	HEIGHT	|	PRICE	|	TDP		|	FAN SIZE	|	CPU COMPATABILITY		|	RATING (5=best)	|	NOTES
 :--|:--|:--|:--|:--|:--|:--|:--
@@ -53,6 +53,7 @@ ID Cooling IS-60 EVO ARGB	| 49/64mm | $50 | 130W | 120mm | LGA115x/FMx/AMx | 4 |
 Noctua NH-L12 Ghost			| 66mm | $55 | 95W | 92mm | LGA775/115x/1366/201x/2066/FMx/AMx (seperate AM4 kit) | **5** | Successor to NH-L12
 **\*Thermalright AXP120-X67**		| 67mm | $40 | 165W | 120mm | LGA115x/1200/1700/201x/2066/AM4 | **5** | 26.1 dbA 
 Deepcool AN600			| 67mm | $55 | 180W | 120mm | LGA115x/1200/1700/AMx | 4 | 24.4dbA - 40mm ram
+ID Cooling IS-67-XT			| 67mm | $40 | 150W | 120mm | LGA115x/1200/1700/1851/AMx | 4 | 32.3dbA
 AMD Spire Stock			| 68 / 71mm | NA | 95W | NA | AM4 | 4 | -3mm shroud removed - LED 1700/2700
 AMD Spire Stock			| 68 / 71mm | NA | 95W | NA | AM4 | 4 | -3mm shroud removed - NO LED 1500X/1600/2600X/3400G/3600X
 Arctic Alpine 12 Passive		| 69mm | $18 | 47W | NA | LGA115x | 4 | NA
@@ -104,11 +105,19 @@ Thermalright AXP90-X47
 Intel : Noctua NH-L12/s, Thermalright AXP120-X67  
 AMD : Noctua NH-L12/s, Thermalright AXP120-X67  
 
-**Silverstone GD09**  
-w/5.25" ODD: Corsair H80i v2 AIO (PSU-side), Noctua U9S, Noctua D9L, Noctua L12s  
+**CASE: Silverstone ML03/ML04**  
+Thermalright AXP120-X67, ID Cooling IS-67-XT  
 
-**Silverstone GD11**  
-Arctic Liquid Freezer III 240 AIO  
+**CASE: Silverstone ML07/RVZ01/RVZ03**  
+Thermalright AXP120-X67, Noctua NH-L12Sx77  
+
+**CASE: Silverstone GD09**  
+w/5.25" ODD: Corsair H80i v2 AIO (PSU-side), [Noctua NH-U9S](https://www.reddit.com/r/htpc/comments/1ccjsrn/put_a_dualtower_air_cooler_in_a_silverstone_gd09/), Noctua NH-D9L, Noctua NH-L12s  
+wo/ODD: Thermalright Silver Soul 135, [Thermalright Peerless Assassin Mini](https://www.reddit.com/r/htpc/comments/1ccjsrn/put_a_dualtower_air_cooler_in_a_silverstone_gd09/)  
+
+**CASE: Silverstone GD11**  
+AIO: Arctic Liquid Freezer III 240 AIO  
+AIR: [Noctua NH-D12L](https://www.reddit.com/r/htpc/comments/y7vpr0/fyi_the_noctua_nhd12l_fits_the_silverstone_gd11/)  
 
 &nbsp;
 
