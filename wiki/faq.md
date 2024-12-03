@@ -480,7 +480,7 @@ The following are the current capabilities of the major streaming services as we
 
 - [NETFLIX](https://help.netflix.com/en/node/13444?rel=related)  
 
-  - *Windows:* (MS Edge/MS Store App) 4k HDR10 DD+ 5.1 Atmos. (Chrome/Firefox) 720p SDR Stereo
+  - *Windows:* (MS Edge/MS Store App) 4k HDR10, DD+ 5.1 Atmos (currently broken). (Chrome/Firefox) 720p SDR Stereo
   - *Linux:* 720p SDR
 
 - [AMAZON PRIME VIDEO](https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=GUVGB3QMQRYRERYW)  
