@@ -146,8 +146,8 @@ $150-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB
 
 ### Specialized: Media Server w/Transcoding
 
-- Light: Beelink S12/S12 Pro - ~3x 4k transcodes
-- Medium: Beelink SEI 12 i5-12450H, [Media Server Builds](https://r-htpc.github.io/wiki/sample-builds#nasmedia-server-builds) - ~6x 4k transcodes
+- Light: Beelink S12/S12 Pro, [Pre-built NAS](/wiki/storage#pre-built-nas) - ~3x 4k transcodes
+- Medium: Beelink SEI 12 i5-12450H, [Media Server Builds](/wiki/sample-builds#nasmedia-server-builds) - ~6x 4k transcodes
 - Heavy: Minisforum NAB6 Lite, [Intel NUC 11/12/13 i5](https://www.newegg.com/p/pl?N=100008345%2050001157%20601398044%20601412542%20601398019%20601412544%20601398041%20601412545%20601398018&Order=1) - ~12x 4k transcodes.
 <!-- - [DiY NAS/Media Server Build w/i5-12500+](https://r-htpc.github.io/wiki/sample-builds#nasmedia-server-builds) - ~18 4k transcodes -->
 
