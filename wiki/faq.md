@@ -302,6 +302,16 @@ If you'd like to have a podcast, audio podcast or audiobook library in Plex, [se
 
 Yes, however the interface quality and functionality varies widely and remote control support is almost non-existent. The services will detect your device as a PC and present you with their standard web or app-based interface. It may be up to you to start videos and expand them to full-screen.  
 
+Video/audio support for streaming services in general is limited on a traditional HTPC. See our sections on [streaming service support and setup](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x) and [4K compatibility](/wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility).  
+
+Using Windows Store apps for some of these services may be better than using a web browser in terms of video/audio support. 
+
+For example, the Netflix Windows Store app does support 4k/1080p streaming and Dolby Digital/Dolby Digital Plus soundtracks. Browser-based solutions other than Microsoft Edge tend not support DD/DD+ audio and some content will only be available in 720p. The app still does not have remote control support, but you can try adding 3rd party remote control support using the [Netflix Remote Controller](http://sticky-ux.com/apps/NetflixRemoteController/).  
+
+Support for the higher resolutions and audio is way more prevalent on pre-built media devices, so if you use a lot of these services, it's better NOT to use a PC. See our [media device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) section below for options.  
+
+In regards to internet bandwidth required, you should have 6 Mbps downstream to stream 1080p services. 25 Mbps for 4k.  
+
 If you don't plan on using a [keyboard/mouse-like device](/wiki/components#keyboardsremotesgamepads), then streaming services on a PC will be painful. There are some workarounds like [software](/wiki/components#keyboardsremotesgamepads) to emulate a mouse on game controllers/mobile.  
 Other possible solutions are:  
 * Youtube: <code>"%PROGRAMFILES%\Google\Chrome\Application\chrome.exe" --kiosk --enable-extensions --user-agent=Xbox https://www.youtube.com/tv</code> OR [Leanback interface](https://redd.it/y5o7mi)
@@ -311,17 +321,6 @@ Other possible solutions are:
 * Launcher: [Flex Launcher](https://github.com/complexlogic/flex-launcher)
 
 If those things aren't good enough for you, then you should buy a remote-based [media device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) from the next section instead.  
-
-Using Windows Store apps for some of these services may be better than using a web browser in terms of video/audio support. 
-
-For example, the Netflix Windows Store app does support 4k/1080p streaming and Dolby Digital/Dolby Digital Plus soundtracks. Browser-based solutions tend not support DD/DD+ audio and some content will only be available in 720p. The app still does not have remote control support, but you can try adding 3rd party remote control support using the [Netflix Remote Controller](http://sticky-ux.com/apps/NetflixRemoteController/).  
-
-4K support for streaming services in general is limited on a traditional HTPC. See our sections on [streaming service resolutions supported](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x) and [4K compatibility](/wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility) below.  
-
-Support for the higher resolutions and audio is way more prevalent on pre-built media devices, so if you use a lot of these services, it's better not to use a PC. Again, see our [media device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) section below.  
-
-In regards to bandwidth required, you should have 6 Mbps downstream to stream 1080p services. 25 Mbps for 4k.  
-
 
 ## Can I use a pre-built media device for my HTPC?
 
