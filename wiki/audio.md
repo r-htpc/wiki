@@ -348,9 +348,11 @@ COMMON REQUIREMENTS (Windows):
 2. If you're using **Windows 11 24H2** that was installed from scratch, install the AC-3 codec from [here](https://www.majorgeeks.com/files/details/dolby_ac_3ac_4_installer.html)  
 3. Windows Sound control panel-> \<your_sound_device\> ->Properties->Advanced: Enable "Allow applications to take exclusive control of this device".
 
-STREAMING SERVICES:  
+BROWSERS/STREAMING SERVICES:  
 1. Make sure your service supports a bitstreamable codec (Dolby/DD). See: [Wiki:FAQ:What resolution and audio is supported on streaming service X?](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x)
-2. Install the app for your service from the Microsoft store or use the Microsoft Edge browser.  
+2. Install the app for your service from the Microsoft store or use the Microsoft Edge browser.
+3. Test your browser's audio capabilities with [Dolby's capabilities test website](https://ott.dolby.com/codec_test/index.html)
+
 
 MPC-HC:  
 These steps assume you have the latest version of [MPC-HC clsid2](https://github.com/clsid2/mpc-hc/releases)  
