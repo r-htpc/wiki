@@ -360,6 +360,12 @@ Configuration usually involves a single toggle on the simple side, or, on the ad
 
 If configured correctly, CPU Usage should be low during playback, while GPU Usage (Video Decode) should be non-0. If GPU Video Decode is 0, then hardware decoding is not being used.
 
+BROWSERS/STREAMING SERVICES:  
+1. Make sure your service supports the video codec/resolution you want to play. See: [Wiki:FAQ:What resolution and audio is supported on streaming service X?](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x)
+2. Install the app for your service from the Microsoft store or use the Microsoft Edge browser (ideally).
+3. Make sure Graphics accleration and DRM is enabled in your browser. Search for "acceleration" or "performance" in your browser's settings page for acceleration. "DRM" or "Widevine" for DRM. Restart your browser after any change.  
+4. Test your browser's video capabilities with [Dolby's capabilities test website](https://ott.dolby.com/codec_test/index.html)
+
 MPC-BE:  
 1. View->Options->Internal Filters->Video Decoders->Video Decoder Configuration: Codecs: <all checked>, Preferred Decoder: 'D3D11, DXVA2' (Win 8+) or DXVA2 (copy-back) (others)
 
