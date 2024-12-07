@@ -107,7 +107,7 @@ $150-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB
 
 ### Specialized: 4K Netflix
 
-Intel 7th gen+ or AMD APUs + HDCP implmented on HDMI 2.0 port + Windows 10+  
+Intel 7th gen+ or AMD APUs + HDCP 2.2+ implemented on HDMI 2.0 port + Windows 10+  
 
 - Dell Optiplex/HP Prodesk/Elitedesk + HDMI 2.0 card (see options in 4K HDR players above)
 - Lenovo Ideacentre/Neo (see options in 4K HDR players above)
