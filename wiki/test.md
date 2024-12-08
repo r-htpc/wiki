@@ -41,7 +41,7 @@ We have assigned cpu/gpu performance (P) ratings for each option, where P1 is th
       - MSI Cubi [NUC N](https://www.amazon.com/MSI-Cubi-Business-Processor-Ethernet/dp/B0CD96ZWL8?th=1) ($200) (P2), MSI Cubi NUC 1M (P4), MSI PRO DP20/DP21 (P4-P5), Lenovo IdeaCentre Mini (P5) ($450-600) - (+4K Netflix/AV1)
 
 - SMALL (7.5-13L)
-  - $150-$500
+  - $150-$600
   - **Int 3.5"** HDD storage, **4K Netflix** for all. Low power.
 
     - USED
