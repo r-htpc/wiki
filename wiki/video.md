@@ -525,7 +525,7 @@ See our [Optical Drive](/wiki/components#optical-drives) section of the Hardware
 
 Video scaling algorithms from Worst to Best (and generally least resource intensive to most) are:  
 
-Nearest Neighbor, Bilinear, DXVA, Cubic (Mitchell Netravali), Cubic (BiCubic), Catmull-Rom, Lanczos 2/3, Spline, Jinc, SSIM (downscale), super-xbr, NGU Standard, NGU Sharp.  
+Nearest Neighbor, Bilinear, DXVA, Cubic (Mitchell Netravali), Cubic (BiCubic), Catmull-Rom, Lanczos 2/3, Spline, Jinc, SSIM (downscale), super-xbr, NGU Standard (>= doubling), NGU Sharp (>= doubling).  
 
 The Anti-Ringing/AR option added on to any algo is ideal, where available.  
 
