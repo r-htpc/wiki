@@ -475,7 +475,7 @@ Logitech Harmony One	|	Disc (1)	|	RF/BT/IR	|	Yes	|	Int	|	IR Blaster, Hub
 WeChip G20S Pro		|	$20	|	RF		|	Yes	|	AAA	|	BT in Pro Plus, Air Mouse
 MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Has mini keyboard, Air Mouse
 [HTWebRemote](https://github.com/nicko88/HTWebRemote)	|	Free	|	LAN		|	NA	|	NA	|	Software to create web-accessible remote on Windows/[Linux](https://github.com/nicko88/HTWebRemoteHost) HTPC to control multiple devices. [Contact](https://www.reddit.com/message/compose/?to=SirMaster)
-[Unified Remote](https://www.unifiedremote.com/)	|	Free/$5	|	LAN		|	NA	|	NA	|	Software to create app-accessible remote on Windows/Linux HTPC to control multiple devices
+[Unified Remote](https://www.unifiedremote.com/)	|	Free/$5	|	LAN		|	NA	|	NA	|	Software to create app-accessible remote on Windows/Linux HTPC to control multiple devices. Use phone to control PC as mouse/remote.
 [DS4Windows](https://ds4-windows.com/)	|	Free	|	NA		|	NA	|	NA	|	Software to use PS (DS3/DS4/DS5) controllers as mouse/remote
 [JoyXOff](https://joyxoff.com/en/)	|	Free	|	NA		|	NA	|	NA	|	Software to use Xbox/XInput controllers as keyboard/mouse/remote
 [Controller Companion](https://store.steampowered.com/app/367670/Controller_Companion/)	|	$2.99	|	NA		|	NA	|	NA	|	Software to use Xbox/XInput controllers as keyboard/mouse/remote
@@ -483,15 +483,21 @@ MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Has mini keyboard, Air Mouse
 
 (1) Discontinued  
 
-If you already have an IR remote, you can use a [Flirc](https://flirc.tv/more/flirc-usb) adapter to allow it to be used with your HTPC and/or Nvidia Shield. Flirc also makes a programmable IR remote, the [Skip 1s](https://flirc.tv/products/skip1s-remote?variant=43489094729960#Overview)  
+- Gamepads
+  - Used with companion software listed above, these are good for use as a mouse. Look at [8bitdo](https://www.8bitdo.com/) or Microsoft for highly-compatible Xbox wireless controllers. For multi-user play, you can pair multiple Xbox controllers with a single USB adapter or 2-4 regular BT controllers with a single [USB BT adapter](https://www.amazon.com/IOGEAR-Bluetooth-Multi-Language-Version-GBU521W6/dp/B007ZT2AXE) (CSR8510/BCM20702 chipsets). For media/desktop control, use a PS3/PS4/Xbox controller with DS4Windows. 
 
-For **gamepads**, look at [8bitdo](https://www.8bitdo.com/) or Microsoft for highly-compatible Xbox wireless controllers. For multi-user play, you can pair multiple Xbox controllers with a single USB adapter or 2-4 regular BT controllers with a single [USB BT adapter](https://www.amazon.com/IOGEAR-Bluetooth-Multi-Language-Version-GBU521W6/dp/B007ZT2AXE) (CSR8510/BCM20702 chipsets). For media/desktop control, use a PS3/PS4/Xbox controller with DS4Windows. 
+- IR
+  - If you already have an IR remote, you can use a [Flirc](https://flirc.tv/more/flirc-usb) adapter to allow it to be used with your HTPC and/or Nvidia Shield. Flirc also makes a programmable IR remote, the [Skip 1s](https://flirc.tv/products/skip1s-remote?variant=43489094729960#Overview)
+  - To transmit IR from your HTPC to other devices, use a [USB-UIRT](http://www.usbuirt.com/).  
 
-To get [HDMI-CEC](https://kodi.wiki/view/CEC) functionality where none exists, use a [Pulse Eight](https://www.pulse-eight.com/p/104/usb-hdmi-cec-adapter) adapter. Else, a [HDMI-CEC HTPC](/wiki/sample-builds#specialized-hdmi-cec). To transmit IR from your HTPC to other devices, use a [USB-UIRT](http://www.usbuirt.com/).  
+- CEC
+  - CEC can be used to send/receive commands from your TV to your PC over HDMI using your TV's remote. This is not standard on a PC. Either get a [HDMI-CEC enabled HTPC](/wiki/sample-builds#specialized-hdmi-cec) or to get [CEC](https://kodi.wiki/view/CEC) functionality where none exists, use a [Pulse Eight](https://www.pulse-eight.com/p/104/usb-hdmi-cec-adapter) adapter.
 
-For remotes/setups for the elderly, see our specific [section](/wiki/faq#how-can-i-set-up-an-htpc-for-the-elderlydisabled) below  
+- Software support
+  - [Plex HTPC](https://support.plex.tv/articles/plex-htpc-input-maps/), [Kodi](https://kodi.wiki/view/Remote_controls), and [Jriver Media Center](https://wiki.jriver.com/index.php/Remotes) all support multiple remote types. You can also use [AutoHotKey](https://www.autohotkey.com/), [EventGhost](https://github.com/EventGhost/EventGhost/releases) and Pulse Eight's [libCEC Tray w/HDMI-CEC](https://github.com/Pulse-Eight/libcec/releases) to re-map buttons/automate keyboard tasks.  
 
-On the software side, [Plex HTPC](https://support.plex.tv/articles/plex-htpc-input-maps/), [Kodi](https://kodi.wiki/view/Remote_controls), and [Jriver Media Center](https://wiki.jriver.com/index.php/Remotes) all support multiple remote types. You can also use [AutoHotKey](https://www.autohotkey.com/) and/or [EventGhost](https://github.com/EventGhost/EventGhost/releases) to re-map buttons/automate keyboard tasks.  
+- Elderly setups
+  - For remotes/setups for the elderly, see our specific [section](/wiki/faq#how-can-i-set-up-an-htpc-for-the-elderlydisabled) below  
 
 <!-- Footer -->
 &nbsp;
