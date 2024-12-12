@@ -78,9 +78,7 @@ Below are the minimum CPUs required for each scenario and a recommendation. **Al
 
 - Emulators: 1080p: AMD >= Ryzen 5 3400G APU. 720p: AMD >= Ryzen 3 3200G APU (REC: Ryzen 4600G)  
 
-- Light gaming: AMD >= Ryzen 3 3200G APU (REC: Ryzen 5600G/8600G)  
-
-- Medium gaming: AMD >= Ryzen 5 3400G APU (REC: Ryzen 5700G/8700G)  
+- Casual gaming (iGPU): AMD >= Ryzen 3 3400G APU (REC: Ryzen 5700G/8700G)  
 
 - 4K HDR: Intel >= i3/i5/i7-7xxx iGPU, AMD Athlon 3000G, AMD >= Ryzen 3 2200G APU (REC: Ryzen 4600G)  
 
@@ -121,9 +119,9 @@ Below are the minimum requirements for each scenario and a recommendation. The r
 
 - [HDMI 2.1 4K@120Hz (>= 32Gbps)](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output): >= Nvidia RTX 3050/AMD RX 6400 (REC: RX 6400) 
 
-- Emulation/Medium Gaming: Nvidia >= GT 1030 GDDR5, AMD >= 5xx/5x00/6x00 (REC: Used: GTX 1650, New: RX 6400) 
+- Emulation/Casual Gaming: Nvidia >= GT 1030 GDDR5, AMD >= 5xx/5x00/6x00 (REC: Used: GTX 1650, New: RX 6400) 
 
-- High Gaming: (REC: Used: GTX 1070/1660 Super, New: AMD RX 6600/RTX 4060 LP) 
+- Medium Gaming: (REC: Used: RTX 3060 Ti, New: Intel Arc B580/RTX 4060 LP) 
 
 - UHD Blu-Ray disc playing: Not supported. Intel iGPU only. 
 
