@@ -155,6 +155,7 @@ Intel 11xxG/11xxxU/11xxxH (EM)					|	Y		|	Y		|	Y	|	Y		|2.1 (7)		|1.4	|	Y	|	Y		|	
 Intel 12xx(U/P/H)/13xx(U/P/H)/Nxxx (EM)					|	Y		|	Y		|	Y	|	Y		|2.1 (7,8)		|1.4	|	Y	|	Y		|	Y		|Alder/Raptor Lake
 Intel 1xx(U/H) (EM)					|	Y		|	Y		|	Y	|	Y		|2.1 (8)		|2.1	|	Y	|	Y		|	Y		|Meteor Lake
 Intel ARC Axxx					|	Y		|	Y		|	Y	|	Y		|2.0 (8)		|2.0	|	Y	|	Y		|	Y		|Alchemist
+Intel ARC Bxxx					|	Y		|	Y		|	Y	|	Y		|2.1		|2.0	|	Y	|	Y		|	Y		|Battlemage
 AMD Ryzen 2xxxG-3xxxG/2x0G-3x0G (DT)			|	Y		|	Y		|	N	|	Y (4)	|2.0		|1.2	|	Y	|	Y		|	Y		|Raven Ridge/Picasso & Vega
 AMD Ryzen 4xxxG-5xxxG (DT)			|	Y		|	Y		|	N	|	Y	|2.0		|1.4	|	Y	|	Y		|	Y		|Renoir/Cezanne & Vega
 AMD Ryzen 2xxxU-3xxxU (EM)							|	Y		|	Y		|	N	|	Y (4)	|2.0		|1.2	|	Y	|	Y		|	Y		|Raven Ridge/Picasso & Vega
