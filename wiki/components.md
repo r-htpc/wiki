@@ -497,12 +497,12 @@ MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Has mini keyboard, Air Mouse
   - [Plex HTPC](https://support.plex.tv/articles/plex-htpc-input-maps/), [Kodi](https://kodi.wiki/view/Remote_controls), and [Jriver Media Center](https://wiki.jriver.com/index.php/Remotes) all support multiple remote types. You can also use [AutoHotKey](https://www.autohotkey.com/), [EventGhost](https://github.com/EventGhost/EventGhost/releases) and Pulse Eight's [libCEC Tray w/HDMI-CEC](https://github.com/Pulse-Eight/libcec/releases) to re-map buttons/automate keyboard tasks.  
 
 - Elderly setups
-  - For remotes/setups for the elderly, see our specific [section](/wiki/faq#how-can-i-set-up-an-htpc-for-the-elderlydisabled) below  
+  - For remotes/setups for the elderly, see our specific [section](/wiki/faq#how-can-i-set-up-an-htpc-for-the-elderlydisabled) in the faq  
 
 <!-- Footer -->
 &nbsp;
 
 ---
 
-*This page was last updated on 2024-09-14*
+*This page was last updated on 2024-12-12*
 
