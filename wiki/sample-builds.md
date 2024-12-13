@@ -63,7 +63,7 @@ $150-$400: SMALLER: Intel/AMD Mini PC, 8GB+ RAM, 256GB+ SSD
 - *Used for:* H264/H265, VP9, **AV1** local content, 4k YT, 4k Netflix **([name brand options](/wiki/sample-builds#specialized-4k-netflix))**, web browsing, **int. 2.5" storage**, plex server (S12/Cubi), light gaming (EQR/SER), lower power.  
   - **Intel: [Beelink S12 Pro](https://www.amazon.com/s?k=beelink+s12+pro&rh=n%3A13896591011&ref=nb_sb_noss) (N100) ($150+)**
   - **AMD: [Beelink EQR6](https://www.amazon.com/Beelink-Windows-Celeron-Graphics-Computer/dp/B08QCMSR6R) ($270)**
-  - Intel: MSI Cubi [NUC B](https://www.amazon.com/MSI-Cubi-Business-Processor-Ethernet/dp/B0CD96ZWL8?th=1) ($200) / [NUC 1M](https://www.newegg.com/msi-cubi-nuc-1m-011bus-intel-core-3-100u/p/N82E16856167202?Item=N82E16856167202) ($380+[RAM](https://pcpartpicker.com/products/memory/#xcx=0&Z=8192001,16384001,16384002,32768002&ff=ddr5_sodimm&sort=price)+[SSD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&t=0&D=1&A=240000000000,512000000000&sort=price&page=1))
+  - Intel: MSI Cubi [NUC B](https://www.amazon.com/MSI-Cubi-Business-Processor-Ethernet/dp/B0CD96ZWL8?th=1) ($270) / [NUC 1M](https://www.newegg.com/msi-cubi-nuc-1m-011bus-intel-core-3-100u/p/N82E16856167202?Item=N82E16856167202) ($380+[RAM](https://pcpartpicker.com/products/memory/#xcx=0&Z=8192001,16384001,16384002,32768002&ff=ddr5_sodimm&sort=price)+[SSD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&t=0&D=1&A=240000000000,512000000000&sort=price&page=1))
   - AMD: [Beelink SER6](https://www.amazon.com/s?k=ser6&rh=n%3A13896591011&ref=nb_sb_noss) ($370)  
 <!--  - Intel: [Beelink SEI 11/12](https://www.amazon.com/s?k=sei11%7Csei12%7C11320h%7C1235u%7C12450h&rh=n%3A13896591011&ref=nb_sb_noss) ($320) -->
 
