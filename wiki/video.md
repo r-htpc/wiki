@@ -214,7 +214,7 @@ See also: [Audio Software](/wiki/audio#audio-software)
  - Video/audio codecs  
  - Video/audio filters/splitters/mixers  
  - MPC VR, MadVR  
-6. LAV Filters - ffmpeg based DirectShow media software including:  
+6. [LAV Filters](https://github.com/Nevcairiel/LAVFilters) - ffmpeg based DirectShow media software including:  
   - Splitters, Decoders, Filters, Mixers and Compressors  
   - Automatic stream selection  
 7. Virtual CloneDrive 
