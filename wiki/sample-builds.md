@@ -23,7 +23,7 @@ You can use [PCPartPicker](http://www.pcpartpicker.com/) to help you select part
 
 ## HTPC Pre-builts/Mini-PCs
 
-Pre-builts come in all shapes and sizes. The smallest options are tempting, but usually this means less performance, higher price, and/or more noise. Things like the [SBC](https://en.wikipedia.org/wiki/Single-board_computer) options below will have the highest power efficiency, but also lowest performance, usualy just good enough to get the job done. Intel N/AMD U CPUs (e.g. N100/5560U) have high efficiency. Intel T/AMD GE CPUs (e.g. i3-8100T) medium efficiency. Non-T/non-GE desktop CPUs, low efficiency.  
+Pre-builts come in all shapes and sizes. The smallest options are tempting, but usually this means less performance, higher price, and/or more noise. Things like the [SBC](https://en.wikipedia.org/wiki/Single-board_computer) options below will have the highest power efficiency, but also lowest performance, usualy just good enough to get the job done. Intel N/AMD U CPUs (e.g. N150/5560U) have high efficiency. Intel T/AMD GE CPUs (e.g. i3-8100T) medium efficiency. Non-T/non-GE desktop CPUs, low efficiency.  
 
 **Choosing the least expensive option is attractive, but not always the best course of action.** While we recommend some lower-cost chinese vendors below (like Beelink and Minisforum), these may not be for you. With low cost comes limitations like operating system/BIOS support, HDCP, warranty, quality control and reliability. If you're not comfortable giving up on those things, spend more to purchase similar speced hardware from other, reputable vendors.  
 
@@ -49,7 +49,7 @@ Some of these are: **Intel (NUC), [Lenovo (ThinkCentre/IdeaCentre)](https://www.
 
 ### 4K HDR PLAYERS
 
-**TL;DR If you're on a budget, then an Intel [N100](https://www.amazon.com/s?k=intel+n95%7Cn97%7Cn100+pc&rh=n%3A13896591011&ref=nb_sb_noss) based mini pc for $150 with mem/storage is fine. If you can afford it, look at a [Beelink EQR6](https://www.amazon.com/Beelink-Windows-Celeron-Graphics-Computer/dp/B08QCMSR6R) or better ($270+) for future-proofing**  
+**TL;DR If you're on a budget, then an Intel [N150](https://www.amazon.com/s?k=intel+n150+pc&rh=n%3A13896591011&ref=nb_sb_noss) based mini pc for $150 with mem/storage is fine. If you can afford it, look at a [Beelink EQR6](https://www.amazon.com/Beelink-Windows-Celeron-Graphics-Computer/dp/B08QCMSR6R) or better ($270+) for future-proofing**  
 **If you're looking for 4K Netflix/HDCP support, look at [name brand options](/wiki/sample-builds#specialized-4k-netflix)**
 
 $70-$85: SMALLEST: SBC: w/CoreELEC OS, 32GB MicroSD, AC Adapter 
@@ -60,8 +60,8 @@ $70-$85: SMALLEST: SBC: w/CoreELEC OS, 32GB MicroSD, AC Adapter
 
 $150-$400: SMALLER: Intel/AMD Mini PC, 8GB+ RAM, 256GB+ SSD
 
-- *Used for:* H264/H265, VP9, **AV1** local content, 4k YT, 4k Netflix **([name brand options](/wiki/sample-builds#specialized-4k-netflix))**, web browsing, **int. 2.5" storage**, plex server (S12/Cubi), light gaming (EQR/SER), lower power.  
-  - **Intel: [Beelink S12 Pro](https://www.amazon.com/s?k=beelink+s12+pro&rh=n%3A13896591011&ref=nb_sb_noss) (N100) ($150+)**
+- *Used for:* H264/H265, VP9, **AV1** local content, 4k YT, 4k Netflix **([name brand options](/wiki/sample-builds#specialized-4k-netflix))**, web browsing, **int. 2.5" storage**, plex server (G3/Cubi), light gaming (EQR/SER), lower power.  
+  - **Intel: [GMKtec G3 Plus](https://www.amazon.com/GMKtec-G3-Plus-Upgraded-Computer/dp/B0DM25BD7Y) (N150) ($150+)**
   - **AMD: [Beelink EQR6](https://www.amazon.com/Beelink-Windows-Celeron-Graphics-Computer/dp/B08QCMSR6R) ($270)**
   - Intel: MSI Cubi [NUC B](https://www.amazon.com/MSI-Cubi-Business-Processor-Ethernet/dp/B0CD96ZWL8?th=1) ($270) / [NUC 1M](https://www.newegg.com/msi-cubi-nuc-1m-011bus-intel-core-3-100u/p/N82E16856167202?Item=N82E16856167202) ($380+[RAM](https://pcpartpicker.com/products/memory/#xcx=0&Z=8192001,16384001,16384002,32768002&ff=ddr5_sodimm&sort=price)+[SSD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&t=0&D=1&A=240000000000,512000000000&sort=price&page=1))
   - AMD: [Beelink SER6](https://www.amazon.com/s?k=ser6&rh=n%3A13896591011&ref=nb_sb_noss) ($370)  
@@ -84,7 +84,7 @@ $150-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB
 ### Specialized: Emulation/Light Gaming/Game Streaming
 
 - Game Streaming:
-  - <= 4K@60Hz: Beelink S12/S12 Pro (N95/N100)
+  - <= 4K@60Hz: GMKTec G3 Plus (N150)
   - 4K@120Hz: See "Specialized: 4K@120Hz" section
 - Emulation/Light Gaming:
   - $85-100: Low (<= Gamecube/PS1)
@@ -160,7 +160,7 @@ Intel 7th gen+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDMI 2.0 po
 
 ### Specialized: Media Server w/Transcoding
 
-- Light: Beelink S12/S12 Pro, [Pre-built NAS](/wiki/storage#pre-built-nas) - ~3x 4k transcodes
+- Light: GMKtec G3 Plus, [Pre-built NAS](/wiki/storage#pre-built-nas) - ~3x 4k transcodes
 - Medium: Beelink SEI 12 i5-12450H, [Media Server Builds](/wiki/sample-builds#nasmedia-server-builds) - ~6x 4k transcodes
 - Heavy: Minisforum NAB6 Lite, [Intel NUC 11/12/13 i5](https://www.newegg.com/p/pl?N=100008345%2050001157%20601398044%20601412542%20601398019%20601412544%20601398041%20601412545%20601398018&Order=1) - ~12x 4k transcodes.
 <!-- - [DiY NAS/Media Server Build w/i5-12500+](https://r-htpc.github.io/wiki/sample-builds#nasmedia-server-builds) - ~18 4k transcodes -->
@@ -169,11 +169,11 @@ Intel 7th gen+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDMI 2.0 po
 
 ### Specialized: Media client, server, storage system combos
 
-- $350 - 1080p, low-medium 4k content, Light Transcoding: Fire TV 4k (client) + Beelink S12 (server) + Terramaster F2-212 (storage)
+- $350 - 1080p, low-medium 4k content, Light Transcoding: Fire TV 4k (client) + GMKtec G3 Plus (server) + Terramaster F2-212 (storage)
 
   - 4k HDR10/DV-5/8, Dolby TrueHD Atmos, DTS, 3x4k,10x1080p transcodes, 2xHDDs (WD Ultrastar/Seagate Exos), Ubuntu/Windows, Plex Pass/Jellyfin
 
-- $600 - 4k, high-bitrate, Light Transcoding: Nvidia Shield Pro (client) + Beelink S12 (server) + Terramaster F4-212 (storage)
+- $600 - 4k, high-bitrate, Light Transcoding: Nvidia Shield Pro (client) + GMKtec G3 Plus (server) + Terramaster F4-212 (storage)
 
   - 4k HDR10/DV-5/7/8, Dolby TrueHD Atmos, DTS:X, 3x4k,10x1080p transcodes, 4xHDDs (WD Ultrastar/Seagate Exos), Ubuntu/Windows, Plex Pass/Jellyfin
 
@@ -456,7 +456,7 @@ There are many tiers of builds depending on what tasks you want to accomplish, h
 
 ### $100 Small Media Server (1.2L) - Used
 
-This is a good setup to get your feet wet in media serving in a very small package. A used pre-built is cheaper and easier to get going if you're new to this. If you're not comfortable buying used, [this](https://www.amazon.com/s?k=beelink+s12&rh=p_36%3A-16000&s=price-asc-rank&crid=YOSERLYHUDQP&qid=1685387664&rnid=2421879011&sprefix=beelink+s1%2Caps%2C384&ref=sr_st_price-asc-rank&ds=v1%3AjCJk5ImalsHH5bGp%2ByrAujUqrngfu7XTIu0GkcXwbqQ) is comparable.  
+This is a good setup to get your feet wet in media serving in a very small package. A used pre-built is cheaper and easier to get going if you're new to this. If you're not comfortable buying used, [this](https://www.amazon.com/GMKtec-G3-Plus-Upgraded-Computer/dp/B0DM25BD7Y) is comparable.  
 
 Most people will use it with Plex Media Server to serve media up to clients, but you can serve media up to Kodi clients over a network/samba share just as well.  
 
