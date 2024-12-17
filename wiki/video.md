@@ -661,11 +661,13 @@ These files must be downloaded for the media player(s) you are testing against. 
 
 Judder Tests - Tests for judder at varying frame rates - [23.976/24/25/29.97/30/50/59.94/60 fps](https://drive.google.com/uc?id=176bowvl5QMIw3TNbBFTaeax1aWf7WpG0) 
 
-Frame Rate Tests - Known-good test files with a variety of motion - [23.976 fps](https://drive.google.com/uc?id=1fmE-ois5fzwVlGccBf3HbBqjv5R_Etv5), [24 fps](https://drive.google.com/uc?id=1NWdrqmUHg4E_qMiSWoIp1AmV7Ulwm-zb), [25 fps](https://drive.google.com/uc?id=1UimhkIaljhhP3jbuHM75h7yk_WRwkxwQ), [29.97 fps](https://drive.google.com/uc?id=1K2khAth6dXg3Y1x3crKbaYrR7aRy3q_D)   
+Frame Rate Tests - Known-good test files with a variety of motion - [23.976 fps](https://drive.google.com/uc?export=download&id=1fmE-ois5fzwVlGccBf3HbBqjv5R_Etv5), [24 fps](https://drive.google.com/uc?export=download&id=1NWdrqmUHg4E_qMiSWoIp1AmV7Ulwm-zb), [25 fps](https://drive.google.com/uc?id=1UimhkIaljhhP3jbuHM75h7yk_WRwkxwQ), [29.97 fps](https://drive.google.com/uc?export=download&id=1K2khAth6dXg3Y1x3crKbaYrR7aRy3q_D)   
 
 Audio Sync Tests - [1080p/H264/60fps/AAC](https://drive.google.com/uc?export=download&id=15ybDrQIZ1u4nkgEGlAaKMRhfuUuyj369), [1080p/HEVC/23.98fps/PCM](https://drive.google.com/uc?export=download&id=1xmIAh0YdM7asnUovRpCcxJeVdguOGxg7), [1080p/HEVC/24fps/PCM](https://drive.google.com/uc?export=download&id=1OaWTh3r6f7E9Ae8De57qFL9jGbsBeJni), [1080p/HEVC/29.97fps/PCM](https://drive.google.com/uc?export=download&id=11DG_qaM2xereJvxe2MedKqC3w7T3rgD9)  
 
+<!--
 [Jellyfish Video Bitrate Test Files](https://repo.jellyfin.org/test-videos/) - 1080p/4k, h.264/HEVC, 30 fps, High/Main (8-bit), Main10 (10-bit), MKV  
+--> 
 [Jellyfin Video Bitrate Test Files](https://repo.jellyfin.org/jellyfish/) - 1080p/4k, h.264/HEVC/**AV1**, 60 fps, High/Main (8-bit), Main10 (10-bit), HDR10/DV, MP4  
 
 [Ideal 4K HEVC test](http://www.larmoire.info/jellyfish/media/jellyfish-140-mbps-4k-uhd-hevc-10bit.mkv) - Max UHD Blu-Ray bitrate - 4k, HEVC, SDR, 140Mbps, 10-bit, 30fps, mp4  
