@@ -668,6 +668,8 @@ Audio Sync Tests - [1080p/H264/60fps/AAC](https://drive.google.com/uc?export=dow
 <!--
 [Jellyfish Video Bitrate Test Files](https://repo.jellyfin.org/test-videos/) - 1080p/4k, h.264/HEVC, 30 fps, High/Main (8-bit), Main10 (10-bit), MKV  
 --> 
+Jellyfish Video Bitrate Test Files - 1080p, 3 Mbps - [h.264](https://drive.google.com/uc?export=download&id=1z2bN5OH3Lc83ufEIv88zy4EDXOKfb6aa), [HEVC 8-bit](https://drive.google.com/uc?export=download&id=1W2luOdBL3XGOKif16vyWUHTouIDWyBBT), [HEVC 10-bit](https://drive.google.com/uc?export=download&id=1OD6C0wuauUhaDY3nGUeKt-e3IhLcwxXL)  
+
 [Jellyfin Video Bitrate Test Files](https://repo.jellyfin.org/jellyfish/) - 1080p/4k, h.264/HEVC/**AV1**, 60 fps, High/Main (8-bit), Main10 (10-bit), HDR10/DV, MP4  
 
 [Ideal 4K HEVC test](http://www.larmoire.info/jellyfish/media/jellyfish-140-mbps-4k-uhd-hevc-10bit.mkv) - Max UHD Blu-Ray bitrate - 4k, HEVC, SDR, 140Mbps, 10-bit, 30fps, mp4  
