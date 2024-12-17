@@ -216,8 +216,10 @@ See also: [Audio Software](/wiki/audio#audio-software)
  - MPC VR, MadVR  
 6. [LAV Filters](https://github.com/Nevcairiel/LAVFilters) - ffmpeg based DirectShow media software including:  
   - Splitters, Decoders, Filters, Mixers and Compressors  
-  - Automatic stream selection  
-7. Virtual CloneDrive 
+  - Automatic stream selection
+7. [Media Hoarder](https://media.hoarder.software/) / [tinyMediaManager](https://www.tinymediamanager.org/)
+  - Media/Metadata Management
+8. Virtual CloneDrive 
   - Mount ISO files for disc playback support  
 
 <!-- Section -->
