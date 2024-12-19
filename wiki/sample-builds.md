@@ -617,7 +617,7 @@ TOTAL		|							|	$1252	|			|
 A step up from the previous Medium build in internal capacity, but still used hardware, so similar in cost. It's large and an old arch, but good for mass storage and other lightweight duties.  
 
 This is a setup with hardware off ebay using the old Ivy Bridge architecture. Plenty of power for NAS and utility task duties. Yes, it can be used as a Plex media server as well for its [Direct Play](https://support.plex.tv/articles/200430303-streaming-overview/) 
-and H264 transcode ability (look at the Dell 3620 option in the previous build for 4k/HEVC transcoding), but that's not our primary focus here. Our focus is internal storage capacity.  
+and H264 transcode ability (look at the Dell 3620 option in the previous used build for 4k/HEVC transcoding), but that's not our primary focus here. Our focus is internal storage capacity.  
 
 This can fit 6x3.5 HDDs (using 3x3.5" and 3x5.25" mounts) officially. Since it has 6x SATA ports, you'll ideally use 1x for a SATA SSD for your OS and the other 5x for any data/cache HDDs. For raw storage 
 this has you hovering in the realm of 40TB-100TB of storage potential depending on whether you go with well-priced 8/10TB drives all the way up to new, still-pricey 20TB drives. If you get creative with space, you can fit 8x 3.5" drives using a [9210-8i SAS->SATA HBA](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=9210+8i&_sacat=0&LH_TitleDesc=0&_odkw=hp+cmt&_osacat=0&LH_PrefLoc=2) or [SATA card](https://www.amazon.com/dp/B0BNFBXBNS), and [SATA Power Splitters](https://www.amazon.com/Cable-Matters-Power-Y-Splitter-Inches/dp/B00V6QA65G).  
@@ -625,7 +625,7 @@ this has you hovering in the realm of 40TB-100TB of storage potential depending 
 If you go with an i5/i7 version, you'll get non-ECC memory. With a Xeon version you can use ECC memory, which is better for data integrity. 
 You should also have a battery-backup UPS as well if you really care about data integrity.  
 
-If you want ease-of-use management, spend the extra $$ on [Unraid](https://unraid.net) as your OS and its web-based system for VMs and Docker containers. Otherwise, just use Linux/[OpenMediaVault](https://www.openmediavault.org/) and 
+If you want ease-of-use management, spend the extra $$ on [Unraid](https://unraid.net) as your OS and its web-based system for VMs and Docker containers. Otherwise, look at TrueNAS or just use Linux/[OpenMediaVault](https://www.openmediavault.org/) and 
 either set up drives as individual volumes or use [mergerFS](https://github.com/trapexit/mergerfs/wiki).  
 
 If you can't find a HP Z220 CMT setup, you can alternatively go with a HP Z210 CMT.  
@@ -643,7 +643,7 @@ OS			|Unraid/Ubuntu 22/OMV/Windows			|$0			|	[Ubuntu](https://ubuntu.com/downloa
 SOFTWARE	|Unraid Starter - 6 device license				|$50		|	[limetech](https://unraid.net/pricing)		|	OPTIONAL
 TOTAL		|										|$155		|	NA			|
 
->!$300-$500: NEW, PRE-BUILT, MEDIA SERVER, INTERNAL 3.5" STORAGE: HP TP01,Dell 3891/3910,Intel 10th-12th gen,1xHDDs (official) 3xHDDs (un-official) w/sata power splitter+creative hdd mounting. [Ebay](https://www.ebay.com/sch/i.html?_fsrp=1&rt=nc&_from=R40&_nkw=\(hp%2Cdell\)+\(tp01%2C3891%2C3910\)+\(i3%2Ci5%2Ci7\)&_sacat=179&LH_BIN=1&LH_TitleDesc=0&_sop=15&LH_PrefLoc=2&LH_ItemCondition=1500%7C1000)!<  
+<!-- $300-$500: NEW, PRE-BUILT, MEDIA SERVER, INTERNAL 3.5" STORAGE: HP TP01,Dell 3891/3910,Intel 10th-12th gen,1xHDDs (official) 3xHDDs (un-official) w/sata power splitter+creative hdd mounting. [Ebay](https://www.ebay.com/sch/i.html?_fsrp=1&rt=nc&_from=R40&_nkw=\(hp%2Cdell\)+\(tp01%2C3891%2C3910\)+\(i3%2Ci5%2Ci7\)&_sacat=179&LH_BIN=1&LH_TitleDesc=0&_sop=15&LH_PrefLoc=2&LH_ItemCondition=1500%7C1000) -->
 
 <!-- Section -->
 
