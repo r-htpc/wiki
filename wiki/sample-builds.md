@@ -807,9 +807,9 @@ CASE/MOBO/PSU		|Asrock DeskMeet X300W w/500W PSU					|$170	|[newegg](https://www
 CPU	|	AMD Ryzen 5700X (65W)				|	$150	|pcpartpicker	|ALT: AMD Ryzen 5700X3D
 GPU	|	AMD RX 6600 8GB			|	$200	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&c=511&L=69000000,200000000&sort=price&page=1)	|<= 200 mm (L). ALT: AMD RX 7600 8GB
 MEM	|	Teamforce Vulcan Z 16GB 2x8GB DDR4-3600	|	$35	|pcpartpicker	|ALT: G.Skill Ripjaws V 16 GB 2x8GB DDR4-3600 ($40)
-STORAGE	|	WD SN580 1TB M.2 (OS/GAMES)	|	$65	|pcpartpicker	|
-COOL		|Thermalright AXP90-X47 CPU Cooler, 47mm			|	$30		|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|OPTIONAL: Quieter than stock cooler
-TOTAL	|						|	**$620**	|	
+STORAGE	|	WD SN580 1TB M.2 (OS/GAMES)	|	$60	|pcpartpicker	|
+COOL		|Thermalright AXP90-X47 CPU Cooler, 47mm			|	$25		|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|Quieter than stock cooler
+TOTAL	|						|	**$640**	|	
 
 <!-- Sub-Section -->
 
