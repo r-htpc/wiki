@@ -162,26 +162,26 @@ See also: [Audio Software](/wiki/audio#audio-software)
  - Automatic scanning of video content directories  
  - Automatic retrieval of metadata content (posters, descriptions) from the internet  
  - Extensive plug-in support  
- - [HDR support](/wiki/hdr), Subtitle support  
+ - 4K/[HDR support](/wiki/hdr), Subtitle support  
  - MadVR integration  
  - Keyboard/remote support 
 2. [Plex HTPC](https://www.plex.tv/media-server-downloads/?cat=plex+htpc&plat=windows#plex-app) - A media player that interfaces with the Plex Media Server and plex.tv video content  
  - Support for Windows, Linux, Mac, Android  
- - [HDR support](/wiki/hdr), Subtitle support  
+ - 4K/[HDR support](/wiki/hdr), Subtitle support  
  - Keyboard/remote support 
 3. [Jellyfin Media Player](https://github.com/jellyfin/jellyfin-media-player/releases) - A media player that interfaces with the Jellyfin media server  
  - Support for Windows, Linux, Mac  
- - [HDR support](https://forum.jellyfin.org/t-4k-hdr-client), Subtitle support  
+ - 4K/[HDR support](https://forum.jellyfin.org/t-4k-hdr-client), Subtitle support  
  - Keyboard/remote support in "TV" mode 
 4. [VLC](https://www.videolan.org/vlc/)  
  - Support for Windows, Linux, Mac, Android  
- - [HDR support](/wiki/hdr)  
+ - 4K/[HDR support](/wiki/hdr)  
  - DVD/Blu-ray folder support  
 5. [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases)/[MPC-HC](https://github.com/clsid2/mpc-hc/releases/)  
  - Support for Windows  
  - Extensive feature-set
  - MadVR/MPC VR integration  
- - [HDR support (via MPC VR/MadVR)](/wiki/hdr)  
+ - 4K/[HDR support (via MPC VR/MadVR)](/wiki/hdr)  
  - Subtitle support  
  - DVD/Blu-ray folder support  
 6. [JRiver Media Center](https://jriver.com/)  
@@ -189,18 +189,18 @@ See also: [Audio Software](/wiki/audio#audio-software)
  - Automatic scanning of video content directories  
  - Automatic retrieval of metadata content (posters, descriptions) from the internet  
  - MadVR integration  
- - HDR support, Subtitle support  
+ - 4K/HDR support, Subtitle support  
  - Keyboard/remote support 
  - Commercial
 7. [MPV](https://mpv.io)  
  - Support for Windows, Linux, Mac, Android  
  - Minimal GUI  
- - HDR support  
+ - 4K/HDR support  
 8. PowerDVD  
- - DVD/Blu-ray/UHD Blu-ray disc support; Ultra for 4K  
+ - DVD/Blu-ray/UHD Blu-ray disc support; Ultra version for 4K  
 9. PotPlayer  
  - MadVR integration  
- - HDR support (via MadVR)  
+ - 4K/HDR support (via MadVR)  
  - NOT open source, not recommended
 
 **3rd Party**
