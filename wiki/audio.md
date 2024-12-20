@@ -818,9 +818,7 @@ Dolby Atmos (DD+/Lossy): [5.1.2 trailer](https://download.dolby.com/us/en/test-t
 
 [DTS:X 7.1.4 Channel Call-out](https://drive.google.com/uc?export=download&id=15cynNiLCt5yvr3E1uavYSEoOU2UDWmO4)  
 
-[LPCM 5.1](https://www.jensign.com/bdp95/7dot1voiced/index.html), [ALTERNATIVE 1](https://www2.iis.fraunhofer.de/AAC/ChID-BLITS-EBU-Narration441-16b.wav), 
-[ALTERNATIVE 2](https://www.lynxstudio.com/downloads/aes16e/sample-wav-file-zip-encoded-44-1khz-pcm-24-5-1-surround/) / 
-[LPCM 7.1](https://drive.google.com/u/0/uc?id=0BwxFVkl63-lEV2JjazFWQ05OSG8&export=download)  
+[LPCM 5.1](https://drive.google.com/uc?export=download&id=1APNKSXD74wjPCnXUn5miwXZPOGEA_Mpz) / [LPCM 7.1](https://drive.google.com/uc?export=download&id=1Kft-NcU5WEOJQpU4hRH0jbNm_FeIvklT) - 24-bit 48Khz, [LPCM 5.1](https://drive.google.com/uc?export=download&id=1N1Q9DZsVTutOMkMHpuoG69KwJXFCpO6o) - 16-bit 44.1Khz  
 
 [HE-AAC 5.1](https://drive.google.com/uc?export=download&id=1jjPxLQpCj6Oa9pgbdkIEW7L_L3ypFVTx) / [HE-AAC 7.1](https://drive.google.com/uc?export=download&id=1O5hxGRjvKbZ0aLHepPkSjLTDR7BcLBWx) / [AAC-LC 5.1](https://drive.google.com/uc?export=download&id=1GYu5afIS_vh_sbAI8LQBqc13YzXd5Foy)  
 
