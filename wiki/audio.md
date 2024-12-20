@@ -805,7 +805,7 @@ These files must be downloaded for the media player(s) you are testing against. 
 
 [Dolby TrueHD 5.1](https://drive.google.com/uc?export=download&id=1NxAzXbQLpasCYFbquKFzSP4Jk4t82ops) / [Dolby TrueHD 7.1](https://drive.google.com/uc?export=download&id=1YPtCOaiIQwWkJFoyF6DAoJeqMKrIutlX) / [Dolby TrueHD 7.1 Channel Call-out](https://drive.google.com/uc?export=download&id=1RwJxv5ifkE8VnKpQGxbzKmWoUJwxzHE_)  
 
-Dolby Atmos (TrueHD/Lossless): [7.1 trailer](https://www.demolandia.net/downloads.html?id=47981918)  / [5.1.2 test tones](https://drive.google.com/file/d/1xChUW5pjmDJeUEpZQDzJCmPCIY3e0-zj/view?usp=sharing) / [7.1.2 test tones](https://drive.google.com/file/d/1hXu8JrXOyoqhJGQsfLaX0R8-MhWqt9k-/view?usp=sharing)  
+Dolby Atmos (TrueHD/Lossless): [7.1 trailer](https://www.demolandia.net/downloads.html?id=47981918)  / [5.1.2 test tones](https://drive.google.com/uc?export=download&id=1xChUW5pjmDJeUEpZQDzJCmPCIY3e0-zj) / [7.1.2 test tones](https://drive.google.com/uc?export=download&id=1hXu8JrXOyoqhJGQsfLaX0R8-MhWqt9k-)  
 
 Dolby Atmos (DD+/Lossy): [5.1.2 trailer](https://download.dolby.com/us/en/test-tones/dolby-atmos-trailer_amaze_1080.mp4) / [5.1.2 test tones](https://www.heimkino-atmos.de/wp-content/uploads/2021/06/dolby-test-tones_5_1_2.mp4) / [5.1.4 test tones](https://www.heimkino-atmos.de/wp-content/uploads/2021/06/dolby-test-tones_5_1_4.mp4) / [7.1.2 test tones](https://www.heimkino-atmos.de/wp-content/uploads/2021/06/dolby-test-tones_7_1_2.mp4) / [7.1.4 test tones](https://www.heimkino-atmos.de/wp-content/uploads/2021/06/dolby-test-tones_7_1_4.mp4)  
 
@@ -814,9 +814,9 @@ Dolby Atmos (DD+/Lossy): [5.1.2 trailer](https://download.dolby.com/us/en/test-t
 
 [DTS-HD HRA 5.1](https://drive.google.com/uc?export=download&id=1tiP9cpPxQntwuga6brlDoWPTthB-Abzb) / [DTS-HD HRA 7.1 Channel Call-out](https://drive.google.com/uc?export=download&id=1UDSRMHkoVx3m4mS7ntYli2RdyJ_cUC3w)  
 
-[DTS-HD MA 5.1](https://www.demolandia.net/downloads.html?id=30191483) / [DTS-HD MA 5.1 Channel Call-out](https://drive.google.com/file/d/1WMteezMh77_xk77ZfE3-8GTJBlGolv47/view?usp=sharing) / [DTS-HD MA 7.1](https://www.demolandia.net/downloads.html?id=4397041) / [DTS-HD MA 7.1 Channel Call-out](https://drive.google.com/file/d/1LK1C_CoNgufMcIPCCSH5PGusdxBFUIuy/view?usp=sharing)  
+[DTS-HD MA 5.1](https://www.demolandia.net/downloads.html?id=30191483) / [DTS-HD MA 5.1 Channel Call-out](https://drive.google.com/uc?export=download&id=1WMteezMh77_xk77ZfE3-8GTJBlGolv47) / [DTS-HD MA 7.1](https://www.demolandia.net/downloads.html?id=4397041) / [DTS-HD MA 7.1 Channel Call-out](https://drive.google.com/uc?export=download&id=1LK1C_CoNgufMcIPCCSH5PGusdxBFUIuy)  
 
-[DTS:X 7.1.4 Channel Call-out](https://drive.google.com/file/d/15cynNiLCt5yvr3E1uavYSEoOU2UDWmO4/view?usp=sharing)  
+[DTS:X 7.1.4 Channel Call-out](https://drive.google.com/uc?export=download&id=15cynNiLCt5yvr3E1uavYSEoOU2UDWmO4)  
 
 [LPCM 5.1](https://www.jensign.com/bdp95/7dot1voiced/index.html), [ALTERNATIVE 1](https://www2.iis.fraunhofer.de/AAC/ChID-BLITS-EBU-Narration441-16b.wav), 
 [ALTERNATIVE 2](https://www.lynxstudio.com/downloads/aes16e/sample-wav-file-zip-encoded-44-1khz-pcm-24-5-1-surround/) / 
@@ -824,9 +824,9 @@ Dolby Atmos (DD+/Lossy): [5.1.2 trailer](https://download.dolby.com/us/en/test-t
 
 [HE-AAC 5.1](https://www2.iis.fraunhofer.de/AAC/ChID-BLITS-EBU-Narration.mp4) / [HE-AAC 7.1](https://www2.iis.fraunhofer.de/AAC/7.1auditionOutLeader_v2_rtb.mp4) / [AAC-LC](https://www2.iis.fraunhofer.de/AAC/ChID-BLITS-EBU-Narration441AOT2.mp4)  
 
-[FLAC 4.0/5.0/5.1/7.1](https://drive.google.com/file/d/1dWB93rzbd3tuHckQH8ZisnJd7NDgApoe/view)  
+[FLAC 4.0/5.0/5.1/7.1](https://drive.google.com/uc?export=download&id=1dWB93rzbd3tuHckQH8ZisnJd7NDgApoe)  
 
-Audio Sync Tests: [1080p/H264/60fps/AAC](https://drive.google.com/file/d/18yl9Kk-ciweGBhkbUTr8aypc_PEXcr5n/view?usp=sharing), [1080p/HEVC/23.98fps/PCM](https://drive.google.com/file/d/1SSxzFXO7OfN4CVxrPTr_Er9CCD1uixFc/view?usp=sharing), [1080p/HEVC/24fps/PCM](https://drive.google.com/file/d/1rijuG0QrRsnRnLfrXqI741BtbOrD0Hu7/view?usp=sharing), [1080p/HEVC/29.97fps/PCM](https://drive.google.com/file/d/1M3DjDtwtpTckWze1crDcBa57hlLlUKtO/view?usp=sharing)  
+Audio Sync Tests: [1080p/H264/60fps/AAC](https://drive.google.com/uc?export=download&id=18yl9Kk-ciweGBhkbUTr8aypc_PEXcr5n), [1080p/HEVC/23.98fps/PCM](https://drive.google.com/uc?export=download&id=1SSxzFXO7OfN4CVxrPTr_Er9CCD1uixFc), [1080p/HEVC/24fps/PCM](https://drive.google.com/uc?export=download&id=1rijuG0QrRsnRnLfrXqI741BtbOrD0Hu7), [1080p/HEVC/29.97fps/PCM](https://drive.google.com/uc?export=download&id=1M3DjDtwtpTckWze1crDcBa57hlLlUKtO)  
 
 <!-- Section -->
 
