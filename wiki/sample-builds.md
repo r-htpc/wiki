@@ -582,7 +582,7 @@ Unraid will boot off the USB flash drive, so we have a reliable USB 2.0 one here
 
 Lots of well-priced DDR5 RAM for VMs, Dockers and, if you so choose, Plex media transcoding in RAM.  
 
-If you want a system with ECC memory and a workstation mobo, see our [pcpartpicker part list](https://pcpartpicker.com/user/ncohafmuta/saved/ydVF4D).  
+If you want a system with ECC memory and a workstation mobo, see our [pcpartpicker part list](https://pcpartpicker.com/list/yvMQ6Q).  
 
 As a Plex server, with the purchased Plex Pass, you can transcode ~12x4k or 25x1080p transcodes concurrently on the CPU's iGPU. Without a Plex Pass, 
 expect 8x1080p streams with CPU software transcoding. For more transcodes, add a used [Quadro P5000](https://www.elpamsoft.com/?p=Plex-Hardware-Transcoding) dGPU (11x4k,22x1080p) ($300).  
