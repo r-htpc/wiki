@@ -812,7 +812,7 @@ Dolby Atmos (DD+/Lossy): [5.1.2 trailer](https://download.dolby.com/us/en/test-t
 [DTS 5.1 Channel Call-out (44.1)](https://drive.google.com/uc?export=download&id=1MGToTa_UfMTIHzdrISzJknifOuGvIVex
 ) / [5.1 Channel Call-out (48)](https://drive.google.com/uc?export=download&id=1P4I0KHQ49tVYUKAZ8KSy4S7jIPorlXC0)  
 
-[DTS-HD HR 5.1](https://www.demolandia.net/downloads.html?id=23989435) / [DTS-HD HR 7.1 Channel Call-out](https://drive.google.com/file/d/1UDSRMHkoVx3m4mS7ntYli2RdyJ_cUC3w/view?usp=sharing)  
+[DTS-HD HRA 5.1](https://drive.google.com/uc?export=download&id=1tiP9cpPxQntwuga6brlDoWPTthB-Abzb) / [DTS-HD HRA 7.1 Channel Call-out](https://drive.google.com/uc?export=download&id=1UDSRMHkoVx3m4mS7ntYli2RdyJ_cUC3w)  
 
 [DTS-HD MA 5.1](https://www.demolandia.net/downloads.html?id=30191483) / [DTS-HD MA 5.1 Channel Call-out](https://drive.google.com/file/d/1WMteezMh77_xk77ZfE3-8GTJBlGolv47/view?usp=sharing) / [DTS-HD MA 7.1](https://www.demolandia.net/downloads.html?id=4397041) / [DTS-HD MA 7.1 Channel Call-out](https://drive.google.com/file/d/1LK1C_CoNgufMcIPCCSH5PGusdxBFUIuy/view?usp=sharing)  
 
