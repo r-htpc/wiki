@@ -585,7 +585,7 @@ Lots of well-priced DDR5 RAM for VMs, Dockers and, if you so choose, Plex media 
 If you want a system with ECC memory and a workstation mobo, see our [pcpartpicker part list](https://pcpartpicker.com/list/yvMQ6Q).  
 
 As a Plex server, with the purchased Plex Pass, you can transcode ~12x4k or 25x1080p transcodes concurrently on the CPU's iGPU. Without a Plex Pass, 
-expect 8x1080p streams with CPU software transcoding. For more transcodes, add a used [Quadro P5000](https://www.elpamsoft.com/?p=Plex-Hardware-Transcoding) dGPU (11x4k,22x1080p) ($300).  
+expect 8x1080p streams with CPU software transcoding. <!-- For more transcodes, add a used [Quadro P5000](https://www.elpamsoft.com/?p=Plex-Hardware-Transcoding) dGPU (11x4k,22x1080p) ($300). -->
 
 The LSI HBA adapter has 8 ports for SATA drives. You can use the SATA ports on the motherboard for your HDDs, then add on the HBA when you outgrow those, or vice-versa.  
 
@@ -598,7 +598,7 @@ PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 CASE		|	Fractal Design Meshify 2			|	$130	|	[pcpartpicker](https://pcpartpicker.com/product/jqTzK8/fractal-design-meshify-2-atx-mid-tower-case-fd-c-mes2a-02)	|[[specs](https://www.fractal-design.com/products/cases/meshify/meshify-2/black-tg-dark-tint/)]. ALT: Fractal Design Define 7 ($160)
 CPU		|	Intel i5-12500 6C/12T CPU (65W)			|	$200	|	[pcpartpicker](https://pcpartpicker.com/product/hvC48d/intel-core-i5-12500-3-ghz-6-core-processor-bx8071512500)	|ALT: [Intel i5-12600k](https://pcpartpicker.com/product/BB4Ycf/intel-core-i5-12600k-37-ghz-6-core-processor-bx8071512600k)
 MOBO		|ASRock Z690 Taichi DDR5 ATX			|	$200	|	[pcpartpicker](https://pcpartpicker.com/product/VVC48d/asrock-z690-taichi-atx-lga1700-motherboard-z690-taichi)	|ALT: [Other DDR5 Motherboards](https://pcpartpicker.com/products/motherboard/#h=2,8&K=6,13&sort=price&c0=1x2500-1x1000,1x2500&xcx=0&s=40&f=2,7&mt=ddr5)
-MEM		|	G.Skill Flare S5 32GB (2x16GB) DDR5-6000	|	$85	|	[pcpartpicker](https://pcpartpicker.com/product/XsqPxr/gskill-ripjaws-s5-32-gb-2-x-16-gb-ddr5-6000-cl36-memory-f5-6000j3636f16gx2-rs5k)	| ALT: [64GB (2x32GB) DDR5](https://pcpartpicker.com/products/memory/#xcx=0&Z=65536002&sort=price&ff=ddr5&S=5600,8400)
+MEM		|	G.Skill Flare S5 64GB (2x32GB) DDR5-6000	|	$160	|	[pcpartpicker](https://pcpartpicker.com/product/6npQzy/gskill-ripjaws-s5-64-gb-2-x-32-gb-ddr5-6000-cl36-memory-f5-6000j3636f32gx2-rs5k)	| ALT: [32GB (2x16GB) DDR5](https://pcpartpicker.com/products/memory/#xcx=0&Z=32768002&sort=price&ff=ddr5&S=5600,8400)
 STORAGE		|	PNY Attache 4 32GB USB Flash Drive (BOOT)	|	$12 |	[amazon](https://www.amazon.com/PNY-Attache-Drives-3-Pack-P-FD32GX3ATT4-GE/dp/B07YVY2H1J)		|
 STORAGE		|	2x Solidigm P44 Pro 1TB NVMe M.2 SSD (APP/CACHE)	|	$200	|	[pcpartpicker](https://pcpartpicker.com/product/vrTp99/solidigm-p44-pro-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-ssdpfkkw010x7x1)	|ALT: SK Hynix P31/P41
 STORAGE		|	11x Seagate Exos X16 14TB SATA HDD (DATA)		|	$2300	|	[disctech](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/14TB/manufacturer/Seagate?order=onlinecustomerprice:asc)	| SEPARATE. ALT: WD Ultrastar DC HC530 14TB
@@ -610,7 +610,7 @@ PSU		|	SeaSonic FOCUS Plus 750 Gold ATX PSU	|	$100	|	[pcpartpicker](https://pcpa
 SOFTWARE	|	Unraid Unleashed - Unlimited device license		|	$110	|	[limetech](https://unraid.net/pricing)	|
 SOFTWARE	|	Plex Media Server				|	$0	|	[Plex](https://www.plex.tv/downloads)		|Free
 LICENSE		|	Plex Pass					|	$120	|	[Plex](https://www.plex.tv/plex-pass/)		|Lifetime cost or $40/year, $5/month.
-TOTAL		|							|	$1262	|			|
+TOTAL		|							|	$1337	|			|
 
 <!-- Sub-Section -->
 
