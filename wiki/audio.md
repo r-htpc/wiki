@@ -822,7 +822,7 @@ Dolby Atmos (DD+/Lossy): [5.1.2 trailer](https://download.dolby.com/us/en/test-t
 [ALTERNATIVE 2](https://www.lynxstudio.com/downloads/aes16e/sample-wav-file-zip-encoded-44-1khz-pcm-24-5-1-surround/) / 
 [LPCM 7.1](https://drive.google.com/u/0/uc?id=0BwxFVkl63-lEV2JjazFWQ05OSG8&export=download)  
 
-[HE-AAC 5.1](https://www2.iis.fraunhofer.de/AAC/ChID-BLITS-EBU-Narration.mp4) / [HE-AAC 7.1](https://www2.iis.fraunhofer.de/AAC/7.1auditionOutLeader_v2_rtb.mp4) / [AAC-LC](https://www2.iis.fraunhofer.de/AAC/ChID-BLITS-EBU-Narration441AOT2.mp4)  
+[HE-AAC 5.1](https://drive.google.com/uc?export=download&id=1jjPxLQpCj6Oa9pgbdkIEW7L_L3ypFVTx) / [HE-AAC 7.1](https://drive.google.com/uc?export=download&id=1O5hxGRjvKbZ0aLHepPkSjLTDR7BcLBWx) / [AAC-LC 5.1](https://drive.google.com/uc?export=download&id=1GYu5afIS_vh_sbAI8LQBqc13YzXd5Foy)  
 
 [FLAC 4.0/5.0/5.1/7.1](https://drive.google.com/uc?export=download&id=1xh805x_7tw9Zo9Bcq1U5j4Lz88k5eEUD)  
 
