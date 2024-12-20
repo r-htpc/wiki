@@ -801,9 +801,9 @@ These files must be downloaded for the media player(s) you are testing against. 
 
 [Dolby Digital 5.1](https://drive.google.com/uc?export=download&id=1X8XuVXOY0yteXki48fSEYU-8eOGxQVWC) / [5.1 Channel Call-out](https://drive.google.com/uc?export=download&id=1ZmTVv3-6WDHGZt2Pg6LxktPpemZzVdLG)  
 
-[Dolby Digital Plus 5.1 Channel Call-out](https://drive.google.com/uc?export=download&id=16UDWF-B0iLVnA05C4C-gNYLcMhUdTdp_g) / [7.1 Channel Call-out](https://drive.google.com/uc?export=download&id=1ya5KZcTN64uGfK5hCbxJNBoFReXyLY0D)  
+[Dolby Digital Plus 5.1 Channel Call-out](https://drive.google.com/uc?export=download&id=16UDWF-B0iLVnA05C4C-gNYLcMhUdTdp_) / [7.1 Channel Call-out](https://drive.google.com/uc?export=download&id=1ya5KZcTN64uGfK5hCbxJNBoFReXyLY0D)  
 
-[Dolby TrueHD 5.1](https://www.demolandia.net/downloads.html?id=26284842) / [Dolby TrueHD 7.1](https://www.demolandia.net/downloads.html?id=99509504) / [Dolby TrueHD 7.1 Channel Call-out](https://drive.google.com/file/d/1RwJxv5ifkE8VnKpQGxbzKmWoUJwxzHE_/view?usp=sharing)  
+[Dolby TrueHD 5.1](https://drive.google.com/uc?export=download&id=1NxAzXbQLpasCYFbquKFzSP4Jk4t82ops) / [Dolby TrueHD 7.1](https://drive.google.com/uc?export=download&id=1YPtCOaiIQwWkJFoyF6DAoJeqMKrIutlX) / [Dolby TrueHD 7.1 Channel Call-out](https://drive.google.com/uc?export=download&id=1RwJxv5ifkE8VnKpQGxbzKmWoUJwxzHE_)  
 
 Dolby Atmos (TrueHD/Lossless): [7.1 trailer](https://www.demolandia.net/downloads.html?id=47981918)  / [5.1.2 test tones](https://drive.google.com/file/d/1xChUW5pjmDJeUEpZQDzJCmPCIY3e0-zj/view?usp=sharing) / [7.1.2 test tones](https://drive.google.com/file/d/1hXu8JrXOyoqhJGQsfLaX0R8-MhWqt9k-/view?usp=sharing)  
 
