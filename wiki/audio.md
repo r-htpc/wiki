@@ -298,7 +298,7 @@ Now you can proceed to setting up specific applications and decoding of media/ga
     - You should configure your media application(s) (if needed), by setting the sound device/audio renderer to "DirectSound" or "System Default". "DirectSound" sits between the application and the audio driver, controlling the channel layout and audio stream.  
 In media applications, the most popular ones will have the codecs to decode up to **Dolby TrueHD**, **DTS-HD MA** and many others (object metadata overlays like Dolby Atmos/DTS:X can NOT be channelized or meaningfully used by the PC without professional software; you must bitstream those codecs to an AVR or sound processor).  
 
-    - Additionally, you can set channel downmixing/upmixing in your media application, if desired.  
+    - Additionally, you can set [channel downmixing](/wiki/audio#why-is-the-volume-of-my-audio-so-wide-ranging-eg-voices-are-quiet-explosions-are-loud)/upmixing in your media application, if desired.  
 
     - You can force Windows apps that don't have sound configurations (like browsers) to decode encoded formats like DD/DTS to PCM by disabling the "Allow applications to take exclusive control of this device" setting in the Properties->Advanced section of your sound device.  
 
