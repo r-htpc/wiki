@@ -111,7 +111,7 @@ Thermalright AXP120-X67, Noctua NH-L12Sx77
 
 **CASE: Silverstone GD09**  
 - AIO (PSU-side): 
-  - AlphaCool T38 
+  - AlphaCool Core Ocean T38 120
   - Corsair H80i v2 
 - AIR: 
   - w/5.25" ODD: [Noctua NH-U9S](https://www.reddit.com/r/htpc/comments/1ccjsrn/put_a_dualtower_air_cooler_in_a_silverstone_gd09/), Noctua NH-D9L, Noctua NH-L12s 
