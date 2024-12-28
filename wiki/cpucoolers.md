@@ -110,8 +110,12 @@ Thermalright AXP120-X67, ID Cooling IS-67-XT
 Thermalright AXP120-X67, Noctua NH-L12Sx77  
 
 **CASE: Silverstone GD09**  
-w/5.25" ODD: Corsair H80i v2 AIO (PSU-side), [Noctua NH-U9S](https://www.reddit.com/r/htpc/comments/1ccjsrn/put_a_dualtower_air_cooler_in_a_silverstone_gd09/), Noctua NH-D9L, Noctua NH-L12s  
-wo/ODD: Thermalright Silver Soul 135, [Thermalright Peerless Assassin Mini](https://www.reddit.com/r/htpc/comments/1ccjsrn/put_a_dualtower_air_cooler_in_a_silverstone_gd09/)  
+- AIO (PSU-side): 
+  - AlphaCool T38 
+  - Corsair H80i v2 
+- AIR: 
+  - w/5.25" ODD: [Noctua NH-U9S](https://www.reddit.com/r/htpc/comments/1ccjsrn/put_a_dualtower_air_cooler_in_a_silverstone_gd09/), Noctua NH-D9L, Noctua NH-L12s 
+  - wo/ODD: Thermalright Silver Soul 135, [Thermalright Peerless Assassin Mini](https://www.reddit.com/r/htpc/comments/1ccjsrn/put_a_dualtower_air_cooler_in_a_silverstone_gd09/)  
 
 **CASE: Silverstone GD11**  
 AIO: Arctic Liquid Freezer III 240 AIO  
