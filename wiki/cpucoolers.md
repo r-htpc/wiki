@@ -123,6 +123,8 @@ AIR: [Noctua NH-D12L](https://www.reddit.com/r/htpc/comments/y7vpr0/fyi_the_noct
 
 &nbsp;
 
+<!--
+
 **Unformatted list of others**
 
 	MODEL							HEIGHT		PRICE	TDP		FAN SIZE	CPU COMPATABILITY							RATING (5=best)				NOTES
@@ -161,6 +163,8 @@ AIR: [Noctua NH-D12L](https://www.reddit.com/r/htpc/comments/y7vpr0/fyi_the_noct
 	Phanteks PH-TC12LS				47mm/74mm	$44		95W		120mm		LGA775/115x/1366/2066/FMx/AMx									With NF-A12x15 Noctua would be 64mm
 	Cryorig C1						61mm/74mm	$65		140W	140mm		LGA115x/201x/2066/FMx/AMx
 	Silverstone NT06-Pro/Pro-V2		82mm		$65		65-150W	120mm		LGA775/115x/1366/201x/2066/FMx/AMx			YES
+
+-->
 
 <!-- Footer -->
 &nbsp;
