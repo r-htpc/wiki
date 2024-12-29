@@ -306,17 +306,20 @@ Completely fanless solution for 4k HDR media playback and/or 720p/1080p gaming e
 You could add some media storage with [2.5" HDD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&f=3&sort=ppgb&A=1900000000000,20000000000000&page=1)s, but this is not for internal 3.5" HDD media storage - 
 it's too small for that. Look at the [HD Plex H3 (11L)](https://hdplex.com/hdplex-h3-v3-fanless-computer-chassis.html) or [FC8 Alpha](https://www.quietpcusa.com/Streacom-HTPC-Cases/Streacom-FC8-ALPHA-HTPC-Chassis) chassis or the next super low power build instead.  
 These cases are popular and low production, so don't be surprised if they're out of stock.  
+
+If you can afford it, get the HD Plex 250W GaN ATX PSU, else the DC-ATX Pico versions are fine for APU-only builds.  
+
 A comparable, similarly priced alternative is the [Streacom FC8 Alpha](https://www.quietpcusa.com/Streacom-HTPC-Cases/Streacom-FC8-ALPHA-HTPC-Chassis). The [DB1](https://www.quietpcusa.com/streacom-htpc-cases/streacom-1-fanless-chassis) is also an option and much cheaper than the others, though will limit you to 45W ECO mode on the CPU.  
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
-CASE	|	HD Plex H1 v3				|	$215	|	[HD Plex](https://hdplex.com/hdplex-h1-v3-fanless-computer-case.html)	|	no psu/backplate, 10.6" x 10.4" x 2.5"
+CASE	|	HD Plex H1 v3				|	$215	|	[HD Plex](https://hdplex.com/hdplex-h1-v3-fanless-computer-case.html)	|	no psu inc., 10.6" x 10.4" x 2.5"
 CPU	|	Ryzen 4600G APU (65W)				|	$100	|	[pcpartpicker](https://pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box)		|	ALT: [Intel i3-12100](https://pcpartpicker.com/product/qrhFf7/intel-core-i3-12100-33-ghz-quad-core-processor-bx8071512100)
 MOBO	|	ASRock B550M-ITX/ac	|	$130	|	[pcpartpicker](https://pcpartpicker.com/products/motherboard/#f=8&s=33&sort=price&page=1)	|	ALT: [ASRock B760M-ITX/D4](https://pcpartpicker.com/product/3xLFf7/asrock-b760m-itxd4-wifi-mini-itx-lga1700-motherboard-b760m-itxd4-wifi)
 MEM	|	Teamgroup Vulcan Z DDR4-3200 2x8GB		|	$35	|	[pcpartpicker](https://pcpartpicker.com/product/2Bnypg/team-t-force-vulcan-z-16-gb-2-x-8-gb-ddr4-3200-cl16-memory-tlzgd416g3200hc16fdc01)		|	ALT: [pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&sort=price&S=3000,8000&Z=16384002)
 STORAGE	|	WD Black SN770 500 GB NVMe M.2 SSD	|	$45	|	[pcpartpicker](https://pcpartpicker.com/product/nWC48d/western-digital-500-gb-m2-2280-nvme-solid-state-drive-wds500g3x0e)		|	ALT: WD SN580 1TB
-PSU	|	192W AC-DC adapter			|	$65	|	[Mini Box](https://www.mini-box.com/12v-16A-AC-DC-Power-Adapter)	|	ALT: 150W AC-DC Adapter
-PSU	|	picoPSU-160-XT 160W DC-ATX PSU		|	$45	|	[Mini Box](https://www.mini-box.com/picoPSU-160-XT)			|	NA
+PSU	|	HD Plex 200W (DC-ATX)		|	$80	|	[HD Plex](https://hdplex.com/hdplex-200w-dc-atx-power-supply-12v-48v-wide-range-voltage-input.html)			|	ALT: [HDPlex 250W GaN ATX](https://hdplex.com/hdplex-fanless-250w-gan-aio-atx-psu.html) / [picoPSU-160-XT 160W (DC-ATX-2)](https://www.mini-box.com/picoPSU-160-XT)
+PSU	|	Dell 230W+ 19.5V 7.4x5.0mm Adapter (for DC-ATX)		|	$30	|	[Ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=dell+19.5V+adapter+230+240+330&_sacat=0&_odkw=dell+230w&_osacat=0)	|	ALT: [192W AC adapter](https://www.mini-box.com/12v-16A-AC-DC-Power-Adapter) (for DC-ATX-2)
 TOTAL|						|	$655	|	|	|	
 
 <!-- Sub-Section -->
