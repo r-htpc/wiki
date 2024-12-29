@@ -391,8 +391,8 @@ Kodi:
 Potplayer: F5 Key->Filter Control->Video Decoder->Built-in Video..->Use DXVA: Enable, Codecs your GPU supports: VLD  
 
 LINUX:
-1. Ideally use Mint, Arch, PopOS or another distro with VA-API support
-2. See [here](https://rpmfusion.org/Howto/Multimedia) for VA-API driver install
+1. Ideally use Mint, Arch, PopOS or another distro with VA-API support (otherwise see [here](https://rpmfusion.org/Howto/Multimedia))
+2. Install gpu driver and libva-\<gpu\>-driver packages for your distro.
 3. Configure player to use VA-API
 
 <!-- Sub-Section -->
