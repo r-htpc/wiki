@@ -320,7 +320,7 @@ MEM	|	Teamgroup Vulcan Z DDR4-3200 2x8GB		|	$35	|	[pcpartpicker](https://pcpartp
 STORAGE	|	WD Black SN770 500 GB NVMe M.2 SSD	|	$45	|	[pcpartpicker](https://pcpartpicker.com/product/nWC48d/western-digital-500-gb-m2-2280-nvme-solid-state-drive-wds500g3x0e)		|	ALT: WD SN580 1TB
 PSU	|	HD Plex 200W (DC-ATX)		|	$80	|	[HD Plex](https://hdplex.com/hdplex-200w-dc-atx-power-supply-12v-48v-wide-range-voltage-input.html)			|	ALT: [HDPlex 250W GaN ATX](https://hdplex.com/hdplex-fanless-250w-gan-aio-atx-psu.html) / [picoPSU-160-XT 160W (DC-ATX-2)](https://www.mini-box.com/picoPSU-160-XT)
 PSU	|	Dell 230W+ 19.5V 7.4x5.0mm Adapter (for DC-ATX)		|	$30	|	[Ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=dell+19.5V+adapter+230+240+330&_sacat=0&_odkw=dell+230w&_osacat=0)	|	ALT: [192W AC adapter](https://www.mini-box.com/12v-16A-AC-DC-Power-Adapter) (for DC-ATX-2)
-TOTAL|						|	$655	|	|	|	
+TOTAL|						|	$635	|	|	|	
 
 <!-- Sub-Section -->
 
