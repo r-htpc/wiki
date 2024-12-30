@@ -135,7 +135,7 @@ Simple, HDR passthrough or tonemapping.
 
 ### **MPC-BE + MPC Video Renderer**
 
-Simple, HDR passthrough, tonemapping and upscaling.  
+Simple, HDR passthrough, tonemapping and decent upscaling.  
 
 * *Requirements:*  
   * Install MPC-BE: ([download](https://github.com/Aleksoid1978/MPC-BE/releases))  
@@ -169,7 +169,7 @@ Simple, HDR passthrough, tonemapping and upscaling.
 
 ### **MPC-HC/MPC-BE + madVR**
 
-Advanced, more powerful tonemapping, upscaling and processing than using MPC Video Renderer, but more complicated.  
+Advanced, more powerful dynamic tonemapping, high-end upscaling and processing than using MPC Video Renderer, but more complicated.  
 
 * *Requirements:*  
   * MPC-HC: Install K-Lite Codec Pack FULL: ([download](https://www.codecguide.com/download_k-lite_codec_pack_full.htm))  
@@ -223,7 +223,7 @@ Advanced, more powerful tonemapping, upscaling and processing than using MPC Vid
 
 ### **Kodi + MPC-HC + madVR**
 
-Advanced, current way to integrate madVR into Kodi for passthrough, tonemapping, and upscaling.  
+Advanced, current way to integrate madVR into Kodi for passthrough, dynamic tonemapping, and high-end  upscaling.  
 
 * *Requirements:*
   * Install Kodi: >= 17.6: ([download](https://kodi.tv/download))
