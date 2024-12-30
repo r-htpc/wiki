@@ -356,7 +356,7 @@ Advanced, current way to integrate madVR into Kodi for passthrough, dynamic tone
 
 ### **DSPlayer Kodi + madVR**
 
-Advanced, old way to integrate madVR into Kodi for passthrough, tonemapping, and upscaling. Can't use Kodi past v17.6  
+Advanced, OLD way to integrate madVR into Kodi for passthrough, tonemapping, and high-end upscaling. Can't use Kodi past v17.6, so not recommended vs MPC way.   
 
 * *Requirements:*
   * Common settings above
