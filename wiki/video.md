@@ -526,19 +526,21 @@ See our [Optical Drive](/wiki/components#optical-drives) section of the Hardware
 
 <!-- Sub-Section -->
 
-### What are the best algorithms for scaling video?
+### What are the best ways for scaling video?
 
-Video scaling algorithms from Worst to Best (and generally least resource intensive to most) are:  
+Video scaling algorithms are available to configure in the [MPC VR](/wiki/hdr#mpc-be--mpc-video-renderer) and [madVR](/wiki/hdr#mpc-hcmpc-be--madvr) video renderers. Our HDR setup guide has basic instructions for player/renderer combos.
 
-Nearest Neighbor, Bilinear, DXVA, Cubic (Mitchell Netravali), Cubic (BiCubic), Catmull-Rom, Lanczos 2/3, Spline, Jinc, SSIM (downscale), super-xbr, NGU Standard (>= doubling), NGU Sharp (>= doubling).  
+From Worst to Best quality (and generally least resource intensive to most) the algos are:  
 
-The Anti-Ringing/AR option added on to any algo is ideal, where available.  
+Nearest Neighbor, Bilinear, DXVA, Cubic (Mitchell Netravali), Cubic (BiCubic), Catmull-Rom, Lanczos 2/3, Spline, Jinc, SSIM (downscale), super-xbr, NGU Standard (>= doubling), NGU Sharp (>= doubling). The Anti-Ringing/AR option added on to any algo is ideal, where available.  
 
 These are OBJECTIVE rankings, and not SUBJECTIVE. Visual preferences are subjective i.e. different for each person. Test the algos to find the sweet spot for your own visual and GPU load/noise preferences. Do not go past the [recommended algos for your particular GPU](/wiki/hdr#madvr-performance-settings-per-gpu) without extensive performance testing.  
 
 Any algo beyond **Jinc** will produce diminishing returns compared to the amount of load and noise it subjects your GPU to and may be detrimental to your HT listening environment.  
 
 [MPC VR](/wiki/hdr#mpc-be--mpc-video-renderer) will allow you to go up to Jinc. [madVR](/wiki/hdr#mpc-hcmpc-be--madvr) to NGU Sharp.  
+
+If you have an Nvidia RTX 30+ series GPU you can also use RTX Super Resolution in the MPC VR renderer and in Windows in general for non-DRM streaming sites like Youtube. 
 
 <!-- Sub-Section -->
 
