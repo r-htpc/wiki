@@ -536,11 +536,11 @@ Nearest Neighbor, Bilinear, DXVA, Cubic (Mitchell Netravali), Cubic (BiCubic), C
 
 These are OBJECTIVE rankings, and not SUBJECTIVE. Visual preferences are subjective i.e. different for each person. Test the algos to find the sweet spot for your own visual and GPU load/noise preferences. Do not go past the [recommended algos for your particular GPU](/wiki/hdr#madvr-performance-settings-per-gpu) without extensive performance testing.  
 
+[MPC VR](/wiki/hdr#mpc-be--mpc-video-renderer) will allow you to go up to the Jinc algo. [madVR](/wiki/hdr#mpc-hcmpc-be--madvr) to the NGU Sharp algo.  
+
 Any algo beyond **Jinc** will produce diminishing returns compared to the amount of load and noise it subjects your GPU to and may be detrimental to your HT listening environment.  
 
-[MPC VR](/wiki/hdr#mpc-be--mpc-video-renderer) will allow you to go up to Jinc. [madVR](/wiki/hdr#mpc-hcmpc-be--madvr) to NGU Sharp.  
-
-If you have an Nvidia RTX 30+ series GPU you can also use RTX Super Resolution in the MPC VR renderer and in Windows in general for non-DRM streaming sites like Youtube. 
+If you have an Nvidia RTX 30+ series GPU you can also use RTX Super Resolution in the MPC VR renderer and in Windows in general for non-DRM streaming sites, like Youtube. It's quality will be somewhere around the Jinc algo, so is not a replacement for the best madVR.
 
 <!-- Sub-Section -->
 
