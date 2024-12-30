@@ -424,13 +424,13 @@ If you need a DVI to HDMI cable, we recommend [BlueRigger](https://www.amazon.co
 
 It's highly recommended that you do NOT put 2.4 Ghz wifi routers in the same room as RF or BT devices below.  
 
-For **keyboards**, one with an integrated trackpad and backlight for use in the dark is ideal, but the best ones (like the Logitech K830 or Corsair K83) are discontinued and expensive. Beyond that, Logitech and Microsoft will be the most supported of current ones and of higher quality, comparitvely. If you want specific features, you may be forced to venture out to Riitek, Arteck or other unknown sellers. Do not expect the highest quality or good support.  
+For **keyboards**, one with an integrated trackpad and backlight for use in the dark is ideal, but the best ones (like the Logitech K830 or Corsair K83) are discontinued. Of current ones, the Kinesis Form is of high quality but is expensive. Beyond that, Logitech and Microsoft will be the most supported and of decent quality. If you want specific features, you may be forced to venture out to Riitek, Arteck or other unknown chinese brands. Do not expect the highest quality, longeivity, or good support.  
 RF and Bluetooth (BT) are the most used connection technologies. Use either with a HTPC. For media devices/smart tvs, BT will be most supported  
 
 KEYBOARD						|	PRICE	|	SIZE	|	INT		|	BACKLIT	|	POINT	|	BATTERY	|	NOTES
 :--|:--|:--|:--|:--|:--|:--|:--|
 [Kinesis Form](https://kinesis-ergo.com/keyboards/form/)				|	[$200](https://kinesis-ergo.com/shop/form/)	|	Full	|	BT/USB	|	Yes		|	Pad		|	Int		|	16", Split, KS-99 Sw, Multi-device				
-Logitech K830 |	[Disc (1)](https://www.amazon.com/dp/B00ZOPVSKW?ref=emc_p_m_9_b&th=1)	|	Full	|	BT/RF	|	Yes		|	Pad		|	Int		|	14.4", [Ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=logitech+k830&_sacat=0)
+[Logitech K830](https://support.logi.com/hc/en-us/articles/360024153134--Getting-Started-Illuminated-Living-Room-Keyboard-K830) |	[Disc (1)](https://www.amazon.com/dp/B00ZOPVSKW?ref=emc_p_m_9_b&th=1)	|	Full	|	BT/RF	|	Yes		|	Pad		|	Int		|	14.4", [Ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=logitech+k830&_sacat=0)
 [Logitech K400](https://m.media-amazon.com/images/I/A1-V3Jgn7ZL.pdf)				|	[$30](https://www.amazon.com/Logitech-Wireless-Keyboard-Multi-Touch-Touchpad/dp/B005DKZTMG)		|	Full	|	RF		|	No		|	Pad		|	AA		|	14". Simple, popular
 **[Logitech K400 Plus](https://www.logitech.com/en-us/products/keyboards/k400-plus-touchpad-keyboard.html)**		|	[$25](https://www.amazon.com/Logitech-Wireless-Keyboard-Touchpad-PC-connected/dp/B014EUQOGK)		|	Full	|	RF		|	No		|	Pad		|	AA		|	14", dual Fn keys. Simple, popular.
 [Logitech K600](https://www.logitech.com/en-us/products/keyboards/k600-smart-tv-d-pad.920-008822.html)				|	[$70](https://www.amazon.com/Logitech-K600-TV-Keyboard-Integrated/dp/B07C6LXYHL)		|	Full	|	BT/RF	|	No		|	Pad		|	AAA		|	14.4", D-pad
