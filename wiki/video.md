@@ -20,7 +20,7 @@ x265: Also known as h.265/MPEG-H HEVC. The successor to AVC with better, but sti
 Xvid/Divx: Also known as h.263/MPEG-4 Part 2. Xvid is an open-source version. An old compression codec commonly used in AVI and Divx containers.  
 VC-1: Used in newer HD blu-ray discs  
 VP9: A compression codec used on Youtube  
-AV1: A modern, lossy compression codec currently with limited support. The successor to HEVC and VP9  
+AV1: A modern, lossy compression codec currently with limited support. The successor to HEVC and VP9. Sparse usage on Youtube/Netflix  
 MPEG-2: Also known as h.262/MPEG-2 Part 2. A low compression codec. Used in DVDs, old HD blu-ray discs and ATSC 1.0 OTA. Commonly used with the TS container
 
 <!-- Sub-Section -->
@@ -83,8 +83,8 @@ Displayport (Alternate mode): Digital. Displayport/USB->HDMI cable/adapter
 **HDR Types**
 
 HDR10: Very common. Very compatible. Static Metadata. 400-4000 cd/m2. 10-bit color.  
-HDR10+: Not common. Dynamic Metadata. 1000-4000 cd/m2. 10-bit color. **Not playable on a HTPC**  
-Dolby Vision: Very common. Not very compatible, esp. with local content. Dynamic Metadata. 1000-4000 cd/m2. 12-bit color. **Not playable on a HTPC**  
+HDR10+: Not common. Dynamic Metadata. 1000-4000 cd/m2. 10-bit color. **No passthrough on an HTPC**  
+Dolby Vision: Very common. Not very compatible, esp. with local content. Dynamic Metadata. 1000-4000 cd/m2. 12-bit color. **No passthrough on an HTPC**  
 HLG: Not common. No metadata. SDR & HDR in same signal. 1000 cd/m2 nominal. 10-bit color.  
 [Wiki:FAQ:What is HDR video and what do I need to take advantage of it?](/wiki/faq#what-is-hdr-video-and-what-do-i-need-to-take-advantage-of-it)  
 
