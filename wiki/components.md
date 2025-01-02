@@ -466,7 +466,7 @@ REMOTE			|	PRICE	|	INT		|	BACKLIT	|	BATTERY	|	NOTES
 Logitech Harmony One	|	Disc (1)	|	RF/BT/IR	|	Yes	|	Int	|	IR Blaster, Hub
 [Sofabaton U1](https://sofabaton.com/products/u1) / [U2](https://sofabaton.com/products/u2)		|	$37/$60	|	BT/IR		|	NO	|	AA (30hr)	|	15 devices, macros, mobile app
 [Sofabaton X1](https://sofabaton.com/products/x1)		|	$130	|	BT/IR/WiFi	|	Yes	|	Int	(60hr) |	60 devices, adv macros, hub, IR blaster, voice/alexa/google
-**[Pepper Jobs W10](https://www.pepper-jobs.com/products/w10-gyro-smart-remote)**		|	$30	|	RF/IR		|	Yes	|	AAA	|	Mini keyboard, Air Mouse, Made for Windows, but Linux works
+**[Pepper Jobs W10](https://www.pepper-jobs.com/products/w10-gyro-smart-remote)**		|	$30	|	RF/IR		|	Yes	|	AAA	|	Mini keyboard, Air Mouse, IR Learn, Made for Windows, Linux ok
 **[OSMC Remote](https://osmc.tv/store/product/osmc-remote-control/)**		|	$20	|	RF		|	Yes	|	CR-2032	|	Good simple remote for Kodi
 [8bitdo Media Remote](https://www.amazon.com/8Bitdo-Media-Remote-Xbox-One-Infrared/dp/B0BXSV78R6) |	$20	|	IR    |  Yes  | AAA | w/Flirc, **Motion-active** backlight
 [Skip 1s](https://flirc.tv/products/skip1s-remote-universal-remote-control)    | $45  | IR  | No | AAA | w/Flirc, **Macros**, learning, mobile app
