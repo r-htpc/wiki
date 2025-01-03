@@ -121,7 +121,7 @@ Below are the minimum requirements for each scenario and a recommendation. The r
 
 - Emulation/Casual Gaming: Nvidia >= GT 1030 GDDR5, AMD >= 5xx/5x00/6x00 (REC: Used: GTX 1650, New: RX 6400) 
 
-- Medium Gaming: (REC: Used: RTX 3060 Ti, New: Intel Arc B580/RTX 4060 LP) 
+- Medium Gaming: (REC: Used: RTX 3060 Ti, New: RTX 4060 LP) 
 
 - UHD Blu-Ray disc playing: Not supported. Intel iGPU only. 
 
