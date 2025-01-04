@@ -70,19 +70,19 @@ We have a whole section on cooling below. Remember: bigger, slower fans are bett
 
 Below are the minimum CPUs required for each scenario and a recommendation. **All have integrated graphics and a dGPU is not required (unless specified)**. The recommendations may change depending on your budget, regional availability, space/power requirements, and whether you want new or second-hand parts. If you're not sure, post and ask us for a rec based on your detailed use-case.  
 
-- **Best All-Rounder: AMD Ryzen 4600G, Intel i3-12100**
-  - Both CPUs will play 4K/HDR/h264/h265/VP9 media just fine and run 4k@60hz. The 4600G will have more graphics power for emulation/casual gaming, but the 12100 will have newer AV1 media decoding, so is a little more future-proofed.
-  - If the 4600G isn't available in your region, then the 5500GT or 5600GT.
+- **Best All-Rounder: AMD Ryzen 5500GT, Intel i3-12100**
+  - Both CPUs will play 4K/HDR/h264/h265/VP9 media just fine and run 4k@60hz. The 5500GT will have more graphics power for emulation/casual gaming, but the 12100 will have newer AV1 media decoding, so is a little more future-proofed.
+  - If the 5500GT isn't available in your region, then the 5600GT/5600G.
 
 - 1080p, No gaming: Intel >= i3/i5/i7-7xxx iGPU, Pentium G4xxx or Apollo/Gemini Lake J3xxx, AMD Athlon 3000G, AMD >= Ryzen 3 2200G APU (REC: Intel G7400)  
 
-- Emulators: 1080p: AMD >= Ryzen 5 3400G APU. 720p: AMD >= Ryzen 3 3200G APU (REC: Ryzen 4600G)  
+- Emulators: 1080p: AMD >= Ryzen 5 3400G APU. 720p: AMD >= Ryzen 3 3200G APU (REC: Ryzen 5500GT)  
 
 - Casual gaming (iGPU): AMD >= Ryzen 3 3400G APU (REC: Ryzen 5700G/8700G)  
 
-- 4K HDR: Intel >= i3/i5/i7-7xxx iGPU, AMD Athlon 3000G, AMD >= Ryzen 3 2200G APU (REC: Ryzen 4600G)  
+- 4K HDR: Intel >= i3/i5/i7-7xxx iGPU, AMD Athlon 3000G, AMD >= Ryzen 3 2200G APU (REC: Ryzen 5500GT)  
 
-- 4K Netflix: >= Ryzen 3 3200G iGPU, Intel >= i3/i5/i7-7xxx iGPU  (REC: Ryzen 4600G)  
+- 4K Netflix: >= Ryzen 3 3200G iGPU, Intel >= i3/i5/i7-7xxx iGPU  (REC: Ryzen 5500GT)  
 
 - AV1 decoding: >= Intel i3/i5/i7-11xxx iGPU, >= Ryzen 8xxxG/7xxx iGPU (REC: Intel i3-12100)  
 
@@ -198,7 +198,7 @@ Make sure you check the mfgr specs/support page for any potential motherboard yo
 Shoot for spending $100-$200 for a motherboard, with $125 being a good starting point.  
 
 Example Combinations:  
-- AMD: Ryzen 4600G + B550: [MicroATX](https://pcpartpicker.com/list/mcFhFg), [Mini-ITX](https://pcpartpicker.com/list/NWTfd9)  
+- AMD: Ryzen 5500GT + B550: [MicroATX](https://pcpartpicker.com/list/mcFhFg), [Mini-ITX](https://pcpartpicker.com/list/NWTfd9)  
 - Intel: Core i3-12100 + B760: [MicroATX](https://pcpartpicker.com/list/ksCg9r), [Mini-ITX](https://pcpartpicker.com/list/nxNWGL)  
 
 BRANDS/MODELS:  
@@ -504,5 +504,5 @@ MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Has mini keyboard, Air Mouse
 
 ---
 
-*This page was last updated on 2025-01-01*
+*This page was last updated on 2025-01-04*
 
