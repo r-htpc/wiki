@@ -13,13 +13,20 @@
 
 ## General
 
-Spinning hard drives should be kept between 25C and 40C and temperature swings should be avoided where at all possible. Drives failure rates increase with heat, so do not pack more drives in a PC than you can effectively cool. SSDs should be kept below 70C to avoid performance throttling.  
+What storage solution you choose will depend on a number of factors:
+  - Cost
+  - Performance
+  - Power efficiency
+  - Size
+  - Reliability
+  - Flexibility
+  - Easy of use
 
-If quick, no-delay access is required, APM/power management should be disabled so hard drives do not spin down and park their heads (see Disk Mgmt software below). 
+A pre-built NAS will have the highest ease of use, high power efficiency, small size, but have lower flexibility and cost the most. If you want better performance or expandability later on, this may be downright not-possible without a whole solution replacement.  
+An Ad-Hoc solution will cost the least but have low performance, ease-of-use, flexibility and reliability. USB-based drive solutions are inherently unreliable and anything more than storage workloads will be challenging.  
+A DiY solution will have the highest performance potential, reliability, and flexibility; medium cost and size, but lower ease of use.  
 
-Hard drive noise varies by vendor. Newer, helium-filled drives tend to be quieter than air-filled drives.
-
-Recommended drives and related prices are given in the Hardware section below.  
+Decide which factors are most important to you and what kind of workloads you want to support before choosing a solution. Do you want your solution to support just storage or do you want to support a multitude of services as well? We tend to lean towards DiY solutions, but you may want more simplicity due to lack of technical skill.  
 
 <!-- Section -->
 
@@ -30,9 +37,9 @@ Different types of storage have different levels of reliability. The trick is to
 From Most reliable to Least reliable:
 
 - Internal Storage (SATA/SAS)
-- External Storage (PCIe SAS)
+- External Storage (PCIe SAS DAS)
 - Network Storage (LAN)
-- External Storage (USB/DAS)
+- External Storage (USB DAS)
 - Network Storage (Wifi)
 
 <!-- Section -->
@@ -40,6 +47,11 @@ From Most reliable to Least reliable:
 ## Internal Storage
 
 Large internal media storage usually consists of 3.5" HDD SATA drives, but also can be 2.5" SATA HDD drives if physical space is at a premium and <= 5TB of disk space is required. Markers of quality and general longevity are warranty, workload (TB/Yr), and M.T.B.F numbers.  
+
+Spinning hard drives should be kept between 25C and 40C and temperature swings should be avoided where at all possible. Drives failure rates increase with heat, so do not pack more drives in a PC than you can effectively cool. SSDs should be kept below 70C to avoid performance throttling.  
+Hard drive noise varies by vendor. Newer, helium-filled drives tend to be quieter than air-filled drives.  
+If quick, no-delay access is required, APM/power management should be disabled so hard drives do not spin down and park their heads (see Disk Mgmt software below).  
+
 SSDs are good for smaller app, metadata and cache storage as they have more read/write performance and are quieter than HDDs. The value is not quite there for mass storage, so avoid for that use. 2.5" SATA SSD drives are good value for ephemeral space that doesn't need the best performance, while M.2 drives are better for higher IO performance and endurance.  
 
 <!-- Section -->
