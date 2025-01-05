@@ -138,7 +138,7 @@ Transcoding = Plex transcoding ability, referenced in [plex's transcoding spread
 
 ### Ad-hoc  
 
-If you can't afford a pre-built NAS and want to do it more cheaply, you can use/buy one of these and add external drives/enclosures to it:  
+If you can't afford a pre-built NAS you can buy one of these options and add external drives/enclosures to it; the **SATA** based ones are again, preferred for reliabilty. You will get signifigant savings here vs a pre-built NAS, but the tech knowledge required for entry is higher.  
 
 - Single Board Computer (SBC) or Pre-owned OEM PC
 
@@ -146,18 +146,18 @@ If you can't afford a pre-built NAS and want to do it more cheaply, you can use/
 
   - 2-4 drives:
     - USB-based: [Orange Pi 3 LTS](https://www.aliexpress.com/w/wholesale-orange-pi-3-lts.html) (USB3x1,USB2x2) $40, [RPI 4b](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) (USB3x2,USB2x2) $35, [Rock64-2GB](https://ameridroid.com/collections/pine) (USB3x1,USB2x2) $35, [Pine H64](https://ameridroid.com/collections/pine) (USB3x1,USB2x2) $45, [Odroid C4](https://www.hardkernel.com/shop/odroid-c4/) (USB3x4) $55, PC: **[Dell/Lenovo i3-41x0t](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%28i3-4130t%2Ci3-4160t%2Ci3-4150t%2Ci3-4170t%29&_sacat=171957&rt=nc&_odkw=%28i3-4130t%2Ci3-4160t%29&_osacat=171957&LH_BIN=1&_sop=15) (USB3x2-4,USB2x2)** $50. Optionally, add a [single enclosure DAS](/wiki/storage#direct-attach-storage-das) over USB.
-    - SATA-based: [Odroid HC4](https://www.hardkernel.com/shop/odroid-hc4/) (**SATAx2**) $75, [Odroid H4+](https://www.hardkernel.com/shop/odroid-h4-plus/) + [Case](https://www.hardkernel.com/product-category/cases/) (**SATAx4**) $150.
+    - **SATA-based**: [Odroid HC4](https://www.hardkernel.com/shop/odroid-hc4/) (**SATAx2**) $75, [Odroid H4+](https://www.hardkernel.com/shop/odroid-h4-plus/) + [Case](https://www.hardkernel.com/product-category/cases/) (**SATAx4**) $150.
 
   - Install linux or [Openmediavault](https://www.openmediavault.org/) as your OS, optionally create a storage pool under [mergerFS](https://github.com/trapexit/mergerfs/wiki) if more than one drive, and share your storage out [over the network with Samba](/wiki/storage#how-do-i-share-htpc-storage-on-my-network).  
 
 - Wireless Access Point with USB port. if you already have one
 
-  - Put it in AP mode on wired ethernet and [share the disk with samba](https://www.net-usb.com/share-hard-drive-over-network/#usb). Not advised for very large or non-powered drives. Get a SBC instead.  
+  - Put it in AP mode on wired ethernet and [share the disk with samba](https://www.net-usb.com/share-hard-drive-over-network/#usb). Not advised for very large or non-powered drives. Get at least a SBC instead.  
 
 ### DiY   
 
 If you want more CPU performance or more flexibility/expandability than any reasonably priced pre-built NAS or Ad-hoc solution can offer, build out your own DiY NAS with Unraid/TrueNAS/OMV and commodity hardware.  
-Reference the DiY case/drive lists below, and the example builds under the [Wiki Sample Builds](/wiki/sample-builds#nasmedia-server-builds) page for full-part builds that range from used OEM pre-builts to ultimate DiY  
+Reference the DiY case/drive lists below, and the example builds under the [Wiki Sample Builds](/wiki/sample-builds#nasmedia-server-builds) page for full-part builds that range from used [OEM pre-builts](/wiki/sample-builds#135-medium-nas--media-server-9-26l---used) to a [low-power NAS](https://pcpartpicker.com/list/F4ct3w) to [the ultimate DiY](/wiki/sample-builds#1300-almost-ultimate-nas--media-server-59l).  
 
 **If you want to skirt the line between a pre-built NAS and DiY, look at the following, as these can provide the same CPU/GPU performance as a pre-built NAS for cheaper, but give you more OS support with Windows, Linux or Unraid/TrueNAS/OMV compatibility and DiY-like flexibility:**  
 - **Intel-based [Seeed Studio reServer (2 drives)](https://www.seeedstudio.com/reThings-reServer-c-2006.html)**  
@@ -385,5 +385,5 @@ If your storage is on a windows-based OS, [follow these instructions](https://su
 
 ---
 
-*This page was last updated on 2024-09-28*
+*This page was last updated on 2025-01-05*
 
