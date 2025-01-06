@@ -573,17 +573,17 @@ On the Dimensions tab, if you want to downscale to a different resolution, use R
 
 On the Video tab:  
 
-- Video Encoder: H.264 8-bit codec, for best client compatibility decoding. Alternatively, the H.265 10-bit codec is also possible and will yield better compression on >= 1080p content, but if you have old clients (pre-2016), decoding could be a problem. Consider what client hardware your files will play on first and their capabilities.  
+- Video Encoder: H.264 8-bit codec, for best client compatibility decoding. Alternatively, the H.265 10-bit codec is also possible and will yield better compression on >= 1080p content, but if you have old clients (pre-2016), decoding could be a problem. If old clients aren't an issue, choose the H.264 options for DVDs and H.265 for blu-rays.  
 
 - Framerate : Same as Source, Constant Framerate  
 
 - Encoder Options: Preset: Medium, Level: 4.1 (H.264), Level: 5.1 (H.265)  
 
-- Quality: Constant Quality is the more efficient encoding method. Use 19 RF (DVD) or 18 RF (1080p/4K Blu-Ray). Use 20-22 if you're really tight on disk space. If you need to hit a target file size, then use Avg Bitrate instead, but you should use bitrates of >= 1500 kbps (DVD), >= 3000 (720p), >= 7000 (1080p), >= 25000 (4K).  
+- Quality: Constant Quality is the more efficient encoding method. Use 19 RF (DVD) or 18 RF (1080p/4K Blu-Ray). Use 20-22 if you're really tight on disk space. If you need to hit a target file size, then use Avg Bitrate instead, but you should target bitrates of >= 1500 kbps (DVD), >= 3000 (720p), >= 7000 (1080p), >= 25000 (4K).  
 
 On the Audio tab, the default is to convert the audio track to a highly compatible AAC, stereo track. If you want to preserve HD audio from your content, you should set the track shown to Passthru instead. Optionally, add (under Tracks) an additional AAC (FDK)/Stereo audio track for client compatibility.  
 
-A lot of these settings are subjective, especially video and audio quality. Play around with the settings until you find ones that meet your requirements for a balance between visual/audio quality, disk space and encoding time.  
+A lot of these settings are subjective, especially video and audio quality. Play around with the settings until you find ones that meet your requirements for a balance between visual/audio quality, disk space and encoding time. Use [MediaInfo](https://mediaarea.net/en/MediaInfo) to check your output file's info.  
 
 For a more automated way to do this process, look at [Automatic Ripping Machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine)  
 
