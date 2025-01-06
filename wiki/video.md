@@ -682,7 +682,7 @@ Jellyfish Codec Tests - 1080p, 29.97fps - [h.264](https://drive.google.com/uc?ex
 -->
 [Jellyfin Video Bitrate Tests](https://repo.jellyfin.org/test-videos/) - 1080p/4k, h.264/HEVC/**AV1**, 60 fps, High/Main (8-bit), Main10 (10-bit), HDR10/DV, MP4  
 
-[Ideal 4K HEVC test](http://www.larmoire.info/jellyfish/media/jellyfish-140-mbps-4k-uhd-hevc-10bit.mkv) - Max UHD Blu-Ray bitrate - 4k, HEVC, SDR, 140Mbps, 10-bit, 30fps, mp4  
+[Ideal 4K HEVC test](https://drive.google.com/uc?export=download&id=1ZVwgFM7LEFTVE8KuNm_X7b1VfWcc-myN) - Max UHD Blu-Ray bitrate - 4k, HEVC, SDR, 120Mbps, 10-bit, 30fps, mp4  
 
 [Our HDR10 Test Videos/Patterns](https://drive.google.com/uc?export=download&id=1HbVqzhhtncjkowdxBgZ-ghycvy5w2cpv) - For Basic HDR video calibration  
 
