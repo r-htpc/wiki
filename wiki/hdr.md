@@ -71,8 +71,8 @@
           * Radeon FreeSync: Disabled (create an app profile for your media player if you don't want to disable this globally)
           <!-- Graphics -> Enhanced Sync: Disabled -->
   * *Windows settings:*
-    * Windows 1x: version >= 1803 (Settings app -> System -> About)
-    * [Calibrate your display for HDR in Windows](https://support.microsoft.com/en-us/windows/calibrate-your-built-in-display-for-hdr-content-in-windows-de1c66fa-6cc0-b327-e73a-1bac6bd46bc0#WindowsVersion=Windows_10)
+    * Check Windows 1x version: OS build >= 17134 (Settings app -> System -> About)
+    * Calibrate your display for HDR in Windows. *Windows 11:* [Windows App](https://support.microsoft.com/en-us/windows/calibrate-your-hdr-display-using-the-windows-hdr-calibration-app-f30f4809-3369-43e4-9b02-9eabebd23f19). *Windows 10:* Run Start->Calibrate Display Color 
 * *LibreElec:*  
   * [4K/HDR](https://wiki.libreelec.tv/configuration/4k-hdr)
 * *CoreElec:*  
