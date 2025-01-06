@@ -573,7 +573,7 @@ On the Dimensions tab, if you want to downscale to a different resolution, use R
 
 On the Video tab:  
 
-- Video Encoder: H.264 8-bit codec, for best client compatibility decoding. Alternatively, the H.265 10-bit codec is also possible and will yield better compression on >= 1080p content, but if you have old clients (pre-2016), decoding could be a problem. If old clients aren't an issue, choose the H.264 options for DVDs and H.265 for blu-rays.  
+- Video Encoder: H.264 8-bit codec, for best client compatibility decoding. Alternatively, the H.265 10-bit codec is also possible and will yield better compression on >= 1080p content, but if you have old clients (pre-2016), decoding could be a problem. If old clients aren't an issue, choose the H.264 option for DVDs and H.265 for blu-rays.  
 
 - Framerate : Same as Source, Constant Framerate  
 
