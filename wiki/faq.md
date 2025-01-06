@@ -567,26 +567,32 @@ However, these full quality files are large. DVDs can be up to 9.9GB (11 Mbps), 
 
 In Handbrake..  
 
-Open the content file and on the Summary tab, choose MP4 or MKV for the output Format. Neither changes the file size. MP4 is compatible with more devices, but MKV has better embedded subtitle and multi-track audio support. If you're using subtitles and want to embed them into the file, use MKV.  
+Open the content file and on the Summary tab, choose MPEG-4 (MP4) or Matroska (MKV) for the output Format. Neither changes the file size. MP4 is compatible with more devices, but MKV has better embedded subtitle and multi-track audio support. If you're using subtitles and want to embed them into the file, use MKV.  
 
 On the Dimensions tab, if you want to downscale to a different resolution, use Resolution Limit.  
 
 On the Video tab:  
 
-- Video Encoder: h.264 codec, for best client compatibility decoding. Alternatively, the h.265 codec is also possible and will yield better compression on >= 1080p content, but if you have old clients (pre-2016), decoding could be a problem. Consider what client hardware your files will play on first and their capabilities.  
+- Video Encoder: H.264 8-bit codec, for best client compatibility decoding. Alternatively, the H.265 10-bit codec is also possible and will yield better compression on >= 1080p content, but if you have old clients (pre-2016), decoding could be a problem. Consider what client hardware your files will play on first and their capabilities.  
 
 - Framerate : Same as Source, Constant Framerate  
 
-- Encoder Options: Encoder Preset: Medium, Encoder Tune: Film, Encoder Profile: High, Encoder Level: 4.1  
+- Encoder Options: Preset: Medium, Level: 4.1 (H.264), Level: 5.1 (H.265)  
 
-- Quality: Constant Quality is the more efficient encoding method. Use 19 RF (DVD) or 18 RF (Blu-Ray). Use 20 if you're really tight on disk space. If you need to hit a target file size, then use Avg Bitrate instead, but you should use bitrates of >= 1500 kbps (DVD), >= 3000 (720p), >= 7000 (1080p), >= 25000 (4K).  
+- Quality: Constant Quality is the more efficient encoding method. Use 19 RF (DVD) or 18 RF (1080p/4K Blu-Ray). Use 20-22 if you're really tight on disk space. If you need to hit a target file size, then use Avg Bitrate instead, but you should use bitrates of >= 1500 kbps (DVD), >= 3000 (720p), >= 7000 (1080p), >= 25000 (4K).  
 
-On the Audio tab, the default is to convert the audio track to a highly compatible AAC, stereo track. If you want to preserve HD audio from your content, you should set the track shown to Passthru instead and then optionally add an additional AAC/Stereo audio track for client compatibility.  
+On the Audio tab, the default is to convert the audio track to a highly compatible AAC, stereo track. If you want to preserve HD audio from your content, you should set the track shown to Passthru instead. Optionally, add (under Tracks) an additional AAC (FDK)/Stereo audio track for client compatibility.  
 
 A lot of these settings are subjective, especially video and audio quality. Play around with the settings until you find ones that meet your requirements for a balance between visual/audio quality, disk space and encoding time.  
 
 For a more automated way to do this process, look at [Automatic Ripping Machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine)  
 
+Example encode:  
+- Source: **400MB** - 4K - 53.6Mbps - H.265 10-bit - DTS-HD MA
+  - Destination @ H.265 10-bit, RF 18, audio passthru: **208MB**, 28.2Mbps (52% of original size)  
+  - Destination @ H.265 10-bit, RF 20, audio passthru: **154MB**, 20.9Mbps (38.5%)  
+  - Destination @ H.264, RF 18, audio passthru: **285MB**, 38.5Mbps (71.1%)  
+  - Destination @ H.264, RF 20, audio passthru: **203MB**, 27.4Mbps (50.7%)  
 
 ## What do I need for 4k ultraHD compatibility?
 
