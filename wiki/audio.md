@@ -672,7 +672,7 @@ PLEX MEDIA PLAYER/PLEX HTPC:
 
 5. If Device is HDMI: Check box for "Passthrough: Dolby Digital (AC3)". Uncheck boxes for "Passthrough: \<everything else\>"  
 
-SYSTEM-WIDE: If you want to encode all of your system audio into Dolby Digital, either for compatability or for volume-control reasons, see the [section below](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) on encoding gaming audio into Dolby Digital Live, which does the same thing, on a lower-level.  
+SYSTEM-WIDE: If you want to encode all of your system audio into Dolby Digital, either for compatability, bandwidth reasons, or for volume-control reasons, see the ALTERNATIVES [section below on encoding gaming audio](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) into Dolby Digital Live, which does the same thing, on a lower-level.  
 
 NON-REALTIME: [Handbrake](https://handbrake.fr/), [ffmpeg-gui](https://www.videohelp.com/software/clever-FFmpeg-GUI), [eac3to](https://www.videohelp.com/software/eac3to), [tdarr](https://tdarr.io/)  
 
@@ -680,26 +680,28 @@ NON-REALTIME: [Handbrake](https://handbrake.fr/), [ffmpeg-gui](https://www.video
 
 ### How do I configure my HTPC to output sound for games to my sound system?
 
-First, most games output audio in the **PCM 5.1** format. Not all audio interfaces and connection schemes support this bandwidth; those that don't will give you 2.0/Stereo instead.  
+First, most games output audio in the **PCM 5.1** format. Not all audio interfaces and connection schemes support this bandwidth; those that don't will give you 2.0/Stereo instead. Your PCM capabilities are what show up in your OS speaker configuration.  
 
 The easiest and best way to connect your components is: PC (HDMI OUT) -> Sound System (HDMI IN) -> TV (HDMI IN/ARC). This will give you PCM 5.1 capability. See **Scenario #1** in the Hardware Setup section above for details
 
-If you need **G-Sync/Freesync** (and not plain VRR) for gaming though, this won't work, as Sound Systems like AVRs/Soundbars won't pass through those VRR techs to the TV. In that case, and if you have **HDMI eARC** support on your Sound System and/or TV, you can connect: PC (HDMI OUT) -> TV (HDMI IN), TV (HDMI eARC) -> Sound System. See **Scenario #2** in the Hardware Setup section above for details before moving on.  
+If you need **G-Sync/Freesync** (and not plain VRR) for gaming though, this won't work, as Sound Systems like AVRs/Soundbars won't pass through those VRR techs to the TV. In that case, and if you have **HDMI eARC** support on your Sound System and TV, you can connect: PC (HDMI OUT) -> TV (HDMI IN), TV (HDMI eARC) -> Sound System. See **Scenario #2** in the Hardware Setup section above for details before moving on.  
 
 If neither scenario is viable, you should split up the video and audio paths with **Scenario #3** in the Hardware Setup section above.
 
 Finish the basic setup by following the [Decoding / Channelization software setup](/wiki/audio#softwareos-setup) section above, to configure your speakers for Windows, if you haven't already. 
 
+*ALTERNATIVES*  
 If you can't support the above hardware methods, but have plain **ARC** support or even only **Optical**, you can use that, but **you will only get PCM 2.0/Stereo sound by default**. The only way around this to still get 5.1 sound is to encode the game audio with a tech called **Dolby Digital Live**. To do this, you can either:  
 
  1. Buy an internal/external sound card with Dolby Digital Live encoding support (e.g. Sound Blaster X4/X3/Z SE) and connect it via **Optical** to your Sound System  
 
  2. For **HDMI ARC**: Use the APO driver to unofficially install Dolby Digital encoding for over HDMI ARC from your PC. This involves installing the [APO driver setup](https://puresoftapps.blogspot.com/2018/04/realtek-apo-driver.html) with the "FX Configurator" & "Dolby DS1" features chosen, running the "FX Configurator" app, selecting your HDMI/Optical interface Endpoint, clicking "Product Config Tool", applying the "Dolby Digital Plus Home Theater (HDMI/SPDIF)" product, and finally open Windows Control Panel -> Sound -> \<your_sound_device\> -> Properties -> Advanced tab, and choose Dolby Digital from the Default Format drop-down.  
 
- 3. For **OPTICAL/SPDIF**: For Realtek-based Optical/SPDIF you should probably use the [patched drivers](https://github.com/Loliconera/Unlocked-Dolby-Digital-Live-DTS-Interactive-for-Realtek-HD-Audio-Drivers-for-Windows-10-and-11) to unlock DDL. If it doesn't work for you or you have a non-Realtek audio chip, use the previous HDMI ARC way.  
+ 3. For **OPTICAL/SPDIF**: For Realtek motherboard-based Optical/SPDIF you should probably use the [patched drivers](https://github.com/Loliconera/Unlocked-Dolby-Digital-Live-DTS-Interactive-for-Realtek-HD-Audio-Drivers-for-Windows-10-and-11) to unlock Dolby Digital Live. If it doesn't work or you are using non-Realtek or non-Motherboard based optical, use the HDMI ARC way above.  
 
  4. As a last resort, you can output to just analog surround sound speakers connected directly to the PC, if your motherboard supports it.  
 
+*SPATIAL AUDIO*  
 If you want to, and can, support **Dolby Atmos** from your games:
 * Enable audio passthrough and eARC in your Display 
 * Install the [Dolby Access](https://www.microsoft.com/en-us/store/p/dolby-access/9n0866fs04w8) app from the Microsoft store 
