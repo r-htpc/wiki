@@ -225,7 +225,7 @@ MOBO		|Gigabyte A520I AC ITX					|	$110	|[pcpartpicker](https://pcpartpicker.com
 CPU			|AMD Ryzen 5500GT APU (65W)					|	$110	|[pcpartpicker](https://pcpartpicker.com/product/VcvD4D/amd-ryzen-5-5500gt-36-ghz-6-core-processor-100-100001489box)	|ALT: [Ryzen 8500G](https://pcpartpicker.com/product/y3XV3C/amd-ryzen-5-8500g-41-ghz-6-core-processor-100-100000931box) ($150)
 MEM			|TEAMGROUP T-Force Vulcan Z 2x8GB DDR4-3200			|	$35		|[pcpartpicker](https://pcpartpicker.com/products/memory/#Z=16384002&sort=price&xcx=0&ff=ddr4&S=3200,7200&L=160,180)	|ALT: [Crucial 2x8GB DDR5-5600](https://pcpartpicker.com/product/y4BzK8/crucial-classic-16-gb-2-x-8-gb-ddr5-5600-cl46-memory-ct2k8g56c46u5) ($45)
 STORAGE	 	|Kingston NV2 500GB NVMe M.2 SSD	(OS)				|$38		|[pcpartpicker](https://pcpartpicker.com/product/QvpzK8/kingston-nv2-500-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-snv2s500g)	|ALT: WD Black SN770 500 GB M.2 ($60)
-COOL		|Thermalright AXP90-X47 CPU Cooler, 47mm			|	$30		|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|OPTIONAL: Quieter than stock cooler
+COOL		|Thermalright AXP90-X47 CPU Cooler, 47mm			|	$30		|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|OPTIONAL: Quieter than stock cooler.
 TOTAL		|										|	$423	|	|
 
 <!-- Sub-Section -->
@@ -548,7 +548,7 @@ CASE|Fractal Design Node 304|$100|[newegg](https://www.newegg.com/black-fractal-
 CPU|Intel i3-12100 CPU, 60W|$115|[pcpartpicker](https://pcpartpicker.com/product/qrhFf7/intel-core-i3-12100-33-ghz-quad-core-processor-bx8071512100)|Passmark CPU Mark: [13000+](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i3-12100&id=4687). ALT: i5-12400 ($135)
 MOBO|ASRock B760M-ITX/D4|$150|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&s=40&f=8&sort=price&page=1)|ALT: [B660M/B760M uATX mobo](https://pcpartpicker.com/products/motherboard/#f=7&sort=price&xcx=0&s=40&K=5,13)
 MEM|Team T-Force Vulcan Z 32GB 2x16GB DDR4-3200|$50|[pcpartpicker](https://pcpartpicker.com/product/bcnypg/team-t-force-vulcan-z-32-gb-2-x-16-gb-ddr4-3200-cl16-memory-tlzgd432g3200hc16fdc01)|ALT: Team T-Force Vulcan Z 16GB 2x8GB DDR4-3200 ($35)
-STORAGE|PNY Attache 4 32GB USB Flash Drive (BOOT)|$12|[amazon](https://www.amazon.com/PNY-Attache-Drives-3-Pack-P-FD32GX3ATT4-GE/dp/B07YVY2H1J)|
+STORAGE|PNY Attache 4 32GB USB Flash Drive (BOOT)|$12|[amazon](https://www.amazon.com/PNY-Attache-Drives-3-Pack-P-FD32GX3ATT4-GE/dp/B07YVY2H1J)| USB 2.0 for low heat/longevity
 STORAGE|WD SN770 1TB NVMe M.2 SSD (APP/CACHE)|$70|[pcpartpicker](https://pcpartpicker.com/product/YVytt6/western-digital-1-tb-m2-2280-nvme-solid-state-drive-wds100t3x0e)|ALT: [SK Hynix P31 1TB](https://pcpartpicker.com/product/xNCFf7/sk-hynix-gold-p31-1-tb-m2-2280-pcie-30-x4-nvme-solid-state-drive-shgp31-1000gm-2)
 STORAGE|3 x Seagate Exos X14 12TB HDD (DATA)|$540|[disctech](https://www.disctech.com/Seagate-Exos-X14-ST12000NM0538-12TB-3.5-LFF-6Gbps-7.2K-RPM-FastFormat-512e-Enterprise-SATA-Hard-Disk)| SEPARATE. ALT: [Ultrastar HC530 14TB](https://www.disctech.com/interface-types/SATA?order=relevance:asc&keywords=hc530) (better $/GB)
 STORAGE|LSI 9207-8i, in IT/HBA mode|$40|[ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=9207+8i+%2Bcables&_sacat=0&LH_TitleDesc=0&_dmd=1&_stpos=80232-6476&_odkw=9201+%2B16i+%2Bcables&_osacat=0&_sop=15&LH_PrefLoc=2&_ipg=60&_sadis=15)|OPTIONAL. For more than 4xSATA ports/better controller support. ALT: [SATA card](https://www.amazon.com/dp/B0BNFBXBNS)
@@ -603,8 +603,8 @@ CASE		|	Fractal Design Meshify 2			|	$130	|	[pcpartpicker](https://pcpartpicker.
 CPU		|	Intel i5-12500 6C/12T CPU (65W)			|	$200	|	[pcpartpicker](https://pcpartpicker.com/product/hvC48d/intel-core-i5-12500-3-ghz-6-core-processor-bx8071512500)	|ALT: [Intel i5-12600k](https://pcpartpicker.com/product/BB4Ycf/intel-core-i5-12600k-37-ghz-6-core-processor-bx8071512600k)
 MOBO		|ASRock Z690 Taichi DDR5 ATX			|	$200	|	[pcpartpicker](https://pcpartpicker.com/product/VVC48d/asrock-z690-taichi-atx-lga1700-motherboard-z690-taichi)	|ALT: [Other DDR5 Motherboards](https://pcpartpicker.com/products/motherboard/#h=2,8&K=6,13&sort=price&c0=1x2500-1x1000,1x2500&xcx=0&s=40&f=2,7&mt=ddr5)
 MEM		|	G.Skill Ripjaws S5 64GB (2x32GB) DDR5-6000	|	$160	|	[pcpartpicker](https://pcpartpicker.com/product/6npQzy/gskill-ripjaws-s5-64-gb-2-x-32-gb-ddr5-6000-cl36-memory-f5-6000j3636f32gx2-rs5k)	| ALT: [32GB (2x16GB) DDR5](https://pcpartpicker.com/products/memory/#xcx=0&Z=32768002&sort=price&ff=ddr5&S=5600,8400)
-STORAGE		|	PNY Attache 4 32GB USB Flash Drive (BOOT)	|	$12 |	[amazon](https://www.amazon.com/PNY-Attache-Drives-3-Pack-P-FD32GX3ATT4-GE/dp/B07YVY2H1J)		|
-STORAGE		|	2x Solidigm P44 Pro 1TB NVMe M.2 SSD (APP/CACHE)	|	$200	|	[pcpartpicker](https://pcpartpicker.com/product/vrTp99/solidigm-p44-pro-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-ssdpfkkw010x7x1)	|ALT: SK Hynix P31/P41
+STORAGE		|	PNY Attache 4 32GB USB Flash Drive (BOOT)	|	$12 |	[amazon](https://www.amazon.com/PNY-Attache-Drives-3-Pack-P-FD32GX3ATT4-GE/dp/B07YVY2H1J)		| USB 2.0 for low heat/longevity
+STORAGE		|	2x SK Hynix P41 1TB NVMe M.2 SSD (APP/CACHE)	|	$160	|	[pcpartpicker](https://pcpartpicker.com/product/sw2WGX/sk-hynix-platinum-p41-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-shpp41-1000gm-2)	|ALT: Samsung 990 Pro
 STORAGE		|	11x Seagate Exos X16 14TB SATA HDD (DATA)		|	$2300	|	[disctech](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/14TB/manufacturer/Seagate?order=onlinecustomerprice:asc)	| SEPARATE. ALT: WD Ultrastar DC HC530 14TB
 STORAGE		|	LSI 9207-8i Adapter (x8) + Cables, in IT/HBA mode	|	$40	|	[ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=9207+8i+%2Bcables&_sacat=0&LH_TitleDesc=0&_dmd=1&_stpos=80232-6476&_odkw=9201+%2B16i+%2Bcables&_osacat=0&_sop=15&LH_PrefLoc=2&_ipg=60&_sadis=15)	|ALT: [Adaptec ASR 71605 (x16)](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=adaptec+asr+71605+%2Bcables&_sacat=0&LH_TitleDesc=0&_odkw=Adaptec+ASR+71605&_osacat=0) ($50)
 STORAGE          |       SATA Power Splitter Cables                                  |       $15  |       [amazon](https://www.amazon.com/Cable-Matters-Pack-Power-Splitter/dp/B012BPLW08)   |  
@@ -614,7 +614,7 @@ PSU		|	SeaSonic FOCUS Plus 750 Gold ATX PSU	|	$100	|	[pcpartpicker](https://pcpa
 SOFTWARE	|	Unraid Unleashed - Unlimited device license		|	$110	|	[limetech](https://unraid.net/pricing)	|
 SOFTWARE	|	Plex Media Server				|	$0	|	[Plex](https://www.plex.tv/downloads)		|Free
 LICENSE		|	Plex Pass					|	$120	|	[Plex](https://www.plex.tv/plex-pass/)		|Lifetime cost or $40/year, $5/month.
-TOTAL		|							|	$1337	|			|
+TOTAL		|							|	$1297	|			|
 
 <!-- Sub-Section -->
 
@@ -804,17 +804,17 @@ TOTAL			|															|	**$229**	|			|
 ### 1080p Gaming Box (8.8L)
 
 This is a straight up gaming build for 1080p with High settings, averaging about 90-100 fps which is good for a 120 Hz TV.  
-If you want a low profile case, look at the ALT: config with a Silverstone Milo Z/ML-07 instead (you'll have to add an [ITX mobo](https://pcpartpicker.com/products/motherboard/#xcx=0&s=33&f=8&sort=price&page=1) and [SFX PSU](https://pcpartpicker.com/products/power-supply/#th=5&sort=price&page=1&A=450000000000,2050000000000)).  
+It simplifies things by including the motherboard and PSU. If you want a low profile case or more flexibility, look at the ALT: config with a Silverstone ML-07 case instead (you'll have to add an [ITX mobo](https://pcpartpicker.com/products/motherboard/#xcx=0&s=33&f=8&sort=price&page=1) and [SFX PSU](https://pcpartpicker.com/products/power-supply/#th=5&sort=price&page=1&A=450000000000,2050000000000)).  
 
 PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
 :--|:--|:--|:--|:--
 CASE/MOBO/PSU		|Asrock DeskMeet X300W w/500W PSU					|$170	|[newegg](https://www.newegg.com/asrock-deskmeet-x300w-b-bb-box-us/p/N82E16856158083)	|6.6" (W) x 9.3" (D) x 8.7" (H), [specs](https://www.asrock.com/nettop/AMD/DeskMeet%20X300%20Series/index.asp#Specification). ALT: ML-07+ITX+SFX
 CPU	|	AMD Ryzen 5700X (65W)				|	$150	|pcpartpicker	|ALT: AMD Ryzen 5700X3D
 GPU	|	AMD RX 6600 8GB			|	$200	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&c=511&L=69000000,200000000&sort=price&page=1)	|<= 200 mm (L). ALT: AMD RX 7600 8GB
-MEM	|	Teamforce Vulcan Z 16GB 2x8GB DDR4-3600	|	$35	|pcpartpicker	|ALT: G.Skill Ripjaws V 16 GB 2x8GB DDR4-3600 ($40)
+MEM	|	Teamforce Vulcan Z 32GB 2x16GB DDR4-3600	|	$55	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr4&S=3600,3733&Z=32768002&sort=price)	|ALT: 16 GB 2x8GB ($35)
 STORAGE	|	WD SN580 1TB M.2 (OS/GAMES)	|	$60	|pcpartpicker	|
-COOL		|Thermalright AXP90-X47 CPU Cooler, 47mm			|	$25		|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|Quieter than stock cooler
-TOTAL	|						|	**$640**	|	
+COOL		|Thermalright AXP90-X47 CPU Cooler, 47mm			|	$25		|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|Quieter than stock cooler. *ML-07*: [AXP120-X67](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=66500000,72600000&sort=price&m=113)
+TOTAL	|						|	**$660**	|	
 
 <!-- Sub-Section -->
 
@@ -829,12 +829,12 @@ CASE	|	Silverstone Milo Z/ML-07		|	$105	|pcpartpicker	|15" (W)x4.1" (H)x13.8" (D
 CPU	|	AMD Ryzen 5700X3D (105W)			|	$200	|pcpartpicker	|ALT: AMD Ryzen 7600X3D
 GPU	|	AMD RX 6750 XT 12GB			|	$310	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#c=523,495&xcx=0&sort=price)	|ALT: AMD RX 7800 XT 16 GB
 MOBO	|	ASRock B550M-ITX/ac		|	$135	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&c=147,124,133,145,123,132,138&sort=price)	|ALT: Gigabyte B650 GAMING X AX ATX
-MEM	|	Teamforce VulcanZ 32GB 2x16GB DDR4-3600	|	$55	|pcpartpicker	|ALT: G.Skill Flare S5 2x16GB 32GB DDR5-6000
+MEM	|	Teamforce VulcanZ 32GB 2x16GB DDR4-3600	|	$55	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr4&S=3600,3733&Z=32768002&sort=price)	|ALT: G.Skill Flare S5 2x16GB 32GB DDR5-6000
 STORAGE	|	WD SN770 500GB M.2 (OS)	|	$50	|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&D=1&A=450000000000,525000000000&sort=price&page=1)	|ALT: WD SN770 1TB M.2 (OS)
-STORAGE	|	Solidigm P44 Pro 2TB M.2 (GAMES)	|	$140	|pcpartpicker	|
+STORAGE	|	WD SN770 2TB M.2 (GAMES)	|	$120	|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&D=1&A=1800000000000,2048000000000&sort=price&t=0)	|
 PSU	|	Cooler Master V 850W SFX		|	$105	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&p=1,2&A=550000000000,2050000000000&sort=price&page=1)	|ALT: Corsair RM650x (2021) ATX
 COOL	|	Thermalright AXP120-X67	CPU Cooler	|	$35	|pcpartpicker	|ALT: Thermalright Silver Soul 135 (Air) / Arctic Liquid Freezer II 240 (AIO)
-TOTAL	|						|	**$1135**	|	
+TOTAL	|						|	**$1115**	|	
 
 <!-- Section -->
 
