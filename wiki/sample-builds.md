@@ -780,10 +780,9 @@ TOTAL		|											|$770	|		|
 
 This budget gaming build runs on Manjaro Linux w/Steam.  
 It's good for 1080p, High @ 60 fps+ on normal games, Medium @ 45-60 fps on AAA games.  
-It uses a Pre-built PC and GPU from Ebay. Prices are for buying via auction/Best Offer. Buy It Now will cost you more.  
-Make sure you pick a GPU with a 6-pin (not 8) power connector and a PC with 2 sata connectors free for GPU power.  
-Anything HP/Dell/Lenovo with an i7-6700 up to a i5-8500 is fine. You can usually find one with an M.2 SSD so you don't have to purchase one separately.  
-Manjaro linux that we use here is fine for Steam and comes pre-installed with it. Simply download the Manjaro KDE Plasma iso, write it to the USB key with Etcher, boot from it and install to the SSD. Install the nvidia propritary drives, then Enable Steam Play and Proton in the Compatability preferences of the Steam client.  
+It uses a Pre-built PC and GPU from Ebay.  
+Make sure you pick a GPU with a 6-pin (not 8) power connector and a PC with 2 sata connectors free for GPU power. Any Dell/HP/Lenovo MT/tower from the search with an i7-6700 - i5-8500 is fine. You can usually find one with an M.2 SSD so you don't have to purchase one separately like listed below.  
+Manjaro linux OS is free and fine for Steam use and comes pre-installed with it. Simply download the Manjaro KDE Plasma iso, write it to the USB flash drive with Etcher, boot from it and install to your SSD. Install the nvidia non-free/proprietary drivers at install or [later](https://wiki.manjaro.org/index.php/Configure_Graphics_Cards#Identifying_Available_Drivers), then Enable Steam Play and Proton in the Compatability preferences of the Steam client.  
 Alternatively, you can run Windows if you want, and you have an activation key.  
 
 PART			|BRAND/MODEL												|	PRICE	|	VENDOR	|	NOTES
