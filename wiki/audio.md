@@ -20,23 +20,21 @@ There are many digital forms that audio can take. The two main ones we will be d
 
 1. Audio encoded in a particular codec. e.g. Dolby Atmos, DTS, AAC, etc.. 
 Each codec has its own bandwidth and number of channels supported. Lossless (uncompressed) codecs are preferred over lossy (compressed) codecs for better quality, where available. As you will read, whether you can listen to a lossless vs. lossy codec will depend on the support by the Interfaces and Sound System you use.  
-2. Audio encoded in a common, uncompressed, non-specific codec. i.e. what's called PCM. PCM is a digital representation of an Analog signal. It has no knowledge of the codec being played. Sometimes this is used by default (depending on the app). Other times, this is used when an interface or the Sound System doesn't support a particular codec you're trying to play. For instance. Atmos isn't supported by your Sound System, so your HTPC will decode Atmos and encode it in individual PCM channels before sending it to the Sound System. A scenario will be laid out when we get to Setup below.  
+2. Audio encoded in a common, uncompressed, non-specific codec. i.e. what's called PCM. PCM is a digital representation of an Analog signal. It has no knowledge of the codec being played. This is the DEFAULT output of the operating system, web browsers and typically gaming audio. Other times, this is used when an interface or the Sound System doesn't support a particular codec you're trying to play. For instance. DTS isn't supported by your Sound System, so your HTPC will decode DTS and encode it in individual PCM channels before sending it to the Sound System.  
 
-**Support for specific codecs is wide and varied. When researching digital equipment (such as your a AV Receiver, sound bar, and/or TV for passthrough), make sure it supports the codec(s) you want to decode or passthrough over the interfaces you want. If one piece of equipment in the audio workflow doesn't support a codec, you may end up with PCM, or no sound at all when playing that codec. Read spec pages, user manuals, [rtings.com](https://www.rtings.com) reviews, [flatpanelshd.com](https://www.flatpanelshd.com/), and/or [displayspecifications.com](https://www.displayspecifications.com/).**
+**Support for specific codecs is wide and varied. When researching your digital equipment (such as your a AV Receiver, sound bar, and/or TV for passthrough), make sure it supports the codec(s) you want to decode or passthrough over the interfaces you want. If one piece of equipment in the audio workflow doesn't support a codec, you may end up with PCM, or no sound at all, when playing that codec. Read spec pages, user manuals, [rtings.com](https://www.rtings.com) reviews, [flatpanelshd.com](https://www.flatpanelshd.com/), and/or [displayspecifications.com](https://www.displayspecifications.com/) to determine what audio interfaces you have**
 
-Interface support for codecs is also varied because of bandwidth limitations. See the next section on what codecs each interface supports up to. An example of one limitation that can exist is the codecs that can be played over a HDMI ARC connection, which is in wide use on TVs for audio return to a Sound System. Under normal circumstances, HDMI ARC only supports Stereo PCM and Lossy Dolby Digital+ 5.1 Atmos/DTS 5.1. 
-
-If you are sending codecs to your sound system as-is (bitstreaming), you do not need audio drivers/software for them on your HTPC. You may though if you are using special features that will decode the audio stream instead, like headphones access or re-encoding an audio stream for gaming.  
+Interface support for codecs is varied because of bandwidth limitations. See the next section on what codecs each interface supports up to. An example of one common limitation that can exist is the codecs that can be played over a HDMI ARC connection, which is in wide use on TVs for audio return to a Sound System. Under normal circumstances, HDMI ARC only supports Stereo PCM and Lossy Dolby Digital+ 5.1 Atmos/DTS 5.1. 
 
 Some audio tracks will have multiple codec streams in them for compatibility. For instance, you may see an audio track which has both Dolby TrueHD and DD in it, so if TrueHD cannot be played, the lossy DD version will then be tried.  
 
 These are the codecs/encoded formats you're likely to run into:  
 
-PCM/LPCM: Lossless. # of channels dependent on interface. Optical/HDMI ARC only supports 2 channels. More than 2 channels can be play over regular HDMI/eARC/Displayport/RCA/3.5mm. **Common in PC Gaming audio. Default OS output**  
+PCM/LPCM: Lossless. # of channels dependent on interface. Optical/HDMI ARC only supports 2 channels. More than 2 channels can be play over regular HDMI/eARC/Displayport/RCA/3.5mm. **Common in PC Gaming audio and web browsers. Default OS output**  
 
 AAC/HE-AAC: Lossy, <= 320 Kbps. Up to 48 channels. Almost always cannot be bitstreamed (esp. in 5.1 form) due to current lack of Sound System support. Also applies to FLAC/MP3/WAV. 
 
-DD/AC-3: Dolby Digital. Lossy, <= 640 kbps. Up to 5.1 channels. Common in streaming media, physical media. Can be played over Optical/HDMI/HDMI ARC  
+DD/AC-3: Dolby Digital. Lossy, <= 640 kbps. Up to 5.1 channels. Common in commercial streaming media, physical media. Can be played over Optical/HDMI/HDMI ARC  
 
 Dolby Digital Live: Encodes PCM multichannel audio into a lossy 5.1 16-bit/48kHz 640 Kbps DD stream for transport over S/PDIF or ARC. [Used in gaming with specific soundcards or modded APO drivers](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system).  
 
@@ -500,7 +498,7 @@ You can read more about Normalization [here](https://www.realhd-audio.com/?p=674
 
 ### Why does my Operating System only show Stereo/2-channels in the sound control panel when i have a surround sound channel system?
 
-In order to determine what audio codec/channel configuration is supported, the operating system will usually get its information from something called EDID, via the display interface (HDMI/DVI/etc..) and then show what's capable for **PCM/decoded audio**, NOT bistreamed audio (like Dolby) in the sound control panel.
+In order to determine what audio codec/channel configuration is supported, the operating system will usually get its information from something called EDID, via the display interface (HDMI/DVI/etc..) and then show what's capable for **PCM/decoded audio**, NOT bitstreamed audio (like Dolby Digital/DTS), in the sound control panel. If you don't know the difference, start reading at the beginning of this page for a primer
 
 If you're connecting your HTPC directly to a TV first, it will usually detect it as Stereo in the sound device configuration, per either the TV's internal speakers or older HDMI ARC and Optical ports, which only support 2-channel PCM audio. If you want to send PCM 5.1, you either have to:
  - Change to a different HW setup to get around the audio interface with this limitation ([as per the setup scenarios above](/wiki/audio#hardware-setup))
@@ -508,7 +506,7 @@ If you're connecting your HTPC directly to a TV first, it will usually detect it
  - [Encode your PCM 5.1 audio into Dolby bitstreamed audio](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital) 
  - Upgrade your display/[sound system compoents](/wiki/audio#what-kind-of-sound-system-should-i-get) that have the [limited interface(s)](/wiki/audio#audio-transportsinterfaces).
 
-If you're confident [your display](https://www.rtings.com/tv/tests/inputs/5-1-surround-audio-passthrough) and sound system interfaces support PCM above 2 channels or support the codecs you want to bitstream, it is possibly solved by exporting the forementioned EDID data coming from the TV and then editing the Audio Block portion of it to add the audio formats supported by your sound system (Way #2/#3).  
+If you're confident [your display](https://www.rtings.com/tv/tests/inputs/5-1-surround-audio-passthrough) and sound system interfaces support PCM above 2 channels or support the codecs you want to bitstream, and you have configured them as such, this is possibly solved by exporting the forementioned EDID data coming from the TV and then editing the Audio Block portion of it to add the audio formats supported by your sound system (Way #2/#3).  
 
 If you're connecting your HTPC directly to a Surround sound system first and then passing through the video to a TV (i.e. Scenario #1 above), it will sometimes detect the audio capabilities of the TV at the end of the HDMI link and not the capabilities of the Surround sound system. This can sometimes be solved by a setting on your AV Receiver (if applicable). See Way #1 below. If that doesn't work, it is usually solved by exporting the EDID data coming from the TV and then editing the Audio Block portion of it to add the audio formats supported by your sound system (Way #2/#3).  
 
