@@ -772,7 +772,7 @@ For 5.1:
 Get a [Logitech Z906](https://www.logitech.com/en-us/products/speakers/z906-surround-sound-system.980-000467.html) that supports both analog and optical, with DD/DTS decoding. 
 
 3. If you have limited space and a small budget:  
-$600 : $250 Sony STR-DH590 receiver, $220 [Dayton Audio BS36 3.0](https://www.parts-express.com/Dayton-Audio-BS36-36-LCR-Speaker-Bar-Black-300-684) Speaker Bar, $130 Dayton Audio MKSX4/SUB-800 Sub  
+   $680 : $300 Sony STR-DH590 receiver, $250 [Dayton Audio BS41 3.0](https://www.parts-express.com/Dayton-Audio-BS41-41-LCR-Speaker-Bar-Black-300-686?quantity=1) Speaker Bar, $130 Dayton Audio [MKSX4](https://www.parts-express.com/Dayton-Audio-MKSX4-Four-4-Driver-Low-Profile-Passive-Subwoofer-300-495)/SUB-800 Sub  
 *- HDMI 2.0, 4K HDR, 3.1 channels effective (5.1 expandable), 90W, TrueHD/DTS-HD MA lossless sound, ARC*  
 $450 : Vizio M512a-H6/Samsung HW-Q600C Sound Bar  
 *- HDMI 2.0, 4K HDR, 5.1.2 (Vizio)/3.1.2-5.1.2 (Samsung) channels, Dolby Atmos/DTS:X lossless sound, eARC*  
