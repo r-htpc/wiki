@@ -607,11 +607,11 @@ See the top of our [Sample Builds](/wiki/sample-builds#htpc-pre-builtsmini-pcs) 
 
 See the DiY section of our [Sample Builds](/wiki/sample-builds#htpc-diy-builds) wiki page. 
 
-4k local content: [HDMI 2.0 motherboard](/wiki/hdmi20) (1.4 if only 30fps non-HDR), >= [Intel 7th Gen/Gemini Lake/Athlon 200GE/Ryzen 2200G CPU](/wiki/components#cpus) **OR** CPU (>= circa 2008) + dGPU >= [Nvidia GT1030/AMD RX 550/5x00](/wiki/components#gpusgraphics) **(REC: Ryzen 5500GT+B550 mobo)**.  
+4k local content: [HDMI 2.0 motherboard](/wiki/hdmi20) (1.4 if only 30fps non-HDR) + >= [Intel 7th Gen/Gemini Lake/Athlon 200GE/Ryzen 2200G CPU](/wiki/components#cpus) **OR** CPU (>= circa 2008) + dGPU >= [Nvidia GT1030/AMD RX 550/5x00](/wiki/components#gpusgraphics) **(REC: Ryzen 5500GT+B550 mobo)**.  
 
-4k youtube: [HDMI 2.0 motherboard](/wiki/hdmi20), >= [Intel 7th Gen/Gemini Lake/Athlon 200GE/Ryzen 2200G CPU](/wiki/components#cpus) **OR** CPU (>= circa 2008) + dGPU >= [Nvidia GT1030 GDDR5/AMD RX 5x00](/wiki/components#gpusgraphics) **(REC: Ryzen 5500GT+B550 mobo)**.  
+4k youtube: [HDMI 2.0 motherboard](/wiki/hdmi20) + >= [Intel 7th Gen/Gemini Lake/Athlon 200GE/Ryzen 2200G CPU](/wiki/components#cpus) **OR** CPU (>= circa 2008) + dGPU >= [Nvidia GT1030 GDDR5/AMD RX 5x00](/wiki/components#gpusgraphics) **(REC: Ryzen 5500GT+B550 mobo)**.  
 
-4k netflix: HDCP 2.2 display, [HDMI 2.0 motherboard](/wiki/hdmi20), >= [Ryzen 3200G/3400G CPU](/wiki/components#cpus) **OR** >= [Intel 7th Gen/Gemini Lake CPU](/wiki/components#cpus) **OR** CPU (>= circa 2008) + dGPU >= [Nvidia GTX 1050 3GB/AMD RX 550/5x00](/wiki/components#gpusgraphics) **(REC: Ryzen 5500GT+B550 mobo)**. Windows 10+. Microsoft [HEVC Video Extensions](https://www.microsoft.com/en-us/p/hevc-video-extensions/9nmzlz57r3t7). Intel MEI driver/ME firmware (Intel iGPU). Netflix app/Microsoft Edge browser. Netflix [Premium Plan](https://help.netflix.com/en/node/24926). Netflix [Test Patterns](https://www.netflix.com/title/80018499).  
+4k netflix: HDCP 2.2 display(s), [HDMI 2.0 motherboard](/wiki/hdmi20) + >= [Ryzen 3200G/3400G/Intel 7th Gen/Gemini Lake CPU](/wiki/components#cpus) **OR** CPU (>= circa 2008) + dGPU >= [Nvidia GTX 1050 3GB/AMD RX 550/5x00](/wiki/components#gpusgraphics) **(REC: Ryzen 5500GT+B550 mobo)**. Windows 10+. Microsoft [HEVC Video Extensions](https://www.microsoft.com/en-us/p/hevc-video-extensions/9nmzlz57r3t7). Netflix app/Microsoft Edge browser. Intel MEI driver/ME firmware (Intel iGPU). Netflix [Premium Plan](https://help.netflix.com/en/node/24926). Netflix [Test Patterns](https://www.netflix.com/title/80018499).  
 
 4k/UHD Blu-Ray disc playing: HDCP 2.2 display, [HDMI 2.0 motherboard w/SGX support](/wiki/hdmi20), [Intel i3/5/7/9](/wiki/components#cpus) **7th-10th Gen CPU w/iGPU ONLY** **(REC: Intel i5-8xxx+Gigabyte H370N mobo)**. Windows 10+. Use of a dedicated GPU (dGPU) is **not** supported.  
 
@@ -637,7 +637,7 @@ DRM
 
 If you plan on playing DRM protected content, for instance 4k netflix, you will need to have a HDMI 2.0 port that supports HDCP 2.2 or a Displayport with an active DP 1.x->HDMI 2.0 adapter. This can take the form of an AMD Ryzen 3200G+ CPU with supported mobo **OR** Intel 7th-14th Gen CPU and [supported motherboard](/wiki/hdmi20) **OR** Any CPU and an add-on dGPU, **only** Nvidia >= GTX 1050 3GB, AMD >= RX 4xx/5xx/5x00/6x00, or Intel >= ARC A310.
 
-If you plan on playing UHD Blu-ray discs, things are even more restrictive; you are further limited to Intel CPUs w/SGX support (Intel i3/5/7/9 7th-10th Gen **ONLY**) + a [HDMI 2.0 motherboard w/SGX support](/wiki/hdmi20). Dedicated GPUs are **NOT** supported. **We do not recommend this** and you should play rips or ISOs of your discs. See our wiki section [here](/wiki/faq#how-can-i-play-my-dvdblu-ray-discs-on-my-htpc). 
+If you plan on playing UHD Blu-ray discs, things are even more restrictive; you are further limited to Intel CPUs w/SGX support (Intel i3/5/7/9 7th-10th Gen **ONLY**) + a [HDMI 2.0 motherboard w/SGX support](/wiki/hdmi20). Dedicated GPUs are **NOT** supported. **We do not recommend this** and you should play rips or ISOs of your discs. See our wiki section [here](/wiki/video#how-can-i-play-my-dvdblu-ray-discs-on-my-htpc). 
 
 To test for HDCP 2.2 compliance, use [Cyberlink Ultra HD Blu-Ray Advisor](https://www.cyberlink.com/prog/bd-support/diagnosis.do) or [Corel Ultra HD Blu-Ray Check Tool](https://dwnld.windvdpro.com/tools/CorelUltraHDBlurayCheckTool.exe)  
 
