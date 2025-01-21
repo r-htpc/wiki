@@ -143,41 +143,23 @@ SGX=Works with UHD blu-ray drives
 
 **EXAMPLE COMBINATIONS FOR 4K @ 60 Hz HDR**
 
-* Intel: Config #1: i3-12100 ($125) + Any [H610/H670/B660 board](https://pcpartpicker.com/products/motherboard/) with HDMI ($100-120) = $225  
+* Intel: Config #1: i3-12100 ($115) + Any [H670/B660/B760/Z690/Z790 board](https://pcpartpicker.com/products/motherboard/) with HDMI ($100-120) = $215  
 
- *Micro-ATX: ASRock B660M-HDV ($95), Asus PRIME H610M-E D4 ($100)*  
+* AMD: Config #1: AMD 5500GT ($120) + Any A320/A520/B450/B550 Motherboard with HDMI ($75-$125) = $195-$245  
 
-* Intel: Config #2: i3-8100T/i5-8400T (ebay) ($100-$140) + ASUS TUF B365M-PLUS GAMING ($75) + [DP->HDMI cable](https://www.amazon.com/CLUB-3D-CAC-1082-Active-Adapter/dp/B07HNTNTMR) ($30) = $205-$245  
+**EXAMPLE COMBINATIONS FOR 4K @ 60 Hz HDR Blu-Ray/Netflix**
 
-* Intel: Config #3: i3-10100 ($150) + Any [H410/H510/H470/B460/B560/Z490/Z590 board](https://pcpartpicker.com/products/motherboard/#xcx=0&f=7,8&c=144,149,141,142,151,150,143,148&sort=price) with Display Port ($100-$150) + [DP->HDMI cable](https://www.amazon.com/CLUB-3D-CAC-1082-Active-Adapter/dp/B07HNTNTMR) ($30) = $280-$330  
+* Intel: Config #1: i5-8400 ($50) + Gigabyte H370N Wifi ($170) = $220  
 
- *Micro-ATX: Asus PRIME B460M-A ($100), ITX: ASRock H510M-ITX/ac ($110)*  
+* Intel: Config #2: i5-9400 ($75) + GigaByte Z390 I Aorus Pro Wi-Fi ($170) = $250
 
-* Intel: Config #4: i5-11400 ($190) + Any [H470\*/H510/H570/B560/Z490/Z590 board](https://pcpartpicker.com/products/motherboard/#xcx=0&f=7,8&c=149,142,151,150,143,148&sort=price) with HDMI ($100-$150) = $290-$340  
-
- *Micro-ATX: Asus PRIME B560M-A ($110), ITX: ASRock Z490 Phantom Gaming-ITX/TB3 ($200)*  
-
- \* *The cheapest H470 boards may not support 11th gen CPUs*  
-
-* Intel: Config #5: i3-10100 ($150) + ASRock Z490 Phantom Gaming-ITX/TB3 ($200) = $350  
-
-* AMD: Config #1: AMD 3200GE ($150) + A320 Motherboard with HDMI ($60-$100) = $210-$260  
-
-* AMD: Config #2: AMD 3200G ($150) + B450 Motherboard with HDMI ($100-$150) = $250-$300  
-
- *Micro-ATX: Gigabyte B450 Aorus M ($90), ITX: GigaByte B450 I AORUS PRO WIFI ($140)*  
-
-* AMD: Config #3: AMD 4350G ($190) + A520 Motherboard with HDMI ($75-$105) = $265-$295
-
-* AMD: Config #4: AMD 4650G/5600G ($220) + B450/B550 Motherboard with HDMI ($100-$150) = $320-$370  
-
- *Micro-ATX: Gigabyte B550M DS3H ($95), ITX: ASRock B550M-ITX/ac ($130)*  
+* Intel: Config #3: i3-10100 ($100) + Gigabyte H470I Aorus Pro AX ($180) = $280  
 
 **EXAMPLE COMBINATIONS FOR 4K @ 120 Hz HDR**
 
-* Intel: Config #1: i3-12100 ($125) + Any [H610/H670/B660/Z690 board](https://pcpartpicker.com/products/motherboard/) with Display Port 1.4 ($120) + [DP 1.4->HDMI 2.1 adapter](https://www.amazon.com/Club-3D-DisplayPort1-4-Adapter-CAC-1085/dp/B08BX49V5V) ($55) = $300  
-  
-* Intel: Config #2: i5-11400 ($200) + Any [H470*/H510/H570/B560/Z490/Z590 board](https://pcpartpicker.com/products/motherboard/#xcx=0&f=7,8&c=149,142,151,150,143,148&sort=price) with Display Port 1.4 ($100-$150) + [DP 1.4->HDMI 2.1 adapter](https://www.amazon.com/Club-3D-DisplayPort1-4-Adapter-CAC-1085/dp/B08BX49V5V) ($55) = $355-$405  
+* AMD: Config #1: Ryzen 8500G ($150) +  ASRock A620I/B650I Lightning ($140-175) = $290-325  
+
+* Intel: Config #1: i3-12100 ($115) + Any [H670/B660/B760/Z690/Z790 board](https://pcpartpicker.com/products/motherboard/) with Display Port 1.4 ($120) + [DP 1.4->HDMI 2.1 adapter](https://www.amazon.com/Club-3D-DisplayPort1-4-Adapter-CAC-1085/dp/B08BX49V5V) ($55) = $290  
 
 &nbsp;
 
@@ -278,4 +260,4 @@ Obviously a board that lists the compatibility in its specs or any board that ha
 
 ---
 
-*This page was last updated on 2024-10-23*
+*This page was last updated on 2025-01-21*
