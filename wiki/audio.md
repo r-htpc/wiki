@@ -47,9 +47,9 @@ AAC/HE-AAC: Lossy, <= 320 Kbps. Up to 48 channels. Almost always cannot be bitst
 
 Dolby Digital/AC-3: "DD". Lossy, <= 640 kbps. Up to 5.1 channels. Common in **commercial streaming media**, physical media. Can be played over Optical/HDMI/HDMI ARC  
 
-Dolby Digital Live: Encodes PCM 5.1 audio into a comressed, 5.1 DD stream for transport over bandwidth-starved Optical/HDMI ARC interfaces. [Used in gaming on specific soundcards/3rd-party software](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system).  
+Dolby Digital Live: Encodes PCM 5.1 audio into a compressed 5.1 <!-- 16-bit/48kHz 640 Kbps --> DD stream for transport over bandwidth-starved Optical/HDMI ARC interfaces. [Used in gaming on specific soundcards/3rd-party software](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system).  
 
-DTS Connect / Interactive: DTS's version of Dolby Digital Live. Encodes into a lossy 5.1 24-bit/48kHz 1.5 Mbps DTS stream.  
+DTS Connect / Interactive: DTS's version of Dolby Digital Live. Encodes PCM 5.1 into a compressed 5.1 <!-- 24-bit/48kHz 1.5 Mbps --> DTS stream.  
 
 DTS: Lossy, <= 1.5 Mbps. Up to 5.1 channels. Common in physical media, not streaming media. DD competitor. Can be played over Optical/HDMI/HDMI ARC  
 
