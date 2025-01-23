@@ -41,19 +41,19 @@ Interface support for codecs is varied because of bandwidth limitations. An exam
 
 These are the codecs/encoded formats you're likely to run into:  
 
-PCM/LPCM: Lossless. # of channels dependent on interface. Optical/HDMI ARC only supports 2 channels. More than 2 channels can be play over regular HDMI/eARC/Displayport/RCA/3.5mm. **Common in PC Gaming audio and web browsers. Default OS output**  
+PCM/LPCM: Lossless. # of channels dependent on interface. Optical/HDMI ARC only supports 2 channels. More than 2 channels can be play over regular HDMI/eARC/Displayport/RCA/3.5mm. Common in web browsers and typical **gaming audio**. **Default OS output**  
 
 AAC/HE-AAC: Lossy, <= 320 Kbps. Up to 48 channels. Almost always cannot be bitstreamed (esp. in 5.1 form) due to current lack of Sound System support. Also applies to FLAC/MP3/WAV. 
 
-Dolby Digital/AC-3: "DD". Lossy, <= 640 kbps. Up to 5.1 channels. Common in commercial streaming media, physical media. Can be played over Optical/HDMI/HDMI ARC  
+Dolby Digital/AC-3: "DD". Lossy, <= 640 kbps. Up to 5.1 channels. Common in **commercial streaming media**, physical media. Can be played over Optical/HDMI/HDMI ARC  
 
-Dolby Digital Live: Encodes PCM multichannel audio into a lossy 5.1 16-bit/48kHz 640 Kbps DD stream for transport over S/PDIF or ARC. [Used in gaming with specific soundcards or modded APO drivers](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system).  
+Dolby Digital Live: Encodes PCM 5.1 audio into a comressed, 5.1 DD stream for transport over bandwidth-starved Optical/HDMI ARC interfaces. [Used in gaming on specific soundcards/3rd-party software](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system).  
 
 DTS Connect / Interactive: DTS's version of Dolby Digital Live. Encodes into a lossy 5.1 24-bit/48kHz 1.5 Mbps DTS stream.  
 
 DTS: Lossy, <= 1.5 Mbps. Up to 5.1 channels. Common in physical media, not streaming media. DD competitor. Can be played over Optical/HDMI/HDMI ARC  
 
-Dolby Digital+/E-AC-3: "DD+". Lossy, <= 6 Mbps (1.7 on Blu-Ray). Up to 15.1 channels. Can be played over full HDMI or HDMI ARC (5.1)/eARC (7.1). Common in streaming media  
+Dolby Digital+/E-AC-3: "DD+". Lossy, <= 6 Mbps (1.7 on Blu-Ray). Up to 15.1 channels. Can be played over full HDMI or HDMI ARC (5.1)/eARC (7.1). Common in **commercial streaming media**  
 
 Dolby TrueHD: Lossless, <= 18 Mbps. Up to 7.1 channels. Common in physical media, not in streaming media. Can be played over full HDMI (1.3+) or HDMI eARC.  
 
