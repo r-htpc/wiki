@@ -19,22 +19,25 @@ Audio from an HTPC can be consumed in Analog or Digital form. We will be concern
 There are many digital forms that audio can take. The two main ones we will be dealing with are:  
 
 1. Audio encoded in a particular codec. e.g. Dolby TrueHD, DTS, AAC, etc.. 
- - Each codec has its own bandwidth and number of channels supported 
- - All codecs are compressed. Lossless codecs (like Dolby TrueHD) are preferred over lossy codecs (like Dolby Digital/DTS), for better quality, where available 
- - As you will read, whether you can play a lossless vs. lossy codec will depend on the support by the Interfaces and Sound System you use 
+ - Each codec has its own bandwidth requirements and number of channels it supports 
+ - All codecs are compressed. Lossless codecs (like Dolby TrueHD) are preferred over lossy codecs (like Dolby Digital), for better quality, where available 
+ - Whether you can play a particular codec will depend on the support by the Interfaces and Sound System you use. An Interface may pose a bandwidth limitation for a codec or a Sound System/Display may not be feature-rich enough to support a codec. 
 2. Audio encoded in a common, uncompressed, non-specific format. i.e. what's called PCM. 
  - PCM is a base form of digital audio and as such, is the most compatible format
  - It's usually something a codec is converted into for compatibility reasons. For instance, if the DTS codec isn't supported by your Sound System, your HTPC can decode it into individual PCM channels before sending it to the Sound System
  - While it's the most compatible format across equipment, since it's uncompressed it requires a lot more bandwidth from audio interfaces than its compressed codec counterparts. So while a particular interface may be able to carry a lossy, compressed 5.1 codec like Dolby Digital, it may only be able to carry lossless, uncompressed 2.0 PCM
  - PCM is the DEFAULT output of the operating system, web browsers and typical gaming audio 
 
-**Support for specific codecs is wide and varied. When researching your digital equipment (such as your a AV Receiver, sound bar, and/or TV for passthrough), make sure it supports the codec(s) you want to decode or passthrough over the interfaces you want. If one piece of equipment in the audio workflow doesn't support a codec, you may end up with PCM, or no sound at all, when playing that codec. Read spec pages, user manuals, [rtings.com](https://www.rtings.com) reviews, [flatpanelshd.com](https://www.flatpanelshd.com/), and/or [displayspecifications.com](https://www.displayspecifications.com/) to determine what audio interfaces you have**  
+**In practice, an HTPC can support ALL codecs by either passing them through to a sound system or decoding them.  
+Display and Sound System equipment are what complicate what's possible, as their support for formats is wide and varied. When researching your digital equipment (such as your a AV Receiver, sound bar, and/or TV for passthrough), make sure it supports the codec(s) you want to decode or passthrough over the interfaces you want. If one piece of equipment in the audio workflow doesn't support a codec, you may have to settle for conversion to PCM, or no sound at all, when playing that codec. Read spec pages, user manuals, [rtings.com](https://www.rtings.com) reviews, [flatpanelshd.com](https://www.flatpanelshd.com/), and/or [displayspecifications.com](https://www.displayspecifications.com/) to determine what audio interfaces you have and find the least common denominators/bottlenecks in the entire system**  
 
 You should know which formats you want to use based on the type of content you want to play. If you're playing local media content, you probably want Dolby Digital/DTS, perhaps all the way up to Dolby TrueHD Atmos/DTS:X. If you want commercial streaming services, you want Dolby Digital up to Dolby Digital+ Atmos. If you want gaming, you want PCM and/or Dolby MAT Atmos  
 
-Interface support for codecs is varied because of bandwidth limitations. An example of one common limitation that can exist is the lossy codecs that can be played over a HDMI ARC interface vs the lossless ones over eARC, both of which are in wide use on TVs for audio return to a Sound System. See the next section on what codecs each interface supports up to.  
+Some audio tracks will have multiple codecs inside them, for compatibility. For instance, you may see an audio track which has both Dolby TrueHD and Dolby Digital in it, so if TrueHD cannot be played, the lossy DD version can be used.  
 
-Some audio tracks will have multiple codec streams in them for compatibility. For instance, you may see an audio track which has both Dolby TrueHD and DD in it, so if TrueHD cannot be played, the lossy DD version will then be tried.  
+<!-- 
+Interface support for codecs is varied because of bandwidth limitations. An example of one common limitation that can exist is the lossy codecs that can be played over a HDMI ARC interface vs the lossless ones over eARC, both of which are in wide use on TVs for audio return to a Sound System. See the next section on what codecs each interface supports up to.  
+-->
 
 These are the codecs/encoded formats you're likely to run into:  
 
