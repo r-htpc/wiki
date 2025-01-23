@@ -18,13 +18,21 @@ Audio from an HTPC can be consumed in Analog or Digital form. We will be concern
 
 There are many digital forms that audio can take. The two main ones we will be dealing with are:  
 
-1. Audio encoded in a particular codec. e.g. Dolby Atmos, DTS, AAC, etc.. 
-Each codec has its own bandwidth and number of channels supported. Lossless (uncompressed) codecs are preferred over lossy (compressed) codecs for better quality, where available. As you will read, whether you can listen to a lossless vs. lossy codec will depend on the support by the Interfaces and Sound System you use.  
-2. Audio encoded in a common, uncompressed, non-specific codec. i.e. what's called PCM. PCM is a digital representation of an Analog signal. It has no knowledge of the codec being played. This is the DEFAULT output of the operating system, web browsers and typically gaming audio. Other times, this is used when an interface or the Sound System doesn't support a particular codec you're trying to play. For instance. DTS isn't supported by your Sound System, so your HTPC will decode DTS and encode it in individual PCM channels before sending it to the Sound System.  
+1. Audio encoded in a particular codec. e.g. Dolby TrueHD, DTS, AAC, etc.. 
+ - Each codec has its own bandwidth and number of channels supported 
+ - All codecs are compressed. Lossless codecs (like Dolby TrueHD) are preferred over lossy codecs (like Dolby Digital/DTS), for better quality, where available 
+ - As you will read, whether you can play a lossless vs. lossy codec will depend on the support by the Interfaces and Sound System you use 
+2. Audio encoded in a common, uncompressed, non-specific format. i.e. what's called PCM. 
+ - PCM is a base form of digital audio and as such, is the most compatible format
+ - It's usually something a codec is converted into for compatibility reasons. For instance, if the DTS codec isn't supported by your Sound System, your HTPC can decode it into individual PCM channels before sending it to the Sound System
+ - While it's the most compatible format across equipment, since it's uncompressed it requires a lot more bandwidth from audio interfaces than its compressed codec counterparts. So while a particular interface may be able to carry a lossy, compressed 5.1 codec like Dolby Digital, it may only be able to carry lossless, uncompressed 2.0 PCM
+ - PCM is the DEFAULT output of the operating system, web browsers and typical gaming audio 
 
-**Support for specific codecs is wide and varied. When researching your digital equipment (such as your a AV Receiver, sound bar, and/or TV for passthrough), make sure it supports the codec(s) you want to decode or passthrough over the interfaces you want. If one piece of equipment in the audio workflow doesn't support a codec, you may end up with PCM, or no sound at all, when playing that codec. Read spec pages, user manuals, [rtings.com](https://www.rtings.com) reviews, [flatpanelshd.com](https://www.flatpanelshd.com/), and/or [displayspecifications.com](https://www.displayspecifications.com/) to determine what audio interfaces you have**
+**Support for specific codecs is wide and varied. When researching your digital equipment (such as your a AV Receiver, sound bar, and/or TV for passthrough), make sure it supports the codec(s) you want to decode or passthrough over the interfaces you want. If one piece of equipment in the audio workflow doesn't support a codec, you may end up with PCM, or no sound at all, when playing that codec. Read spec pages, user manuals, [rtings.com](https://www.rtings.com) reviews, [flatpanelshd.com](https://www.flatpanelshd.com/), and/or [displayspecifications.com](https://www.displayspecifications.com/) to determine what audio interfaces you have**  
 
-Interface support for codecs is varied because of bandwidth limitations. See the next section on what codecs each interface supports up to. An example of one common limitation that can exist is the codecs that can be played over a HDMI ARC connection, which is in wide use on TVs for audio return to a Sound System. Under normal circumstances, HDMI ARC only supports Stereo PCM and Lossy Dolby Digital+ 5.1 Atmos/DTS 5.1. 
+You should know which formats you want to use based on the type of content you want to play. If you're playing local media content, you probably want Dolby Digital/DTS, perhaps all the way up to Dolby TrueHD Atmos/DTS:X. If you want commercial streaming services, you want Dolby Digital up to Dolby Digital+ Atmos. If you want gaming, you want PCM and/or Dolby MAT Atmos  
+
+Interface support for codecs is varied because of bandwidth limitations. An example of one common limitation that can exist is the lossy codecs that can be played over a HDMI ARC interface vs the lossless ones over eARC, both of which are in wide use on TVs for audio return to a Sound System. See the next section on what codecs each interface supports up to.  
 
 Some audio tracks will have multiple codec streams in them for compatibility. For instance, you may see an audio track which has both Dolby TrueHD and DD in it, so if TrueHD cannot be played, the lossy DD version will then be tried.  
 
@@ -34,7 +42,7 @@ PCM/LPCM: Lossless. # of channels dependent on interface. Optical/HDMI ARC only 
 
 AAC/HE-AAC: Lossy, <= 320 Kbps. Up to 48 channels. Almost always cannot be bitstreamed (esp. in 5.1 form) due to current lack of Sound System support. Also applies to FLAC/MP3/WAV. 
 
-DD/AC-3: Dolby Digital. Lossy, <= 640 kbps. Up to 5.1 channels. Common in commercial streaming media, physical media. Can be played over Optical/HDMI/HDMI ARC  
+Dolby Digital/AC-3: "DD". Lossy, <= 640 kbps. Up to 5.1 channels. Common in commercial streaming media, physical media. Can be played over Optical/HDMI/HDMI ARC  
 
 Dolby Digital Live: Encodes PCM multichannel audio into a lossy 5.1 16-bit/48kHz 640 Kbps DD stream for transport over S/PDIF or ARC. [Used in gaming with specific soundcards or modded APO drivers](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system).  
 
@@ -42,7 +50,7 @@ DTS Connect / Interactive: DTS's version of Dolby Digital Live. Encodes into a l
 
 DTS: Lossy, <= 1.5 Mbps. Up to 5.1 channels. Common in physical media, not streaming media. DD competitor. Can be played over Optical/HDMI/HDMI ARC  
 
-DD+/E-AC-3: Dolby Digital Plus. Lossy, <= 6 Mbps (1.7 on Blu-Ray). Up to 15.1 channels. Can be played over full HDMI or HDMI ARC (5.1)/eARC (7.1). Common in streaming media. 
+Dolby Digital+/E-AC-3: "DD+". Lossy, <= 6 Mbps (1.7 on Blu-Ray). Up to 15.1 channels. Can be played over full HDMI or HDMI ARC (5.1)/eARC (7.1). Common in streaming media  
 
 Dolby TrueHD: Lossless, <= 18 Mbps. Up to 7.1 channels. Common in physical media, not in streaming media. Can be played over full HDMI (1.3+) or HDMI eARC.  
 
@@ -50,11 +58,11 @@ DTS-HD HRA: Lossy, <= 6Mbps. Up to 7.1 channels. DD+ competitor. Can be played o
 
 DTS-HD MA: Lossless, <= 25.4 Mbps. Up to 7.1 channels. Common in physical media, not in streaming media. TrueHD competitor. Can be played over full HDMI (1.3+) or eARC. DTS lossy included within for over Optical/HDMI ARC.  
 
-Dolby Atmos: Metadata around the TrueHD/DD+ codec. Lossless/Lossy indirectly. Up to 24.1.10 channels. Gold standard. Lossless can be played over full HDMI (1.3+) or eARC. Lossy DD+ 5.1 version can be played over HDMI ARC. 
+Dolby Atmos: Metadata around the TrueHD/DD+ codec. Lossless/Lossy indirectly. Up to 24.1.10 channels. Gold standard. Lossless can be played over full HDMI (1.3+) or eARC. Lossy DD+ 5.1 version can be played over HDMI ARC.  
 
 DTS:X: Metadata around the DTS-HD MA/DTS codec. Lossless. Up to 24.1.10 channels. Gold standard. Atmos competitor. Lossless can be played over full HDMI (1.3+) or eARC. Lossy DTS core for over Optical/HDMI ARC.  
 
-Dolby Atmos/DTS:X > Dolby TrueHD/DTS-HD MA > DD+/DTS-HD HRA > DD/DTS > Stereo  
+Dolby Atmos/DTS:X > Dolby TrueHD/DTS-HD MA > DD+/DTS-HD HRA > DD/DTS > AAC > Stereo  
 
 &nbsp;
 
