@@ -297,7 +297,7 @@ This scenario would be used for non-encoded PCM audio, like **Gaming**, streamin
 Start by setting up your Speaker configuration in your OS so it knows how many channels you have.  
 To do this in Windows: Open Windows Sound control panel (run mmsys.cpl) -> \<your_audio_device\> -> Configure -> Select your speaker configuration -> Next -> Optionally configure the speakers you have/don't have. Click 'Test' and confirm all channels you're configuring are being represented properly.  
 If you're trying to configure more than Stereo but the options/buttons aren't available or channels aren't being represented, it's usually because:
- - Your setup is limited by hardware (audio interfaces, sound system support, display passthrough mis-configuration). Double-check that all the connected equipment and interfaces support PCM 5.1. For instance, don't use an Optical or regular ARC audio interface that only supports PCM 2.0 as per above and try to configure PCM 5.1 surround; if you still need 5.1, re-encode to a bitstream [your media](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital) or [game audio](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system). 
+ - Your setup is limited by hardware (audio interfaces, sound system support, display passthrough mis-configuration). Double-check that all the connected equipment and interfaces support PCM in the channel config you want. For instance, don't use an Optical or regular ARC audio interface that only supports PCM 2.0 as per above and try to configure PCM 5.1 surround; if you still need 5.1, re-encode to a bitstream [your media](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital) or [game audio](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system). 
  - Your setup is limited by software. You haven't set up audio passthrough properly in your display, your sound system is not in direct mode, your speakers are mis-configured at your sound system or you installed/configured middleware audio software (like an APO, Spatial Sound, Mixer, Dolby Access/DTS Connect) before doing this setup.
 
 *If you select a speaker configuration that is more than what your content provides, for instance you choose 5.1 speakers and play a Stereo source, Windows will output the source as 5.1 but with only the Stereo speakers containing audio.*  
@@ -318,7 +318,7 @@ In media applications, the most popular ones will have the codecs to decode up t
     - There are advanced things you can do by using application middleware and external filters like [transcoding audio codecs](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital), decoding obscure codecs and advanced mixing. See the 3rd Party sub-section of the Audio Software section above.  
 
 - *Setting up for Gaming:*
-   - If you're playing games with just PCM, you're done. If you're doing advanced setups like using Dolby Access/Atmos or Dolby Digital Live, see the [Gaming section](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) below for caveats and advanced setup.
+   - If you're playing games with just PCM or using Analog, you're done. If you're doing advanced setups like using Dolby Access/Atmos or Dolby Digital Live, see the [Gaming section](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) below for caveats and advanced setup.
 
 - *If you want to upmix content:*
    - Configure the speaker configuration in the OS as Stereo. This will allow your sound system to use its upmixers (Dolby Surround, Pro Logic, etc..) to upmix the content
@@ -698,7 +698,7 @@ NON-REALTIME: [Handbrake](https://handbrake.fr/), [ffmpeg-gui](https://www.video
 
 ### How do I configure my HTPC to output sound for games to my sound system?
 
-First, most games output audio in the **PCM 5.1** format. Not all audio interfaces and connection schemes support this bandwidth; those that don't will give you 2.0/Stereo instead. Your PCM capabilities are what show up in your OS speaker configuration.  
+First, most games output audio in the **[PCM 5.1](https://satsun.org/audio/)** format. Not all audio interfaces and connection schemes support this bandwidth; those that don't will give you 2.0/Stereo instead. Your PCM capabilities are what show up in your OS speaker configuration.  
 
 The easiest and best way to connect your components is: PC (HDMI OUT) -> Sound System (HDMI IN) -> TV (HDMI IN/ARC). This will give you PCM 5.1 capability. See **Scenario #1** in the Hardware Setup section above for details
 
@@ -717,7 +717,7 @@ If you can't support the above hardware methods, but have plain **ARC** support 
 
  3. For **OPTICAL/SPDIF**: For Realtek motherboard-based Optical/SPDIF you should probably use the [patched drivers](https://github.com/Loliconera/Unlocked-Dolby-Digital-Live-DTS-Interactive-for-Realtek-HD-Audio-Drivers-for-Windows-10-and-11) to unlock Dolby Digital Live. If it doesn't work or you are using non-Realtek or non-Motherboard based optical, use the HDMI ARC way above.  
 
- 4. As a last resort, you can output to just analog surround sound speakers connected directly to the PC, if your motherboard supports it.  
+ 4. Use analog surround sound speakers (Logitech Z906, Z5500) connected directly to the PC, if your motherboard supports it.  
 
 *SPATIAL AUDIO*  
 If you want to, and can, support **Dolby Atmos** from your games:
