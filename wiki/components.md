@@ -1,5 +1,7 @@
 # Hardware Components Guide
 
+<meta name="description" content="Information on hardware components to use in your HTPC. Cases, CPUs, GPUs, Motherboards, Memory, Storage, HDMI Video cables/adapters, Optical drives, etc..">
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--
 <style>
