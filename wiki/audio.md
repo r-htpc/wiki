@@ -717,7 +717,7 @@ If you can't support the above hardware methods, but have plain **ARC** support 
 
  3. For **OPTICAL/SPDIF**: For Realtek motherboard-based Optical/SPDIF you should probably use the [patched drivers](https://github.com/Loliconera/Unlocked-Dolby-Digital-Live-DTS-Interactive-for-Realtek-HD-Audio-Drivers-for-Windows-10-and-11) to unlock Dolby Digital Live. If it doesn't work or you are using non-Realtek or non-Motherboard based optical, use the HDMI ARC way above.  
 
- 4. Use analog surround sound speakers (Logitech Z906, Z5500) connected directly to the PC, if your motherboard supports it.  
+ 4. Use analog surround sound speakers (Logitech Z906, Z5500) connected directly to the PC, if your motherboard supports it or a [USB analog sound card](https://www.amazon.com/Cubilux-Surround-48KHz-384KHz-Headphones-PC-Supports/dp/B0CKPL5HXZ).  
 
 *SPATIAL AUDIO*  
 If you want to, and can, support **Dolby Atmos** from your games:
@@ -945,6 +945,8 @@ HDMI 1.4 (1080p/4k@30)
 *Used to send audio from HTPC to Optical/Analog* 
 
 [Cubilux USB->TOSLINK Optical](https://www.amazon.com/Cubilux-TOSLINK-Converter-Compatible-Computer/dp/B0B2DBGKL3) - $20 - DD/DTS Passthrough. Windows/Linux/Nvidia Shield 
+
+[Cubilux USB->Analog](https://www.amazon.com/Cubilux-Surround-48KHz-384KHz-Headphones-PC-Supports/dp/B0CKPL5HXZ) - $30 - Analog 2.0/5.1/7.1 
 
 [Startech USB Audio Card - 3.5mm Optical+Mic+Head](https://www.amazon.com/dp/B00F7120TQ) - $30 - DD/DTS Passthrough 
 
