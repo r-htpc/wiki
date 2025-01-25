@@ -1,3 +1,5 @@
+<meta name="description" content="Information on the best ways to connect your HTPC to a sound system and/or display, configuring the software, along with inforatiom on audio concepts, formats and interfaces. (PCM 5.1 Gaming audio, DD/DTS/DTS-HD/TrueHD/Atmos/Bitstreaming)">
+
 # Audio Setup Guide
 
 **This page is best viewed with a PC web browser.**  
