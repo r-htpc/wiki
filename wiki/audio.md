@@ -709,7 +709,7 @@ Finish the basic setup by following the [Decoding / Channelization software setu
 *ALTERNATIVES*  
 If you can't support the above hardware methods, but have plain **ARC** support or even only **Optical**, you can use that, but **you will only get PCM 2.0/Stereo sound by default**. The only way around this to still get 5.1 sound is to encode the game audio with a tech called **Dolby Digital Live**. To do this, you can either:  
 
- 1. Buy an internal/external sound card with Dolby Digital Live encoding support (e.g. Sound Blaster X4/X3/Z SE) and connect it via **Optical** to your Sound System  
+ 1. Buy an internal/external sound card with Dolby Digital Live encoding support (e.g. Sound Blaster SB1500/Z SE/X4/X3) and connect it via **Optical** to your Sound System  
 
  2. For **HDMI ARC**: Use the APO driver to unofficially install Dolby Digital encoding for over HDMI ARC from your PC. This involves installing the [APO driver setup](https://puresoftapps.blogspot.com/2018/04/realtek-apo-driver.html) with the "FX Configurator" & "Dolby DS1" features chosen, running the "FX Configurator" app, selecting your HDMI/Optical interface Endpoint, clicking "Product Config Tool", applying the "Dolby Digital Plus Home Theater (HDMI/SPDIF)" product, and finally open Windows Control Panel -> Sound -> \<your_sound_device\> -> Properties -> Advanced tab, and choose Dolby Digital from the Default Format drop-down.  
 
@@ -956,7 +956,7 @@ HDMI 1.4 (1080p/4k@30)
 
 **PCIe to Optical/Analog**  
 
-Creative Sound Blaster Z SE/X AE-5 - TOSLINK Optical+Analog, DD/DTS Passthrough, Dolby Digital Live Encoding  
+Creative Sound Blaster Z SE/SB1500/X3/X4/AE-5 - TOSLINK Optical+Analog, DD/DTS Passthrough, Dolby Digital Live Encoding  
 
 Creative Audigy RX - TOSLINK Optical+Analog, DD/DTS Passthrough 
 
