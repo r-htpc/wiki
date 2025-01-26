@@ -926,7 +926,7 @@ HDMI 1.4 (1080p/4k@30)
 
 *Extracts audio from display's HDMI eARC to transport to regular, non-ARC HDMI input of Sound Systems*  
 
-[ViewHD u9](https://www.amazon.com/ViewHD-Adapter-Audio-Receiver-Application/dp/B08ZHCS5D9)  
+[ViewHD u9](https://www.amazon.com/ViewHD-Adapter-Audio-Receiver-Application/dp/B08ZHCS5D9) - "Input" not required  
 
 **Optical to Analog converters (DACs)**  
 
