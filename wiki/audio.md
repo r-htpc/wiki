@@ -890,6 +890,8 @@ HDMI 2.1 (4k@120)
 
 [OREI](https://www.amazon.com/2x1-HDMI-Switcher-Audio-Out/dp/B00MNGIP2Y) - Optical+3.5mm Stereo - Switch that doubles as an extractor; cheaper than a splitter  
 
+[OREI w/eARC](https://www.amazon.com/OREI-Extractor-Extract-Monitors-BK-929/dp/B0D951KMTM) - HDMI - Extracts HD Audio to eARC Soundbar  
+
 HDMI 2.0 (4k@60)  
 
 **ViewHD [VHD-UHAE2](https://www.amazon.com/ViewHD-Extractor-Splitter-Support-Toslink/dp/B0755TB82Q) - HDMI outs - Extracts HD audio to AVR via audio only HDMI port, EDID Options**  
