@@ -248,9 +248,11 @@ In this scenario you will likely be bitstreaming through Optical, or in the case
 
 <img src="https://i.imgur.com/vpUWS5B.png" width="550" height="300" alt="DIAGRAM">
 
+If you have only an ARC/eARC port on your sound system (like a cheaper soundbar), use a [HDMI Extractor](/wiki/audio#accessories) with an eARC output.
+ 
 1. Connect the HTPC's HDMI output to a [HDMI Audio Extractor](/wiki/audio#accessories)'s HDMI input, i.e. HTPC (HDMI) -> Audio Extractor (HDMI).  
 2. Connect the HDMI Audio Extractor's HDMI output to the display's HDMI input, i.e. Audio Extractor (HDMI) -> TV (HDMI).  
-3. Connect the HDMI Audio Extractor's HDMI audio/Optical/RCA/3.5mm ports to the sound system's HDMI/Optical/RCA/3.5mm ports, i.e. Audio Extractor (Optical/RCA/3.5mm) -> Sound System (Optical/RCA/3.5mm).  
+3. Connect the HDMI Audio Extractor's HDMI audio/Optical/RCA/3.5mm ports to the sound system's HDMI/Optical/RCA/3.5mm ports.  
 4. Configure your media players for the audio codecs you can support per [Software/OS Setup](/wiki/audio#softwareos-setup)  
 
  Video supported: Negotiated by HTPC, Display and HDMI Audio Extractor  
