@@ -84,7 +84,7 @@ ATX|12 x 9.6|305 x 244|PCIE x 5/6, MEM x 2/4
 
 **GPU/iGPU** - Graphics Processing Unit. A video card. The 'i' in iGPU stands for 'Internal/Integrated'. This is a GPU that is included on the CPU package, prevelant in Intel CPUs (HD xxx) and AMD APUs (Radeon/Vega).
 
-**GTX/RTX 10xx/16xx/20xx/30xx/40xx** - Families of high-end graphics cards made by Nvidia. There are various versions, 1030/1050/1060/1070/1080 ($75-$500), 1650/1660 ($150-$250), 2060/2070/2080 ($350-$1200), 3070/3080 ($500-$700). They are currently one of the only graphics card families to support HDMI 2.0, HDCP 2.2 and Microsoft Playready 3 (outside of Intel iGPUs >= 7th gen, AMD APUs >= 3200G and AMD dGPUs >= RX 4xx) for DRM use to access 4K Netflix. RTX 30xx adds support for HDMI 2.1
+**Geforce GTX/RTX 10xx/16xx/20xx-50xx** - Families of high-end graphics cards made by Nvidia. There are various versions, 1030/1050/1060/1070/1080 ($75-$500), 1650/1660 ($150-$250), 2060-5090. They are one of the graphics card families to support HDMI 2.0, HDCP 2.2 and Microsoft Playready 3 (outside of Intel iGPUs >= 7th gen, AMD APUs >= 3200G and AMD dGPUs >= RX 4xx) for DRM use to access 4K Netflix. RTX 30xx adds support for HDMI 2.1
 
 **H.264** - A video codec. Also called AVC. Lossy compression. Used by Netflix, Hulu, Amazon Prime, Vimeo, Youtube, iTunes and various HDTV broadcasts. Used in blu-ray discs. Widely supported since the early 2010s.
 
@@ -133,9 +133,9 @@ RATE|USE|NOTES
 
 **RTX** - See GTX
 
-**RX 4xx/5xx** - Older generation family of mid-level graphics cards made by AMD. It is one of the graphics card families to support HDMI 2.0, HDCP 2.2 and Microsoft Playready 3 for DRM use to access 4K Netflix.
+**Radeon RX 4xx/5xx** - Older generation family of mid-level graphics cards made by AMD. It is one of the graphics card families to support HDMI 2.0, HDCP 2.2 and Microsoft Playready 3 for DRM use to access 4K Netflix.
 
-**RX Vega/Navi/5xxx/6xxx/7xxx** - Families of graphics cards made by AMD. Vega (2017-) is found in AMD APUs in various forms, supporting HDMI 2.0 and HDR. Also found in dedicated GPUs in the form of Vega 56/64, succeeding the RX 4xx/5xx families. Navi (2019) succeeds Vega with RDNA 1 and includes the RX 5x00 dedicated GPUs. Navi is one of the graphics card families to support HDMI 2.0, HDCP 2.2 and Microsoft Playready 3 for DRM use to access 4K Netflix. RDNA 2 include RX 6xx0 dedicated GPUs and Ryzen 7xxx iGPUs, and adds support for HDMI 2.1. RDNA 3 include RX 7x00 dedicated GPUs and adds support for DP 2.1.
+**Radeon RX Vega/Navi/5xxx/6xxx/7xxx** - Families of graphics cards made by AMD. Vega (2017-) is found in AMD APUs in various forms, supporting HDMI 2.0 and HDR. Also found in dedicated GPUs in the form of Vega 56/64, succeeding the RX 4xx/5xx families. Navi (2019) succeeds Vega with RDNA 1 and includes the RX 5x00 dedicated GPUs. Navi is one of the graphics card families to support HDMI 2.0, HDCP 2.2 and Microsoft Playready 3 for DRM use to access 4K Netflix. RDNA 2 include RX 6xx0 dedicated GPUs and Ryzen 7xxx iGPUs, and adds support for HDMI 2.1. RDNA 3 include RX 7x00 dedicated GPUs and adds support for DP 2.1.
 
 **Ryzen/Zen** -  A modern generation of AMD CPU
 
