@@ -168,8 +168,8 @@ AMD RX 5xxx									|	Y		|	Y		|	N	|	Y		|2.0		|1.4	|	Y	|	Y		|	Y		|Navi/RDNA
 AMD RX 6xxx									|	Y		|	Y		|	Y (6)	|	Y		|2.1		|1.4	|	Y	|	Y		|	Y		|Navi/RDNA2
 AMD RX 7xxx									|	Y		|	Y		|	Y	|	Y		|2.1		|2.1	|	Y	|	Y		|	Y		|Navi/RDNA3
 Nvidia GTX/RTX 10/16/20						|	Y		|	Y		|	N	|	Y (5)	|2.0		|1.4	|	Y	|	Y (9)		|	Y		|Pascal/Turing
-Nvidia RTX 30xx								|	Y		|	Y		|	Y	|	Y		|2.1		|1.4	|	Y	|	Y		|	Y		|Ampere
-Nvidia RTX 40xx								|	Y		|	Y		|	Y	|	Y		|2.1		|1.4	|	Y	|	Y		|	Y		|Ada Lovelace
+Nvidia RTX 30xx/40xx								|	Y		|	Y		|	Y	|	Y		|2.1		|1.4	|	Y	|	Y		|	Y		|Ampere/Ada
+Nvidia RTX 50xx								|	Y		|	Y		|	Y	|	Y		|2.1		|2.1	|	Y	|	Y		|	Y		|Blackwell
 
 *Footnotes*  
 (DT) Desktop  
