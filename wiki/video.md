@@ -664,31 +664,31 @@ Blu-Ray: Use tsMuxer or BD Rebuilder to create the Blu-Ray folder structure from
 
 These files must be downloaded for the media player(s) you are testing against. Do NOT play them in your browser.  
 
-[AVS HD 709 Test Patterns](https://www.avsforum.com/threads/avs-hd-709-blu-ray-mp4-calibration.948496/) - For video calibration  
+[AVS HD 709 Test Patterns](https://www.avsforum.com/threads/avs-hd-709-blu-ray-mp4-calibration.948496/) - Tests for basic video calibration  
 
 Judder Tests - Tests for judder at varying frame rates - [23.976/24/25/29.97/30/50/59.94/60 fps](https://drive.google.com/uc?id=176bowvl5QMIw3TNbBFTaeax1aWf7WpG0) 
 
-Frame Rate Tests - Known-good test files with a variety of motion - [23.976 fps](https://drive.google.com/uc?export=download&id=1fmE-ois5fzwVlGccBf3HbBqjv5R_Etv5), [24 fps](https://drive.google.com/uc?export=download&id=1NWdrqmUHg4E_qMiSWoIp1AmV7Ulwm-zb), [25 fps](https://drive.google.com/uc?id=1UimhkIaljhhP3jbuHM75h7yk_WRwkxwQ), [29.97 fps](https://drive.google.com/uc?export=download&id=1K2khAth6dXg3Y1x3crKbaYrR7aRy3q_D)   
+Frame Rate Tests - Tests for proper motion playback - [23.976 fps](https://drive.google.com/uc?export=download&id=1fmE-ois5fzwVlGccBf3HbBqjv5R_Etv5), [24 fps](https://drive.google.com/uc?export=download&id=1NWdrqmUHg4E_qMiSWoIp1AmV7Ulwm-zb), [25 fps](https://drive.google.com/uc?id=1UimhkIaljhhP3jbuHM75h7yk_WRwkxwQ), [29.97 fps](https://drive.google.com/uc?export=download&id=1K2khAth6dXg3Y1x3crKbaYrR7aRy3q_D)   
 
-Audio Sync Tests - [1080p/H264/60fps/AAC](https://drive.google.com/uc?export=download&id=15ybDrQIZ1u4nkgEGlAaKMRhfuUuyj369), [1080p/HEVC/23.98fps/PCM](https://drive.google.com/uc?export=download&id=1xmIAh0YdM7asnUovRpCcxJeVdguOGxg7), [1080p/HEVC/24fps/PCM](https://drive.google.com/uc?export=download&id=1OaWTh3r6f7E9Ae8De57qFL9jGbsBeJni), [1080p/HEVC/29.97fps/PCM](https://drive.google.com/uc?export=download&id=11DG_qaM2xereJvxe2MedKqC3w7T3rgD9)  
+Audio Sync Tests - Tests for proper audio/video syncing - [1080p/H264/60fps/AAC](https://drive.google.com/uc?export=download&id=15ybDrQIZ1u4nkgEGlAaKMRhfuUuyj369), [1080p/HEVC/23.98fps/PCM](https://drive.google.com/uc?export=download&id=1xmIAh0YdM7asnUovRpCcxJeVdguOGxg7), [1080p/HEVC/24fps/PCM](https://drive.google.com/uc?export=download&id=1OaWTh3r6f7E9Ae8De57qFL9jGbsBeJni), [1080p/HEVC/29.97fps/PCM](https://drive.google.com/uc?export=download&id=11DG_qaM2xereJvxe2MedKqC3w7T3rgD9)  
 
 <!--
 [Jellyfish Video Bitrate Test Files](https://repo.jellyfin.org/test-videos/) - 1080p/4k, h.264/HEVC, 30 fps, High/Main (8-bit), Main10 (10-bit), MKV  
 --> 
-Jellyfish Codec Tests - 1080p, 29.97fps - [h.264](https://drive.google.com/uc?export=download&id=1z2bN5OH3Lc83ufEIv88zy4EDXOKfb6aa), [HEVC 8-bit](https://drive.google.com/uc?export=download&id=1W2luOdBL3XGOKif16vyWUHTouIDWyBBT), [HEVC 10-bit](https://drive.google.com/uc?export=download&id=1OD6C0wuauUhaDY3nGUeKt-e3IhLcwxXL), [HEVC 12-bit](https://drive.google.com/uc?export=download&id=1zyNr-xaneQrH-jXBhu9JxJXEL-t0aV4F), [AV1 8-bit](https://drive.google.com/uc?export=download&id=1G55AvJCbTrr29vkUDr7Qd1VaaYYwvpQS), [AV1 10-bit](https://drive.google.com/uc?export=download&id=19A4MaxBvdEkukV5fcDewfic4meXzPMPT), [VP9 8-bit](https://drive.google.com/uc?export=download&id=1RubNRLPNbg3mV7WE1RAJV6j4prAZsdXC), [VP9 10-bit](https://drive.google.com/uc?export=download&id=1oswygGTYOwjbxMG11oMSpQ8zZp2yRGDH), [MPEG2](https://drive.google.com/uc?export=download&id=1ngxW9r7oMyVdPo3OsoRQ-4lFUDgkzZ8m)  
+Jellyfish Codec Tests - Test if GPU can HW accelerate a codec - 1080p, 29.97fps - [h.264](https://drive.google.com/uc?export=download&id=1z2bN5OH3Lc83ufEIv88zy4EDXOKfb6aa), [HEVC 8-bit](https://drive.google.com/uc?export=download&id=1W2luOdBL3XGOKif16vyWUHTouIDWyBBT), [HEVC 10-bit](https://drive.google.com/uc?export=download&id=1OD6C0wuauUhaDY3nGUeKt-e3IhLcwxXL), [HEVC 12-bit](https://drive.google.com/uc?export=download&id=1zyNr-xaneQrH-jXBhu9JxJXEL-t0aV4F), [AV1 8-bit](https://drive.google.com/uc?export=download&id=1G55AvJCbTrr29vkUDr7Qd1VaaYYwvpQS), [AV1 10-bit](https://drive.google.com/uc?export=download&id=19A4MaxBvdEkukV5fcDewfic4meXzPMPT), [VP9 8-bit](https://drive.google.com/uc?export=download&id=1RubNRLPNbg3mV7WE1RAJV6j4prAZsdXC), [VP9 10-bit](https://drive.google.com/uc?export=download&id=1oswygGTYOwjbxMG11oMSpQ8zZp2yRGDH), [MPEG2](https://drive.google.com/uc?export=download&id=1ngxW9r7oMyVdPo3OsoRQ-4lFUDgkzZ8m)  
 
 <!--
 [Jellyfin Video Bitrate Tests](https://repo.jellyfin.org/jellyfish/) - 1080p/4k, h.264/HEVC/**AV1**, 60 fps, High/Main (8-bit), Main10 (10-bit), HDR10/DV, MP4  
 -->
-[Jellyfin Video Bitrate Tests](https://repo.jellyfin.org/test-videos/) - 1080p/4k, h.264/HEVC/**AV1**, 60 fps, High/Main (8-bit), Main10 (10-bit), HDR10/DV, MP4  
+[Jellyfin Video Bitrate Tests](https://repo.jellyfin.org/test-videos/) - Test if GPU can decode a video bitrate without dropping frames - 1080p/4k, h.264/HEVC/**AV1**, 60 fps, High/Main (8-bit), Main10 (10-bit), HDR10/DV, MP4  
 
-[Ideal 4K HEVC test](https://drive.google.com/uc?export=download&id=1ZVwgFM7LEFTVE8KuNm_X7b1VfWcc-myN) - Max UHD Blu-Ray bitrate - 4k, HEVC, SDR, 120Mbps, 10-bit, 30fps, mp4  
+[Ideal 4K HEVC test](https://drive.google.com/uc?export=download&id=1ZVwgFM7LEFTVE8KuNm_X7b1VfWcc-myN) - Test if GPU can decode a non-HDR high-end video file - UHD Blu-Ray max bitrate - 4k, HEVC, SDR, 120Mbps, 10-bit, 30fps, mp4  
 
-[Our HDR10 Test Videos/Patterns](https://drive.google.com/uc?export=download&id=1HbVqzhhtncjkowdxBgZ-ghycvy5w2cpv) - For Basic HDR video calibration  
+[Our HDR10 Test Videos/Patterns](https://drive.google.com/uc?export=download&id=1HbVqzhhtncjkowdxBgZ-ghycvy5w2cpv) - Tests for checking Basic HDR video calibration  
 
-[Mehanik's Full HDR10 Test Videos/Patterns](https://drive.google.com/drive/folders/1m4IBq0euAxamL9ePgfdFuf8_5nLcRwHA) - For Advanced HDR video calibration  
+[Mehanik's Full HDR10 Test Videos/Patterns](https://drive.google.com/drive/folders/1m4IBq0euAxamL9ePgfdFuf8_5nLcRwHA) - Tests for checking Advanced HDR video calibration  
 
-[Ideal 4K HEVC HDR10 test](https://drive.google.com/uc?export=download&id=1Q2Ix3mXMl-EMs0-hE-C3gCHg_Uwh4HZz) - UHD Blu-Ray high bitrate test - 4k, HEVC, HDR10, 50-90Mbps, 10-bit, 29.97fps, mp4  
+[Ideal 4K HEVC HDR10 test](https://drive.google.com/uc?export=download&id=1Q2Ix3mXMl-EMs0-hE-C3gCHg_Uwh4HZz) - Test if GPU can decode and process a HDR, high-end video file - UHD Blu-Ray high bitrate - 4k, HEVC, HDR10, 50-90Mbps, 10-bit, 29.97fps, mp4  
 
 [Other 4K Media Test Files](https://4kmedia.org) - 4k, h.264/HEVC, HDR10/DV, TS/MKV/MP4, 24-60fps  
 
