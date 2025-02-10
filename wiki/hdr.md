@@ -486,7 +486,7 @@ Simple, Tonemapping
 
 [Our HDR10 Test Videos/Patterns](https://drive.google.com/uc?export=download&id=1HbVqzhhtncjkowdxBgZ-ghycvy5w2cpv) - For Basic HDR video calibration  
 [Mehanik's Full HDR10 Test Videos/Patterns](https://drive.google.com/drive/folders/1m4IBq0euAxamL9ePgfdFuf8_5nLcRwHA) - For Advanced HDR video calibration  
-[Ideal 4K HEVC HDR10 test](https://drive.google.com/uc?export=download&id=1Q2Ix3mXMl-EMs0-hE-C3gCHg_Uwh4HZz) - High UHD Blu-Ray bitrate - 4k, HEVC, HDR10, 50-90Mbps, 10-bit, 30fps, mp4  
+[Ideal 4K HEVC HDR10 test](https://drive.google.com/uc?export=download&id=1Q2Ix3mXMl-EMs0-hE-C3gCHg_Uwh4HZz) - UHD Blu-Ray high bitrate test - 4k, HEVC, HDR10, 50-90Mbps, 10-bit, 29.97fps, mp4  
 
 ## MadVR Performance Settings Per GPU
 
