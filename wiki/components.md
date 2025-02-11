@@ -1,3 +1,7 @@
+---
+description: Information on components you should consider for a HTPC build. Cases/CPUs/GPUs/Motherboards/Memory/Storage/PSUs/Cooling, Video Cables/Adapters, Remotes, Keyboards
+---
+
 # Hardware Components Guide
 
 <meta name="description" content="Information on hardware components to use in your HTPC. Cases, CPUs, GPUs, Motherboards, Memory, Storage, HDMI Video cables/adapters, Optical drives, etc..">
