@@ -1,9 +1,12 @@
+---
+description: Information on how to configure, calibrate, and explanation of VIDEO between your HTPC and Display
+---
+
 # Video Setup Guide
 
 *This page is best viewed with a PC web browser.*  
 
 <!-- Section -->
-<!-- -->
 
 ## Technologies
 
