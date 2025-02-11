@@ -218,7 +218,8 @@ See also: [Audio Software](/wiki/audio#audio-software)
   - Splitters, Decoders, Filters, Mixers and Compressors  
   - Automatic stream selection
 7. [Media Hoarder](https://media.hoarder.software/) / [tinyMediaManager](https://www.tinymediamanager.org/) - Media/Metadata Management  
-8. Virtual CloneDrive - Mount ISO files for disc playback support  
+8. [Handbrake](https://handbrake.fr) - Media Converter. See Also: [FAQ:How can i rip my DVD/Blu-ray discs and what are some good quality settings to use?](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use)  
+9. Virtual CloneDrive - Mount ISO files for disc playback support  
 
 <!-- Section -->
 
