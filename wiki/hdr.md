@@ -1,3 +1,7 @@
+---
+description: Information on configuring HDR and Upscaling on your HTPC, for multiple platforms and media players (MPC VR, MPC-HC, MPC-BE, madVR, Kodi, Plex, VLC)
+---
+
 # HDR Setup Guide
 
 <meta name="viewport" content="width=625, initial-scale=0.8">
