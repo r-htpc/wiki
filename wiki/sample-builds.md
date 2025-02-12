@@ -15,7 +15,7 @@ keywords: [htpc build, mini pc, pre-builts, media server, emulation, madvr, hdr,
 -->
 <!-- NA -->
 
-Here you'll find some pre-builts/mini-pcs and some sample DiY builds for HT, Emulation, Media Server and NAS purposes in their relevant sections. Before going through this page, look at the common scenarios in the [I want a HTPC/media device recommendation, but don't want to get into the complicated details](/wiki/faq#i-want-a-htpcmedia-device-recommendation-but-dont-want-to-get-into-the-complicated-details) section of the FAQ. You may find your specific scenario there and a device to match before you go down this rabbit hole. If what you want is not there, then read on here.  
+Here you'll find some pre-builts, mini-pcs and sample DiY builds for HTPC, Emulation, Gaming, Media Server, NAS and specialized purposes in their relevant sections. Before going through this page, look at the common scenarios in the [I want a HTPC/media device recommendation, but don't want to get into the complicated details](/wiki/faq#i-want-a-htpcmedia-device-recommendation-but-dont-want-to-get-into-the-complicated-details) section of the FAQ. You may find your specific scenario there and a device to match before you go down this rabbit hole. If what you want is not there, then read on here.  
 
 **There are a lot of options below. You should have a good idea what you're looking for before-hand. Resolution you want to support, video codecs to be decoded, budget, size, used/new, and/or niche capabilities (gaming, 120Hz, output ports). All of these will help you narrow your choice down.**
 
