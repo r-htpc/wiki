@@ -1,5 +1,6 @@
 ---
 description: Information on configuring HDR and Upscaling on your HTPC, for multiple platforms and media players (MPC VR, MPC-HC, MPC-BE, madVR, Kodi, Plex, VLC)
+keywords: hdr, hdr10, madvr, mpc, tonemapping, kodi, plex, upscaling
 ---
 
 # HDR Setup Guide
