@@ -430,7 +430,7 @@ If you need a DVI to HDMI cable, we recommend [BlueRigger](https://www.amazon.co
 
 It's highly recommended that you do NOT put 2.4 Ghz wifi routers in the same room as RF or BT devices below.  
 
-For **keyboards**, one with an integrated trackpad and backlight for use in the dark is ideal, but the best ones (like the Logitech K830 or Corsair K83) are discontinued. Of current ones, the Kinesis Form is of high quality but is expensive. Beyond that, Logitech and Microsoft will be the most supported and of decent quality. If you want specific features, you may be forced to venture out to Riitek, Arteck or other unknown chinese brands. Do not expect the highest quality, longeivity, or good support.  
+For **keyboards**, one with an integrated trackpad and backlight for use in the dark is ideal, but the best ones (like the Logitech K830 or Corsair K83) are discontinued. Of current ones, the Kinesis Form is of high quality but is expensive. Beyond that, Logitech and Microsoft will be the most supported and of decent quality. If you want specific features, you may be forced to venture out to Riitek, Arteck or other unknown chinese brands. Do not expect good quality, longevity, or support.  
 RF and Bluetooth (BT) are the most used connection technologies. Use either with a HTPC. For media devices/smart tvs, BT will be most supported  
 
 KEYBOARD						|	PRICE	|	SIZE	|	INT		|	BACKLIT	|	POINT	|	BATTERY	|	NOTES
@@ -442,7 +442,7 @@ KEYBOARD						|	PRICE	|	SIZE	|	INT		|	BACKLIT	|	POINT	|	BATTERY	|	NOTES
 [Logitech K600](https://www.logitech.com/en-us/products/keyboards/k600-smart-tv-d-pad.920-008822.html)				|	[$70](https://www.amazon.com/Logitech-K600-TV-Keyboard-Integrated/dp/B07C6LXYHL)		|	Full	|	BT/RF	|	No		|	Pad		|	AAA		|	14.4", D-pad
 [Microsoft All-In-One Media](https://www.amazon.com/s?k=microsoft+all+in+one+keyboard&rh=n%3A172282%2Cp_89%3AMicrosoft)	|	[$25](https://www.amazon.com/s?k=microsoft+all+in+one+keyboard&rh=n%3A172282%2Cp_89%3AMicrosoft)		|	Full	|	RF		|	No		|	Pad		|	AAA		|	14.4", dual Fn keys
 [Arteck B08SK8D38P (HD197)](https://www.google.com/search?q=arteck+hd197)	|	[$30](https://www.amazon.com/dp/B08SK8D38P)		|	Full	|	BT		|	No		|	Pad		|	Int		|	14.6", multi-connection
-**[Arteck HB305-4B](https://www.google.com/search?q=arteck+hb305+4b)**			|	[$35](https://www.amazon.com/dp/B09KLPJQPD)		|	Full	|	BT		|	Yes		|	Pad		|	Int		|	14.2"
+[Arteck HB305-4B](https://www.google.com/search?q=arteck+hb305+4b)			|	[$35](https://www.amazon.com/dp/B09KLPJQPD)		|	Full	|	BT		|	Yes		|	Pad		|	Int		|	14.2"
 [Rii K22/K22-BT](https://www.riimall.com/products/rii-k22-2-4g-wireless-mini-keyboard)				|	[$25/$32](https://www.amazon.com/Rii-K22-Multimedia-Rechargable-Raspberry/dp/B07KPVZ1Y4)	|	Full	|	RF/BT	|	No		|	Pad		|	Int		|	14", multi-connection (BT)
 [Coastacloud B09PXYG3X7](https://www.amazon.com/stores/page/4040CD3A-98E3-48AF-BF5E-12F0EF68349C?ingress=2&visitId=2bbe211d-642b-4dc5-b467-bf026e93b00b&ref_=ast_bln)		|	[$42](https://www.amazon.com/dp/B09PXYG3X7)		|	Full	|	RF/BT	|	Yes		|	Pad		|	Int		|	14.4", generic
 [Rii K18+](http://www.riitek.com/product/226.html)				|	[$27](https://www.amazon.com/Rii-Wireless-Keyboard-Rechargable-Raspberry/dp/B077VYRMC1)		|	Full	|	RF		|	Yes		|	Pad		|	Int		|	12.8"
