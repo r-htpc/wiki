@@ -1,6 +1,6 @@
 ---
 description: Information on configuring HDR and Upscaling on your HTPC, for multiple platforms and media players (MPC VR, MPC-HC, MPC-BE, madVR, Kodi, Plex, VLC)
-keywords: hdr, hdr10, madvr, mpc, tonemapping, kodi, plex, upscaling
+keywords: [hdr, hdr10, madvr, mpc, tonemapping, kodi, plex, upscaling]
 ---
 
 # HDR Setup Guide
@@ -13,7 +13,7 @@ keywords: hdr, hdr10, madvr, mpc, tonemapping, kodi, plex, upscaling
     }
 </style>
 -->
-
+ 
 ## Overview
 * This setup guide is only for HDR10 passthrough and simple tonemapping. 
 * **Dolby Vision/HDR10+ is not discussed here as no stable passthrough options exist on a PC**. Read [this post](https://www.reddit.com/r/htpc/comments/1936n8g/dolby_vision_lldv_now_possible_on_windows_1011/) for experimental, half-baked dynamic tonemapping support, otherwise stick to static tonemapping from [JRiver](https://jriver.com/) or the MPC Video Renderer in [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases)  
