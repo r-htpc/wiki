@@ -1,8 +1,8 @@
 ---
-description: Information on sample pre-builts and DiY builds to help you get started with a HTPC, media server, NAS, gaming emulation or VR setup
+description: Information on pre-builts and DiY builds to help you get started with a HTPC, media server, NAS, gaming emulation or VR setup
 ---
 
-# Sample Pre-Built / DiY Builds
+# Pre-Built / DiY HTPC Builds
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--
