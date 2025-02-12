@@ -1,5 +1,5 @@
 ---
-description: Information on pre-builts and DiY builds to help you get started with a HTPC, media server, NAS, gaming emulation or VR setup
+description: Information on pre-builts and DiY builds to help you get started with a HTPC, media server, NAS, gaming or specialized setup
 ---
 
 # Pre-Built / DiY HTPC Builds
