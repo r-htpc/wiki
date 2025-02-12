@@ -14,7 +14,7 @@
 - Components you should consider for a build. Cases/CPUs/GPUs/Motherboards/Memory/Storage/PSUs/Cooling, Video Cables/Adapters, Remotes, Keyboards
 
 ### [Pre-Built / DiY Builds Guide](/wiki/sample-builds) 
-- New and used pre-builts and DiY builds to help you get started with a HTPC, media server, NAS, gaming or specialized system
+- New and used pre-builts and DiY builds to help you get started with a HTPC, media server, NAS, gaming or specialized setup
 
 ### [AUDIO Setup Guide](/wiki/audio)
 - How to connect, configure, and explanation of AUDIO between your HTPC and Sound System
