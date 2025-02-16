@@ -102,7 +102,7 @@ Simple, HDR passthrough or tonemapping.
     * Settings -> Player -> Videos
       * v21: Adjust display HDR mode: ON (*off to [tonemap](https://kodi.wiki/view/Video_playback) to SDR*)  
       * v20: Use display HDR capabilities: ON
-    * *OPTIONAL*: [Audio bitstreaming setup](https://r-htpc.github.io/wiki/audio#softwareos-setup)
+    * *OPTIONAL*: [Audio setup](https://r-htpc.github.io/wiki/audio#softwareos-setup)
 * *Test*  
   * *Kodi app*  
     * Play a [test HDR video](/wiki/hdr#hdr-tests). [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
@@ -134,7 +134,7 @@ Simple, HDR passthrough or tonemapping.
         * *For static tonemapping to SDR*: Show settings: All, Video->Output Modules->OpenGL (2nd one)->Tone-mapping algorithm->[Hable (standard)/Reinhard (bright)/Mobius (brighter)/Hard-clip (brightest)](https://imgur.com/6V99TYA)
       * Input / Codecs
         * Hardware-accelerated decoding: Direct3D11 (win 8/10/11) or DXVA (win 7)
-      * *OPTIONAL*: [Audio bitstreaming setup](https://r-htpc.github.io/wiki/audio#softwareos-setup)
+      * *OPTIONAL*: [Audio setup](https://r-htpc.github.io/wiki/audio#softwareos-setup)
   * *Restart VLC app*  
 * *Test*  
   * *VLC app*  
@@ -170,9 +170,7 @@ Simple, HDR passthrough, tonemapping and decent upscaling.
           * Preferred Decoder: 'D3D11, DXVA2' (win 8/10/11) or DXVA2 (win 7) 
           * Adapter: \<your_GPU_device\> 
           * RGB output levels: PC (0-255) (see VIDEO setup guide if not sure) 
-      * *OPTIONAL*: [Audio bitstreaming setup](https://r-htpc.github.io/wiki/audio#softwareos-setup)
-        * Audio->Audio Renderer: MPC Audio Renderer->Properties->WASAPI Mode: Exclusive->Allow bit-exact output: checked
-        * Internal Filters->Audio Decoders (tab)->Audio decoder configuration (button)->Pass-through->Enable the codecs your sound system supports decoding
+      * *OPTIONAL*: [Audio setup](https://r-htpc.github.io/wiki/audio#softwareos-setup)
 * *Test*  
   * *MPC-BE app*  
     * Play a [test HDR video](/wiki/hdr#hdr-tests) and press Ctrl+J to show stats. If "Times" stats are >= 35ms you're doing too much processing (like upscaling/tonemapping). If "Frames" shows significant skipped frames, your GPU isn't powerful enough. [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
@@ -194,7 +192,7 @@ Advanced, more powerful dynamic tonemapping, high-end upscaling and processing t
     * Hardware device to use -> Your_GPU_Device (leave on Auto with D3D11)  
     * Dithering mode -> Ordered dithering  
   * *Start -> K-lite Codec Pack -> LAV Audio app ->*  
-    * Enable "Bitstreaming" for the codecs your sound system supports decoding (see Audio wiki page for more details)  
+    * Enable "Bitstreaming" for the codecs your sound system supports decoding (see [Wiki:Audio Setup Guide](/wiki/audio#softwareos-setup) for more details)  
 * *madVR settings:*  
   * *Start -> K-lite Codec Pack -> madVR app*  
     * devices
@@ -287,7 +285,7 @@ Advanced, current way to integrate madVR into Kodi for passthrough, dynamic tone
             * Hardware device to use -> Your_GPU_Device (leave on Auto with D3D11)
             * Dithering mode -> Ordered dithering
           * Audio Decoder
-            * Enable "Bitstreaming" for the codecs your sound system supports decoding (see Audio wiki page for more details)   
+            * Enable "Bitstreaming" for the codecs your sound system supports decoding (see [Wiki:Audio Setup Guide](/wiki/audio#softwareos-setup) for more details)   
         * Audio Renderer
           * Options -> Enable "Exclusive Mode"
         * Splitter (OPTIONAL) 
