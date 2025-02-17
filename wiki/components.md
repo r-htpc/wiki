@@ -111,7 +111,7 @@ Some features like HDR, 4K and protected content will restrict you to certain dG
 Below are the minimum requirements for each scenario and a recommendation. The recommendations are generalized and may change depending on your budget, regional availability, space/power requirements, and whether you want new or second-hand parts. If you're not sure, post and ask us for a rec based on your detailed use-case.  
 
 - **Best All-Rounder: AMD RX 6400**
-  - Will run [4k@120Hz](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output), has low-profile versions and only requires PCIe slot power. Its weakness is it doesn't have AV1 media decoding. To get that at the downside of only 4k@60Hz, look at Intel Arc A310/A380. 
+  - Will run [4k@120Hz](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output), has low-profile versions and only requires PCIe slot power. Its weakness is it doesn't have AV1 media decoding. To get that w/only 4k@60Hz, look at Intel Arc A310/A380. For both 120Hz and AV1, look at the RTX 3050 6GB
 
 - 1080p H264, 4k@30Hz video out or for DP/HDMI HD audio only: AMD Radeon R5 340/Nvidia GT 730 (REC: [Dell R5 340](https://www.ebay.com/sch/27386/i.html?_from=R40&_nkw=amd+%28r5%2Cr7%29+%28240%2C340%29&LH_BIN=1&_sop=15)) 
 
@@ -121,9 +121,9 @@ Below are the minimum requirements for each scenario and a recommendation. The r
 
 - 4K Netflix+Youtube+Local HDR: Nvidia >= GTX 1050 3GB, AMD >= RX 6x00 (REC: Used: GTX 1650, New: RX 6400/Intel A3x0) 
 
-- AV1 decoding: >= Intel A3xx/Nvidia RTX 3050/A2000/AMD RX 6600 (REC: Intel A3x0) 
+- AV1 decoding: >= Intel A3xx/Nvidia RTX 3050/A2000/AMD RX 6600 (REC: Intel A3x0/RTX 3050 6GB) 
 
-- [HDMI 2.1 4K@120Hz (>= 32Gbps)](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output): >= Nvidia RTX 3050/AMD RX 6400 (REC: RX 6400) 
+- [HDMI 2.1 4K@120Hz (>= 32Gbps)](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output): >= Nvidia RTX 3050/AMD RX 6400 (REC: RX 6400/RTX 3050 6GB) 
 
 - Emulation/Casual Gaming: Nvidia >= GT 1030 GDDR5, AMD >= 5xx/5x00/6x00 (REC: Used: GTX 1650, New: RX 6400) 
 
@@ -137,7 +137,7 @@ Below are the minimum requirements for each scenario and a recommendation. The r
 
 - Single Slot, Low Profile: Intel ARC A310
 
-- madVR upscaling/tonemapping: >= GTX 1060 6GB / AMD RX 5600 (Rec: GTX 1660) 
+- madVR upscaling/tonemapping: >= GTX 1060 6GB / AMD RX 5600 (Rec: GTX 1660/RTX 3050 6GB) 
 
 **GPU/CPU Feature Set Matrix:**
 
