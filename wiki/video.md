@@ -564,8 +564,9 @@ First, make sure what you're experiencing is actually stutter and not judder. Wa
 10. You're running your RAM in single-channel mode or haven't dedicated enough RAM to your iGPU. Run 2+ sticks of RAM in dual-channel mode for the best performance. If using an iGPU, dedicate as much RAM to it, in your BIOS, where possible.
 11. Your CPU/GPU is doing too much work in the background. Audit Task Manager (Windows)/System Monitor (Linux) and disable background tasks and/or processes using the CPU/GPU (updates, antivirus, disk indexing).
 12. Your video driver is out of date. Update it and/or re-install the driver clean after running [DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html).
-13. Your video player isn't good/good at playing the video codec(s) you're trying to play. Try a different one (MPC-BE, MPC-HC, Kodi, VLC, Jriver, MPV)
-14. Use the [SVP (Smooth Video Project)](https://www.svp-team.com/) filter to up-convert the content's fps (e.g. 23.976 fps to 60 fps) before it gets to the display; this is Motion Interpolation, and its effect is unliked by some. Alternatively, you can try madVR's frame blending feature in the rendering->smooth motion section of its settings. 
+13. You have Dynamic Refresh Rate enabled in Windows. Disable it.
+14. Your video player isn't good/good at playing the video codec(s) you're trying to play. Try a different one (MPC-BE, MPC-HC, Kodi, VLC, Jriver, MPV)
+15. Use the [SVP (Smooth Video Project)](https://www.svp-team.com/) filter to up-convert the content's fps (e.g. 23.976 fps to 60 fps) before it gets to the display; this is Motion Interpolation, and its effect is unliked by some. Alternatively, you can try madVR's frame blending feature in the rendering->smooth motion section of its settings. 
 
 <!-- Sub-Section -->
 
