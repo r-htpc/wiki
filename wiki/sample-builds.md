@@ -226,7 +226,7 @@ TOTAL		|											|$403	||
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
-CASE/PSU	|Inwin Chopin/BQ656					|	$100		|[google](https://www.google.com/search?q=inwin+bq656+chopin&oq=inwin+bq656+chopin)	|PSU included - 8.6" x 9.6" x 3.3"
+CASE/PSU	|Inwin Chopin/BQ656					|	$100		|[google](https://www.google.com/search?q=inwin+bq656+chopin&udm=28)	|PSU included - 8.6" x 9.6" x 3.3"
 MOBO		|Gigabyte A520I AC ITX					|	$110	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&s=33&sort=price&page=1)			|ALT: [ASRock A620I Lightning](https://pcpartpicker.com/products/motherboard/#f=8&sort=price&xcx=0&s=41) ($120)
 CPU			|AMD Ryzen 5500GT APU (65W)					|	$110	|[pcpartpicker](https://pcpartpicker.com/product/VcvD4D/amd-ryzen-5-5500gt-36-ghz-6-core-processor-100-100001489box)	|ALT: [Ryzen 8500G](https://pcpartpicker.com/product/y3XV3C/amd-ryzen-5-8500g-41-ghz-6-core-processor-100-100000931box) ($150)
 MEM			|TEAMGROUP T-Force Vulcan Z 2x8GB DDR4-3200			|	$35		|[pcpartpicker](https://pcpartpicker.com/products/memory/#Z=16384002&sort=price&xcx=0&ff=ddr4&S=3200,7200&L=160,180)	|ALT: [Crucial 2x8GB DDR5-5600](https://pcpartpicker.com/product/y4BzK8/crucial-classic-16-gb-2-x-8-gb-ddr5-5600-cl46-memory-ct2k8g56c46u5) ($45)
