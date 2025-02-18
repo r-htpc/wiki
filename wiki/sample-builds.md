@@ -218,9 +218,9 @@ PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 CASE/PSU		|Asrock Deskmini X300W					|$170	|Amazon	|MOBO/PSU inc - 6.1"x6.1"x3.1" ALT: [X600](https://www.newegg.com/asrock-deskmini-x600-amd-ryzen-8000-7000-series/p/N82E16856158096) ($180)
 CPU			|AMD Ryzen 5500GT APU (65W)					|	$110	|[pcpartpicker](https://pcpartpicker.com/product/VcvD4D/amd-ryzen-5-5500gt-36-ghz-6-core-processor-100-100001489box)	|ALT: [Ryzen 8500G](https://pcpartpicker.com/product/y3XV3C/amd-ryzen-5-8500g-41-ghz-6-core-processor-100-100000931box) ($150)
 MEM			|Crucial 2x8GB DDR4-3200 SODIMM - CT2K8G4SFRA32A	|$40		|[amazon](https://www.amazon.com/Crucial-2x8GB-Laptop-Memory-CT2K8G4SFRA32A/dp/B08C4WV6FT)	|ALT: [Crucial 2x8GB DDR5-5600 SODIMM](https://pcpartpicker.com/products/memory/#xcx=0&b=ddr5&ff=ddr5_sodimm&Z=16384002&sort=price&page=1) ($50)
-STORAGE	 	|Kingston NV2 500GB NVMe M.2 SSD	(OS)				|$38		|[pcpartpicker](https://pcpartpicker.com/product/QvpzK8/kingston-nv2-500-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-snv2s500g)	|ALT: WD Black SN770 500 GB M.2 ($60)
+STORAGE	 	|WD SN580 500GB NVMe M.2 SSD	(OS)				|$40		|[pcpartpicker](https://pcpartpicker.com/product/kHRwrH/western-digital-blue-sn580-500-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds500g3b0e)	|ALT: WD Black SN770 1TB M.2 ($70)
 COOL	 	|Noctua NH-L9a-AM4 CPU Cooler, 37mm					|$45		|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|OPTIONAL. Quieter than stock cooler
-TOTAL		|											|$403	||
+TOTAL		|											|$405	||
 
 **Inwin Chopin - MOBO separate, PSU internal, 3.3L** 
 
@@ -230,9 +230,9 @@ CASE/PSU	|Inwin Chopin/BQ656					|	$100		|[google](https://www.google.com/search
 MOBO		|Gigabyte A520I AC ITX					|	$110	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&s=33&sort=price&page=1)			|ALT: [ASRock A620I Lightning](https://pcpartpicker.com/products/motherboard/#f=8&sort=price&xcx=0&s=41) ($120)
 CPU			|AMD Ryzen 5500GT APU (65W)					|	$110	|[pcpartpicker](https://pcpartpicker.com/product/VcvD4D/amd-ryzen-5-5500gt-36-ghz-6-core-processor-100-100001489box)	|ALT: [Ryzen 8500G](https://pcpartpicker.com/product/y3XV3C/amd-ryzen-5-8500g-41-ghz-6-core-processor-100-100000931box) ($150)
 MEM			|TEAMGROUP T-Force Vulcan Z 2x8GB DDR4-3200			|	$35		|[pcpartpicker](https://pcpartpicker.com/products/memory/#Z=16384002&sort=price&xcx=0&ff=ddr4&S=3200,7200&L=160,180)	|ALT: [Crucial 2x8GB DDR5-5600](https://pcpartpicker.com/product/y4BzK8/crucial-classic-16-gb-2-x-8-gb-ddr5-5600-cl46-memory-ct2k8g56c46u5) ($45)
-STORAGE	 	|Kingston NV2 500GB NVMe M.2 SSD	(OS)				|$38		|[pcpartpicker](https://pcpartpicker.com/product/QvpzK8/kingston-nv2-500-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-snv2s500g)	|ALT: WD Black SN770 500 GB M.2 ($60)
+STORAGE	 	|WD SN580 500GB NVMe M.2 SSD	(OS)				|$40		|[pcpartpicker](https://pcpartpicker.com/product/kHRwrH/western-digital-blue-sn580-500-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds500g3b0e)	|ALT: WD Black SN770 1TB M.2 ($70)
 COOL		|Thermalright AXP90-X47 CPU Cooler, 47mm			|	$30		|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|OPTIONAL: Quieter than stock cooler.
-TOTAL		|										|	$423	|	|
+TOTAL		|										|	$425	|	|
 
 <!-- Sub-Section -->
 
@@ -341,7 +341,7 @@ PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 CASE|Goodisory A01/MX01 ITX|$45|[amazon](https://www.amazon.com/Goodisory-Aluminum-Mini-ITX-Computer-Tempered/dp/B07GYP2TWC)|7.9" x 7.9" x 3.3" ALT: Apex MI-008/ML03
 CPU/MOBO|ASRock N100DC-ITX, 6W|$130|[newegg](https://www.newegg.com/p/N82E16813162133)|[specs](https://www.asrock.com/mb/Intel/N100DC-ITX/).
 MEM|G.Skill Ripjaws V 1x16GB DDR4-3200 DIMM|$35|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&b=ddr4&ff=ddr4&sort=price&S=3200,8000&Z=8192001,16384001)|ALT: 1x8GB ($20)
-STORAGE			|Kingston NV2 256GB NVMe M.2 SSD TLC				|$30	|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#t=0&A=256000000000,22000000000000&f=122080&D=1&sort=price&page=1)	|
+STORAGE			|WD SN580 250GB NVMe M.2 SSD TLC				|$30	|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#t=0&A=250000000000,22000000000000&f=122080&D=1&sort=price&page=1)	|
 STORAGE			|4TB 7200rpm 3.5" HDD			|$40	|[disctech](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/4TB?order=onlinecustomerprice:asc&show=48)	|OPTIONAL. ALT: [6TB ($70), 8TB ($90)](https://serverpartdeals.com/collections/manufacturer-recertified-drives?pf_t_interface_type=interface%3ASATA&pf_t_capacity=capacity%3A6TB&pf_t_capacity=capacity%3A8TB)
 POWER			|19V 65W AC-DC Adapter|$25	|[amazon](https://www.amazon.com/Pwr-Power-Supply-Intel-FSP065-10AABA/dp/B076L52WV4)	|
 TOTAL||$265||
@@ -706,7 +706,7 @@ PSU		|Included							|$0		|	|ALT: [EVGA BQ 500W](https://pcpartpicker.com/produc
 CPU		|AMD Ryzen 5500GT APU (65W)				|$110		|[pcpartpicker](https://pcpartpicker.com/product/VcvD4D/amd-ryzen-5-5500gt-36-ghz-6-core-processor-100-100001489box)	|ALT: [Ryzen 3400G - Ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=3400g&_sacat=0&LH_BIN=1&_sop=15) ($75)
 MOBO	|MSI A520M-A PRO MicroATX		|$70		|[pcpartpicker](https://pcpartpicker.com/product/nZTzK8/msi-a520m-a-pro-micro-atx-am4-motherboard-a520m-a-pro)	|ALT: 3400G: [MSI A320M PRO](https://pcpartpicker.com/product/mB4BD3/msi-a320m-a-pro-micro-atx-am4-motherboard-a320m-a-pro) ($80)
 MEM		|Silicon Power Gaming 2x8GB DDR4-3200		|$30		|[pcpartpicker](https://pcpartpicker.com/product/P4FKHx/silicon-power-sp016gxlzu320bdaj5-16-gb-2-x-8-gb-ddr4-3200-cl16-memory-sp016gxlzu320bdaj5)	|ALT: Deskmini: [2x8GB DDR4-3200 SODIMMS](https://pcpartpicker.com/products/memory/#xcx=0&b=ddr4&ff=ddr4_sodimm&sort=price&S=2666,8000&Z=16384002)
-STORAGE	 	|Kingston NV2 256GB NVMe M.2 SSD					|$30		|[pcpartpicker](https://pcpartpicker.com/product/KQXJ7P/kingston-nv2-250-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-snv2s250g)	|ALT: WD Black SN580 500 GB M.2 ($40)
+STORAGE	 	|WD SN580 250GB NVMe M.2 SSD					|$30		|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#t=0&A=250000000000,22000000000000&f=122080&D=1&sort=price&page=1)	|ALT: WD Black SN580 500 GB M.2 ($40)
 TOTAL	|								|$330	|	|
 
 <!-- Sub-Section -->
