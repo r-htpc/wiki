@@ -950,7 +950,7 @@ HDMI 1.4 (1080p/4k@30)
 
 *Used to send audio from HTPC to Optical/Analog* 
 
-[Cubilux USB->TOSLINK Optical](https://www.amazon.com/Cubilux-TOSLINK-Converter-Compatible-Computer/dp/B0B2DBGKL3) - $20 - DD/DTS Passthrough. Windows/Linux/Nvidia Shield 
+**[Cubilux USB->TOSLINK Optical](https://www.amazon.com/Cubilux-TOSLINK-Converter-Compatible-Computer/dp/B0B2DBGKL3) - $20 - DD/DTS Passthrough. Windows/Linux/Nvidia Shield** 
 
 [Cubilux USB->Analog](https://www.amazon.com/Cubilux-Surround-48KHz-384KHz-Headphones-PC-Supports/dp/B0CKPL5HXZ) - $30 - Analog 2.0/5.1/7.1 
 
@@ -985,5 +985,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2025-01-19*
+ *This page was last updated on 2025-02-18*
 
