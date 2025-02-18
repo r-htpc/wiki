@@ -153,7 +153,7 @@ Intel 7th gen+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDMI 2.0 po
 ### Specialized: Optical/Toslink output
 
 - [NUC11PHKi7C](https://www.intel.com/content/dam/www/public/us/en/documents/product-briefs/nuc-11-enthusiast-product-brief.pdf), [NUC7PJYH](https://www.google.com/search?q=NUC7PJYH&oq=NUC7PJYH)
-- [USB to Optical Accessories](/wiki/audio#accessories) 
+- Anything + [Cubilux USB -> TOSLINK](https://www.amazon.com/Cubilux-TOSLINK-Converter-Compatible-Computer/dp/B0B2DBGKL3) 
 
 <!-- Sub-Section -->
 
@@ -903,5 +903,5 @@ TOTAL		|											|$834			|	|
 
 ---
 
-*This page was last updated on 2025-01-04*
+*This page was last updated on 2025-02-18*
 
