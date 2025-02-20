@@ -465,7 +465,11 @@ No-name trackball keyboards	| [$35](https://www.amazon.com/dp/B094VVL7Q9)/[$45](
 (1) Discontinued  
 (2) Proprietary, removable, can be replaced  
 
-For **remotes**, the [Logitech Harmony](https://www.logitech.com/en-us/harmony-universal-remotes) series is the Rolls Royce of remotes, but is now discontinued, so look on the secondary market. The [Sofabaton](https://www.sofabaton.com/) is a decent replacement for it. Everything below those are the lower tier and under $50. The [WeChip G20S Pro](https://www.amazon.com/WeChip-Backlight-Wireless-Replacement-Protector/dp/B08VN98V93) remote is simple and backlit. The [Pepper Jobs W10](https://www.amazon.com/W10-GYRO-Keyboard-Controller-Learning/dp/B078NT49MJ) remote has a bunch of PC specialized keys on it. The MX3 Pro is less specialized but still has air mouse functionality, a keyboard and is backlit. There is no shortage of other bluetooth and RF based remotes floating around, depending on which buttons, form factor and price you're shooting for.  
+For **remotes**, the [Logitech Harmony](https://www.logitech.com/en-us/harmony-universal-remotes) series was the Rolls Royce of remotes, but is now discontinued, so look on the secondary market if you must have it. The [Sofabaton](https://www.sofabaton.com/) remotes are a decent replacement for it.  
+Everything below those are lower tier and <= $50. What's best for you depends on what you want to control and the features you need.  
+The [Pepper Jobs W10](https://www.amazon.com/W10-GYRO-Keyboard-Controller-Learning/dp/B078NT49MJ) remote is the best all-arounder for controlling an HTPC and IR-learned devices.  
+If you want to bring your own IR remote or use a universal one (like an Inteset) to control a HTPC, media box, tv, etc.. pair it with a Flirc USB adapter on the HTPC-side.  
+If you want built-in macro support and can't afford the Sofabatons, look at a Skip 1S w/a Flirc.
 
 REMOTE			|	PRICE	|	INT		|	BACKLIT	|	BATTERY	|	NOTES
 :--|:--|:--|:--|:--|:--|
@@ -476,10 +480,10 @@ Logitech Harmony One	|	Disc (1)	|	RF/BT/IR	|	Yes	|	Int	|	IR Blaster, Hub
 **[OSMC Remote](https://osmc.tv/store/product/osmc-remote-control/)**		|	$20	|	RF		|	Yes	|	CR-2032	|	Good simple remote for Kodi
 [8bitdo Media Remote](https://www.amazon.com/8Bitdo-Media-Remote-Xbox-One-Infrared/dp/B0BXSV78R6) |	$20	|	IR    |  Yes  | AAA | w/Flirc, **Motion-active** backlight
 [Skip 1s](https://flirc.tv/products/skip1s-remote-universal-remote-control)    | $45  | IR  | No | AAA | w/Flirc, **Macros**, learning, mobile app
-[MCE Remote](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw=mce+remote&_sacat=0) | $20 | IR | Some | AA/AAA | w/inc. IR hub/Flirc/HDMI-CEC
-[Flirc](https://flirc.tv/more/flirc-usb)  | $20 | USB/IR | NA | NA | IR Receiver for remotes. Wake/Sleep
-WeChip G20S Pro		|	$20	|	RF		|	Yes	|	AAA	|	BT in Pro Plus, Air Mouse
-MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Has mini keyboard, Air Mouse
+[MCE](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw=mce+remote&_sacat=0) / [Inteset](https://www.amazon.com/Inteset-Universal-Backlit-Learning-Streamers/dp/B00M4I1BAY) Remote | $20-30 | IR | Some | AA/AAA | w/inc. IR hub/Flirc/HDMI-CEC
+[Flirc](https://flirc.tv/more/flirc-usb)  | $20 | USB/IR | NA | NA | USB IR Receiver for remotes. Wake/Sleep
+WeChip G20S Pro/Plus		|	$20	|	RF/BT		|	Yes	|	AAA	|	Remote and Air Mouse
+MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Remote, Mini keyboard, and Air Mouse
 [HTWebRemote](https://github.com/nicko88/HTWebRemote)	|	Free	|	LAN		|	NA	|	NA	|	Software to create web-accessible remote on Windows/[Linux](https://github.com/nicko88/HTWebRemoteHost) HTPC to control multiple devices. [Contact](https://www.reddit.com/message/compose/?to=SirMaster)
 [Unified Remote](https://www.unifiedremote.com/)	|	Free/$5	|	LAN		|	NA	|	NA	|	Software to create app-accessible remote on Windows/Linux HTPC to control multiple devices. Use phone to control PC as mouse/remote.
 [DS4Windows](https://ds4-windows.com/)	|	Free	|	NA		|	NA	|	NA	|	Software to use PS (DS3/DS4/DS5) controllers as mouse/remote
