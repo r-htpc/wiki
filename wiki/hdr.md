@@ -536,5 +536,5 @@ AMD RX >= 67xx|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Dif
 
 ---
 
-*This page was last updated on 2024-12-08*
+*This page was last updated on 2025-02-20*
 
