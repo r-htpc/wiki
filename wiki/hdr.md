@@ -186,6 +186,7 @@ Advanced, more powerful dynamic tonemapping, high-end upscaling and processing t
     * K-lite install options: No, Normal, MPC-BE, Essentials  
 * *Windows 1x settings:*  
   * Settings app -> System -> Display -> Use HDR/HDR and WCG/Play HDR.. -> **Off**  
+  * Windows 11: Settings app -> System -> Display -> Color Profile -> Color Management -> Automatically manage color for apps.. -> **Off**  
 * *LAV Filters settings:*  
   * *Start -> K-lite Codec Pack -> LAV Video app*  
     * Hardware decoder to use -> D3D11 (win 8/10/11) or DXVA2 (copy-back)  
@@ -240,6 +241,7 @@ Advanced, current way to integrate madVR into Kodi for passthrough, dynamic tone
   * (OPTIONAL) Install XySubFilter (64-bit) (subtitle renderer): ([download](http://forum.doom9.org/showthread.php?t=168282))
 * *Windows 1x settings:*
   * Settings app -> System -> Display -> Use HDR/HDR and WCG/Play HDR.. -> **Off**
+  * Windows 11: Settings app -> System -> Display -> Color Profile -> Color Management -> Automatically manage color for apps.. -> **Off**  
 * *madVR settings:*
   * *Start -> K-lite Codec Pack -> madVR app*  
     * devices
@@ -373,6 +375,7 @@ Advanced, OLD way to integrate madVR into Kodi for passthrough, tonemapping, and
   * Install DSPlayer Kodi: >= 17.6: ([download](https://forum.kodi.tv/showthread.php?pid=1972183))
 * *Windows 1x settings:*
   * Settings app -> System -> Display -> Use HDR/HDR and WCG/Play HDR.. -> **Off**
+  * Windows 11: Settings app -> System -> Display -> Color Profile -> Color Management -> Automatically manage color for apps.. -> **Off**  
 * *madVR settings:*
   * *Start -> K-lite Codec Pack -> madVR app*  
     * devices
