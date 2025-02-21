@@ -352,11 +352,9 @@ TOTAL||$265||
 
 This is a build with a dGPU for MadVR upscaling/tonemapping that's going to provide better visual quality than the iGPU on a CPU. Other features include 4k@60 playback, 4k netflix/YT, HDR, and medium 1080p gaming.
 
-The Nvidia GTX 1660 chosen is the most powerful, reasonably-priced, GPU you will find. If you need something new, then the RTX 3050 6GB.  
+The Nvidia GTX 1660 Ti/Super chosen is the most powerful, reasonably-priced, GPU you will find. If you need something new, then any 60-class is fine. These will allow you to do high upscaling and dynamic tonemapping. We don't go beyond a mid-level GPU here for MadVR because we feel you start to get into diminishing returns on visual quality, while incurring more power usage and heat.  
 
-We don't go beyond a mid-level GPU here for MadVR because we feel you start to get into diminishing returns on visual quality, while incurring more power usage and heat.  
-
-You can alternately change the CASE to a Silverstone [GD09 (26.8L)](https://www.silverstonetek.com/en/product/info/computer-chassis/GD09/) w/a ATX PSU, to get more room for storage, better cpu and/or a bigger, quieter cooler. For a low profile dGPU, look at the ML09 (7L)/ML03 (15.7L)
+You can alternately change the CASE to a Silverstone [GD09 (26.8L)](https://www.silverstonetek.com/en/product/info/computer-chassis/GD09/) w/a ATX PSU, to get more room for storage, better cpu and/or a bigger, quieter cooler. To keep an ATX PSU and use a low-profile dGPU, like a RTX 3050, look at the ML03 (15.7L)
 
 If you can't afford to do a new build or only need reasonable upscaling, you can buy a [2nd-hand SFF pre-built](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=sff+%28i5-7400%2Ci5-7500%2Ci5-7600%2Ci5-8400%2Ci5-8500%2Ci5-8600%29+-optiplex+-prodesk&_sacat=0&LH_TitleDesc=0&_fsrp=1&_odkw=sff+%28i5-7400%2Ci5-7500%2Ci5-7600%29+-optiplex+-prodesk&_osacat=0&_sop=15) off ebay and pop a GTX 1050 Ti low profile in it.  
 
@@ -364,14 +362,14 @@ PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE|Silverstone ML07|$105|[amazon](https://www.amazon.com/SilverStone-Technology-Mini-ITX-Computer-ML07B/dp/B00K8CIZYS?th=1)|[specs](https://www.silverstonetek.com/en/product/info/computer-chassis/ML07/). ALT: Silverstone [GD09](https://www.silverstonetek.com/en/product/info/computer-chassis/GD09/)
 CPU|Intel i5-12400F, 65W|$115|[pcpartpicker](https://pcpartpicker.com/product/pQNxFT/intel-core-i5-12400f-25-ghz-6-core-processor-bx8071512400f)|ALT: Intel i5-12100F
-MOBO|ASRock B760M-ITX/D4|$150|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&s=40&sort=price&page=1)|ALT: GD09: [MSI PRO B660M-A DDR4 MicroATX](https://pcpartpicker.com/product/KKbTwP/msi-pro-b660m-a-ddr4-micro-atx-lga1700-motherboard-pro-b660m-a-ddr4) ($120)
-MEM|Corsair Vengeance LPX 16GB 2x8GB DDR4-3200|$40|[pcpartpicker](https://pcpartpicker.com/product/p6RFf7/corsair-memory-cmk16gx4m2b3200c16)|
-GPU|Nvidia GTX 1660 6GB|$100|[ebay](https://www.ebay.com/sch/27386/i.html?_fsrp=1&rt=nc&_from=R40&LH_TitleDesc=0&LH_PrefLoc=2&_nkw=gtx+1660&LH_BIN=1&_sacat=27386&_sop=15&_oac=1&LH_ItemCondition=1500%7C1000%7C2500%7C3000)|<= 330 mm. ALT: [Nvidia RTX 3050 6GB](https://pcpartpicker.com/products/video-card/#xcx=0&c=572,518&sort=price&page=1) ($170)
+MOBO|ASRock B760M-ITX/D4|$150|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&s=40&sort=price&page=1)|ALT: GD09/ML03: [MSI Pro B760M-A DDR4 MicroATX](https://pcpartpicker.com/product/VVqPxr/msi-pro-b760m-a-wifi-ddr4-micro-atx-lga1700-motherboard-pro-b760m-a-wifi-ddr4) ($140)
+MEM|Corsair Vengeance LPX 32GB 2x16GB DDR4-3200|$50|[pcpartpicker](https://pcpartpicker.com/product/W6ndnQ/corsair-vengeance-lpx-32-gb-2-x-16-gb-ddr4-3200-memory-cmk32gx4m2e3200c16)|
+GPU|Nvidia GTX 1660 Ti/Super 6GB|$120|[ebay](https://www.ebay.com/sch/i.html?_nkw=1660+%28ti%2Csuper%29&_sacat=27386&_from=R40&_trksid=p2334524.m570.l1313&_fsrp=1&_odkw=%281660%2C1070%29&_osacat=27386&LH_BIN=1&_sop=15&LH_PrefLoc=2)|<= 330 mm. ALT: [Nvidia RTX 2060+](https://pcpartpicker.com/products/video-card/#xcx=0&sort=price&c=436,514,446,546,499,497,513,494,508,552,553) ($270+)
 STORAGE			|WD SN580 500GB NVMe M.2 SSD TLC				|$40	|[pcpartpicker](https://pcpartpicker.com/product/kHRwrH/western-digital-blue-sn580-500-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds500g3b0e)	|OS/App Drive
 STORAGE			|4TB 7200rpm 3.5" HDD			|$40	|[disctech](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/4TB?order=onlinecustomerprice:asc&show=48)	|OPTIONAL. ALT: [6TB ($70), 8TB ($90)](https://serverpartdeals.com/collections/manufacturer-recertified-drives?pf_t_interface_type=interface%3ASATA&pf_t_capacity=capacity%3A6TB&pf_t_capacity=capacity%3A8TB)
 COOL	|	Thermalright AXP120-X67	CPU Cooler	|	$35	|[pcpartpicker](https://pcpartpicker.com/product/K2cG3C/thermalright-axp120-x67-59-cfm-cpu-cooler-axp120-x67)	|OPTIONAL. ALT: GD09: Thermalright Silver Soul 135 ($40)
 PSU|Silverstone SX500-G 500W SFX|$110|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&sort=price&m=8,337,50,11,14,101,17,18,27,28,94,29,229,51,71,63,441,56&A=450000000000,2050000000000)|ALT: GD09: [500W+ ATX](https://pcpartpicker.com/products/power-supply/#xcx=0&th=1&sort=price&m=8,337,50,11,14,17,18,27,28,94,29,229,51,71,63,441,56&e=4,2)
-TOTAL||$660||
+TOTAL||$690||
 
 <!-- Sub-Section -->
 
