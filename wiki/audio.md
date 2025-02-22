@@ -360,7 +360,7 @@ Most players have audio passthrough support built-in, to be set up as per below.
 *If you need more advanced functionality, you can use filters external to your media player (where supported). See the External sub-section below.*  
 
 COMMON REQUIREMENTS (Windows):  
-1. Make sure the audio drivers are installed for your motherboard and/or GPU. If an Intel GPU, the Intel HD Audio driver and the Intel Management Engine driver. If Nvidia, the Nvidia HD Audio driver. If AMD, the AMD High Definition Audio driver.
+1. Make sure the drivers are installed for your GPU, if using HDMI; if an Intel GPU, the Intel HD Audio driver and the Intel Management Engine driver. If Nvidia, the Nvidia HD Audio driver. If AMD, the AMD High Definition Audio driver. If Optical, the audio drivers for your motherboard or add-in sound card (realtek, soundblaster, xonar, etc..)  
 2. If you're using **Windows 11 24H2** that was installed from scratch, install the AC-3 codec from [here](https://www.majorgeeks.com/files/details/dolby_ac_3ac_4_installer.html)  
 3. Windows Sound control panel-> \<your_sound_device\> ->Properties->Advanced: Enable "Allow applications to take exclusive control of this device".
 
