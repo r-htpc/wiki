@@ -309,7 +309,7 @@ If you're trying to configure more than Stereo but the options/buttons aren't av
 
 Now you can proceed to setting up specific applications and decoding of media/games.  
 
-- *Setting up Decoding for Media (NOT bitstreaming):* 
+- *Setting up Decoding for Media (if **NOT** bitstreaming below):* 
 
     - You should configure your media application(s) (if needed), by setting the sound device/audio renderer to "DirectSound" or "System Default". "DirectSound" sits between the application and the audio driver, controlling the channel layout and audio stream.  
 In media applications, the most popular ones will have the codecs to decode up to **Dolby TrueHD**, **DTS-HD MA** and many others (object metadata overlays like Dolby Atmos/DTS:X can NOT be channelized or meaningfully used by the PC without professional software; you must bitstream those codecs to an AVR or sound processor).  
