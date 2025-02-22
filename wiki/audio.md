@@ -327,8 +327,8 @@ In media applications, the most popular ones will have the codecs to decode up t
 
 - *If you want to upmix content:*
    - Configure the speaker configuration in the OS as Stereo. This will allow your sound system to use its upmixers (Dolby Surround, Pro Logic, etc..) to upmix the content
-   - Configure the speaker configuration in your media applications to the speakers you want to upmix to, e.g. 5.1
-   - Use a 3rd party upmixer, such as [Equalizer APO + Peace Equalizer GUI](/wiki/audio#audio-software), with Stereo Effect.
+   - Configure the speaker configuration in your media applications to the speakers you want to upmix to, e.g. 5.1. This varies. Each app usually has their own audio mixing filter, but may also include LAV audio decoder filters to do Pro Logic encoding/normalize/DRC/etc...
+   - Use a 3rd party system-wide upmixer, such as [Equalizer APO + Peace Equalizer GUI](/wiki/audio#audio-software), with Stereo Effect.
    - If available, set your windows sound device to use the 'Speaker fill' enhancement.
    - Install Dolby Access and configure Dolby Atmos for Home Theater with the Channel Upmixer option enabled
 
