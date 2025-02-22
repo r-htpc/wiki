@@ -967,7 +967,7 @@ HDMI 1.4 (1080p/4k@30)
 
 **PCIe to Optical/Analog**  
 
-Creative Sound Blaster [Z SE/SB1500](https://www.ebay.com/sch/44980/i.html?_nkw=%28Z+SE%2CSB1500%29&_from=R40&LH_BIN=1&_sop=15)/X3/X4/[AE-5+](https://www.ebay.com/sch/i.html?_nkw=ae+5&_sacat=44980&_from=R40&_trksid=p2334524.m570.l1313&_odkw=%28Z+SE%2CSB1500%29&LH_BIN=1&_osacat=44980&_sop=15&_oac=1) - TOSLINK Optical+Analog, DD/DTS Passthrough, Dolby Digital Live Encoding  
+Creative Sound Blaster [Z SE/SB1500](https://www.ebay.com/sch/44980/i.html?_nkw=%28Z+SE%2CSB1500%29&_from=R40&LH_BIN=1&_sop=15)/X3/X4/AE-5+ - TOSLINK Optical+Analog, DD/DTS Passthrough, Dolby Digital Live Encoding  
 
 Creative Audigy RX - TOSLINK Optical+Analog, DD/DTS Passthrough 
 
