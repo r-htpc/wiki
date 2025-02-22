@@ -286,17 +286,18 @@ If you have only an ARC/eARC port on your sound system (like a cheaper soundbar)
 ### **Software/OS Setup**  
 
 There are 2 ways to send audio between your HTPC and your sound system, Decoding and Bitstreaming.  
-Depending on your use-case **you may be using one or both**. A use-case where you'd use both is where you want to bitstream Dolby/DTS codecs from a media player(s), but send PCM for games and other non-encoded content (music, youtube, etc..);  
-You should **configure Scenario #1 first and then optionally configure Scenario #2 for bitstreaming Dolby/DTS encoded content in your OS and media players**.  
+Depending on your use-case **you may be using one or both**.  
+A use-case where you'd use both is where you want to bitstream Dolby/DTS codecs from a media player(s), but send decoded PCM for games and other non-encoded content (music, youtube, etc..);  
+You should **configure Scenario #1 for decoded PCM first and then, optionally, configure Scenario #2 for bitstreaming Dolby/DTS encoded content in your OS and media players**.  
 **Do NOT continue on until you know what codecs your sound system/display and related audio interfaces support (per above research/setup) and [which you want to use](/wiki/audio#what-kind-of-audio-is-supported-on-a-htpc)**
 
 **Scenario #1: DECODING/CHANNELIZATION**  
 
-The first scenario is decoding and channelization. This means the media application playing your content sends the audio to your sound system (or your OS does) through Windows DirectSound, converted to the common PCM format you (hopefully) read about above, or analog, if using a 3.5mm/RCA audio interface. The sound system has no knowledge of the codec being played, if there is one.  
+The first scenario is decoding and channelization. This means the media application playing your content sends the audio to your sound system (or your OS does) through Windows DirectSound, converted to the common PCM format you read about above, for use over a digital or analog audio interface. The target sound system has no knowledge of the codec being played, if there was one.  
 
-This scenario would be used for non-encoded PCM audio, like **Gaming**, streaming services that only support Stereo, and/or when you want to modify the audio in the PC using middleware (upmixing, equalizing, creating fake spatial audio), and/or sound systems where encoded codecs are not supported, like analog audio interfaces.  
+This scenario would be used for non-encoded PCM audio, like **Gaming**, streaming services that only support Stereo, and/or when you want to modify the audio using middleware (upmixing, equalizing, creating fake spatial audio), and/or sound systems where encoded codecs are not supported, like analog audio interfaces.  
 
-**On a Windows HTPC, this is the DEFAULT scenario, so audio interfaces are limited by their PCM capabilities and Stereo is the default output unless configured**.  
+**On a Windows HTPC, this is the DEFAULT scenario and Stereo is the default output unless configured**.  
 
 Start by setting up your Speaker configuration in your OS so it knows how many channels you have.  
 To do this in Windows: Open Windows Sound control panel (run mmsys.cpl) -> \<your_audio_device\> -> Configure -> Select your speaker configuration -> Next -> Optionally configure the speakers you have/don't have. Click 'Test' and confirm all channels you're configuring are being represented properly.  
@@ -492,7 +493,7 @@ You can read more about Normalization [here](https://www.realhd-audio.com/?p=674
 ### Why does my sound system only play Stereo/2-channels or PCM/Multi-channel when trying to bitstream a surround sound codec?  
 
 1. You haven't set up your hardware/software correctly.  
- You haven't followed the steps for setting up your PC hardware/software correctly for bitstreaming. See sections above.  
+ You haven't [followed the steps for setting up your PC hardware/software correctly for bitstreaming](/wiki/audio#application-specific-setup-for-bitstreaming)  
  You're trying to bitstream through a TV and you haven't configured the relevant settings in your TV for this.  Read your manual.  
 2. You're looking in Windows sound control panel for the number of channels it detects. Windows sound control panel does NOT control bitstreaming. See the application bitstreaming setup section.  
 3. You're trying to send/passthrough codecs over an unsupported audio interface or device.  
@@ -509,7 +510,7 @@ You can read more about Normalization [here](https://www.realhd-audio.com/?p=674
 6. You're decoding the codec on your PC before you send it to your sound system.  
  This is common if you've installed middleware (like an equalizer or other APO software) to modify the audio signal on the PC first. It will usually decode the codec first to do this. If you're trying to bitstream the codec, this is not ideal.  
  Decide which is more important to you, bitstreaming or use of the middleware. If bitstreaming, don't use the middleware or find additional middleware to re-encode the audio.  
-7. You're using an ACTIVE DP/USB->HDMI adapter or cable. You can't bitstream HD audio over an active adapter. The max you can do is PCM audio. If you need to bitstream, use a PASSIVE [adapter](/wiki/components#video-cablesadapters).  
+7. You're using an ACTIVE DP/USB->HDMI adapter or cable. You can't bitstream HD audio over an active adapter. The max you can do is PCM or regular DD/DTS. If you need to bitstream, use a PASSIVE [adapter](/wiki/components#video-cablesadapters).  
 
 <!-- Sub-Section -->
 
@@ -519,7 +520,7 @@ In order to determine what audio codec/channel configuration is supported, the o
 
 If you're connecting your HTPC directly to a TV first, it will usually detect it as Stereo in the sound device configuration, per either the TV's internal speakers or older HDMI ARC and Optical ports, which only support 2-channel PCM audio. If you want to send PCM 5.1, you either have to:
  - Change to a different HW setup to get around the audio interface with this limitation ([as per the setup scenarios above](/wiki/audio#hardware-setup))
- - Configure your media applications to use only bistreamed 5.1 codecs supported by your [audio interfaces](/wiki/audio#audio-transportsinterfaces). See the Application-Specific Setup For Bitstreaming section above.
+ - Configure your media applications to use only bistreamed 5.1 codecs supported by your [audio interfaces](/wiki/audio#audio-transportsinterfaces). See the [Application-Specific Setup For Bitstreaming](/wiki/audio#application-specific-setup-for-bitstreaming) section.
  - [Encode your PCM 5.1 audio into Dolby Digital bitstreamed audio](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital) 
  - Upgrade your display/[sound system components](/wiki/audio#what-kind-of-sound-system-should-i-get) that have the [limited interface(s)](/wiki/audio#audio-transportsinterfaces).
 
@@ -985,5 +986,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2025-02-18*
+ *This page was last updated on 2025-02-22*
 
