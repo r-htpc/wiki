@@ -689,13 +689,9 @@ Good for 720p internal resolution on emulators, [1080p up to Wii/Gamecube/PS2](h
 
 Will handle 4k video duties just fine.  
 
-This is a bottom-barrel build, due to Micro-ATX motherboard being cheaper, CPU a tick slower, a larger case and a smaller SSD.  
-
-For better quality parts, see ALT: notes, for a better case, motherboard and separate PSU. @$60 more. For more oomph, see the $500 build below.  
+If you want more performance on the cheap pick up a used [HP Elitedesk 800 G4 SFF](https://www.ebay.com/sch/i.html?_nkw=hp+elitedesk+800+g4+sff+i5-8500&_sacat=179&_from=R40&_trksid=p2334524.m570.l1313&_odkw=hp+elitedesk+800+g4+sff+i5-8500&_osacat=179&LH_BIN=1&_sop=15) off ebay and put a low profile GTX 1050 Ti in it for around $250 all told  
 
 For an even smaller box, you could go with the Asrock Deskmini A300W/X300W case at 1.9L. Skip motherboard and change ram to DDR4-3200 2x8GB SO-DIMMS. $30 more.  
-
-If you don't want to build, you can find [SFF/USFF pre-builts on Ebay with the Ryzen 2400G/3400G](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%283400ge%2C2400ge%2C2400g%2C3400g%29&_sacat=179&LH_TitleDesc=0&_odkw=%283400ge%2C2400ge%29&_osacat=179&LH_BIN=1&_sop=15&_udhi=150%29+%28%24100%29+OR+%3E%3D+%5BJ4125+Mini+PC%5D%28https%3A%2F%2Fwww.amazon.com%2FNucBox-Windows-Computer-Intel-J4125%2Fdp%2FB092JFVX2Z) for around $200, sometimes cheaper.  
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
