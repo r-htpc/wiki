@@ -357,8 +357,8 @@ On a Windows HTPC, this is usually done per media application by telling the aud
 
 #### **Application-Specific Setup For Bitstreaming**
 
-Most players have audio passthrough support built-in, to be set up as per below.  
-*If you need more advanced functionality, you can use filters external to your media player (where supported). See the External sub-section below.*  
+Most media players have audio passthrough support built-in, but it must be configured using the following instructions.  
+*If you need more advanced functionality, you can use filters external to your media player (where supported). See the EXTERNAL: sub-section below.*  
 
 COMMON REQUIREMENTS (Windows):  
 1. Make sure the drivers are installed for your GPU, if using HDMI; if an Intel GPU, the Intel HD Audio driver and the Intel Management Engine driver. If Nvidia, the Nvidia HD Audio driver. If AMD, the AMD High Definition Audio driver. If Optical, the audio drivers for your motherboard or add-in sound card (realtek, soundblaster, xonar, etc..)  
