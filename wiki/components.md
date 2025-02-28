@@ -168,9 +168,9 @@ AMD Ryzen 6xxx(U/H) (EM)									|	Y		|	Y		|	Y	|	Y		|2.1 (8)		|2.0	|	Y	|	Y		|	Y	
 AMD Ryzen 7xxx/8xxxG (DT)									|	Y		|	Y		|	Y	|	Y		|2.1 (11)		|2.0	|	Y	|	Y		|	Y		|Raphael & RDNA2/RDNA3
 AMD RX 4xx/5xx								|	Y		|	Y		|	N	|	Y		|2.0		|1.4	|	N	|	N		|	Y		|Polaris
 AMD RX Vega 56/64/VII						|	Y		|	Y		|	N	|	N		|2.0		|1.4	|	N	|	N		|	Y		|RX Vega
-AMD RX 5xxx									|	Y		|	Y		|	N	|	Y		|2.0		|1.4	|	Y	|	Y		|	Y		|Navi/RDNA
-AMD RX 6xxx									|	Y		|	Y		|	Y (6)	|	Y		|2.1		|1.4	|	Y	|	Y		|	Y		|Navi/RDNA2
-AMD RX 7xxx									|	Y		|	Y		|	Y	|	Y		|2.1		|2.1	|	Y	|	Y		|	Y		|Navi/RDNA3
+AMD RX 5xxx									|	Y		|	Y		|	N	|	Y		|2.0		|1.4	|	Y	|	Y		|	Y		|RDNA
+AMD RX 6xxx									|	Y		|	Y		|	Y (6)	|	Y		|2.1		|1.4	|	Y	|	Y		|	Y	|RDNA2
+AMD RX 7xxx/9xxx							|	Y		|	Y		|	Y	|	Y		|2.1		|2.1	|	Y	|	Y		|	Y		|RDNA3/RDNA4
 Nvidia GTX/RTX 10/16/20						|	Y		|	Y		|	N	|	Y (5)	|2.0		|1.4	|	Y	|	Y (9)		|	Y		|Pascal/Turing
 Nvidia RTX 30xx/40xx								|	Y		|	Y		|	Y	|	Y		|2.1		|1.4	|	Y	|	Y		|	Y		|Ampere/Ada
 Nvidia RTX 50xx								|	Y		|	Y		|	Y	|	Y		|2.1		|2.1	|	Y	|	Y		|	Y		|Blackwell
