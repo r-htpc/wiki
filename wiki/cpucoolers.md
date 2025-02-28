@@ -176,5 +176,5 @@ AIR: [Noctua NH-D12L](https://www.reddit.com/r/htpc/comments/y7vpr0/fyi_the_noct
 
 --- 
 
-*This page was last updated on 2024-06-01*
+*This page was last updated on 2025-02-28*
 
