@@ -1,3 +1,8 @@
+---
+description: A list of CPU coolers for HTPCs
+keywords: [htpc coolers]
+---
+
 # CPU Coolers
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
