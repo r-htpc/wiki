@@ -1,3 +1,8 @@
+---
+description: The /r/htpc sub-reddit's wiki page
+keywords: htpc guide, htpc wiki, htpc help
+---
+
 <!-- ## Overview -->
 
 ### Welcome to the [/r/htpc](https://www.reddit.com/r/htpc) sub-reddit's wiki page.
