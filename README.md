@@ -1,7 +1,3 @@
----
-description: The /r/htpc sub-reddit's wiki page
----
-
 <!-- ## Overview -->
 
 ### Welcome to the [/r/htpc](https://www.reddit.com/r/htpc) sub-reddit's wiki page.
