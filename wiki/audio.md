@@ -353,6 +353,7 @@ On a Windows HTPC, this is usually done per media application by telling the aud
   2. For applications that support bitstreaming, changing settings in the Windows Sound control panel means nothing. Bitstreaming bypasses any Speaker Setup config (Stereo/Surround).  
 
 <!-- Sub-Sub-Section -->
+<!-- #application-specific-setup-for-bitstreaming -->
 
 #### **Application-Specific Setup For Bitstreaming**
 
