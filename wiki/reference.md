@@ -1,3 +1,8 @@
+---
+description: A list of terms found on the /r/htpc subreddit and what they mean
+keywords: [htpc reference]
+---
+
 # HTPC Term Reference
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
