@@ -13,7 +13,7 @@
 
 **1080p: Beelink Mini S12 N95, Intel NUC11ATK, On the cheap: Intel NUC7PJYH/NUC7CJYH/NUC6CAYH**
 
-**Plex Server Transcoding: Less: Beelink Mini S12 Pro/Intel NU8i5, More: Minisforum NAB6 Lite. On the cheap: Used [i3-7100T Micro/Tiny](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%28hp%2Cdell%2Clenovo%2Cintel%29+%28i3-7100t%2Ci5-7400t%2Ci5-7500t%2Ci3-7100u%29&_sacat=179&LH_TitleDesc=0&_fsrp=1&_odkw=%28hp%2Cdell%2Clenovo%2Cintel%29+%28i3-7100t%2Ci5-7400t%2Ci5-7500ti3-7100u%2C%29&_osacat=179&LH_BIN=1&_sop=15&LH_PrefLoc=2&_udhi=150)**
+**Plex Server Transcoding: Less: Beelink Mini S12 Pro/Intel NU8i5, More: Minisforum NAB6 Lite. On the cheap: Used Intel NUC8i3BEH**
 
 **Fanless: Intel NUC/Asus PNxx + [Akasa Turing/Plato/Newton](https://www.akasa.com.tw/index.php?lang=en) chassis**
 
@@ -444,5 +444,5 @@ Zotac
 
 ---
 
-*This page was last updated on 2024-11-24*
+*This page was last updated on 2025-02-28*
 
