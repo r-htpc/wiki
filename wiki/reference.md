@@ -135,7 +135,7 @@ RATE|USE|NOTES
 
 **Radeon RX 4xx/5xx** - Older generation family of mid-level graphics cards made by AMD. It is one of the graphics card families to support HDMI 2.0, HDCP 2.2 and Microsoft Playready 3 for DRM use to access 4K Netflix.
 
-**Radeon RX Vega/Navi/5xxx/6xxx/7xxx** - Families of graphics cards made by AMD. Vega (2017-) is found in AMD APUs in various forms, supporting HDMI 2.0 and HDR. Also found in dedicated GPUs in the form of Vega 56/64, succeeding the RX 4xx/5xx families. Navi (2019) succeeds Vega with RDNA 1 and includes the RX 5x00 dedicated GPUs. Navi is one of the graphics card families to support HDMI 2.0, HDCP 2.2 and Microsoft Playready 3 for DRM use to access 4K Netflix. RDNA 2 include RX 6xx0 dedicated GPUs and Ryzen 7xxx iGPUs, and adds support for HDMI 2.1. RDNA 3 include RX 7x00 dedicated GPUs and adds support for DP 2.1.
+**Radeon RX Vega/Navi/5xxx-9xxx** - Families of graphics cards made by AMD. Vega (2017-) is found in AMD APUs in various forms, supporting HDMI 2.0 and HDR. Also found in dedicated GPUs in the form of Vega 56/64, succeeding the RX 4xx/5xx families. Navi (2019) succeeds Vega with RDNA 1 and includes the RX 5x00 dedicated GPUs. Navi is one of the graphics card families to support HDMI 2.0, HDCP 2.2 and Microsoft Playready 3 for DRM use to access 4K Netflix. RDNA 2 include RX 6xx0 dedicated GPUs and Ryzen 7xxx iGPUs, and adds support for HDMI 2.1. RDNA 3 include RX 7x00 dedicated GPUs and adds support for DP 2.1.
 
 **Ryzen/Zen** -  A modern generation of AMD CPU
 
@@ -165,5 +165,5 @@ ARCH|GEN|RELEASED|NOTES
 
 ---
 
-*This page was last updated on 2024-10-23*
+*This page was last updated on 2025-02-28*
 
