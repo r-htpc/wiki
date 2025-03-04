@@ -1,6 +1,6 @@
 ---
 description: Information on pre-builts and DiY builds to help you get started with a HTPC, media server, NAS, gaming or specialized setup
-keywords: [htpc build, mini pc, pre-builts, media server, emulation, madvr, hdr, all-in-one]
+keywords: [htpc build, diy htpc, mini pc, pre-builts, media server, emulation, madvr, hdr, all-in-one]
 ---
 
 # Pre-Built / DiY HTPC Builds
