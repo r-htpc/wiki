@@ -70,7 +70,7 @@ The gold standard today in HTPCs is 4k@60FPS. Common rates relating to HTPCs are
 
 RATE|USE|NOTES
 :--|:--|:--
-23.976/24|Movies|Usually upconverted to 60i for TVs through a process known as 2:3/3:2 pulldown.
+23.976/24|Movies/TV Shows|Usually upconverted to 60i for TVs through a process known as 2:3/3:2 pulldown.
 25|Broadcast TV (outside US/Central America/SE Asia)|Standard used in PAL color-encoding for 576i
 29.97/30|Broadcast TV (US/Central America/SE Asia), HTPC|Standard used in NTSC color-encoding. Interlaced to 60 fps for TV
 60|HTPC and TV Display|60i (cable/sat), 60p (HTPC, media devices)
@@ -109,7 +109,7 @@ The gold standard today in HTPCs for media is 120 Hz. For high end gaming, 120 H
 
 RATE|USE|NOTES
 :--|:--|:--
-24|NTSC|For judder reduction of 24p content (movies, almost all 1080p bluray)
+24|NTSC|For judder reduction of 24p content (movies/tv shows, almost all 1080p bluray)
 30|NTSC|Older TVs use this. For 30fps
 50|PAL|For 25fps
 60|NTSC|Majority of budget TVs use this. Used for 60fps
