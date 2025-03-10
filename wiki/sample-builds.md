@@ -120,11 +120,12 @@ Intel 7th gen+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDMI 2.0 po
 - Dell Optiplex/HP Prodesk/Elitedesk + HDMI 2.0 card ($120+, see recs in 4K HDR players above)
 - [Intel/Asus NUC 7+ (i3-i9)](https://www.asus.com/us/displays-desktops/nucs/nuc-mini-pcs/filter?Series=NUC-Kits) ($200+)
 - ASRock [NUC/4x4 Box](https://www.newegg.com/ASRock-Industrial-Mini-PC-Barebone/BrandSubCat/ID-223387-309?Order=1), [DeskMini/DeskMeet](https://www.newegg.com/ASRock-Mini-PC-Barebone/BrandSubCat/ID-1944-309) ($325+)
-- [Lenovo Ideacentre/Neo/M75](https://www.lenovo.com/us/en/c/desktops/thinkcentre/?sortBy=priceUp&visibleDatas=699%3AWindows%252011%2520Pro%252064%2CWindows%252011%2520Home%252064%2CWindows%252010%2520Pro%252064) ($400+, see recs in 4K HDR players above)
-- [MSI Cubi/Pro DP series](https://www.amazon.com/s?keywords=Mini+Computers&i=computers&rh=n%3A13896591011%2Cp_123%3A378555&dc&c=ts&qid=1733595152&rnid=85457740011&ts_id=13896591011&ref=sr_nr_p_123_10&ds=v1%3AnQRfur4qf8GhElQv2EyLSUgtMG4sr3SJOY94hUGfkfE) ($325+, see recs in 4K HDR players above)
+- [Lenovo Ideacentre/Neo/M75](https://www.lenovo.com/us/en/c/desktops/thinkcentre/?sortBy=priceUp&visibleDatas=699%3AWindows%252011%2520Pro%252064%2CWindows%252011%2520Home%252064%2CWindows%252010%2520Pro%252064) ($400+, see recs in 4K HDR players above) 
+- [MSI Cubi/Pro DP series](https://www.amazon.com/s?keywords=Mini+Computers&i=computers&rh=n%3A13896591011%2Cp_123%3A378555&dc&c=ts&qid=1733595152&rnid=85457740011&ts_id=13896591011&ref=sr_nr_p_123_10&ds=v1%3AnQRfur4qf8GhElQv2EyLSUgtMG4sr3SJOY94hUGfkfE) ($325+, see recs in 4K HDR players above) 
 - [Asus ExpertCenter PN42+](https://www.amazon.com/s?k=asus+expertcenter&i=computers&rh=n%3A13896591011&s=price-asc-rank) ($400+)
+  
 <!--
-- [Intel/Asus NUC 7+ (i3-i9)](https://www.newegg.com/p/pl?N=100008345%2050001315%2050001157%20601450721%20601435127%20601435126%20601398031%20601407140%20601412543%20601398018%20601398044%20601412542%20601398043%20601398019%20601412544%20601398020%20601398041%20601441281%20600045203%20600414452&Order=1) ($300+)
+ [Intel/Asus NUC 7+ (i3-i9)](https://www.newegg.com/p/pl?N=100008345%2050001315%2050001157%20601450721%20601435127%20601435126%20601398031%20601407140%20601412543%20601398018%20601398044%20601412542%20601398043%20601398019%20601412544%20601398020%20601398041%20601441281%20600045203%20600414452&Order=1) ($300+)
 -->
 
 <!-- Sub-Section -->
