@@ -139,7 +139,8 @@ Intel 7th gen+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDMI 2.0 po
 
 ### Specialized: Dolby Vision / HDR10+
 
-- *Local:* Ugoos AM6B Plus/Dune HD Box R Plus (8K: Ugoos AM8 Pro) + CoreElec. *Local+Streaming:* Nvidia Shield Pro (DV), FireTV Cube (HDR10+/DV)
+- *Local Content:* Ugoos AM6B Plus/Dune HD Box R Plus (8K: Ugoos AM8 Pro) + CoreElec.
+- *Local Content+Streaming:* Nvidia Shield Pro (DV), FireTV Cube (HDR10+/DV)
 - **No passthrough on a traditional/DiY HTPC**  
 
 <!-- Sub-Section -->
