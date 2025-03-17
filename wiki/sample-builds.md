@@ -107,7 +107,7 @@ $150-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB
   - $350-400: High (<= PS3)
     - [Beelink EQR6](https://www.amazon.com/s?k=eqr6+6900hx&i=electronics&crid=39BXXMKRACXZJ&sprefix=eqr6+6900hx%2Celectronics%2C140&ref=nb_sb_noss_2)/[Minisforum UM690S](https://www.amazon.com/MINISFORUM-UM690-6900HX-Threads-Bluetooth5-2/dp/B0BP1S1YNS/) (6900HX)  
   - $500+: Ultra (<= Xbox 360)
-    - [Beelink SER7](https://www.amazon.com/Beelink-SER7-7840HS-Computer-Display/dp/B0CQT9N951)/[Minisforum UM790 Pro](https://store.minisforum.com/collections/game-mini-pc/products/minisforum-um790-pro?variant=44134865731829) 
+    - Minisforum [UM870](https://www.amazon.com/MINISFORUM-Desktop-Computer-Barebone-Graphics/dp/B093V18HKB/?th=1) / [UM790 Pro](https://store.minisforum.com/collections/game-mini-pc/products/minisforum-um790-pro?variant=44134865731829) 
 
  See [ETA PRIME](https://www.youtube.com/@ETAPRIME) YT channel for Emulation device reviews  
 
