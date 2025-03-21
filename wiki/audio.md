@@ -410,7 +410,7 @@ VLC:
 
 KODI:  
 1. Make sure audio output device is connected
-2. Settings->System->Audio->Audio output device: WASAPI
+2. Kodi->Settings->System->Audio->Audio output device: WASAPI
 3. Change settings view on bottom-left to "Expert"
 4. Settings->System->Audio->Allow Passthrough: On, Passthrough Output Device: <HDMI/Optical Device>  
 5. Settings->System->Audio->XXX capable receiver: Enable the codecs your sound system supports decoding  
