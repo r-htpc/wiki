@@ -408,6 +408,14 @@ VLC:
    - MMDevice->Output back-end: Windows Audio Session API output, HDMI/SPDIF Audio Passthrough: Enabled - for all codecs, or Enabled (AC3/DTS only) - for if your sound system only supports decoding regular DD/DTS. Output Device: <audio device you will be using for bitstreaming>  
 2. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
 
+KODI:  
+1. Make sure audio output device is connected
+2. Settings->System->Audio->Audio output device: WASAPI
+3. Change settings view on bottom-left to "Expert"
+4. Settings->System->Audio->Allow Passthrough: On, Passthrough Output Device: <HDMI/Optical Device>  
+5. Settings->System->Audio->XXX capable receiver: Enable the codecs your sound system supports decoding  
+6. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
+
 PLEX HTPC/PLEX MEDIA PLAYER:  
 1. Settings->Audio->Device Type: HDMI/Optical  
 2. Settings->Audio->Channels: Auto  
@@ -423,12 +431,6 @@ PLEX FOR WINDOWS:
 4. Settings->Player->Channels: Auto  
 5. Settings->Player->Passthrough xxx: Enable the codecs your sound system supports decoding  
 6. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
-
-KODI:  
-1. Settings->System->Audio->Audio output device: WASAPI  
-2. Settings->System->Audio->Allow Passthrough: On  
-3. Settings->System->Audio->XXX capable receiver: Enable the codecs your sound system supports decoding  
-4. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
 
 EXTERNAL: OPTIONAL: If you need/want an advanced/specialized audio decoder/filter external to your app/player:  
 1. Install the external [LAV Filters](https://github.com/Nevcairiel/LAVFilters/releases) software.  
