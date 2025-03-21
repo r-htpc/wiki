@@ -651,15 +651,19 @@ See instructions below for setting this up in your media player software.
 
 KODI:  
 
-1. Kodi->Settings->System
-2. Toggle settings view to "Expert"
-3. Set channel configuration to 2.0
-4. Check box for Dolby Digital (AC3) capable receiver and Enable Dolby Digital Transcoding. Uncheck boxes for every other capability receiver (E-AC3, DTS, etc..)
+1. Make sure audio output device is connected
+2. Kodi->Settings->System
+3. Toggle settings view to "Expert"
+4. Go to Audio submenu
+5. Allow Passthrough: ON, Passthrough Ouptut Device: WASAPI : <HDMI/Optical Device>
+6. Dolby Digital (AC3) capable receiver: ON, Enable Dolby Digital (AC3) Transcoding: ON
+7. Disable every other codec listed that your sound system/interface isn't capable of decoding (E-AC3, DTS, etc..)
 
 MPC-HC/BE, POTPLAYER:  
 
 1. WAY #1:
-   - Use MPC-BE and enable "Encode to AC3" in Options->Internal Filters->Audio Decoders->Audio Decoder Configuration.  
+   - Use MPC-BE
+   - Open MPC-BE, go into Options->Internal Filters->Audio Decoders->Audio Decoder Configuration, enable "Encode to AC-3" and restart the app.  
 
 2. WAY #2:
    - Download and install [ffdshow](https://sourceforge.net/projects/ffdshow-tryout/files/Official%20releases/). Make sure you install the version that matches your player (i.e. the "64-bit" version for a 64-bit player. "generic build" for a 32-bit player).
