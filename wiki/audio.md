@@ -653,21 +653,23 @@ See instructions below for setting this up in your media player software.
 
 KODI:  
 
-1. Make sure audio output device is connected
-2. Kodi->Settings->System
-3. Toggle settings view to "Expert"
-4. Go to Audio submenu
-5. Allow Passthrough: ON, Passthrough Ouptut Device: WASAPI : <HDMI/Optical Device>
-6. Dolby Digital (AC3) capable receiver: ON, Enable Dolby Digital (AC3) Transcoding: ON
-7. Disable every other codec listed that your sound system/interface isn't capable of decoding (E-AC3, DTS, etc..)
+   - Open Kodi
+   - Make sure audio output device is connected
+   - Kodi->Settings->System
+   - Toggle settings view to "Expert"
+   - Go to Audio submenu
+   - Allow Passthrough: ON, Passthrough Ouptut Device: WASAPI : <Your HDMI/Optical Device>
+   - Dolby Digital (AC3) capable receiver: ON, Enable Dolby Digital (AC3) Transcoding: ON
+   - Disable every other codec listed that your sound system/interface isn't capable of decoding (E-AC3, DTS, etc..)
+   - Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.
 
-MPC-HC/BE, POTPLAYER:  
+MPC-BE:  
+   - Open MPC-BE
+   - View->Options->Internal Filters->Audio Decoders->Audio Decoder Configuration, enable "Encode to AC-3"
+   - Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.
 
-1. WAY #1:
-   - Use MPC-BE
-   - Open MPC-BE, go into Options->Internal Filters->Audio Decoders->Audio Decoder Configuration, enable "Encode to AC-3" and restart the app.  
+MPC-HC/Others:
 
-2. WAY #2:
    - Download and install [ffdshow](https://sourceforge.net/projects/ffdshow-tryout/files/Official%20releases/). Make sure you install the version that matches your player (i.e. the "64-bit" version for a 64-bit player. "generic build" for a 32-bit player).
    - In the Windows sound control panel, make sure you enable "Allow applications to take exclusive control of this device" in Your_Playback_Device->Advanced 
    - Open your media player
@@ -678,29 +680,49 @@ MPC-HC/BE, POTPLAYER:
      * Pass-through (S/PDIF, HDMI): "Dolby Digital (AC3)" checked  
      * AC3 (S/PDIF encode mode): checked  
    - (OPTIONAL) If you only want to re-encode certain formats, go to "Codecs" in the left-hand sidebar, then set every codec you don't want to re-encode to "disabled" under the Decoder column and the ones you do to a libXXX decoder  
-   - Click Apply, Ok to close filter config. Click Apply, Ok to close player config. Restart media player.  
+   - Click Apply, Ok to close filter config. Click Apply, Ok to close player config.
+   - Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.
+
+POTPLAYER:
+
+  - Open Potplayer
+  - F5 key->Audio
+   - Pass-through Renderer: Default WaveOut Device
+   - Speakers: <your speaker setup\> (if you do not want to encode Stereo sources to DD, set to: Same as input)
+   - Output: Passthrough after AC3 re-encoding
+   - Button: Set Built-in Audio Decoder
+     - Pass-through (S/PDIF, HDMI): Enable
+       - Button: Ok
+     - Button: Apply, Ok
+  - Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.
 
 VLC:  
 
-1. Tools->Preferences->Show Settings (Simple)->Audio  
+  - Open VLC
+  - Tools->Preferences->Show Settings (Simple)->Audio  
+  - Output Module: DirectX audio output  
+  - Check box for "Use S/PDIF where available"  
+  - Device: <Your Optical/HDMI device> 
+  - Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.
 
-2. Output Module: DirectX audio output  
+PLEX HTPC/PLEX MEDIA PLAYER:
+  - Open Plex HTPC
+  - Settings->Audio
+  - Device Type: HDMI/Optical
+  - Device: <Your HDMI/Optical Device>
+  - If Device is Optical: Check box for "Passthrough: Dolby Digital (AC3)". Uncheck box for "Passthrough: DTS"
+  - If Device is HDMI: Check box for "Passthrough: Dolby Digital (AC3)". Uncheck boxes for "Passthrough: \<everything else\>"  
+  - Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.
 
-3. Check box for "Use S/PDIF where available"  
-
-4. Device: Your Optical/HDMI device  
-
-PLEX MEDIA PLAYER/PLEX HTPC:  
-
-1. Settings->Audio  
-
-2. Device Type: HDMI/Optical  
-
-3. Device: <HDMI/Optical Device>  
-
-4. If Device is Optical: Check box for "Passthrough: Dolby Digital (AC3)". Uncheck box for "Passthrough: DTS"  
-
-5. If Device is HDMI: Check box for "Passthrough: Dolby Digital (AC3)". Uncheck boxes for "Passthrough: \<everything else\>"  
+PLEX FOR WINDOWS:
+  - Open Plex for Windows
+  - Settings->Player
+  - Audio Device: <Your HDMI/Optical Device>
+  - Audio Device Kind: <Optical/HDMI>
+  - If Device is Optical: Check box for "Passthrough: Dolby Digital (AC3)". Uncheck box for "Passthrough: DTS"
+  - If Device is HDMI: Check box for "Passthrough: Dolby Digital (AC3)". Uncheck boxes for "Passthrough: \<everything else\>"
+  - Button: Save Changes
+  - Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.
 
 SYSTEM-WIDE: If you want to encode all of your system audio into Dolby Digital, either for compatability, bandwidth reasons, or for volume-control reasons, see the ALTERNATIVES [section below on encoding gaming audio](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) into Dolby Digital Live, which does the same thing, on a lower-level.  
 
