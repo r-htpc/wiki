@@ -693,7 +693,7 @@ POTPLAYER:
    - Button: Set Built-in Audio Decoder
      - Pass-through (S/PDIF, HDMI): Enable
        - Button: Ok
-     - Button: Apply, Ok
+   - Button: Apply, Ok
   - Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.
 
 VLC:  
