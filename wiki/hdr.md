@@ -423,6 +423,28 @@ Advanced, OLD way to integrate madVR into Kodi for passthrough, tonemapping, and
 * *Update MadVR* (OPTIONAL)
   * If you want newer, beta madVR features, after validating your setup, [download madVR beta](https://madshi.net/madVRhdrMeasure113.zip), unzip and copy the files into C:\Program Files (x86)\K-Lite Codec Pack\Filters\madVR\  
 
+### **Potplayer**
+
+Simple, HDR passthrough or tonemapping.  
+
+* *Requirements:*  
+  * Common settings above  
+  * Install [Potplayer](https://potplayer.daum.net/)  
+* *Windows 1x settings:*  
+  * Settings app -> System -> Display -> HDR and WCG/Use HDR/Play HDR.. -> **Off**  
+* *Potplayer settings:*  
+  * *Potplayer app*  
+    * Preferences -> Video
+      * Video Renderer: Built-in Direct3D 11 Video Renderer
+      * Use H/W HDR Output Mode: ON
+    * Preferences -> Video -> Pixel Shaders
+      * Enable SMPTE ST 2084 HDR Correction: OFF
+      * Enable SMPTE ST 2086 HDR Correction: OFF
+    * *OPTIONAL*: [Wiki:Audio Setup Guide](https://r-htpc.github.io/wiki/audio#softwareos-setup)
+* *Test*  
+  * *Potplayer app*  
+    * Play a [test HDR video](/wiki/hdr#hdr-tests). [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
+
 ### **Plex HTPC**
 
 Simple, HDR Passthrough or Tonemapping  
@@ -536,5 +558,5 @@ AMD RX >= 67xx|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Dif
 
 ---
 
-*This page was last updated on 2025-02-20*
+*This page was last updated on 2025-03-24*
 
