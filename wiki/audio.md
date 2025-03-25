@@ -295,14 +295,14 @@ You should **configure Scenario #1 for decoded PCM first and then, optionally, c
 
 The first scenario is decoding and channelization. This means the media application playing your content sends the audio to your sound system (or your OS does) through Windows DirectSound, converted to the common PCM format you read about above, for use over a digital or analog audio interface. The target sound system has no knowledge of the codec being played, if there was one.  
 
-This scenario would be used for non-encoded PCM audio, like **Gaming**, streaming services that only support Stereo, and/or when you want to modify the audio using middleware (upmixing, equalizing, creating fake spatial audio), and/or sound systems where encoded codecs are not supported, like analog audio interfaces.  
+This scenario is used for such things as **Gaming**, streaming services that only support Stereo, when you want to modify the audio using middleware (upmixing, equalizing, creating fake spatial audio), analog audio interfaces, and/or sound systems/displays where specific encoded codecs, like Dolby and/or DTS, are not supported.  
 
-**On a Windows HTPC, this is the DEFAULT scenario and Stereo is the default output unless configured**.  
+**On a Windows HTPC, this is the DEFAULT scenario for audio and Stereo is the default output unless configured below!**  
 
 Start by setting up your Speaker configuration in your OS so it knows how many channels you have.  
 To do this in Windows: Open Windows Sound control panel (run mmsys.cpl) -> \<your_audio_device\> -> Configure -> Select your speaker configuration -> Next -> Optionally configure the speakers you have/don't have. Click 'Test' and confirm all channels you're configuring are being represented properly.  
 If you're trying to configure more than Stereo but the options/buttons aren't available or channels aren't being represented, it's usually because:
- - Your setup is limited by hardware (audio interfaces, sound system support, display passthrough mis-configuration). Double-check that all the connected equipment and interfaces support PCM in the channel config you want. For instance, don't use an Optical or regular ARC audio interface that only supports PCM 2.0 as per above and try to configure PCM 5.1 surround; if you still need 5.1, re-encode to a bitstream [your media](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital) or [game audio](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system). 
+ - Your setup is limited by hardware (audio interfaces, sound system support, display passthrough mis-configuration). Double-check that all the connected equipment and interfaces support PCM in the channel config you want. For instance, don't use an Optical or regular ARC audio interface that only supports PCM 2.0 as per above and try to configure 5.1 surround; if you still need 5.1, re-encode [your media](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital) or [game audio](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) to a bitstreamable codec. 
  - Your setup is limited by software. You haven't set up audio passthrough properly in your display, your sound system is not in direct mode, your speakers are mis-configured at your sound system or you installed/configured middleware audio software (like an APO, Spatial Sound, Mixer, Dolby Access/DTS Connect) before doing this setup.
 
 *If you select a speaker configuration that is more than what your content provides, for instance you choose 5.1 speakers and play a Stereo source, Windows will output the source as 5.1 but with only the Stereo speakers containing audio.*  
@@ -316,35 +316,36 @@ In media applications, the most popular ones will have the codecs to decode up t
 
     - Additionally, you can set [channel downmixing](/wiki/audio#why-is-the-volume-of-my-audio-so-wide-ranging-eg-voices-are-quiet-explosions-are-loud)/upmixing in your media application, if desired.  
 
-    - You can force Windows apps that don't have sound configurations (like browsers) to decode encoded formats like DD/DTS to PCM by disabling the "Allow applications to take exclusive control of this device" setting in the Properties->Advanced section of your sound device.  
+    - You can force Windows apps that don't have sound configurations (like browsers) to decode encoded formats like DD/DTS to PCM by disabling the "Allow applications to take exclusive control of this device" setting in the Properties->Advanced section of your control panel's sound device.  
 
     - After you've configured your app(s) and windows, play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below. 
 
     - There are advanced things you can do by using application middleware and external filters like [transcoding audio codecs](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital), decoding obscure codecs and advanced mixing. See the 3rd Party sub-section of the Audio Software section above.  
 
 - *Setting up for Gaming:*
-   - If you're playing games with just PCM or using Analog, you're done. If you're doing advanced setups like using Dolby Access/Atmos or Dolby Digital Live, see the [Gaming section](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) below for caveats and advanced setup.
+   - If you're playing games with just PCM or using Analog, you're done. If you're doing advanced setups like using Dolby Atmos or Dolby Digital Live, see the [Gaming section](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) below for caveats and advanced setup.
 
 - *If you want to upmix content:*
-   - Configure the speaker configuration in the OS as Stereo. This will allow your sound system to use its upmixers (Dolby Surround, Pro Logic, etc..) to upmix the content
+   - Configure the speaker configuration in your window's sound device as Stereo. This will allow your sound system to use its upmixers (Dolby Surround, Pro Logic, etc..) to upmix the content
    - Configure the speaker configuration in your media applications to the speakers you want to upmix to, e.g. 5.1. This varies. Each app usually has their own audio mixing filter, but may also include LAV audio decoder filters to do Pro Logic encoding/normalize/DRC/etc...
    - Use a 3rd party system-wide upmixer, such as [Equalizer APO + Peace Equalizer GUI](/wiki/audio#audio-software), with Stereo Effect.
-   - If available, set your windows sound device to use the 'Speaker fill' enhancement.
+   - If available, set your window's sound device to use the 'Speaker fill' enhancement.
    - Install Dolby Access and configure Dolby Atmos for Home Theater with the Channel Upmixer option enabled
 
 - NOTES:  
   1. You know this way is configured correctly because when you play audio you SHOULD be able to change the volume on the HTPC and hear a difference.  
-  2. Some OS sounds/applications primarily output audio as PCM exclusively (like web browsers; see below).
-  3. If you have an AV receiver, it would say "PCM"/"Multi Ch In"/"Direct"/"Uncompressed" on it, unless you have the receiver set to upmix the audio with a listening mode such as Dolby Surround.  
+  2. Some OS sounds/applications primarily output audio as PCM exclusively (e.g. youtube in web browsers).
+  3. If you have an AV receiver, it would say "PCM"/"Multi Ch In"/"Uncompressed" on it, unless you have the receiver set to upmix the audio with a listening mode such as Dolby Surround.  
 
 **Scenario #2: BITSTREAMING**  
 
-The second scenario is bitstreaming (pass-through). This means the application playing your content sends the audio to your sound system **untouched** and allows the sound system to decode it.  
+The second scenario is bitstreaming (pass-through). This means the application playing your content sends the audio to your sound system **untouched** and allows the sound system to decode it, when supported.  
 
 This scenario would be used with encoded codecs like Dolby and DTS, on digital audio interfaces like HDMI and Optical (i.e. not 3.5mm/RCA).  
 
-If, for example, if you're trying to play Dolby TrueHD and your sound system CAN decode Dolby TrueHD, you would configure bitstreaming. If you have an AV receiver, it would then say "Dolby TrueHD" on it.  
-On a Windows HTPC, this is usually done per media application by telling the audio decoder in it which codecs to bitstream. It may also involve setting the sound device in the app to "WASAPI Exclusive". WASAPI allows the application to talk directly to the audio driver.  
+For codecs your sound system can't support for bitstreaming, your HTPC will decode them to PCM per the Decoding section above. This also applies to codecs that are generally not bitstreamable like AAC, MP3, FLAC and WAV. If you want to transcode them into a bitstreamable codec, like Dolby Digital, see [here](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital).
+
+On a Windows HTPC, this is usually done per media application by telling the audio renderer in it which codecs to bitstream. It may also involve setting the sound device in the app to "WASAPI Exclusive". WASAPI allows the application to talk directly to the audio driver.  
 
 **Follow the application-specific setup instructions for Bitstreaming in the next section**  
 
@@ -369,7 +370,6 @@ BROWSERS/STREAMING SERVICES:
 1. Make sure your service supports a bitstreamable codec (Dolby/DD). See: [Wiki:FAQ:What resolution and audio is supported on streaming service X?](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x)
 2. Install the app for your service from the Microsoft store or use the Microsoft Edge browser.
 3. Test your browser's audio capabilities with [Dolby's capabilities test website](https://ott.dolby.com/codec_test/index.html)
-
 
 MPC-HC:  
 These steps assume you have the latest version of [MPC-HC clsid2](https://github.com/clsid2/mpc-hc/releases)  
@@ -436,7 +436,7 @@ EXTERNAL: OPTIONAL: If you need/want an advanced/specialized audio decoder/filte
 1. Install the external [LAV Filters](https://github.com/Nevcairiel/LAVFilters/releases) software.  
 2. Run the "LAV Audio Configuration" app. Under Audio Settings->Bitstreaming, enable/check the codecs you want to bitstream. Check "Enable System Tray Icon".    
 3. Configure your media player app to use an external filter (e.g. MPC-HC/BE->View->Options->External Filters->Add Filter->LAV Audio Decoder->Prefer)  
-4. Restart your media player app  and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
+4. Restart your media player app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
 5. If configured correctly, you should see the blue LAV Audio icon in the system tray. Click on it and then on the Status Tab to see the audio being bitstreamed.  
 
 <!-- Section -->
