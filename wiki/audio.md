@@ -680,7 +680,21 @@ MPC-HC/Others:
      * AC3 (S/PDIF encode mode): checked  
    - Click Apply, Ok to close filter config. Click Apply, Ok to close player config.
    - Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.
-   - (OPTIONAL) If you only want to re-encode certain formats, remove the "ffdshow Audio Processor" filter and add the "ffdshow Audio Decoder" filter instead. Repeat all the changes above in the filter's config, then click on "Codecs" in the left-hand sidebar and set every codec you don't want to re-encode to "disabled" under the Decoder column and the ones you do to a libXXX decoder.  
+   - (OPTIONAL) If you only want to re-encode certain formats, remove the "ffdshow Audio Processor" filter and add the "ffdshow Audio Decoder" filter instead. Repeat all the changes above in the filter's config, then click on "Codecs" in the left-hand sidebar and set every codec you don't want to re-encode to "disabled" under the Decoder column and the ones you do to a libXXX decoder.
+
+<!--
+     AC3FILTER  
+   - Download and install [AC3Filter](https://www.ac3filter.net/download-ac3filter/). In the install, make sure you choose the driver options that match your player. i.e. the "64-bit" versions for a 64-bit player
+   - Open your media player
+   - Go to player Options, then External Filters->Add Filter->"AC3Filter". Highlight the filter. Set to "Prefer". Double-click on the filter to go into its config.
+   - Set:
+     - Output Format: 5.1 Surround
+     - Rate: 48000
+     - Enable "Use SPDIF"
+     - Button: Apply, Ok to close filter conifg
+   - Button: Apply, Ok to close player conifg
+   - Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.
+-->
 
 <!--      * Pass-through (S/PDIF, HDMI): "Dolby Digital (AC3)" checked  -->
 
