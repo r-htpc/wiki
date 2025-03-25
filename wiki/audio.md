@@ -673,15 +673,16 @@ MPC-HC/Others:
    - Download and install [ffdshow](https://sourceforge.net/projects/ffdshow-tryout/files/Official%20releases/). Make sure you install the version that matches your player (i.e. the "64-bit" version for a 64-bit player. "generic build" for a 32-bit player).
    - In the Windows sound control panel, make sure you enable "Allow applications to take exclusive control of this device" in Your_Playback_Device->Advanced 
    - Open your media player
-   - Go to player Options, then External Filters->Add Filter->"ffdshow Audio Processor". Set to "Prefer". Double-click on the filter.
+   - Go to player Options, then External Filters->Add Filter->"ffdshow Audio Processor". Highlight the filter. Set to "Prefer". Double-click on the filter to go into its config.
    - Enable "Resample" in the left-hand sidebar. Click on Resample, set Resample to 48000 Hz.  
    - Enable "Mixer" in the left-hand sidebar. Click on Mixer, set output to 3/0/2. Enable "LFE"  
    - Go to "Output" in the left-hand sidebar
-     * Pass-through (S/PDIF, HDMI): "Dolby Digital (AC3)" checked  
      * AC3 (S/PDIF encode mode): checked  
-   - (OPTIONAL) If you only want to re-encode certain formats, go to "Codecs" in the left-hand sidebar, then set every codec you don't want to re-encode to "disabled" under the Decoder column and the ones you do to a libXXX decoder  
    - Click Apply, Ok to close filter config. Click Apply, Ok to close player config.
    - Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.
+   - (OPTIONAL) If you only want to re-encode certain formats, remove the "ffdshow Audio Processor" filter and add the "ffdshow Audio Decoder" filter instead. Repeat all the changes above in the filter's config, then click on "Codecs" in the left-hand sidebar and set every codec you don't want to re-encode to "disabled" under the Decoder column and the ones you do to a libXXX decoder.  
+
+<!--      * Pass-through (S/PDIF, HDMI): "Dolby Digital (AC3)" checked  -->
 
 POTPLAYER:
 
