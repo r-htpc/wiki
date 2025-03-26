@@ -283,7 +283,7 @@ TOTAL			|											|$375	|	|
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
-CASE			|Silverstone ML03					|$100	|[pcpartpicker](https://pcpartpicker.com/products/case/#sort=price&m=63&t=11)	|17.2" (W) x 13.3" (D) x 4" (H). [specs](https://www.silverstonetek.com/en/product/info/computer-chassis/ML03/). ALT: ML04
+CASE			|Silverstone ML03					|$100	|[pcpartpicker](https://pcpartpicker.com/products/case/#sort=price&m=63&t=11)	|17.2" (W) x 13.3" (D) x 4" (H). [specs](https://www.silverstonetek.com/en/product/info/computer-chassis/ML03/). ALT: ML04/ML11
 CPU				|Ryzen 5500GT (65W)							|$110	|[pcpartpicker](https://pcpartpicker.com/product/VcvD4D/amd-ryzen-5-5500gt-36-ghz-6-core-processor-100-100001489box)	|ALT:AV1: [Intel i3-12100](https://pcpartpicker.com/product/qrhFf7/intel-core-i3-12100-33-ghz-quad-core-processor-bx8071512100)
 MOBO			|ASRock B550M Pro4					|$100	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=7&c=145&sort=price&page=1)	|ALT:AV1: [ASRock B760M PG Riptide](https://pcpartpicker.com/products/motherboard/#xcx=0&f=7&c=154,163&sort=price)
 MEM			|TEAMGROUP T-Force Vulcan Z 2x8GB DDR4-3200			|	$35		|[pcpartpicker](https://pcpartpicker.com/products/memory/#Z=16384002&sort=price&xcx=0&ff=ddr4&S=3200,7200&L=160,180)	|
