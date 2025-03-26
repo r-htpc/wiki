@@ -253,27 +253,47 @@ This build is good for 4K playback; local content, netflix, youtube, HDR, and ga
 
 If you want **AV1** decoding to future-proof, go with the alternative Ryzen 8500G with respective changes (DeskMeet X600, DDR5) parts or an Intel i3-12100 with respective HW changes (DeskMeet B760/B660, etc..). You will give up gaming performance with the Intel version.
 
-Expect HDR processing and upscaling with madVR to operate at a basic level - don't expect to be doing heavy upscaling here without a dGPU.  
+Expect HDR processing and upscaling with madVR to operate at a basic level - don't expect to be doing heavy upscaling here without a dGPU. (The [RTX 3050](https://pcpartpicker.com/products/video-card/#c=572,518&sort=price&page=1) is available as a value dGPU for upgrades, in both full and low profile versions)  
 
-You can add 2x3.5" HDD content storage for an all-in-one. Since optional, it's not included in the price.  
+You can add 3.5" HDD content storage for an all-in-one. 2x on DeskMeet build, 3x on Silverstone. Since optional, it's not included in the price.  
 
+Choose the DeskMeet build if you don't have a height restriction (like a small media cabinet) or want a full-height ITX dGPU. Choose the Silverstone build if you have a height restriction or want to use an optical drive. If you have a height restriction and a full-height dGPU needed, look at the [ML07](https://www.silverstonetek.com/en/product/info/computer-chassis/ML07/). 
+
+<!--
 Choose the DeskMeet option if you don't have a height restriction (like a small media cabinet) or want a full-height ITX dGPU, otherwise choose the Apex build or the slimmer variation with or without LP dGPU. If height restriction and full-height dGPU needed, look at the [ML07](https://www.silverstonetek.com/en/product/info/computer-chassis/ML07/). 
 
 *Larger Slimmer variation*: 12-16L, 4" (H): Change CASE to [InWin BL040](https://www.amazon.com/InWin-BL040-mATX-Desktop-Black/dp/B0964K2W4R) (PSU still included) ($100) or a Silverstone [ML03](https://pcpartpicker.com/product/bWR48d/silverstone-case-ml03b)/[ML04](https://pcpartpicker.com/product/fsw323/silverstone-case-ml04b) (add an [ATX PSU](https://pcpartpicker.com/products/power-supply/#sort=price&e=4,3,2,1&th=1&m=8,337,50,11,14,106,101,18,229,51,71,63,441,113,56)). You can change to a [uATX mobo](https://pcpartpicker.com/products/motherboard/#xcx=0&f=7&c=145&sort=price&page=1) with these cases, which is cheaper than ITX. LP dGPU and 3xHDDs possible
-
+ -->
+ 
 *Larger Cube variation*: 12-16L: $50 more. Change CASE to [Silverstone SG13B](https://www.amazon.com/SilverStone-Technology-Mini-ITX-Computer-SST-SG13B-USA/dp/B07MNC3JCB) (1xHDD) or [Jonsbo C6 mATX](https://pcpartpicker.com/product/WMCZxr/jonsbo-c6-microatx-mini-tower-case-c6-black) (1-2xHDD), add an [ATX PSU](https://pcpartpicker.com/products/power-supply/#sort=price&e=4,3,2,1&p=1,2&th=1). ITX+ dGPU possible
 
 **DeskMeet - Cube, 8.8L** 
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
-CASE/MOBO/PSU		|[Asrock DeskMeet X300W w/500W PSU](https://www.asrock.com/nettop/AMD/DeskMeet%20X300%20Series/index.asp#Specification)					|$190	|[newegg](https://www.newegg.com/asrock-deskmeet-x300w-b-bb-box-us/p/N82E16856158083)	|6.6" (W) x 9.3" (D) x 8.7" (H). ALT: [X600](https://www.newegg.com/asrock-deskmeet-x600w-deskmeet-x600-series/p/N82E16856158094) ($200)
-CPU				|Ryzen 5500GT (65W)							|$110	|[pcpartpicker](https://pcpartpicker.com/product/VcvD4D/amd-ryzen-5-5500gt-36-ghz-6-core-processor-100-100001489box)	|ALT: [Ryzen 8500G](https://pcpartpicker.com/product/y3XV3C/amd-ryzen-5-8500g-41-ghz-6-core-processor-100-100000931box) ($150)
-MEM			|TEAMGROUP T-Force Vulcan Z 2x8GB DDR4-3200			|	$35		|[pcpartpicker](https://pcpartpicker.com/products/memory/#Z=16384002&sort=price&xcx=0&ff=ddr4&S=3200,7200&L=160,180)	|ALT: [Crucial 2x8GB DDR5-5600](https://pcpartpicker.com/product/y4BzK8/crucial-classic-16-gb-2-x-8-gb-ddr5-5600-cl46-memory-ct2k8g56c46u5) ($45)
+CASE/MOBO/PSU		|[Asrock DeskMeet X300W w/500W PSU](https://www.asrock.com/nettop/AMD/DeskMeet%20X300%20Series/index.asp#Specification)					|$190	|[newegg](https://www.newegg.com/asrock-deskmeet-x300w-b-bb-box-us/p/N82E16856158083)	|6.6" (W) x 9.3" (D) x 8.7" (H). ALT:AV1: [DeskMeet X600](https://www.newegg.com/asrock-deskmeet-x600w-deskmeet-x600-series/p/N82E16856158094) ($200)
+CPU				|Ryzen 5500GT (65W)							|$110	|[pcpartpicker](https://pcpartpicker.com/product/VcvD4D/amd-ryzen-5-5500gt-36-ghz-6-core-processor-100-100001489box)	|ALT:AV1: [Ryzen 8500G](https://pcpartpicker.com/product/y3XV3C/amd-ryzen-5-8500g-41-ghz-6-core-processor-100-100000931box) ($150)
+MEM			|TEAMGROUP T-Force Vulcan Z 2x8GB DDR4-3200			|	$35		|[pcpartpicker](https://pcpartpicker.com/products/memory/#Z=16384002&sort=price&xcx=0&ff=ddr4&S=3200,7200&L=160,180)	|ALT:AV1: [Crucial 2x8GB DDR5-5600](https://pcpartpicker.com/product/y4BzK8/crucial-classic-16-gb-2-x-8-gb-ddr5-5600-cl46-memory-ct2k8g56c46u5) ($45)
 STORAGE			|WD SN580 500GB NVMe M.2 SSD TLC				|$40	|[pcpartpicker](https://pcpartpicker.com/product/kHRwrH/western-digital-blue-sn580-500-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds500g3b0e)	|
 STORAGE			|4TB 7200rpm 3.5" HDD			|$40	|[disctech](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/4TB?order=onlinecustomerprice:asc&show=48)	|OPTIONAL. ALT: [10TB+ ($120+)](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/10TB_12TB_14TB_16TB_18TB_20TB_22TB_24TB_6TB_7TB_8TB?order=onlinecustomerprice:asc)
 COOL		|Thermalright AXP90-X47 CPU Cooler, 47mm			|	$30		|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|OPTIONAL: Quieter than stock cooler
 TOTAL			|											|$375	|	|
+
+**Silverstone ML - Slim, 16L** 
+
+PART|BRAND/MODEL|PRICE|VENDOR|NOTES
+:--|:--|:--|:--|:--
+CASE			|Silverstone ML03					|$100	|[pcpartpicker](https://pcpartpicker.com/products/case/#sort=price&m=63&t=11)	|17.2" (W) x 13.3" (D) x 4" (H). [specs](https://www.silverstonetek.com/en/product/info/computer-chassis/ML03/). ALT: ML04
+CPU				|Ryzen 5500GT (65W)							|$110	|[pcpartpicker](https://pcpartpicker.com/product/VcvD4D/amd-ryzen-5-5500gt-36-ghz-6-core-processor-100-100001489box)	|ALT:AV1: [Intel i3-12100](https://pcpartpicker.com/product/qrhFf7/intel-core-i3-12100-33-ghz-quad-core-processor-bx8071512100)
+MOBO			|ASRock B550M Pro4					|$100	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=7&c=145&sort=price&page=1)	|ALT:AV1: [ASRock B760M PG Riptide](https://pcpartpicker.com/products/motherboard/#xcx=0&f=7&c=154,163&sort=price)
+MEM			|TEAMGROUP T-Force Vulcan Z 2x8GB DDR4-3200			|	$35		|[pcpartpicker](https://pcpartpicker.com/products/memory/#Z=16384002&sort=price&xcx=0&ff=ddr4&S=3200,7200&L=160,180)	|
+PSU             |Corsair CX 550W                          | $60 | [pcpartpicker](https://pcpartpicker.com/products/power-supply/#sort=price&e=4,3,2,1&th=1&m=8,337,50,11,14,106,101,18,229,51,71,63,441,113,56) |
+STORAGE			|WD SN580 500GB NVMe M.2 SSD TLC				|$40	|[pcpartpicker](https://pcpartpicker.com/product/kHRwrH/western-digital-blue-sn580-500-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds500g3b0e)	|
+STORAGE			|4TB 7200rpm 3.5" HDD			|$40	|[disctech](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/4TB?order=onlinecustomerprice:asc&show=48)	|OPTIONAL. ALT: [10TB+ ($120+)](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/10TB_12TB_14TB_16TB_18TB_20TB_22TB_24TB_6TB_7TB_8TB?order=onlinecustomerprice:asc)
+COOL			|Thermalright AXP90-X53 CPU Cooler, 53mm					|$25	|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,70000000&c=33&W=0&sort=price&page=1)	| OPTIONAL: Quieter than stock cooler
+TOTAL			|											|$445	|	|
+
+<!--
 
 **Apex - Slim, 9.6L** 
 
@@ -287,6 +307,8 @@ STORAGE			|WD SN580 500GB NVMe M.2 SSD TLC				|$40	|[pcpartpicker](https://pcpar
 STORAGE			|4TB 7200rpm 3.5" HDD			|$40	|[disctech](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/4TB?order=onlinecustomerprice:asc&show=48)	|OPTIONAL. ALT: [10TB+ ($120+)](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/10TB_12TB_14TB_16TB_18TB_20TB_22TB_24TB_6TB_7TB_8TB?order=onlinecustomerprice:asc)
 COOL			|Thermalright AXP90-X36 CPU Cooler, 36mm					|$25	|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|
 TOTAL			|											|$410	|	|
+
+-->
 
 <!-- Sub-Section -->
 
