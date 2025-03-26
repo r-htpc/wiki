@@ -210,9 +210,9 @@ TL;DR: You want a small 4K@60 HDR player and don't need any, or need only minima
 
 Tiny, simple player. Good for 4K playback; local content, netflix, youtube, HDR, browsing, and game streaming; light 1080p gaming.  
 
-If you want **AV1** decoding to future-proof, go with the alternative Ryzen 8500G with respective changes (DeskMini X600, DDR5) parts or an Intel i3-12100 with respective HW changes (DeskMini B760/B660, etc..). You will give up gaming performance with the Intel version.
+If you want **AV1** decoding to future-proof, go with the alternative Ryzen 8500G with respective part changes in the notes (DeskMini X600, DDR5) <!-- or an Intel i3-12100 with respective HW changes (DeskMini B760/B660, etc..). You will give up gaming performance with the Intel version. -->
 
-If you can't find the DeskMini case and still want to build, look at the Inwin Chopin alternate build. There's also a stack of good Tiny cases in the [Cases section](/wiki/faq#cases) of the Wiki FAQ. You should use [Pico PSU 150W+](https://www.mini-box.com/Power-Supplies-Kits)-style kits for these.  
+If you can't find the DeskMini case, look at the Inwin Chopin alternate build. There's also a stack of good Tiny cases in the [Cases section](/wiki/components#cases) of the components guide. <!-- You should use [Pico PSU 150W+](https://www.mini-box.com/Power-Supplies-Kits)-style kits for these. -->  
 
 If you can't afford the optional CPU cooler, pop the top off the stock AMD one to make it fit.  
 
