@@ -47,7 +47,7 @@ These are the codecs/encoded formats you're likely to run into:
 
 PCM/LPCM: Lossless. # of channels dependent on interface. Optical/HDMI ARC only supports 2 channels. More than 2 channels can be play over regular HDMI/eARC/Displayport/RCA/3.5mm. Common in web browsers and typical **gaming audio**. **Default OS output**  
 
-AAC/HE-AAC: Lossy, <= 320 Kbps. Up to 48 channels. Almost always cannot be bitstreamed (esp. in 5.1 form) due to current lack of Sound System support. Also applies to FLAC/MP3/WAV. 
+AAC/HE-AAC: Lossy, <= 320 Kbps. Up to 48 channels. Almost always cannot be bitstreamed (esp. in 5.1 form) due to current lack of Sound System support. Also applies to FLAC/MP3/OGG. 
 
 Dolby Digital/AC-3: "DD". Lossy, <= 640 kbps. Up to 5.1 channels. Common in **commercial streaming media**, physical media. Can be played over Optical/HDMI/HDMI ARC  
 
@@ -55,7 +55,7 @@ Dolby Digital Live: Encodes PCM 5.1 audio into a compressed 5.1 <!-- 16-bit/48kH
 
 DTS Connect / Interactive: DTS's version of Dolby Digital Live. Encodes PCM 5.1 into a compressed 5.1 <!-- 24-bit/48kHz 1.5 Mbps --> DTS stream.  
 
-DTS: Lossy, <= 1.5 Mbps. Up to 5.1 channels. Common in physical media, not streaming media. DD competitor. Can be played over Optical/HDMI/HDMI ARC  
+DTS/DCA: Lossy, <= 1.5 Mbps. Up to 5.1 channels. Common in physical media, not streaming media. DD competitor. Can be played over Optical/HDMI/HDMI ARC  
 
 Dolby Digital+/E-AC-3: "DD+". Lossy, <= 6 Mbps (1.7 on Blu-Ray). Up to 15.1 channels. Can be played over full HDMI or HDMI ARC (5.1)/eARC (7.1). Common in **commercial streaming media**  
 
