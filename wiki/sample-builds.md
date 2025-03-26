@@ -210,7 +210,7 @@ TL;DR: You want a small 4K@60 HDR player and don't need any, or need only minima
 
 Tiny, simple player. Good for 4K playback; local content, netflix, youtube, HDR, browsing, and game streaming; light 1080p gaming.  
 
-If you want **AV1** decoding to future-proof, go with the alternative Ryzen 8500G with respective part changes in the notes (DeskMini X600, DDR5) <!-- or an Intel i3-12100 with respective HW changes (DeskMini B760/B660, etc..). You will give up gaming performance with the Intel version. -->
+If you want **AV1** decoding to future-proof, go with the alternative Ryzen 8500G CPU with respective part changes in the notes (DeskMini X600, DDR5) <!-- or an Intel i3-12100 with respective HW changes (DeskMini B760/B660, etc..). You will give up gaming performance with the Intel version. -->
 
 If you can't find the DeskMini case, look at the Inwin Chopin alternate build. There's also a stack of good Tiny cases in the [Cases section](/wiki/components#cases) of the components guide. <!-- You should use [Pico PSU 150W+](https://www.mini-box.com/Power-Supplies-Kits)-style kits for these. -->  
 
@@ -251,7 +251,7 @@ TL;DR: You want a 4K@60 HDR player, may want 3.5" HDD media storage and want a v
 
 This build is good for 4K playback; local content, netflix, youtube, HDR, and game streaming. Light 720p/1080p gaming can also be had on it. 
 
-If you want **AV1** decoding to future-proof, go with the alternative Ryzen 8500G with respective changes (DeskMeet X600, DDR5) parts or an Intel i3-12100 with respective HW changes (DeskMeet B760/B660, etc..). You will give up gaming performance with the Intel version.
+If you want **AV1** decoding to future-proof, go with the alternative Ryzen 8500G CPU with respective part changes (DeskMeet X600, DDR5)<!-- or an Intel i3-12100 with respective changes (DeskMeet B760/B660, etc..). You will give up gaming performance with the Intel version --> 
 
 Expect HDR processing and upscaling with madVR to operate at a basic level - don't expect to be doing heavy upscaling here without a dGPU. (The [RTX 3050](https://pcpartpicker.com/products/video-card/#c=572,518&sort=price&page=1) is available as a value dGPU for upgrades, in both full and low profile versions)  
 
@@ -284,9 +284,9 @@ TOTAL			|											|$370	|	|
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE			|Silverstone ML03					|$100	|[pcpartpicker](https://pcpartpicker.com/products/case/#sort=price&m=63&t=11)	|17.2" (W) x 13.3" (D) x 4" (H). [specs](https://www.silverstonetek.com/en/product/info/computer-chassis/ML03/). ALT: ML04/ML11
-CPU				|Ryzen 5500GT (65W)							|$110	|[pcpartpicker](https://pcpartpicker.com/product/VcvD4D/amd-ryzen-5-5500gt-36-ghz-6-core-processor-100-100001489box)	|ALT:AV1: [Intel i3-12100](https://pcpartpicker.com/product/qrhFf7/intel-core-i3-12100-33-ghz-quad-core-processor-bx8071512100)
-MOBO			|ASRock B550M Pro4					|$100	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=7&c=145&sort=price&page=1)	|ALT:AV1: [ASRock B760M PG Riptide](https://pcpartpicker.com/products/motherboard/#xcx=0&f=7&c=154,163&sort=price)
-MEM			|TEAMGROUP T-Force Vulcan Z 2x8GB DDR4-3200			|	$35		|[pcpartpicker](https://pcpartpicker.com/products/memory/#Z=16384002&sort=price&xcx=0&ff=ddr4&S=3200,7200&L=160,180)	|
+CPU				|Ryzen 5500GT (65W)							|$110	|[pcpartpicker](https://pcpartpicker.com/product/VcvD4D/amd-ryzen-5-5500gt-36-ghz-6-core-processor-100-100001489box)	|ALT:AV1: [Ryzen 8500G](https://pcpartpicker.com/product/y3XV3C/amd-ryzen-5-8500g-41-ghz-6-core-processor-100-100000931box) ($150)
+MOBO			|ASRock B550M Pro4					|$100	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=7&c=145&sort=price&page=1)	|ALT:AV1: [ASRock B650M PG Lightning](https://pcpartpicker.com/products/motherboard/#xcx=0&f=7&sort=price&s=41) ($120)
+MEM			|TEAMGROUP T-Force Vulcan Z 2x8GB DDR4-3200			|	$35		|[pcpartpicker](https://pcpartpicker.com/products/memory/#Z=16384002&sort=price&xcx=0&ff=ddr4&S=3200,7200&L=160,180)	|ALT:AV1: [Crucial 2x8GB DDR5-5600](https://pcpartpicker.com/product/y4BzK8/crucial-classic-16-gb-2-x-8-gb-ddr5-5600-cl46-memory-ct2k8g56c46u5) ($45)
 PSU             |Corsair CX 550W                          | $60 | [pcpartpicker](https://pcpartpicker.com/products/power-supply/#sort=price&e=4,3,2,1&th=1&m=8,337,50,11,14,106,101,18,229,51,71,63,441,113,56) |
 STORAGE			|WD SN580 500GB NVMe M.2 SSD TLC				|$40	|[pcpartpicker](https://pcpartpicker.com/product/kHRwrH/western-digital-blue-sn580-500-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds500g3b0e)	|
 STORAGE			|4TB 7200rpm 3.5" HDD			|$40	|[disctech](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/4TB?order=onlinecustomerprice:asc&show=48)	|OPTIONAL. ALT: [10TB+ ($120+)](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/10TB_12TB_14TB_16TB_18TB_20TB_22TB_24TB_6TB_7TB_8TB?order=onlinecustomerprice:asc)
