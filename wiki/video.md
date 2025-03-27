@@ -204,7 +204,7 @@ See also: [Audio Software](/wiki/audio#audio-software)
 9. PotPlayer  
  - MadVR integration  
  - 4K/HDR support (via MadVR)  
- - NOT open source, not recommended
+ - Closed source  
 
 **3rd Party**
 
