@@ -118,7 +118,7 @@ HLG: Not common. No metadata. SDR & HDR in same signal. 1000 cd/m2 nominal. 10-b
 1. GPU
  - iGPU: A graphics card built into the CPU  
  - dGPU: A graphics card separate from the CPU. Usually found on a PCIe expansion card.  
- - eGPU: A graphics card external to the HTPC, connected to it via USB/Thunderbolt.  
+ - eGPU: A graphics card external to the HTPC, connected to it via USB/Thunderbolt/Oculink.  
 2. Display
  - TV  
  - Projector  
@@ -139,7 +139,7 @@ See also: [Audio Software](/wiki/audio#audio-software)
  -  Real-time transcoding video/audio down to other containers, codecs, resolutions and bitrates via CPU/GPU. 
  -  Streaming of video content to remote video clients  
  -  Support for playback via windows, linux and web browser clients  
- -  Additional pay-for features such as Hardware Transcoding, Intro skip, Credit skip, DVR, Premium Music, and Offline Downloads  
+ -  Additional pay-for features such as Remote playback, Hardware Transcoding, Intro skip, Credit skip, DVR, Premium Music, and Offline Downloads  
  -  HDR tonemapping, Media collections, Subtitle support
  -  Closed source 
 2. [Jellyfin](https://jellyfin.org)  
@@ -725,5 +725,5 @@ Jellyfish Codec Tests - Test if GPU can HW accelerate a codec - 1080p, 29.97fps 
 
 ---
 
-*This page was last updated on 2025-02-17*
+*This page was last updated on 2025-03-26*
 
