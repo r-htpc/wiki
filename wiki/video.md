@@ -324,7 +324,7 @@ To do this, you should
   - Jellyfish Codec Tests - Start here just to test common codecs are using HW acceleration properly under your GPU.
   - Ideal 4K HEVC test - Represents the max bitrate (120 Mbps) and frame rate (30 fps) you're likely to see from local content
   - Ideal Youtube tests - Represents the max bitrates and frame rate (60 fps) you're likely to see from Youtube content
-  - Jellyfin Video Bitrate Tests - Represents the max frame rate (60 fps) you're likely to see for Camera/0.1% movie content, at varying bitrates. These would be rare and niche.
+  - Jellyfin Video Bitrate Tests - Represents the max frame rate (60 fps) you're likely to see for Cameras/0.1% movie/Broadcast/Sports content, at varying bitrates. These would be rare and niche depending on use-case.
 10. If you're dropping frames from the content, consult the [dropping frames](/wiki/video#why-is-my-video-playback-stuttering-andor-dropping-frames) question below before moving on.
 11. Return to the Software/OS Setup section above for additional testing.
 
@@ -340,15 +340,15 @@ You will first run a test for the presence of motion problems like stutter. You 
 2. Test that the refresh rate is set correctly and consistently using [this page](https://www.testufo.com/refreshrate).
 3. If testing local content, choose a video player application to test with. We recommend [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases) on Windows and [Kodi](https://kodi.tv/download/linux/) on Linux.
 4. Play test content and look for any observable motion problems.
-   - Youtube: [24p content](https://www.youtube.com/watch?v=oy8wNzOGVmc)/[25p content](https://www.youtube.com/watch?v=Ou3QXsTro7A)/[60p content](https://www.youtube.com/watch?v=RgGwWN9EC8g) 
    - Local: [Test Files -> Frame Rate Tests](/wiki/video#where-do-i-find-additional-sample-video-files-to-test) 
+   - Youtube: [24p content](https://www.youtube.com/watch?v=oy8wNzOGVmc)/[25p content](https://www.youtube.com/watch?v=Ou3QXsTro7A)/[60p content](https://www.youtube.com/watch?v=RgGwWN9EC8g) 
 5. If you see a motion problem, **it's not judder**, and likely some form of stuttering. You should solve this problem before you move on. See the [section](/wiki/video#why-is-my-video-playback-stuttering-andor-dropping-frames) below and repeat the tests.  
 6. If you don't see a motion problem, and you plan to play content on a refresh rate that's NOT a multiple of your content frame rate (e.g 24p/25p on 60 Hz, 24p on 25Hz/50Hz), you should continue on to test for judder.  
 7. Set your display (through the GPU driver) to the desired non-multiple refresh rate. e.g. 60 Hz for 24 fps content.  
 8. Test that the refresh rate is set correctly and consistently using [this page](https://www.testufo.com/refreshrate).  
 9. Play test content and look for any observable judder.
-   - Youtube: [24p content](https://www.youtube.com/watch?v=oy8wNzOGVmc)/[25p content](https://www.youtube.com/watch?v=Ou3QXsTro7A)
    - Local: [Test Files -> Frame Rate Tests, Judder Tests](/wiki/video#where-do-i-find-additional-sample-video-files-to-test) 
+   - Youtube: [24p content](https://www.youtube.com/watch?v=oy8wNzOGVmc)/[25p content](https://www.youtube.com/watch?v=Ou3QXsTro7A)
 10. Judder will likely be present; what's important is how bad it is and if it's something that's too distracting that you can't ignore. If you can't ignore it, see the [section](/wiki/video#how-do-i-fix-judder-on-my-htpc) below and repeat the tests.  
 11. Return to the Software/OS Setup section above for additional testing.
 
@@ -692,7 +692,7 @@ Jellyfish Codec Tests - Test if GPU can HW accelerate a codec - 1080p, 29.97 fps
 -->
 [Jellyfin Video Bitrate Tests](https://repo.jellyfin.org/test-videos/) - Test if GPU can decode a video bitrate without dropping frames - 1080p/4k, h.264/HEVC/**AV1**, 60 fps, High/Main (8-bit), Main10 (10-bit), HDR10/DV, MP4  
 
-Ideal Youtube tests - Test if GPU can decode youtube content - 1080p/4k, VP9/AV1, SDR/HDR, 60 fps, webm - [1080p](https://drive.google.com/uc?export=download&id=1xNV5Bq7a1nxEstoCm_A8Qbc0Ydeh0Xy4), [4K](https://drive.google.com/uc?export=download&id=1Q2Ix3mXMl-EMs0-hE-C3gCHg_Uwh4HZz)
+Ideal Youtube tests - Test if GPU can decode youtube content - 1080p/4k, VP9/AV1, SDR/HDR, 60 fps, webm - [1080p](https://drive.google.com/uc?export=download&id=1xNV5Bq7a1nxEstoCm_A8Qbc0Ydeh0Xy4), [4K](https://drive.google.com/uc?export=download&id=1K0TrYoM5rn2dAkJ8-L9QGu6H0WNTQsR1)
 
 [Ideal 4K HEVC test](https://drive.google.com/uc?export=download&id=1ZVwgFM7LEFTVE8KuNm_X7b1VfWcc-myN) - Test if GPU can decode a non-HDR high-end video file - UHD Blu-Ray max bitrate - 4k, HEVC, SDR, 120Mbps, 10-bit, 30 fps, mp4  
 
