@@ -313,14 +313,14 @@ As such, it is highly recommended to run video calibration tests before you play
 To do this, you should
  
 1. Set the proper color conversion/reproduction settings, if you haven't already, from the [Setup for Color Reproduction](/wiki/video#setup-for-color-reproduction) section above.  
-2. Calibrate your display using [hardware](https://calibrite.com/us/product/display-plus-hl/) and [software](https://displaycal.net/) means if you can afford it; else, do a basic calibration of your display in your OS. In Windows, Start->Color Management->Advanced->Calibrate Display
+2. Calibrate your display using [hardware](https://calibrite.com/us/product/display-plus-hl/) and [software](https://displaycal.net/) means if you can afford it; else, do a basic calibration of your display in your display settings/OS. In Windows, Start->Color Management->Advanced->Calibrate Display
 3. Choose a video player application to test with. We recommend [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases) on Windows and [Kodi](https://kodi.tv/download/linux/) on Linux.   
-4. **Disable** Hardware Decoding/Acceleration (DXVA, D3D11, NVDEC, pixel shaders etc..) in your video player application, where at all possible, to minimize the chance of the GPU decoder/renderer messing up colors, blacks and whites. You can re-enable it after you're done. The options are different depending on your media player. It should be set to Software/None/Acceleration disabled/etc..; see the location for the option(s) in the [Hardware Decoding section](/wiki/video#application-specific-setup-for-hardware-decoding) below.      
+4. **Disable** Hardware Decoding/Acceleration (DXVA, D3D11, NVDEC, pixel shaders etc..) in your video player application, to minimize the chance of the GPU decoder/renderer messing up colors, blacks and whites. You will re-enable it later. The options to do so are different depending on your media player. It should be set to Software/None/Acceleration disabled/etc or disable by codec; see the location for the option(s) in the [Hardware Decoding section](/wiki/video#application-specific-setup-for-hardware-decoding) below.      
 5. Download calibration media like [AVS HD 709](https://www.avsforum.com/threads/avs-hd-709-blu-ray-mp4-calibration.948496/). Get the MP4 version. At the minimum, extract the tests from the 'Basic Settings' and 'Misc Patterns->A' folder.  
 6. Read the [AVS manual](https://www.w6rz.net/avshd709/Patterns-Manual.pdf) and then run the calibration tests in your video player application.  
-7. If everything looks good, enable Hardware Decoding/Acceleration in your media player as per the [section](/wiki/video#application-specific-setup-for-hardware-decoding) below. If everything does NOT look good, you messed something up in #1/#2. Go back and re-check/re-try.  
-8. Re-run the AVS calibration tests.  
-9. If everything in the tests look good, start playing some test content. Use known-good content in our [test files](/wiki/video#where-do-i-find-additional-sample-video-files-to-test) section below.  like the Jellyfish, Frame Rate, and non-HDR real-world
+7. You're not looking for smooth playback here but proper colors, contrast and balance. If everything in the tests look good, re-enable Hardware Decoding/Acceleration in your media player as per the [section](/wiki/video#application-specific-setup-for-hardware-decoding) below. If everything does NOT look good, you messed something up in #1/#2. Go back and re-check/re-try.  
+8. Re-run the AVS calibration tests.   
+9. If everything in the tests look good, start playing some test content. Use known-good content in our [test files](/wiki/video#where-do-i-find-additional-sample-video-files-to-test) section below.  
   - Jellyfish Codec Tests - Start here just to test common codecs are using HW acceleration properly under your GPU.
   - Ideal 4K HEVC test - Represents the max bitrate (120 Mbps) and frame rate (30 fps) you're likely to see from local content
   - Ideal Youtube tests - Represents the max bitrates and frame rate (60 fps) you're likely to see from Youtube content
@@ -376,7 +376,9 @@ BROWSERS/STREAMING SERVICES:
 4. Test your browser's video capabilities with [Dolby's capabilities test website](https://ott.dolby.com/codec_test/index.html)
 
 MPC-BE:  
-1. View->Options->Internal Filters->Video Decoders->Video Decoder Configuration: Codecs: <all checked>, Preferred Decoder: 'D3D11, DXVA2' (Win 8+) or DXVA2 (copy-back) (others)
+1. View->Options->Internal Filters->Video Decoders->Video Decoder Configuration
+   - Codecs: <all checked\>
+   - Preferred Decoder: 'D3D11, DXVA2' (Win 8+) or DXVA2 (copy-back) (others)
 
 MPC-HC:  
 1. View->Options->Internal Filters->Video Decoder: Hardware Decoder to use: D3D11 (Win 8+) or DXVA2 (copy-back) (others)  
