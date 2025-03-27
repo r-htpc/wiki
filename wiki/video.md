@@ -519,7 +519,7 @@ See our [Optical Drive](/wiki/components#optical-drives) section of the Hardware
 ### Why won't my video signal remain stable?
 ### Why doesn't my video signal go up to the stated resolution/refresh rate?
 
-1. You may be using a bad or inadequately speced HDMI cable. Use a [better cable](/wiki/components#video-cablesadapters)
+1. You may be using a bad, poor quality, or inadequately speced HDMI cable/adapter. Use a [better one](/wiki/components#video-cablesadapters)
 2. Your total HDMI cable length may be too long for the resolution/refresh you want to use. Use [shorter cables or cables designed for long runs](/wiki/components#video-cablesadapters)
 3. If for 4k: Your Display's HDMI port may not be set to the proper signal format. You should set it to *UHD Deep Color/Input Signal Plus/Enhanced* on the Display (setting name dependent on TV mfgr). If a Sound System is in-between your HTPC and TV, you should set your Sound System's HDMI port to a HDMI Format/4k Signal Format of *Enhanced*, where available.
 4. You may have a bad HDMI port on your Display, GPU, or an in-between Sound System. Try a different port.
