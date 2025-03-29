@@ -602,11 +602,12 @@ You should read [this guide](https://drive.google.com/file/d/1N3FaJmIQicN8TEPzPz
 In addition, the following things may fix and/or help you identify your problem:
 1. If you're using HDMI/DP for your audio, Re-installing your GPU drivers by first un-installing them with the [DDU Utility](https://www.guru3d.com/download/display-driver-uninstaller-download/).
 2. Disable all extra audio processing such as re-encoding, mixing/equalizing, spatial and/or upscaling software. Test again.
-3. If you're using HDMI/DP for your audio, Trying newer or older versions of your GPU drivers.
-4. Re-installing your operating system to a clean state and testing your content again before installing everything else.
-5. Installing a different version of your operating system. e.g. Windows 10 instead of 11, or vice-versa.
-6. Running the [LatencyMon](https://www.resplendence.com/latencymon) utility during playback to help identify drop-out causes.
-7. Replacing your [audio](/wiki/audio#accessories)/[video](/wiki/components#video-cablesadapters) cables, perhaps due to loss of signal integrity because of excessive length, excessive terminations and/or bad cable quality.
+3. If you're bitstreaming a codec in your media player, disable it to decode the codec to PCM. Test again. If you usually are decoding the codec, test it bitstreamed, where possible.
+4. If you're using HDMI/DP for your audio, Trying newer or older versions of your GPU drivers.
+5. Re-installing your operating system to a clean state and testing your content again before installing everything else.
+6. Installing a different version of your operating system. e.g. Windows 10 instead of 11, or vice-versa.
+7. Running the [LatencyMon](https://www.resplendence.com/latencymon) utility during playback to help identify drop-out causes.
+8. Replacing your [audio](/wiki/audio#accessories)/[video](/wiki/components#video-cablesadapters) cables, perhaps due to loss of signal integrity because of excessive length, excessive terminations and/or bad cable quality.
 
 <!-- Sub-Section -->
 
