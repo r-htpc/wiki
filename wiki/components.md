@@ -404,7 +404,7 @@ Signal integrity on a cable drops the more cable terminations you make. **Avoid*
 
 **HDMI Cables**
 
-For **4K@60Hz** or 1080p@120Hz, always get a "High Speed" cable that supports "18 Gbps". We HIGHLY recommended a cable that is "[Premium Certified](https://www.hdmi.org/spec/premiumcable)", which means that it has been tested by the HDMI spec organization up to the full 18 Gbps bandwidth and not the Standard speed of 10.2 Gbps. Do not settle for anything less than a wire thickness of 28 AWG up to 15 ft and 26 AWG to 20 ft (lower AWG is thicker) for these passive type cables.  
+For **4K@60Hz** or 1080p@120Hz, always get a "Premium High Speed" cable that supports "18 Gbps". We HIGHLY recommended a cable that is "[Premium Certified](https://www.hdmi.org/spec/premiumcable)", which means that it has been tested by the HDMI spec organization up to the full 18 Gbps bandwidth and not the Standard/High Speed speed of 10.2 Gbps. Do not settle for anything less than a wire thickness of 28 AWG up to 15 ft and 26 AWG to 20 ft (lower AWG is thicker) for these passive type cables.  
 
 You don't have to spend a lot for all of this, even Premium Certified. We recommend [Monoprice Premium Certified](https://www.monoprice.com/product?p_id=15427) or [Cable Matters Certified](https://www.amazon.com/Cable-Matters-Premium-Certified-Support/dp/B004D5EYG4) cables. Pick up a 6 footer for $8 and call it a day. You probably shouldn't be spending more than $1.75/foot unless it's something unique to your situation or from a quality, low-volume vendor like [Blue Jeans Cable](https://www.bluejeanscable.com) which we can also recommend for high-quality cables.  
 
