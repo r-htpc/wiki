@@ -407,8 +407,6 @@ Mini PC: NUC i3/i5/i7 ([buy](/wiki/sample-builds#4k-hdr-players))|$300-$700|4k@6
 
 <!-- FINISH:TEST -->
 
-NOTE: Buy links to Amazon go through Amazon Smile to support your favorite charity
-
 (2) 4k and HDR support using [LibreElec](https://libreelec.tv) >= 10.0.2 and Kodi 
 
 (3) >= 11th gen
