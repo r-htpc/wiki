@@ -107,7 +107,7 @@ $150-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB
   - $300: Med+ (<= Switch)
     - [Beelink SER5](https://www.amazon.com/s?k=beelink+5800h&crid=3AUBU1SOXW7YK&sprefix=beelink+5800h%2Caps%2C163&ref=nb_sb_noss_1) (AMD 5800H)  
   - $350-400: High (<= PS3)
-    - [Beelink EQR6](https://www.amazon.com/s?k=eqr6+6900hx&i=electronics&crid=39BXXMKRACXZJ&sprefix=eqr6+6900hx%2Celectronics%2C140&ref=nb_sb_noss_2)/[Minisforum UM690S](https://www.amazon.com/MINISFORUM-UM690-6900HX-Threads-Bluetooth5-2/dp/B0BP1S1YNS/) (6900HX)  
+    - [Gmktec M7](https://www.gmktec.com/products/amd-ryzen-7-pro-6850h-mini-pc-nucbox-m7?variant=bac9d62f-94ff-42ba-9102-f9d0e12ad9fc)/[Minisforum UM773](https://www.amazon.com/MINISFORUM-UM690-6900HX-Threads-Bluetooth5-2/dp/B0BYDF63TT/?th=1)  
   - $500+: Ultra (<= Xbox 360)
     - Minisforum [UM870](https://www.amazon.com/MINISFORUM-Desktop-Computer-Barebone-Graphics/dp/B093V18HKB/?th=1) / [UM790 Pro](https://store.minisforum.com/collections/game-mini-pc/products/minisforum-um790-pro?variant=44134865731829) 
 
