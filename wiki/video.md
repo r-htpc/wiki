@@ -334,7 +334,7 @@ To do this, you should
 
 This section is UNDER CONSTRUCTION.  
 
-You will first run a test for the presence of motion problems like stutter. You will do this under a no-judder condition where the content frame rate and display refresh rate match. After that you will test for judder itself and how bad it is for you subjectively.  
+You will first run a test for the presence of motion problems like stutter. You will do this under a no-judder condition where the content frame rate and display refresh rate match. After that you will test for [judder](https://www.rtings.com/tv/tests/motion/24p) itself and how bad it is for you subjectively.  
 
 1. Set your display (through the GPU driver) to a specific refresh rate equal to the content you want to test. e.g. 23Hz for 23.976fps content, 24Hz for 24fps, etc..
 2. Test that the refresh rate is set correctly and consistently using [this page](https://www.testufo.com/refreshrate).
@@ -342,14 +342,14 @@ You will first run a test for the presence of motion problems like stutter. You 
 4. Play test content and look for any observable motion problems.
    - Local: [Test Files -> Frame Rate Tests](/wiki/video#where-do-i-find-additional-sample-video-files-to-test) 
    - Youtube: [24p content](https://www.youtube.com/watch?v=oy8wNzOGVmc)/[25p content](https://www.youtube.com/watch?v=Ou3QXsTro7A)/[60p content](https://www.youtube.com/watch?v=RgGwWN9EC8g) 
-5. If you see a motion problem, **it's not judder**, and likely some form of stuttering. You should solve this problem before you move on. See the [section](/wiki/video#why-is-my-video-playback-stuttering-andor-dropping-frames) below and repeat the tests.  
-6. If you don't see a motion problem, and you plan to play content on a refresh rate that's NOT a multiple of your content frame rate (e.g 24p/25p on 60 Hz, 24p on 25Hz/50Hz), you should continue on to test for judder.  
+5. If you see a motion "problem", it's not judder, and likely some form of [stuttering](https://www.youtube.com/watch?v=CuEZIJDEQyo&t=1s). Some stutter is not necessarily something that needs to be solved as it can just be a time-consistent symptom of low frame rate content. If it looks like more than that, see [this section](/wiki/video#why-is-my-video-playback-stuttering-andor-dropping-frames) below before you move on; then repeat the tests.  
+6. If you don't see a motion problem, and you plan to play content on a refresh rate that's NOT a multiple of your content frame rate (e.g 24p/25p on 60 Hz, 24p on 25Hz/50Hz), you should continue on to test for [judder](https://www.rtings.com/tv/tests/motion/24p).  
 7. Set your display (through the GPU driver) to the desired non-multiple refresh rate. e.g. 60 Hz for 24 fps content.  
 8. Test that the refresh rate is set correctly and consistently using [this page](https://www.testufo.com/refreshrate).  
 9. Play test content and look for any observable judder.
    - Local: [Test Files -> Frame Rate Tests, Judder Tests](/wiki/video#where-do-i-find-additional-sample-video-files-to-test) 
    - Youtube: [24p content](https://www.youtube.com/watch?v=oy8wNzOGVmc)/[25p content](https://www.youtube.com/watch?v=Ou3QXsTro7A)
-10. Judder will likely be present; what's important is how bad it is and if it's something that's too distracting that you can't ignore. If you can't ignore it, see the [section](/wiki/video#how-do-i-fix-judder-on-my-htpc) below and repeat the tests.  
+10. [Judder](https://www.rtings.com/tv/tests/motion/24p) will likely be present; watch [this video](https://www.youtube.com/watch?v=CuEZIJDEQyo&t=1s) to see what it will look like. What's important is how bad it is and if it's something that's too distracting that you can't ignore. If you can't ignore it, see the [section](/wiki/video#how-do-i-fix-judder-on-my-htpc) below and repeat the tests.  
 11. Return to the Software/OS Setup section above for additional testing.
 
 <!-- Sub-Section -->
