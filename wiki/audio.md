@@ -956,17 +956,19 @@ HDMI 2.1 (4K@120)
 
 **HDMI Audio Extractors**  
 
-*Used to extract audio from HDMI between GPU and TV and send it to AVR HDMI input, eARC, Optical or Analog Outputs. Passes Dolby/DTS to optical or HD/LCPM 7.1 to HDMI/analog. Does NOT decode audio codecs*  
+*Used to extract audio from HDMI between HTPC and TV and send it to AVR HDMI input, eARC, Optical or Analog Outputs. Passes Dolby/DTS to optical or HD/LCPM 7.1 to HDMI/analog. Does NOT decode audio codecs*  
 
 HDMI 2.1 (4k@120)  
 
-**[J-Tech](https://www.amazon.com/Extractor-Compatible-J-Tech-Digital-JTECH-AE8K/dp/B0CQTPSVCK?th=1) - HDMI+Optical+3.5mm outs - Extracts HD audio to non-eARC AVR**
+**[J-Tech](https://www.amazon.com/Extractor-Compatible-J-Tech-Digital-JTECH-AE8K/dp/B0CQTPSVCK?th=1) - HDMI+Optical+3.5mm outs - Extracts HD audio from HTPC to non-eARC AVR**
 
-[Navceker](https://www.navceker.com/products/hdmi-2-1-audio-extractor) - HDMI+Optical+3.5mm Stereo - Extracts HD audio to non-eARC AVR  
+[Cable Matters w/eARC](https://www.amazon.com/Cable-Matters-Extractor-Amplifier-Soundbars/dp/B0D32BKL2J) - HDMI - Extracts HD Audio from HTPC and/or TV to eARC Soundbar or non-eARC AVR
+
+[Navceker](https://www.navceker.com/products/hdmi-2-1-audio-extractor) - HDMI+Optical+3.5mm Stereo - Extracts HD audio from HTPC to non-eARC AVR  
 
 [OREI](https://www.amazon.com/2x1-HDMI-Switcher-Audio-Out/dp/B00MNGIP2Y) - Optical+3.5mm Stereo - Switch that doubles as an extractor; cheaper than a splitter  
 
-[OREI w/eARC](https://www.amazon.com/OREI-Extractor-Extract-Monitors-BK-929/dp/B0D951KMTM) - HDMI - Extracts HD Audio to eARC Soundbar  
+<!-- [OREI w/eARC](https://www.amazon.com/OREI-Extractor-Extract-Monitors-BK-929/dp/B0D951KMTM) - HDMI - Extracts HD Audio to eARC Soundbar -->
 
 HDMI 2.0 (4k@60)  
 
@@ -994,13 +996,13 @@ HDMI 1.4 (1080p/4k@30)
 
 [J-Tech](https://www.amazon.com/J-Tech-Digital-Extractor-Compatible-JTECH-EXD2/dp/B08R6HCGVV?th=1) (Dolby/DTS Decoder) (RCA 2.0+Optical) - HDMI 2.0  
 
-[Xolorspace DU50](https://xolorspace.com/collections/5-1-audio-decoder) (Dolby/DTS Decoder) (RCA Surround) - HDMI 1.4  
+[Xolorspace DU50](https://www.amazon.com/XOLORspace-COAXIAL-Optical-decoder-Control/dp/B085WRGRGY) (Dolby/DTS Decoder) (RCA Surround) - HDMI 1.4  
 
-**eARC -> HDMI Extractors**  
+**eARC/ARC -> HDMI/Optical Extractors**  
 
-*Extracts audio from display's HDMI eARC to transport to regular, non-ARC HDMI input of Sound Systems*  
+[ViewHD u9](https://www.amazon.com/ViewHD-Adapter-Audio-Receiver-Application/dp/B08ZHCS5D9) - Extracts audio from display's HDMI eARC port to transport to regular, non-ARC HDMI input of Sound Systems - "Input" not required  
 
-[ViewHD u9](https://www.amazon.com/ViewHD-Adapter-Audio-Receiver-Application/dp/B08ZHCS5D9) - "Input" not required  
+Orei - [Optical](https://www.amazon.com/Optical-Coaxial-Audio-Extractor-OREI/dp/B00F4ORUDM) / [Analog](https://www.amazon.com/dp/B00F4ORTZ6) - Extracts audio from display's HDMI ARC/eARC port to transfer to Optical/Analog input
 
 **Optical to Analog converters (DACs)**  
 
@@ -1057,5 +1059,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2025-03-19*
+ *This page was last updated on 2025-04-05*
 
