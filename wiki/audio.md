@@ -789,7 +789,7 @@ If you want to, and can, support **Dolby Atmos** from your games:
   - Don't use Dolby Atmos audio and instead use regular 5.1/7.1 sound from games combined with an upmixing solution on your sound system.
   - Use [this high-end eARC audio extractor](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=sharc+v2+earc&_sacat=0&_odkw=sharc+v2&_osacat=0) between your display and one of your sound system's input ports to minimize the delay. 
 
-*APO DRIVER SETUP*
+*APO DRIVER SETUP*  
 If you want to re-encode audio down to Dolby Digital for your games:  
 - Make sure the sound device you are using is connected, active and the default. 
 - If you're going through a display, make sure your display is set to passthrough/bitstream digital audio
