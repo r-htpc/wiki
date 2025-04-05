@@ -800,7 +800,7 @@ If you want to re-encode audio down to Dolby Digital for your games:
 - Run the "FX Configurator" app
   - Select your active HDMI/Optical interface Endpoint from the top drop-down 
   - Click "Product Config Tool" 
-  - Choose the "Dolby Digital Plus Home Theater (HDMI/SPDIF)" product, then "Apply Product Settings.." 
+  - Choose the "Dolby Digital Plus Home Theater (HDMI/SPDIF)" product, then "Apply Product Settings.."  
 <!--
 - OPTIONAL: Install the [Dolby Home Theater](https://drive.google.com/uc?export=download&id=1BPtzJwj-3YNgEV7Jsyl5sMHb-McTvCBS) app for additional audio mixing. 
 -->
