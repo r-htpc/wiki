@@ -18,6 +18,8 @@ This is a list of terms you may find on this subreddit and what they mean
 
 ---
 
+**10-foot interface** - A GUI-based interface with large-scaled elemnts that covers the whole display. It allows you to see and interact with the elements comfortably from 10 feet away and is generally used with a remote control.
+
 **4K** - See: UHD
 
 **AAC/HE-AAC** - Multi-channel audio codecs. Part of the MPEG-2/MPEG-4 specs. Competitor to Dolby and DTS. Successor to MP3
