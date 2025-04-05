@@ -998,9 +998,9 @@ HDMI 1.4 (1080p/4k@30)
 
 **eARC/ARC -> HDMI/Optical Extractors**  
 
-[ViewHD u9](https://www.amazon.com/ViewHD-Adapter-Audio-Receiver-Application/dp/B08ZHCS5D9) - Extracts audio from display's HDMI eARC port to transport to regular, non-ARC HDMI input of Sound Systems - "Input" not required  
+[ViewHD u9](https://www.amazon.com/ViewHD-Adapter-Audio-Receiver-Application/dp/B08ZHCS5D9) - Extracts audio from display's HDMI eARC port to regular, non-ARC HDMI input of Sound Systems - "Input" not required  
 
-Orei - [Optical](https://www.amazon.com/Optical-Coaxial-Audio-Extractor-OREI/dp/B00F4ORUDM) / [Analog](https://www.amazon.com/dp/B00F4ORTZ6) - Extracts audio from display's HDMI ARC/eARC port to transfer to Optical/Analog input
+Orei - [Optical](https://www.amazon.com/Optical-Coaxial-Audio-Extractor-OREI/dp/B00F4ORUDM) / [Analog](https://www.amazon.com/dp/B00F4ORTZ6) - Extracts audio from display's HDMI ARC/eARC port to Optical/Analog input
 
 **Optical to Analog converters (DACs)**  
 
