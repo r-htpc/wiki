@@ -18,7 +18,7 @@ This is a list of terms you may find on this subreddit and what they mean
 
 ---
 
-**10-foot interface** - A GUI-based interface with large-scaled elemnts that covers the whole display. It allows you to see and interact with the elements comfortably from 10 feet away and is generally used with a remote control.
+**10-foot interface** - A GUI-based interface with large-scaled elements that cover the whole display. It allows you to see and interact with the elements comfortably from 10 feet away and is generally used with a remote control. Commonly found on smart TVs and streaming media devices.
 
 **4K** - See: UHD
 
