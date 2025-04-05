@@ -790,22 +790,28 @@ If you want to, and can, support **Dolby Atmos** from your games:
   - Use [this high-end eARC audio extractor](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=sharc+v2+earc&_sacat=0&_odkw=sharc+v2&_osacat=0) between your display and one of your sound system's input ports to minimize the delay. 
 
 *APO DRIVER SETUP*
-- Download , extract and run the install from [here](https://puresoftapps.blogspot.com/2018/04/realtek-apo-driver.html)
+If you want to re-encode audio down to Dolby Digital for your games:  
+- Make sure the sound device you are using is connected, active and the default. 
+- If you're going through a display, make sure your display is set to passthrough/bitstream digital audio
+- Download, extract and run the driver install from [here](https://puresoftapps.blogspot.com/2018/04/realtek-apo-driver.html)
+  - Antivirus may be triggered. The software is safe to install. 
   - Enable the "FX Configurator" feature
   - Enable the "Dolby DS1" feature
 - Run the "FX Configurator" app
-  - Select your HDMI/Optical interface Endpoint
-  - Click "Product Config Tool"
-  - Choose the "Dolby Digital Plus Home Theater (HDMI/SPDIF)" product, then "Apply Product Settings.."
-- OPTIONAL: Install [Dolby Home Theater](https://drive.google.com/uc?export=download&id=1BPtzJwj-3YNgEV7Jsyl5sMHb-McTvCBS) for additional processing.
+  - Select your active HDMI/Optical interface Endpoint from the top drop-down 
+  - Click "Product Config Tool" 
+  - Choose the "Dolby Digital Plus Home Theater (HDMI/SPDIF)" product, then "Apply Product Settings.." 
+<!--
+- OPTIONAL: Install the [Dolby Home Theater](https://drive.google.com/uc?export=download&id=1BPtzJwj-3YNgEV7Jsyl5sMHb-McTvCBS) app for additional audio mixing. 
+-->
+- OPTIONAL: Install the [Dolby Digital Plus Home Theater](https://drive.google.com/uc?export=download&id=1_5jBYSLE-fHbxPzDVxROIvvuzeYcXhIt) app for additional audio mxing. 
 - Open Windows Control Panel -> Sound -> \<your_sound_device\>
   - Configure -> Stereo
   - Properties -> Advanced tab, Default Format: Dolby Digital
-- If you're going through a display, make sure your display is set to passthrough/bitstream digital audio
 - Reboot
 - NOTE: Some audio delay is common in software-rencoding. To minimize the delay you can try:
   - Run the "FX Configurator" app, remove the values in the Local FX APO.. boxes, Click Apply Effect and Processing Modes.. and reboot
-  - Use DTS Connect instead, as it has slightly lower latency. Uninstall and re-install the APO driver, choosing DTS Connect instead of Dolby DS1 during the install and in FX Configurator. 
+  - Use DTS Connect instead, as it has slightly lower latency. Uninstall and re-install the APO driver, and instead of choosing Dolby DS1/Dolby Digital Plus/Dolby Digital during Install/FX Configurator Product Config Tool/Sound device default format, choose DTS Connect/DTS Connect/DTS Interactive instead. 
   - If you're going through a display, run Optical from your HTPC instead, using either a simple [USB->Optical adapter](https://www.amazon.com/Cubilux-TOSLINK-Converter-Compatible-Computer/dp/B0B2DBGKL3) or a soundcard that supports DDL in hardware as per the Alternativee sub-section above. 
 
 <!-- Sub-Section -->
