@@ -982,13 +982,11 @@ HDMI 2.0 (4k@60)
 
 HDMI 1.4 (1080p/4k@30)  
 
-[J-Tech](https://www.amazon.com/J-Tech-Digital-Extractor-Converter-JTDAT5CH/dp/B00BIQER0E) - Optical + RCA Stereo  
+[J-Tech](https://www.amazon.com/J-Tech-Digital-Extractor-Converter-JTDAT5CH/dp/B00BIQER0E) / [Parts Express](https://www.parts-express.com/HDMI-Audio-Extractor-with-Toslink-and-L-R-Audio-180-995?quantity=1) - Optical + RCA Stereo  
 
-[Monoprice](https://www.monoprice.com/product?p_id=13348) - Optical+3.5mm Surround  
+[Amazon Basics](https://www.amazon.com/AmazonBasics-Audio-Stereo-Extractor-Converter/dp/B07KRWYN4R) - Optical + 3.5mm Stereo  
 
-[Parts Express](https://www.parts-express.com/HDMI-2.0-7.1-Channel-DAC-Audio-Extractor-D-Embedder-180-1104) - Optical+3.5mm Surround  
-
-[AllAboutAdapters](https://www.amazon.com/AllAboutAdapters-Analog-Surround-Decoder-Version/dp/B07J2VZ8DL) - Optical+RCA Surround  
+[AllAboutAdapters](https://www.amazon.com/AllAboutAdapters-Analog-Surround-Decoder-Version/dp/B07J2VZ8DL) - Optical + RCA Surround  
 
 **HDMI to Optical/Analog Decoders**  
 
