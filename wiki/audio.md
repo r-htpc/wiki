@@ -766,13 +766,13 @@ If you can't support the above hardware methods, but have plain **ARC** support 
 
  1. Buy an internal/external sound card with Dolby Digital Live encoding support (e.g. Sound Blaster [SB1500/Z SE](https://www.ebay.com/sch/44980/i.html?_nkw=%28Z+SE%2CSB1500%29&_from=R40&LH_BIN=1&_sop=15)/X4/X3/AE-5+) and connect it via **Optical** to your Sound System  
 
- 2. For **HDMI ARC**: Use the APO driver to unofficially install Dolby Digital encoding for over HDMI ARC from your PC. This involves installing the [APO driver setup](https://puresoftapps.blogspot.com/2018/04/realtek-apo-driver.html) with the "FX Configurator" & "Dolby DS1" features chosen, running the "FX Configurator" app, selecting your HDMI/Optical interface Endpoint, clicking "Product Config Tool", applying the "Dolby Digital Plus Home Theater (HDMI/SPDIF)" product, and finally open Windows Control Panel -> Sound -> \<your_sound_device\> -> Properties -> Advanced tab, and choose Dolby Digital from the Default Format drop-down.  
+ 2. For **HDMI ARC**: Install the APO driver to encode everything into Dolby Digital for over HDMI ARC from your PC. Read the sub-section below for instructions.  
 
- 3. For **OPTICAL/SPDIF**: For Realtek motherboard-based Optical/SPDIF you should probably use the [patched drivers](https://github.com/Loliconera/Unlocked-Dolby-Digital-Live-DTS-Interactive-for-Realtek-HD-Audio-Drivers-for-Windows-10-and-11) to unlock Dolby Digital Live. If it doesn't work or you are using non-Realtek or non-Motherboard based optical, use the HDMI ARC way above.  
+ 3. For **OPTICAL/SPDIF**: For Realtek motherboard-based Optical/SPDIF check if your motherboard's audio driver includes the Dolby Digital Live/DTS Connect feature. If not, use the [patched drivers](https://github.com/Loliconera/Unlocked-Dolby-Digital-Live-DTS-Interactive-for-Realtek-HD-Audio-Drivers-for-Windows-10-and-11) to unlock the feature. If it doesn't work or you are using non-Realtek or non-Motherboard based optical, use the HDMI ARC way above.  
 
  4. Use analog surround sound speakers (Logitech Z906, Z5500) connected directly to the PC, if your motherboard supports it or a [USB analog sound card](https://www.amazon.com/Cubilux-Surround-48KHz-384KHz-Headphones-PC-Supports/dp/B0CKPL5HXZ).  
 
-*SPATIAL AUDIO*  
+*SPATIAL AUDIO SETUP*  
 If you want to, and can, support **Dolby Atmos** from your games:
 * Enable audio passthrough and eARC in your Display 
 * Install the [Dolby Access](https://www.microsoft.com/en-us/store/p/dolby-access/9n0866fs04w8) app from the Microsoft store 
@@ -788,6 +788,25 @@ If you want to, and can, support **Dolby Atmos** from your games:
   - Use the [DTS Sound Unbound](https://dts.com/dts-sound-unbound/) app instead, for DTS:X, which has less of a delay
   - Don't use Dolby Atmos audio and instead use regular 5.1/7.1 sound from games combined with an upmixing solution on your sound system.
   - Use [this high-end eARC audio extractor](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=sharc+v2+earc&_sacat=0&_odkw=sharc+v2&_osacat=0) between your display and one of your sound system's input ports to minimize the delay. 
+
+*APO DRIVER SETUP*
+- Download , extract and run the install from [here](https://puresoftapps.blogspot.com/2018/04/realtek-apo-driver.html)
+  - Enable the "FX Configurator" feature
+  - Enable the "Dolby DS1" feature
+- Run the "FX Configurator" app
+  - Select your HDMI/Optical interface Endpoint
+  - Click "Product Config Tool"
+  - Choose the "Dolby Digital Plus Home Theater (HDMI/SPDIF)" product, then "Apply Product Settings.."
+- OPTIONAL: Install [Dolby Home Theater](https://drive.google.com/uc?export=download&id=1BPtzJwj-3YNgEV7Jsyl5sMHb-McTvCBS) for additional processing.
+- Open Windows Control Panel -> Sound -> \<your_sound_device\>
+  - Configure -> Stereo
+  - Properties -> Advanced tab, Default Format: Dolby Digital
+- If you're going through a display, make sure your display is set to passthrough/bitstream digital audio
+- Reboot
+- NOTE: Some audio delay is common in software-rencoding. To minimize the delay you can try:
+  - Run the "FX Configurator" app, remove the values in the Local FX APO.. boxes, Click Apply Effect and Processing Modes.. and reboot
+  - Use DTS Connect instead, as it has slightly lower latency. Uninstall and re-install the APO driver, choosing DTS Connect instead of Dolby DS1 during the install and in FX Configurator. 
+  - If you're going through a display, run Optical from your HTPC instead, using either a simple [USB->Optical adapter](https://www.amazon.com/Cubilux-TOSLINK-Converter-Compatible-Computer/dp/B0B2DBGKL3) or a soundcard that supports DDL in hardware as per the Alternativee sub-section above. 
 
 <!-- Sub-Section -->
 
