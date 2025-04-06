@@ -125,7 +125,7 @@ Below are the minimum requirements for each scenario and a recommendation. The r
 
 - [HDMI 2.1 4K@120Hz (>= 32Gbps)](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output): >= Nvidia RTX 3050/AMD RX 6400 (REC: RX 6400/RTX 3050 6GB) 
 
-- Emulation/Casual Gaming: Nvidia >= GT 1030 GDDR5, AMD >= 5xx/5x00/6x00 (REC: Used: GTX 1650, New: RX 6400) 
+- Emulation/Casual Gaming: Nvidia >= GT 1030 GDDR5, AMD >= 5xx/5x00/6x00 (REC: Used: GTX 1650, New: RX 6400/570) 
 
 - Medium Gaming: (REC: Used: RTX 3060 Ti, New: RTX 4060 LP) 
 
