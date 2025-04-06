@@ -204,8 +204,8 @@ Make sure you check the mfgr specs/support page for any potential motherboard yo
 Shoot for spending $100-$200 for a motherboard, with $125 being a good starting point.  
 
 Example Combinations:  
-- AMD: Ryzen 5500GT + B550: [MicroATX](https://pcpartpicker.com/list/mcFhFg), [Mini-ITX](https://pcpartpicker.com/list/NWTfd9)  
-- Intel: Core i3-12100 + B760: [MicroATX](https://pcpartpicker.com/list/ksCg9r), [Mini-ITX](https://pcpartpicker.com/list/nxNWGL)  
+- AMD: Ryzen 5500GT + B550: [MicroATX](https://pcpartpicker.com/list/LLFgHG), [Mini-ITX](https://pcpartpicker.com/list/LsKhz6)  
+- Intel: Core i3-12100 + B760: [MicroATX](https://pcpartpicker.com/list/K77kBj), [Mini-ITX](https://pcpartpicker.com/list/pzWMfv)  
 
 BRANDS/MODELS:  
 Asus, MSI, Gigabyte, ASRock. Avoid Biostar!  
