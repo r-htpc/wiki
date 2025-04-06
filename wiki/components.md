@@ -222,9 +222,9 @@ We will not support Laptop Screens or PC Monitors as Home Theater display device
 
 ### Memory/RAM
 
-Most HTPC applications do not need very much RAM. You can get away with 4GB of RAM, especially on Linux-based OSes. On Windows, shoot for at least 8GB nowadays, unless you're on a strict budget.  
+Most HTPC applications do not need very much RAM. You can get away with 8GB of RAM, especially on Linux-based OSes. On Windows, shoot for at least 16GB nowadays, unless you're on a strict budget.  
 
-If you're playing 4K media or doing some gaming with an CPU-integrated GPU/APU, you will get a lot better performance if you use 2 memory modules instead of 1 (e.g. 2x4GB for 8GB total or 2x8GB for 16GB) in a dual-channel configuration, with >= 3200 Mhz frequency and XMP enabled in your BIOS.  
+If you're playing 4K media or doing some gaming with an CPU-integrated GPU/APU, you will get a lot better performance if you use 2 memory modules instead of 1 (e.g. 2x8GB for 16GB) in a dual-channel configuration @ >= DDR4-3200 or <= DDR5-6000 and XMP/EXPO enabled in your BIOS.  
 
 BRANDS/MODELS:  
 *- Quality:* Corsair, G.Skill, Crucial (REC: 2x8GB DDR4-3600 Corsair Vengeance LPX)  
@@ -237,7 +237,7 @@ BRANDS/MODELS:
 
 ### Storage/HDDs/SSDs
 
-Your OS should be stored on a SSD. Shoot for at least a 2.5" 250GB SATA drive. A SATA SSD will be 30-50x faster than a HDD at OS operations. A M.2 NVMe SSD with transfer rates of 1500 MB/s will be around 2x faster than a SATA SSD and is the best option, while reducing cable clutter in the process. A high-end M.2 NVMe SSD @ 3000 MB/s will be 5x faster than a SATA SSD, but does not make sense price-wise unless you have highly sequential read/write tasks (which shouldn't happen on an OS drive).  
+Your OS should be stored on a SSD. Shoot for at least a 250GB drive. A SATA SSD will be 30-50x faster than a HDD at OS operations. A M.2 NVMe SSD with transfer rates of 1500 MB/s will be around 2x faster than a SATA SSD and is the best option, while reducing cable clutter in the process. A high-end M.2 NVMe SSD @ 3000 MB/s will be 5x faster than a SATA SSD; anything more does not make sense on a HTPC.  
 
 Your media content should be stored on HDDs. Internal drives for media are preferred, but external drives are also fine. 2.5" HDDs are ok for the smallest cases, but capacities are limited to 5 TB, so if you need larger, you'll have to go to 3.5". If using external drives, make sure power management features in your OS don't disconnect a USB drive after a certain period of time. 
 You can also buy external drives and "shuck" the drives out of them to use internally in your HTPC, which tends to be cheaper. Check the [Storage wiki page](/wiki/storage) page for prices/recs of internal/external drives.  
@@ -246,14 +246,14 @@ There are a very few cases where a SSD should be used for media or non-OS data:
 
 1. If absolute silence is required, such as in a bedroom where the HTPC will remain on 24/7.
 2. If you're running Plex Media Server, an SSD should be used for its metadata directories (for quick access during media browsing) and also for temporary media transcoding storage.
-3. If you're playing large games. Game loading does benefit from having a SSD. A SATA one is fine.
+3. If you're playing large games. Game loading does benefit from having a SSD. 
 
 BRANDS/MODELS:  
 SSDs:  
-*- Quality:* Samsung, WD Black, SK Hynix, Sabrent, Crucial (OS Drive REC: Samsung 970 Evo Plus)  
-*- Budget:* Teamgroup, Inland, Kingston, WD Blue (OS Drive REC: Teamgroup MP33).  
+*- Quality:* Samsung, WD Black, SK Hynix, Sabrent, Crucial (OS Drive REC: SK Hynix Gold P31)  
+*- Budget:* Teamgroup, Inland, Kingston, WD Blue (OS Drive REC: WD Blue SN580).  
 HDDs: Ultrastar, Seagate Exos, WD Red  
-[Example PCPartPicker SSD search](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=128000000000,20000000000000&t=0&f=3,122080&sort=price&R=5,4,3)  
+[Example PCPartPicker SSD search](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=250000000000,20000000000000&t=0&f=122080&sort=price&R=5,4,3&D=1)  
 
 <!-- Sub-Section -->
 
