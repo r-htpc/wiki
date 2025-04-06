@@ -392,20 +392,20 @@ BRAND/MODEL|PRICE|RESOLUTION|4k NETFLIX|HDR|WLAN/LAN|VOICE|USB|RATING|NOTES
 **[Onn 4K Pro](https://www.walmart.com/ip/4K-Pro-Streaming-Device/5193222892)** ([buy](https://www.walmart.com/ip/4K-Pro-Streaming-Device/5193222892))|**$50**|4k@60|YES|10/+/DV|ax/100M, Opt (9c)|YES|Opt (8c)|V:Better A:Good|AV1, DC:NA, PT:LS DA/DTS, S905X4 2Ghz/3GB/32GB
 [ChromeCast w/Google TV 4k](https://store.google.com/product/chromecast_google_tv) ([buy](https://store.google.com/config/chromecast_google_tv))|$50|4k@60|YES|10/+/DV|ac/Opt (9b)|YES|Opt (8a)|V:Better A:Good|2nd gen. AV1, DV-5/8, DC:DD+, PT:LS DA/DTS, S905D3 1.9Ghz/2GB/8GB
 [Google TV Streamer 4k](https://store.google.com/us/product/google_tv_streamer?hl=en-US) ([buy](https://store.google.com/us/product/google_tv_streamer?hl=en-US))|$100|4k@60|YES|10/+/DV|ac/1000M|YES|Opt (8c)|V:Better A:Good|3rd/latest gen. AV1, DV-5/8, DC:LS DA/DTHD/DTSHD->PCM, PT:LS DA/DTS, MT8696/4GB/32GB
-**[Amazon Fire TV stick 4K MAX (2023)](https://www.amazon.com/dp/B0BP9SNVH9)** ([buy](https://www.amazon.com/dp/B0BP9SNVH9))|**$60**|4K@60|YES|10/+/DV|Opt (9a)|YES|ax/Opt (8a)|V:Better A:Better|2nd gen, AV1, DV-4/5/8/9/10, PT:**LL DA**/DTSHD, 2.0Ghz/2GB/16GB
-[Amazon Fire TV stick 4K MAX (2021)](https://www.amazon.com/dp/B08MQZXN1X) ([buy](https://www.amazon.com/dp/B08MQZXN1X))|$55|4K@60|YES|10/+/DV|Opt (9a)|YES|ax/Opt (8a)|V:Better A:Better|1st gen, AV1, PT:LS DA, 1.8Ghz/2GB/8GB
-[Amazon Fire TV stick 4K (2023)](https://www.amazon.com/dp/B0CDR2MSVC) ([buy](https://www.amazon.com/dp/B0CDR2MSVC))|$40|4K@60|YES|10/+/DV|Opt (9a)|YES|ax/Opt (8a)|V:Better A:Better|2nd gen, DV-4/5/8/9/10, PT:**LL DA**, 1.7Ghz/2GB/8GB
+**[Amazon Fire TV stick 4K MAX (2023)](https://www.amazon.com/dp/B0BP9SNVH9)** ([buy](https://www.amazon.com/dp/B0BP9SNVH9))|**$60**|4K@60|YES|10/+/DV|Opt (9a)|YES|ax/Opt (8a)|V:Better A:Better|2nd gen, AV1, DV-5/8, PT:**LL DA**/DTSHD, 2.0Ghz/2GB/16GB
+[Amazon Fire TV stick 4K MAX (2021)](https://www.amazon.com/dp/B08MQZXN1X) ([buy](https://www.amazon.com/dp/B08MQZXN1X))|$55|4K@60|YES|10/+/DV|Opt (9a)|YES|ax/Opt (8a)|V:Better A:Better|1st gen, AV1, DV-5/8, PT:LS DA, 1.8Ghz/2GB/8GB
+[Amazon Fire TV stick 4K (2023)](https://www.amazon.com/dp/B0CDR2MSVC) ([buy](https://www.amazon.com/dp/B0CDR2MSVC))|$40|4K@60|YES|10/+/DV|Opt (9a)|YES|ax/Opt (8a)|V:Better A:Better|2nd gen, DV-5/8, PT:**LL DA**, 1.7Ghz/2GB/8GB
 [Amazon Fire TV stick](https://www.amazon.com/dp/B07ZZVX1F2/B08C1W5N87) ([buy](https://www.amazon.com/dp/B07ZZVX1F2/B08C1W5N87))|$40|1080p|NO|10/+|ac/Opt (9a)|YES|Opt (8a)|V:Good A:Good|3rd Gen, DC: LS DA, PT:LS DA/DTS, 1.7Ghz/1GB/8GB
 [Amazon Fire TV stick Lite](https://www.amazon.com/dp/B091G4YP57) ([buy](https://www.amazon.com/dp/B091G4YP57))|$30|1080p|NO|10/+|ac/Opt (9a)|YES|Opt (8a)|V:Good A:Good|BT 5.0 LE, PT:LS DA/DTS, 1.7Ghz/1GB/8GB
-[Amazon Fire TV cube](https://www.amazon.com/dp/B0BFD4M9C8) ([buy](https://www.amazon.com/dp/B0BFD4M9C8))|$140|4K@60|YES|10/+/DV|ax/100 (9a)|YES|YES (**8b**)|V:Better A:Better|3rd gen, AV1, PT:**LL DA**/DTSHD,DC:LL DA->PCM, 2.2Ghz/2GB/16GB, NTFS
+[Amazon Fire TV cube](https://www.amazon.com/dp/B0BFD4M9C8) ([buy](https://www.amazon.com/dp/B0BFD4M9C8))|$140|4K@60|YES|10/+/DV|ax/100 (9a)|YES|YES (**8b**)|V:Better A:Better|3rd gen, AV1, DV-5/8, PT:**LL DA**/DTSHD,DC:LL DA->PCM, 2.2Ghz/2GB/16GB, NTFS
 [Roku Express](https://www.roku.com/products/roku-express) ([buy](https://smile.amazon.com/Roku-Express-Streaming-Media-Player/dp/B07WVFCVJN))|$25|1080p|NO|NO|n/No|No|No|V:Good A:Good|DD, PT:LS DTS/DA
 [Roku Express 4K](https://www.roku.com/products/roku-express-4k)/[+](https://www.roku.com/products/roku-express-4k-plus) ([buy](https://www.walmart.com/ip/Roku-Express-4K-2021-Streaming-Media-Player-HD-4K-HDR-with-Smooth-Wireless-Streaming-and-Simple-Remote-includes-Premium-HDMI-Cable/651641821)/[buy](https://amzn.to/3g56Djl))|$35/$40|4k@60|YES|10/+|ac/Opt|No/YES|Opt|V:Good A:Good|DC:DD/PT:LS DTS/DA
 **[Roku Streaming 4K](https://www.roku.com/products/roku-streaming-stick-4k)** ([buy](https://www.amazon.com/Roku-Streaming-Device-Vision-Controls/dp/B09BKCDXZC))|**$50**|4k@60|YES|10/+/DV|ac/No|YES|No|V:Better A:Good|1GB, DC:DD/PT:LS DTS/DA. Model: 3820R2
 [Roku Ultra](https://www.roku.com/products/roku-ultra) ([buy](https://www.amazon.com/Roku-Ultra-2024-Streaming-Rechargeable/dp/B0DF44RTTP))|$100|4k@60|YES|10/+/DV|ax/100M|YES|YES (**8b**)|V:Better A:Good|2GB RAM, DC:DA, PT:LS DTS/DA, AV1, NTFS. Model: 4850R
 [Roku Ultra LT](https://www.roku.com/products/roku-ultra-lt) ([buy](https://www.walmart.com/ip/Roku-Ultra-LT-Streaming-Media-Player-2019/857445471))|$80|4k@60|YES|10|ac/100M|YES|No|V:Good A:Good|2GB RAM, DC:DD+, PT:LS DTS/DA. Model: 4801RW
 [Vero V](https://osmc.tv/vero/) ([buy](http://buy.getvero.tv/))|$150|4k@60|No|10/+|ac/1000M|No|YES (**8b**)|V:Good A:**Best**|OSMC, PT:**LL DA**/DTSX, 2Ghz/4GB/32GB, NTFS
-[Nvidia Shield TV Tube](https://www.nvidia.com/en-us/shield/shield-tv/) ([buy](https://smile.amazon.com/NVIDIA-Shield-Streaming-Player-Performance/dp/B07YP94PBJ))|$150|4k@60|YES|10/DV|ac/1000M|YES|No|V:Better A:**Best**|DV-5/7/8, PT:LL DA/DTSX DC:DA, 2GB/8GB, NTFS, microSD
-**[Nvidia Shield TV Pro](https://www.nvidia.com/en-us/shield/shield-tv-pro/)** ([buy](https://smile.amazon.com/NVIDIA-Shield-Streaming-Player-Performance/dp/B07YP9FBMM))|**$199**|4k@60|YES|10/DV|ac/1000M|YES|YES (**8b**)|V:**Best** A:**Best**|**DV-5/7/8**, PT:**LL DA/DTSX** DC:DA, 3GB/16GB, NTFS
+[Nvidia Shield TV Tube](https://www.nvidia.com/en-us/shield/shield-tv/) ([buy](https://smile.amazon.com/NVIDIA-Shield-Streaming-Player-Performance/dp/B07YP94PBJ))|$150|4k@60|YES|10/DV|ac/1000M|YES|No|V:Better A:**Best**|DV-5/8, PT:LL DA/DTSX DC:DA, 2GB/8GB, NTFS, microSD
+**[Nvidia Shield TV Pro](https://www.nvidia.com/en-us/shield/shield-tv-pro/)** ([buy](https://smile.amazon.com/NVIDIA-Shield-Streaming-Player-Performance/dp/B07YP9FBMM))|**$199**|4k@60|YES|10/DV|ac/1000M|YES|YES (**8b**)|V:Better A:**Best**|**DV-5/8**, PT:**LL DA/DTSX** DC:DA, 3GB/16GB, NTFS
 [Nvidia Shield TV (2017)](https://www.nvidia.com/en-us/shield/shield-tv/) ([buy](https://smile.amazon.com/NVIDIA-SHIELD-Gaming-Streaming-GeForce/dp/B075RXV2VR))|$179|4k@60|YES|10|ac/1000M|YES|YES (8b)|V:Better A:**Best**|PT:**LL DA/DTSX**, 16GB, NTFS
 [Xbox One S/X](https://www.xbox.com/en-US/xbox-one/consoles) ([buy](https://smile.amazon.com/gp/bestsellers/electronics/6469295011))|$200-$400|4k@60|YES|10/DV|ac/1000M|No|YES (8b)|V:Better A:**Best**|PT:LL DA/DTSX, 1TB, UHD-BR
 Mini PC: Optiplex ([buy](/wiki/sample-builds#4k-hdr-players))|$100|4k@60 (10a)|YES|10|ax/1000M|NO|YES (8b)|V:Better A:**Best**|HEVC, PT:**LL DA/DTSX**
@@ -834,5 +834,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2025-03-31*
+*This page was last updated on 2025-04-06*
 
