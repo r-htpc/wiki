@@ -84,7 +84,7 @@ Below are the minimum CPUs required for each scenario and a recommendation. **Al
 
 - Emulators: 1080p: AMD >= Ryzen 5 3400G APU. 720p: AMD >= Ryzen 3 3200G APU (REC: Ryzen 5500GT)  
 
-- Casual gaming (iGPU): AMD >= Ryzen 3 3400G APU (REC: Ryzen 5700G/8700G)  
+- Casual gaming (iGPU): AMD >= Ryzen 3 3400G APU (REC: Ryzen 5700G/8600G)  
 
 - 4K HDR: Intel >= i3/i5/i7-7xxx iGPU, AMD Athlon 3000G, AMD >= Ryzen 3 2200G APU (REC: Ryzen 5500GT)  
 
