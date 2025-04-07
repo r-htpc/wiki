@@ -527,8 +527,8 @@ Simple, Tonemapping
 ## MadVR Performance Settings Per GPU
 
 WARNING: These settings are for more intensive image processing/scaling that is **NOT** necessary for just HDR passthrough.  
-The settings for the corresponding GPU families below are **conservative** so you don't have to spend hours wasting your time with stuttering due to high rendering times and diminishing returns.  
-This doesn't mean that they're not gpu intensive; they most certainly are. **Test with the default settings above before changing to any of these**.  
+The settings for the corresponding GPU families below are **conservative** so you don't have to spend hours wasting your time with stuttering due to high rendering times and diminishing returns. **Test with the default settings above before changing to any of these**. Don't test higher tiers until you test the conservative ones first.  
+This doesn't mean that they're not gpu intensive; they most certainly are.  
 If you can't handle the GPU load/noise/heat these settings produce, turn them down or go back to the madvr Bilinear defaults.  
 Related: [What are the best ways for scaling video?](/wiki/video#what-are-the-best-ways-for-scaling-video), [madVR settings](https://forum.doom9.org/showthread.php?p=1709584)  
 
@@ -536,8 +536,8 @@ GPU|IMAGE UPSCALING|IMAGE DOUBLING|IMAGE DOWNSCALING|CHROMA UPSCALING|DITHERING
 :--|:--|:--|:--|:--|:--
 Intel UHD >= 6xx|DXVA2|NA|DXVA2|BiCubic 75+AR|random
 AMD Ryzen Vega xx|Cubic/Lanczos|NA|Cubic/Lanczos|BiCubic 75+AR|random
-Nvidia GT 1030/Ryzen 6xxM/7xxM|Lanczos 3-tap+AR|NA|Lanczos 3-tap+AR|BiCubic 75+AR|random
-Nvidia GTX 960/1050/1050 Ti|Lanczos 4-tap+AR|NA|SSIM 1D+LL+AR|Jinc+AR|random
+Nvidia GT 1030/Ryzen RDNA 6xxM/740M|Lanczos 3-tap+AR|NA|Lanczos 3-tap+AR|BiCubic 75+AR|random
+Nvidia GTX 960/1050/1050 Ti/Ryzen RDNA 760-780M|Lanczos 4-tap+AR|NA|SSIM 1D+LL+AR|Jinc+AR|random
 Nvidia GTX 1650|Lanczos 4-tap+AR|NGU Standard Luma Low|SSIM 1D+LL+AR|NGU Standard Low|random
 Nvidia GTX 1650 Super|Lanczos 4-tap+AR|NGU Standard Luma Low|SSIM 1D+LL+AR|NGU Standard Low|Error Diff. #1
 Nvidia GTX 970/1060|Jinc|NGU Standard Luma Med|SSIM 1D+LL+AR|NGU Standard Low|Error Diff. #1
