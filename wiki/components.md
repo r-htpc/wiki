@@ -491,7 +491,7 @@ MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Remote, Mini keyboard, and Air Mouse
 [JoyXOff](https://joyxoff.com/en/)	|	Free	|	NA		|	NA	|	NA	|	Software to use Xbox/XInput controllers as keyboard/mouse/remote
 [Controller Companion](https://store.steampowered.com/app/367670/Controller_Companion/)	|	$2.99	|	NA		|	NA	|	NA	|	Software to use Xbox/XInput controllers as keyboard/mouse/remote
 [Netflix Remote Controller](http://sticky-ux.com/apps/NetflixRemoteController/)		|	Free	|	NA		|	NA	|	NA	| Software to control Windows Netflix app from keyboard/remote
-[MX3 Kodi Remapper](https://www.mediafire.com/download/gr77i62xp8q27j1/MX3-M_Remote_FiX-v3.0_(Universal).zip) 		|	Free	|	NA		|	NA	|	NA	| Software/scripts for ME3 remote to disable mouse map Ok/Mouse buttons to Enter/Backspace in Kodi
+[MX3 Kodi Remapper](https://www.mediafire.com/download/gr77i62xp8q27j1/MX3-M_Remote_FiX-v3.0_(Universal).zip) 		|	Free	|	NA		|	NA	|	NA	| Software/scripts for MX3 remote to disable mouse map Ok/Mouse buttons to Enter/Backspace in Kodi
 
 
 (1) Discontinued  
