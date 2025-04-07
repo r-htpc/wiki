@@ -438,10 +438,10 @@ Simple, HDR passthrough or tonemapping.
   * *Potplayer app*  
     * Preferences -> Video
       * Video Renderer: Built-in Direct3D 11 Video Renderer
-      * Use H/W HDR Output Mode: ON
+      * Use H/W HDR Output Mode: ON *(OFF to tonemap to SDR)*
     * Preferences -> Video -> Pixel Shaders
-      * Enable SMPTE ST 2084 HDR Correction: OFF
-      * Enable SMPTE ST 2086 HDR Correction: OFF
+      * Enable SMPTE ST 2084 HDR Correction: OFF *(ON to tonemap to SDR)*
+      * Enable SMPTE ST 2086 HDR Correction: OFF *(ON to tonemap to SDR)*
     * *OPTIONAL*: [Wiki:Audio Setup Guide](https://r-htpc.github.io/wiki/audio#softwareos-setup)
     * *Restart Potplayer app*  
 * *Test*  
