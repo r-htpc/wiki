@@ -190,7 +190,7 @@ Advanced, more powerful dynamic tonemapping, high-end upscaling and processing t
 * *LAV Filters settings:*  
   * *Start -> K-lite Codec Pack -> LAV Video app*  
     * Hardware decoder to use -> D3D11 (win 8/10/11) or DXVA2 (copy-back)  
-    * Hardware device to use -> Your_GPU_Device (leave on Auto with D3D11)  
+    * Hardware device to use -> Automatic (Native), or if DXVA2 (copy-back), then \<your_GPU_device\>  
     * Dithering mode -> Ordered dithering  
   * *Start -> K-lite Codec Pack -> LAV Audio app ->*  
     * Enable "Bitstreaming" for the codecs your sound system supports decoding (see [Wiki:Audio Setup Guide](/wiki/audio#softwareos-setup) for more details)  
@@ -284,7 +284,7 @@ Advanced, current way to integrate madVR into Kodi for passthrough, dynamic tone
         * Internal LAV Filters Settings
           * Video Decoder
             * Hardware decoder to use -> D3D11 (win 8/10/11) or DXVA2 (copy-back) 
-            * Hardware device to use -> Your_GPU_Device (leave on Auto with D3D11)
+            * Hardware device to use -> Automatic (Native), or if DXVA2 (copy-back), then \<your_GPU_device\>  
             * Dithering mode -> Ordered dithering
           * Audio Decoder
             * Enable "Bitstreaming" for the codecs your sound system supports decoding (see [Wiki:Audio Setup Guide](/wiki/audio#softwareos-setup) for more details)   
@@ -316,7 +316,7 @@ Advanced, current way to integrate madVR into Kodi for passthrough, dynamic tone
    * Install MPC-BE after K-lite Codec Pack
      * *Start -> K-lite Codec Pack -> LAV Video app ->*  
        * Hardware decoder to use -> D3D11 (win 8/10/11) or DXVA2 (copy-back)  
-       * Hardware device to use -> Your_GPU_Device (leave on Auto with D3D11)  
+       * Hardware device to use -> Automatic (Native), or if DXVA2 (copy-back), then \<your_GPU_device\>  
        * Dithering mode -> Ordered dithering  
      * *Start -> K-lite Codec Pack -> LAV Audio app ->*  
        *  Enable "Bitstreaming" for the codecs your sound system supports decoding (see Audio wiki page for more details)  
