@@ -482,7 +482,7 @@ Logitech Harmony One	|	Disc (1)	|	RF/BT/IR	|	Yes	|	Int	|	IR Blaster, Hub
 [8bitdo Media Remote](https://www.amazon.com/8Bitdo-Media-Remote-Xbox-One-Infrared/dp/B0BXSV78R6) |	$20	|	IR    |  Yes  | AAA | w/Flirc, **Motion-active** backlight
 [Skip 1s](https://flirc.tv/products/skip1s-remote-universal-remote-control)    | $45  | IR  | No | AAA | w/Flirc, **Macros**, learning, mobile app
 [MCE](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw=mce+remote&_sacat=0) / [Inteset](https://www.amazon.com/Inteset-Universal-Backlit-Learning-Streamers/dp/B00M4I1BAY) Remote | $20-30 | IR | Some | AA/AAA | w/inc. IR hub/Flirc/HDMI-CEC
-[Flirc](https://flirc.tv/more/flirc-usb)  | $20 | USB/IR | NA | NA | USB IR Receiver for remotes. Wake/Sleep
+**[Flirc](https://flirc.tv/more/flirc-usb)**  | $20 | USB/IR | NA | NA | USB IR Receiver for remotes. Wake/Sleep
 WeChip G20S Pro/Plus		|	$20	|	RF/BT		|	Yes	|	AAA	|	Remote and Air Mouse
 MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Remote, Mini keyboard, and Air Mouse
 [HTWebRemote](https://github.com/nicko88/HTWebRemote)	|	Free	|	LAN		|	NA	|	NA	|	Software to create web-accessible remote on Windows/[Linux](https://github.com/nicko88/HTWebRemoteHost) HTPC to control multiple devices. [Contact](https://www.reddit.com/message/compose/?to=SirMaster)
@@ -498,14 +498,14 @@ MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Remote, Mini keyboard, and Air Mouse
   - Used with companion software listed above, these are good for use as a mouse. Look at [8bitdo](https://www.8bitdo.com/) or Microsoft for highly-compatible Xbox wireless controllers. For multi-user play, you can pair multiple Xbox controllers with a single USB adapter or 2-4 regular BT controllers with a single [USB BT adapter](https://www.amazon.com/IOGEAR-Bluetooth-Multi-Language-Version-GBU521W6/dp/B007ZT2AXE) (CSR8510/BCM20702 chipsets). For media/desktop control, use a PS3/PS4/Xbox controller with DS4Windows. 
 
 - IR
-  - If you already have an IR remote, you can use a [Flirc](https://flirc.tv/more/flirc-usb) adapter to allow it to be used with your HTPC and/or Nvidia Shield. Flirc also makes a programmable IR remote, the [Skip 1s](https://flirc.tv/products/skip1s-remote?variant=43489094729960#Overview)
+  - If you already have an IR remote, you can use a [Flirc](https://flirc.tv/more/flirc-usb) adapter to allow it to be used with your HTPC and/or Nvidia Shield. Use software below to remap keys.
   - To transmit IR from your HTPC to other devices, use a [USB-UIRT](http://www.usbuirt.com/).  
 
 - CEC
   - CEC can be used to send/receive commands from your TV to your PC over HDMI using your TV's remote. This is not standard on a PC. Either get a [HDMI-CEC enabled HTPC](/wiki/sample-builds#specialized-hdmi-cec) or to get [CEC](https://kodi.wiki/view/CEC) functionality where none exists, use a [Pulse Eight](https://www.pulse-eight.com/p/104/usb-hdmi-cec-adapter) adapter.
 
 - Software support
-  - [Plex HTPC](https://support.plex.tv/articles/plex-htpc-input-maps/), [Kodi](https://kodi.wiki/view/Remote_controls), and [Jriver Media Center](https://wiki.jriver.com/index.php/Remotes) all support multiple remote types. You can also use [AutoHotKey](https://www.autohotkey.com/), [EventGhost](https://github.com/EventGhost/EventGhost/releases) and Pulse Eight's [libCEC Tray w/HDMI-CEC](https://github.com/Pulse-Eight/libcec/releases) to re-map buttons/automate keyboard tasks.  
+  - [Plex HTPC](https://support.plex.tv/articles/plex-htpc-input-maps/), [Kodi](https://kodi.wiki/view/Remote_controls), and [Jriver Media Center](https://wiki.jriver.com/index.php/Remotes) all support multiple remote types. You can also use [AutoHotKey](https://www.autohotkey.com/) and [EventGhost](https://github.com/EventGhost/EventGhost/releases) (Windows), [Input-Mapper](https://github.com/sezanzeb/input-remapper) and [LIRC](https://www.lirc.org/) (Linux), and Pulse Eight's [libCEC Tray w/HDMI-CEC](https://github.com/Pulse-Eight/libcec/releases) to re-map buttons/automate keyboard tasks.  
 
 - Elderly setups
   - For remotes/setups for the elderly, see our specific [section](/wiki/faq#how-can-i-set-up-an-htpc-for-the-elderlydisabled) in the faq  
@@ -515,5 +515,5 @@ MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Remote, Mini keyboard, and Air Mouse
 
 ---
 
-*This page was last updated on 2025-03-23*
+*This page was last updated on 2025-04-07*
 
