@@ -135,7 +135,7 @@ Simple, HDR passthrough or tonemapping.
       * Input / Codecs
         * Hardware-accelerated decoding: Direct3D11 (win 8/10/11) or DXVA (win 7)
       * *OPTIONAL*: [Wiki:Audio Setup Guide](https://r-htpc.github.io/wiki/audio#softwareos-setup)
-  * *Restart VLC app*  
+    * *Restart VLC app*  
 * *Test*  
   * *VLC app*  
     * Play a [test HDR video](/wiki/hdr#hdr-tests). [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
@@ -171,6 +171,7 @@ Simple, HDR passthrough, tonemapping and decent upscaling.
           * Adapter: \<your_GPU_device\> 
           * RGB output levels: PC (0-255) (see VIDEO setup guide if not sure) 
       * *OPTIONAL*: [Wiki:Audio Setup Guide](https://r-htpc.github.io/wiki/audio#softwareos-setup)
+    * *Restart MPC-BE app*  
 * *Test*  
   * *MPC-BE app*  
     * Play a [test HDR video](/wiki/hdr#hdr-tests) and press Ctrl+J to show stats. If "Times" stats are >= 35ms you're doing too much processing (like upscaling/tonemapping). If "Frames" shows significant skipped frames, your GPU isn't powerful enough. [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
@@ -224,6 +225,7 @@ Advanced, more powerful dynamic tonemapping, high-end upscaling and processing t
       * MPC-HC: Playback -> Output -> Directshow Video -> madVR  
       * MPC-BE: Video -> Video Renderer -> madVR  
       * External Filters -> Add Filter... -> Add LAV Audio Decoder, LAV Splitter, LAV Splitter Source, LAV Video Decoder. Set all to "prefer".  
+    * *Restart MPC-HC/BE app*  
 * *Test*  
   * *MPC-HC/BE app*  
     *  Play a [test HDR video](/wiki/hdr#hdr-tests) and press Ctrl+J to show stats. If avg/max rendering stats are >= 35ms, you're either doing too much madVR processing or your GPU isn't powerful enough. [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
@@ -441,6 +443,7 @@ Simple, HDR passthrough or tonemapping.
       * Enable SMPTE ST 2084 HDR Correction: OFF
       * Enable SMPTE ST 2086 HDR Correction: OFF
     * *OPTIONAL*: [Wiki:Audio Setup Guide](https://r-htpc.github.io/wiki/audio#softwareos-setup)
+    * *Restart Potplayer app*  
 * *Test*  
   * *Potplayer app*  
     * Play a [test HDR video](/wiki/hdr#hdr-tests). [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
@@ -558,5 +561,5 @@ AMD RX >= 67xx|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Dif
 
 ---
 
-*This page was last updated on 2025-03-24*
+*This page was last updated on 2025-04-06*
 
