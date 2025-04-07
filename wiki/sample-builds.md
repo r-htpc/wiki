@@ -3,7 +3,7 @@ description: Information on pre-builts and DiY builds to help you get started wi
 keywords: [htpc build, diy htpc, mini pc, pre-builts, media server, emulation, madvr, hdr, all-in-one]
 ---
 
-# Pre-Built / DiY HTPC Builds
+# HTPC Builds - Pre-Built / DiY 
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--
@@ -200,7 +200,7 @@ Intel 7th gen+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDMI 2.0 po
 
 <!-- Section -->
 
-## HTPC DIY builds
+## HTPC DiY builds
 
 <!-- Sub-Section -->
 
