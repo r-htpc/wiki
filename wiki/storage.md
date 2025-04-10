@@ -366,19 +366,22 @@ If you're looking for a software storage solution for your DiY hardware, [Unraid
 
 OS: [Unraid](https://unraid.net), [TrueNAS](https://www.truenas.com/truenas-scale/), [Openmediavault](https://www.openmediavault.org/), [Ubuntu Server](https://ubuntu.com/download/server), [Rockstor](http://rockstor.com)  
 
-Software mgmt: Docker
+Software Management: Docker
 
-Volume mgmt (windows): [Windows Storage Spaces](https://support.microsoft.com/en-us/windows/storage-spaces-in-windows-10-b6c8b540-b8d8-fb8a-e7ab-4a75ba11f9f2), [StableBit DrivePool](https://stablebit.com/DrivePool), [snapraid](https://www.snapraid.it/), [Elucidate (snapraid GUI)](https://github.com/Smurf-IV/Elucidate)  
+Volume Management:
+  - [Windows Storage Spaces](https://support.microsoft.com/en-us/windows/storage-spaces-in-windows-10-b6c8b540-b8d8-fb8a-e7ab-4a75ba11f9f2), [StableBit DrivePool](https://stablebit.com/DrivePool), [snapraid](https://www.snapraid.it/), [Elucidate (snapraid GUI)](https://github.com/Smurf-IV/Elucidate) - Windows
+  - mdadm, [snapraid](https://www.snapraid.it/), [mergerFS](https://github.com/trapexit/mergerfs/wiki) - Linux
 
-Volume mgmt (linux): mdadm, [snapraid](https://www.snapraid.it/), [mergerFS](https://github.com/trapexit/mergerfs/wiki)  
+Disk Management:
+  - [KeepAliveHD](https://github.com/stsrki/KeepAliveHD) (Windows) / [KeepDriveSpinning](http://jon.stovell.info/software/keep-drive-spinning/) (Mac) - Keep HDDs without power mgmt disable from spinning down.
+  - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) (Windows) / [AmorphousDiskMark](https://apps.apple.com/us/app/amorphousdiskmark/id1168254295?mt=12) (Mac) - SMART info, Power mgmt, Notifications
+  - [HDDScan](https://hddscan.com/) - Diagnostics, SMART Info, Power Mgmt
+  - [WD Drive Utilities](https://support.wdc.com/downloads.aspx?DL=#WD_softwarepc) - Diagnostics, Format, Power Mgmt
+  - smartctl / [hd-idle](http://hd-idle.sourceforge.net/) (Linux) - SMART info / Power Mgmt
 
-Disk mgmt (windows): [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/), [HDDScan](https://hddscan.com/), [WD Drive Utilities](https://support.wdc.com/downloads.aspx?DL=#WD_softwarepc)  
-
-Disk mgmt (linux): smartctl, [hd-idle](http://hd-idle.sourceforge.net/)  
-
-Benchmark (windows): [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/), [hdtune](https://www.hdtune.com/)  
-
-Benchmark (linux): dd, hdparm  
+Benchmarking:
+  - [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/), [hdtune](https://www.hdtune.com/) - Windows
+  - dd / hdparm - Linux
 
 <!-- Section -->
 
@@ -396,5 +399,5 @@ If your storage is on a windows-based OS, [follow these instructions](https://su
 
 ---
 
-*This page was last updated on 2025-03-07*
+*This page was last updated on 2025-04-10*
 
