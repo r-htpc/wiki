@@ -48,22 +48,22 @@ Scythe BIG Shuriken 4	| TBD | TBD | TBD | TBD | TBD| TBD | NA
 CoolerMaster MasterAir G400p	| 58mm | $40 | 120W | 92mm | LGA 115X/1200/1366/2011/-3/2066/AM4 | 3 | EOL
 Silverstone AR06			| 58.4mm | $40 | 95W | 92mm | LGA115x/AM3 | 4 | NA
 Intel E97379-001 Stock		| 40/59mm | $9 | 73W | 90mm | LGA115x | NA
-Thermalright AXP-100-Full Copp	| 44/58mm  | $80 | 180W | 100mm | LGA775/115X/2011/1200/1700/AM4 | **5** | 44mm w/o fan. 30 dbA
+Thermalright AXP-100-Full Copp	| 44/58mm  | $85 | 180W | 100mm | LGA775/115X/2011/1200/1700/AM4 | **5** | 44mm w/o fan. 30 dbA
 ZALMAN CNPS8900 Quiet/Extreme | 60mm | $24 | 95W? | 110mm | LGA775/115x/AM3 (seperate AM4 kit) | 4 | NA
 **\*Arctic Alpine 23** 			| 65mm | $13 | 100W | 92mm | AMx | **5** | 0.3 Sone 
-**\*Noctua NH-L9x65** 			| 65mm | $50 | 84W | 92mm | LGA115x/FMx/AMx | **5** | 23.6 dbA 
-**\*Noctua NH-L9x65 SE-AM4**		| 50/65mm | $50 | 95W | 92mm | LGA115x/FMx/AMx | **5** | 50mm w/o fan. 23.6 dbA 
-Noctua NH-L12				| 66/93mm | $55 | 95W | 92mm/120mm | LGA775/115x/1366/201x/2066/FMx/AMx (seperate AM4 kit) | **5** | 66mm without extra 25mm top fan. 93mm with. Could be 83mm if you used a 15mm fan on top instead.  22.4/17.6 dBA 
+**\*Noctua NH-L9x65** 			| 65mm | $55 | 84W | 92mm | LGA115x/FMx/AMx | **5** | 23.6 dbA 
+**\*Noctua NH-L9x65 SE-AM4**		| 50/65mm | $55 | 95W | 92mm | LGA115x/FMx/AMx | **5** | 50mm w/o fan. 23.6 dbA 
+Noctua NH-L12 (DC)				| 66/93mm | $55 | 95W | 92mm/120mm | LGA775/115x/1366/201x/2066/FMx/AMx (seperate AM4 kit) | **5** | 66mm without extra 25mm top fan. 93mm with. Could be 83mm if you used a 15mm fan on top instead.  22.4/17.6 dBA 
 ID Cooling IS-60 EVO ARGB	| 49/64mm | $50 | 130W | 120mm | LGA115x/FMx/AMx | 4 | 49mm w/o fan. 64mm w/stock 15mm. not as good/quiet as big shur 3, but shorter
-Noctua NH-L12 Ghost			| 66mm | $55 | 95W | 92mm | LGA775/115x/1366/201x/2066/FMx/AMx (seperate AM4 kit) | **5** | Successor to NH-L12
+Noctua NH-L12 Ghost			| 66mm | $75 | 95W | 92mm | LGA775/115x/1366/201x/2066/FMx/AMx (seperate AM4 kit) | **5** | Successor to NH-L12
 **\*Thermalright AXP120-X67**		| 67mm | $40 | 165W | 120mm | LGA115x/1200/1700/201x/2066/AM4 | **5** | 26.1 dbA 
 Deepcool AN600			| 67mm | $55 | 180W | 120mm | LGA115x/1200/1700/AMx | 4 | 24.4dbA - 40mm ram
 ID Cooling IS-67-XT			| 67mm | $40 | 150W | 120mm | LGA115x/1200/1700/1851/AMx | 4 | 32.3dbA
 AMD Spire Stock			| 68 / 71mm | NA | 95W | NA | AM4 | 4 | -3mm shroud removed - LED 1700/2700
 AMD Spire Stock			| 68 / 71mm | NA | 95W | NA | AM4 | 4 | -3mm shroud removed - NO LED 1500X/1600/2600X/3400G/3600X
-Arctic Alpine 12 Passive		| 69mm | $18 | 47W | NA | LGA115x | 4 | NA
+Arctic Alpine 12 Passive (DC)		| 69mm | $18 | 47W | NA | LGA115x | 4 | NA
 Arctic Alpine 12 AM4 Passive	| 69mm | $18 | 47W | NA | AMx | 4 | NA
-**\*Noctua NH-L12s**			| 70mm | $60 | 95W | 120mm | LGA115x/1200/1700/201x/2066/FMx/AMx (seperate FM kit) | **5** | 23.9 dbA 
+**\*Noctua NH-L12s**			| 70mm | $75 | 95W | 120mm | LGA115x/1200/1700/201x/2066/FMx/AMx (seperate FM kit) | **5** | 23.9 dbA 
 beQuiet Shadow Rock LP			| 75mm | $50 | 130W | 120mm | LGA115x/1200/1700/201x/AMx | 4 | 25.5 dBA 
 Noctua NH-L12sx77			| 77mm | $75 | 107W | 120mm | LGA115x/1200/1700/1851/AMx | 4 | 23.9 dbA 
 AMD Wraith Max Stock		| 85mm | $60 | 140W | NA | AM4/AM3+/FM2+ | 4 | -3mm shroud removed
@@ -71,6 +71,7 @@ Thermalright SI-100			| 99.8mm | $60 | 140W? | 120mm | LGA115x/1200/1700/201x/AM
 AMD Prism Stock			| 93 / 96.3mm | NA | 140W | 92mm | AM4 | 4 | -3mm shroud removed - 2700X/3700X/3800X/3900X
 
 (1) G.Skill Aegis/Patriot Signature/Crucial Green (31.25), Teamgroup Elite (31.5), Teamgroup Vulcan Z (31.6), Vengeance LPX (34), HyperX Fury (34.1)  
+(DC) Discontinued  
 
 ## **Recommendations**
 
