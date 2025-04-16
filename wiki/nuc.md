@@ -9,6 +9,8 @@
 </style>
 -->
 
+## NUC Recs
+
 **4K HDR: Beelink EQR6, Intel NUC [11-13 i3-i5](https://www.newegg.com/p/pl?N=100008345%20601398021%20601398031%20601407140%20601398049%20601398018%20601398044%20601398029%20601398043%20601398019%2050001157%2050001315%20601412543%20601412542%20601435126%20601435127%20601450721%20601412544&SrchInDesc=-hunsn%2C-Aittact&Order=1). On the cheap: Used Intel NUC8i3BEH**
 
 **1080p: Beelink Mini S12 N95, Intel NUC11ATK, On the cheap: Intel NUC7i3BEH/NUC7PJYH**
@@ -21,9 +23,11 @@
 
 **Medium Gaming: Minisforum UM773 Lite, Minisforum EliteMini UM690 Pro, Beelink GTR6**
 
-**High Gaming: Minisforum EliteMini UM790 Pro/AI 370, Beelink SER9 Pro, Minisforum HX99G (dGPU)**
+**High Gaming: GMKTec Evo X2, Minisforum HX99G (dGPU), Minisforum AI X1 Pro/Beelink SER9 Pro**
 
-## NUC list
+## NUC List
+
+**NOTE: We're lagging behind in updates to our list by about 2 years. We'll get back to it when we can. Recs above are still updated**
 
 A current list of NUC-sized PCs we've compiled that can be used as HTPCs. Most are barebones and require added memory and storage, some come with it. It's not a completely exhaustive list as some vendors have WAY more SKUs than we list here; but we will list mainstream ones best we can.  
 
