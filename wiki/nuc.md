@@ -31,7 +31,7 @@
 
 A current list of NUC-sized PCs we've compiled that can be used as HTPCs. Most are barebones (Kit) and require added memory and storage, some come with it (Mini PC). It's not a completely exhaustive list as some vendors have WAY more SKUs than we list here; but we will list mainstream ones best we can.  
 
-CPU/PASSMARK refers to Passmark's [CPU Mark performance benchmark](https://www.cpubenchmark.net/). GPU refers to FP32 GFLOPS performance.  
+CPU/PASSMARK refers to Passmark's [CPU Mark performance benchmark](https://www.cpubenchmark.net/). GPU refers to FP32 GFLOPS performance. A GPU score of 400 should be considered the minimum for 4K media. 800 is ideal.   
 
 &nbsp;
 
