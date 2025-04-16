@@ -27,7 +27,7 @@
 
 ## NUC List
 
-**NOTE: We're lagging behind in updates to our list by about 2 years. We'll get back to it when we can. Recs above are still updated**
+**NOTE: We're lagging behind in updates to our list by about 2 years on AMD mini pc skus and details of Intel-based Asus NUCs. We'll get back to it when we can. Recs above are still updated**
 
 A current list of NUC-sized PCs we've compiled that can be used as HTPCs. Most are barebones and require added memory and storage, some come with it. It's not a completely exhaustive list as some vendors have WAY more SKUs than we list here; but we will list mainstream ones best we can.  
 
@@ -83,6 +83,41 @@ Asus|5300U-5700U|$350-650|PN51|10000-16000|1152-1946|10-25W, 4-8C/8-16T, RLANx1 
 Asus|4300U-4800U|$350-650|PN50|8000-17000|896-1792|10-25W, 4-8C/4-16T, LANx1 (1000), WLAN (ax), Vega 5-8 GPU, HDMI 2.0ax1, 8K60 via DP1.4/USBC, 64GB DDR4-3200 (SODIMMx2), USB32G2-Cx2, USB31G1-Ax3, PCIe M.2x1 (2280), 2.5"x1, SD/SDHC/MMC, IR, Stereo, DB9/VGAx1 (Opt), Mic x 2, BT 5
 Asrock|4300U-4800U|$325-650|4x4 BOX-4x00U|8000-17000|896-1792|10-25W, 4-8C/4-16T, RLANx2 (1000/2.5G), WLAN (ax), Vega 5-8 GPU, HDMI 2.0ax1, DP1.2ax3 (1xReal,2xUSB), 64GB DDR4-3200 (SODIMMx2), USB32G2-Cx2, USB32G2-Ax1, USB20-Ax2, PCIe M.2x1 (2280), 2.5"x1, Stereo, Mic, BT 5.1
 Gigabyte|4300U-4800U|$340-650|GB-BRRxH-4x00/GB-BRRx-4x00|8000-17000|896-1792|10-25W, 4-8C/4-16T, RLANx1 (2.5G), WLAN (ax), Vega 5-8 GPU, HDMI 2.0ax1, mDPx1, DP 1.2ax2 (2xUSB), 64GB DDR4-3200 (SODIMMx2), USB32G2-Cx2, USB32G1-Ax5, PCIe M.2x1 (2280), 2.5"x1 (H), Stereo, DB9x1, Mic, BT 5.2
+
+### Intel Lunar Lake (15th gen/3nm/8K HW) ###
+
+BRAND|CPU|COST|MODEL|PASSMARK|GPU|SPECS/NOTES
+:--|:--|:--|:--|:--|:--|:--
+Asus|i5-226V/228V,i7-256V/258V,i9-288V|$NA|NUC 14 Pro AI Plus|18900-20700*|NA|Lunar Canyon. Kit
+Asus|i5-226V,i7-258V,i9-288V|$NA|NUC 14 Pro AI|18900-20700*|NA|Lunar Canyon. Kit
+
+### Intel Arrow Lake (15th gen/4nm/8K HW) ###
+
+NOTES: i3-100U and i5-2x0H CPUs are Raptor Lake Refresh
+
+BRAND|CPU|COST|MODEL|PASSMARK|GPU|SPECS/NOTES
+:--|:--|:--|:--|:--|:--|:--
+Asus|i3-100U/i5-210H-265H|$NA|NUC 15 Pro/NUC15CRK-B/NUC15CRH-B|14400-29500*|NA|Cyber Canyon. Kit
+Asus|i3-100U/i5-210H/240H|$NA|NUC 15 Pro/NUC15CRK|14400-23700*|NA|Cyber Canyon. Mini PC
+
+### Intel Meteor Lake / Raptor Lake Refresh (RPL) (14th gen/4-7nm/8K HW) ###
+
+NOTES: Good for 4k HDR, AV1 decoding, emulation. Now designed, built and sold by Asus.  
+
+BRAND|CPU|COST|MODEL|PASSMARK|GPU|SPECS/NOTES
+:--|:--|:--|:--|:--|:--|:--
+Asus|i3-100U/i5-125H/155H|$NA|NUC 14 Pro|14400-24900*|NA|Revel Canyon. Kit
+Asus|i3-100U/i5-125H-165H|$NA|NUC14RVH-B|14400-26300*|NA|Revel Canyon. Kit
+Asus|i5-125H/155H|$NA|NUC14RVH|21200-24900*|NA|Revel Canyon. Mini PC
+Asus|i5-135H|$NA|NUC 14 Pro|22400*|NA|Revel Canyon. Mini PC
+
+### Intel Alder Lake-N / Twin Lake (14th gen/7nm/8K HW) ###
+
+NOTES: Good for 4k HDR, AV1 decoding.  
+
+BRAND|CPU|COST|MODEL|PASSMARK|GPU|SPECS/NOTES
+:--|:--|:--|:--|:--|:--|:--
+Asus|N150/N250/N97/N355|$170+|NUC14MNK-B/NUC Essential|4900-10100*|NA|Mill Canyon. Kit
 
 ### Intel Raptor Lake (RPL) (13th gen/7nm/8K HW) ###
 
@@ -448,5 +483,5 @@ Zotac
 
 ---
 
-*This page was last updated on 2025-03-30*
+*This page was last updated on 2025-04-16*
 
