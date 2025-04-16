@@ -84,6 +84,28 @@ Asus|4300U-4800U|$350-650|PN50|8000-17000|896-1792|10-25W, 4-8C/4-16T, LANx1 (10
 Asrock|4300U-4800U|$325-650|4x4 BOX-4x00U|8000-17000|896-1792|10-25W, 4-8C/4-16T, RLANx2 (1000/2.5G), WLAN (ax), Vega 5-8 GPU, HDMI 2.0ax1, DP1.2ax3 (1xReal,2xUSB), 64GB DDR4-3200 (SODIMMx2), USB32G2-Cx2, USB32G2-Ax1, USB20-Ax2, PCIe M.2x1 (2280), 2.5"x1, Stereo, Mic, BT 5.1
 Gigabyte|4300U-4800U|$340-650|GB-BRRxH-4x00/GB-BRRx-4x00|8000-17000|896-1792|10-25W, 4-8C/4-16T, RLANx1 (2.5G), WLAN (ax), Vega 5-8 GPU, HDMI 2.0ax1, mDPx1, DP 1.2ax2 (2xUSB), 64GB DDR4-3200 (SODIMMx2), USB32G2-Cx2, USB32G1-Ax5, PCIe M.2x1 (2280), 2.5"x1 (H), Stereo, DB9x1, Mic, BT 5.2
 
+### AMD Zen+ (12nm/4K HW) ###
+
+NOTES: Good for 4k HDR, emulation  
+
+BRAND|CPU|COST|MODEL|PASSMARK|SPECS/NOTES
+:--|:--|:--|:--|:--|:--
+Asus|3550H|$400|PB50|8100*|35W, 4 core, Vega 8 GPU
+Asus|3750H|$500|PB50|8400*|35W, 4 core, Vega 10 GPU
+Beelink|3550H|$390|GT-R|8100*|35W, 4 core, Vega 8 GPU
+Minisforum|3550H|$250|UM350|8100*|35W, 4 core, Vega 8 GPU, Barebones
+Minisforum|3300U|$300|UM300|5800*|15W, 4 core, Vega 6 GPU
+
+### AMD Zen (14nm/4K HW) ###
+
+BRAND|CPU|COST|MODEL|PASSMARK|SPECS/NOTES
+:--|:--|:--|:--|:--|:--
+ECS|R1505G|$245|Liva Q3 Plus|4200*|15W, 2 core, RLANx1 (1000), WLAN (ac), Vega 3 GPU, HDMI 2.0ax1, mDP1.4x1, 4GB DDR4-2400, 64GB eMMC, USB32G2-Ax2, USB20-Ax1, micro SD, BT 4.1 
+ASRock|R1505G|$280|R1000V|4200*|12-25W, 2 core, RLANx2 (1000), WLAN (ac), Vega 3 GPU, HDMI 2.0ax1, DP1.2x2, 32GB-DDR4-2400-SODIMMx2, USB31G2-Ax3, USB2-Ax2, M.2x1 (2242/2260), 2.5"x1, microSD, Stereo, Mic, BT 4.2
+ASRock|V1605B|$370|V1000M|6800*|12-25W, 4 core, RLANx2 (1000), WLAN (ac), Vega 8 GPU, HDMI 2.0ax1, DP1.2x2, 32GB-DDR4-2400-SODIMMx2, USB31G2-Ax3, USB2-Ax2, M.2x1 (2242/2260), 2.5"x1, microSD, Stereo, Mic, BT 4.2
+T-Bao|2500U|$330|TBOOK MN25|6600*|15W, 4 core, Vega 8, 4GB/128GB
+Zotac|2200G/2400G|NA|MA551|NA|UPCOMING (Not in U.S.A). 45W/65W, 4 core, LANx1 (1000), WLAN (ac), 32GB-DDR4-2400-SODIMM, HDMI 2.0x2, DP 1.2x1, 2.5" SSD, M.2x1, microSD, USB30Ax4, USB31Cx1, BT 4.2
+
 ### Intel Lunar Lake (15th gen/3nm/8K HW) ###
 
 BRAND|CPU|COST|MODEL|PASSMARK|GPU|SPECS/NOTES
@@ -219,18 +241,6 @@ BRAND|CPU|COST|MODEL|PASSMARK|SPECS/NOTES
 :--|:--|:--|:--|:--|:--
 Intel|i3-8121U|$480/$525|NUC8I3CYSN/M|4200*|Crimson Canyon. 15W, 2 core, ILANx1 (1000), WLAN (ac), Radeon 540 dGPU (2GB), HDMI 2.0ax2, LPDDR4-2666, USB31Ax4, M.2x1, 2.5"x1, microSD, Stereo, Mic. BT 5. Comes with 1TB HDD, 4GB (N)/8GB (M) RAM, Win10Home, CEC
 
-### AMD Zen+ (12nm/4K HW) ###
-
-NOTES: Good for 4k HDR, emulation  
-
-BRAND|CPU|COST|MODEL|PASSMARK|SPECS/NOTES
-:--|:--|:--|:--|:--|:--
-Asus|3550H|$400|PB50|8100*|35W, 4 core, Vega 8 GPU
-Asus|3750H|$500|PB50|8400*|35W, 4 core, Vega 10 GPU
-Beelink|3550H|$390|GT-R|8100*|35W, 4 core, Vega 8 GPU
-Minisforum|3550H|$250|UM350|8100*|35W, 4 core, Vega 8 GPU, Barebones
-Minisforum|3300U|$300|UM300|5800*|15W, 4 core, Vega 6 GPU
-
 ### Intel Coffee Lake (CFL) / Kaby Lake Refresh (KBLR) / Whiskey Lake (WHL) (8th gen/14nm++/4K HW) ###
 
 NOTES: Still the best value for 4k HDR. Great iGPU (esp. Intel SKUs) but old enough for find for a good price on [ebay/secondary market](https://www.ebay.com/sch/i.html?_from=R40&_nkw=intel+%288109u%2C8130u%2C8250u%2C8550u%2C8259u%2C8559u%2C8650u%2C8265u%2Cnuc8i%29&_sacat=179&LH_TitleDesc=0&_sop=15)  
@@ -302,16 +312,6 @@ Intel|Celeron J3455|$150/$225|NUC6CAYH/S|2250*|4C/4T, 10W, HD 500, ILAN (1000), 
 Voyo|Celeron N3450|$157/$220|V1|1769|6W, HD 500, LANx1 (1000), WLAN (n), mini HDMI 1.4, USB3Ax3, 2.5" SSD, SD, DDR3L, 3.5" audio. Prices are for RAM/ROM/SSD (4GB/64GB/NA)/(4GB/120GB/NA)
 Voyo|Pentium N4200|$222/$285|V1|2038|6W, HD 505, LANx1 (1000), WLAN (n), mini HDMI 1.4, USB3Ax3, 2.5" SSD, SD, DDR3L, 3.5" audio. Prices are for RAM/ROM/SSD (4GB/32GB/128GB)/(8GB/32GB/120GB)
 Zotac|Celeron N3450|$160|CI 327 nano/ZBOX-CI327NANO-U|1769|FANLESS, 6W, HD 500, LANx2 (1000), WLAN (ac), BT 4.2, HDMI 2.0, DP, VGA, SD, 2.5" SSD, M.2, USB30Cx1, USB30Ax2, USB2x2, 8GB-DDR3L-SODIMM, 3.5" audio.
-
-### AMD Zen (14nm/4K HW) ###
-
-BRAND|CPU|COST|MODEL|PASSMARK|SPECS/NOTES
-:--|:--|:--|:--|:--|:--
-ECS|R1505G|$245|Liva Q3 Plus|4200*|15W, 2 core, RLANx1 (1000), WLAN (ac), Vega 3 GPU, HDMI 2.0ax1, mDP1.4x1, 4GB DDR4-2400, 64GB eMMC, USB32G2-Ax2, USB20-Ax1, micro SD, BT 4.1 
-ASRock|R1505G|$280|R1000V|4200*|12-25W, 2 core, RLANx2 (1000), WLAN (ac), Vega 3 GPU, HDMI 2.0ax1, DP1.2x2, 32GB-DDR4-2400-SODIMMx2, USB31G2-Ax3, USB2-Ax2, M.2x1 (2242/2260), 2.5"x1, microSD, Stereo, Mic, BT 4.2
-ASRock|V1605B|$370|V1000M|6800*|12-25W, 4 core, RLANx2 (1000), WLAN (ac), Vega 8 GPU, HDMI 2.0ax1, DP1.2x2, 32GB-DDR4-2400-SODIMMx2, USB31G2-Ax3, USB2-Ax2, M.2x1 (2242/2260), 2.5"x1, microSD, Stereo, Mic, BT 4.2
-T-Bao|2500U|$330|TBOOK MN25|6600*|15W, 4 core, Vega 8, 4GB/128GB
-Zotac|2200G/2400G|NA|MA551|NA|UPCOMING (Not in U.S.A). 45W/65W, 4 core, LANx1 (1000), WLAN (ac), 32GB-DDR4-2400-SODIMM, HDMI 2.0x2, DP 1.2x1, 2.5" SSD, M.2x1, microSD, USB30Ax4, USB31Cx1, BT 4.2
 
 ### Intel Kaby Lake (7th gen/14nm+/4K HW) ###
 
