@@ -23,7 +23,7 @@
 
 **Medium Gaming: Minisforum UM773 Lite, Minisforum EliteMini UM690 Pro, Beelink GTR6**
 
-**High Gaming: GMKTec Evo X2, Asus NUC 14 Perf, Minisforum HX99G (dGPU), Minisforum AI X1 Pro/Beelink SER9 Pro**
+**High Gaming: GMKTec Evo X2, Asus NUC 14 Perf (dGPU), Minisforum HX99G (dGPU), Minisforum AI X1 Pro/Beelink SER9 Pro**
 
 ## NUC List
 
@@ -43,8 +43,8 @@ NOTES: Good for 4k HDR, emulation, medium gaming
 
 BRAND|CPU|COST|MODEL|CPU|GPU|SPECS/NOTES
 :--|:--|:--|:--|:--|:--|:--
-Minisforum|7940HS|$620|UM790 Pro|30000|8909|54W, 8C/16T, RDNA3 780m GPU, HDMI 2.1x2, 64GB DDR5-5600 (SODIMMx2), 2xPCIe 4.0 M.2x4, LANx1 (2.5G), WLAN(ax), USB4-Cx2, USB32G2-Ax4, Stereo, Mic, BT 5.3
-Beelink|7840HS|$690|GTR7|29000|8909|65W, 8C/16T, RDNA3 780m GPU, HDMI 2.1x1, DP1.4x1, USB4x2, ILANx2 (2.5G), DDR5-5600 (SODIMMx2), 2xPCIe 4.0 M.2x4
+Minisforum|7940HS|$620|UM790 Pro|30000|4200|54W, 8C/16T, RDNA3 780m GPU, HDMI 2.1x2, 64GB DDR5-5600 (SODIMMx2), 2xPCIe 4.0 M.2x4, LANx1 (2.5G), WLAN(ax), USB4-Cx2, USB32G2-Ax4, Stereo, Mic, BT 5.3
+Beelink|7840HS|$690|GTR7|29000|4200|65W, 8C/16T, RDNA3 780m GPU, HDMI 2.1x1, DP1.4x1, USB4x2, ILANx2 (2.5G), DDR5-5600 (SODIMMx2), 2xPCIe 4.0 M.2x4
 
 ### AMD Zen 3+ (6nm/8K HW) ###
 
