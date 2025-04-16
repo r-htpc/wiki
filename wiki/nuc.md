@@ -29,7 +29,7 @@
 
 **NOTE: We're lagging behind in updates to our list by about 2 years on AMD mini pc skus and details of Intel-based Asus NUCs. We'll get back to it when we can. Recs above are still updated**
 
-A current list of NUC-sized PCs we've compiled that can be used as HTPCs. Most are barebones and require added memory and storage, some come with it. It's not a completely exhaustive list as some vendors have WAY more SKUs than we list here; but we will list mainstream ones best we can.  
+A current list of NUC-sized PCs we've compiled that can be used as HTPCs. Most are barebones (Kit) and require added memory and storage, some come with it (Mini PC). It's not a completely exhaustive list as some vendors have WAY more SKUs than we list here; but we will list mainstream ones best we can.  
 
 CPU/PASSMARK refers to Passmark's [CPU Mark performance benchmark](https://www.cpubenchmark.net/). GPU refers to FP32 GFLOPS performance.  
 
@@ -108,10 +108,12 @@ Zotac|2200G/2400G|NA|MA551|NA|UPCOMING (Not in U.S.A). 45W/65W, 4 core, LANx1 (1
 
 ### Intel Lunar Lake (15th gen/3nm/8K HW) ###
 
+NOTES: Good for VVC/H266 decoding.  
+
 BRAND|CPU|COST|MODEL|PASSMARK|GPU|SPECS/NOTES
 :--|:--|:--|:--|:--|:--|:--
-Asus|i5-226V/228V,i7-256V/258V,i9-288V|$NA|NUC 14 Pro AI Plus|18900-20700*|NA|Lunar Canyon. Kit
-Asus|i5-226V,i7-258V,i9-288V|$NA|NUC 14 Pro AI|18900-20700*|NA|Lunar Canyon. Kit
+Asus|i5-226V/228V,i7-256V/258V,i9-288V|$NA|NUC 14 Pro AI+|18900-20700*|NA|Lunar Canyon. Kit/Mini PC. Arc 130V-140V GPU. HDMI 2.1x1 (4K@60)
+Asus|i5-226V,i7-258V,i9-288V|$850+|NUC 14 Pro AI|18900-20700*|NA|Lunar Canyon. Kit/Mini PC. Arc 130V-140V GPU. HDMI 2.1x1 (4K@60)
 
 ### Intel Arrow Lake (15th gen/4nm/8K HW) ###
 
@@ -119,8 +121,10 @@ NOTES: i3-100U and i5-2x0H CPUs are Raptor Lake Refresh
 
 BRAND|CPU|COST|MODEL|PASSMARK|GPU|SPECS/NOTES
 :--|:--|:--|:--|:--|:--|:--
-Asus|i3-100U/i5-210H-265H|$NA|NUC 15 Pro/NUC15CRK-B/NUC15CRH-B|14400-29500*|NA|Cyber Canyon. Kit
-Asus|i3-100U/i5-210H/240H|$NA|NUC 15 Pro/NUC15CRK|14400-23700*|NA|Cyber Canyon. Mini PC
+Asus|i5-225H-285H|$700+|NUC 15 Pro+/NUC15CRK|27900-32600*|NA|Cyber Canyon. Mini PC. Arc 130T-140T GPU. HDMI 2.1x2 (4K@60)
+Asus|i5-225H/285H|$560+|NUC 15 Pro+/NUC15CRS-B|27900-32600*|NA|Cyber Canyon. Kit. Arc 130T-140T GPU. HDMI 2.1x2 (4K@60)
+Asus|i3-100U/i5-210H-255H|$450+|NUC 15 Pro/NUC15CRK/CRH|14400-28800*|NA|Cyber Canyon. Mini PC. UHD14-64/UHD14-48-Arc 140T GPU. HDMI 2.1x2 (4K@60)
+Asus|i3-100U/i5-210H-265H|$390+|NUC 15 Pro/NUC15CRK-B/CRH-B|14400-29500*|NA|Cyber Canyon. Kit. UHD14-64/UHD14-48-Arc 140T GPU. HDMI 2.1x2 (4K@60)
 
 ### Intel Meteor Lake / Raptor Lake Refresh (RPL) (14th gen/4-7nm/8K HW) ###
 
@@ -128,10 +132,11 @@ NOTES: Good for 4k HDR, AV1 decoding, emulation. Now designed, built and sold by
 
 BRAND|CPU|COST|MODEL|PASSMARK|GPU|SPECS/NOTES
 :--|:--|:--|:--|:--|:--|:--
-Asus|i3-100U/i5-125H/155H|$NA|NUC 14 Pro|14400-24900*|NA|Revel Canyon. Kit
-Asus|i3-100U/i5-125H-165H|$NA|NUC14RVH-B|14400-26300*|NA|Revel Canyon. Kit
-Asus|i5-125H/155H|$NA|NUC14RVH|21200-24900*|NA|Revel Canyon. Mini PC
-Asus|i5-135H|$NA|NUC 14 Pro|22400*|NA|Revel Canyon. Mini PC
+Asus|i5-155H-185H|$1200+|NUC 14 Performance/NUC14SRK|24900-29400*|NA|Revel Canyon. Mini PC. RTX 4060/4070 GPU. HDMI 2.1x1 (4K@120)
+Asus|i5-125H-185H|$725+|NUC 14 Pro+/NUC14RVS|21200-29400*|NA|Revel Canyon. Mini PC. HDMI 2.1x2 (4K@60)
+Asus|i5-125H-185H|$550+|NUC 14 Pro+/NUC14RVS-B|21200-29400*|NA|Revel Canyon. Kit. HDMI 2.1x2 (4K@60)
+Asus|i5-125H-165H|$450+|Nuc 14 Pro/NUC14RVH/RVK|21200-26300*|NA|Revel Canyon. Mini PC. HDMI 2.1x2 (4K@60)
+Asus|i3-100U/i5-125H-165H|$350+|Nuc 14 Pro/NUC14RVH-B/RVK-B|14400-26300*|NA|Revel Canyon. Kit. HDMI 2.1x2 (4K@60)
 
 ### Intel Alder Lake-N / Twin Lake (14th gen/7nm/8K HW) ###
 
@@ -139,7 +144,8 @@ NOTES: Good for 4k HDR, AV1 decoding.
 
 BRAND|CPU|COST|MODEL|PASSMARK|GPU|SPECS/NOTES
 :--|:--|:--|:--|:--|:--|:--
-Asus|N150/N250/N97/N355|$170+|NUC14MNK-B/NUC Essential|4900-10100*|NA|Mill Canyon. Kit
+Asus|N150/N355|$170+|NUC 14 Essential/NUC14MNK|4900/10100*|NA|Mill Canyon. Mini PC. UHD14-24/UHD14-32 GPU. HDMI 2.1x1 (4K@60)
+Asus|N150/N250/N97/N355|$170+|NUC 14 Essential/NUC14MNK-B|4900-10100*|NA|Mill Canyon. Kit. UHD14-24/32/24/32 GPU. HDMI 2.1x1 (4K@60)
 
 ### Intel Raptor Lake (RPL) (13th gen/7nm/8K HW) ###
 
