@@ -865,7 +865,7 @@ If you have a limited budget, but want really nice speakers, consider starting w
     - *Passive/Unpowered*: More flexible with DAC Amp and Speaker choices.
       - Good: [Fosi BT30D](https://www.amazon.com/dp/B07K7NJ4QN/) amp ($90) + [Dayton Audio B65 (75Wx2)](https://www.parts-express.com/Dayton-Audio-Classic-B65-Bookshelf-Speaker-Pair-Black-300-254?quantity=1) ($70)
       - Better: [Loxjie A30](https://www.amazon.com/LOXJIE-MA12070-Headphone-Amplifier-Bluetooth/dp/B08J7Z8TN6) amp ($170) + [Polk XT15 (30-150Wx2)](https://www.amazon.com/Polk-Monitor-Bookshelf-Surround-Speakers/dp/B09BMXVQFT?th=1)s ($182)
-      - For a 2.1 system, add on a [Dayton SUB-800 (80W)](https://www.parts-express.com/Dayton-Audio-SUB-800-8-80-Watt-Powered-Subwoofer-300-627) subwoofer ($135)
+      - For a 2.1 system, add on a [Dayton SUB-800 (80W)](https://www.parts-express.com/Dayton-Audio-SUB-800-8-80-Watt-Powered-Subwoofer-300-627) subwoofer ($135)  
   - For 5.1:
     - Get a [Logitech Z906](https://www.logitech.com/en-us/products/speakers/z906-surround-sound-system.980-000467.html) that supports both analog and optical, with DD/DTS decoding. 
 
