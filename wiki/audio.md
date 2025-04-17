@@ -853,33 +853,42 @@ If your stereo TV or PC speakers are not producing good enough audio for you her
 We do have some Sound Bars listed below but please note these are for very specific use cases. Dollar for dollar, a Receiver and Speaker separates will be better. In cases of limited space, we would rather see you use a PASSIVE Speaker Bar with a Receiver, and you'll also see those options below.  
 If you have a limited budget, but want really nice speakers, consider starting with a 3.1 speaker/sub setup and adding on the surrounds later.  
 
+<!--
+*Active/Powered*: Simpler, but less flexible. Get good, analog, powered speakers such as [JBL 305P (82Wx2) (pair)](https://www.amazon.com/JBL-Professional-Next-Generation-Powered-306PMKII/dp/B077N2GQXC/ref=dp_fod_sccl_3/137-8306654-5347907?pd_rd_w=pi5Ah&content-id=amzn1.sym.06cf7ec8-2776-432f-a25d-c34b09167e8c&pf_rd_p=06cf7ec8-2776-432f-a25d-c34b09167e8c&pf_rd_r=7WZVG3YG2C32KNBPRZSJ&pd_rd_wg=ES31u&pd_rd_r=5510b861-fa61-4633-bf48-eeb110ae724b&pd_rd_i=B0787KRJ9H&th=1) & [3.5mm->6.3mm Cable](https://smile.amazon.com/Hosa-CMP-159-Stereo-Breakout-Cable/dp/B005HGM1D6) ($270). If you can't afford that, then [Edifier MR4](https://www.amazon.com/dp/B09DKV849B/ref=twister_B0DGXYPYML?_encoding=UTF8&th=1) (21Wx2)/[Micca PB42X](https://amazon.com/Micca-PB42X-Powered-Bookshelf-Speakers/dp/B00NXAEPDC) (15Wx2) & [3.5mm->RCA Cable](https://amazon.com/Hosa-CMR-206-Stereo-Breakout-Cable/dp/B000068O3B) ($100-130). For more inputs or for a 2.1 system, get [NEUMI BS5P-ARC](https://www.amazon.com/75-Watt-Powered-Bookshelf-Speakers-Bluetooth/dp/B08LV4SMH9/)s ($170) w/an 
+-->
 1. If just using analog/optical/usb connections and don't want/can't use a receiver:  
-For 2.x:  
-*Active/Powered*: Simpler, but less flexible. Get good, analog, powered speakers such as [JBL 305P (82Wx2) (pair)](https://www.amazon.com/JBL-Professional-Next-Generation-Powered-306PMKII/dp/B077N2GQXC/ref=dp_fod_sccl_3/137-8306654-5347907?pd_rd_w=pi5Ah&content-id=amzn1.sym.06cf7ec8-2776-432f-a25d-c34b09167e8c&pf_rd_p=06cf7ec8-2776-432f-a25d-c34b09167e8c&pf_rd_r=7WZVG3YG2C32KNBPRZSJ&pd_rd_wg=ES31u&pd_rd_r=5510b861-fa61-4633-bf48-eeb110ae724b&pd_rd_i=B0787KRJ9H&th=1) & [3.5mm->6.3mm Cable](https://smile.amazon.com/Hosa-CMP-159-Stereo-Breakout-Cable/dp/B005HGM1D6) ($270). If you can't afford that, then [Edifier MR4](https://www.amazon.com/dp/B09DKV849B/ref=twister_B0DGXYPYML?_encoding=UTF8&th=1) (21Wx2)/[Micca PB42X](https://amazon.com/Micca-PB42X-Powered-Bookshelf-Speakers/dp/B00NXAEPDC) (15Wx2) & [3.5mm->RCA Cable](https://amazon.com/Hosa-CMR-206-Stereo-Breakout-Cable/dp/B000068O3B) ($100-130). For more inputs or for a 2.1 system, get [NEUMI BS5P-ARC](https://www.amazon.com/75-Watt-Powered-Bookshelf-Speakers-Bluetooth/dp/B08LV4SMH9/)s ($170) w/an optional [Dayton SUB-800 (80W)](https://www.parts-express.com/Dayton-Audio-SUB-800-8-80-Watt-Powered-Subwoofer-300-627) subwoofer ($135).  
-*Passive/Unpowered*: More flexible with amp/speaker choices. You can do a [Loxjie A30](https://www.amazon.com/LOXJIE-MA12070-Headphone-Amplifier-Bluetooth/dp/B08J7Z8TN6) amp ($170)+[Polk XT15 (30-150Wx2)](https://www.amazon.com/Polk-Monitor-Bookshelf-Surround-Speakers/dp/B09BMXVQFT?th=1)s ($182). If you can't afford that, then [Fosi BT30D](https://www.amazon.com/dp/B07K7NJ4QN/) ($90)+[Dayton Audio B65 (75Wx2)](https://www.parts-express.com/Dayton-Audio-Classic-B65-Bookshelf-Speaker-Pair-Black-300-254?quantity=1) ($70). For a 2.1 system, add on a [Dayton SUB-800 (80W)](https://www.parts-express.com/Dayton-Audio-SUB-800-8-80-Watt-Powered-Subwoofer-300-627) subwoofer ($135).  
-For 5.1:  
-Get a [Logitech Z906](https://www.logitech.com/en-us/products/speakers/z906-surround-sound-system.980-000467.html) that supports both analog and optical, with DD/DTS decoding. 
+ - For 2.x:  
+   - *Active/Powered*: Get good, analog, powered speakers, with optionally a USB DAC and Studio Subwoofer.  
+     - Good: [NEUMI BS5P-ARC](https://www.amazon.com/75-Watt-Powered-Bookshelf-Speakers-Bluetooth/dp/B08LV4SMH9/) (37.5Wx2) + Optical/[3.5mm->RCA Cable](https://amazon.com/Hosa-CMR-206-Stereo-Breakout-Cable/dp/B000068O3B) ($170) (OPTIONAL: Sub: [Dayton SUB-800 (80W)](https://www.parts-express.com/Dayton-Audio-SUB-800-8-80-Watt-Powered-Subwoofer-300-627) ($135))
+     - Better: [Fluance Ai41](https://www.amazon.com/Fluance-Bookshelf-Amplifier-Turntable-Bluetooth) (45Wx2) + Optical/[3.5mm->RCA Cable](https://amazon.com/Hosa-CMR-206-Stereo-Breakout-Cable/dp/B000068O3B) ($250) (OPTIONAL: Sub: [Fluance DB10 (120W)](https://www.amazon.com/Fluance-10-inch-Frequency-Powered-Subwoofer/dp/B01MS9NG39) ($200))
+     - Best: [JBL 305P (pair)](https://www.amazon.com/JBL-Professional-Next-Generation-Powered-306PMKII/dp/B077N2GQXC/ref=dp_fod_sccl_3/137-8306654-5347907?pd_rd_w=pi5Ah&content-id=amzn1.sym.06cf7ec8-2776-432f-a25d-c34b09167e8c&pf_rd_p=06cf7ec8-2776-432f-a25d-c34b09167e8c&pf_rd_r=7WZVG3YG2C32KNBPRZSJ&pd_rd_wg=ES31u&pd_rd_r=5510b861-fa61-4633-bf48-eeb110ae724b&pd_rd_i=B0787KRJ9H&th=1) (82Wx2) + [Topping D10 Balanced](https://www.amazon.com/Topping-D10-Balanced-ES9038Q2M-PCM384kHz/dp/B099W3335Q) + [TRS Cables (pair)](https://www.amazon.com/Monoprice-Premier-Inch-Male-Cable/dp/B003L11F68) (OPTIONAL: Sub: JBL LSR310S (200W) + XLR cables (Sub->Speakers) ($300))
+   - *Passive/Unpowered*: More flexible with DAC Amp and Speaker choices.
+     - Good: [Fosi BT30D](https://www.amazon.com/dp/B07K7NJ4QN/) amp ($90) + [Dayton Audio B65 (75Wx2)](https://www.parts-express.com/Dayton-Audio-Classic-B65-Bookshelf-Speaker-Pair-Black-300-254?quantity=1) ($70)
+     - Better: [Loxjie A30](https://www.amazon.com/LOXJIE-MA12070-Headphone-Amplifier-Bluetooth/dp/B08J7Z8TN6) amp ($170) + [Polk XT15 (30-150Wx2)](https://www.amazon.com/Polk-Monitor-Bookshelf-Surround-Speakers/dp/B09BMXVQFT?th=1)s ($182)
+     - For a 2.1 system, add on a [Dayton SUB-800 (80W)](https://www.parts-express.com/Dayton-Audio-SUB-800-8-80-Watt-Powered-Subwoofer-300-627) subwoofer ($135)
+  - For 5.1:  
+    - Get a [Logitech Z906](https://www.logitech.com/en-us/products/speakers/z906-surround-sound-system.980-000467.html) that supports both analog and optical, with DD/DTS decoding. 
 
-3. If you have limited space and a small budget:  
+2. If you have limited space and a small budget:  
    $680 : $300 Sony STR-DH590/RX-V385 receiver, $250 [Dayton Audio BS41 3.0](https://www.parts-express.com/Dayton-Audio-BS41-41-LCR-Speaker-Bar-Black-300-686?quantity=1) Speaker Bar, $130 Dayton Audio [MKSX4](https://www.parts-express.com/Dayton-Audio-MKSX4-Four-4-Driver-Low-Profile-Passive-Subwoofer-300-495)/SUB-800 Sub  
 *- HDMI 2.0, 4K HDR, 3.1 channels effective (5.1 expandable), 90W, TrueHD/DTS-HD MA lossless sound, ARC*  
 $450 : Vizio M512a-H6/Samsung HW-Q600C Sound Bar  
 *- HDMI 2.0, 4K HDR, 5.1.2 (Vizio)/3.1.2-5.1.2 (Samsung) channels, Dolby Atmos/DTS:X lossless sound, eARC*  
 
-4. If you have limited space and a higher budget:  
+3. If you have limited space and a higher budget:  
 $1100 : $550 Denon [S760H](https://www.denon.com/en-us/product/av-receivers/avr-s760h) receiver (Low Profile: Marantz [NR1xxx](https://www.marantz.com/en-us/category/av-receivers)), $350 BIC Formula FH56 5.0 Speaker Bar (ALT: Used Mythos SSA-42), $185 Dayton Audio SUB-1000L Sub  
 *- HDMI 2.1, 5.1.2/7.2 channels, 75W, Dolby Atmos/DTS:X lossless sound, eARC*  
 $600 : JBL Bar 9.1 Sound Bar. If you can't find the JBL, then the Vizio P514a-H6 ($800) is a good choice.  
 *- 1 HDMI 2.0 input, 1 HDMI 2.1 output (4k@60Hz), 5.1.4, 4K HDR, Dolby Atmos/DTS:X lossless sound, eARC*  
 
-5. If you have unlimited space and a $550/$1000/$2000 budget:  
+4. If you have unlimited space and a $550/$1000/$2000 budget:  
 $550: $300 Yamaha [RX-V385](https://usa.yamaha.com/products/audio_visual/av_receivers_amps/rx-v385_u/index.html) receiver, $255 speakers/sub - Dayton Audio (B452x4 FL/FR/SL/SR + C452x1 C) + Polk PSW108 SUB <!-- [Dayton Audio B652 5.1 bundle](https://www.parts-express.com/B652-5.1-Home-Theater-Surround-Sound-Speaker-System-with-10-300-689?quantity=1) -->  
 *- HDMI 2.0, 5.1 channels, 70W, TrueHD/DTS-HD MA lossless sound, eARC*  
 $1000: $550 Denon [S760H](https://www.denon.com/en-us/product/av-receivers/avr-s760h) receiver, $500 speakers/sub - Neumi (BS5x4 FL/FR/SL/SR + CS5x1 C) + Dayton Sub-1000 <!-- [Dayton Audio MK442T 5.1 bundle](https://www.parts-express.com/Dayton-Audio-MK442T-5.1-Home-Theater-Bundle-10-Powered-Subwoofer-300-705) -->  
 $2000: $550 Denon [S760H](https://www.denon.com/en-us/product/av-receivers/avr-s760h) receiver, $1400 5.1 speakers/sub (L/R/Surr: [Kef Q150](https://www.accessories4less.com/make-a-store/item/kefq150blka/kef-new-q150-pair-5.25-2-way-bookshelf-speaker-black/1.html) (2-pair) $600 + Cen: [Kef Q150](https://www.accessories4less.com/make-a-store/item/kefq150blkea/kef-q150-5.25-2-way-bookshelf-speaker-black-one-single-speaker/1.html) $200 + Sub: [SVS PB-2000](https://www.svsound.com/collections/outlet-specials/outlet-subwoofer) $600)  
 *- HDMI 2.1, 5.1.2/7.2 channels, 75W, Dolby Atmos/DTS:X lossless sound, eARC*  
 
-6. If you have unlimited space and an unlimited budget:  
+5. If you have unlimited space and an unlimited budget:  
 $10000: $1200 Denon [AVR-X3700H](https://www.denon.com/en-us/product/av-receivers/avr-x3700h) receiver, $8800 Monitor Audio Silver 300 7G 7.1.2 + W-12 6G Sub  
 *- HDMI 2.1, 11.2 channels (9.2 powered), 105W, Dolby Atmos/DTS:X lossless sound, eARC*  
 
