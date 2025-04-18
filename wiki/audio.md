@@ -871,26 +871,26 @@ If you have a limited budget, but want really nice speakers, consider starting w
 
 2. If you have limited space and a small budget:  
    $680 : $300 Sony STR-DH590/RX-V385 receiver, $250 [Dayton Audio BS41 3.0](https://www.parts-express.com/Dayton-Audio-BS41-41-LCR-Speaker-Bar-Black-300-686?quantity=1) Speaker Bar, $130 Dayton Audio [MKSX4](https://www.parts-express.com/Dayton-Audio-MKSX4-Four-4-Driver-Low-Profile-Passive-Subwoofer-300-495)/SUB-800 Sub  
-*- HDMI 2.0, 4K HDR, 3.1 channels effective (5.1 expandable), 90W, TrueHD/DTS-HD MA lossless sound, ARC*  
+*- HDMI 2.0, 4K HDR, 3.1 channels effective (5.1 expandable), TrueHD/DTS-HD MA lossless sound, ARC (DH590)/eARC (V385)*  
 $450 : Vizio M512a-H6/Samsung HW-Q600C Sound Bar  
 *- HDMI 2.0, 4K HDR, 5.1.2 (Vizio)/3.1.2-5.1.2 (Samsung) channels, Dolby Atmos/DTS:X lossless sound, eARC*  
 
 3. If you have limited space and a higher budget:  
 $1100 : $550 Denon [S760H](https://www.denon.com/en-us/product/av-receivers/avr-s760h) receiver (Low Profile: Marantz [NR1xxx](https://www.marantz.com/en-us/category/av-receivers)), $350 BIC Formula FH56 5.0 Speaker Bar (ALT: Used Mythos SSA-42), $185 Dayton Audio SUB-1000L Sub  
-*- HDMI 2.1, 5.1.2/7.2 channels, 75W, Dolby Atmos/DTS:X lossless sound, eARC*  
+*- HDMI 2.1, 5.1.2/7.2 channels, Dolby Atmos/DTS:X lossless sound, eARC*  
 $600 : JBL Bar 9.1 Sound Bar. If you can't find the JBL, then the Vizio P514a-H6 ($800) is a good choice.  
 *- 1 HDMI 2.0 input, 1 HDMI 2.1 output (4k@60Hz), 5.1.4, 4K HDR, Dolby Atmos/DTS:X lossless sound, eARC*  
 
 4. If you have unlimited space and a $550/$1000/$2000 budget:  
 $550: $300 Yamaha [RX-V385](https://usa.yamaha.com/products/audio_visual/av_receivers_amps/rx-v385_u/index.html) receiver, $255 speakers/sub - Dayton Audio (B452x4 FL/FR/SL/SR + C452x1 C) + Polk PSW108 SUB <!-- [Dayton Audio B652 5.1 bundle](https://www.parts-express.com/B652-5.1-Home-Theater-Surround-Sound-Speaker-System-with-10-300-689?quantity=1) -->  
-*- HDMI 2.0, 5.1 channels, 70W, TrueHD/DTS-HD MA lossless sound, eARC*  
+*- HDMI 2.0, 5.1 channels, TrueHD/DTS-HD MA lossless sound, eARC*  
 $1000: $550 Denon [S760H](https://www.denon.com/en-us/product/av-receivers/avr-s760h) receiver, $500 speakers/sub - Neumi (BS5x4 FL/FR/SL/SR + CS5x1 C) + Dayton Sub-1000 <!-- [Dayton Audio MK442T 5.1 bundle](https://www.parts-express.com/Dayton-Audio-MK442T-5.1-Home-Theater-Bundle-10-Powered-Subwoofer-300-705) -->  
 $2000: $550 Denon [S760H](https://www.denon.com/en-us/product/av-receivers/avr-s760h) receiver, $1400 5.1 speakers/sub (L/R/Surr: [Kef Q150](https://www.accessories4less.com/make-a-store/item/kefq150blka/kef-new-q150-pair-5.25-2-way-bookshelf-speaker-black/1.html) (2-pair) $600 + Cen: [Kef Q150](https://www.accessories4less.com/make-a-store/item/kefq150blkea/kef-q150-5.25-2-way-bookshelf-speaker-black-one-single-speaker/1.html) $200 + Sub: [SVS PB-2000](https://www.svsound.com/collections/outlet-specials/outlet-subwoofer) $600)  
-*- HDMI 2.1, 5.1.2/7.2 channels, 75W, Dolby Atmos/DTS:X lossless sound, eARC*  
+*- HDMI 2.1, 5.1.2/7.2 channels, Dolby Atmos/DTS:X lossless sound, eARC*  
 
 5. If you have unlimited space and an unlimited budget:  
 $10000: $1200 Denon [AVR-X3700H](https://www.denon.com/en-us/product/av-receivers/avr-x3700h) receiver, $8800 Monitor Audio Silver 300 7G 7.1.2 + W-12 6G Sub  
-*- HDMI 2.1, 11.2 channels (9.2 powered), 105W, Dolby Atmos/DTS:X lossless sound, eARC*  
+*- HDMI 2.1, 11.2 channels (9.2 powered), Dolby Atmos/DTS:X lossless sound, eARC*  
 
 HTBuyingGuides' [Speaker recommendations](https://www.reddit.com/r/HTBuyingGuides/search/?q=speakers&restrict_sr=1&sr_nsfw=)
  / 
