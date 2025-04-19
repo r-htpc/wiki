@@ -521,7 +521,7 @@ If you don't want to use media serving softwares, or you don't need real time tr
 
 The max resolution and audio supported by a particular service on a traditional HTPC varies by the service, OS and program (browser/app) used.  
 
-Make sure to configure your system/browser first via the setup sections of the [Audio](/wiki/audio#softwareos-setup) / [Video](/wiki/video#application-specific-setup-for-hardware-decoding) wiki pages. For better video, audio and HDR support, use a media device instead.  
+**Make sure to configure your system/browser first via the setup sections of the [Audio](/wiki/audio#application-specific-setup-for-bitstreaming) and [Video](/wiki/video#application-specific-setup-for-hardware-decoding) wiki pages**. For better video, audio and HDR support, use a media device instead.  
 
 The following are the current capabilities of the major streaming services as we know them. These are always subject to change, both for the better and for the worse. If you have any contradicting data, please let us know.  
 
