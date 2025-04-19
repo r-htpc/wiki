@@ -525,10 +525,10 @@ Make sure to configure your system/browser first via the setup sections of the [
 
 The following are the current capabilities of the major streaming services as we know them. These are always subject to change, both for the better and for the worse. If you have any contradicting data, please let us know.  
 
-- [NETFLIX](https://help.netflix.com/en/node/13444?rel=related)  
+- [NETFLIX](https://help.netflix.com/en/node/30081)  
 
-  - *Windows:* (MS Edge/MS Store App) 4k HDR10, [DD+ 5.1 Atmos](https://help.netflix.com/en/node/14163) (currently broken). (Chrome/Firefox) 720p SDR Stereo
-  - *Linux:* 720p SDR
+  - *Windows:* (MS Edge/MS Store App) [4k HDR10](/wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility), [DD+ 5.1 Atmos](https://help.netflix.com/en/node/14163) (currently broken). (Chrome/Firefox) 1080p SDR Stereo
+  - *Linux:* (Opera) 1080p SDR, (Other Browsers) 720p SDR
 
 - [AMAZON PRIME VIDEO](https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=GUVGB3QMQRYRERYW)  
 
