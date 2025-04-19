@@ -369,7 +369,8 @@ COMMON REQUIREMENTS (Windows):
 BROWSERS/STREAMING SERVICES:  
 1. Make sure your service supports a bitstreamable codec (Dolby/DD). See: [Wiki:FAQ:What resolution and audio is supported on streaming service X?](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x)
 2. Install the app for your service from the Microsoft store or use the Microsoft Edge browser.
-3. Test your browser's audio capabilities with [Dolby's capabilities test website](https://ott.dolby.com/codec_test/index.html)
+3. If Netflix 5.1+, install Dolby Access per [Netflix's help page](https://help.netflix.com/en/node/14163)
+4. Test your browser's audio capabilities with [Dolby's capabilities test website](https://ott.dolby.com/codec_test/index.html)
 
 MPC-HC:  
 These steps assume you have the latest version of [MPC-HC clsid2](https://github.com/clsid2/mpc-hc/releases)  
