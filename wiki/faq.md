@@ -573,7 +573,7 @@ The following are the current capabilities of the major streaming services as we
 - [VUDU](https://support.vudu.com/en_us/categories/general-requirements-r1VPwDURP)  
 
   - *Windows:* (Browser/App) 1080p, Stereo
-  - *Linux:* Not supported
+  - *Linux:* Not supported, use Movies Anywhere for limited support
 
 - [PEACOCK TV](https://www.peacocktv.com/help/article/what-devices-and-platforms-are-supported-by-peacock)  
 
