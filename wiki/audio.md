@@ -659,7 +659,8 @@ You can also reference [this post](https://www.reddit.com/r/htpc/comments/vn3iuy
 
 ### How can I transport Surround sound over a Stereo only audio interface?
 
-If your sound system supprorts it, you can use Dolby Pro Logic II/Dolby Surround matrix encoding. It will downmix and encode the extra surround channels inside a stereo signal. Your sound system will then decode it on the other end. This sound work usually over any audio interface, even analog. It is a popular tech used in old and emulation games. It's not a perfect technology, but an approximation and usually introduces some cross-talk. If it's not good enough for you, see the next section for encoding the audio to Dolby Digital 5.1, if your audio interface and sound system supports that.
+If your sound system supprorts it, you can use Dolby Pro Logic II/Dolby Surround matrix encoding. It will "downmix" and encode the extra surround channels inside a Stereo signal. Your sound system will then decode the matrix on the other end and try to put the surround audio into their proper speakers, but the surround channels are no longer discrete. As such, it's not a perfect technology, but an approximation and usually introduces some cross-talk. This sound work usually over any audio interface, even analog. It is a popular tech used in old and emulation games.  
+If it's not good enough for you, see the next section for encoding the audio to Dolby Digital 5.1, if your audio interface and sound system supports that. 
 Else,  
 
 - Configure the speaker configuration in your window's sound device as Stereo
