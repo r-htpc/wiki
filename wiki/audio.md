@@ -659,13 +659,13 @@ You can also reference [this post](https://www.reddit.com/r/htpc/comments/vn3iuy
 
 ### How can I transport Surround sound over a Stereo only audio interface?
 
-If your sound system supprorts it, you can use Dolby Pro Logic II/Dolby Surround matrix encoding. It will downmix and encode the extra channels inside a stereo signal. Your sound system will then decode it on the other end. This sound work over any audio interface, even analog. It is a popular tech used in old and emulation games. It's not a perfect technology, but an approximation and usually introduces some cross-talk. If it's not good enough for you, see the next section for encoding the audio to Dolby Digital 5.1, if your audio interface and sound system supports that.
+If your sound system supprorts it, you can use Dolby Pro Logic II/Dolby Surround matrix encoding. It will downmix and encode the extra surround channels inside a stereo signal. Your sound system will then decode it on the other end. This sound work usually over any audio interface, even analog. It is a popular tech used in old and emulation games. It's not a perfect technology, but an approximation and usually introduces some cross-talk. If it's not good enough for you, see the next section for encoding the audio to Dolby Digital 5.1, if your audio interface and sound system supports that.
 Else,  
 
 - Configure the speaker configuration in your window's sound device as Stereo
 - In your media application's audio decoder/filters mixing section, enable Dolby Pro Logic II/Dolby Surround matrix encoding.
 - If your media player doesn't natively support it, install the 3rd party LAV Filters and add them to your media player.
-- For system-wide, you can try and use Equalizer APO and [these configs](https://github.com/Dogway/emulation-random/tree/master/EqualizerAPO/Surround), else use the Dolby Digital 5.1 option mentioned above.
+- For system-wide, you can try and use Equalizer APO and [these configs](https://github.com/Dogway/emulation-random/tree/master/EqualizerAPO/Surround), else use the Dolby Digital 5.1 option below.
 
 <!-- Sub-Section -->
 
@@ -1084,5 +1084,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2025-04-17*
+ *This page was last updated on 2025-04-21*
 
