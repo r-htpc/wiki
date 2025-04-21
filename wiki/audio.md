@@ -320,17 +320,22 @@ In media applications, the most popular ones will have the codecs to decode up t
 
     - After you've configured your app(s) and windows, play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below. 
 
-    - There are advanced things you can do by using application middleware and external filters like [transcoding audio codecs](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital), decoding obscure codecs and advanced mixing. See the 3rd Party sub-section of the Audio Software section above.  
-
 - *Setting up for Gaming:*
    - If you're playing games with just PCM or using Analog, you're done. If you're doing advanced setups like using Dolby Atmos or Dolby Digital Live, see the [Gaming section](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) below for caveats and advanced setup.
 
+- *If you want to downmix content:*
+   - Configure the speaker configuration in your window's sound device as your desired channel output.
+   - Configure the speaker configuration in your media applications to the speakers you want to downmix to, e.g. 2.1. This varies. Each app usually has their own audio mixing filter
+
 - *If you want to upmix content:*
-   - Configure the speaker configuration in your window's sound device as Stereo. This will allow your sound system to use its upmixers (Dolby Surround, Pro Logic, etc..) to upmix the content
-   - Configure the speaker configuration in your media applications to the speakers you want to upmix to, e.g. 5.1. This varies. Each app usually has their own audio mixing filter, but may also include LAV audio decoder filters to do Pro Logic encoding/normalize/DRC/etc...
+   - Configure the speaker configuration in your media applications to the speakers you want to upmix to, e.g. 5.1. This varies. Each app usually has their own audio mixing filter, but may also include LAV audio decoder filters to do normalize/DRC/etc...
    - Use a 3rd party system-wide upmixer, such as [Equalizer APO + Peace Equalizer GUI](/wiki/audio#audio-software), with Stereo Effect.
    - If available, set your window's sound device to use the 'Speaker fill' enhancement.
    - Install Dolby Access and configure Dolby Atmos for Home Theater with the Channel Upmixer option enabled
+
+- *Other:*
+  - If you want to fit Surround into audio interfaces that only support Stereo, see [here](/wiki/audio) 
+  - There are advanced things you can do by using application middleware and external filters like [transcoding audio codecs](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital), decoding obscure codecs and advanced mixing. See the 3rd Party sub-section of the Audio Software section above.  
 
 - NOTES:  
   1. You know this way is configured correctly because when you play audio you SHOULD be able to change the volume on the HTPC and hear a difference.  
@@ -649,6 +654,18 @@ In addition, the following things may fix and/or help you identify your problem:
 You could be encountering a "feature" that causes a digital audio connection (SPDIF or HDMI) to go to sleep, [into a power saving D3 state](https://www.intel.com/content/dam/www/public/us/en/documents/product-specifications/high-definition-audio-specification.pdf), when audio stops playing for a period of time. It takes some time for the connection to come back to an active D0 power state, causing the delay. To workaround this use a program to keep the connection active, such as [Sound Keeper](https://github.com/vrubleg/soundkeeper) or [SPDIF KA](https://github.com/handruin/spdif-ka) on Windows (or [these methods](https://destinmoulton.com/notes/howto/linux-usb-audio-keep-alive-service/) on Linux) which will play inaudible audio over the connection at all times.  
 
 You can also reference [this post](https://www.reddit.com/r/htpc/comments/vn3iuy/fixing_the_delay_when_starting_audio_from_windows/) for experiences. 
+
+<!-- Sub-Section -->
+
+### How can I transport Surround sound over a Stereo only audio interface?
+
+If your sound system supprorts it, you can use Dolby Pro Logic II/Dolby Surround matrix encoding. It will downmix and encode the extra channels inside a stereo signal. Your sound system will then decode it on the other end. This sound work over any audio interface, even analog. It is a popular tech used in old and emulation games. It's not a perfect technology, but an approximation and usually introduces some cross-talk. If it's not good enough for you, see the next section for encoding the audio to Dolby Digital 5.1, if your audio interface and sound system supports that.
+Else,  
+
+- Configure the speaker configuration in your window's sound device as Stereo
+- In your media application's audio decoder/filters mixing section, enable Dolby Pro Logic II/Dolby Surround matrix encoding.
+- If your media player doesn't natively support it, install the 3rd party LAV Filters and add them to your media player.
+- For system-wide, Use Equalizer APO and [these configs](https://github.com/Dogway/emulation-random/tree/master/EqualizerAPO/Surround)
 
 <!-- Sub-Section -->
 
