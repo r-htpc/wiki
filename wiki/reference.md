@@ -91,7 +91,7 @@ ATX|12 x 9.6|305 x 244|PCIE x 5/6, MEM x 2/4
 
 **GPU/iGPU** - Graphics Processing Unit. A video card. The 'i' in iGPU stands for 'Internal/Integrated'. This is a GPU that is included on the CPU package, prevelant in Intel CPUs (HD xxx) and AMD APUs (Radeon/Vega).
 
-**Geforce GTX/RTX 10xx/16xx/20xx-50xx** - Families of high-end graphics cards made by Nvidia. There are various versions, 1030/1050/1060/1070/1080 ($75-$500), 1650/1660 ($150-$250), 2060-5090. They are one of the graphics card families to support HDMI 2.0, HDCP 2.2 and Microsoft Playready 3 (outside of Intel iGPUs >= 7th gen, AMD APUs >= 3200G and AMD dGPUs >= RX 4xx) for DRM use to access 4K Netflix. RTX 30xx adds support for HDMI 2.1
+**Geforce GTX/RTX 10xx/16xx/20xx-50xx** - Families of high-end graphics cards made by Nvidia. There are various versions, 1030/1050/1060/1070/1080 ($75-$500), 1650/1660 ($150-$250), 2060-5090. They are one of the graphics card families to support HDMI 2.0, HDCP 2.2 and Microsoft Playready 3 (outside of Intel iGPUs >= 7th gen, AMD APUs >= 3200G and AMD dGPUs >= RX 4xx) for DRM use to access 4K Netflix. RTX 30xx adds support for HDMI 2.1. RTX 50x adds DP 2.1
 
 **H.264** - A video codec. Also called AVC. Lossy compression. Used by Netflix, Hulu, Amazon Prime, Vimeo, Youtube, iTunes and various HDTV broadcasts. Used in blu-ray discs. Widely supported since the early 2010s.
 
@@ -172,5 +172,5 @@ ARCH|GEN|RELEASED|NOTES
 
 ---
 
-*This page was last updated on 2025-02-28*
+*This page was last updated on 2025-04-21*
 
