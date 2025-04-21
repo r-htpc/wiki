@@ -332,6 +332,7 @@ In media applications, the most popular ones will have the codecs to decode up t
    - Use a 3rd party system-wide upmixer, such as [Equalizer APO + Peace Equalizer GUI](/wiki/audio#audio-software), with Stereo Effect.
    - If available, set your window's sound device to use the 'Speaker fill' enhancement.
    - Install Dolby Access and configure Dolby Atmos for Home Theater with the Channel Upmixer option enabled
+   - Use the Dolby Pro Logic/Dolby Surround mode on your sound system, if available.
 
 - *Other:*
   - If you want to fit Surround into audio interfaces that only support Stereo, see [here](/wiki/audio#how-can-i-transport-surround-sound-over-a-stereo-only-audio-interface) 
