@@ -334,7 +334,7 @@ In media applications, the most popular ones will have the codecs to decode up t
    - Install Dolby Access and configure Dolby Atmos for Home Theater with the Channel Upmixer option enabled
 
 - *Other:*
-  - If you want to fit Surround into audio interfaces that only support Stereo, see [here](/wiki/audio) 
+  - If you want to fit Surround into audio interfaces that only support Stereo, see [here](/wiki/audio#how-can-i-transport-surround-sound-over-a-stereo-only-audio-interface) 
   - There are advanced things you can do by using application middleware and external filters like [transcoding audio codecs](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital), decoding obscure codecs and advanced mixing. See the 3rd Party sub-section of the Audio Software section above.  
 
 - NOTES:  
@@ -665,7 +665,7 @@ Else,
 - Configure the speaker configuration in your window's sound device as Stereo
 - In your media application's audio decoder/filters mixing section, enable Dolby Pro Logic II/Dolby Surround matrix encoding.
 - If your media player doesn't natively support it, install the 3rd party LAV Filters and add them to your media player.
-- For system-wide, Use Equalizer APO and [these configs](https://github.com/Dogway/emulation-random/tree/master/EqualizerAPO/Surround)
+- For system-wide, you can try and use Equalizer APO and [these configs](https://github.com/Dogway/emulation-random/tree/master/EqualizerAPO/Surround), else use the Dolby Digital 5.1 option mentioned above.
 
 <!-- Sub-Section -->
 
