@@ -182,9 +182,9 @@ Advanced, more powerful dynamic tonemapping, high-end upscaling and processing t
 
 * *Requirements:*  
   * MPC-HC: Install K-Lite Codec Pack FULL: ([download](https://www.codecguide.com/download_k-lite_codec_pack_full.htm))  
-    * Install options: Normal, MPC-HC, Essentials  
+    * Install options: Mode: Normal, Player: MPC-HC, Components: Essentials, Defaults for everything else
   * MPC-BE: Install MPC-BE: ([download](https://github.com/Aleksoid1978/MPC-BE/releases)), then Install K-Lite Codec Pack FULL: ([download](https://www.codecguide.com/download_k-lite_codec_pack_full.htm))  
-    * K-lite install options: No, Normal, MPC-BE, Essentials  
+    * K-lite install options: Mode: Normal, Player: MPC-BE, Components: Essentials, Defaults for everything else  
 * *Windows 1x settings:*  
   * Settings app -> System -> Display -> Use HDR/HDR and WCG/Play HDR.. -> **Off**  
   * Windows 11: Settings app -> System -> Display -> Color Profile -> Color Management -> Automatically manage color for apps.. -> **Off**  
