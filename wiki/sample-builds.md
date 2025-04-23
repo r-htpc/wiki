@@ -840,11 +840,11 @@ PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
 :--|:--|:--|:--|:--
 CASE/MOBO/PSU		|Asrock DeskMeet X300W w/500W PSU					|$170	|[newegg](https://www.newegg.com/asrock-deskmeet-x300w-b-bb-box-us/p/N82E16856158083)	|6.6" (W) x 9.3" (D) x 8.7" (H), [specs](https://www.asrock.com/nettop/AMD/DeskMeet%20X300%20Series/index.asp#Specification). ALT: ML-07+ITX+SFX
 CPU	|	AMD Ryzen 5700X (65W)				|	$150	|pcpartpicker	|ALT: AMD Ryzen 5700X3D
-GPU	|	AMD RX 6600 8GB			|	$200	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&c=511&L=69000000,200000000&sort=price&page=1)	|<= 200 mm (L). ALT: AMD RX 7600 8GB
+GPU	|	AMD RX 7600 8GB			|	$280	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&c=554,571&sort=price&page=1)	|<= 200 mm (L). ALT: AMD RX 6600 8GB
 MEM	|	Teamforce Vulcan Z 32GB 2x16GB DDR4-3600	|	$55	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr4&S=3600,3733&Z=32768002&sort=price)	|ALT: 16 GB 2x8GB ($35)
 STORAGE	|	WD SN580 1TB M.2 (OS/GAMES)	|	$60	|pcpartpicker	|
 COOL		|Thermalright AXP90-X47 CPU Cooler, 47mm			|	$25		|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|Quieter than stock cooler. *ML-07*: [AXP120-X67](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=66500000,72600000&sort=price&m=113)
-TOTAL	|						|	**$660**	|	
+TOTAL	|						|	**$740**	|	
 
 <!-- Sub-Section -->
 
@@ -856,15 +856,15 @@ It's low profile so is good for a media cabinet. If you can handle more height o
 PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
 :--|:--|:--|:--|:--
 CASE	|	Silverstone Milo Z/ML-07		|	$105	|pcpartpicker	|15" (W)x4.1" (H)x13.8" (D). ALT: Silverstone GD-11 (6.9" (H), 30L)
-CPU	|	AMD Ryzen 5700X3D (105W)			|	$200	|pcpartpicker	|ALT: AMD Ryzen 7600X3D
-GPU	|	AMD RX 6750 XT 12GB			|	$310	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#c=523,495&xcx=0&sort=price)	|ALT: AMD RX 7800 XT 16 GB
+CPU	|	AMD Ryzen 5700X3D (105W)			|	$200	|pcpartpicker	|ALT: AMD Ryzen 7600X
+GPU	|	AMD RX 7700 XT 12GB			|	$450	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&c=558,559&sort=price)	|ALT: AMD RX 7800 XT 16 GB
 MOBO	|	ASRock B550M-ITX/ac		|	$135	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&c=147,124,133,145,123,132,138&sort=price)	|ALT: Gigabyte B650 GAMING X AX ATX
 MEM	|	Teamforce VulcanZ 32GB 2x16GB DDR4-3600	|	$55	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr4&S=3600,3733&Z=32768002&sort=price)	|ALT: G.Skill Flare S5 2x16GB 32GB DDR5-6000
 STORAGE	|	WD SN770 500GB M.2 (OS)	|	$50	|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&D=1&A=450000000000,525000000000&sort=price&page=1)	|ALT: WD SN770 1TB M.2 (OS)
 STORAGE	|	WD SN770 2TB M.2 (GAMES)	|	$120	|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&D=1&A=1800000000000,2048000000000&sort=price&t=0)	|
 PSU	|	Cooler Master V 850W SFX		|	$105	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&p=1,2&A=550000000000,2050000000000&sort=price&page=1)	|ALT: Corsair RM650x (2021) ATX
 COOL	|	Thermalright AXP120-X67	CPU Cooler	|	$35	|pcpartpicker	|ALT: Thermalright Silver Soul 135 (Air) / Arctic Liquid Freezer II 240 (AIO)
-TOTAL	|						|	**$1115**	|	
+TOTAL	|						|	**$1255**	|	
 
 <!-- Section -->
 
