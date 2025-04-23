@@ -840,11 +840,11 @@ PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
 :--|:--|:--|:--|:--
 CASE/MOBO/PSU		|Asrock DeskMeet X300W w/500W PSU					|$170	|[newegg](https://www.newegg.com/asrock-deskmeet-x300w-b-bb-box-us/p/N82E16856158083)	|6.6" (W) x 9.3" (D) x 8.7" (H), [specs](https://www.asrock.com/nettop/AMD/DeskMeet%20X300%20Series/index.asp#Specification). ALT: ML-07+ITX+SFX
 CPU	|	AMD Ryzen 5700X (65W)				|	$150	|pcpartpicker	|ALT: AMD Ryzen 5700X3D
-GPU	|	AMD RX 6600 8GB			|	$280	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&c=511,509,522,554,571&sort=price)	|<= 200 mm (L). ALT: RX 7600 8GB
+GPU	|	AMD RX 6600 8GB			|	$200	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&c=511,509,522,554,571&sort=price)	|<= 200 mm (L). ALT: RX 7600 8GB
 MEM	|	Teamforce Vulcan Z 32GB 2x16GB DDR4-3600	|	$55	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr4&S=3600,3733&Z=32768002&sort=price)	|ALT: 16 GB 2x8GB ($35)
 STORAGE	|	WD SN580 1TB M.2 (OS/GAMES)	|	$60	|pcpartpicker	|
 COOL		|Thermalright AXP90-X47 CPU Cooler, 47mm			|	$25		|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|Quieter than stock cooler. *ML-07*: [AXP120-X67](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=66500000,72600000&sort=price&m=113)
-TOTAL	|						|	**$740**	|	
+TOTAL	|						|	**$660**	|	
 
 <!-- Sub-Section -->
 
@@ -928,5 +928,5 @@ TOTAL		|											|$824			|	|
 
 ---
 
-*This page was last updated on 2025-03-28*
+*This page was last updated on 2025-04-23*
 
