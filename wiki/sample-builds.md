@@ -831,20 +831,22 @@ TOTAL			|															|	**$229**	|			|
 
 <!-- Sub-Section -->
 
-### 1080p Gaming Box (8.8L)
+### 1080p Gaming Box (11.5L)
 
 This is a straight up gaming build for 1080p with High settings, averaging about 90-100 fps which is good for a 120 Hz TV.  
-It simplifies things by including the motherboard and PSU. If you want a low profile case or support longer gpus, look at the ALT: config with a Silverstone ML-07 case instead (you'll have to add an [ITX mobo](https://pcpartpicker.com/products/motherboard/#xcx=0&s=33&f=8&sort=price&page=1) and [SFX PSU](https://pcpartpicker.com/products/power-supply/#th=5&sort=price&page=1&A=450000000000,2050000000000)).  
+If you want a low profile case or support longer gpus, look at the ALT: config with a Silverstone ML-07 case instead.  
 
 PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
 :--|:--|:--|:--|:--
-CASE/MOBO/PSU		|Asrock DeskMeet X300W w/500W PSU					|$170	|[newegg](https://www.newegg.com/asrock-deskmeet-x300w-b-bb-box-us/p/N82E16856158083)	|6.6" (W) x 9.3" (D) x 8.7" (H), [specs](https://www.asrock.com/nettop/AMD/DeskMeet%20X300%20Series/index.asp#Specification). ALT: ML-07+ITX+SFX
-CPU	|	AMD Ryzen 5700X (65W)				|	$150	|pcpartpicker	|ALT: AMD Ryzen 5700X3D
-GPU	|	AMD RX 6600 8GB			|	$200	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&c=511,509,522,554,571&sort=price)	|<= 200 mm (L). ALT: RX 7600 8GB
-MEM	|	Teamforce Vulcan Z 32GB 2x16GB DDR4-3600	|	$55	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr4&S=3600,3733&Z=32768002&sort=price)	|ALT: 16 GB 2x8GB ($35)
-STORAGE	|	WD SN580 1TB M.2 (OS/GAMES)	|	$60	|pcpartpicker	|
-COOL		|Thermalright AXP90-X47 CPU Cooler, 47mm			|	$25		|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,47000000&c=33&W=0&sort=price&page=1)	|Quieter than stock cooler. *ML-07*: [AXP120-X67](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=66500000,72600000&sort=price&m=113)
-TOTAL	|						|	**$660**	|	
+CASE		|Silverstone SG13b					|$75	|[pcpartpicker](https://pcpartpicker.com/product/WG2bt6/silverstone-sg13-v2-mini-itx-tower-case-sg13b-usa)	|8.74" (W) x 11.22" (D) x 7.13" (H), [specs](https://www.silverstonetek.com/en/product/info/computer-chassis/SG13/). ALT: Silverstone ML-07
+CPU	|	Intel i5-12400F (65W)				|	$110	|[pcpartpicker](https://pcpartpicker.com/product/pQNxFT/intel-core-i5-12400f-25-ghz-6-core-processor-bx8071512400f)	|ALT: ML-07: AMD Ryzen 5700X
+GPU	|	AMD RX 7600 8GB			|	$290	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&c=511,509,522,554,571&sort=price)	|<= 270 mm (L). ALT: RTX 4060 8GB
+MOBO	|	ASRock H610M-ITX/eDP				|	$125	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&s=40&f=8&sort=price&page=1)	|ALT: ML-07: ASRock A520M-ITX/ac
+MEM	|	Teamforce Vulcan Z 32GB 2x16GB DDR4-3600	|	$55	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr4&S=3600,3733&Z=32768002&sort=price)	|ALT: 16 GB 2x8GB ($30)
+STORAGE	|	WD SN580 1TB M.2 (OS/GAMES)	|	$60	| [pcpartpicker](https://pcpartpicker.com/product/rqhv6h/western-digital-blue-sn580-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds100t3b0e)	| ALT: WD SN770 1TB M.2 (OS/GAMES)
+PSU	|	MSI MAG A650BE Semi-Modular 650W	|	$60	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=1&e=4,2&p=1,3,2&sort=price&page=1)	| ALT: ML-07: [Lian Li SP 750W SFX](https://pcpartpicker.com/product/3ZzhP6/lian-li-sp-750-w-80-gold-certified-fully-modular-sfx-power-supply-sp750)
+COOL		|Thermalright AXP90-X53 CPU Cooler, 53mm			|	$25		|[pcpartpicker](https://pcpartpicker.com/product/3g7G3C/thermalright-axp90-x53-4258-cfm-cpu-cooler-axp90-x53)	|ALT: [Thermalright AIO](https://pcpartpicker.com/product/hTqrxr/thermalright-aqua-elite-v3-6617-cfm-liquid-cpu-cooler-aqua-elite-120-v3) *ML-07*: [AXP120-X67](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=66500000,72600000&sort=price&m=113)
+TOTAL	|						|	**$800**	|	
 
 <!-- Sub-Section -->
 
