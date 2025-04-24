@@ -760,18 +760,16 @@ TOTAL			|												|$497	|		|
 
 <!-- Sub-Section -->
 
-### $650 1080p Gaming Emulation Box (12L)
+### $650 1080p Gaming Emulation Box (14L)
 
 You should be able to play 60+ fps for most everything  
 
 Will handle 4k video duties just fine.  
 
-For a SFF case, see the VR builds  
-
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
-CASE		|Silverstone ML08				|$120		|[pcpartpicker](https://pcpartpicker.com/product/bvfmP6/silverstone-case-sstml08b)		|14.57" x 14.96" x 3.43" ALT: ML07
-MOBO		|ASRock B760M-ITX/D4			|$145	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&s=40&f=8&sort=price&page=1)	|
+CASE		|Silverstone ML07				|$120		|[pcpartpicker](https://pcpartpicker.com/product/MtV48d/silverstone-case-ml07b)		|15" x 13.8" x 4.1" [specs](https://www.silverstonetek.com/en/product/info/computer-chassis/ML07/) ALT: Fractal Ridge
+MOBO		|ASRock B760M-ITX/D4			|$145	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&s=40&f=8&sort=price&page=1)	| DDR4
 CPU			|Intel i5-12400F, 65W						|$115	|[pcpartpicker](https://pcpartpicker.com/product/pQNxFT/intel-core-i5-12400f-25-ghz-6-core-processor-bx8071512400f)	|ALT: Intel i5-12100F
 GPU			|Nvidia GTX 1660 Super		|$110	|[ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=gtx+1660+super&_sacat=0&LH_TitleDesc=0&rt=nc&_odkw=rtx+2060&_osacat=0&LH_BIN=1&_sop=15)	|ALT: 1440p: GTX 1070
 MEM			|Corsair Vengeance 16GB 2x8GB DDR4-3200	|$40		|[pcpartpicker](https://pcpartpicker.com/product/p6RFf7/corsair-memory-cmk16gx4m2b3200c16)	|
@@ -787,12 +785,10 @@ You should be able to play 60+ fps for most everything, sans some demanding titl
 
 Will handle 4k video duties just fine.  
 
-For a SFF case, see the VR Box builds  
-
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE|Fractal Design Node 304|$100|[newegg](https://www.newegg.com/black-fractal-design-node-304-mini-itx-tower/p/N82E16811352027)|ITX, 14.7"x9.8"x8.3" ALT: Thermaltake Core V1 ($51)
-MOBO		|Asrock B760M-ITX/D4				|$150	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&s=40&f=8&sort=price&page=1)		|ALT: ASRock B550M-ITX/ac ($135)
+MOBO		|Asrock B760M-ITX/D4				|$150	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&s=40&f=8&sort=price&page=1)		|DDR4. ALT: ASRock B550M-ITX/ac ($135)
 CPU			|Intel i5-12400F								|$120	|[pcpartpicker](https://pcpartpicker.com/product/pQNxFT/intel-core-i5-12400f-25-ghz-6-core-processor-bx8071512400f)		|ALT: AMD Ryzen 5700x ($130)
 GPU			|Nvidia RTX 2060				|$160	|[ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=rtx+2060&_sacat=0&_sop=15&rt=nc&LH_BIN=1)		|ALT: AMD RX 5700 XT
 MEM			|G.Skill Ripjaws V 16GB 2x8GB DDR4-3600 CL18				|$40		|[pcpartpicker](https://pcpartpicker.com/product/n6RgXL/gskill-ripjaws-v-16-gb-2-x-8-gb-ddr4-3600-memory-f4-3600c18d-16gvk)		|ALT: Corsair Vengeance LPX 2x8GB DDR4-3600
@@ -930,5 +926,5 @@ TOTAL		|											|$824			|	|
 
 ---
 
-*This page was last updated on 2025-04-23*
+*This page was last updated on 2025-04-24*
 
