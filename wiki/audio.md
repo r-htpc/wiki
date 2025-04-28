@@ -786,7 +786,7 @@ If you can't support the above hardware methods, but have plain **ARC** support 
 
  1. Buy an internal/external sound card with Dolby Digital Live encoding support (e.g. Sound Blaster [SB1500/Z SE](https://www.ebay.com/sch/44980/i.html?_nkw=%28Z+SE%2CSB1500%29&_from=R40&LH_BIN=1&_sop=15)/X4/X3/AE-5+) and connect it via **Optical** to your Sound System  
 
- 2. For **HDMI ARC**: Install the APO driver to encode everything into Dolby Digital for over HDMI ARC from your PC. Read the sub-section below for instructions.  
+ 2. For **HDMI ARC**: Install the APO driver to encode everything into Dolby Digital for over HDMI ARC from your PC. Read the *APO DRIVER SETUP* sub-section below for instructions.  
 
  3. For **OPTICAL/SPDIF**: For Realtek motherboard-based Optical/SPDIF check if your motherboard's audio driver includes the Dolby Digital Live/DTS Connect feature. If not, use the [patched drivers](https://github.com/Loliconera/Unlocked-Dolby-Digital-Live-DTS-Interactive-for-Realtek-HD-Audio-Drivers-for-Windows-10-and-11) to unlock the feature. If it doesn't work or you are using non-Realtek or non-Motherboard based optical, use the HDMI ARC way above.  
 
