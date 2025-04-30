@@ -22,9 +22,11 @@ What storage solution you choose will depend on a number of factors:
   - Flexibility
   - Easy of use
 
-A pre-built NAS will have the highest ease of use, high power efficiency, small size, but have lower flexibility and cost the most. If you want better performance or expandability later on, this may be downright not-possible without a whole solution replacement.  
-An Ad-Hoc solution will cost the least but have low performance, ease-of-use, flexibility and reliability. USB-based drive solutions are inherently unreliable and anything more than storage workloads will be challenging.  
-A DiY solution will have the highest performance potential, reliability, and flexibility; medium cost and size, but lower ease of use.  
+A Pre-Built NAS will have the highest ease of use, high power efficiency, small size, but have lower flexibility, performance and cost the most. If you want better performance or expandability later on, this may be downright not possible without a whole solution replacement.  
+
+An Ad-Hoc solution will vary depending on the hardware. If an OEM PC turned into a NAS w/internal SATA storage, this will have excellent value, high reliability/flexibility, medium performance/size, but less power efficiency. It's good for getting your feet wet before DiY. If a Single Board Computer w/ext. USB, it will cost the least, but have low performance, ease-of-use, flexibility and reliability. USB-based drive solutions are inherently unreliable and anything more than storage workloads will be challenging. Ad-Hoc assumes either some technical proficiency or willing to learn.  
+
+A DiY solution will have the highest performance potential, reliability, and flexibility; medium cost and size, but again assumes either some technical proficiency or willing to learn.  
 
 Decide which factors are most important to you and what kind of workloads you want to support before choosing a solution. Do you want your solution to support just storage or do you want to support a multitude of services as well? We tend to lean towards DiY solutions, but you may want more simplicity due to lack of technical skill.  
 
@@ -63,7 +65,7 @@ External media storage can come in the format of USB drives or USB/Thunderbolt D
 
 Recommended DASes are bolded in the Hardware section below. PCIe solutions being preferred. 
 
-Attach to a DiY or Ad-hoc solution below  
+Attach to a DiY or Ad-Hoc solution below  
 
 <!-- Section -->
 
@@ -148,19 +150,19 @@ Transcoding = Plex transcoding ability, referenced in [plex's transcoding spread
 (3) HW Transcoding: 2x 1080p. SW Transcoding: 2x 720p  
 (4) HW Transcoding: 1x 1080p. SW Transcoding: 1x 720p  
 
-### Ad-hoc  
+### Ad-Hoc  
 
 If you can't afford a pre-built NAS you can buy one of these options and add external drives/enclosures to it; the **SATA** based ones are again, preferred for reliabilty. You will get signifigant savings here vs a pre-built NAS, but the tech knowledge required for entry is higher.  
 
 - Single Board Computer (SBC) or Pre-owned OEM PC
 
-  - 1 drive: [NanoPi R2S](https://www.friendlyelec.com/index.php?route=product/product&path=69&product_id=282&sort=p.price&order=ASC) (USB2x1) $27, [Orange Pi Zero 3](https://www.aliexpress.us/w/wholesale-Orange-pi-zero-3.html?spm=a2g0o.productlist.search.0) (USB2x1) $25  
+  - 1 drive: USB: [NanoPi R2S](https://www.friendlyelec.com/index.php?route=product/product&path=69&product_id=282&sort=p.price&order=ASC) (USB2x1) $27, [Orange Pi Zero 3](https://www.aliexpress.us/w/wholesale-Orange-pi-zero-3.html?spm=a2g0o.productlist.search.0) (USB2x1) $25  
 
   - 2-4 drives:
     - USB-based: [Orange Pi 3 LTS](https://www.aliexpress.com/w/wholesale-orange-pi-3-lts.html) (USB3x1,USB2x2) $40, [RPI 4b](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) (USB3x2,USB2x2) $35, [Rock64-2GB](https://ameridroid.com/collections/pine) (USB3x1,USB2x2) $35, [Pine H64](https://ameridroid.com/collections/pine) (USB3x1,USB2x2) $45, [Odroid C4](https://www.hardkernel.com/shop/odroid-c4/) (USB3x4) $55, PC: **[Dell/Lenovo i3-41x0t](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%28i3-4130t%2Ci3-4160t%2Ci3-4150t%2Ci3-4170t%29&_sacat=171957&rt=nc&_odkw=%28i3-4130t%2Ci3-4160t%29&_osacat=171957&LH_BIN=1&_sop=15) (USB3x2-4,USB2x2)** $50. Optionally, add a [single enclosure DAS](/wiki/storage#direct-attach-storage-das) over USB.
-    - **SATA-based**: [Odroid HC4](https://www.hardkernel.com/shop/odroid-hc4/) (**SATAx2**) $75, [Odroid H4+](https://www.hardkernel.com/shop/odroid-h4-plus/) + [Case](https://www.hardkernel.com/product-category/cases/) (**SATAx4**) $150.
+    - **SATA-based**: [HP Elitedesk 800 G3 SFF](https://www.ebay.com/sch/i.html?_nkw=hp+elitedesk+g3+sff&_sacat=0&_from=R40&_sop=15&rt=nc&LH_BIN=1&_blrs=recall_filtering) (**SATAx3**) $70, [Odroid HC4](https://www.hardkernel.com/shop/odroid-hc4/) (**SATAx2**) $75, [Odroid H4+](https://www.hardkernel.com/shop/odroid-h4-plus/) + [Case](https://www.hardkernel.com/product-category/cases/) (**SATAx4**) $150.
 
-  - Install linux or [Openmediavault](https://www.openmediavault.org/) as your OS, optionally create a storage pool under [mergerFS](https://github.com/trapexit/mergerfs/wiki) if more than one drive, and share your storage out [over the network with Samba](/wiki/storage#how-do-i-share-htpc-storage-on-my-network).  
+  - Install Linux or [Openmediavault](https://www.openmediavault.org/) as your OS, optionally create a storage pool under [mergerFS](https://github.com/trapexit/mergerfs/wiki) if more than one drive, and share your storage out [over the network with Samba](/wiki/storage#how-do-i-share-htpc-storage-on-my-network).  
 
 - Wireless Access Point with USB port. if you already have one
 
@@ -180,7 +182,7 @@ Reference the DiY case/drive lists below, and the example builds under the [Wiki
 ### Direct Attach Storage (DAS)
 
 As stated above, **avoid USB based DASes**. PCIe SAS is much more reliable.  
-You can fit the [low-profile PCIe cards](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=hba+%289201%2C9202%2C9207%29+%288e%2C16e%29&_sacat=56091&_odkw=hba+%288e%2C16e%29&_osacat=56091) into SFF sized servers (m920s) and even in a number of pre-built Micros (m920q/m90q, P320/P330 Tiny, ms-01) and DiY your own solution for the same cost of the USB solutions. Yes, it's more work, but more reliable and flexible. For a smaller, simpler version, look at the D400S.
+You can fit the [low-profile PCIe cards](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=hba+%289201%2C9202%2C9207%29+%288e%2C16e%29&_sacat=56091&_odkw=hba+%288e%2C16e%29&_osacat=56091) into SFF sized servers (m920s) and even in a number of pre-built Micros (m920q/m90q, P320/P330 Tiny, MS-01) and DiY your own solution for the same cost of the USB solutions. Yes, it's more work, but more reliable and flexible. For a smaller, simpler version, look at the TL-D400S.
 
 <!--
 Mediasonic	|	Proraid - HUR5	        |	2	|	$50		|	USB31G2, HW RAID 0/1, JBOD, Single
@@ -362,15 +364,15 @@ Coolermaster NR600P		|6+2		|12		|Disc		|8.66 x 19.92 x 19.41		|YES		|54.9	|EATX/
 
 ## Software
 
-If you're looking for a software storage solution for your DiY hardware, [Unraid](https://unraid.net) is highly suggested. If you can't afford it, then use  [Openmediavault](https://www.openmediavault.org/) with [mergerfs+snapraid](https://www.networkshinobi.com/snapraid-and-mergerfs-on-openmediavault/) or, if all disks will be the same size, RAID5 w/mdadm. If you need to use Windows, [StableBit DrivePool](https://stablebit.com/DrivePool) ($)+[snapraid](https://www.snapraid.it/). If you can't afford it, then Windows Storage Spaces.  
+If you're looking for a software storage solution for your DiY hardware, [Unraid](https://unraid.net) is highly suggested. If you can't afford it, then use  [Openmediavault](https://www.openmediavault.org/) with [mergerfs+snapraid](https://www.networkshinobi.com/snapraid-and-mergerfs-on-openmediavault/) or, if all disks will be the same size, RAID5 w/mdadm. If you only need RAID0/1, Rockstor w/BTRFS is good. If you need to use Windows, [StableBit DrivePool](https://stablebit.com/DrivePool) ($)+[snapraid](https://www.snapraid.it/). If you can't afford it, then Windows Storage Spaces.  
 
 OS: [Unraid](https://unraid.net), [TrueNAS](https://www.truenas.com/truenas-scale/), [Openmediavault](https://www.openmediavault.org/), [Ubuntu Server](https://ubuntu.com/download/server), [Rockstor](http://rockstor.com)  
 
 Software Management: Docker
 
 Volume Management:
-  - [Windows Storage Spaces](https://support.microsoft.com/en-us/windows/storage-spaces-in-windows-10-b6c8b540-b8d8-fb8a-e7ab-4a75ba11f9f2), [StableBit DrivePool](https://stablebit.com/DrivePool), [snapraid](https://www.snapraid.it/), [Elucidate (snapraid GUI)](https://github.com/Smurf-IV/Elucidate) - Windows
-  - mdadm, [snapraid](https://www.snapraid.it/), [mergerFS](https://github.com/trapexit/mergerfs/wiki) - Linux
+  - Windows: [Windows Storage Spaces](https://support.microsoft.com/en-us/windows/storage-spaces-in-windows-10-b6c8b540-b8d8-fb8a-e7ab-4a75ba11f9f2), [StableBit DrivePool](https://stablebit.com/DrivePool), [snapraid](https://www.snapraid.it/), [Elucidate (snapraid GUI)](https://github.com/Smurf-IV/Elucidate)
+  - Linux: mdadm, [snapraid](https://www.snapraid.it/), [mergerFS](https://github.com/trapexit/mergerfs/wiki), BTRFS, ZFS
 
 Disk Management:
   - [KeepAliveHD](https://github.com/stsrki/KeepAliveHD) (Windows) / [KeepDriveSpinning](http://jon.stovell.info/software/keep-drive-spinning/) (Mac) - Keep HDDs without power mgmt disable from spinning down.
@@ -380,8 +382,8 @@ Disk Management:
   - smartctl / [hd-idle](http://hd-idle.sourceforge.net/) (Linux) - SMART info / Power Mgmt
 
 Benchmarking:
-  - [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/), [hdtune](https://www.hdtune.com/) - Windows
-  - dd / hdparm - Linux
+  - Windows: [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/), [hdtune](https://www.hdtune.com/)
+  - Linux: dd / hdparm
 
 <!-- Section -->
 
@@ -399,5 +401,5 @@ If your storage is on a windows-based OS, [follow these instructions](https://su
 
 ---
 
-*This page was last updated on 2025-04-10*
+*This page was last updated on 2025-04-30*
 
