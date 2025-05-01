@@ -117,11 +117,13 @@ Thermalright AXP120-X67, Noctua NH-L12Sx77
 
 **CASE: Silverstone GD07-GD10**  
 - AIR: 
-  - w/5.25" ODD: [Noctua NH-U9S](https://www.reddit.com/r/htpc/comments/1ccjsrn/put_a_dualtower_air_cooler_in_a_silverstone_gd09/), Noctua NH-D9L, Noctua NH-L12s 
+  - w/5.25" ODD: [Noctua NH-U9S](https://www.reddit.com/r/htpc/comments/1ccjsrn/put_a_dualtower_air_cooler_in_a_silverstone_gd09/), Noctua NH-D9L, Noctua NH-L12s. Use SATA right angle cables or [adapter](https://www.amazon.com/dp/B07JCV7QC7/ref=sspa_dk_detail_6?pd_rd_i=B0BPSG6ZY1&pd_rd_w=VgJyV&th=1) 
   - wo/ODD: Thermalright Silver Soul 135, [Thermalright Peerless Assassin Mini](https://www.reddit.com/r/htpc/comments/1ccjsrn/put_a_dualtower_air_cooler_in_a_silverstone_gd09/)  
-- AIO (PSU-side): GD09: 
+- AIO: GD09/GD10:
+  - PSU-side. Use shortest PSU possible. <= 150mm would be ideal. 
   - [AlphaCool Core Ocean T38 120](https://www.hardwareluxx.de/community/threads/lesertest-alphacool-core-ocean-t38-cpu-aio-120mm.1330135/)
   - [Corsair H80i v2](https://www.reddit.com/r/htpc/comments/1albq07/silverstone_gd09_build_5900x_and_rtx_4080_super/) 
+  - Kraken 120, be Quiet Pure Loop 2
 
 **CASE: Silverstone GD11**  
 AIO: Arctic Liquid Freezer III 240 AIO  
