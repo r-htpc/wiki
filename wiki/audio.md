@@ -527,7 +527,7 @@ You can read more about Normalization [here](https://www.realhd-audio.com/?p=674
 ### Why does my Operating System only show Stereo/2-channels in the sound control panel when i have a surround sound system?
 
 In order to determine what audio codec/channel configuration is supported, the operating system will show what it's capable of for **PCM/decoded audio**, NOT bitstreamed audio (like Dolby Digital/DTS), in the sound control panel. If you don't know the difference, start reading at the beginning of this page for a primer.  
-If you're using an audio interface in the chain that only support Stereo PCM audio (for instance, Optical or ARC), then that's what it will show. 
+If you're using an audio interface in the chain that only supports Stereo PCM audio (for instance, Optical or ARC), then that's what it will show. 
 
 **If you're connecting your HTPC directly to a Display first**, it can detect it as Stereo in the sound device configuration, per either the Display's internal speakers or older HDMI ARC and Optical ports, which only support 2-channel PCM audio. Make sure your Display is configured to passthrough audio and that eARC is enabled. Else, 
  - Change to a different HW setup to get around the audio interface with this limitation ([as per the setup scenarios above](/wiki/audio#hardware-setup))
