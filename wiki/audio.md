@@ -524,9 +524,10 @@ You can read more about Normalization [here](https://www.realhd-audio.com/?p=674
 
 <!-- Sub-Section -->
 
-### Why does my Operating System only show Stereo/2-channels in the sound control panel when i have a surround sound channel system?
+### Why does my Operating System only show Stereo/2-channels in the sound control panel when i have a surround sound system?
 
-In order to determine what audio codec/channel configuration is supported, the operating system will usually get its information from something called EDID, via the display interface (HDMI/DVI/etc..) and then show what's capable for **PCM/decoded audio**, NOT bitstreamed audio (like Dolby Digital/DTS), in the sound control panel. If you don't know the difference, start reading at the beginning of this page for a primer
+In order to determine what audio codec/channel configuration is supported, the operating system will show what it's capable of for **PCM/decoded audio**, NOT bitstreamed audio (like Dolby Digital/DTS), in the sound control panel. If you don't know the difference, start reading at the beginning of this page for a primer.  
+If you're using an audio interface in the chain that only support Stereo PCM audio (for instance, Optical or ARC), then that's what it will show. 
 
 **If you're connecting your HTPC directly to a Display first**, it can detect it as Stereo in the sound device configuration, per either the Display's internal speakers or older HDMI ARC and Optical ports, which only support 2-channel PCM audio. Make sure your Display is configured to passthrough audio and that eARC is enabled. Else, 
  - Change to a different HW setup to get around the audio interface with this limitation ([as per the setup scenarios above](/wiki/audio#hardware-setup))
@@ -536,7 +537,11 @@ In order to determine what audio codec/channel configuration is supported, the o
 
 If you're confident [your display](https://www.rtings.com/tv/tests/inputs/5-1-surround-audio-passthrough) and sound system interfaces support PCM above 2 channels or support the codecs you want to bitstream, and you have configured them and your devices as such, this is possibly solved by exporting the forementioned EDID data coming from the Display and then editing the Audio Block portion of it to add the audio formats supported by your sound system (**Way #2/#3**).  
 
-**If you're connecting your HTPC directly to a Sound System first** and then passing through the video to a TV (i.e. Scenario #1 in Hardware Setup above), it will sometimes detect the audio capabilities of the Display at the end of the HDMI link and not the capabilities of the Sound System; it's most prevelant when HDMI-CEC is enabled. This can sometimes be solved by a setting on your AV Receiver to tell it not to send HDMI audio through to the Display. See **Way #1** below. If that doesn't work, it is usually solved by exporting the EDID data coming from the TV and then editing the Audio Block portion of it to add the audio formats supported by your sound system (**Way #2/#3**).  
+**If you're connecting your HTPC directly to a Sound System first**
+
+If you're using Optical/SPDIF, this only supports Stereo PCM audio. Bitstream Dolby Digital or DTS instead [for media](/wiki/audio#application-specific-setup-for-bitstreaming) or Dolby Digital Live [for gaming](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system).  
+
+If you're passing through video to a TV via HDMI (i.e. Scenario #1 in Hardware Setup above), it will sometimes detect the audio capabilities of the Display at the end of the HDMI link and not the capabilities of the Sound System; it's most prevelant when HDMI-CEC is enabled. This can sometimes be solved by a setting on your AV Receiver to tell it not to send HDMI audio through to the Display. See **Way #1** below. If that doesn't work, it is usually solved by exporting the EDID data coming from the TV and then editing the Audio Block portion of it to add the audio formats supported by your sound system (**Way #2/#3**).  
 
 Way #1  
 
