@@ -553,7 +553,7 @@ These are OBJECTIVE rankings, and not SUBJECTIVE. Visual preferences are subject
 
 Any algo beyond **Jinc** will produce diminishing returns compared to the amount of load and noise it subjects your GPU to and may be detrimental to your HT listening environment.  
 
-If you have an Nvidia RTX 30+ series GPU you can also use RTX Super Resolution in the MPC VR renderer and in Windows in general for non-DRM streaming sites, like Youtube. It's quality will be somewhere around the Jinc algo, so is not a replacement for the best madVR.
+If you have an Nvidia RTX 20+ series GPU you can also use RTX Super Resolution in the MPC VR renderer and in Windows in general for non-DRM streaming sites, like Youtube. It's quality will be somewhere around the Jinc algo, so is not a replacement for the best madVR on local content.
 
 <!-- Sub-Section -->
 
@@ -736,5 +736,5 @@ Ideal Youtube tests - Test if GPU can decode youtube content - 1080p/4k, VP9/AV1
 
 ---
 
-*This page was last updated on 2025-04-18*
+*This page was last updated on 2025-05-07*
 
