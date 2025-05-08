@@ -616,7 +616,7 @@ AMD RX >= 67xx|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Dif
 
 ## Appendix
 
-### ALTERNATIVE MPC-HC/BE + MADVR INSTALL METHOD 
+### Alternate MPC-HC/MPC-BE + madVR Install Method
 
 * *Requirements:*  
   * MPC-HC/MPC-BE: 
@@ -626,7 +626,7 @@ AMD RX >= 67xx|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Dif
     * Extract/copy madVR directory in zip to directory: %USERPROFILE%\
     * Go into extracted directory %USERPROFILE%\madVR, right-click on 'install.bat' script and click on Run as administrator option to install.
 * *madVR settings:*  
-  * Run %USERPROFILE%\madVR\madHcCtrl.exe program
+  * Run %USERPROFILE%\madVR\madHcCtrl.exe program. Double-click on the 'mad* home cinema control' icon in your system tray
     * devices
       * \<your_display_device\>
         * properties -> PC levels 0-255, bitdepth: 10 bit or higher  
@@ -649,6 +649,7 @@ AMD RX >= 67xx|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Dif
         * **If** frame drops/stuttering occur while testing, increase CPU/GPU queue size here
       * dithering
         * algorithm: Ordered dithering (unless you have dedicated GPU, see settings section below)  
+  * Apply -> Ok. Right-click -> Exit the 'mad* home cinema control' icon in your system tray
 * *MPC-HC/BE settings:*  
   * *MPC-HC app*  
     * View -> Options
