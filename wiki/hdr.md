@@ -180,7 +180,64 @@ Simple, HDR passthrough, tonemapping and decent upscaling.
 
 Advanced, more powerful dynamic tonemapping, high-end upscaling and processing than using MPC Video Renderer, but more complicated.  
 
+<!-- ALTERNATIVE INSTALL METHOD 
 * *Requirements:*  
+  * MPC-HC/MPC-BE: 
+    * MPC-HC: Install MPC-HC from exe ([download](https://github.com/clsid2/mpc-hc/releases))
+    * MPC-BE: Install MPC-BE from installer: ([download](https://github.com/Aleksoid1978/MPC-BE/releases))
+  * MadVR: Install madVR from stable zip ([download](http://madshi.net/madVR.zip))
+    * Extract/copy madVR directory in zip to directory: %USERPROFILE%\
+    * Go into extracted directory %USERPROFILE%\madVR, right-click on 'install.bat' script and click on Run as administrator option to install.
+* *madVR settings:*  
+  * Run %USERPROFILE%\madVR\madHcCtrl.exe program
+    * devices
+      * \<your_display_device\>
+        * properties -> PC levels 0-255, bitdepth: 10 bit or higher  
+        * calibration -> this display is already calibrated  
+        * display modes (OPTIONAL - for refresh rate switching)
+          * Enable: switch to matching display mode..when playback starts  
+          * list all display modes..: 2160p23, 2160p24, 2160p50, 2160p59, 2160p60 (assumes a 4k display)  
+        * HDR -> passthrough HDR content to the display, send HDR metadata to the display  
+          * *ALT: For static tonemapping to SDR*: HDR -> let madVR decide + rendering->trade quality for..->don't measure HDR.. option checked
+    * scaling algorithms
+      * chroma upscaling
+        * processing..: Bilinear (for more intensive scaling, see Performance settings section at the bottom)  
+      * image downscaling
+        * processing..: Bilinear/DXVA2 (for more intensive scaling, see Performance settings section at the bottom)  
+      * image upscaling
+        * processing..: Bilinear/DXVA2 (for more intensive scaling, see Performance settings section at the bottom)  
+    * rendering
+      * general settings
+        * Enable: delay playback start.., enable automatic fullscreen exclusive mode, use Direct3D 11 for presentation  
+        * **If** frame drops/stuttering occur while testing, increase CPU/GPU queue size here
+      * dithering
+        * algorithm: Ordered dithering (unless you have dedicated GPU, see settings section below)  
+* *MPC-HC/BE settings:*  
+  * *MPC-HC app*  
+    * View -> Options
+      * Playback -> Output
+        * DirectShow Video: madVR  
+      * Internal Filters -> Video Decoder  
+        * Hardware Decoder to use: 'D3D11' (win 8/10/11) or DXVA2 (copy-back) (win 7) 
+        * Hardware Device to use: \<your_GPU_device\> 
+        * RGB output levels: PC (0-255) (see VIDEO setup guide if not sure) 
+      * *OPTIONAL*: Audio: [Wiki:Audio Setup Guide](https://r-htpc.github.io/wiki/audio#softwareos-setup)
+    * *Restart MPC-HC app*  
+  * *MPC-BE app*  
+    * View -> Options
+      * Video
+        * Video Renderer: madVR  
+      * Internal Filters -> Video Decoders  
+        * Video decoder configuration  
+          * Preferred Decoder: 'D3D11, DXVA2' (win 8/10/11) or DXVA2 (win 7) 
+          * Adapter: \<your_GPU_device\> 
+          * RGB output levels: PC (0-255) (see VIDEO setup guide if not sure) 
+      * *OPTIONAL*: Audio: [Wiki:Audio Setup Guide](https://r-htpc.github.io/wiki/audio#softwareos-setup)
+    * *Restart MPC-BE app*  
+-->
+
+* *Requirements:*
+  * *If you don't want to use the K-lite Codec Pack way to install, see the [Appendix](/wiki/hdr#appendix) section for the minimal MPC-HC/BE and madVR software* 
   * MPC-HC: Install K-Lite Codec Pack FULL: ([download](https://www.codecguide.com/download_k-lite_codec_pack_full.htm))  
     * Install options: Mode: Normal, Player: MPC-HC, Components: Essentials, Defaults for everything else
   * MPC-BE: Install MPC-BE: ([download](https://github.com/Aleksoid1978/MPC-BE/releases)), then Install K-Lite Codec Pack FULL: ([download](https://www.codecguide.com/download_k-lite_codec_pack_full.htm))  
@@ -557,6 +614,69 @@ AMD RX >= 67xx|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Dif
   * GPU Connected to HDMI >= 2.0/DisplayPort >= 1.3 port  
   * UHD Deep Color/Input Signal Plus turned On for your HDMI port. Setting name dependent on TV mfgr.
 
+## Appendix
+
+### ALTERNATIVE MPC-HC/BE + MADVR INSTALL METHOD 
+
+* *Requirements:*  
+  * MPC-HC/MPC-BE: 
+    * MPC-HC: Install MPC-HC from exe ([download](https://github.com/clsid2/mpc-hc/releases))
+    * MPC-BE: Install MPC-BE from installer: ([download](https://github.com/Aleksoid1978/MPC-BE/releases))
+  * MadVR: Install madVR from stable zip ([download](http://madshi.net/madVR.zip))
+    * Extract/copy madVR directory in zip to directory: %USERPROFILE%\
+    * Go into extracted directory %USERPROFILE%\madVR, right-click on 'install.bat' script and click on Run as administrator option to install.
+* *madVR settings:*  
+  * Run %USERPROFILE%\madVR\madHcCtrl.exe program
+    * devices
+      * \<your_display_device\>
+        * properties -> PC levels 0-255, bitdepth: 10 bit or higher  
+        * calibration -> this display is already calibrated  
+        * display modes (OPTIONAL - for refresh rate switching)
+          * Enable: switch to matching display mode..when playback starts  
+          * list all display modes..: 2160p23, 2160p24, 2160p50, 2160p59, 2160p60 (assumes a 4k display)  
+        * HDR -> passthrough HDR content to the display, send HDR metadata to the display  
+          * *ALT: For static tonemapping to SDR*: HDR -> let madVR decide + rendering->trade quality for..->don't measure HDR.. option checked
+    * scaling algorithms
+      * chroma upscaling
+        * processing..: Bilinear (for more intensive scaling, see Performance settings section at the bottom)  
+      * image downscaling
+        * processing..: Bilinear/DXVA2 (for more intensive scaling, see Performance settings section at the bottom)  
+      * image upscaling
+        * processing..: Bilinear/DXVA2 (for more intensive scaling, see Performance settings section at the bottom)  
+    * rendering
+      * general settings
+        * Enable: delay playback start.., enable automatic fullscreen exclusive mode, use Direct3D 11 for presentation  
+        * **If** frame drops/stuttering occur while testing, increase CPU/GPU queue size here
+      * dithering
+        * algorithm: Ordered dithering (unless you have dedicated GPU, see settings section below)  
+* *MPC-HC/BE settings:*  
+  * *MPC-HC app*  
+    * View -> Options
+      * Playback -> Output
+        * DirectShow Video: madVR  
+      * Internal Filters -> Video Decoder  
+        * Hardware Decoder to use: 'D3D11' (win 8/10/11) or DXVA2 (copy-back) (win 7) 
+        * Hardware Device to use: \<your_GPU_device\> 
+        * RGB output levels: PC (0-255) (see VIDEO setup guide if not sure) 
+      * *OPTIONAL*: Audio: [Wiki:Audio Setup Guide](https://r-htpc.github.io/wiki/audio#softwareos-setup)
+    * *Restart MPC-HC app*  
+  * *MPC-BE app*  
+    * View -> Options
+      * Video
+        * Video Renderer: madVR  
+      * Internal Filters -> Video Decoders  
+        * Video decoder configuration  
+          * Preferred Decoder: 'D3D11, DXVA2' (win 8/10/11) or DXVA2 (win 7) 
+          * Adapter: \<your_GPU_device\> 
+          * RGB output levels: PC (0-255) (see VIDEO setup guide if not sure) 
+      * *OPTIONAL*: Audio: [Wiki:Audio Setup Guide](https://r-htpc.github.io/wiki/audio#softwareos-setup)
+    * *Restart MPC-BE app*  
+* *Test*  
+  * *MPC-HC/BE app*  
+    *  Play a [test HDR video](/wiki/hdr#hdr-tests) and press Ctrl+J to show stats. If avg/max rendering stats are >= 35ms, you're either doing too much madVR processing or your GPU isn't powerful enough. [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
+* *Update MadVR* (OPTIONAL)  
+  * If you want newer, beta madVR features, after validating your setup, [download madVR beta](https://madshi.net/madVRhdrMeasure113.zip), unzip/copy all the FILES (NOT the directory itself) inside the zip into your previously-created %USERPROFILE%\madVR directory
+    
 <!-- Footer -->
 &nbsp;
 
