@@ -794,8 +794,8 @@ GPU			|Nvidia RTX 2060				|$160	|[ebay](https://www.ebay.com/sch/i.html?_from=R4
 MEM			|G.Skill Ripjaws V 16GB 2x8GB DDR4-3600 CL18				|$40		|[pcpartpicker](https://pcpartpicker.com/product/n6RgXL/gskill-ripjaws-v-16-gb-2-x-8-gb-ddr4-3600-memory-f4-3600c18d-16gvk)		|ALT: Corsair Vengeance LPX 2x8GB DDR4-3600
 STORAGE		|WD SN770 1TB NVMe M.2 SSD TLC			|$70	| [pcpartpicker](https://pcpartpicker.com/product/YVytt6/western-digital-1-tb-m2-2280-nvme-solid-state-drive-wds100t3x0e)		|
 COOL		|Noctua NH-U12S Redux CPU Cooler					|$50		|[pcpartpicker](https://pcpartpicker.com/product/vV7G3C/noctua-nh-u12s-redux-7075-cfm-cpu-cooler-nh-u12s-redux)		|ALT: [Thermalright Silver Soul 135](https://pcpartpicker.com/product/c3pzK8/thermalright-silver-soul-135-82-cfm-cpu-cooler-ss135) ($40)
-PSU			|ADATA XPG Core Reactor II 650W ATX			|$80	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&sort=price&th=1&e=6,5,4,3,2,1&p=1,2)		|ALT: Corsair CX650M ($90)
-TOTAL		|											|$770	|		|
+PSU			|ADATA XPG Core Reactor II 650W ATX			|$70	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&sort=price&th=1&e=5,4,3,2&p=1,3,2)		|ALT: Corsair CX650M ($90)
+TOTAL		|											|$760	|		|
 
 <!-- Section -->
 
@@ -836,11 +836,11 @@ PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
 :--|:--|:--|:--|:--
 CASE		|Silverstone SG13b					|$75	|[pcpartpicker](https://pcpartpicker.com/product/WG2bt6/silverstone-sg13-v2-mini-itx-tower-case-sg13b-usa)	|8.74" (W) x 11.22" (D) x 7.13" (H), [specs](https://www.silverstonetek.com/en/product/info/computer-chassis/SG13/). ALT: Silverstone ML-07
 CPU	|	Intel i5-12400F (65W)				|	$110	|[pcpartpicker](https://pcpartpicker.com/product/pQNxFT/intel-core-i5-12400f-25-ghz-6-core-processor-bx8071512400f)	|ALT: ML-07: AMD Ryzen 5700X
-GPU	|	AMD RX 7600 8GB			|	$290	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&c=511,509,522,554,571&sort=price)	|<= 270 mm (L). ALT: RTX 4060 8GB
+GPU	|	AMD RX 7600 8GB			|	$280	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&c=511,509,522,554,571&sort=price)	|<= 270 mm (L). ALT: RTX 4060 8GB
 MOBO	|	ASRock H610M-ITX/eDP				|	$125	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&s=40&f=8&sort=price&page=1)	|ALT: ML-07: ASRock A520M-ITX/ac
 MEM	|	Teamforce Vulcan Z 32GB 2x16GB DDR4-3600	|	$55	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr4&S=3600,3733&Z=32768002&sort=price)	|ALT: 16 GB 2x8GB ($30)
 STORAGE	|	WD SN580 1TB M.2 (OS/GAMES)	|	$60	| [pcpartpicker](https://pcpartpicker.com/product/rqhv6h/western-digital-blue-sn580-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds100t3b0e)	| ALT: WD SN770 1TB M.2 (OS/GAMES)
-PSU	|	MSI MAG A650BE Semi-Modular 650W	|	$60	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=1&e=4,2&p=1,3,2&sort=price&page=1)	| ALT: ML-07: [Lian Li SP 750W SFX](https://pcpartpicker.com/product/3ZzhP6/lian-li-sp-750-w-80-gold-certified-fully-modular-sfx-power-supply-sp750)
+PSU	|	ADATA XPG Core Reactor II 650W ATX	|	$70	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=1&e=4,2&p=1,3,2&sort=price&page=1)	| ALT: ML-07: [SFX Semi/Full-Modular](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&p=1,3,2&A=550000000000,2050000000000&sort=price&e=5,4,2)
 COOL		|Thermalright AXP90-X53 CPU Cooler, 53mm			|	$25		|[pcpartpicker](https://pcpartpicker.com/product/3g7G3C/thermalright-axp90-x53-4258-cfm-cpu-cooler-axp90-x53)	|ALT: [Thermalright AIO](https://pcpartpicker.com/product/hTqrxr/thermalright-aqua-elite-v3-6617-cfm-liquid-cpu-cooler-aqua-elite-120-v3) *ML-07*: [AXP120-X67](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=66500000,72600000&sort=price&m=113)
 TOTAL	|						|	**$800**	|	
 
@@ -860,7 +860,7 @@ MOBO	|	ASRock B550M-ITX/ac		|	$135	|[pcpartpicker](https://pcpartpicker.com/prod
 MEM	|	Teamforce VulcanZ 32GB 2x16GB DDR4-3600	|	$55	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr4&S=3600,3733&Z=32768002&sort=price)	|ALT: G.Skill Flare S5 2x16GB 32GB DDR5-6000
 STORAGE	|	WD SN770 500GB M.2 (OS)	|	$50	|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&D=1&A=450000000000,525000000000&sort=price&page=1)	|ALT: WD SN770 1TB M.2 (OS)
 STORAGE	|	WD SN770 2TB M.2 (GAMES)	|	$120	|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&D=1&A=1800000000000,2048000000000&sort=price&t=0)	|
-PSU	|	Cooler Master V 850W SFX		|	$105	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&p=1,2&A=550000000000,2050000000000&sort=price&page=1)	|ALT: Corsair RM650x (2021) ATX
+PSU	|	Cooler Master V 850W SFX		|	$105	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&p=1,3,2&A=550000000000,2050000000000&sort=price&e=5,4,2)	|ALT: Corsair RM650x (2021) ATX
 COOL	|	Thermalright AXP120-X67	CPU Cooler	|	$35	|pcpartpicker	|ALT: Thermalright Silver Soul 135 (Air) / Arctic Liquid Freezer II 240 (AIO)
 TOTAL	|						|	**$1255**	|	
 
