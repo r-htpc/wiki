@@ -448,19 +448,19 @@ KEYBOARD						|	PRICE	|	SIZE	|	INT		|	BACKLIT	|	POINT	|	BATTERY	|	NOTES
 [Coastacloud B09PXYG3X7](https://www.amazon.com/stores/page/4040CD3A-98E3-48AF-BF5E-12F0EF68349C?ingress=2&visitId=2bbe211d-642b-4dc5-b467-bf026e93b00b&ref_=ast_bln)		|	[$42](https://www.amazon.com/dp/B09PXYG3X7)		|	Full	|	RF/BT	|	Yes		|	Pad		|	Int		|	14.4", generic
 [Rii K18+](http://www.riitek.com/product/226.html)				|	[$27](https://www.amazon.com/Rii-Wireless-Keyboard-Rechargable-Raspberry/dp/B077VYRMC1)		|	Full	|	RF		|	Yes		|	Pad		|	Int		|	12.8"
 **[Rii RT518S](https://www.amazon.com/Rii-Wireless-Keyboard-Rechargable-Raspberry/dp/B092CL5PNN/)**				|	[$35](https://www.amazon.com/Rii-Wireless-Keyboard-Rechargable-Raspberry/dp/B092CL5PNN/)		|	Full	|	RF/BT	|	Yes		|	Pad		|	Int		|	12.8". Version of K18+
+[Perixx Periboard 706](https://perixx.com/products/periboard-706)	| [$40](https://www.amazon.com/Perixx-10532-PERIBOARD-706PLUS-Trackball-Dimension/dp/B006FNMB5I)	|	Compact	|	RF	|	No		|	Ball		|	AAA		|	12.4"
 [Lenovo TrackPoint II](https://www.lenovo.com/us/en/p/accessories-and-software/keyboards-and-mice/keyboards/4y40x49493)		|	[$65](https://www.lenovo.com/us/en/p/accessories-and-software/keyboards-and-mice/keyboards/4y40x49493)	|	Compact	|	RF/BT	|	No		|	Nub		|	Int		|	12"
 [Logitech MX Keys Mini](https://www.logitech.com/en-us/products/keyboards/mx-keys-mini.920-010388.html) | [$85](https://www.amazon.com/Logitech-Minimalist-Illuminated-Bluetooth-Compatible/dp/B098JPSVKY) | Compact | BT | Yes | None | Int | 11.6". Prox. light. Custom Fn keys
 [Rii SF108 Type Cover](https://www.amazon.com/dp/B0C6XGCCQ7/ref=sspa_dk_detail_4?pd_rd_i=B0CPD9YC36) | [$50](https://www.amazon.com/dp/B0C6XGCCQ7/ref=sspa_dk_detail_4?pd_rd_i=B0CPD9YC36) | Compact | BT | Yes | Pad | Int | 11.4", centered pad
+Rii [K12+](https://www.amazon.com/Rii-K12-Portable-Stainless-Rechargeable/dp/B011KPIZ9G)					|	[$30](https://www.amazon.com/Rii-K12-Portable-Stainless-Rechargeable/dp/B011KPIZ9G)		|	Compact	|	RF		|	No		|	Pad		|	Int		|	10"
 [XIWMIX Ultra-Slim Touchpad Keyboard](https://www.amazon.com/dp/B0B9SLXMCC/?th=1)	|[$40](https://www.amazon.com/dp/B0B9SLXMCC/?th=1)	| Compact | BT | Yes | Pad | Int | 9.7", centered pad
 [Macally BTTVKEY](https://www.amazon.com/Macally-BTTVKEY/dp/B08S3S6ZDV)				|	[$30](https://www.amazon.com/Macally-BTTVKEY/dp/B08S3S6ZDV)		|	Compact	|	BT		|	No		|	Pad		|	AAA		|	9.7" 
-Rii [K12+](https://www.amazon.com/Rii-K12-Portable-Stainless-Rechargeable/dp/B011KPIZ9G)					|	[$30](https://www.amazon.com/Rii-K12-Portable-Stainless-Rechargeable/dp/B011KPIZ9G)		|	Compact	|	RF		|	No		|	Pad		|	Int		|	10"
 [Logitech DiNovo Mini](https://download01.logitech.com/web/ftp/pub/pdf/keyboards/diNovo_productguide_eng-fre.pdf)		|	[Disc (1)](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=dinovo+mini&_sacat=0)	|	Mini	|	BT/RF	|	Yes		|	Pad		|	Prop (2)|	6", [Ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=dinovo+mini&_sacat=0)
 [Rii i4](http://www.riitek.com/product/214.html)						|	[$30](https://www.amazon.com/dp/B07T13GLY3)		|	Mini	|	RF/BT	|	Yes		|	Pad		|	Int		|	6"
 **[Rii i8+/i8x](http://www.riitek.com/product/222.html)**				|	[$30](https://www.amazon.com/Rii-Bluetooth-Touchpad%EF%BC%86QWERTY-Smartphones-Raspberry/dp/B01GCPVZDW)		|	Mini	|	RF	|	Yes		|	Pad		|	Int		|	5.8"
 [iPazzPort KP-61SM](https://www.amazon.com/iPazzPort-Bluetooth-Keyboard-Raspberry-KP-61SM/dp/B092MDFZ1J)						|	[$25](https://www.amazon.com/iPazzPort-Bluetooth-Keyboard-Raspberry-KP-61SM/dp/B092MDFZ1J)		|	Mini	|	RF/BT/IR	|	Yes		|	Pad		|	Int		|	5.6", IR Learn
 Rii K06BT/X1BT					|	[$30](https://www.amazon.com/Rii-Bluetooth-Keyboard-Lightweight-Compatible/dp/B0BML42L6X)/[$30](https://www.amazon.com/dp/B07TS7TQ8J)		|	Micro	|	BT/IR		|	Yes		|	Pad		|	Int		|	5.8", K06: IR Learn
 [Rii - Various](http://www.riitek.com/product/mini.html)				|	NA		|	Various	|	RF/BT	|	Various	|	Various	|	Int		| All others
-[Perixx trackball keyboards](https://perixx.com/collections/keyboards?pf_t_features=features%3A+Trackball&pf_t_features_and_condition=true)	| [$25-$150](https://www.amazon.com/s?k=perixx+keyboard+trackball&i=electronics&crid=2YKIEQC3WUT5S&sprefix=perixx+keyboard+trackball%2Celectronics%2C140&ref=nb_sb_noss_1)	|	Various	|	USB/RF	|	Various		|	Ball		|	Various		|	9"-18.6"
 No-name trackball keyboards	| [$35](https://www.amazon.com/dp/B094VVL7Q9)/[$45](https://www.amazon.com/dp/B076HNGH9Q)	|	Compact/Full	|	RF	|	No		|	Ball		|	AA		|	10.2"/14.1"
 
 (1) Discontinued  
@@ -517,5 +517,5 @@ MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Remote, Mini keyboard, and Air Mouse
 
 ---
 
-*This page was last updated on 2025-04-07*
+*This page was last updated on 2025-05-10*
 
