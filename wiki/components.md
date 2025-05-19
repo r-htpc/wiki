@@ -82,13 +82,13 @@ Below are the minimum CPUs required for each scenario and a recommendation. **Al
 
 - 1080p, No gaming: Intel >= i3/i5/i7-7xxx iGPU, Pentium G4xxx or Apollo/Gemini Lake J3xxx, AMD Athlon 3000G, AMD >= Ryzen 3 2200G APU (REC: Intel G7400)  
 
-- Emulators: 1080p: AMD >= Ryzen 5 3400G APU. 720p: AMD >= Ryzen 3 3200G APU (REC: Ryzen 5500GT)  
+- Emulators: 1080p: AMD >= Ryzen 5 3400G APU. 720p: AMD >= Ryzen 3 3200G APU (REC: Used: Ryzen 4600G, New: Ryzen 5500GT)  
 
-- Casual gaming (iGPU): AMD >= Ryzen 3 3400G APU (REC: Ryzen 5700G/8600G)  
+- Casual gaming (iGPU): AMD >= Ryzen 3 3400G APU (REC: Used: Ryzen 5600G, New: Ryzen 5700G/8600G)  
 
-- 4K HDR: Intel >= i3/i5/i7-7xxx iGPU, AMD Athlon 3000G, AMD >= Ryzen 3 2200G APU (REC: Ryzen 5500GT)  
+- 4K HDR: Intel >= i3/i5/i7-7xxx iGPU, AMD Athlon 3000G, AMD >= Ryzen 3 2200G APU (REC: Used: Ryzen 3400G, New: Ryzen 5500GT)  
 
-- 4K Netflix: >= Ryzen 3 3200G iGPU, Intel >= i3/i5/i7-7xxx iGPU  (REC: Ryzen 5500GT)  
+- 4K Netflix: >= Ryzen 3 3200G iGPU, Intel >= i3/i5/i7-7xxx iGPU  (REC: Used: Ryzen 3400G, New: Ryzen 5500GT)  
 
 - AV1 decoding: >= Intel i3/i5/i7-11xxx iGPU, >= Ryzen 8xxxG/7xxx iGPU (REC: Intel i3-12100)  
 
@@ -104,7 +104,7 @@ Below are the minimum CPUs required for each scenario and a recommendation. **Al
 
 ### GPUs/Graphics
 
-**In most cases, a CPU that has an integrated GPU as recommended above will work fine for new HTPCs**. If you need more than what they provide or you're adding onto an existing system, then a dGPU is warranted. Since HTPCs are in listening environments and tend to be small, low TDP, low profile dGPUs are what we aim for to keep heat and noise in check, wherever possible. You can pair these up with CPU without the integrated GPUs. For Intel these are 'F' tagged skus, e.g. i5-12400F. For AMD, non 'G' tagged skus, r.g. Ryzen 5600.  
+**In most cases, a CPU that has an integrated GPU as recommended above will work fine for new HTPCs, so see above**. If you need more than what they provide or you're adding onto an existing system, then a dGPU is warranted. Since HTPCs are in listening environments and tend to be small, low TDP, low profile dGPUs are what we aim for to keep heat and noise in check, wherever possible. You can pair these up with CPU without the integrated GPUs. For Intel these are 'F' tagged skus, e.g. i5-12400F. For AMD, non 'G' tagged skus, r.g. Ryzen 5600.  
 
 Some features like HDR, 4K and protected content will restrict you to certain dGPU models. For instance, for **4K Netflix** you cannot use a Nvidia GT 1030 or GTX 1050 with only 2GB of VRAM. You need at least 3GB, so do not ignore the ">=" below in the 4k Netflix recommendations. For **4K Youtube**, you can't use any GP104/GP106 (GTX 1060/1070&Ti/1080) based GPUs as they can't decode VP9 10-bit; See our matrix table below.  
 
@@ -517,5 +517,5 @@ MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Remote, Mini keyboard, and Air Mouse
 
 ---
 
-*This page was last updated on 2025-05-10*
+*This page was last updated on 2025-05-19*
 
