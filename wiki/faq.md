@@ -389,7 +389,7 @@ BRAND/MODEL|PRICE|RESOLUTION|4k NETFLIX|HDR|WLAN/LAN|VOICE|USB|RATING|NOTES
 [Mi Box S](https://www.mi.com/global/mi-box-s) ([buy](https://www.amazon.com/Xiaomi-Android-Google-Assistant-Streaming/dp/B07KLWGGYS))|$65|4k@60|YES|10|ac/No|YES|YES (**8b**)|V:Good A:Good|PT:LS DD+/DTS, S905X-H/2GB/8GB, NTFS
 **[Apple TV 4k (2022)](https://www.apple.com/apple-tv-4k/)** ([buy](https://www.apple.com/shop/buy-tv/apple-tv-4k))|**$129/$149**|4k@60|YES|10/+/DV|ax/1000M (7)|YES|No|V:Better A:Better|3rd gen, A15, 3GB, AV1, DV-5/8, DC:DTHD/DTSHD->PCM, PT:LS DA, BT 5.0
 [Onn 4K](https://www.walmart.com/ip/onn-Google-TV-4K-Streaming-Box-New-2023-4K-UHD-resolution/2835618394) ([buy](https://www.walmart.com/ip/onn-Google-TV-4K-Streaming-Box-New-2023-4K-UHD-resolution/2835618394))|$20|4k@60|YES|10|ac/Opt (9a)|YES|Opt (8a)|V:Good A:Good|AV1, DC:NA, PT:LS DD/DTS, S905Y4 1.9Ghz/2GB/8GB
-[Onn 4K Plus](https://www.walmart.com/ip/4K-PLUS-STREAMING/13577404044) ([buy](https://www.walmart.com/ip/4K-PLUS-STREAMING/13577404044))|$30|4k@60|YES|10/DV|ax/Opt (9a)|YES|Opt (8a)|V:Good A:Good|AV1, DC:NA, PT:LS DA/DTS, S905X5M 2.5Ghz/2GB/16GB
+[Onn 4K Plus](https://www.walmart.com/ip/4K-PLUS-STREAMING/13577404044) ([buy](https://www.walmart.com/ip/4K-PLUS-STREAMING/13577404044))|$30|4k@60|YES|10/+/DV|ax/Opt (9a)|YES|Opt (8a)|V:Good A:Good|AV1, DC:NA, PT:LS DA/DTS, S905X5M 2.5Ghz/2GB/16GB
 **[Onn 4K Pro](https://www.walmart.com/ip/4K-Pro-Streaming-Device/5193222892)** ([buy](https://www.walmart.com/ip/4K-Pro-Streaming-Device/5193222892))|**$50**|4k@60|YES|10/+/DV|ax/100M, Opt (9c)|YES|Opt (8c)|V:Better A:Good|AV1, DC:NA, PT:LS DA/DTS, S905X4 2Ghz/3GB/32GB
 [ChromeCast w/Google TV 4k](https://store.google.com/product/chromecast_google_tv) ([buy](https://store.google.com/config/chromecast_google_tv))|$50|4k@60|YES|10/+/DV|ac/Opt (9b)|YES|Opt (8a)|V:Better A:Good|2nd gen. AV1, DV-5/8, DC:DD+, PT:LS DA/DTS, S905D3 1.9Ghz/2GB/8GB
 [Google TV Streamer 4k](https://store.google.com/us/product/google_tv_streamer?hl=en-US) ([buy](https://store.google.com/us/product/google_tv_streamer?hl=en-US))|$100|4k@60|YES|10/+/DV|ac/1000M|YES|Opt (8c)|V:Better A:Good|3rd/latest gen. AV1, DV-5/8, DC:LS DA/DTHD/DTSHD->PCM, PT:LS DA/DTS, MT8696/4GB/32GB
@@ -836,5 +836,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2025-05-12*
+*This page was last updated on 2025-05-20*
 
