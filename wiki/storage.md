@@ -170,8 +170,8 @@ If you can't afford a pre-built NAS you can buy one of these options and add ext
 
 ### DiY   
 
-If you want more CPU performance or more flexibility/expandability than any reasonably priced pre-built NAS or Ad-hoc solution can offer, build out your own DiY NAS with Unraid/TrueNAS/OMV and commodity hardware.  
-Reference the DiY case/drive lists below, and the example builds under the [Wiki Sample Builds](/wiki/sample-builds#nasmedia-server-builds) page for full-part builds that range from used [OEM pre-builts](/wiki/sample-builds#135-medium-nas--media-server-9-26l---used) to a [low-power NAS](https://pcpartpicker.com/list/F4ct3w) to [the ultimate DiY](/wiki/sample-builds#1300-almost-ultimate-nas--media-server-59l).  
+If you want more CPU performance or more flexibility/expandability than any reasonably priced pre-built NAS or Ad-hoc solution can offer, build out your own DiY NAS with commodity hardware and a specialized OS like Unraid/TrueNAS/OMV.  
+Reference the DiY case list below, and the example builds under the [Wiki Sample Builds](/wiki/sample-builds#nasmedia-server-builds) page for full-part builds that range from used [OEM pre-builts](/wiki/sample-builds#135-medium-nas--media-server-9-26l---used) to the [the ultimate DiY](/wiki/sample-builds#1300-almost-ultimate-nas--media-server-59l).  
 
 **If you want to skirt the line between a pre-built NAS and DiY, look at the following, as these can provide the same CPU/GPU performance as a pre-built NAS for cheaper, but give you more OS support with Windows, Linux or Unraid/TrueNAS/OMV compatibility and DiY-like flexibility:**  
 - **Intel-based [Seeed Studio reServer (2 drives)](https://www.seeedstudio.com/reThings-reServer-c-2006.html)**  
