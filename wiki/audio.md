@@ -994,7 +994,7 @@ HDMI 2.1 (4K@120)
 
 HDMI 2.1 (4k@120)  
 
-**[J-Tech](https://www.amazon.com/Extractor-Compatible-J-Tech-Digital-JTECH-AE8K/dp/B0CQTPSVCK?th=1) - HDMI+Optical+3.5mm outs - Extracts HD audio from HTPC to non-eARC AVR**
+**[J-Tech](https://www.amazon.com/Extractor-Compatible-J-Tech-Digital-JTECH-AE8K/dp/B0CQTPSVCK?th=1) / [OREI](https://www.amazon.com/OREI-Extractor-Converter-Support-48Gbps/dp/B0D4C5YWDH) ($75) - HDMI/Optical/3.5mm - Extracts HD audio from HTPC to non-eARC AVR**
 
 [Cable Matters w/eARC](https://www.amazon.com/Cable-Matters-Extractor-Amplifier-Soundbars/dp/B0D32BKL2J) - HDMI - Extracts HD Audio from HTPC and/or TV to eARC Soundbar or non-eARC AVR
 
@@ -1006,7 +1006,7 @@ HDMI 2.1 (4k@120)
 
 HDMI 2.0 (4k@60)  
 
-**ViewHD [VHD-UHAE2](https://www.amazon.com/ViewHD-Extractor-Splitter-Support-Toslink/dp/B0755TB82Q) - HDMI outs - Extracts HD audio to AVR via audio only HDMI port, EDID Options**  
+**ViewHD [VHD-UHAE2](https://www.amazon.com/ViewHD-Extractor-Splitter-Support-Toslink/dp/B0755TB82Q) ($50) - HDMI outs - Extracts HD audio to AVR via audio only HDMI port, EDID Options**  
 
 [OREI](https://www.amazon.com/OREI-Extractor-Extract-Passthrough-HDA-929/dp/B0CDNYH3WN/) - eARC HDMI + HDMI - Extracts HD audio to AVR or eARC soundbar via HDMI. ALT: [optical version](https://www.amazon.com/OREI-Audio-Extractor-Converter-Support/dp/B0C7LK48ZX)
 
@@ -1032,7 +1032,7 @@ HDMI 1.4 (1080p/4k@30)
 
 **eARC/ARC -> HDMI/Optical Extractors**  
 
-[ViewHD u9](https://www.amazon.com/ViewHD-Adapter-Audio-Receiver-Application/dp/B08ZHCS5D9) - Extracts audio from display's HDMI eARC port to regular, non-ARC HDMI input of Sound Systems - "Input" not required  
+[ViewHD u9](https://www.amazon.com/ViewHD-Adapter-Audio-Receiver-Application/dp/B08ZHCS5D9) ($35) - Extracts audio from display's HDMI eARC port to regular, non-ARC HDMI input of Sound Systems - "Input" not required  
 
 Orei - [Optical](https://www.amazon.com/Optical-Coaxial-Audio-Extractor-OREI/dp/B00F4ORUDM) / [Analog](https://www.amazon.com/dp/B00F4ORTZ6) - Extracts audio from display's HDMI ARC/eARC port to Optical/Analog input
 
