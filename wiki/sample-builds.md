@@ -573,7 +573,7 @@ Nothing else here is too surprising. High value ram and ssd perform well and don
 
 This is configured below with 24TB of usable space with protection (12TBx3 = 36TB - 12TB parity drive = 24TB), but you can pack it all the way up to 110TB usable with protection (6x22TB-22TB parity). We use highly reliable, well-priced Exos/Ultrastar HDDs here.   
 
-If you want to bulk up past 6 drives, look at the Coolermaster N400 or Node 804 case for up to 10 drives, with the uATX motherboard and the optional 9207-8i HBA in the parts list.  
+If you want to bulk up past 6 drives, look at the Coolermaster N400 or Node 804 case for up to 10 drives, with the uATX motherboard and the optional 9211-8i HBA in the parts list.  
 
 If used as a Plex server, you can [Direct Play](https://support.plex.tv/articles/200430303-streaming-overview/) a couple dozen stream and [transcode](https://support.plex.tv/articles/200430303-streaming-overview/) 6 concurrent 1080p streams with software transcoding. If you need more transcodes than that, do [hardware igpu transcoding](https://support.plex.tv/articles/115002178853-using-hardware-accelerated-streaming/) with a purchased Plex Pass and a linux docker/VM in Unraid. That'll get you 6x4k/20x1080p AV1/HEVC/H264 transcodes. Alternatively, if you didn't want to buy a Plex Pass, use JellyFin; or use an i5-12400 to get software transcoding for 9x1080p/1x4k 50Mbps streams and upgrade to a Plex Pass later. 
 
@@ -586,11 +586,11 @@ MEM|Team T-Force Vulcan Z 32GB 2x16GB DDR4-3200|$50|[pcpartpicker](https://pcpar
 STORAGE|PNY Attache 4 32GB USB Flash Drive (BOOT)|$12|[amazon](https://www.amazon.com/PNY-Attache-Drives-3-Pack-P-FD32GX3ATT4-GE/dp/B07YVY2H1J)| USB 2.0 for low heat/longevity
 STORAGE|WD SN770 1TB NVMe M.2 SSD (APP/CACHE)|$70|[pcpartpicker](https://pcpartpicker.com/product/YVytt6/western-digital-1-tb-m2-2280-nvme-solid-state-drive-wds100t3x0e)|ALT: [SK Hynix P31 1TB](https://pcpartpicker.com/product/xNCFf7/sk-hynix-gold-p31-1-tb-m2-2280-pcie-30-x4-nvme-solid-state-drive-shgp31-1000gm-2)
 STORAGE|3 x Seagate Exos X14 12TB HDD (DATA)|$540|[disctech](https://www.disctech.com/Seagate-Exos-X14-ST12000NM0538-12TB-3.5-LFF-6Gbps-7.2K-RPM-FastFormat-512e-Enterprise-SATA-Hard-Disk)| SEPARATE. ALT: [Ultrastar HC530 14TB](https://www.disctech.com/interface-types/SATA?order=relevance:asc&keywords=hc530) (better $/GB)
-STORAGE|LSI 9207-8i, in IT/HBA mode|$40|[ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=9207+8i+%2Bcables&_sacat=0&LH_TitleDesc=0&_dmd=1&_stpos=80232-6476&_odkw=9201+%2B16i+%2Bcables&_osacat=0&_sop=15&LH_PrefLoc=2&_ipg=60&_sadis=15)|OPTIONAL. For more than 4xSATA ports/better controller support. ALT: [SATA card](https://www.amazon.com/10Gtek-Profile-Bracket-Controller-Expansion/dp/B09Y1PMZ2W)
+STORAGE|LSI 9211-8i, in IT/HBA mode|$30|[ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=9211+8i+%2Bcables&_sacat=0&LH_TitleDesc=0&_dmd=1&_stpos=80232-6476&_odkw=9201+%2B16i+%2Bcables&_osacat=0&_sop=15&LH_PrefLoc=2&_ipg=60&_sadis=15)|OPTIONAL. For more than 4xSATA ports/better controller support. ALT: [SATA card](https://www.amazon.com/10Gtek-Profile-Bracket-Controller-Expansion/dp/B09Y1PMZ2W)
 COOL|Noctua NH-U12S Redux CPU Cooler|$50|[pcpartpicker](https://pcpartpicker.com/product/vV7G3C/noctua-nh-u12s-redux-7075-cfm-cpu-cooler-nh-u12s-redux)|ALT: be quiet Pure Rock 2 ($40)
 PSU|Corsair RM/CX 650-750W|$75|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=1&A=500000000000,750000000000&p=1,3,2&sort=price&m=8,337,50,11,14,106,101,17,18,58,62,824,27,28,94,29,229,51,71,63,441,113,56,39,60&e=4,3,2,1)|ALT: EVGA/Seasonic
 SOFTWARE|Unraid Starter - 6 device license|$50|[limetech](https://unraid.net/pricing)|
-TOTAL||$672||
+TOTAL||$662||
 
 <!-- Sub-Section -->
 
@@ -660,7 +660,7 @@ A step up from the previous Medium build in internal capacity, but still used ha
 This is a setup with hardware off ebay using the old Ivy Bridge architecture. Plenty of power for NAS and utility task duties. Yes, it can be used as a Plex media server as well for its [Direct Play](https://support.plex.tv/articles/200430303-streaming-overview/) 
 and H264 transcode ability (look at the Dell 3620 option in the previous used build for 4k/HEVC transcoding), but that's not our primary focus here. Our focus is internal storage capacity.  
 
-This can fit 6x3.5 HDDs (using 3x3.5" and 3x5.25" mounts) officially. Since it has 6x SATA ports, you'll ideally use 1x for a SATA SSD for an os/app/cache drive and the other 5x for any data HDDs. For raw storage this has you in the realm of 40TB-120TB of storage potential. If you get creative, you can fit 8x 3.5" drives along with a [9207-8i SAS->SATA HBA](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=9207+8i&_sacat=0&LH_TitleDesc=0&_odkw=hp+cmt&_osacat=0&LH_PrefLoc=2) or [SATA card](https://www.amazon.com/10Gtek-Profile-Bracket-Controller-Expansion/dp/B09Y1PMZ2W), and [SATA Power Splitters](https://www.amazon.com/Cable-Matters-Power-Y-Splitter-Inches/dp/B00V6QA65G).  
+This can fit 6x3.5 HDDs (using 3x3.5" and 3x5.25" mounts) officially. Since it has 6x SATA ports, you'll ideally use 1x for a SATA SSD for an os/app/cache drive and the other 5x for any data HDDs. For raw storage this has you in the realm of 40TB-120TB of storage potential. If you get creative, you can fit 8x 3.5" drives along with a [9211-8i SAS->SATA HBA](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=9211+8i&_sacat=0&LH_TitleDesc=0&_odkw=hp+cmt&_osacat=0&LH_PrefLoc=2) or [SATA card](https://www.amazon.com/10Gtek-Profile-Bracket-Controller-Expansion/dp/B09Y1PMZ2W), and [SATA Power Splitters](https://www.amazon.com/Cable-Matters-Power-Y-Splitter-Inches/dp/B00V6QA65G).  
 
 If you go with an i5/i7 version, you'll get non-ECC memory. With a Xeon version you can use ECC memory, which is better for data integrity. 
 You should also have a battery-backup UPS as well if you really care about data integrity.  
