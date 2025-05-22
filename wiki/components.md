@@ -135,7 +135,7 @@ Below are the minimum requirements for each scenario and a recommendation. The r
 
 - Low Profile (4K Netflix+Youtube+Local HDR/Gaming): AMD RX 6400, Intel A380, Nvidia GTX 1050 Ti/1650, RTX 3050/4060 LP (REC: Used: GTX 1650 LP, New: Gaming: RTX 3050 LP, Media: Intel A380/AMD RX 6400) 
 
-- Single Slot, Low Profile: Intel ARC A310
+- Single Slot, Low Profile: Intel ARC A310, Yeston RTX 3050
 
 - madVR upscaling/tonemapping: >= GTX 1060 6GB / AMD RX 5600 (Rec: GTX 1660/RTX 3050 6GB) 
 
@@ -517,5 +517,5 @@ MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Remote, Mini keyboard, and Air Mouse
 
 ---
 
-*This page was last updated on 2025-05-19*
+*This page was last updated on 2025-05-22*
 
