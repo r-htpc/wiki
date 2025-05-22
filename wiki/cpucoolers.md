@@ -28,7 +28,7 @@ ID Cooling IS-30i			| 30mm | $25 | 100W | 80mm | LGA115x/1200/1700/AM4 | 3 | NA
 **\*Thermalright AXP90-X36**	| 36mm | $30 | 95W | 90mm | LGA115x/1200/1700/AM4 | **5** | 22.4 dBA 
 **\*Noctua NH-L9i**				| 37mm | $40 | 65W | 92mm | LGA115x | **5** | 23.6 dBA 
 **\*Noctua NH-L9a**				| 37mm | $40 | 65W | 92mm | AM3/AM4 | **5** | 23.6 dBA 
-Scythe Shuriken 3	| 39mm | $40 | TBD | 92mm | TBD| TBD | NA
+Scythe Shuriken 3	| 39mm | $40 | 95W | 92mm | LGA115x/1200/1700/1851/AM4/AM5 | TBD | 31.78 dBA, 36.45 CFM
 CoolerMaster MasterAir G200p	| 39.4mm | $40 | 65W | 92mm | LGA 115X/1200/1366/2011/-3/2066/AM4 | 3 | NA
 AMD Athlon 200GE Stock		| 41mm | NA | 35W | NA | AM4 | 3 | 200GE/220GE/240GE
 beQuiet Pure Rock LP			| 45mm | $50 | 100W | 92mm | LGA115x/1200/1700/AMx | NA | 30.6 dBA 
@@ -43,19 +43,19 @@ Intel E97378-001 Stock		| 32/51mm | $16 | 95W | 80mm | NA | 3 | NA
 **\*Thermalright AXP90-X53**	| 53mm | $35 | 95W | 92mm | LGA115x/1200/1700/201x/2066/AM4 | **5** | 22.4 dBA 
 **\*Arctic Freezer 11 LP**		| 53mm | $22 | 100W | 100mm | LGA771/775/115x/1200/1700 | 4 | 22.5 dBA/0.3 Sone
 **\*ID Cooling IS-55**			| 55mm | $40 | 125W | 120mm | LGA115x/1200/1700/AMx | **5** | 31.2 dBA - 32mm ram (1)
-Scythe BIG Shuriken 2 Rev. B	| 46mm/58mm | $49 | 95W? | 120mm | LGA775/115x/1366/2011 FM1/AM3+. | 4 | SCBSK-2100. 46mm w/o fan
-Scythe BIG Shuriken 4	| TBD | TBD | TBD | TBD | TBD| TBD | NA
+Scythe BIG Shuriken 2 Rev. B	| 46mm/58mm | $49 | 95W? | 120mm | LGA775/115x/1366/2011 FM1/AM3+. | 4 | 23.2 dBA, 41.3 CFM, 46mm w/o fan
 CoolerMaster MasterAir G400p	| 58mm | $40 | 120W | 92mm | LGA 115X/1200/1366/2011/-3/2066/AM4 | 3 | EOL
 Silverstone AR06			| 58.4mm | $40 | 95W | 92mm | LGA115x/AM3 | 4 | NA
 Intel E97379-001 Stock		| 40/59mm | $9 | 73W | 90mm | LGA115x | NA
 Thermalright AXP-100-Full Copp	| 44/58mm  | $85 | 180W | 100mm | LGA775/115X/2011/1200/1700/AM4 | **5** | 44mm w/o fan. 30 dBA
 ZALMAN CNPS8900 Quiet/Extreme | 60mm | $24 | 95W? | 110mm | LGA775/115x/AM3 (seperate AM4 kit) | 4 | NA
+ID Cooling IS-60 EVO ARGB	| 49/64mm | $50 | 130W | 120mm | LGA115x/FMx/AMx | 4 | 49mm w/o fan. 64mm w/stock 15mm. not as good/quiet as big shur 3, but shorter
 **\*Arctic Alpine 23** 			| 65mm | $13 | 100W | 92mm | AMx | **5** | 22.5dBA/0.3 Sone 
 **\*Noctua NH-L9x65** 			| 65mm | $55 | 84W | 92mm | LGA115x/FMx/AMx | **5** | 23.6 dBA 
 **\*Noctua NH-L9x65 SE-AM4**		| 50/65mm | $55 | 95W | 92mm | LGA115x/FMx/AMx | **5** | 50mm w/o fan. 23.6 dBA 
 Noctua NH-L12 (DC)				| 66/93mm | $55 | 95W | 92mm/120mm | LGA775/115x/1366/201x/2066/FMx/AMx (seperate AM4 kit) | **5** | 66mm without extra 25mm top fan. 93mm with. Could be 83mm if you used a 15mm fan on top instead.  22.4/17.6 dBA 
-ID Cooling IS-60 EVO ARGB	| 49/64mm | $50 | 130W | 120mm | LGA115x/FMx/AMx | 4 | 49mm w/o fan. 64mm w/stock 15mm. not as good/quiet as big shur 3, but shorter
 Noctua NH-L12 Ghost			| 66mm | $75 | 95W | 92mm | LGA775/115x/1366/201x/2066/FMx/AMx (seperate AM4 kit) | **5** | Successor to NH-L12
+Scythe BIG Shuriken 4	| 67mm | TBD | 115W? | 120mm | LGA115x/1200/1700/1851/AM4/AM5 | TBD | 21.78 dBA, 51.98 CFM
 **\*Thermalright AXP120-X67**		| 67mm | $40 | 165W | 120mm | LGA115x/1200/1700/201x/2066/AM4 | **5** | 26.1 dBA 
 Deepcool AN600			| 67mm | $55 | 180W | 120mm | LGA115x/1200/1700/AMx | 4 | 24.4dBA - 40mm ram
 ID Cooling IS-67-XT			| 67mm | $40 | 150W | 120mm | LGA115x/1200/1700/1851/AMx | 4 | 32.3dBA
