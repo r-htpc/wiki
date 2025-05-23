@@ -628,6 +628,57 @@ When buying cables and adapters, please do NOT buy no-name brands. As quality co
 
 <!-- Sub-Section -->
 
+### How can I use a PC that's installed away from my HT / in another room? ###
+
+Way 1: Direct (specialized cables)
+ - Use HDMI over fiber cables designed for distances over 25 ft. Use USB cables with an ethernet extender for control
+ - If HDMI cable is exiting from a wall to endpoint, do not use terminated HDMI wallplates, use passive brushplates instead.
+
+Way 2: Direct (PtP Ethernet)
+ - Use a HDBaseT Balun extender which does HDMI and USB control over point to point ethernet (NOT using a LAN switch)
+
+Way 3: Direct (LAN)
+ - Use a HDBaseT KVM Extender which does HDMI and USB control over a LAN (point to point ethernet or via a switch)
+ - If you using a LAN switch, you should consider a separate switch, hub or VLAN for this traffic, esp. on a busy or latency-sensitive network.
+ - *Coax Variation*: If you don't have ethernet access in the relevant rooms, but have coax, use [MOCA adapters](https://www.amazon.com/Actiontec-Bonded-Ethernet-Adapter-ECB6200K02/dp/B013J7O3X0) between wall and Extender
+
+Way 4: Remote (separate client + software)
+ - Use a seperate client device + specialized software (moonlight/sunshine) on the client and server  
+
+**Solutions by resolution and refresh rate**
+
+1080 @ 60 Hz:
+ - Direct (specialized)
+   - [RUIPro HDMI 18 Gbps Fiber](https://www.amazon.com/RUIPRO-Fiber-Optic-18Gbps-Flexible/dp/B07287LTRZ/?th=1) + [USB extender w/point-to-point ethernet](https://www.amazon.com/dp/B08D6MVCR6?ref=ppx_pop_mob_ap_share)
+ - Direct (PtP)
+   - Cat 5e-7 Ethernet + [OREI Balun Extender](https://www.amazon.com/Orei-Extender-Balun-Single-Ethernet/dp/B0BBJC8Q96)
+ - Direct (LAN)
+   - Cat 5e-7 LAN + [J-Tech KVM Extender](https://www.amazon.com/J-Tech-Digital-Extender-Ethernet-Supports/dp/B091D6ZDDC)
+ - Remote
+   - Client: Moonlight software + Device w/Wifi 5 or 100 Mbps LAN
+   - Server: Sunshine software
+
+ 4K @ 60 Hz:
+ - Direct (specialized)
+   - [RUIPro HDMI 18 Gbps Fiber](https://www.amazon.com/RUIPRO-Fiber-Optic-18Gbps-Flexible/dp/B07287LTRZ/?th=1) + [USB extender w/point-to-point ethernet](https://www.amazon.com/dp/B08D6MVCR6?ref=ppx_pop_mob_ap_share)
+ - Direct (PtP)
+   - Cat 6-7 point to point + [OREI 4K Balun Extender](https://www.amazon.com/dp/B0BPVX4VYT)
+ - Direct (LAN)
+   - Cat 6-7 LAN + [Monoprice 4K Blackbird Extender](https://www.monoprice.com/product?p_id=44570) / [OREI 4K KVM Extender](https://www.amazon.com/Extender-Single-CAT5e-RS-232-Remote/dp/B07BC83WPM)
+ - Remote
+   - Client: Moonlight software + Device w/1 Gbps LAN (N100 Mini PC, Google TV Streamer, ODroid N2+)
+   - Server: Sunshine software
+
+4K @ 120 Hz:
+- Direct (specialized)
+  - [RUIPro HDMI 48 Gbps Fiber](https://www.amazon.com/RUIPRO-Fiber-48Gbps-Dynamic-Samsung/dp/B0D93Q4Q6C) + [USB extender w/point-to-point ethernet](https://www.amazon.com/dp/B08D6MVCR6?ref=ppx_pop_mob_ap_share)
+- Remote
+  - Client: Moonlight software + [Device w/HDMI 2.1 + 1 Gbps LAN](https://r-htpc.github.io/wiki/sample-builds#specialized-4k120hz)
+  - Server: Sunshine software + [Headless Moonlight/Sunshine Streaming Host fix (#9)](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output)
+
+
+<!-- Sub-Section -->
+
 ### What options are there for 4k @ 120 Hz video output?
 
 Keep in mind we assume a HDMI input will be on your Display (TVs/Projectors, which is our only concern here).  
@@ -736,5 +787,5 @@ Ideal Youtube tests - Test if GPU can decode youtube content - 1080p/4k, VP9/AV1
 
 ---
 
-*This page was last updated on 2025-05-07*
+*This page was last updated on 2025-05-23*
 
