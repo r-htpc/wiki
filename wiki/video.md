@@ -643,8 +643,10 @@ Way 3: Direct (LAN)
  - *Coax Variation*: If you don't have ethernet access in the relevant rooms, but have coax, use [MOCA adapters](https://www.amazon.com/Actiontec-Bonded-Ethernet-Adapter-ECB6200K02/dp/B013J7O3X0) between wall and Extender
 
 Way 4: Remote (separate client + software)
- - Use a seperate client device + specialized software on the client and server
- - Streaming resolution and refresh rate is determined by capabilities of display connected to the remote PC. If a different resolution/refresh rate is needed, use fix linked below.
+ - Gaming
+   - Use a seperate client device + specialized software on the client and server
+   - Streaming resolution and refresh rate is determined by capabilities of display connected to the remote PC. If a different resolution/refresh rate is needed, use fix linked below.
+ - Media: [Wiki:FAQ:Can I stream/how do I serve my content from another computer or a networked storage device?](https://r-htpc.github.io/wiki/faq#can-i-streamhow-do-i-serve-my-content-from-another-computer-or-a-networked-storage-device)
 
 **Solutions by resolution and refresh rate**
 
