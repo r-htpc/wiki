@@ -643,7 +643,8 @@ Way 3: Direct (LAN)
  - *Coax Variation*: If you don't have ethernet access in the relevant rooms, but have coax, use [MOCA adapters](https://www.amazon.com/Actiontec-Bonded-Ethernet-Adapter-ECB6200K02/dp/B013J7O3X0) between wall and Extender
 
 Way 4: Remote (separate client + software)
- - Use a seperate client device + specialized software (moonlight/sunshine) on the client and server  
+ - Use a seperate client device + specialized software on the client and server
+ - Streaming resolution and refresh rate is determined by capabilities of display connected to the remote PC. If a different resolution/refresh rate is needed, use fix linked below.
 
 **Solutions by resolution and refresh rate**
 
@@ -655,8 +656,8 @@ Way 4: Remote (separate client + software)
  - Direct (LAN)
    - Cat 5e-7 LAN + [J-Tech KVM Extender](https://www.amazon.com/J-Tech-Digital-Extender-Ethernet-Supports/dp/B091D6ZDDC)
  - Remote
-   - Client: Moonlight software + Device w/Wifi 5 or 100 Mbps LAN
-   - Server: Sunshine software
+   - Client: Software: Moonlight or Steam Link + Hardware: Device w/Wifi 5 or 100 Mbps LAN (N95 Mini PC, Onn 4K Pro)
+   - Server: software: Sunshine or Steam w/Remote Play enabled
 
  4K @ 60 Hz:
  - Direct (specialized)
@@ -666,15 +667,15 @@ Way 4: Remote (separate client + software)
  - Direct (LAN)
    - Cat 6-7 LAN + [Monoprice 4K Blackbird Extender](https://www.monoprice.com/product?p_id=44570) / [OREI 4K KVM Extender](https://www.amazon.com/Extender-Single-CAT5e-RS-232-Remote/dp/B07BC83WPM)
  - Remote
-   - Client: Moonlight software + Device w/1 Gbps LAN (N100 Mini PC, Google TV Streamer, ODroid N2+)
-   - Server: Sunshine software
+   - Client: Software: Moonlight + Device w/1 Gbps LAN (N100 Mini PC, Google TV Streamer, ODroid N2+)
+   - Server: Software: Sunshine + OPTIONAL: [Headless Moonlight/Sunshine Streaming Host fix (#9)](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output)
 
 4K @ 120 Hz:
 - Direct (specialized)
   - [RUIPro HDMI 48 Gbps Fiber](https://www.amazon.com/RUIPRO-Fiber-48Gbps-Dynamic-Samsung/dp/B0D93Q4Q6C) + [USB extender w/point-to-point ethernet](https://www.amazon.com/dp/B08D6MVCR6?ref=ppx_pop_mob_ap_share)
 - Remote
-  - Client: Moonlight software + [Device w/HDMI 2.1 + 1 Gbps LAN](https://r-htpc.github.io/wiki/sample-builds#specialized-4k120hz)
-  - Server: Sunshine software + [Headless Moonlight/Sunshine Streaming Host fix (#9)](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output)
+  - Client: Software: Moonlight + [Device w/HDMI 2.1 + 1 Gbps LAN](https://r-htpc.github.io/wiki/sample-builds#specialized-4k120hz)
+  - Server: Software: Sunshine + OPTIONAL: [Headless Moonlight/Sunshine Streaming Host fix (#9)](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output)
 
 
 <!-- Sub-Section -->
