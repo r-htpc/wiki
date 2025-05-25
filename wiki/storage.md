@@ -182,25 +182,32 @@ Reference the DiY case list below, and the example builds under the [Wiki Sample
 ### Direct Attach Storage (DAS)
 
 As stated above, **avoid USB based DASes**. PCIe SAS is much more reliable.  
-You can fit the [low-profile PCIe cards](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=hba+%289201%2C9202%2C9207%29+%288e%2C16e%29&_sacat=56091&_odkw=hba+%288e%2C16e%29&_osacat=56091) into SFF sized servers (m920s) and even in a number of pre-built Micros (m920q/m90q, P320/P330 Tiny, MS-01) and DiY your own solution for the same cost of the USB solutions. Yes, it's more work, but more reliable and flexible. For a smaller, simpler version, look at the TL-D400S.
+You can fit the [low-profile HBA cards](https://www.ebay.com/sch/i.html?_nkw=hba+%289201%2C9202%2C9207%2C9300%29+%288e%2C16e%29&_sacat=56091&_from=R40&LH_BIN=1&_sop=15) into SFF sized servers (m920s) and even in a number of pre-built Micros (m920q/m90q, P320/P330 Tiny, MS-01) and DiY your own solution for the same cost of the USB solutions. Yes, it's more work, but it's not hard and it will be more reliable and flexible. A whole 8-16 DAS solution can be had for $250-$400.  
+For a smaller, simpler version, look at the TL-D400S.
 
 <!--
 Mediasonic	|	Proraid - HUR5	        |	2	|	$50		|	USB31G2, HW RAID 0/1, JBOD, Single
+
+PC PITSTOP IS DOWN/GONE?
+**PC Pitstop**           |       Various (Semi-DiY)  |    4-16    |  $350-1300   |  [Enclosure](https://www.pc-pitstop.com/sas-sata-enclosures-no-expander) + [PCIe SAS card](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=hba+%289201%2C9202%2C9207%29+%288e%2C16e%29&_sacat=56091&_odkw=hba+%288e%2C16e%29&_osacat=56091)
+
+OLD VERSION
+**Various**              |       Various (DiY)                    |       8-16   |       $250 | [PCIe SAS card](https://www.ebay.com/sch/56091/i.html?_from=R40&_nkw=%229202-16e%22)+[CASE](https://www.amazon.com/Cooler-Master-NSE-400-KKN2-Mid-Tower-Computer/dp/B00DKXXBU0)+[CAB1](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=8644+to+8644+cable+-sata+-8087+-8088+-8643+-8436&_sacat=58058&_odkw=8644+cable+-sata+-8087+-8088+-8643+-8436&_osacat=58058&_sop=15)+[ADAP](https://www.amazon.com/Adapter-Internal-SFF-8087-External-SFF-8088/dp/B01MFHET83?th=1)+[CAB2](https://www.ebay.com/sch/i.html?_from=R40&_nkw=8643+sata+cable&_sacat=58058&_odkw=8643+sata+cable&_osacat=58058)+[PSU](https://pcpartpicker.com/products/power-supply/#xcx=0&D=8,20&sort=price&page=1)+[FANS](https://www.amazon.com/Thermalright-TL-C12C-Computer-Included-Quantities%EF%BC%89/dp/B0BKKG1ZND)+[SPLIT](https://www.amazon.com/GELRHONR-Adapter-Cable%EF%BC%8C15-Splitter-Computer/dp/B09CGZQ2XF)
+
 -->
 
 BRAND		|	MODEL				|	DRIVES|	COST	|	NOTES
 :--|:--|:--|:--|:--
+**QNAP**		|	**[TL-D400S](https://www.qnapworks.com/TL-D400S.asp)**		|	4	|	$300	| **PCIe SAS**, JBOD, Single
+**Various**              | DiY. 10-11 drive solution example |       8-16   |       $260 | Host: [HBA](https://www.ebay.com/sch/i.html?_nkw=%289300-8e%2C9202-16e%29&_sacat=56091&_from=R40&_sop=15&rt=nc&LH_BIN=1)+[CAB1](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=8644+to+8644+cable+-sata+-8087+-8088+-8643+-8436&_sacat=58058&_odkw=8644+cable+-sata+-8087+-8088+-8643+-8436&_osacat=58058&_sop=15) + DAS: [CASE](https://www.amazon.com/Cooler-Master-NSE-400-KKN2-Mid-Tower-Computer/dp/B00DKXXBU0)+[EXPAND](https://www.ebay.com/sch/i.html?_nkw=%2882885T%2CRES3FV288%29&_sacat=90715&_from=R40&_trksid=m570.l1313&_blrs=recall_filtering&_odkw=%2882885T%2C3fv288%29&LH_BIN=1&_osacat=90715&_sop=15)+[CAB2](https://www.ebay.com/sch/i.html?_from=R40&_nkw=8643+sata+cable&_sacat=58058&_odkw=8643+sata+cable&_osacat=58058)+[PSU](https://pcpartpicker.com/products/power-supply/#xcx=0&D=8,20&sort=price&page=1)+[FANS](https://www.amazon.com/Thermalright-TL-C12C-Computer-Included-Quantities%EF%BC%89/dp/B0BKKG1ZND)+[SPLIT](https://www.amazon.com/GELRHONR-Adapter-Cable%EF%BC%8C15-Splitter-Computer/dp/B09CGZQ2XF). [More](https://www.rosewill.com/rosewill-rsv-l4500u-black/p/9SIA072GJ92805?seoLink=server-components&seoName=Server%20Chassis)
 Mediasonic	|	Probox - HF2/HF7	|	4	|	$100/$150	|	HF2: USB 3.0/eSATA, HF7: USB31G2
 Mediasonic	|	Proraid - HFR2/HFR7     	|	4	|	$150/$180	|	USB30/USB31G2, HW RAID 0/1/10/3/5, JBOD, Single
 Mediasonic	|	Probox - H82		|	8	|	$270-$350	|	USB30/USB31G2, Single
 Terramaster       |       D4-300                     |      4       |       $170 | USB31G1, Single
 OWC      |       [Mercury Elite Pro 2](https://www.amazon.com/OWC-Mercury-Elite-eSATA-Enclosure/dp/B06XRK93R9?th=1)  |      2       |       $65 | USB31G1/eSATA, Single
 OWC      |       [Mercury Elite Pro Quad](https://www.amazon.com/OWC-Mercury-Elite-Storage-Enclosure/dp/B09SC124GS)  |      4       |       $220 | USB31G2, Single
-**QNAP**		|	**[TL-D400S](https://www.qnapworks.com/TL-D400S.asp)**		|	4	|	$300	| **PCIe SAS**, JBOD, Single
 QNAP		|	TR-002-US		|	2	|	$160	| USB32G1, HW RAID 0/1/10/5, JBOD, Single
 QNAP		|	TR-004-US		|	4	|	$200	| USB32G1, HW RAID 0/1/10/5, JBOD, Single
-**PC Pitstop**           |       Various (Semi-DiY)  |    4-16    |  $350-1300   |  [Enclosure](https://www.pc-pitstop.com/sas-sata-enclosures-no-expander) + [PCIe SAS card](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=hba+%289201%2C9202%2C9207%29+%288e%2C16e%29&_sacat=56091&_odkw=hba+%288e%2C16e%29&_osacat=56091)
-**Various**              |       Various (DiY)                    |       8-16   |       $250 | [PCIe SAS card](https://www.ebay.com/sch/56091/i.html?_from=R40&_nkw=%229202-16e%22)+[CASE](https://www.amazon.com/Cooler-Master-NSE-400-KKN2-Mid-Tower-Computer/dp/B00DKXXBU0)+[CAB1](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=8644+to+8644+cable+-sata+-8087+-8088+-8643+-8436&_sacat=58058&_odkw=8644+cable+-sata+-8087+-8088+-8643+-8436&_osacat=58058&_sop=15)+[ADAP](https://www.amazon.com/Adapter-Internal-SFF-8087-External-SFF-8088/dp/B01MFHET83?th=1)+[CAB2](https://www.ebay.com/sch/i.html?_from=R40&_nkw=8643+sata+cable&_sacat=58058&_odkw=8643+sata+cable&_osacat=58058)+[PSU](https://pcpartpicker.com/products/power-supply/#xcx=0&D=8,20&sort=price&page=1)+[FANS](https://www.amazon.com/Thermalright-TL-C12C-Computer-Included-Quantities%EF%BC%89/dp/B0BKKG1ZND)+[SPLIT](https://www.amazon.com/GELRHONR-Adapter-Cable%EF%BC%8C15-Splitter-Computer/dp/B09CGZQ2XF)
 Various              |       Various (DiY)                    |       4      |       $125 | [PCIe SATA card](https://www.amazon.com/10Gtek-Profile-Bracket-Controller-Expansion/dp/B09Y1NRHX3)+[HDD Cage](https://www.google.com/search?q=rsv+sata+cage+34)+[Molex PSU](https://www.quietpcusa.com/Power-Supply/Power-Adapters-Converters-ACDC/Power-Adapter-110VAC-to-12VDC-w-4-pin-Molex-Connector-5-Amp)
 
 <!-- Sub-Section -->
