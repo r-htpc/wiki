@@ -837,7 +837,7 @@ PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
 :--|:--|:--|:--|:--
 CASE		|Silverstone SG13b					|$75	|[pcpartpicker](https://pcpartpicker.com/product/WG2bt6/silverstone-sg13-v2-mini-itx-tower-case-sg13b-usa)	|8.74" (W) x 11.22" (D) x 7.13" (H), [specs](https://www.silverstonetek.com/en/product/info/computer-chassis/SG13/). ALT: Silverstone ML-07
 CPU	|	Intel i5-12400F (65W)				|	$110	|[pcpartpicker](https://pcpartpicker.com/product/pQNxFT/intel-core-i5-12400f-25-ghz-6-core-processor-bx8071512400f)	|ALT: ML-07: AMD Ryzen 5700X
-GPU	|	AMD RX 7600 8GB			|	$280	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&c=511,509,522,554,571&sort=price)	|<= 270 mm (L). ALT: RTX 4060 8GB
+GPU	|	Intel ARC B580 12GB			|	$300	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&sort=price&c=585)	|<= 270 mm (L). ALT: RTX 5060 8GB
 MOBO	|	ASRock H610M-ITX/eDP				|	$125	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&s=40&f=8&sort=price&page=1)	|ALT: ML-07: ASRock A520M-ITX/ac
 MEM	|	Teamforce Vulcan Z 32GB 2x16GB DDR4-3600	|	$55	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr4&S=3600,3733&Z=32768002&sort=price)	|ALT: 16 GB 2x8GB ($30)
 STORAGE	|	WD SN580 1TB M.2 (OS/GAMES)	|	$60	| [pcpartpicker](https://pcpartpicker.com/product/rqhv6h/western-digital-blue-sn580-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds100t3b0e)	| ALT: WD SN770 1TB M.2 (OS/GAMES)
@@ -856,7 +856,7 @@ PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
 :--|:--|:--|:--|:--
 CASE	|	Silverstone Milo Z/ML-07		|	$105	|pcpartpicker	|15" (W)x4.1" (H)x13.8" (D). ALT: Silverstone GD-11 (6.9" (H), 30L)
 CPU	|	AMD Ryzen 5700X3D (105W)			|	$200	|pcpartpicker	|ALT: AMD Ryzen 7600X
-GPU	|	AMD RX 7700 XT 12GB			|	$450	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&c=558,559&sort=price)	|ALT: AMD RX 7800 XT 16 GB
+GPU	|	Nvidia RTX 5060 Ti 16GB			|	$450	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&sort=price&c=593&P=17179869184,51539607552)	|ALT: AMD RX 7800 XT 16 GB
 MOBO	|	ASRock B550M-ITX/ac		|	$135	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&c=147,124,133,145,123,132,138&sort=price)	|ALT: Gigabyte B650 GAMING X AX ATX
 MEM	|	Teamforce VulcanZ 32GB 2x16GB DDR4-3600	|	$55	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr4&S=3600,3733&Z=32768002&sort=price)	|ALT: G.Skill Flare S5 2x16GB 32GB DDR5-6000
 STORAGE	|	WD SN770 500GB M.2 (OS)	|	$50	|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&D=1&A=450000000000,525000000000&sort=price&page=1)	|ALT: WD SN770 1TB M.2 (OS)
