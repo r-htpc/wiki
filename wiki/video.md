@@ -654,7 +654,7 @@ Way 4: Remote (separate client + software)
  - Direct (specialized)
    - [RUIPro HDMI 18 Gbps Fiber](https://www.amazon.com/RUIPRO-Fiber-Optic-18Gbps-Flexible/dp/B07287LTRZ/?th=1) + [USB extender w/point-to-point ethernet](https://www.amazon.com/dp/B08D6MVCR6?ref=ppx_pop_mob_ap_share)
  - Direct (PtP)
-   - Cat 5e-7 Ethernet + [OREI Balun Extender](https://www.amazon.com/Orei-Extender-Balun-Single-Ethernet/dp/B0BBJC8Q96)
+   - Cat 5e-7 Ethernet + [OREI HDBaseT Balun Extender](https://www.amazon.com/Orei-Extender-Balun-Single-Ethernet/dp/B0BBJC8Q96)
  - Direct (LAN)
    - Cat 5e-7 LAN + [J-Tech KVM Extender](https://www.amazon.com/J-Tech-Digital-Extender-Ethernet-Supports/dp/B091D6ZDDC)
  - Remote
@@ -675,6 +675,8 @@ Way 4: Remote (separate client + software)
 4K @ 120 Hz:
 - Direct (specialized)
   - [RUIPro HDMI 48 Gbps Fiber](https://www.amazon.com/RUIPRO-Fiber-48Gbps-Dynamic-Samsung/dp/B0D93Q4Q6C) + [USB extender w/point-to-point ethernet](https://www.amazon.com/dp/B08D6MVCR6?ref=ppx_pop_mob_ap_share)
+ - Direct (PtP)
+   - Cat 6a-7 point to point + [OREI 4K@120Hz Balun Extender](https://www.amazon.com/OREI-120hz-Ethernet-Extender-UltraHD/dp/B0D5FDPRTL) + [USB extender w/point-to-point ethernet](https://www.amazon.com/dp/B08D6MVCR6?ref=ppx_pop_mob_ap_share)
 - Remote
   - Client: Software: Moonlight + [Device w/HDMI 2.1 + 1 Gbps LAN](https://r-htpc.github.io/wiki/sample-builds#specialized-4k120hz)
   - Server: Software: Sunshine + OPTIONAL: [Headless Moonlight/Sunshine Streaming Host fix (#9)](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output)
