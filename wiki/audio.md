@@ -665,14 +665,17 @@ You can also reference [this post](https://www.reddit.com/r/htpc/comments/vn3iuy
 
 ### How can I transport Surround sound over a Stereo only audio interface?
 
-If your sound system supprorts it, you can use Dolby Pro Logic II/Dolby Surround matrix encoding. It will "downmix" and encode the extra surround channels inside a Stereo signal. Your sound system will then decode the matrix on the other end and try to put the surround audio into their proper speakers, but the surround channels are no longer discrete. As such, it's not a perfect technology, but an approximation and usually introduces some cross-talk. This sound work usually over any audio interface, even analog. It is a popular tech used in old and emulation games.  
-If it's not good enough for you, see the next section for encoding the audio to Dolby Digital 5.1, if your audio interface and sound system supports that. 
-Else,  
+If your sound system supports it, you can use Dolby Pro Logic II/Dolby Surround matrix encoding.  
+This will "downmix" and encode the extra surround channels inside a Stereo signal. Your sound system will then decode the matrix on the other end and try to put the surround audio into its proper speakers, even though the surround channels are no longer discrete. As such, it's not a perfect technology, but an approximation and usually introduces some cross-talk.  
+This usually works over any audio interface, even analog. It is a popular tech used in old games and gaming emulation.  
+To use it:  
 
 - Configure the speaker configuration in your window's sound device as Stereo
 - In your media application's audio decoder/filters mixing section, enable Dolby Pro Logic II/Dolby Surround matrix encoding.
 - If your media player doesn't natively support it, install the 3rd party LAV Filters and add them to your media player.
 - For system-wide, you can try and use Equalizer APO and [these configs](https://github.com/Dogway/emulation-random/tree/master/EqualizerAPO/Surround), else use the Dolby Digital 5.1 option below.
+
+If it's not good enough for you, see the next section for encoding the audio to Dolby Digital 5.1, if your audio interface(s) and sound system supports that. 
 
 <!-- Sub-Section -->
 
