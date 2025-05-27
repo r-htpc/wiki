@@ -29,8 +29,8 @@ There are many digital forms that audio can take. The two main ones we will be d
 2. Audio encoded in a common, uncompressed, non-specific format. i.e. what's called PCM. 
  - PCM is a base form of digital audio and as such, is the most compatible format
  - It's usually something a codec is converted into for compatibility reasons. For instance, if the DTS codec isn't supported by your Sound System, your HTPC can decode it into individual PCM channels before sending it to the Sound System
- - While it's the most compatible format across equipment, since it's uncompressed it requires a lot more bandwidth from audio interfaces than its compressed codec counterparts. So while a particular interface may be able to carry a lossy, compressed 5.1 codec like Dolby Digital, it may only be able to carry lossless, uncompressed 2.0 PCM
- - PCM is the DEFAULT output of the operating system, web browsers and typical gaming audio 
+ - While it's the most compatible format across equipment, since it's uncompressed it requires a lot more bandwidth from audio interfaces than its compressed codec counterparts. So while a particular interface may be able to carry a lossy, compressed 5.1 codec like Dolby Digital, it may only be able to carry lossless, uncompressed 2.0 PCM (e.g. HDMI ARC)
+ - PCM is the **DEFAULT** output of the operating system, web browsers and typical gaming audio 
 
 **In practice, an HTPC can support ALL codecs by either passing them through to a sound system or decoding them.  
 Display and Sound System equipment are what complicate what's possible, as their support for formats is wide and varied. When researching your digital equipment (such as your a AV Receiver, sound bar, and/or TV for passthrough), make sure it supports the codec(s) you want to decode or passthrough over the interfaces you want. If one piece of equipment in the audio workflow doesn't support a codec, you may have to settle for conversion to PCM, or no sound at all, when playing that codec. Read spec pages, user manuals, [rtings.com](https://www.rtings.com) reviews, [flatpanelshd.com](https://www.flatpanelshd.com/), and/or [displayspecifications.com](https://www.displayspecifications.com/) to determine what audio interfaces you have and find the least common denominators/bottlenecks in the entire system**  
@@ -1091,5 +1091,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2025-04-21*
+ *This page was last updated on 2025-05-27*
 
