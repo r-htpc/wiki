@@ -516,7 +516,7 @@ If you must have menus, which is presumably the reason you want disc playback, c
     - If you have problems opening the ISO with a player, mount the ISO with [CloneDrive](https://www.majorgeeks.com/files/details/virtual_clonedrive.html) first and open the folder structure
 
 If you must have disc playback:
- 1. DVD: Kodi/MPC-BE/VLC, [Microsoft DVD player](https://apps.microsoft.com/detail/9nblggh2j19w?activetab=pivot%3Aoverviewtab&rtc=1&hl=en-us&gl=US#activetab=pivot:overviewtab), [Xreveal](https://www.xreveal.com/) + keydb_eng.zip + Media player above
+ 1. DVD: Kodi/MPC-BE/VLC, [Microsoft DVD player](http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/db1d271e-866f-4943-8e8d-1649d5ca704c?P1=1748382587&P2=404&P3=2&P4=UlZBtHy0ecYSgnXfX0cfyXNxHLRdfTawYFSnFTLz7j%2f9ZOmLEmG5UlZaMH%2bTYqhSbd0hdCcG1wqTks6dGB9gbg%3d%3d), [Xreveal](https://www.xreveal.com/) + keydb_eng.zip + Media player above
  2. FHD Blu-Ray: [Leawo Blu-Ray Player](https://www.leawo.com/blu-ray-player/), [Xreveal](https://www.xreveal.com/) + keydb_eng.zip + Media player above
  3. UHD Blu-Ray: *Official UHD Drive*: [CyberLink PowerDVD Ultra <= v22.0.3214.62](https://www.cyberlink.com/products/powerdvd-ultra/features_en_US.html). *[UHD-Friendly Drive](/wiki/components#optical-drives)*: [Xreveal](https://www.xreveal.com/) + keydb_eng.zip + Media player above
  4. Make sure you meet audio/video chain restrictions: [HDCP](https://en.wikipedia.org/wiki/High-bandwidth_Digital_Content_Protection) 1.x for DVD, HDCP 1.3 for FHD Blu-Ray, HDCP 2.2 for UHD Blu-Ray; in all devices of the video chain (Drive, GPU, Video Cable, Display)  
@@ -792,5 +792,5 @@ Ideal Youtube tests - Test if GPU can decode youtube content - 1080p/4k, VP9/AV1
 
 ---
 
-*This page was last updated on 2025-05-23*
+*This page was last updated on 2025-05-27*
 
