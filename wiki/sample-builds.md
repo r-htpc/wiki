@@ -45,7 +45,7 @@ Some of these are: **Intel (NUC), [Lenovo (ThinkCentre/IdeaCentre)](https://www.
 
  $60-100: SMALL/MEDIUM: Used: HP/Dell/Lenovo - Intel - i3/i5-7100T/7400T/7500T, >= 8GB RAM, >= 120GB disk. [[Ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28hp%2Cdell%2Clenovo%29+%28i3-7100%2Ci5-7400%2Ci5-7500%29&_sacat=179&LH_TitleDesc=0&LH_BIN=1&_sop=15&_udhi=150&_blrs=recall_filtering)]  
 
- $80: SMALLER: Used: Intel NUC7i3/NUC7CJYH, >= 8GB, >= 128GB disk. Lower power than HP/Dell/Lenovo above. [[Ebay](https://www.ebay.com/sch/179/i.html?_from=R40&_nkw=nuc+%287100u%2C7260u%2C7300u%2Cj4005%2Cj4025%2Cj5005%29&LH_BIN=1&_sop=15)]  
+ $80: SMALLER: Used: Intel NUC8i3/NUC8i5, >= 8GB, >= 128GB disk. Lower power than HP/Dell/Lenovo above. [[Ebay](https://www.ebay.com/sch/i.html?_nkw=nuc+%288i5beh%2C8i5bek%2C8i3beh%2C8i3bek%2C8109u%2C8259u%29&_sacat=179&_from=R40&_trksid=m570.l1313&_fsrp=1&_odkw=nuc+%288i5beh%2C8i5bek%2C8i3beh%2C8i3bek%2C8109u%29&_osacat=179&LH_BIN=1&_sop=15)]  
 
  $125-160: SMALLER: New: **Intel N95**/N5095 Mini PC ([Minisforum/Beelink/etc..](https://www.amazon.com/s?k=minsforum+beelink+N5095+N95&crid=CZRI7XC6T32)), 8GB RAM, 256GB disk  
 
