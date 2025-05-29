@@ -127,13 +127,13 @@ Below are the minimum requirements for each scenario and a recommendation. The r
 
 - Emulation/Casual Gaming: Nvidia >= GT 1030 GDDR5, AMD >= 5xx/5x00/6x00 (REC: Used: GTX 1650, New: RX 6400/570) 
 
-- Medium Gaming: (REC: Used: RX 5700 XT, New: RTX 4060 LP) 
+- Medium Gaming: (REC: Used: RX 5700 XT, New: RTX 5060 LP) 
 
 - UHD Blu-Ray disc playing: Not supported. Intel iGPU only. 
 
 - Plex Transcoding: [Elpamsoft GPU transcode tables](https://www.elpamsoft.com/?p=Plex-Hardware-Transcoding) (REC: Intel A3x0/Quadro P600/GTX 1050 Ti) 
 
-- Low Profile (4K Netflix+Youtube+Local HDR/Gaming): AMD RX 6400, Intel A380, Nvidia GTX 1050 Ti/1650, RTX 3050/4060 LP (REC: Used: GTX 1650 LP, New: Gaming: RTX 3050 LP, Media: Intel A380/AMD RX 6400) 
+- Low Profile (4K Netflix+Youtube+Local HDR/Gaming): AMD RX 6400, Intel A380, Nvidia GTX 1050 Ti/1650, RTX 3050/5060 LP (REC: Used: GTX 1650 LP, New: Gaming: RTX 3050 LP, Media: Intel A380/AMD RX 6400) 
 
 - Single Slot, Low Profile: Intel ARC A310, Yeston RTX 3050
 
@@ -517,5 +517,5 @@ MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Remote, Mini keyboard, and Air Mouse
 
 ---
 
-*This page was last updated on 2025-05-22*
+*This page was last updated on 2025-05-29*
 
