@@ -857,7 +857,7 @@ PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
 CASE	|	Silverstone Milo Z/ML-07		|	$105	|pcpartpicker	|15" (W)x4.1" (H)x13.8" (D). ALT: Silverstone GD-11 (6.9" (H), 30L)
 CPU	|	AMD Ryzen 9600X	    	    	|	$200	|[pcpartpicker](https://pcpartpicker.com/product/4r4Zxr/amd-ryzen-5-9600x-39-ghz-6-core-processor-100-100001405wof)	|ALT: AMD Ryzen 9700X
 GPU	|	Nvidia RTX 5060 Ti 16GB			|	$450	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&sort=price&c=593&P=17179869184,51539607552)	|ALT: AMD RX 7800 XT 16 GB
-MOBO	|	ASRock A610I Lightning ITX		|	$145	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&sort=price&s=41)	|ALT: Gigabyte B650 GAMING X AX ATX
+MOBO	|	ASRock A620I Lightning ITX		|	$145	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&sort=price&s=41)	|ALT: Gigabyte B650 GAMING X AX ATX
 MEM	|	Silicon Power Pulse 32GB 2x16GB DDR5-6000	|	$70	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr5&Z=32768002&sort=price&S=5200,8400)	|ALT: G.Skill Flare S5 2x16GB 32GB DDR5-6000
 STORAGE	|	WD SN770 500GB M.2 (OS)	|	$50	|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&D=1&A=450000000000,525000000000&sort=price&page=1)	|ALT: WD SN770 1TB M.2 (OS)
 STORAGE	|	WD SN770 2TB M.2 (GAMES)	|	$120	|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&D=1&A=1800000000000,2048000000000&sort=price&t=0)	|
