@@ -580,11 +580,11 @@ If used as a Plex server, you can [Direct Play](https://support.plex.tv/articles
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE|Fractal Design Node 304|$100|[newegg](https://www.newegg.com/black-fractal-design-node-304-mini-itx-tower/p/N82E16811352027)|ITX, 14.7"x9.8"x8.3" ALT: Node 804, Jonsbo N4 ($120), [DIY NAS Case List](/wiki/storage#diy-nas-case-list)
-CPU|Intel i3-12100 CPU, 60W|$115|[pcpartpicker](https://pcpartpicker.com/product/qrhFf7/intel-core-i3-12100-33-ghz-quad-core-processor-bx8071512100)|Passmark CPU Mark: [13000+](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i3-12100&id=4687). ALT: i5-12400 ($135)
+CPU|Intel i3-12100 CPU, 60W|$115|[pcpartpicker](https://pcpartpicker.com/product/qrhFf7/intel-core-i3-12100-33-ghz-quad-core-processor-bx8071512100)|Passmark CPU Mark: [12000+](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i3-12100&id=4687). ALT: i5-12400 ($135)
 MOBO|ASRock B760M-ITX/D4|$150|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&s=40&f=8&sort=price&page=1)|ALT: [B660M/B760M uATX mobo](https://pcpartpicker.com/products/motherboard/#f=7&sort=price&xcx=0&s=40&K=5,13)
-MEM|Team T-Force Vulcan Z 32GB 2x16GB DDR4-3200|$50|[pcpartpicker](https://pcpartpicker.com/product/bcnypg/team-t-force-vulcan-z-32-gb-2-x-16-gb-ddr4-3200-cl16-memory-tlzgd432g3200hc16fdc01)|ALT: Team T-Force Vulcan Z 16GB 2x8GB DDR4-3200 ($35)
+MEM|G.Skill Aegis 32GB 2x16GB DDR4-3200|$50|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr4&S=3200,8400&Z=32768002&sort=price&page=1)|ALT: Aegis 16GB 2x8GB DDR4-3200 ($30)
 STORAGE|PNY Attache 4 32GB USB Flash Drive (BOOT)|$12|[amazon](https://www.amazon.com/PNY-Attache-Drives-3-Pack-P-FD32GX3ATT4-GE/dp/B07YVY2H1J)| USB 2.0 for low heat/longevity
-STORAGE|WD SN770 1TB NVMe M.2 SSD (APP/CACHE)|$70|[pcpartpicker](https://pcpartpicker.com/product/YVytt6/western-digital-1-tb-m2-2280-nvme-solid-state-drive-wds100t3x0e)|ALT: [SK Hynix P31 1TB](https://pcpartpicker.com/product/xNCFf7/sk-hynix-gold-p31-1-tb-m2-2280-pcie-30-x4-nvme-solid-state-drive-shgp31-1000gm-2)
+STORAGE|WD SN770 1TB NVMe M.2 SSD (APP/CACHE)|$70|[pcpartpicker](https://pcpartpicker.com/product/YVytt6/western-digital-1-tb-m2-2280-nvme-solid-state-drive-wds100t3x0e)|ALT: [SK Hynix P41 1TB](https://pcpartpicker.com/product/sw2WGX/sk-hynix-platinum-p41-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-shpp41-1000gm-2)
 STORAGE|3 x Seagate Exos X14 12TB HDD (DATA)|$540|[disctech](https://www.disctech.com/Seagate-Exos-X14-ST12000NM0538-12TB-3.5-LFF-6Gbps-7.2K-RPM-FastFormat-512e-Enterprise-SATA-Hard-Disk)| SEPARATE. ALT: [Ultrastar HC530 14TB](https://www.disctech.com/interface-types/SATA?order=relevance:asc&keywords=hc530) (better $/GB)
 STORAGE|IBM M1110 (x4)/LSI 9211-8i (x8) HBA - IT mode|$30|[ebay](https://www.ebay.com/sch/i.html?_nkw=%289211%2Cm1110%29&_sacat=56091&_from=R40&_trksid=m570.l1313&_dmd=1&_odkw=%289211%2Cm1110%29+%2Bcables&_osacat=56091&_sop=15&_ipg=60)|OPTIONAL. For more SATA ports + [cables](https://www.ebay.com/sch/i.html?_nkw=8087+cables&_sacat=0&_from=R40&_sop=15). ALT: [SATA card](https://www.amazon.com/10Gtek-Profile-Bracket-Controller-Expansion/dp/B09Y1PMZ2W)
 COOL|Noctua NH-U12S Redux CPU Cooler|$50|[pcpartpicker](https://pcpartpicker.com/product/vV7G3C/noctua-nh-u12s-redux-7075-cfm-cpu-cooler-nh-u12s-redux)|ALT: be quiet Pure Rock 2 ($40)
@@ -927,5 +927,5 @@ TOTAL		|											|$824			|	|
 
 ---
 
-*This page was last updated on 2025-05-26*
+*This page was last updated on 2025-06-01*
 
