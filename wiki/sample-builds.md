@@ -855,15 +855,15 @@ It's low profile so is good for a media cabinet. If you can handle more height o
 PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
 :--|:--|:--|:--|:--
 CASE	|	Silverstone Milo Z/ML-07		|	$105	|pcpartpicker	|15" (W)x4.1" (H)x13.8" (D). ALT: Silverstone GD-11 (6.9" (H), 30L)
-CPU	|	AMD Ryzen 5700X3D (105W)			|	$200	|pcpartpicker	|ALT: AMD Ryzen 7600X
+CPU	|	AMD Ryzen 9600X	    	    	|	$200	|[pcpartpicker](https://pcpartpicker.com/product/4r4Zxr/amd-ryzen-5-9600x-39-ghz-6-core-processor-100-100001405wof)	|ALT: AMD Ryzen 9700X
 GPU	|	Nvidia RTX 5060 Ti 16GB			|	$450	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&sort=price&c=593&P=17179869184,51539607552)	|ALT: AMD RX 7800 XT 16 GB
-MOBO	|	ASRock B550M-ITX/ac		|	$135	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&c=147,124,133,145,123,132,138&sort=price)	|ALT: Gigabyte B650 GAMING X AX ATX
-MEM	|	Teamforce VulcanZ 32GB 2x16GB DDR4-3600	|	$55	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr4&S=3600,3733&Z=32768002&sort=price)	|ALT: G.Skill Flare S5 2x16GB 32GB DDR5-6000
+MOBO	|	ASRock A610I Lightning ITX		|	$145	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&sort=price&s=41)	|ALT: Gigabyte B650 GAMING X AX ATX
+MEM	|	Silicon Power Pulse 32GB 2x16GB DDR5-6000	|	$70	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr5&Z=32768002&sort=price&S=5200,8400)	|ALT: G.Skill Flare S5 2x16GB 32GB DDR5-6000
 STORAGE	|	WD SN770 500GB M.2 (OS)	|	$50	|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&D=1&A=450000000000,525000000000&sort=price&page=1)	|ALT: WD SN770 1TB M.2 (OS)
 STORAGE	|	WD SN770 2TB M.2 (GAMES)	|	$120	|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&D=1&A=1800000000000,2048000000000&sort=price&t=0)	|
 PSU	|	Cooler Master V 850W SFX		|	$105	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&p=1,3,2&A=550000000000,2050000000000&sort=price&e=5,4,2)	|ALT: Corsair RM650x (2021) ATX
-COOL	|	Thermalright AXP120-X67	CPU Cooler	|	$35	|pcpartpicker	|ALT: Thermalright Silver Soul 135 (Air) / Arctic Liquid Freezer II 240 (AIO)
-TOTAL	|						|	**$1255**	|	
+COOL	|	Thermalright AXP120-X67	CPU Cooler	|	$35	|pcpartpicker	|ALT: Peerless Assassin Mini (Air) / Arctic Liquid Freezer II 240 (AIO)
+TOTAL	|						|	**$1280**	|	
 
 <!-- Section -->
 
