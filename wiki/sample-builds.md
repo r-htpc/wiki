@@ -830,7 +830,7 @@ TOTAL			|															|	**$229**	|			|
 
 ### 1080p Gaming Box (11.5L)
 
-This is a straight up gaming build for 1080p with High settings, averaging about 90-100 fps which is good for a 120 Hz TV.  
+This is a straight up gaming build for 1080p with High settings, averaging about 80+ fps which is good for a 120 Hz TV.  
 If you want a low profile case or support longer gpus, look at the ALT: config with a Silverstone ML-07 case instead.  
 
 PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
@@ -849,7 +849,7 @@ TOTAL	|						|	**$800**	|
 
 ### 1440p Gaming Box (14L)
 
-This is a straight up gaming build for 1440p with High settings, averaging about 90-100 fps which is good for a 120 Hz TV.  
+This is a straight up gaming build for 1440p with High settings, averaging about 80+ fps which is good for a 120 Hz TV.  
 It's low profile so is good for a media cabinet. If you can handle more height or want to beef up the perf, look at the ALT: notes. 
 
 PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
