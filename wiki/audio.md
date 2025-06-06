@@ -67,7 +67,7 @@ DTS-HD MA: Lossless, <= 25.4 Mbps. Up to 7.1 channels. Common in physical media,
 
 Dolby Atmos: Metadata around the TrueHD/DD+ codec. Lossless/Lossy indirectly. Up to 24.1.10 channels. Gold standard. Lossless can be played over full HDMI (1.3+) or eARC. Lossy DD+ 5.1 version can be played over HDMI ARC.  
 
-DTS:X: Metadata around the DTS-HD MA/DTS codec. Lossless. Up to 24.1.10 channels. Gold standard. Atmos competitor. Lossless can be played over full HDMI (1.3+) or eARC. Lossy DTS core for over Optical/HDMI ARC.  
+DTS:X: Metadata around the DTS-HD MA/DTS codec. Lossless. Up to 24.1.10 channels. Gold standard. Atmos competitor. Lossless can be played over full HDMI (1.3+) or eARC. Lossy DTS core for over Optical/HDMI ARC. Lossy IMAX Enhanced DTS:X for over HDMI ARC. 
 
 Dolby Atmos/DTS:X > Dolby TrueHD/DTS-HD MA > DD+/DTS-HD HRA > DD/DTS > AAC > Stereo  
 
