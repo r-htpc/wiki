@@ -517,5 +517,5 @@ MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Remote, Mini keyboard, and Air Mouse
 
 ---
 
-*This page was last updated on 2025-05-29*
+*This page was last updated on 2025-06-07*
 
