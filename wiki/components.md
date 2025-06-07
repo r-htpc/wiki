@@ -80,7 +80,7 @@ Below are the minimum CPUs required for each scenario and a recommendation. **Al
   - Both CPUs will play 4K/HDR/h264/h265/VP9 media just fine and run 4k@60hz. The 5500GT will have more graphics power for emulation/casual gaming, but the 12100 will have newer AV1 media decoding, so is a little more future-proofed.
   - If the 5500GT isn't available in your region, then the 5600GT/5600G.
 
-- 1080p, No gaming: Intel >= i3/i5/i7-7xxx iGPU, Pentium G4xxx or Apollo/Gemini Lake J3xxx, AMD Athlon 3000G, AMD >= Ryzen 3 2200G APU (REC: Intel G7400)  
+- 1080p, No gaming: Intel >= i3/i5/i7-7xxx iGPU, Pentium G4xxx or Apollo/Gemini Lake J3xxx, AMD Athlon 3000G, AMD >= Ryzen 3 2200G APU (REC: Used: Ryzen 3200G New: Intel G6900)  
 
 - Emulators: 1080p: AMD >= Ryzen 5 3400G APU. 720p: AMD >= Ryzen 3 3200G APU (REC: Used: Ryzen 4600G, New: Ryzen 5500GT)  
 
