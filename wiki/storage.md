@@ -383,7 +383,7 @@ Volume Management:
 
 Disk Management:
   - [KeepAliveHD](https://github.com/stsrki/KeepAliveHD) (Windows) / [KeepDriveSpinning](http://jon.stovell.info/software/keep-drive-spinning/) (Mac) - Keep HDDs without power mgmt disable from spinning down.
-  - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) (Windows) / [AmorphousDiskMark](https://apps.apple.com/us/app/amorphousdiskmark/id1168254295?mt=12) (Mac) - SMART info, Power mgmt, Notifications
+  - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) (Windows) / smartmontools-win / [AmorphousDiskMark](https://apps.apple.com/us/app/amorphousdiskmark/id1168254295?mt=12) (Mac) - SMART info, Power mgmt, Notifications
   - [HDDScan](https://hddscan.com/) - Diagnostics, SMART Info, Power Mgmt
   - [WD Drive Utilities](https://support.wdc.com/downloads.aspx?DL=#WD_softwarepc) - Diagnostics, Format, Power Mgmt
   - smartctl / [hd-idle](http://hd-idle.sourceforge.net/) (Linux) - SMART info / Power Mgmt
