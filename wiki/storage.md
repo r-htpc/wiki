@@ -127,8 +127,8 @@ BRAND		|	MODEL				|	DRIVES	|COST	|	TRANSCODING		|	CPU								|	PASSMARK	|	PM/$|	
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--
 **Terramaster**|	**[F2-212](https://www.terra-master.com/global/products/homesoho-nas/f2-212.html?page=menu&mid=1448)**				|	2	|	$170	|	Some 1080p/None	|	ARMv8.2 (Realtek 1619B) 1.7Ghz		|		NA		|	NA	|	RAID 0/1, TRAID, JBOD, Single	|	ext4/btrfs, 1GB RAM, 1 Gb/s
 QNAP			|	TS-233				|	2	|	$200	|	Some 1080p/None	|	ARMv8.2 4-core 2.0Ghz		|		NA		|	NA	|	RAID 0/1, JBOD, Single	|	ext4, 2GB RAM, 1 Gb/s
-Asustor			|	AS-1102T			|	2	|	$180	|	Some 1080p/None	|	ARMv8 (Realtek 1296) 1.4Ghz			|		NA		|	NA	|	RAID 0/1, JBOD, Single		|	ext4, 1GB RAM, 2.5 Gb/s
-Synology		|	DS220j				|	2	|	$190	|	Some 1080p/None	|	ARMv8 (Realtek 1296) 1.4Ghz	|		NA		|NA|	SHR, RAID 0/1, JBOD, Single	|	ext4, 512MB RAM, 1 Gb/s
+Asustor			|	AS-1102TL			|	2	|	$175	|	Some 1080p/None	|	ARMv8 (Realtek 1619B) 1.7Ghz			|		NA		|	NA	|	RAID 0/1, JBOD, Single		|	ext4, 1GB RAM, 1 Gb/s
+Synology		|	DS223j				|	2	|	$190	|	Some 1080p/None	|	ARMv8 (Realtek 1619B) 1.7Ghz	|		NA		|NA|	SHR, RAID 0/1, JBOD, Single	|	ext4, 1 GB RAM, 1 Gb/s
 
 **JUST STORAGE - 4+ drives**  
 
@@ -388,6 +388,9 @@ Disk Management:
   - [WD Drive Utilities](https://support.wdc.com/downloads.aspx?DL=#WD_softwarepc) - Diagnostics, Format, Power Mgmt
   - smartctl / [hd-idle](http://hd-idle.sourceforge.net/) (Linux) - SMART info / Power Mgmt
 
+Data Sync:
+  - rsync / freefilesync / syncthing
+
 Benchmarking:
   - Windows: [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/), [hdtune](https://www.hdtune.com/)
   - Linux: dd / hdparm
@@ -408,5 +411,5 @@ If your storage is on a windows-based OS, [follow these instructions](https://su
 
 ---
 
-*This page was last updated on 2025-04-30*
+*This page was last updated on 2025-06-09*
 
