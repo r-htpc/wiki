@@ -118,7 +118,6 @@ QNAP		|	TS-364-8G				|	3	|	$490	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		40
 ASUSTOR		|	AS-5404T			|	4	|	$530	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094|	7.74	|RAID 0/1/5/6/10,JBOD,Single|4GB RAM, 2x2.5Gb/s, ext4/btrfs
 QNAP		|	TS-464-8G				|	4	|	$550	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094	|	 7.44	|RAID 0/1/5/6/10, JBOD,Single|ext4, 8GB RAM, 2.5 Gb/s
 Synology	|	DS423+				|	4	|	$500	|	Some/4k (1b)			|	x64 (Celeron J4125) 2.0 Ghz		|		3035	|	6.07	||2GB RAM
-QNAP		|	TS-453D-4G				|	4	|	$500	|	Some/4k (1b)			|	x64 (Celeron J4125) 2.0 GHz		|		3035	|	6.07	|RAID 0/1/5/6/10,JBOD,Single|ext4, 4GB RAM
 Terramaster		|	[T6-423](https://www.terra-master.com/global/products/smallmedium-businesses-nas/t6-423.html?page=menu&mid=1236)				|	6	|	$700	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094	|	 5.84	|RAID 0/1/5/6/10,JBOD,Single|ext4/btrfs, 4GB RAM (32)
 Synology	|	DS1522+				|	5	|	$700	|	1080p			|	x64 (Ryzen R1600) 2.6 Ghz		|		3300|	4.71	||8GB RAM, 1 Gb/s x4
 
@@ -150,6 +149,10 @@ Transcoding = Plex transcoding ability, referenced in [plex's transcoding spread
 (2) HW Transcoding: 1x 4k or 3x 1080p. SW Transcoding: 1x 1080p  
 (3) HW Transcoding: 2x 1080p. SW Transcoding: 2x 720p  
 (4) HW Transcoding: 1x 1080p. SW Transcoding: 1x 720p  
+
+<!-- DISCONTINUED
+QNAP		|	TS-453D-4G				|	4	|	$500	|	Some/4k (1b)			|	x64 (Celeron J4125) 2.0 GHz		|		3035	|	6.07	|RAID 0/1/5/6/10,JBOD,Single|ext4, 4GB RAM
+-->
 
 ### Ad-Hoc  
 
