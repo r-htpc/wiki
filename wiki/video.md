@@ -72,8 +72,8 @@ You can calculate video bitrate by applying the formula
 ### **Video Transports/Interfaces**
 
 HDMI 1.4: Digital. 10 Gbps. 4K @ 30 Hz  
-HDMI 2.0: Digital. 18 Gbps. 4K @ 60 Hz. HDR  
-HDMI 2.1: Digital. Up to 48 Gbps. 4K @ 144 Hz. HDR+  
+HDMI 2.0/2.1 TMDS: Digital. 18 Gbps. 4K @ 60 Hz. HDR  
+HDMI 2.1 FRL: Digital. Up to 48 Gbps. 4K @ 144 Hz. HDR+  
 Displayport 1.2 (native): Digital. Displayport on both ends. 20 Gbps. 4K @ 60 Hz  
 Displayport 1.4 (native): Digital. Displayport on both ends. 32 Gbps. 4K @ 120 Hz. HDR  
 Displayport (Alternate mode): Digital. Displayport/USB->HDMI cable/adapter  
@@ -291,10 +291,10 @@ To confuse things even more, sometimes Full and Limited are called by other name
 2. Change your Display to:
  - If for 4k, Have a HDMI signal format of *UHD Deep Color/Input Signal Plus/Enhanced*
  - Have a color space of RGB/Native (where available) or Auto. Change the input range to Full. As a last resort, put your Display in PC or Game Mode. This will remove a lot of Display processing options, so if this is not desired, you may want to use Scenario #2's Limited settings for this step and step #3.  
-3. Change your GPU driver settings to a Resolution, Refresh Rate, Color/Pixel Format, Color Depth based on the below for your video interface. Only use ALT: if you know what you're doing.
+3. Change your GPU driver settings to a Resolution, Refresh Rate, Color/Pixel Format, Color Depth based on the below for your video interface. Check you GPU/mobo specs for what the max supported is. Only use ALT: if you know what you're doing.
  - HDMI 1.4: 3840x2160, 30 Hz, RGB, 8-bit : 1920x1080, 120 Hz, RGB, 8-bit (ALT: 10-bit w/color format YCbCr 420) 
- - HDMI 2.0: 3840x2160, 60 Hz, RGB, 8-bit (ALT: 10-bit w/color format YCbCr 420) 
- - HDMI 2.1: 3840x2160, 120 Hz, RGB, 10-bit
+ - HDMI 2.0/2.1 TMDS: 3840x2160, 60 Hz, RGB, 8-bit (ALT: 10-bit w/color format YCbCr 420) 
+ - HDMI 2.1 FRL: 3840x2160, 120 Hz, RGB, 10-bit
  - Displayport 1.2: 3840x2160, 75 Hz/8-bit - 60 Hz/10-bit, RGB
  - Displayport 1.4: 3840x2160, 120 Hz, RGB, 10-bit
 4. Run the Contrast, Black Level and Gradient tests from [Lagom LCD Tests](http://www.lagom.nl/lcd-test/)
@@ -688,7 +688,7 @@ Way 4: Remote (separate client + software)
 
 Keep in mind we assume a HDMI input will be on your Display (TVs/Projectors, which is our only concern here).  
 
-You will need to have HDMI 2.1 bandwidth on every HDMI device between your HTPC and your Display (GPU, TV, AVR, Switches, etc..). Simply having "HDMI 2.1" does not mean 4k@120 Hz bandwidth will be supported; this is an important distinction, so make sure they state 4k@120 hz support and/or >= 32 Gbps bandwidth (for at least media content) or >= 40 Gbps for gaming.  
+You will need to have HDMI 2.1 FRL bandwidth on every HDMI device between your HTPC and your Display (GPU, TV, AVR, Switches, etc..). Simply having "HDMI 2.1" does not mean 4k@120 Hz bandwidth will be supported; this is an important distinction, so make sure they state 4k@120 hz support and/or >= 32 Gbps bandwidth (for at least media content) or >= 40 Gbps for gaming.  
 
 **Options below for this are ordered from best to worst in terms of stability and reliability.** 
 
