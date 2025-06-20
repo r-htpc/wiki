@@ -904,7 +904,7 @@ If you have a limited budget, but want really nice speakers, consider starting w
 2. If you have limited space and a small budget:  
    $680 : $300 Sony STR-DH590/RX-V385 receiver, $250 [Dayton Audio BS41 3.0](https://www.parts-express.com/Dayton-Audio-BS41-41-LCR-Speaker-Bar-Black-300-686?quantity=1) Speaker Bar, $130 Dayton Audio [MKSX4](https://www.parts-express.com/Dayton-Audio-MKSX4-Four-4-Driver-Low-Profile-Passive-Subwoofer-300-495)/SUB-800 Sub  
 *- HDMI 2.0, 4K HDR, 3.1 channels effective (5.1 expandable), TrueHD/DTS-HD MA lossless sound, ARC (DH590)/eARC (V385)*  
-$450 : Vizio M512a-H6/Samsung HW-Q600C Sound Bar  
+$450 : Vizio M512a-H6/Samsung HW-Q600C Sound Bar - [Our custom rtings search](https://www.rtings.com/soundbar/tools/table/170868)  
 *- HDMI 2.0, 4K HDR, 5.1.2 (Vizio)/3.1.2-5.1.2 (Samsung) channels, Dolby Atmos/DTS:X lossless sound, eARC*  
 
 3. If you have limited space and a higher budget:  
