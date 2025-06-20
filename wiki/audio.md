@@ -889,7 +889,7 @@ If you have a limited budget, but want really nice speakers, consider starting w
 -->
 1. If just using analog/optical/usb/ARC connections and don't want/can't use a receiver:  
     - For 2.x:
-      - *Active/Powered*: Get good, analog, powered speakers, with optionally a USB DAC and Studio Subwoofer.  
+      - *Active/Powered*: Get good, powered speakers, with optionally a DAC and/or Studio Subwoofer.  
         - Good: [NEUMI BS5P-ARC](https://www.amazon.com/75-Watt-Powered-Bookshelf-Speakers-Bluetooth/dp/B08LV4SMH9/) (37.5Wx2) + ARC/Optical/[3.5mm->RCA Cable](https://amazon.com/Hosa-CMR-206-Stereo-Breakout-Cable/dp/B000068O3B) ($170) (OPTIONAL: Sub: [Dayton SUB-800 (80W)](https://www.parts-express.com/Dayton-Audio-SUB-800-8-80-Watt-Powered-Subwoofer-300-627) ($135))
         - Better: [Fluance Ai41](https://www.amazon.com/Fluance-Bookshelf-Amplifier-Turntable-Bluetooth/dp/B094YXTSFD) (45Wx2) + Optical/[3.5mm->RCA Cable](https://amazon.com/Hosa-CMR-206-Stereo-Breakout-Cable/dp/B000068O3B) ($250) (OPTIONAL: Sub: [Fluance DB10 (120W)](https://www.amazon.com/Fluance-10-inch-Frequency-Powered-Subwoofer/dp/B01MS9NG39) ($200))
         - Best: [JBL 305P (pair)](https://www.amazon.com/JBL-Professional-Next-Generation-Powered-Monitor/dp/B088VSBV65) (82Wx2) + either (USB) [Topping D10 Balanced](https://www.amazon.com/Topping-D10-Balanced-ES9038Q2M-PCM384kHz/dp/B099W3335Q) w/[TRS Cablesx2](https://www.amazon.com/Monoprice-Premier-Inch-Male-Cable/dp/B003L11F68) or (ARC/Optical) [Fosi ZD3](https://www.amazon.com/Fosi-Audio-ZD3-Converter-ES9039Q2M/dp/B0DHXH9RLZ) w/[XLR cablesx2](https://www.amazon.com/Monoprice-104752-Premier-Male-Female/dp/B002PAOMSY). (OPTIONAL: Sub: JBL LSR310S (200W) + XLR cables (Sub->Speakers) ($300))
