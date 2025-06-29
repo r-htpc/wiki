@@ -373,9 +373,10 @@ BROWSERS/STREAMING SERVICES:
 1. Make sure your service supports the video codec/resolution you want to play. See: [Wiki:FAQ:What resolution and audio is supported on streaming service X?](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x)
 2. If 4k, make sure you have the proper hardware and dependency software. See [here](/wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility).
 3. If applicable, install the app for your service from the Microsoft store or use a browser listed in step 1's link for the desired res/audio.
-4. Make sure Graphics accleration and DRM is enabled in your browser. Search for "acceleration" or "performance" in your browser's settings page for acceleration. "DRM" or "Widevine" for DRM. Restart your browser after any change.  
-5. If HDR, see: [Wiki:HDR Setup Guide:Streaming Content (Netflix, Youtube, etc..)](/wiki/hdr#streaming-content-netflix-youtube-etc)  
-6. Test your browser's video capabilities with [Dolby's capabilities test website](https://ott.dolby.com/codec_test/index.html)  
+4. Make sure Graphics accleration and DRM is enabled in your browser. Search for "acceleration" or "performance" in your browser's settings page for acceleration. "DRM" or "Widevine" for DRM. Restart your browser after any change.
+5. Set up Audio bitstreaming. See [Wiki:Audio Setup Guide:Application Specific Setup for Bitstreaming](https://r-htpc.github.io/wiki/audio#application-specific-setup-for-bitstreaming).
+6. If HDR, see: [Wiki:HDR Setup Guide:Streaming Content (Netflix, Youtube, etc..)](/wiki/hdr#streaming-content-netflix-youtube-etc)  
+7. Test your browser's video capabilities with [Dolby's capabilities test website](https://ott.dolby.com/codec_test/index.html)  
 
 MPC-BE:  
 1. View->Options->Internal Filters->Video Decoders->Video Decoder Configuration
