@@ -702,7 +702,7 @@ Media content (HDR/10-bit/4:2:2) is technically possible without DSC support. Ga
   
 1. DiY: Any [decent cpu/motherboard](/wiki/components#motherboards) or [OEM build](https://www.ebay.com/sch/i.html?_from=R40&_nkw=sff+%28i5-7400%2Ci3-8100%2Ci5-8400%2Ci5-8500%2Ci3-9100%2Ci5-9400%2Ci5-9500%29&_sacat=179&_odkw=sff+%28i3-9100%2Ci5-9400%2Ci5-9500%29&_osacat=179&LH_BIN=1&_sop=15) + a discrete GPU w/a 4k@120 Hz HDMI 2.1. e.g. RTX 3050 6GB LP, Radeon RX 6400 
 2. DiY: An AMD Ryzen 8xxxG or Intel Core Ultra 2xx desktop CPU and respective motherboard that states 4k@120Hz HDMI 2.1. e.g. Ryzen 8500G + ASRock A620I/B650I Lightning Wifi mobo/ASRock Deskmini X600, Intel Core 225 + ASRock B860I Lightning, for a realistic max of 4:2:2 10-bit HDR. 
-3. Pre-built: A Ryzen 6000+ or Intel 11th+ gen Mini PC with a 4k@120Hz HDMI 2.1 port. e,g. Ryzen: Minisforum UM760 Slim, Beelink SER6 Max, ASRock 4x4 7535U/8640U, Intel: Gigabyte Brix Extreme
+3. Pre-built: A Ryzen 6000+ or Intel 11th+ gen Mini PC with a 4k@120Hz HDMI 2.1 port. e.g. see [Wiki:Sample Builds:Specialized: 4K@120hz](/wiki/sample-builds#specialized-4k120hz)
 4. Pre-built: An Intel 11th+ gen Mini PC with a Thunderbolt display out connector and a Thunderbolt->HDMI adapter/cable. e.g. Intel NUC [11](https://www.google.com/search?q=nuc11pahi5&oq=nuc11pahi5)/[12/13](https://www.newegg.com/p/pl?N=100008345%2050001157%20601331497&Order=1&SrchInDesc=nuc+12)/Lenovo IdeaCentre Mini Gen 8 + [Thunderbolt->HDMI 2.1 Cable](https://www.amazon.com/Cable-Matters-48Gbps-Adapter-Supporting/dp/B08QDV5H4M) 
 5. DiY: Intel 12th+ Gen CPU and respective motherboard with a Thunderbolt display out connector out and a [Thunderbolt->HDMI 2.1 Cable](https://www.amazon.com/Cable-Matters-48Gbps-Adapter-Supporting/dp/B08QDV5H4M). Not as good as straight HDMI, but better compared to DP or plain USB-C. This will likely be expensive as these boards are rare. e.g. for an ITX board, look at the Asus ROG STRIX Z690-I GAMING WIFI, ASRock Z690 Phantom Gaming-ITX/TB4 or ASRock Z790 PG-ITX/TB4. 
 6. Hybrid/DiY: An Intel 11th+ gen CPU and motherboard w/a USB-C Display Out and a USB-C->HDMI adapter/cable. e.g. ASRock Deskmini B660 + 
@@ -793,5 +793,5 @@ Ideal Youtube tests - Test if GPU can decode youtube content - 1080p/4k, VP9/AV1
 
 ---
 
-*This page was last updated on 2025-05-27*
+*This page was last updated on 2025-07-02*
 
