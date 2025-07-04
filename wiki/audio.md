@@ -295,12 +295,22 @@ You should **configure Scenario #1 for decoded PCM first and then, optionally, c
 
 The first way is decoding and channelization. This means the media application playing your content converts the audio to the common PCM format you read about above and sends it to your sound system through the OS mixer/renderer (e.g. Windows DirectSound), for use over a digital or analog audio interface. The target sound system has no knowledge of the codec being played, if there was one.  
 
-This scenario is used for such things as **Gaming**, analog audio interfaces, sound systems/displays where specific encoded codecs, like Dolby/DTS/AAC/etc, are not supported, streaming services that only support Stereo, and/or when you want to modify the audio using middleware (upmixing, equalizing, creating fake spatial audio).
+This scenario applies for such things as **Gaming**, analog audio interfaces, sound systems/displays where specific encoded codecs, like Dolby/DTS/AAC/etc, are not supported, streaming services that only support Stereo, and/or when you want to modify the audio using middleware (upmixing, equalizing, creating fake spatial audio).
 
 **On a Windows HTPC, this is the DEFAULT scenario for audio and Stereo is the default output unless configured below!**  
 
 Start by setting up your Speaker configuration in your OS so it knows how many channels your sound system has.  
-To do this in Windows: Open Windows Sound control panel (run mmsys.cpl) -> \<your_audio_device\> -> Configure -> Select your speaker configuration -> Next -> Optionally configure the speakers you have/don't have. Click 'Test' and confirm all channels you're configuring are being represented properly.  
+To do this in Windows:
+ - Open Windows Sound control panel (run mmsys.cpl) -> \<your_audio_device\> -> Configure
+ - Select your speaker configuration -> Next -> Optionally, configure the speakers you have/don't have. Click 'Test' and confirm all channels you're configuring are being represented properly.
+ - Optionally, enable the speakers as Full-Range if you don't have a subwoofer or if you have a Sound System (AVR, analog speakers, DAC, or sound card) that can/you want to manage the subwoofer cross-over frequency.  
+
+To do this in Linux:
+ - Run `alsamixer` from a terminal window
+ - Press F6 to select your audio device
+ - Change Channel Mode/Mappings to your speaker configuration, e.g. 6 for a 5.1 sound system.
+ - Optionally, run `pavucontrol` to set levels and additional settings
+
 **If you're trying to configure more than Stereo but the option isn't available or channels aren't being represented, it's usually because:**
  - Your setup is limited by hardware (audio interfaces, sound system support, display passthrough mis-configuration). Double-check that all the connected equipment and interfaces support PCM in the channel config you want. For instance, don't use an Optical or regular ARC audio interface that only supports PCM 2.0 as per above and try to configure PCM 5.1 surround; if you need 5.1, re-encode [your media](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital) or [game audio](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) to a bitstreamable codec. 
  - Your setup is limited by software or a mis-configuration. You haven't set up audio passthrough properly in your display, your sound system is not in direct mode, your speakers are mis-configured at your sound system or you installed/configured middleware audio software (like an APO, Spatial Sound, Mixer, Dolby Access/DTS Connect) before doing this setup.
@@ -1098,5 +1108,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2025-06-11*
+ *This page was last updated on 2025-07-04*
 
