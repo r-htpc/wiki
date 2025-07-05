@@ -411,8 +411,8 @@ BRAND/MODEL|PRICE|RESOLUTION|4k NETFLIX|HDR|WLAN/LAN|VOICE|USB|RATING|NOTES
 [Nvidia Shield TV (2017)](https://www.nvidia.com/en-us/shield/shield-tv/) ([buy](https://smile.amazon.com/NVIDIA-SHIELD-Gaming-Streaming-GeForce/dp/B075RXV2VR))|$179|4k@60|YES|10|ac/1000M|YES|YES (8b)|V:Better A:**Best**|PT:**LL DA/DTSX**, 16GB, NTFS
 [Xbox One S/X](https://www.xbox.com/en-US/xbox-one/consoles) ([buy](https://smile.amazon.com/gp/bestsellers/electronics/6469295011))|$200-$400|4k@60|YES|10/DV|ac/1000M|No|YES (8b)|V:Better A:**Best**|PT:LL DA/DTSX, 1TB, UHD-BR
 Mini PC: Optiplex ([buy](/wiki/sample-builds#4k-hdr-players))|$100|4k@60 (10a)|YES|10|ax/1000M|NO|YES (8b)|V:Better A:**Best**|HEVC, PT:**LL DA/DTSX**
-Mini PC: Beelink EQR6 6600H ([buy](/wiki/sample-builds#4k-hdr-players))|$275|4k@60|NO|10|ax/1000M|NO|YES (8b)|V:Better A:**Best**|AV1, PT:**LL DA/DTSX**
-Mini PC: NUC i3/i5/i7 ([buy](/wiki/sample-builds#4k-hdr-players))|$300-$700|4k@60|YES|10|ax/1000M|NO|YES (8b)|V:Better A:**Best**|AV1 (3), PT:**LL DA**/DTSX, HDMI-CEC
+Mini PC: Beelink EQR6 (6600) ([buy](/wiki/sample-builds#4k-hdr-players))|$270|4k@60|NO|10|ax/1000M|NO|YES (8b)|V:Better A:**Best**|AV1, PT:**LL DA/DTSX**
+Mini PC: NUC i3/i5/i7 ([buy](/wiki/sample-builds#4k-hdr-players))|$300-$700|4k@60|YES|10|ax/1000M|NO|YES (8b)|V:Better A:**Best**|AV1 (3), PT:**LL DA/DTSX**, HDMI-CEC
 
 <!-- FINISH:TEST -->
 
@@ -836,5 +836,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2025-06-01*
+*This page was last updated on 2025-07-05*
 
