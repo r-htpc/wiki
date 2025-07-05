@@ -623,14 +623,16 @@ You should read [this guide](https://drive.google.com/file/d/1N3FaJmIQicN8TEPzPz
 
 In addition, the following things may fix and/or help you identify your problem:
 1. If you're using HDMI/DP for your audio, Re-installing your GPU drivers by first un-installing them with the [DDU Utility](https://www.guru3d.com/download/display-driver-uninstaller-download/).
-2. Disable all extra audio processing such as audio enhancements, re-encoding, mixing/equalizing, and/or spatial (Dolby Access/DTS Unbound) software. Test again.
-3. If the content is coming from over a network, copy it to local storage on the HTPC. Test again.
-4. If you're bitstreaming an audio codec in your media player, disable it to decode the codec to PCM. Test again. If you usually are decoding the codec, enable bitstreaming for it, where possible. Test different audio codecs to see if the issue is specific to certain codecs.
-5. If you're using HDMI/DP for your audio, Trying newer or older versions of your GPU drivers.
-6. Re-installing your operating system to a clean state and testing your content again before installing everything else.
-7. Installing a different version of your operating system. e.g. Windows 10 instead of 11, or vice-versa.
+2. Disabling all extra audio processing such as audio enhancements, re-encoding, mixing/equalizing, and/or spatial (Dolby Access/DTS Unbound) software. Test again.
+3. Testing with your Video driver's power management set to maximum performance
+4. If you're using HDMI/DP for your audio, testing with the generic "High Definition Audio Device" Windows driver for your Display/HD audio device under Device manager->Sound, video, and game controllers->\<Display/HD audio device\>->Update Driver->Browse..->Let me pick..-->High Definition Audio Device
+5. If the content is coming from over a network, copy it to local storage on the HTPC. Test again.
+6. If you're bitstreaming an audio codec in your media player, disable it to decode the codec to PCM. Test again. If you usually are decoding the codec, enable bitstreaming for it, where possible. Test different audio codecs to see if the issue is specific to certain codecs.
+7. If you're using HDMI/DP for your audio, Trying newer or older versions of your GPU drivers.
 8. Running the [LatencyMon](https://www.resplendence.com/latencymon) utility during playback to help identify drop-out causes.
 9. Replacing your [audio](/wiki/audio#accessories)/[video](/wiki/components#video-cablesadapters) cables, perhaps due to loss of signal integrity because of excessive length, excessive terminations and/or bad cable quality.
+10. Re-installing your operating system to a clean state and test your content again before installing everything else.
+11. Installing a different version of your operating system. e.g. Windows 10 instead of 11, or vice-versa.
 
 <!-- Sub-Section -->
 
@@ -1108,5 +1110,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2025-07-04*
+ *This page was last updated on 2025-07-05*
 
