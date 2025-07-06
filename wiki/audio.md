@@ -819,9 +819,10 @@ If you want to, and can, support **Dolby Atmos** from your games:
 * Open the app and select Products -> Dolby Atmos for Home Theater -> Setup -> Continue.
 * Open Windows Control Panel -> Sound -> \<your_sound_device\>
   - Properties -> Enhancements -> ALL unchecked
-  - Properties -> Advanced -> Default Format: Dolby Atmos.., Exclusive Mode: all checked
+  - Properties -> Advanced -> Default Format: Dolby Atmos.., Exclusive Mode: all UN-checked
   - Properties -> Spatial sound -> Spatial sound format: Dolby Atmos..
   - Configure -> Select Dolby Atmos for Home Theater -> Next, and configure the speakers you have in the following screens.
+* **NOTE: Setting the Exclusive Mode options as un-checked will impair your ability to bistream audio codecs from local media player apps and run all audio through Atmos spatial audio instead, creating fake spatial audio. It this is not desired, leave the Exclusive Mode options checked!** The behavior and effects of running both Atmos-based games and bitstreamed audio is currently undefined without changing the setting every time your content changes.
 * NOTE: Your sound system may show 'Multi-In' during playback, while your sound device properties shows 'Dolby MAT'. This is normal.
 * **NOTE: If Dolby Atmos using Dolby Access is causing a delay, you're likely using eARC passthrough on your TV. Workarounds are:**
   - Use Scenario #1/#3/#4 in the [Hardware Setup](/wiki/audio#hardware-setup) section above.
