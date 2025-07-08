@@ -506,7 +506,7 @@ MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Remote, Mini keyboard, and Air Mouse
   - CEC can be used to send/receive commands from your TV to your PC over HDMI using your TV's remote. This is not standard on a PC. Either get a [HDMI-CEC enabled HTPC](/wiki/sample-builds#specialized-hdmi-cec) or to get [CEC](https://kodi.wiki/view/CEC) functionality where none exists, use a [Pulse Eight](https://www.pulse-eight.com/p/104/usb-hdmi-cec-adapter) adapter.
 
 - Software support
-  - [Plex HTPC](https://support.plex.tv/articles/plex-htpc-input-maps/), [Kodi](https://kodi.wiki/view/Remote_controls), and [Jriver Media Center](https://wiki.jriver.com/index.php/Remotes) all support multiple remote types. You can also use [AutoHotKey](https://www.autohotkey.com/) and [EventGhost](https://github.com/EventGhost/EventGhost/releases) (Windows), [Input-Mapper](https://github.com/sezanzeb/input-remapper) and [LIRC](https://www.lirc.org/) (Linux), and Pulse Eight's [libCEC Tray w/HDMI-CEC](https://github.com/Pulse-Eight/libcec/releases) to re-map buttons/automate keyboard tasks.  
+  - [Plex HTPC](https://support.plex.tv/articles/plex-htpc-input-maps/), [Kodi](https://kodi.wiki/view/Remote_controls), and [Jriver Media Center](https://wiki.jriver.com/index.php/Remotes) all support multiple remote types. You can alternatively use [AutoHotKey](https://www.autohotkey.com/), FLIRC, and [EventGhost](https://github.com/EventGhost/EventGhost/releases) (Windows), [Input-Mapper](https://github.com/sezanzeb/input-remapper) and [LIRC](https://www.lirc.org/) (Linux), and Pulse Eight's [libCEC Tray w/HDMI-CEC](https://github.com/Pulse-Eight/libcec/releases) to re-map buttons/automate keyboard tasks.  
 
 - Elderly setups
   - For remotes/setups for the elderly, see our specific [section](/wiki/faq#how-can-i-set-up-an-htpc-for-the-elderlydisabled) in the faq  
@@ -516,5 +516,5 @@ MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Remote, Mini keyboard, and Air Mouse
 
 ---
 
-*This page was last updated on 2025-06-07*
+*This page was last updated on 2025-07-08*
 
