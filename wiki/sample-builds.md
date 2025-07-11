@@ -409,7 +409,7 @@ TOTAL||$690||
 
 A build for ripping DVD/FHD Blu Ray and UHD Blu Ray discs. As such, it has space for 5.25 drives and 5-6 HDDs to make this into a NAS/media server as well.  
 If you don't need the drive space and want something smaller, consider the Silverstone ML03/ML04 (16L) or In Win CE685 (12L).   
-Alternatively, if you want a different form factor or more HDD space look at Silverstone's GD06 (4)/TJ08B-E (6)/GD07 (8)/GD08 (9).  
+Alternatively, if you want a different form factor or more HDD space look at Silverstone's GD06 (4)/GD07 (8)/GD08 (9).  
 
 This uses a modern 10-core CPU w/IGPU for very fast Handbrake transcoding performance. This is a high watt part and necessitates a good tower CPU cooler. If you go with one of the smaller/shorter cases, you can either lower the TDP on the CPU or switch to a i5-12400 w/stock cooler.  
 
@@ -421,8 +421,8 @@ If you can't afford to spend this much, buy a 2nd-hand pre-built and make some u
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
-CASE	|Silverstone PS07				|$110	|	[pcpartpicker](https://pcpartpicker.com/product/qmtCmG/silverstone-case-sstps07b)	| [specs](https://www.silverstonetek.com/en/product/info/computer-chassis/PS07/). ALT: Silverstone ML03
-CPU		|Intel i5-12600K CPU, 125W				|$175	|	[pcpartpicker](https://pcpartpicker.com/product/BB4Ycf/intel-core-i5-12600k-37-ghz-6-core-processor-bx8071512600k)	|	ALT: i5-12400 ($135)
+CASE	|Silverstone TJ08B-E/PS07				|$135	|	[pcpartpicker](https://pcpartpicker.com/product/WcphP6/silverstone-case-tj08be)	| [specs](https://www.silverstonetek.com/en/product/info/computer-chassis/TJ08-E/). ALT: Silverstone ML03
+CPU		|Intel i5-12600K CPU, 125W				|$150	|	[pcpartpicker](https://pcpartpicker.com/product/BB4Ycf/intel-core-i5-12600k-37-ghz-6-core-processor-bx8071512600k)	|	ALT: i5-12400 ($135)
 MOBO	|ASRock B760M Pro RS MicroATX	|$125	|	[pcpartpicker](https://pcpartpicker.com/product/pTbTwP/asrock-b760m-pro-rs-micro-atx-lga1700-motherboard-b760m-pro-rs)	|	ALT: [Other uATX mobos](https://pcpartpicker.com/products/motherboard/#xcx=0&c=154,163,152,162&f=7&sort=price&mt=ddr5)
 MEM		|Teamgroup T-Create Expert 32GB 2x16GB DDR5-6000			|$85	|	[pcpartpicker](https://pcpartpicker.com/product/H9CZxr/teamgroup-t-create-expert-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-ctced532g6000hc30dc01)	|	ALT: Teamgroup Elite 16GB 2x8GB DDR5-5200 ($45)
 STORAGE	|LG WH16NS40 UHD Blu-Ray Drive			|$70	|	[pcpartpicker](https://pcpartpicker.com/product/QZ6BD3/lg-optical-drive-wh16ns40)	|	ALT: ASUS BW-16D1HT ($100)
