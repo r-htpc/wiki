@@ -186,9 +186,9 @@ Intel 7th gen+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDMI 2.0 po
 
 ### Specialized: Media client, server, storage system combos
 
-- $350 - 1080p, low-medium 4k content, Light Transcoding: Fire TV 4k (client) + GMKtec G3 Plus (server) + Terramaster F2-212 (storage)
+- $400 - 1080p, low-medium 4k content, Light Transcoding: Fire TV 4k Max (client) + GMKtec G3 Plus (server) + Terramaster F2-212 (storage)
 
-  - 4k HDR10/DV-5/8, Dolby TrueHD Atmos, DTS, 3x4k,10x1080p transcodes, 2xHDDs (WD Ultrastar/Seagate Exos), Ubuntu/Windows, Plex Pass/Jellyfin
+  - 4k HDR10+/DV-5/8, Dolby TrueHD Atmos, DTS, 3x4k,10x1080p transcodes, 2xHDDs (WD Ultrastar/Seagate Exos), Ubuntu/Windows, Plex Pass/Jellyfin
 
 - $600 - 4k, high-bitrate, Light Transcoding: Nvidia Shield Pro (client) + GMKtec G3 Plus (server) + Terramaster F4-212 (storage)
 
