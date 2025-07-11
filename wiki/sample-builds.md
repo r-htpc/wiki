@@ -286,7 +286,7 @@ PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE			|Silverstone ML03					|$100	|[pcpartpicker](https://pcpartpicker.com/products/case/#sort=price&m=63&t=11)	|17.2" (W) x 13.3" (D) x 4" (H). [specs](https://www.silverstonetek.com/en/product/info/computer-chassis/ML03/). ALT: ML04/ML11
 CPU				|Ryzen 5500GT (65W)							|$110	|[pcpartpicker](https://pcpartpicker.com/products/cpu/#sort=price&k=33&F=79,96&g=430,489,418,419)	|ALT:AV1: [Ryzen 8500G](https://pcpartpicker.com/product/y3XV3C/amd-ryzen-5-8500g-41-ghz-6-core-processor-100-100000931box) ($150)
-MOBO			|ASRock B550M Pro4					|$100	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=7&c=145&sort=price&page=1)	|ALT:AV1: [ASRock B650M PG Lightning](https://pcpartpicker.com/products/motherboard/#xcx=0&f=7&sort=price&s=41) ($120)
+MOBO			|ASRock B550M Pro4 MicroATX					|$100	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=7&c=145&sort=price&page=1)	|ALT:AV1: [ASRock B650M PG Lightning](https://pcpartpicker.com/products/motherboard/#xcx=0&f=7&sort=price&s=41) ($120)
 MEM			|TEAMGROUP T-Force Vulcan Z 2x8GB DDR4-3200			|	$35		|[pcpartpicker](https://pcpartpicker.com/products/memory/#Z=16384002&sort=price&xcx=0&ff=ddr4&S=3200,7200&L=160,180)	|ALT:AV1: [Crucial 2x8GB DDR5-5600](https://pcpartpicker.com/product/y4BzK8/crucial-classic-16-gb-2-x-8-gb-ddr5-5600-cl46-memory-ct2k8g56c46u5) ($45)
 PSU             |Corsair CX 550W ATX                         | $60 | [pcpartpicker](https://pcpartpicker.com/products/power-supply/#sort=price&e=4,3,2,1&th=1&m=8,337,50,11,14,106,101,18,229,51,71,63,441,113,56) |
 STORAGE			|WD SN580 500GB NVMe M.2 SSD TLC				|$40	|[pcpartpicker](https://pcpartpicker.com/product/kHRwrH/western-digital-blue-sn580-500-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds500g3b0e)	|
@@ -423,7 +423,7 @@ PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE	|Silverstone PS07				|$110	|	[pcpartpicker](https://pcpartpicker.com/product/qmtCmG/silverstone-case-sstps07b)	| [specs](https://www.silverstonetek.com/en/product/info/computer-chassis/PS07/). ALT: Silverstone ML03
 CPU		|Intel i5-12600K CPU, 125W				|$175	|	[pcpartpicker](https://pcpartpicker.com/product/BB4Ycf/intel-core-i5-12600k-37-ghz-6-core-processor-bx8071512600k)	|	ALT: i5-12400 ($135)
-MOBO	|ASRock B760M Pro RS	|$125	|	[pcpartpicker](https://pcpartpicker.com/product/pTbTwP/asrock-b760m-pro-rs-micro-atx-lga1700-motherboard-b760m-pro-rs)	|	ALT: [Other uATX mobos](https://pcpartpicker.com/products/motherboard/#xcx=0&c=154,163,152,162&f=7&sort=price&mt=ddr5)
+MOBO	|ASRock B760M Pro RS MicroATX	|$125	|	[pcpartpicker](https://pcpartpicker.com/product/pTbTwP/asrock-b760m-pro-rs-micro-atx-lga1700-motherboard-b760m-pro-rs)	|	ALT: [Other uATX mobos](https://pcpartpicker.com/products/motherboard/#xcx=0&c=154,163,152,162&f=7&sort=price&mt=ddr5)
 MEM		|Teamgroup T-Create Expert 32GB 2x16GB DDR5-6000			|$85	|	[pcpartpicker](https://pcpartpicker.com/product/H9CZxr/teamgroup-t-create-expert-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-ctced532g6000hc30dc01)	|	ALT: Teamgroup Elite 16GB 2x8GB DDR5-5200 ($45)
 STORAGE	|LG WH16NS40 UHD Blu-Ray Drive			|$70	|	[pcpartpicker](https://pcpartpicker.com/product/QZ6BD3/lg-optical-drive-wh16ns40)	|	ALT: ASUS BW-16D1HT ($100)
 STORAGE	|WD SN770 1TB NVMe M.2 SSD		|$70	|	[pcpartpicker](https://pcpartpicker.com/product/YVytt6/western-digital-1-tb-m2-2280-nvme-solid-state-drive-wds100t3x0e)	|	ALT:  Teamgroup Cardea Zero Z440 1TB
