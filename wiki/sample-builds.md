@@ -288,7 +288,7 @@ CASE			|Silverstone ML03					|$100	|[pcpartpicker](https://pcpartpicker.com/prod
 CPU				|Ryzen 5500GT (65W)							|$110	|[pcpartpicker](https://pcpartpicker.com/products/cpu/#sort=price&k=33&F=79,96&g=430,489,418,419)	|ALT:AV1: [Ryzen 8500G](https://pcpartpicker.com/product/y3XV3C/amd-ryzen-5-8500g-41-ghz-6-core-processor-100-100000931box) ($150)
 MOBO			|ASRock B550M Pro4					|$100	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=7&c=145&sort=price&page=1)	|ALT:AV1: [ASRock B650M PG Lightning](https://pcpartpicker.com/products/motherboard/#xcx=0&f=7&sort=price&s=41) ($120)
 MEM			|TEAMGROUP T-Force Vulcan Z 2x8GB DDR4-3200			|	$35		|[pcpartpicker](https://pcpartpicker.com/products/memory/#Z=16384002&sort=price&xcx=0&ff=ddr4&S=3200,7200&L=160,180)	|ALT:AV1: [Crucial 2x8GB DDR5-5600](https://pcpartpicker.com/product/y4BzK8/crucial-classic-16-gb-2-x-8-gb-ddr5-5600-cl46-memory-ct2k8g56c46u5) ($45)
-PSU             |Corsair CX 550W                          | $60 | [pcpartpicker](https://pcpartpicker.com/products/power-supply/#sort=price&e=4,3,2,1&th=1&m=8,337,50,11,14,106,101,18,229,51,71,63,441,113,56) |
+PSU             |Corsair CX 550W ATX                         | $60 | [pcpartpicker](https://pcpartpicker.com/products/power-supply/#sort=price&e=4,3,2,1&th=1&m=8,337,50,11,14,106,101,18,229,51,71,63,441,113,56) |
 STORAGE			|WD SN580 500GB NVMe M.2 SSD TLC				|$40	|[pcpartpicker](https://pcpartpicker.com/product/kHRwrH/western-digital-blue-sn580-500-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds500g3b0e)	|
 STORAGE			|4TB 7200rpm 3.5" HDD			|$40	|[disctech](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/4TB?order=onlinecustomerprice:asc&show=48)	|OPTIONAL. ALT: [10TB+ ($120+)](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/10TB_12TB_14TB_16TB_18TB_20TB_22TB_24TB_6TB_7TB_8TB?order=onlinecustomerprice:asc)
 COOL			|Thermalright AXP90-X53 CPU Cooler, 53mm					|$25	|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,70000000&c=33&W=0&sort=price&page=1)	| OPTIONAL: Quieter than stock cooler
@@ -928,5 +928,5 @@ TOTAL		|											|$824			|	|
 
 ---
 
-*This page was last updated on 2025-07-02*
+*This page was last updated on 2025-07-10*
 
