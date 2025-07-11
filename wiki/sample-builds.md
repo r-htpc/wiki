@@ -177,9 +177,9 @@ Intel 7th gen+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDMI 2.0 po
 
 ### Specialized: Media Server w/Transcoding
 
-- Light: GMKtec G3 Plus, [Pre-built NAS](/wiki/storage#pre-built-nas) - ~3x 4k transcodes
-- Medium: Beelink SEI 12 i5-12450H, [Media Server Builds](/wiki/sample-builds#nasmedia-server-builds) - ~6x 4k transcodes
-- Heavy: Minisforum NAB6 Lite, [Intel NUC 11/12/13 i5](https://www.newegg.com/p/pl?N=100008345%2050001157%20601398044%20601412542%20601398019%20601412544%20601398041%20601412545%20601398018&Order=1) - ~12x 4k transcodes.
+- Light: GMKtec G3 Plus, [Pre-built NAS](/wiki/storage#pre-built-nas) (Nxx-based) - ~3x 4k transcodes
+- Medium: Beelink SEI 12 i5-12450H - ~6x 4k transcodes
+- Heavy: Minisforum NAB6 Lite, [Intel NUC 11/12/13 i5](https://www.newegg.com/p/pl?N=100008345%2050001157%20601398044%20601412542%20601398019%20601412544%20601398041%20601412545%20601398018%2050001315&Order=1) - ~12x 4k transcodes.
 <!-- - [DiY NAS/Media Server Build w/i5-12500+](https://r-htpc.github.io/wiki/sample-builds#nasmedia-server-builds) - ~18 4k transcodes -->
 
 <!-- Sub-Section -->
@@ -198,6 +198,8 @@ Intel 7th gen+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDMI 2.0 po
 
   - 4k HDR10/DV-5/7/8, Dolby TrueHD Atmos, DTS:X, 6x4k,20x1080p transcodes, 4xHDDs (WD Ultrastar/Seagate Exos), Ubuntu, Plex Pass/Jellyfin
   - For more transcodes, switch server to [Minisforum NAB6 Lite](https://www.amazon.com/MINISFORUM-NAB6-Lite-i5-12600H-Computer/dp/B0BYZC4SMW?th=1)
+
+- [DiY Media Server Builds](/wiki/sample-builds#nasmedia-server-builds)
 
 <!-- Section -->
 
@@ -503,11 +505,11 @@ Most people will use it with Plex Media Server to serve media up to clients, but
 If you're using it with Plex, it will [Direct Play](https://support.plex.tv/articles/200430303-streaming-overview/) content to multiple clients just fine (even 4k). If you need to transcode content either internally or remotely, it 
 will [transcode](https://support.plex.tv/articles/200430303-streaming-overview/) 2x 1080p streams or 4x 720p streams using software/cpu transcoding in the free version of Plex Media Server.  
 
-If you need to transcode more streams than this (either because your internal clients don't support your media's codecs and/or because you have a lot of remote users), pay for a [Plex Pass](https://www.plex.tv/plex-pass/) (or use Jellyfin) and it will then [hw transcode](https://support.plex.tv/articles/115002178853-using-hardware-accelerated-streaming/) more 1080p and 4k HEVC/H264 streams.  
+If you need to transcode more streams than this (either because your internal clients don't support your media's codecs and/or because you have a lot of remote users), pay for a [Plex Pass](https://www.plex.tv/plex-pass/) (or use Jellyfin) and it will then [hw transcode](https://support.plex.tv/articles/115002178853-using-hardware-accelerated-streaming/) 4x 4k streams or 15x 1080p HEVC/H264 streams using the iGPU.  
 
 It's preferred to use an SSD for your OS drive and for storing Plex Metadata. Purchase one separately as per the parts list below or get one included.
 
-With a form factor this small, you should use USB external drives, in the short-term, like a [WD Elements/Easystore](https://www.bestbuy.com/site/wd-easystore-8tb-external-usb-3-0-hard-drive-black/6425302.p?skuId=6425302&utm_source=feed), for media storage. It is possible to use an internal [2.5" HDD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=900000000000,22000000000000&sort=price&f=3&t=5000,5200,5400,5640,5700,5760,5900,5940,7200&page=1) up to 5TB if you use an M.2 SSD for your OS. If you want more reliable, long-term storage, look at the next build w/internal 3.5" HDD(s) instead or a NAS from our [Storage Setup Guide](/wiki/storage).  
+With a form factor this small, you should use USB external drives, in the short-term, for media storage; like a [WD Elements/Easystore](https://www.bestbuy.com/site/wd-easystore-8tb-external-usb-3-0-hard-drive-black/6425302.p?skuId=6425302&utm_source=feed). It is possible to use an internal [2.5" HDD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=900000000000,22000000000000&sort=price&f=3&t=5000,5200,5400,5640,5700,5760,5900,5940,7200&page=1) up to 5TB if you use an M.2 SSD for your OS. If you want more reliable, long-term storage, look at the next build w/internal 3.5" HDD(s) instead or a storage-only NAS from our [Storage Setup Guide](/wiki/storage).  
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
@@ -516,7 +518,7 @@ CPU/GPU		|Intel i5-8500T	|	Included|	NA|		35W, 6C/6T. ALT: [i5-7500T](https://ww
 MEM			|8 GB+ DDR4|	Included|	NA|		NA
 STORAGE		|256GB M.2 SSD (OS/APPS)		|	$25|	[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=240000000000,22000000000000&t=0&sort=price&f=122030,122042,122060,122080)|		OPTIONAL, If not included in ebay build.
 STORAGE		|WD 8-20TB USB HDD (MEDIA)		|$160-350		|	[Best Buy](https://www.bestbuy.com/site/wd-easystore-8tb-external-usb-3-0-hard-drive-black/6425302.p?skuId=6425302&utm_source=feed)		| OPTIONAL, if not included in ebay build or don't have. ALT: [2.5" SATA HDD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=900000000000,22000000000000&sort=price&f=3&t=5000,5200,5400,5640,5700,5760,5900,5940,7200&page=1)
-OS			|Ubuntu 24/Windows 1x Pro				|$0			|	[Ubuntu](https://ubuntu.com/download)	|	
+OS			|Ubuntu 25/Windows 1x Pro				|$0			|	[Ubuntu](https://ubuntu.com/download)	|	
 SOFTWARE	|Plex Media Server						|$0			|	[Plex](https://www.plex.tv/downloads)	|	Free
 LICENSE		|Plex Pass								|$250		|	[Plex](https://www.plex.tv/plex-pass/)	|	OPTIONAL. Lifetime cost or $70/year, $7/month.	
 TOTAL		|				|	$105	||
@@ -542,9 +544,9 @@ If you want to fit more than 1x 3.5" HDDs internally, look at these versions:
 
 It's preferred to use an SSD for your OS drive and for storing Plex Metadata. You can either buy the system with an SSD included, or buy it bare, purchasing one separately as per the parts list below. The latter is preferrable as you have more control over size/brand/form factor.  
 
-For media content storage, either use the HDD (if provided in the one you buy), or replace it with a bigger one. You can get an 8TB drive for about $100. Check our [Storage Setup Guide](/wiki/storage#hard-drives) drive list for more options. If you want to throw a bunch of drives at it, either go with one of the bigger cases above or add a Terramaster [F4-212 NAS](/wiki/storage#pre-built-nas-list). If you want to go beyond this you'll want to build everything internally with the next NAS/Media Server build below as a starting point.  
+For media content storage, either use the HDD (if provided in the one you buy), or replace it with a bigger one. You can get an 8TB drive for about $125. Check our [Storage Setup Guide](/wiki/storage#hard-drives) drive list for more options. If you want to throw a bunch of drives at it, either go with one of the bigger cases above or add a Terramaster [F4-212 NAS](/wiki/storage#pre-built-nas-list). If you want to go beyond this you'll want to build everything internally with the next NAS/Media Server build below as a starting point.  
 
-A good serving solution with the below system would be a M.2 SSD for OS/apps, a large 3.5" internal HDD, Ubuntu 24, docker and the plex docker container.
+A good serving solution with the below system would be a M.2 SSD for OS/apps, a large 3.5" internal HDD, Ubuntu 25, docker and the plex docker container.
 
 Windows would be fine for ease of administration, but you should go with Ubuntu, OpenMediaVault or Unraid on the Linux-side for more advanced usage, like Docker, and/or have better multi-disk volume management.  
 
@@ -557,7 +559,7 @@ CPU/GPU			|Intel i5-8400							|Included	|	NA			|	65 W, 6C/6T. ALT: [i5-7400](ht
 MEM/STORAGE	|8GB RAM, HDD/SSD/Bare					|Included	|	NA			|	
 STORAGE		|500GB M.2 NVMe SSD (OS/APPS)		|$35		|	[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=480000000000,22000000000000&t=0&sort=price&f=122030,122042,122060,122080&D=1)		| OPTIONAL, if not included in ebay build.
 STORAGE		|WD 8-20 TB 3.5" SATA HDD (MEDIA)		|$100-350		|	[Serverpartdeals](https://serverpartdeals.com/collections/wd-ultrastar-sata-hard-drives?sort=price-ascending&pf_t_condition=condition%3AManufacturer+Recertified&pf_t_condition=condition%3ANew)		| OPTIONAL, if not included in ebay build or don't have.
-OS			|Ubuntu 24/Windows 1x Pro				|$0			|	[Ubuntu](https://ubuntu.com/download)	|	
+OS			|Ubuntu 25/Windows 1x Pro				|$0			|	[Ubuntu](https://ubuntu.com/download)	|	
 SOFTWARE	|Plex Media Server						|$0			|	[Plex](https://www.plex.tv/downloads)	|	Free
 LICENSE		|Plex Pass								|$250		|	[Plex](https://www.plex.tv/plex-pass/)	|	OPTIONAL. Lifetime cost or $70/year, $7/month.	
 TOTAL		|										|$135		|	NA			|
@@ -681,7 +683,7 @@ CPU			|Intel i5/i7-3xxx, Xeon E3-1xxx			|Included	|	NA			|	65-77 W, 4C/4T, PASSM
 MEM/STORAGE	|8GB DDR3 RAM, 500GB (varies) HDD		|Included	|	NA			|	Xeon: [ECC](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=ecc+8gb+12800+unbuffered+dimm&_sacat=0&LH_TitleDesc=0&_odkw=ecc+8gb+12800+unbuffered+dimm&_osacat=0&LH_PrefLoc=2), i3/i5: non-ECC
 STORAGE		|512GB 2.5" SATA SSD (OS/APP/CACHE)		|$30		|	[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=480000000000,22000000000000&t=0&sort=price&c1=di_sata.60)		| 
 STORAGE		|4-24TB HDD - (DATA) |Varies		|	NA			|	[NAS Drive List](/wiki/storage#hard-drives)
-OS			|Unraid/Ubuntu 22/OMV/Windows			|$0			|	[Ubuntu](https://ubuntu.com/download)		|	Windows 10 usually included
+OS			|Unraid/Ubuntu 25/OMV/Windows			|$0			|	[Ubuntu](https://ubuntu.com/download)		
 SOFTWARE	|Unraid Starter - 6 device license				|$50		|	[limetech](https://unraid.net/pricing)		|	OPTIONAL
 TOTAL		|										|$150		|	NA			|
 
