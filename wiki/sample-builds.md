@@ -428,7 +428,7 @@ MEM		|Teamgroup T-Create Expert 32GB 2x16GB DDR5-6000			|$85	|	[pcpartpicker](ht
 STORAGE	|LG WH16NS40 UHD Blu-Ray Drive			|$70	|	[pcpartpicker](https://pcpartpicker.com/product/QZ6BD3/lg-optical-drive-wh16ns40)	|	ALT: ASUS BW-16D1HT ($100)
 STORAGE	|WD SN770 1TB NVMe M.2 SSD		|$70	|	[pcpartpicker](https://pcpartpicker.com/product/YVytt6/western-digital-1-tb-m2-2280-nvme-solid-state-drive-wds100t3x0e)	|	ALT:  Teamgroup Cardea Zero Z440 1TB
 COOL	|Thermalright Peerless Assassin CPU Cooler				|$40	|	[pcpartpicker](https://pcpartpicker.com/product/hYxRsY/thermalright-peerless-assassin-120-se-6617-cfm-cpu-cooler-pa120-se-d3)	|	ALT: Thermalright AXP120-X67 ($40)
-PSU		|Corsair RM650 Full Modular ATX PSU		|$80	|	[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=1&sort=price&m=8,337,50,11,14,17,18,27,28,94,29,229,51,71,63,441,56&e=4,2)	|	ALT: Silverstone Essential 750W ($75)
+PSU		|MSI MAG A750GL Full Modular ATX PSU		|$80	|	[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=1&sort=price&m=8,337,50,11,14,17,18,27,28,94,29,229,51,71,63,441,56&e=4,2)	|	ALT: Corsair RM750e 750W ($90)
 SOFTWARE	|MakeMKV Beta/Full		|FREE/$60	|	[makemkv](https://www.makemkv.com/buy/)	|Free with beta license key posted each month
 TOTAL	|										|$755	|					|
 
