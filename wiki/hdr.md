@@ -279,9 +279,12 @@ Advanced, more powerful dynamic tonemapping, high-end upscaling and processing t
 * *MPC-HC/BE settings:*  
   * *MPC-HC/BE app*  
     * View -> Options
-      * MPC-HC: Playback -> Output -> Directshow Video -> madVR  
-      * MPC-BE: Video -> Video Renderer -> madVR  
-      * External Filters -> Add Filter... -> Add LAV Audio Decoder, LAV Splitter, LAV Splitter Source, LAV Video Decoder. Set all to "prefer".  
+      * MPC-HC  
+        * Playback -> Output -> Directshow Video -> madVR  
+        * External Filters -> Add Filter... -> Add LAV Audio Decoder, LAV Video Decoder. Set all to "prefer".  
+      * MPC-BE  
+        * Video -> Video Renderer -> madVR  
+        * External Filters -> Add Filter... -> Add LAV Audio Decoder, LAV Splitter, LAV Splitter Source, LAV Video Decoder. Set all to "prefer".  
     * *Restart MPC-HC/BE app*  
 * *Test*  
   * *MPC-HC/BE app*  
