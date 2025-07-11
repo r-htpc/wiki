@@ -509,7 +509,7 @@ If you need to transcode more streams than this (either because your internal cl
 
 It's preferred to use an SSD for your OS drive and for storing Plex Metadata. Purchase one separately as per the parts list below or get one included.
 
-With a form factor this small, you should use USB external drives, in the short-term, for media storage; like a [WD Elements/Easystore](https://www.bestbuy.com/site/wd-easystore-8tb-external-usb-3-0-hard-drive-black/6425302.p?skuId=6425302&utm_source=feed). It is possible to use an internal [2.5" HDD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=900000000000,22000000000000&sort=price&f=3&t=5000,5200,5400,5640,5700,5760,5900,5940,7200&page=1) up to 5TB if you use an M.2 SSD for your OS. If you want more reliable, long-term storage, look at the next build w/internal 3.5" HDD(s) instead or a storage-only NAS from our [Storage Setup Guide](/wiki/storage).  
+With a form factor this small, for media storage you should use a storage-only NAS from our [Storage Setup Guide](/wiki/storage) for reliable, long-term storage; for short-term storage, an internal [2.5" HDD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=900000000000,22000000000000&sort=price&f=3&t=5000,5200,5400,5640,5700,5760,5900,5940,7200&page=1) up to 5TB or a USB external drive, like a [WD Elements/Easystore](https://www.bestbuy.com/site/wd-easystore-8tb-external-usb-3-0-hard-drive-black/6425302.p?skuId=6425302&utm_source=feed)  
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
