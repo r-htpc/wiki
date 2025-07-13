@@ -84,16 +84,16 @@ Streaming services only: Fire TV 4K stick (Amazon ecosystem) ($40), Onn 4k Plus 
 
 Streaming services + 4K local content, no HD audio: Fire TV 4K Max stick ($55), Onn 4k Pro (Google ecosystem) ($50). If poor wifi env, add [micro-USB](https://www.amazon.com/Cable-Matters-Streaming-Including-Chromecast/dp/B07N2ZHFY9) or [usb-a](https://www.amazon.com/gp/product/B00BBD7NFU/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) ethernet adapter.  
 
-Streaming services + 4K HDR10/Dolby Vision local content, HD audio: Nvidia Shield Pro ($200). HDR10+/Dolby Vision local content: Ugoos AM6B Plus (4K)/AM8 Pro (8K)  
+Streaming services + 4K HDR10/Dolby Vision local content, HD audio: Nvidia Shield Pro ($200).  
 
-4K HDR10 local content, HD audio: Odroid [N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ($65/$80) + CoreELEC  
+4K HDR local content, HD audio: HDR10: Odroid [N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ($65/$80). HDR10+/Dolby Vision: Ugoos AM6B Plus (4K)/AM8 Pro (8K) ($200/$250). Both running CoreELEC  
 
 4K HDR10 local/streaming content + Web Browsing (standard), Windows: Used: Intel i3 8th Gen [NUC (NUC8I3BEH)](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=nuc+%288i3%2C8i5%2C8109u%2C8130u%2C8th%29&_sacat=179&LH_TitleDesc=1&_odkw=nuc+%288i3%2C8i5%2C8109u%2C8130u%29&_osacat=179&_sop=15&LH_PrefLoc=2) ($100) OR New: Beelink **[EQR6](https://www.amazon.com/Beelink-PCle4-0-Desktop-Computer-Support/dp/B0DCZ1FFND)** ($270) / [N150](https://www.amazon.com/s?k=beelink+n150&crid=3CMH2TA4O87KZ&sprefix=beelink+n15%2Caps%2C148&ref=nb_sb_noss_2) ($170) Mini PC 
 
 Cheap Emulation Gaming: Odroid [N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ($80) + EmuElec/Batocera OR Used: >= 
 [SFF/USFF PC - CPU >= i5-7500T, 8GB RAM, SSD](https://www.ebay.com/sch/i.html?_fsrp=1&rt=nc&_from=R40&_nkw=\(hp%2Cdell%2Clenovo\)+\(i5-7500%2Ci5-8400\)+\(sff%2Cdt%2Cmt%2Cusff%2Cmicro%2Ctiny%2Cmini\)+ssd&_sacat=179&LH_BIN=1&LH_TitleDesc=0&_sop=15&_udhi=175&LH_ItemCondition=2010%7C2020%7C3000) ($75)
 
-1080p Casual Gaming: [Beelink SER5 (5800H) mini pc](https://www.amazon.com/s?k=beelink+5800h&crid=3AUBU1SOXW7YK&sprefix=beelink+5800h%2Caps%2C163&ref=nb_sb_noss_1) ($300)
+1080p Casual Gaming: [Beelink SER5 Max (6800U) mini pc](https://www.amazon.com/Beelink-Pro%EF%BC%8CAMD-powerful-Computer-Fingerprint/dp/B0CBTBJWHG?th=1) ($300)
 
 1080p local content, HD audio: **[Odroid C4](https://www.hardkernel.com/shop/odroid-c4/)** / [Orange Pi 3 LTS 2GB](https://www.aliexpress.us/item/3256804341645667.html) ($50)  
 
@@ -836,5 +836,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2025-07-05*
+*This page was last updated on 2025-07-13*
 
