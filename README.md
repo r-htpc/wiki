@@ -16,6 +16,11 @@
 ### [Pre-Built / DiY Builds Guide](/wiki/sample-builds) 
 - New and used pre-builts and DiY builds to help you get started with a HTPC, media server, NAS, gaming or specialized setup
 
+<!--
+### [Connection Setup Guide](/wiki/connections)
+- How to connect your HTPC to your Sound System and HT display
+-->
+
 ### [AUDIO Setup Guide](/wiki/audio)
 - How to connect, configure, and explanation of AUDIO between your HTPC and Sound System
 
