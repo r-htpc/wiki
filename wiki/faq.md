@@ -91,7 +91,7 @@ Streaming services + 4K HDR10/Dolby Vision local content, HD audio: Nvidia Shiel
 4K HDR10 local/streaming content + Web Browsing (standard), Windows: Used: Intel i3 8th Gen [NUC (NUC8I3BEH)](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=nuc+%288i3%2C8i5%2C8109u%2C8130u%2C8th%29&_sacat=179&LH_TitleDesc=1&_odkw=nuc+%288i3%2C8i5%2C8109u%2C8130u%29&_osacat=179&_sop=15&LH_PrefLoc=2) ($100) OR New: Beelink **[EQR6](https://www.amazon.com/Beelink-PCle4-0-Desktop-Computer-Support/dp/B0DCZ1FFND)** ($270) / [N150](https://www.amazon.com/s?k=beelink+n150&crid=3CMH2TA4O87KZ&sprefix=beelink+n15%2Caps%2C148&ref=nb_sb_noss_2) ($170) Mini PC 
 
 Cheap Emulation Gaming: Odroid [N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ($80) + EmuElec/Batocera OR Used: >= 
-[SFF/USFF PC - CPU >= i5-7500T, 8GB RAM, SSD](https://www.ebay.com/sch/i.html?_fsrp=1&rt=nc&_from=R40&_nkw=\(hp%2Cdell%2Clenovo\)+\(i5-7500%2Ci5-8400\)+\(sff%2Cdt%2Cmt%2Cusff%2Cmicro%2Ctiny%2Cmini\)+ssd&_sacat=179&LH_BIN=1&LH_TitleDesc=0&_sop=15&_udhi=175&LH_ItemCondition=2010%7C2020%7C3000) ($75)
+[SFF/USFF PC - CPU >= i5-7500T, 8GB RAM, SSD](https://www.ebay.com/sch/i.html?_nkw=%28hp%2Cdell%2Clenovo%29+%28i5-7500%2Ci5-8400%2Ci5-8500%29+%28sff%2Cdt%2Cmt%2Cusff%2Cmicro%2Ctiny%2Cmini%29+ssd&_sacat=179&_from=R40&_trksid=m570.l1313&_fsrp=1&_odkw=%28hp%2Cdell%2Clenovo%29+%28i5-7500%2Ci5-8400%2Ci5-8500%2Ci5-8600%29+%28sff%2Cdt%2Cmt%2Cusff%2Cmicro%2Ctiny%2Cmini%29+ssd&_osacat=179&LH_BIN=1&_sop=15&_udhi=175) ($75)
 
 1080p Casual Gaming: [Beelink SER5 Max (6800U) mini pc](https://www.amazon.com/Beelink-Pro%EF%BC%8CAMD-powerful-Computer-Fingerprint/dp/B0CBTBJWHG?th=1) ($300)
 
@@ -99,7 +99,7 @@ Cheap Emulation Gaming: Odroid [N2+](https://www.hardkernel.com/shop/odroid-n2-w
 
 1080p local content + Web Browsing (minimal), Linux: **[Odroid C4](https://www.hardkernel.com/shop/odroid-c4/)** / [ROCK64-4GB](https://pine64.com/product/rock64-4gb-single-board-computer/) ($50)  
 
-1080p local/streaming content + Web Browsing (standard), Windows: Used: >= [SFF/USFF PC - CPU >= i5-7500T, 8GB RAM, SSD](https://www.ebay.com/sch/i.html?_fsrp=1&rt=nc&_from=R40&_nkw=\(hp%2Cdell%2Clenovo\)+\(i5-7500%2Ci5-8400\)+\(sff%2Cdt%2Cmt%2Cusff%2Cmicro%2Ctiny%2Cmini\)+ssd&_sacat=179&LH_BIN=1&LH_TitleDesc=0&_sop=15&_udhi=175&LH_ItemCondition=2010%7C2020%7C3000) ($75) OR New: >= [N100 Mini PC](https://www.amazon.com/dp/B0CX14YPTN/ref=twister_B0DC6D6QP7?_encoding=UTF8&th=1) ($150)   
+1080p local/streaming content + Web Browsing (standard), Windows: Used: >= [SFF/USFF PC - CPU >= i5-7500T, 8GB RAM, SSD](https://www.ebay.com/sch/i.html?_nkw=%28hp%2Cdell%2Clenovo%29+%28i5-7500%2Ci5-8400%2Ci5-8500%29+%28sff%2Cdt%2Cmt%2Cusff%2Cmicro%2Ctiny%2Cmini%29+ssd&_sacat=179&_from=R40&_trksid=m570.l1313&_fsrp=1&_odkw=%28hp%2Cdell%2Clenovo%29+%28i5-7500%2Ci5-8400%2Ci5-8500%2Ci5-8600%29+%28sff%2Cdt%2Cmt%2Cusff%2Cmicro%2Ctiny%2Cmini%29+ssd&_osacat=179&LH_BIN=1&_sop=15&_udhi=175) ($75) OR New: >= [N100 Mini PC](https://www.amazon.com/dp/B0CX14YPTN/ref=twister_B0DC6D6QP7?_encoding=UTF8&th=1) ($150)   
 
 Media Server (no/1080p transcoding): Used: [SFF/USFF PC - CPU >= i3-7100T, 4GB RAM, SSD](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28hp%2Cdell%2Clenovo%29+%28i3-7100%29+ssd&_sacat=179&_fsrp=1&_odkw=%28hp%2Cdell%2Clenovo%29+%28i3-7100%29+ssd&_osacat=179&LH_BIN=1&_sop=15&_udhi=150) ($60) OR New: >= [N100 Mini PC](https://www.amazon.com/dp/B0CX14YPTN/ref=twister_B0DC6D6QP7?_encoding=UTF8&th=1) ($150)  
 
