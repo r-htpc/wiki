@@ -1,5 +1,5 @@
 ---
-description: Information on the best ways to connect your HTPC to a sound system and/or display.
+description: Information on the best ways to connect your HTPC to a sound system and/or HT display.
 ---
 
 # Connection Setup Guide
@@ -169,7 +169,7 @@ If you have only an ARC/eARC port on your sound system (like a cheaper soundbar)
 
 ### **Software Setup**  
 
-Continue your setup by following the instructions in the [VIDEO setup guide](/wiki/video) and [AUDIO setup guide](/wiki/video).
+Continue your setup by following the instructions in the [VIDEO setup guide](/wiki/video#setup) and [AUDIO setup guide](/wiki/video#setup).
 
 <!-- Section -->
 
