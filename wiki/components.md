@@ -469,6 +469,7 @@ For **remotes**, the [Logitech Harmony](https://www.logitech.com/en-us/harmony-u
 Everything below those are lower tier and <= $50. What's best for you depends on what you want to control and the features you need.  
 The [Pepper Jobs W10](https://www.amazon.com/W10-GYRO-Keyboard-Controller-Learning/dp/B078NT49MJ) remote is the best all-arounder for controlling an HTPC and IR-learned devices.  
 If you want to bring your own IR remote or use a universal one (like an Inteset) to control a HTPC, media box, tv, etc.. pair it with a Flirc USB adapter on the HTPC-side.  
+MCE remotes are flexible and use a standardized protocol. They are good for Kodi and Plex, work well with Windows/Linux, tend to come with IR receivers and can do key remap with either built-in media app mappers or AutoHotKey/EventGhost.  
 If you want built-in macro support and can't afford the Sofabatons, look at a Skip 1S w/a Flirc.
 
 REMOTE			|	PRICE	|	INT		|	BACKLIT	|	BATTERY	|	NOTES
