@@ -321,37 +321,37 @@ Now you can proceed to setting up specific applications and decoding of media/ga
 
 - *Setting up Decoding for Media (if **NOT** bitstreaming below):* 
 
-    - You should configure your media application(s) (if needed), by setting the sound device/audio renderer to "DirectSound" or "System Default". "DirectSound" sits between the application and the audio driver, controlling the channel layout and audio stream.  
+    - You should configure your media application(s), by setting the sound device/audio renderer to "DirectSound" or "System Default". "DirectSound" sits between the application and the audio driver, controlling the channel layout and audio stream.  
 In media applications, the most popular ones will have the codecs to decode up to **Dolby TrueHD**, **DTS-HD MA** and many others (object metadata overlays like Dolby Atmos/DTS:X can NOT be channelized or meaningfully used by the PC without professional software; you must bitstream those codecs to an AVR or sound processor).  
-
-    - Additionally, you can set [channel downmixing](/wiki/audio#why-is-the-volume-of-my-audio-so-wide-ranging-eg-voices-are-quiet-explosions-are-loud)/upmixing in your media application, if desired.  
 
     - You can force Windows apps that don't have sound configurations (like browsers) to decode encoded formats like DD/DTS to PCM by disabling the "Allow applications to take exclusive control of this device" setting in the Properties->Advanced section of your control panel's sound device.  
 
-    - After you've configured your app(s) and windows, play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below. 
+    - After you've configured your app(s)
+      - Play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below
+      - Output on your sound system should show as “LPCM”/”Multi Ch In”/”Uncompressed”. If they show as anything else, you either haven't configured it properly or have turned on a listening mode on your sound system rather than Direct/Decode.
+      - When you play audio you SHOULD be able to change the volume on the HTPC and hear a difference.  
 
 - *Setting up for Gaming:*
    - If you're playing games with just PCM or using Analog, you're done. If you're doing advanced setups like using Dolby Atmos or Dolby Digital Live, see the [Gaming section](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) below for caveats and advanced setup.
 
 - *If you want to downmix content:*
+   - Choose ONE of the following options
    - Configure the speaker configuration in your window's sound device as your desired channel output.
    - Configure the speaker configuration in your media applications to the speakers you want to downmix to, e.g. 2.1. This varies. Each app usually has their own audio mixing filter
+   - See also: [Why is the volume of my audio so wide ranging? e.g. voices are quiet, explosions are loud](/wiki/audio#why-is-the-volume-of-my-audio-so-wide-ranging-eg-voices-are-quiet-explosions-are-loud)
 
 - *If you want to upmix content:*
+   - Choose ONE of the following options
+   - Use one of the upmixing listening mode(s) on your sound system (e.g. Dolby Surround/Dolby Pro Logic/DTS Neural), if available.
    - Configure the speaker configuration in your media applications to the speakers you want to upmix to, e.g. 5.1. This varies. Each app usually has their own audio mixing filter, but may also include LAV audio decoder filters to do normalize/DRC/etc...
-   - Use a 3rd party system-wide upmixer, such as [Equalizer APO + Peace Equalizer GUI](/wiki/audio#audio-software), with Stereo Effect.
+   - Use a system-wide upmixer, such as [Equalizer APO + Peace Equalizer GUI](/wiki/audio#audio-software), with Stereo Effect.
    - If available, set your window's sound device to use the 'Speaker fill' enhancement.
    - Install Dolby Access and configure Dolby Atmos for Home Theater with the Channel Upmixer option enabled
-   - Use the Dolby Pro Logic/Dolby Surround mode on your sound system, if available.
 
 - *Other:*
+  - Some OS sounds/applications primarily output audio as PCM exclusively (e.g. youtube in web browsers).
   - If you want to fit Surround into audio interfaces that only support Stereo, see [here](/wiki/audio#how-can-i-transport-surround-sound-over-a-stereo-only-audio-interface) 
   - There are advanced things you can do by using application middleware and external filters like [transcoding audio codecs](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital), decoding obscure codecs and advanced mixing. See the 3rd Party sub-section of the Audio Software section above.  
-
-- NOTES:  
-  1. You know this way is configured correctly because when you play audio you SHOULD be able to change the volume on the HTPC and hear a difference.  
-  2. Some OS sounds/applications primarily output audio as PCM exclusively (e.g. youtube in web browsers).
-  3. If you have an AV receiver, it would say "PCM"/"Multi Ch In"/"Uncompressed" on it, unless you have the receiver set to upmix the audio with a listening mode such as Dolby Surround.  
 
 **Scenario #2: BITSTREAMING**  
 
