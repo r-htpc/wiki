@@ -480,7 +480,8 @@ Logitech Harmony One	|	Disc (1)	|	RF/BT/IR	|	Yes	|	Int	|	IR Blaster, Hub
 **[OSMC Remote](https://osmc.tv/store/product/osmc-remote-control/)**		|	$20	|	RF		|	Yes	|	CR-2032	|	Good simple remote for Kodi
 [8bitdo Media Remote](https://www.amazon.com/8Bitdo-Media-Remote-Xbox-One-Infrared/dp/B0BXSV78R6) |	$20	|	IR    |  Yes  | AAA | w/Flirc, **Motion-active** backlight
 [Skip 1s](https://flirc.tv/products/skip1s-remote-universal-remote-control)    | $45  | IR  | No | AAA | w/Flirc, **Macros**, learning, mobile app
-[MCE](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw=mce+remote&_sacat=0) / [Inteset](https://www.amazon.com/Inteset-Universal-Backlit-Learning-Streamers/dp/B00M4I1BAY) Remote | $20-30 | IR | Some | AA/AAA | use w/an included IR hub, Flirc USB adap, or HDMI-CEC
+[MCE](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw=mce+remote&_sacat=0) / [Inteset](https://www.amazon.com/Inteset-Universal-Backlit-Learning-Streamers/dp/B00M4I1BAY) Remote | $20-30 | IR | Some | AA/AAA | use w/an included IR hub, Flirc USB adap, or HDMI-CEC. Good for Kodi/Plex
+**[Vista MCE](https://www.ebay.com/sch/i.html?_nkw=vista+mce+remote)** | $40 | IR | Some | AAA | use w/included IR hub, Flirc USB adap. **Built-in phy. trackpad**. [VRC-1100 clone](https://kodi.wiki/view/Archive:VRC-1100).
 **[Flirc](https://flirc.tv/more/flirc-usb)**  | $20 | USB/IR | NA | NA | USB IR Receiver for remotes. Wake/Sleep
 WeChip G20S Pro/Plus		|	$20	|	RF/BT		|	Yes	|	AAA	|	Remote and Air Mouse
 MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Remote, Mini keyboard, and Air Mouse
@@ -516,5 +517,5 @@ MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Remote, Mini keyboard, and Air Mouse
 
 ---
 
-*This page was last updated on 2025-07-08*
+*This page was last updated on 2025-07-20*
 
