@@ -664,7 +664,7 @@ A step up from the previous Medium build in internal capacity, but still used ha
 This is a setup with hardware off ebay using the old Ivy Bridge architecture. Plenty of power for NAS and utility task duties. Yes, it can be used as a Plex media server as well for its [Direct Play](https://support.plex.tv/articles/200430303-streaming-overview/) 
 and H264 transcode ability (look at the Dell 3620 option in the previous used build for 4k/HEVC transcoding), but that's not our primary focus here. Our focus is internal storage capacity.  
 
-This can fit 6x3.5 HDDs (using 3x3.5" and 3x5.25" mounts) officially. Since it has 6x SATA ports, you'll ideally use 1x for a SATA SSD for an os/app/cache drive and the other 5x for any data HDDs. For raw storage this has you in the realm of 40TB-120TB of storage potential. If you get creative, you can fit 8x 3.5" drives along with a [9211-8i SAS->SATA HBA](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=9211+8i&_sacat=0&LH_TitleDesc=0&_odkw=hp+cmt&_osacat=0&LH_PrefLoc=2) or [SATA card](https://www.amazon.com/10Gtek-Profile-Bracket-Controller-Expansion/dp/B09Y1PMZ2W), and [SATA Power Splitters](https://www.amazon.com/Cable-Matters-Power-Y-Splitter-Inches/dp/B00V6QA65G).  
+This can fit 6x3.5 HDDs (using 3x3.5" and 3x5.25" mounts) officially. Since it has 6x SATA ports, you'll ideally use 1x for a SATA SSD for an os/app/cache drive and the other 5x for any data HDDs. For raw storage this has you in the realm of 40TB-120TB of storage potential. If you get creative, you can fit 8x 3.5" drives along with a [9211-8i SAS->SATA HBA](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=9211+8i&_sacat=0&LH_TitleDesc=0&_odkw=hp+cmt&_osacat=0&LH_PrefLoc=2), and [SATA Power Splitters](https://www.amazon.com/Cable-Matters-Power-Y-Splitter-Inches/dp/B00V6QA65G).  
 
 If you go with an i5/i7 version, you'll get non-ECC memory. With a Xeon version you can use ECC memory, which is better for data integrity. 
 You should also have a battery-backup UPS as well if you really care about data integrity.  
@@ -930,5 +930,5 @@ TOTAL		|											|$824			|	|
 
 ---
 
-*This page was last updated on 2025-07-10*
+*This page was last updated on 2025-07-23*
 
