@@ -662,9 +662,9 @@ TOTAL		|							|	$1292	|			|
 A step up from the previous Medium Used build in internal capacity, but still used hardware, so similar in cost. It's large and an old arch, but good for mass storage and other lightweight duties vs the cost of a pre-built NAS.  
 
 This is a setup with hardware off ebay using the old Ivy Bridge architecture. Plenty of power for NAS and utility task duties. Yes, it can be used as a Plex media server as well for its [Direct Play](https://support.plex.tv/articles/200430303-streaming-overview/) 
-and H264 transcode ability (look at the Dell 3620 option in the previous used build for 4k/HEVC transcoding), but that's not our primary focus here. Our focus is internal storage capacity.  
+and H264 transcode ability. But for 4k/HEVC transcoding, look at the Dell 3620 option in the previous used build or throw a Quadro P620/P1000 in this. That being said, this is not our primary focus here. Our focus is lots of internal storage capacity for cheap.  
 
-This can fit 6x3.5 HDDs (using 3x3.5" and 3x5.25" mounts) officially. Since it has 6x SATA ports, you'll ideally use 1x for a SATA SSD for an os/app/cache drive and the other 5x for any data HDDs. For raw storage this has you in the realm of 40TB-120TB of storage potential. If you get creative, you can fit 8x 3.5" drives along with a [9211-8i SAS->SATA HBA](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=9211+8i&_sacat=0&LH_TitleDesc=0&_odkw=hp+cmt&_osacat=0&LH_PrefLoc=2), and [SATA Power Splitters](https://www.amazon.com/Cable-Matters-Power-Y-Splitter-Inches/dp/B00V6QA65G).  
+This can fit 6x3.5 HDDs (using 3x3.5" and 3x5.25" mounts) officially. Since it has 6x SATA ports, you'll ideally use 1x for a SATA SSD for an os/app/cache drive and the other 5x for any data HDDs. For raw storage this has you in the realm of 40TB-140TB of storage potential. If you get creative, you can fit 6x data drives (by putting an M.2 SSD on a PCIe card for app/cache) or fit 7-8x 3.5" drives coupled with a [9211-8i SAS->SATA HBA](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=9211+8i&_sacat=0&LH_TitleDesc=0&_odkw=hp+cmt&_osacat=0&LH_PrefLoc=2) pcie card, a triple 5.25" adapter, and [SATA Power Splitters](https://www.amazon.com/Cable-Matters-Power-Y-Splitter-Inches/dp/B00V6QA65G).  
 
 If you go with an i5/i7 version, you'll get non-ECC memory. With a Xeon version you can use ECC memory, which is better for data integrity. 
 You should also have a battery-backup UPS as well if you really care about data integrity.  
@@ -682,7 +682,7 @@ PC			|HP Z220 CMT Workstation				|$120		|	[Ebay](https://www.ebay.com/sch/i.html
 CPU			|Intel i5/i7-3xxx, Xeon E3-1xxx			|Included	|	NA			|	65-77 W, 4C/4T, PASSMARK: 4500
 MEM/STORAGE	|8GB DDR3 RAM, 500GB (varies) HDD		|Included	|	NA			|	Xeon: [ECC](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=ecc+8gb+12800+unbuffered+dimm&_sacat=0&LH_TitleDesc=0&_odkw=ecc+8gb+12800+unbuffered+dimm&_osacat=0&LH_PrefLoc=2), i3/i5: non-ECC
 STORAGE		|512GB 2.5" SATA SSD (OS/APP/CACHE)		|$30		|	[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=480000000000,22000000000000&t=0&sort=price&c1=di_sata.60)		| 
-STORAGE		|4-24TB HDD - (DATA) |Varies		|	NA			|	[NAS Drive List](/wiki/storage#hard-drives)
+STORAGE		|4-28TB HDD - (DATA) |Varies		|	NA			|	[NAS Drive List](/wiki/storage#hard-drives)
 OS			|Unraid/Ubuntu 25/OMV/Windows			|$0			|	[Ubuntu](https://ubuntu.com/download)		
 SOFTWARE	|Unraid Starter - 6 device license				|$50		|	[limetech](https://unraid.net/pricing)		|	OPTIONAL
 TOTAL		|										|$150		|	NA			|
