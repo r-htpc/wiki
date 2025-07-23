@@ -678,7 +678,7 @@ See our [Storage Setup Guide](/wiki/storage) for more information on software an
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
-PC			|HP Z220 CMT Workstation				|$120		|	[Ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313&_nkw=HP+Z220+CMT&_sacat=0)	| ALT: HP Z210 CMT
+PC			|HP Z220 CMT Workstation				|$120		|	[Ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313&_nkw=HP+Z220+CMT&_sacat=0)	| [specs](https://h20331.www2.hp.com/hpsub/downloads/z220_architecture_111512.pdf). ALT: HP Z210 CMT
 CPU			|Intel i5/i7-3xxx, Xeon E3-1xxx			|Included	|	NA			|	65-77 W, 4C/4T, PASSMARK: 4500
 MEM/STORAGE	|8GB DDR3 RAM, 500GB (varies) HDD		|Included	|	NA			|	Xeon: [ECC](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=ecc+8gb+12800+unbuffered+dimm&_sacat=0&LH_TitleDesc=0&_odkw=ecc+8gb+12800+unbuffered+dimm&_osacat=0&LH_PrefLoc=2), i3/i5: non-ECC
 STORAGE		|512GB 2.5" SATA SSD (OS/APP/CACHE)		|$30		|	[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=480000000000,22000000000000&t=0&sort=price&c1=di_sata.60)		| 
