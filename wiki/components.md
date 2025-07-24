@@ -445,7 +445,6 @@ KEYBOARD						|	PRICE	|	SIZE	|	INT		|	BACKLIT	|	POINT	|	BATTERY	|	NOTES
 [Arteck B08SK8D38P (HD197)](https://www.google.com/search?q=arteck+hd197)	|	[$30](https://www.amazon.com/dp/B08SK8D38P)		|	Full	|	BT		|	No		|	Pad		|	Int		|	14.6". Primary Volume/Media keys. Multi-connex
 [Arteck HB305-4B](https://www.google.com/search?q=arteck+hb305+4b)			|	[$35](https://www.amazon.com/dp/B09KLPJQPD)		|	Full	|	BT		|	Yes		|	Pad		|	Int		|	14.2". Primary Volume/Media keys
 [Rii K22S](http://www.riitek.com/product/267.html)				|	[$25/$32](https://www.amazon.com/Rii-K22-Multimedia-Rechargable-Raspberry/dp/B07KPVZ1Y4)	|	Full	|	RF/BT	|	No		|	Pad		|	Int		|	14", Primary Volume/Media keys. Multi-connex
-[Coastacloud B09PXYG3X7](https://www.amazon.com/stores/page/4040CD3A-98E3-48AF-BF5E-12F0EF68349C?ingress=2&visitId=2bbe211d-642b-4dc5-b467-bf026e93b00b&ref_=ast_bln)		|	[$42](https://www.amazon.com/dp/B09PXYG3X7)		|	Full	|	RF/BT	|	Yes		|	Pad		|	Int		|	14.4". Primary Volume/Media keys. Generic
 [Rii K18+](http://www.riitek.com/product/226.html)				|	[$27](https://www.amazon.com/Rii-Wireless-Keyboard-Rechargable-Raspberry/dp/B077VYRMC1)		|	Full	|	RF		|	Yes		|	Pad		|	Int		|	12.8". Primary Media keys
 **[Rii RT518S](https://www.amazon.com/Rii-Wireless-Keyboard-Rechargable-Raspberry/dp/B092CL5PNN/)**				|	[$35](https://www.amazon.com/Rii-Wireless-Keyboard-Rechargable-Raspberry/dp/B092CL5PNN/)		|	Full	|	RF/BT	|	Yes		|	Pad		|	Int		|	12.8". Primary Media keys. Version of K18+.
 [Perixx Periboard 706](https://perixx.com/products/periboard-706)	| [$40](https://www.amazon.com/Perixx-10532-PERIBOARD-706PLUS-Trackball-Dimension/dp/B006FNMB5I)	|	Compact	|	RF	|	No		|	Ball		|	AAA		|	12.4". Primary Volume/Media keys
@@ -461,7 +460,10 @@ Rii [K12+](https://www.amazon.com/Rii-K12-Portable-Stainless-Rechargeable/dp/B01
 **[iPazzPort KP-61SM](https://www.ipazzport.com/shop/mini-keyboard-remote/mini-usb-keyboard/ipazzport-backlit-mini-keyboard-with-touchpad-for-google-android-tv-box-raspberry-pi-smart-tv-kp-61sm/)**						|	[$25](https://www.amazon.com/iPazzPort-Bluetooth-Keyboard-Raspberry-KP-61SM/dp/B092MDFZ1J)		|	Mini	|	RF/BT/IR	|	Yes		|	Pad		|	Int		|	5.5", IR Learn. Primary Volume/Media keys
 [Rii - Various](http://www.riitek.com/product/mini.html)				|	NA		|	Various	|	RF/BT	|	Various	|	Various	|	Int		| All others
 No-name trackball keyboards	| [$35](https://www.amazon.com/dp/B094VVL7Q9)/[$45](https://www.amazon.com/dp/B076HNGH9Q)	|	Compact/Full	|	RF	|	No		|	Ball		|	AA		|	10.2"/14.1"
-
+<!-- 
+CURRENTLY UNAVAILABLE
+[Coastacloud B09PXYG3X7](https://www.amazon.com/stores/page/4040CD3A-98E3-48AF-BF5E-12F0EF68349C?ingress=2&visitId=2bbe211d-642b-4dc5-b467-bf026e93b00b&ref_=ast_bln)		|	[$42](https://www.amazon.com/dp/B09PXYG3X7)		|	Full	|	RF/BT	|	Yes		|	Pad		|	Int		|	14.4". Primary Volume/Media keys. Generic
+-->
 (1) Discontinued  
 (2) Proprietary, removable, can be replaced  
 
