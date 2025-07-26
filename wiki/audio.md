@@ -919,7 +919,7 @@ If you have a limited budget, but want really nice speakers, consider starting w
 
 2. If you have limited space and a small budget:  
    $700+ : $300 Sony STR-DH590/RX-V385/S570BT receiver, $250 [Dayton Audio BS41 3.0](https://www.parts-express.com/Dayton-Audio-BS41-41-LCR-Speaker-Bar-Black-300-686?quantity=1) / $300 [Polk XT15x2](https://www.amazon.com/Polk-Monitor-Bookshelf-Surround-Speakers/dp/B09BMXVQFT?th=) + [XT30](https://www.amazon.com/Polk-Monitor-Compact-Channel-Speaker/dp/B09BMXPT3B/), $130 Dayton Audio [MKSX4](https://www.parts-express.com/Dayton-Audio-MKSX4-Four-4-Driver-Low-Profile-Passive-Subwoofer-300-495)/SUB-800 Sub  
-*- HDMI 2.0, 4K HDR, 3.1 channels effective (5.1 expandable), TrueHD/DTS-HD MA lossless sound, ARC (DH590)/eARC (V385)*  
+*- HDMI 2.0/2.1, 4K HDR, 3.1 channels effective (5.1 expandable), TrueHD/DTS-HD MA lossless sound, ARC (DH590)/eARC (V385/S570BT)*  
 $400 : Vizio Elevate SL512X-08 soundbar - [Our custom rtings search](https://www.rtings.com/soundbar/tools/table/170868)  
 *- HDMI 2.0, 4K HDR, 5.1.2 (Vizio)/3.1.2-5.1.2 (Samsung) channels, Dolby Atmos/DTS:X lossless sound, eARC*  
 
