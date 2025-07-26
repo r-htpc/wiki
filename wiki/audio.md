@@ -193,8 +193,11 @@ This will send audio through your display. This is common for VRR (gsync/freesyn
 
  Video supported: Negotiated by HTPC and Display  
 
- Audio supported: Stereo PCM, Lossy DD+ 5.1/DTS 5.1 (ARC) or All (eARC) - Dependent on your display's audio pass-through support. See your display's manual or [rtings.com](https://rtings.com/tv) reviews for what audio codecs are supported and how to configure your display to pass-through/bitstream audio. If your display can't pass-through the codecs you want, see below scenarios. **If your display supports eARC but your sound system doesn't**, use an [eARC extractor](https://www.amazon.com/ViewHD-Adapter-Audio-Receiver-Application/dp/B08ZHCS5D9) between the display and the sound system's HDMI **input**.  
-
+ Audio supported:
+   - Dependent on your display's audio pass-through support. See your display's manual or [rtings.com](https://rtings.com/tv) reviews for what audio codecs are supported and how to configure your display to pass-through/bitstream audio. If your display can't pass-through the codecs you want, see below scenarios.
+   - **If your display supports eARC but your sound system doesn't**, use an [eARC extractor](https://www.amazon.com/ViewHD-Adapter-Audio-Receiver-Application/dp/B08ZHCS5D9) between the display and the sound system's HDMI **input**
+   - *ARC:* PCM 2.0/Lossy DD+Atmos 5.1/DTS 5.1, *eARC:* All, *Optical:* PCM 2.0/Lossy DD 5.1/DTS 5.1
+   
 **Scenario #3** - Your HTPC has/[could have](/wiki/components#gpusgraphics) multiple display outputs (hdmi/displayport/usb-c display out)
 
 <img src="https://i.imgur.com/mrtX8DH.png" width="550" height="300" alt="DIAGRAM">
