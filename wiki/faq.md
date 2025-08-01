@@ -391,7 +391,7 @@ BRAND/MODEL|PRICE|RESOLUTION|4k NETFLIX|HDR|WLAN/LAN|VOICE|USB|RATING|NOTES
 [Onn 4K](https://www.walmart.com/ip/onn-Google-TV-4K-Streaming-Box-New-2023-4K-UHD-resolution/2835618394) ([buy](https://www.walmart.com/ip/onn-Google-TV-4K-Streaming-Box-New-2023-4K-UHD-resolution/2835618394))|$20|4k@60|YES|10|ac/Opt (9a)|YES|Opt (8a)|V:Good A:Good|AV1, DC:NA, PT:LS DD/DTS, S905Y4 1.9Ghz/2GB/8GB
 [Onn 4K Plus](https://www.walmart.com/ip/4K-PLUS-STREAMING/13577404044) ([buy](https://www.walmart.com/ip/4K-PLUS-STREAMING/13577404044))|$30|4k@60|YES|10/+/DV|ax/Opt (9a)|YES|Opt (8a)|V:Good A:Good|AV1, DC:NA, PT:LS DA/DTS, S905X5M 2.5Ghz/2GB/16GB
 **[Onn 4K Pro](https://www.walmart.com/ip/4K-Pro-Streaming-Device/5193222892)** ([buy](https://www.walmart.com/ip/4K-Pro-Streaming-Device/5193222892))|**$50**|4k@60|YES|10/+/DV|ax/100M, Opt (9c)|YES|Opt (8c)|V:Better A:Good|AV1, DC:NA, PT:LS DA/DTS, S905X4 2Ghz/3GB/32GB
-[ChromeCast w/Google TV 4k](https://store.google.com/product/chromecast_google_tv) ([buy](https://store.google.com/config/chromecast_google_tv))|$50|4k@60|YES|10/+/DV|ac/Opt (9b)|YES|Opt (8a)|V:Better A:Good|2nd gen. AV1, DV-5/8, DC:DD+, PT:LS DA/DTS, S905D3 1.9Ghz/2GB/8GB
+[ChromeCast w/Google TV 4k](https://store.google.com/product/chromecast_google_tv) (DISC)|$50|4k@60|YES|10/+/DV|ac/Opt (9b)|YES|Opt (8a)|V:Better A:Good|2nd gen. AV1, DV-5/8, DC:DD+, PT:LS DA/DTS, S905D3 1.9Ghz/2GB/8GB
 [Google TV Streamer 4k](https://store.google.com/us/product/google_tv_streamer?hl=en-US) ([buy](https://store.google.com/us/product/google_tv_streamer?hl=en-US))|$100|4k@60|YES|10/+/DV|ac/1000M|YES|Opt (8c)|V:Better A:Good|3rd/latest gen. AV1, DV-5/8, DC:LS DA/DTHD/DTSHD->PCM, PT:LS DA/DTS, MT8696/4GB/32GB
 **[Amazon Fire TV stick 4K MAX (2023)](https://www.amazon.com/dp/B0BP9SNVH9)** ([buy](https://www.amazon.com/dp/B0BP9SNVH9))|**$60**|4K@60|YES|10/+/DV|Opt (9a)|YES|ax/Opt (8a)|V:Better A:Better|2nd gen, AV1, DV-5/8, PT:**LL DA**/DTSHD, 2.0Ghz/2GB/16GB
 [Amazon Fire TV stick 4K MAX (2021)](https://www.amazon.com/dp/B08MQZXN1X) ([buy](https://www.amazon.com/dp/B08MQZXN1X))|$55|4K@60|YES|10/+/DV|Opt (9a)|YES|ax/Opt (8a)|V:Better A:Better|1st gen, AV1, DV-5/8, PT:LS DA, 1.8Ghz/2GB/8GB
@@ -443,13 +443,15 @@ DISCONTINUED
 
 ## What is the best client device to stream content to my TV?
 
-The Amazon FireTV sticks, Roku and Google ChromeCast w/Google TV products all work very similarly at their respective price levels. Performance, interfaces, remotes all on par with each other with minor differences like types of buttons offered, apps supported, private listening, etc.. Limitations are similar as well; lack of USB storage and no lossless sound output is common across platforms. If you're just looking for something simple to plug into your TV and play Netflix/Hulu/Amazon Prime, $40 or so will get it done.  
+The Amazon FireTV sticks, Roku and Google TV products all work very similarly at their respective price levels. Performance, interfaces, remotes all on par with each other with minor differences like types of buttons offered, apps supported, private listening, etc.. Limitations are similar as well; lack of USB storage and no lossless sound output is common across platforms. If you're just looking for something simple to plug into your TV and play Netflix/Hulu/Amazon Prime, $40 or so will get it done.  
 
 Your choice may come down to a particular ecosystem you're already tied to or want to get into.  
 
 If you use/want to use Amazon Alexa a lot you may want to go with a FireTV device.  
 
-If you use/want to use Google Assistant a lot or want an Android TV experience, you may want to go with a Chromecast w/Google TV.  
+If you use/want to use Google Assistant a lot or want an Android TV experience, you may want to go with a Onn 4k Pro.  
+
+If you want something ad-free, then an Apple TV 4K or an Onn 4k Pro + ATV Launcher.  
 
 If you want something more content provider-agnostic that searches across them well and has a lot of curated/free content, you may want to go with a Roku device.  
 
@@ -836,5 +838,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2025-07-13*
+*This page was last updated on 2025-07-31*
 
