@@ -237,7 +237,7 @@ Advanced, more powerful dynamic tonemapping, high-end upscaling and processing t
 -->
 
 * *Requirements:*
-  * *If you don't want to use the K-lite Codec Pack way to install, see the [Appendix](/wiki/hdr#appendix) section for the minimal MPC-HC/BE and madVR software* 
+  * *If you don't want to use the K-lite Codec Pack way to install, see the [Appendix](/wiki/hdr#appendix) section for the minimal MPC-HC/BE and madVR software config* 
   * MPC-HC: Install K-Lite Codec Pack FULL: ([download](https://www.codecguide.com/download_k-lite_codec_pack_full.htm))  
     * Install options: Mode: Normal, Player: MPC-HC, Components: Essentials, Defaults for everything else
   * MPC-BE: Install MPC-BE: ([download](https://github.com/Aleksoid1978/MPC-BE/releases)), then Install K-Lite Codec Pack FULL: ([download](https://www.codecguide.com/download_k-lite_codec_pack_full.htm))  
