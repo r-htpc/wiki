@@ -1115,5 +1115,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2025-07-26*
+ *This page was last updated on 2025-08-06*
 
