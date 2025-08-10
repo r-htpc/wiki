@@ -91,7 +91,7 @@ $150-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB
 
 <!-- Sub-Section -->
 
-### Specialized: Emulation/Light Gaming/Game Streaming
+### Specialized: Emulation/Gaming/Game Streaming
 
 - Game Streaming:
   - <= 4K@60Hz: GMKTec G3 Plus (N150)
@@ -111,8 +111,10 @@ $150-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB
   - $500+: Ultra (<= Xbox 360)
     - Minisforum [UM870](https://www.amazon.com/MINISFORUM-Desktop-Computer-Barebone-Graphics/dp/B093V18HKB/?th=1) / [UM790 Pro](https://store.minisforum.com/collections/game-mini-pc/products/minisforum-um790-pro?variant=44134865731829) 
 
- See [ETA PRIME](https://www.youtube.com/@ETAPRIME) YT channel for Emulation device reviews  
-
+   - See [ETA PRIME](https://www.youtube.com/@ETAPRIME) YT channel for Emulation device reviews  
+- Medium Gaming:
+  - Asus NUC 14 Performance (RTX 4060/4070), Asus ROG NUC 760/970 (RTX 4060/4070), Minisforum 790S7 (RTX 4060), Minisforum HX99G (RX 6600M)
+ 
 <!-- Sub-Section -->
 
 ### Specialized: 4K Netflix
