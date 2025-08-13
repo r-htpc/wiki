@@ -388,8 +388,9 @@ COMMON REQUIREMENTS (Windows):
 BROWSERS/STREAMING SERVICES:  
 1. Make sure your service supports a bitstreamable codec (Dolby/DD). See: [Wiki:FAQ:What resolution and audio is supported on streaming service X?](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x)
 2. Install the app for your service from the Microsoft store or use the Microsoft Edge browser.
-3. If Netflix 5.1+, install Dolby Access per [Netflix's help page](https://help.netflix.com/en/node/14163)
-4. Test your browser's audio capabilities with [Dolby's capabilities test website](https://ott.dolby.com/codec_test/index.html)
+3. If Netflix DD 5.1+, install and configure Dolby Access as per [Netflix's help page](https://help.netflix.com/en/node/14163) and reboot.
+4. DD 5.1 on streaming services does not work natively over Optical directly from an HTPC. If you must use Optical, either encode system-wide audio to Dolby Digital per the alternatives instructions of [this section of the wiki](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) or run HDMI to your display and then Optical to your sound system.
+5. Test your browser's audio capabilities with [Dolby's capabilities test website](https://ott.dolby.com/codec_test/index.html)
 
 MPC-HC:  
 These steps assume you have the latest version of [MPC-HC clsid2](https://github.com/clsid2/mpc-hc/releases)  
