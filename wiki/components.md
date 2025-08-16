@@ -216,7 +216,10 @@ Asus, MSI, Gigabyte, ASRock. Avoid Biostar!
 
 See [/r/4kTV](https://www.reddit.com/r/4kTV), [/r/Televisions](https://www.reddit.com/r/Televisions) and [/r/Projectors](https://www.reddit.com/r/Projectors) sub-reddits.  
 
-We will not support Laptop Screens or PC Monitors as Home Theater display devices due to: lack of low (23p-25p) refresh rate matching support, lack of ARC/eARC, poor contrast ratios (< 3000:1), upscaling and HDR capabilities compared to TVs, along with non-standard (1440p) resolutions that can't be passed-through sound systems.  
+We will not support Laptop Screens or PC Monitors as Home Theater display devices due to:
+ - Lack of low (23p-25p) refresh rate matching support  
+ - Lack of ARC/eARC for audio passthrough  
+ - Poor contrast ratios (< 3000:1), upscaling, preservation and HDR tonemapping capabilities  
 
 <!-- Sub-Section -->
 
