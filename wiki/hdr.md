@@ -17,8 +17,8 @@ keywords: [hdr, hdr10, madvr, mpc, tonemapping, kodi, plex, upscaling]
 ## Overview
 * This setup guide is only for HDR10 passthrough and simple tonemapping.
   - *Passthrough* refers to sending the HDR metadata to the display as-is, resulting in the display showing an HDR logo and doing its own brightness level tonemapping of the content based on the displays capabilities. This is ideal. 
-  - *Simple tonemapping* refers to modifying the HDR metadata on the source device to fit inside the brightness dynamic range of the display. This is usually done with a target brightness of 100 nits for SDR or poorly-capable HDR displays. On some clients this nits value is configurable.
-  - *Dynamic Tonemapping* refers to modifying the HDR metadata on the source device to adjust the brightness levels on a per-scene basis. This requires at least a mid-range GPU. This method is not covered here.
+  - *Simple tonemapping* refers to modifying the HDR metadata on the source device to fit inside the brightness and color range of the display. This is usually done for SDR or poorly-capable HDR displays. By default, this is done to SDR levels with a target brightness of 100 nits and the Rec. 709 [color space](https://r-htpc.github.io/wiki/video#video-metadatacolor-technologies). On some renderers below (like madVR/MPC VR) this nits value is configurable.
+  - *Dynamic Tonemapping* refers to modifying the HDR metadata on the source device to adjust the brightness levels on a per-scene basis. This requires a lot of processing and requires at least a mid-range GPU. This method is not covered here.
 * **Dolby Vision/HDR10+ is not discussed here as no stable passthrough options exist on a PC**. For basic Profile 5/8 support, either use [JRiver](https://jriver.com/) and it's own dynamic tonemapping with basic DV metadata, MPC Video Renderer in [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases) with static tonemapping, or read [this post](https://www.reddit.com/r/htpc/comments/1936n8g/dolby_vision_lldv_now_possible_on_windows_1011/) for other experimental support; otherwise buy a [Media Device](/wiki/sample-builds#specialized-dolby-vision--hdr10).  
 * Read our [HDR section](/wiki/faq#what-is-hdr-video-and-what-do-i-need-to-take-advantage-of-it) of the Wiki FAQ for detailed information on PC hardware requirements.  
 * This guide is for HT displays only. Neither monitors, nor multiple displays are officially supported here.  
@@ -688,5 +688,5 @@ AMD RX >= 67xx|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Dif
 
 ---
 
-*This page was last updated on 2025-07-16*
+*This page was last updated on 2025-08-16*
 
