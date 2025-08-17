@@ -537,8 +537,28 @@ Simple, HDR Passthrough or Tonemapping
      `target-prim=dci-p3`<br>
      `dolbyvision=no`<br>
      <!--
+     MISC
      `target-contrast=inf ##inf is for OLED, for LCD get the contrast value from rtings or similar`<br>
      `target-peak=700    ## If you have an HDR display, adjust this to the 10% peak`<br>
+     HDR->SDR TONEMAPPING
+     `target-colorspace-hint=no`<br>
+     `gamut-mapping-mode=clip`<br>
+     `vf=format:dolbyvision=no:hdr10plus=no`<br>
+     `tone-mapping=st2094-10`<br>
+     `target-peak=100`<br>
+     `hdr-compute-peak=yes`<br>
+     `allow-delayed-peak-detect=yes`<br>
+     `hdr-peak-percentile=99.9`<br>
+     `target-prim=bt.2020`<br>
+     `target-trc=pq`<br>
+     `saturation=-20`<br>
+     MESA 25.1+ HDR
+     `vo=gpu-next`<br>
+     `hwdec=vulkan`<br>
+     `gpu-api=vulkan`<br>
+     `gpu-context=waylandvk`<br>
+     `target-colorspace-hint=yes`<br>
+     `target-trc=pq`<br>
      -->
 * *Test*
   * *Plex HTPC app*  
