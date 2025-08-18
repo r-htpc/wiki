@@ -239,7 +239,7 @@ For the software side of things, there are various tools you may need to take ad
 
 Windows, Linux and Android are the most popular choices, as you can imagine. 
 
-If you want to get the highest resolution from streaming services (esp. DRMed ones), use HDR, video upscaling like madVR, or are combining with a gaming solution, you would use Windows. 
+If you want to get the highest resolution from [streaming services](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x) (esp. DRMed ones), use HDR, video upscaling like madVR, or are combining with a gaming solution, you would use Windows. 
 
 Linux, alternatively, is possible, but you will be limited to [lower resolution streaming services](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x) and no HDR with stock distros.
 
