@@ -548,7 +548,7 @@ From Worst to Best quality (and generally least resource intensive to most) the 
 
 Nearest Neighbor, Bilinear, DXVA, Cubic (Mitchell Netravali), Cubic (BiCubic), Catmull-Rom, Lanczos 2/3, Spline, Jinc, SSIM (downscale), super-xbr, NGU Standard (>= doubling), NGU Sharp (>= doubling). The Anti-Ringing/AR option added on to any algo is ideal, where available.  
 
-These are OBJECTIVE rankings, and not SUBJECTIVE. Visual preferences are subjective i.e. different for each person. Test the algos to find the sweet spot for your own visual and GPU load/noise preferences. Do not go past the [recommended algos for your particular GPU](/wiki/hdr#madvr-performance-settings-per-gpu) without extensive performance testing.  
+These are OBJECTIVE rankings, and not SUBJECTIVE. Visual preferences are subjective i.e. different for each person. Test the algos to find the sweet spot for your own visual and GPU load/noise preferences. Do not go past the [reasonable max algos for your particular GPU](/wiki/hdr#madvr-performance-settings-per-gpu) without extensive performance testing.  
 
 [MPC VR](/wiki/hdr#mpc-be--mpc-video-renderer) will allow you to go up to the Jinc algo. [madVR](/wiki/hdr#mpc-hcmpc-be--madvr) to the NGU Sharp algo.  
 
