@@ -249,24 +249,6 @@ For Android ports to PC look at [Android x86](https://www.android-x86.org/) or [
 
 For a gaming-centric OS, if you have a AMD or Intel ARC gpu, look at [Bazzite](https://universal-blue.discourse.group/t/bazzite-inital-setup-and-installation-for-htpc-setups/1145) or [ChimeraOS](https://chimeraos.org/).  
 
-**Media Players:** 
-
-For [video streaming services](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x), use Microsoft Edge to get 1080p+, or the service's app (if available).  
-
-For simple media players, using local content, [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases), [VLC](https://www.videolan.org/vlc/) and [MPC-HC](https://github.com/clsid2/mpc-hc/releases/) are popular on Windows, with [VLC](https://www.videolan.org/vlc/) on Linux.  
-
-If [HDR passthrough](/wiki/hdr) is what you're looking for, then look at [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases), [VLC](https://www.videolan.org/vlc/) or Kodi. For high-end video upscaling or HDR tonemapping, look at getting the [madVR](http://madshi.net/madVR.zip) renderer for MPC-BE, Kodi, or MPC-HC For FPS upscaling, [SmoothVideo Project](https://www.svp-team.com/).  
-
-But perhaps you want a more full-featured player/interface..  
-
-If you DON'T need to serve media to other devices and just want a well-supported, highly-customizable home theater front-end, look at [Mediaportal](http://www.team-mediaportal.com/), [Jriver](https://www.jriver.com/) or [Kodi](http://kodi.tv/). All three will pull down metadata for the media you point them to, keep track of what you have watched/haven't watched, keep playback progress, pass-through HDR, and play from your internal or network storage. For Kodi, start with Kodi's [First Time User guide](https://kodi.wiki/view/First_time_user) and 3rd party guides like [this](https://androidpcreview.com/how-to-setup-kodi-the-right-way/). For the others, venture over to their subreddit or forums for setup help.  
-
-For playback of 3D MVC/Frame-Packed/SBS content, read the [guide here](https://www.reddit.com/r/htpc/comments/115ap94/how_to_get_full_hd_3d_frame_packing_from_a_pc_or/)  
-
-**Media Servers:** 
-
-If you DO need to serve media to other devices (local or remote), [Plex Media Server](https://www.plex.tv) is very popular and will index your media, pull metadata (like cover art/plot/cast/tv show data), track what you have watched/haven't watched and stream it out to your client devices. It also has a [wide range of player apps](https://www.plex.tv/media-server-downloads/#plex-app) to install on your client devices. For PC specifically, there is Plex HTPC (keybrd/remote-based) and Plex for Windows (mouse-based). If you don't like the plex-branded ones, you can, alternatively, integrate the [Kodi](https://kodi.tv/addons/matrix/script.plex) player with the Plex server. For alternatives to Plex Media Server, there is [Emby](http://emby.media/) and [Jellyfin](https://jellyfin.org/). See our [dedicated section](/wiki/faq#can-i-streamhow-do-i-serve-my-content-from-another-computer-or-a-networked-storage-device) for more information. 
-
 **Launchers:** 
 
 For a launcher interface to open multiple apps, look at:
@@ -278,13 +260,20 @@ For a launcher interface to open multiple apps, look at:
  - [Windows 10 start menu in full screen mode](https://www.reddit.com/r/htpc/comments/92ek4d/homescreen_for_htpc_and_ideas_for_what_i_can_put/e356duu/)
  - [Windows tablet mode](https://www.tenforums.com/tutorials/3755-turn-off-tablet-mode-windows-10-a.html)
 
-**Organization:** 
+**Media Players:** 
 
-To organize your content, look at Radarr (movies), Sonarr (tv), Lidarr (music) and Bazarr (subtitles). You can use these together to keep your content in properly named files/folders for Plex, retrieve subtitles and show you what content you have or don't have. You can interface with these using their respective web interfaces or with an app like [nzb360](https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360&hl=en_US&gl=US) on an android device. For metadata management, look at [Media Hoarder](https://media.hoarder.software). For file management, look at [Total Commander](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander) [w/LAN plugin](https://play.google.com/store/apps/details?id=com.ghisler.tcplugins.LAN) or [X-Plore](https://www.lonelycatgames.com/apps/xplore).  
+For [video streaming services](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x), use Microsoft Edge to get 1080p+, or the service's app (if available).  
 
-For an overall sense of how a basic HTPC platform should look with playback, serving, storage, and organization, look at our [diagram here](https://i.imgur.com/gUI1R6z.png).  
+For simple media players, using local content, [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases), [VLC](https://www.videolan.org/vlc/) and [MPC-HC](https://github.com/clsid2/mpc-hc/releases/) are popular on Windows, with [VLC](https://www.videolan.org/vlc/) on Linux.  
 
-For a comprehensive guide to setting up all the backend organizational/serving software, the [HTPC Box Guide](https://github.com/sebgl/htpc-download-box) will take you through a modern installation approach to the stack using Linux & Docker containers. The [TRaSH Guide](https://trash-guides.info/Hardlinks/How-to-setup-for/) is a good supplement to this. For Windows, we can recommend [The Ultimate Server Guide](http://www.cuttingcords.com/home/ultimate-server/getting-started); even though it's old, the concepts are the same. The [Servarr Wiki](https://wiki.servarr.com/) is a great reference for all the \*arr software.  
+If [HDR passthrough](/wiki/hdr) is what you're looking for, then look at [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases), [VLC](https://www.videolan.org/vlc/) or Kodi. For high-end video upscaling or HDR tonemapping, look at getting the [madVR](http://madshi.net/madVR.zip) renderer for MPC-BE, Kodi, or MPC-HC For FPS upscaling, [SmoothVideo Project](https://www.svp-team.com/).  
+
+But perhaps you want a more full-featured player/interface..  
+
+If you DON'T need to serve media to other devices and just want a well-supported, highly-customizable home theater front-end, look at [Mediaportal](http://www.team-mediaportal.com/), [Jriver](https://www.jriver.com/) or [Kodi](http://kodi.tv/). All three will pull down metadata for the media you point them to, keep track of what you have watched/haven't watched, keep playback progress, pass-through HDR, and play from your internal or network storage. For Kodi, start with Kodi's [First Time User guide](https://kodi.wiki/view/First_time_user) and 3rd party guides like [this](https://androidpcreview.com/how-to-setup-kodi-the-right-way/).  
+If you DO need to serve media to other devices (local or remote) and/or want centralized metadata management, see Plex/Jellyfin/Emby client/server solutions in Media Servers below.
+
+For playback of 3D MVC/Frame-Packed/SBS content, read the [guide here](https://www.reddit.com/r/htpc/comments/115ap94/how_to_get_full_hd_3d_frame_packing_from_a_pc_or/)  
 
 **Gaming/Emulation:** 
 
@@ -300,6 +289,18 @@ For Game Emulation, look at:
 For Game Streaming, look at [Sunshine](https://app.lizardbyte.dev/Sunshine) on your server/gaming PC and [Moonlight](https://moonlight-stream.org/) on your frontend client ([Windows/Linux/Android](https://github.com/moonlight-stream/moonlight-qt)/[LibreElec](https://github.com/veldenb/plugin.program.moonlight-qt)/tvOS).  
 
 For Gaming, look at Steam w/Windows or Linux, as well as [Bazzite](https://universal-blue.discourse.group/t/bazzite-inital-setup-and-installation-for-htpc-setups/1145) or [ChimeraOS](https://chimeraos.org/) for a whole Steam-based OS.  
+
+**Media Servers:** 
+
+[Plex Media Server](https://www.plex.tv) is very popular and will index your media, pull metadata (like cover art/plot/cast/tv show data), track what you have watched/haven't watched and stream it out to your client devices. It also has a [wide range of player apps](https://www.plex.tv/media-server-downloads/#plex-app) to install on your client devices. For PC specifically, there is Plex HTPC (keybrd/remote-based) and Plex for Windows (mouse-based). If you don't like the plex-branded ones, you can, alternatively, integrate the [Kodi](https://kodi.tv/addons/matrix/script.plex) player with the Plex server. For alternatives to Plex Media Server, there is [Emby](http://emby.media/) and [Jellyfin](https://jellyfin.org/). See our [dedicated section](/wiki/faq#can-i-streamhow-do-i-serve-my-content-from-another-computer-or-a-networked-storage-device) for more information. 
+
+**Organization:** 
+
+To organize your content, look at Radarr (movies), Sonarr (tv), Lidarr (music) and Bazarr (subtitles). You can use these together to keep your content in properly named files/folders for Plex, retrieve subtitles and show you what content you have or don't have. You can interface with these using their respective web interfaces or with an app like [nzb360](https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360&hl=en_US&gl=US) on an android device. For metadata management, look at [Media Hoarder](https://media.hoarder.software). For file management, look at [Total Commander](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander) [w/LAN plugin](https://play.google.com/store/apps/details?id=com.ghisler.tcplugins.LAN) or [X-Plore](https://www.lonelycatgames.com/apps/xplore).  
+
+For an overall sense of how a basic HTPC platform should look with playback, serving, storage, and organization, look at our [diagram here](https://i.imgur.com/gUI1R6z.png).  
+
+For a comprehensive guide to setting up all the backend organizational/serving software, the [HTPC Box Guide](https://github.com/sebgl/htpc-download-box) will take you through a modern installation approach to the stack using Linux & Docker containers. The [TRaSH Guide](https://trash-guides.info/Hardlinks/How-to-setup-for/) is a good supplement to this. For Windows, we can recommend [The Ultimate Server Guide](http://www.cuttingcords.com/home/ultimate-server/getting-started); even though it's old, the concepts are the same. The [Servarr Wiki](https://wiki.servarr.com/) is a great reference for all the \*arr software.  
 
 **Other software:** 
 
