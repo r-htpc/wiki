@@ -923,9 +923,9 @@ GPU			|Nvidia RTX 2060 Super	|$160		|[ebay](https://www.ebay.com/sch/i.html?_nkw
 MEM			|Corsair Vengeance 16GB 2x8GB DDR4-3200					|$40			|[pcpartpicker](https://pcpartpicker.com/product/p6RFf7/corsair-memory-cmk16gx4m2b3200c16)	|
 STORAGE		|WD SN7100 1TB NVMe M.2 SSD TLC					|$70		|[pcpartpicker](https://pcpartpicker.com/product/MYP8TW/western-digital-wd_black-sn7100-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds100t4x0e-00cja0)	|ALT: WD SN850X 1TB M.2 ($75)
 COOL		|Thermalright AXP90-X47 CPU cooler 						|$25				|[pcpartpicker](https://pcpartpicker.com/product/7GTp99/thermalright-axp90-x47-black-4258-cfm-cpu-cooler-axp90-x47-black)	|ALT: ID Cooling IS-50X/55 ($30)
-COOL		|Noctua NF-A9x14 92mm Case fans 3x				|$60				|[Quietpc](https://www.quietpc.com/nf-a9x14-hs-pwm-ch-bk-s)	|2x is ok too for less noise, +4-5C temp
-PSU			|EVGA SuperNOVA 550 GM SFX				|$110			|[pcpartpicker](https://pcpartpicker.com/product/QgyV3C/evga-supernova-gm-550w-80-gold-certified-fully-modular-sfx-power-supply-123-gm-0550-y1)	|ALT: Cooler Master V550 SFX Gold ($105)
-TOTAL		|											|$825			|	|
+COOL		|Arctic P14 PWM PST 140mm 2x				|$26				|[Amazon](https://www.amazon.com/ARCTIC-P14-PWM-PST-Pressure-optimised/dp/B07GZJY4TM)	|
+PSU			|Silverston SX500-G SFX				|$120			|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&sort=price&page=1)	|ALT: Cooler Master V750 SFX Gold ($140)
+TOTAL		|											|$801			|	|
 
 <!-- Footer -->
 &nbsp;
