@@ -904,9 +904,9 @@ TOTAL		|													|$745		|	|
 
 <!-- Sub-Section -->
 
-### $850 VR Box - Sandwich Case Variation (9.7L)
+### $850 VR Box - Sandwich Case Variation (12.4L)
 
-The $800 VR Box with a Geeek sandwich case. A little bit smaller than the SG13B.  
+The $800 VR Box with a Geeek sandwich case. About the same size as the SG13B.  
 
 This changes the CPU cooler, PSU and fan compatibility. We can also use a longer GPU.  
 
@@ -916,7 +916,7 @@ The RX 6600 XT is good for 1080p VR, but expect to jump to the RX 6650 XT/RTX 20
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
-CASE		|Geeek A50 Plus + PCIe riser cable					|$89				|[Geeek](https://www.geeekstore.com/shop/a50-plus-mini-itx-case/)	|13" x 5.5" x 8.4" ALT: Geeek A60 Plus ($99)
+CASE		|Geeek G1 Pro + PCIe riser cable					|$110				|[Geeek](https://www.geeekstore.com/shop/g1-pro-mini-itx-case/)	|13.6" x 5.9" x 9.5"
 MOBO		|ASRock B550M-ITX/ac					|$130			|[pcpartpicker](https://pcpartpicker.com/product/G6VG3C/asrock-b550m-itxac-mini-itx-am4-motherboard-b550m-itxac)	|ALT: ASRock A520M-ITX/ac ($100)
 CPU			|AMD Ryzen 5600								|$120			|[pcpartpicker](https://pcpartpicker.com/product/PgcG3C/amd-ryzen-5-5600-36-ghz-6-core-processor-100-100000927box)	|ALT: Ryzen 5500
 GPU			|Nvidia RTX 2060 Super	|$160		|[ebay](https://www.ebay.com/sch/i.html?_nkw=rtx+2060+super&_sacat=0&_from=R40&LH_BIN=1&_sop=15&_blrs=recall_filtering)|ALT: Radeon RX 6600 XT ($160)
@@ -925,7 +925,7 @@ STORAGE		|WD SN7100 1TB NVMe M.2 SSD TLC					|$70		|[pcpartpicker](https://pcpar
 COOL		|Thermalright AXP90-X47 CPU cooler 						|$25				|[pcpartpicker](https://pcpartpicker.com/product/7GTp99/thermalright-axp90-x47-black-4258-cfm-cpu-cooler-axp90-x47-black)	|ALT: ID Cooling IS-50X/55 ($30)
 COOL		|Noctua NF-A9x14 92mm Case fans 3x				|$60				|[Quietpc](https://www.quietpc.com/nf-a9x14-hs-pwm-ch-bk-s)	|2x is ok too for less noise, +4-5C temp
 PSU			|EVGA SuperNOVA 550 GM SFX				|$110			|[pcpartpicker](https://pcpartpicker.com/product/QgyV3C/evga-supernova-gm-550w-80-gold-certified-fully-modular-sfx-power-supply-123-gm-0550-y1)	|ALT: Cooler Master V550 SFX Gold ($105)
-TOTAL		|											|$804			|	|
+TOTAL		|											|$825			|	|
 
 <!-- Footer -->
 &nbsp;
