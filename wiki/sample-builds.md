@@ -893,7 +893,7 @@ We chose a pretty small GPU here, but you can just as easily choose one all the 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE		|SilverStone SG13B										|$65			|[pcpartpicker](https://pcpartpicker.com/product/WG2bt6/silverstone-sg13-v2-mini-itx-tower-case-sg13b-usa)	|11.2" x 8.7" x 7.1"
-MOBO		|ASRock B550M-ITX/ac					|$130			|[pcpartpicker](https://pcpartpicker.com/product/G6VG3C/asrock-b550m-itxac-mini-itx-am4-motherboard-b550m-itxac)	|ALT: [ASrock Fatal1ty B450 Gaming-ITX/ac](https://pcpartpicker.com/product/N4jJ7P/asrock-fatal1ty-b450-gaming-itxac-mini-itx-am4-motherboard-b450-gaming-itxac) ($150)
+MOBO		|ASRock B550M-ITX/ac					|$130			|[pcpartpicker](https://pcpartpicker.com/product/G6VG3C/asrock-b550m-itxac-mini-itx-am4-motherboard-b550m-itxac)	|ALT: ASRock A520M-ITX/ac ($100)
 CPU			|AMD Ryzen 5600								|$120			|[pcpartpicker](https://pcpartpicker.com/product/PgcG3C/amd-ryzen-5-5600-36-ghz-6-core-processor-100-100000927box)	|ALT: Ryzen 5500
 GPU			|Nvidia RTX 2060 Super	|$160		|[ebay](https://www.ebay.com/sch/i.html?_nkw=rtx+2060+super&_sacat=0&_from=R40&LH_BIN=1&_sop=15&_blrs=recall_filtering)|ALT: Radeon RX 6600 XT ($160)
 COOL		|Cooler Master MasterLiquid ML120L 120mm AIO				|$80		|[pcpartpicker](https://pcpartpicker.com/product/4TpmP6/cooler-master-masterliquid-ml120l-rgb-v2-6559-cfm-liquid-cpu-cooler-mlw-d12m-a18pc-r2)	|ALT: Corsair H60/H80i 120mm AIO ($80/$120), Noctua NH-L12S ($50)
@@ -917,7 +917,7 @@ The RX 6600 XT is good for 1080p VR, but expect to jump to the RX 6650 XT/RTX 20
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE		|Geeek A50 Plus + PCIe riser cable					|$89				|[Geeek](https://www.geeekstore.com/shop/a50-plus-mini-itx-case/)	|13" x 5.5" x 8.4" ALT: Geeek A60 Plus ($99)
-MOBO		|ASRock B550M-ITX/ac					|$130			|[pcpartpicker](https://pcpartpicker.com/product/G6VG3C/asrock-b550m-itxac-mini-itx-am4-motherboard-b550m-itxac)	|ALT: [ASrock Fatal1ty B450 Gaming-ITX/ac](https://pcpartpicker.com/product/N4jJ7P/asrock-fatal1ty-b450-gaming-itxac-mini-itx-am4-motherboard-b450-gaming-itxac) ($150)
+MOBO		|ASRock B550M-ITX/ac					|$130			|[pcpartpicker](https://pcpartpicker.com/product/G6VG3C/asrock-b550m-itxac-mini-itx-am4-motherboard-b550m-itxac)	|ALT: ASRock A520M-ITX/ac ($100)
 CPU			|AMD Ryzen 5600								|$120			|[pcpartpicker](https://pcpartpicker.com/product/PgcG3C/amd-ryzen-5-5600-36-ghz-6-core-processor-100-100000927box)	|ALT: Ryzen 5500
 GPU			|Nvidia RTX 2060 Super	|$160		|[ebay](https://www.ebay.com/sch/i.html?_nkw=rtx+2060+super&_sacat=0&_from=R40&LH_BIN=1&_sop=15&_blrs=recall_filtering)|ALT: Radeon RX 6600 XT ($160)
 MEM			|Corsair Vengeance 16GB 2x8GB DDR4-3200					|$40			|[pcpartpicker](https://pcpartpicker.com/product/p6RFf7/corsair-memory-cmk16gx4m2b3200c16)	|
@@ -932,5 +932,5 @@ TOTAL		|											|$804			|	|
 
 ---
 
-*This page was last updated on 2025-08-15*
+*This page was last updated on 2025-09-02*
 
