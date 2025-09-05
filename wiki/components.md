@@ -110,8 +110,8 @@ Some features like HDR, 4K and protected content will restrict you to certain dG
 
 Below are the minimum requirements for each scenario and a recommendation. The recommendations are generalized and may change depending on your budget, regional availability, space/power requirements, and whether you want new or second-hand parts. If you're not sure, post and ask us for a rec based on your detailed use-case.  
 
-- **Best All-Rounder: AMD RX 6400**
-  - Will run [4k@120Hz](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output), has low-profile versions and only requires PCIe slot power. Its weakness is it doesn't have AV1 media decoding. To get that w/only 4k@60Hz, look at Intel Arc A310/A380. For both 120Hz and AV1, look at the RTX 3050 6GB
+- **Best All-Rounder: Intel Arc A310/A380**
+  - Will run 4k@60Hz, HDR, AV1, has low-profile versions and only requires PCIe slot power. Its weakness is it doesn't do [4k@120Hz](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output). To get that, look at the Nvidia RTX 3050 6GB. If you don't need AV1, the AMD Radeon RX 6400.
 
 - 1080p H264, 4k@30Hz video out or for DP/HDMI HD audio only: AMD Radeon R5 340/Nvidia GT 730 (REC: [Dell R5 340](https://www.ebay.com/sch/27386/i.html?_from=R40&_nkw=amd+%28r5%2Cr7%29+%28240%2C340%29&LH_BIN=1&_sop=15)) 
 
