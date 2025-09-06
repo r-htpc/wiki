@@ -87,18 +87,22 @@ Displayport (Alternate mode): Digital. Displayport/USB->HDMI cable/adapter
 
 HDR10: Very common. Very compatible. Static Metadata. 400-4000 cd/m2. 10-bit color.  
 HDR10+: Not common. Dynamic Metadata. 1000-4000 cd/m2. 10-bit color. **No passthrough on an HTPC**  
-Dolby Vision: Very common. Not very compatible, esp. with local content. Dynamic Metadata. 1000-4000 cd/m2. 12-bit color. **No passthrough on an HTPC**  
+[Dolby Vision](https://dolby.my.salesforce.com/sfc/p/700000009YuG/a/4u000000l6G4/4R18riPaaW3gxpVx7XwyQLdEITLFjB.w.Si0LoQR5j8): Very common. Not very compatible, esp. with local content. Dynamic Metadata. 1000-4000 cd/m2. 12-bit color. **No passthrough on an HTPC**  
+  - Profile 5: Commerical streaming services, single-layer, ICtCp colorspace. Netflix, Youtube, etc..
+  - Profile 7: UHD Blu-ray discs, dual-layer. Base layer (4k HDR10-compatible static layer) + Enhancement layer (7M/MEL (1080p partial dynamic enhancement layer) or 7F/FEL (4k 12-bit full dynamic enhancement layer))
+  - Profile 8: Uncommon (mobile phone/social content, etc..), single-layer HDR10/HLG/SDR.  
+
 HLG: Not common. No metadata. SDR & HDR in same signal. 1000 cd/m2 nominal. 10-bit color.  
 [Wiki:FAQ:What is HDR video and what do I need to take advantage of it?](/wiki/faq#what-is-hdr-video-and-what-do-i-need-to-take-advantage-of-it)  
 
 **Color Technologies**
 
-1. Color Primaries:  
+1. Color Primaries/Spaces:  
  a. Rec 709 (1080p/4k 8/10-bit SDR)  
  b. sRGB (8-bit SDR, Windows default)  
  c. P3 (8/10-bit SDR/HDR)  
- d. Rec 2020 (4k/8k 10/12-bit SDR/HDR)  
- e. Rec 2100 (1080p/4k/8k 10/12-bit HDR)  
+ d. Rec 2020 (4k/8k 10/12-bit SDR/HDR, RGB/YCbCr)  
+ e. Rec 2100 (1080p/4k/8k 10/12-bit HDR, RGB/YCbCr/ICtCp)
 2. Transfer Functions: Gamma (Rec 709, sRGB), PQ (Rec 2020, Rec 2100), HLG (HLG)  
 3. Formats: ST 2084 (Optional static metadata), ST 2086 (Static metadata), ST 2094 (Dynamic Metadata)  
 4. Technology Combinations (TECHNOLOGY: BIT-DEPTH, TRANSFER FUNCTION, COLOR PRIMARIES, FORMATS)  
@@ -793,5 +797,5 @@ Ideal Youtube tests - Test if GPU can decode youtube content - 1080p/4k, VP9/AV1
 
 ---
 
-*This page was last updated on 2025-07-02*
+*This page was last updated on 2025-09-06*
 
