@@ -727,7 +727,7 @@ If you are unsure what to get for your particular requirements, ask us and we wi
 
 ## What is HDR video and what do I need to take advantage of it?
 
-HDR stands for High Dynamic Range. It's a technology used to produce better looking video by preserving details in the darkest and lightest portions of a frame resulting in better contrast. Common standards are HDR10, HDR10+ and Dolby Vision.  
+HDR stands for High Dynamic Range. It's a technology used to produce better looking video by preserving details in the darkest and lightest portions of a frame resulting in better contrast. Common standards are HDR10, HDR10+ and Dolby Vision. [See here](/wiki/video#video-metadatacolor-technologies) for the gory technology details. 
 
 For a HTPC, this means HDR support must be in the video, GPU, video interface (HDMI/DP) and ultimately your output device (typically a TV).  
 
@@ -735,9 +735,11 @@ HDR10 is supported on HTPCs under Windows, macOS Catalina, Android and (usually)
 
 **DOLBY VISION AND HDR10+ MEDIA PASSTHROUGH IS NOT SUPPORTED ON HTPCS**; If you need support for these, you'll need a [media device/non-PC](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc), like a Nvidia Shield, Fire TV, Dune HD, etc..  
 
-HDR streaming content is limited thus far and only found on Netflix and Youtube services. If you want access to more HDR content on your favorite streaming services, use a [media device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) instead.  
+HDR streaming content is limited thus far and only found on Netflix and Youtube services for a PC. If you want access to more HDR content on your favorite streaming services, use a [media device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) instead.  
 
-That being said, HDR is supported on a PC with at least HDMI 2.0a or DisplayPort 1.4 ports. 
+For setting up HDR on your client, [See our separate wiki page here](/wiki/hdr)  
+
+That all being said, HDR is supported on a PC with at least HDMI 2.0a or DisplayPort 1.4 ports. 
 
 If you're not comfortable building DiY, look at the pre-built recommendations at the top of the [Sample Builds](/wiki/sample-builds) page.  
 
@@ -752,8 +754,6 @@ The following CPU iGPUs/APUs are officially supported:
 It's also available on the following dGPUs: Nvidia GTX >= 950, GT >= 1030, Titan X, Quadro P5000/P6000, AMD RX >= 4x0/5x0/5x00, Radeon 7, Vega 56/64, Intel ARC >= A310.  
 
 For older DiY motherboard support, reference our [HDMI 2.0 motherboards](/wiki/hdmi20) page.  
-
-For setting up HDR on your client, [See our separate wiki page here](/wiki/hdr)  
 
 ## Should I buy a low-power version of a CPU?  
 
@@ -847,5 +847,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2025-09-01*
+*This page was last updated on 2025-09-06*
 
