@@ -582,6 +582,10 @@ The following are the current capabilities of the major streaming services as we
   - *Windows:* 1080p SDR?
   - *Linux:* 1080p SDR?
 
+- [SPOTIFY](https://support.spotify.com/us/article/audio-quality/)
+
+  - *Windows:* (App): w/Premium: 24-bit/44.1 kHz FLAC, wo/Premium: AAC 160 Kbps. (Web) w/Premium: AAC 256 Kbps. wo/Premium: AAC 128 Kbps
+
 - [VUDU](https://support.vudu.com/en_us/categories/general-requirements-r1VPwDURP)  
 
   - *Windows:* (Browser/App) 1080p, Stereo
@@ -847,5 +851,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2025-09-06*
+*This page was last updated on 2025-09-11*
 
