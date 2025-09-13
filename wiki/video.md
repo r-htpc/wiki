@@ -88,7 +88,7 @@ Displayport (Alternate mode): Digital. Displayport/USB->HDMI cable/adapter
 HDR10: Very common. Very compatible. Static Metadata. 400-4000 cd/m2. 10-bit color.  
 HDR10+: Not common. Dynamic Metadata. 1000-4000 cd/m2. 10-bit color. **No passthrough on an HTPC**  
 [Dolby Vision](https://dolby.my.salesforce.com/sfc/p/700000009YuG/a/4u000000l6G4/4R18riPaaW3gxpVx7XwyQLdEITLFjB.w.Si0LoQR5j8): Very common. Not very compatible, esp. with local content. Dynamic Metadata. 1000-4000 cd/m2. 12-bit color. **No passthrough on an HTPC**  
-  - Profile 5: Commerical streaming services, single-layer, ICtCp colorspace. Netflix, Youtube, etc..
+  - Profile 5: Commerical streaming services, single-layer, ICtCp colorspace. Netflix, Youtube, etc.. No HDR10 fallback.
   - Profile 7: UHD Blu-ray discs, dual-layer. Base layer (4k HDR10-compatible static layer) + Enhancement layer (7M/MEL (1080p partial dynamic enhancement layer) or 7F/FEL (4k 12-bit full dynamic enhancement layer))
   - Profile 8: Uncommon (mobile phone/social content, etc..), single-layer HDR10/HLG/SDR.  
 
