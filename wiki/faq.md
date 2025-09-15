@@ -482,7 +482,7 @@ For Antennas, stick to well-known brands like Channel Master, Antennas Direct, W
 
 If you don't want to use Plex to interface with your tuner, but want similar simplicity, you can install the [Channels](https://getchannels.com/) server/dvr somewhere (they support a range of hardware), point it to a networked [HDHomerun](https://www.silicondust.com/) (and ONLY HDHomerun) tuner and then access it with the Channels client app.  
 
-A more involved setup would be connecting a [tuner](https://linuxtv.org/wiki/index.php/ATSC_USB_devices) to a Raspberry PI and using the TVHeadend backend with tvhProxy to get the tuner into Plex. Again, if you don't want to use Plex, skip tvhProxy and simply use Kodi with the TVHeadend client on your frontends to access the TVHeadend backend.  
+A more involved setup would be connecting a [tuner](https://linuxtv.org/wiki/index.php/ATSC_USB_devices) to a Raspberry PI 4 and using the TVHeadend backend with tvhProxy to get the tuner into Plex. Again, if you don't want to use Plex, skip tvhProxy and simply use Kodi with the TVHeadend client on your frontends to access the TVHeadend backend. If you need to do video transcoding for your clients, replace the Pi with a used intel 7th gen+ PC off ebay.  
 
 You can use MCEBuddy to remove commercials and convert your recorded programming to other file formats.  
 
