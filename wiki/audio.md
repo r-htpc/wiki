@@ -432,8 +432,8 @@ VLC:
 1. Tools->Preferences->Show Settings (All)->Audio
    - Expand "Output modules"  
    - Output modules->Audio output module: Windows Multimedia Device output  
-   - MMDevice->Output back-end: Windows Audio Session API output, HDMI/SPDIF Audio Passthrough: Enabled - for all codecs, or Enabled (AC3/DTS only) - for if your sound system only supports decoding regular DD/DTS. Output Device: <audio device you will be using for bitstreaming>
-   - *Linux*: Audio->Output modules->ALSA. Audio Output Device: <audio device you will be using for bitstreaming>, Audio Channels: 7.1
+   - MMDevice->Output back-end: Windows Audio Session API output, HDMI/SPDIF Audio Passthrough: Enabled - for all codecs, or Enabled (AC3/DTS only) - for if your sound system only supports decoding regular DD/DTS. Output Device: \<audio device you will be using for bitstreaming\>
+   - *Linux*: Audio->Output modules->ALSA. Audio Output Device: \<audio device you will be using for bitstreaming\>, Audio Channels: 7.1
 2. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
 
 KODI:  
@@ -1125,5 +1125,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2025-08-13*
+ *This page was last updated on 2025-09-14*
 
