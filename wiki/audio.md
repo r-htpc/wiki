@@ -312,7 +312,7 @@ To do this in Linux:
  - Run `alsamixer` from a terminal window
  - Press F6 to select your audio device
  - Change Channel Mode/Mappings to your speaker configuration, e.g. 6 for a 5.1 sound system.
- - Optionally, run `pavucontrol` to set levels and additional settings
+ - Optionally, run `pavucontrol`. *HDMI/Displayport/S/PDIF*: Set Configuration->Profile to Digital Surround (5.1/7.1) or Digital Stereo (2.0). Output Devices-> Disable \<audio codecs\> you want to decode and not bitstream. Set Port to HDMI/Displayport/S/PDIF. *Analog*: Set Configuration->Profile to Analog. Set port to Speakers.
 
 **If you're trying to configure more than Stereo but the option isn't available or channels aren't being represented, it's usually because:**
  - Your setup is limited by hardware (audio interfaces, sound system support, display passthrough mis-configuration). Double-check that all the connected equipment and interfaces support PCM in the channel config you want. For instance, don't use an Optical or regular ARC audio interface that only supports PCM 2.0 as per above and try to configure PCM 5.1 surround; if you need 5.1, re-encode [your media](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital) or [game audio](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) to a bitstreamable codec. 
@@ -385,6 +385,12 @@ COMMON REQUIREMENTS (Windows):
 2. If you're using **Windows 11 24H2** that was installed from scratch, install the AC-3 codec from [here](https://www.majorgeeks.com/files/details/dolby_ac_3ac_4_installer.html) first.  
 3. Windows Sound control panel-> \<your_sound_device\> ->Properties->Advanced: Enable "Allow applications to take exclusive control of this device".
 
+COMMON REQUIREMENTS (Linux):  
+1. Remove pulseaudio packages to use ALSA. `apt remove pulse*`
+2. Run alsamixer from a terminal window
+3. Press F6 to select your audio device
+4. Choose HDMI or S/PDIF output. Enable IEC958 option, if available. Unmute output (Set to "OO")
+
 BROWSERS/STREAMING SERVICES:  
 1. Make sure your service supports a bitstreamable codec (Dolby/DD). See: [Wiki:FAQ:What resolution and audio is supported on streaming service X?](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x)
 2. Install the app for your service from the Microsoft store or use the Microsoft Edge browser.
@@ -426,7 +432,8 @@ VLC:
 1. Tools->Preferences->Show Settings (All)->Audio
    - Expand "Output modules"  
    - Output modules->Audio output module: Windows Multimedia Device output  
-   - MMDevice->Output back-end: Windows Audio Session API output, HDMI/SPDIF Audio Passthrough: Enabled - for all codecs, or Enabled (AC3/DTS only) - for if your sound system only supports decoding regular DD/DTS. Output Device: <audio device you will be using for bitstreaming>  
+   - MMDevice->Output back-end: Windows Audio Session API output, HDMI/SPDIF Audio Passthrough: Enabled - for all codecs, or Enabled (AC3/DTS only) - for if your sound system only supports decoding regular DD/DTS. Output Device: <audio device you will be using for bitstreaming>
+   - *Linux*: Audio->Output modules->ALSA. Audio Output Device: <audio device you will be using for bitstreaming>, Audio Channels: 7.1
 2. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
 
 KODI:  
@@ -435,7 +442,8 @@ KODI:
 3. Change settings view on bottom-left to "Expert"
 4. Settings->System->Audio->Allow Passthrough: On, Passthrough Output Device: <HDMI/Optical Device>  
 5. Settings->System->Audio->XXX capable receiver: Enable the codecs your sound system supports decoding  
-6. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
+6. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.
+7. *Linux*: [https://forum.kodi.tv/showthread.php?tid=356360](https://forum.kodi.tv/showthread.php?tid=356360)
 
 PLEX HTPC/PLEX MEDIA PLAYER:  
 1. Settings->Audio->Device Type: HDMI/Optical  
