@@ -637,7 +637,7 @@ When buying cables and adapters, please do NOT buy no-name brands. As quality co
 ### How can I use a PC that's installed away from my HT / in another room? ###
 
 Way 1: Direct (specialized cables)
- - Use HDMI over fiber cables designed for distances over 25 ft. Use USB cables with an ethernet extender for control
+ - Use HDMI over fiber cables designed for distances over 25 ft. Use USB cables with an ethernet extender for control or an active usb cable if you must have USB 3.0
  - If HDMI cable is exiting from a wall to endpoint, do not use terminated HDMI wallplates, use passive brushplates instead.
 
 Way 2: Direct (PtP Ethernet)
@@ -658,7 +658,7 @@ Way 4: Remote (separate client + software)
 
 1080 @ 60 Hz:
  - Direct (specialized)
-   - [RUIPro HDMI 18 Gbps Fiber](https://www.amazon.com/RUIPRO-Fiber-Optic-18Gbps-Flexible/dp/B07287LTRZ/?th=1) + [USB extender w/point-to-point ethernet](https://www.amazon.com/dp/B08D6MVCR6?ref=ppx_pop_mob_ap_share)
+   - [RUIPro HDMI 18 Gbps Fiber](https://www.amazon.com/RUIPRO-Fiber-Optic-18Gbps-Flexible/dp/B07287LTRZ/?th=1) + [USB 2 extender w/point-to-point ethernet](https://www.amazon.com/dp/B08D6MVCR6?ref=ppx_pop_mob_ap_share)
  - Direct (PtP)
    - Cat 5e-7 Ethernet + [OREI HDBaseT Balun Extender](https://www.amazon.com/Orei-Extender-Balun-Single-Ethernet/dp/B0BBJC8Q96)
  - Direct (LAN)
@@ -669,20 +669,20 @@ Way 4: Remote (separate client + software)
 
  4K @ 60 Hz:
  - Direct (specialized)
-   - [RUIPro HDMI 18 Gbps Fiber](https://www.amazon.com/RUIPRO-Fiber-Optic-18Gbps-Flexible/dp/B07287LTRZ/?th=1) + [USB extender w/point-to-point ethernet](https://www.amazon.com/dp/B08D6MVCR6?ref=ppx_pop_mob_ap_share)
+   - [RUIPro HDMI 18 Gbps Fiber](https://www.amazon.com/RUIPRO-Fiber-Optic-18Gbps-Flexible/dp/B07287LTRZ/?th=1) + [USB 2 extender w/point-to-point ethernet](https://www.amazon.com/dp/B08D6MVCR6?ref=ppx_pop_mob_ap_share)
  - Direct (PtP)
-   - Cat 6-7 point to point + [OREI 4K Balun Extender](https://www.amazon.com/dp/B0BPVX4VYT)
+   - Cat 6-7 point to point + [OREI 4K + USB 1 Balun Extender](https://www.amazon.com/dp/B0BPVX4VYT)
  - Direct (LAN)
-   - Cat 6-7 LAN + [Monoprice 4K Blackbird Extender](https://www.monoprice.com/product?p_id=44570) / [OREI 4K KVM Extender](https://www.amazon.com/Extender-Single-CAT5e-RS-232-Remote/dp/B07BC83WPM)
+   - Cat 6-7 LAN + [Monoprice 4K+USB 2 Blackbird Extender](https://www.monoprice.com/product?p_id=44570) / [OREI 4K+USB 2 KVM Extender](https://www.amazon.com/Extender-Single-CAT5e-RS-232-Remote/dp/B07BC83WPM)
  - Remote
    - Client: Software: Moonlight + Device w/1 Gbps LAN (N100 Mini PC, Google TV Streamer, ODroid N2+)
    - Server: Software: Sunshine + OPTIONAL: [Headless Moonlight/Sunshine Streaming Host fix (#9)](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output)
 
 4K @ 120 Hz:
 - Direct (specialized)
-  - [RUIPro HDMI 48 Gbps Fiber](https://www.amazon.com/RUIPRO-Fiber-48Gbps-Dynamic-Samsung/dp/B0D93Q4Q6C) + [USB extender w/point-to-point ethernet](https://www.amazon.com/dp/B08D6MVCR6?ref=ppx_pop_mob_ap_share)
+  - [RUIPro HDMI 48 Gbps Fiber](https://www.amazon.com/RUIPRO-Fiber-48Gbps-Dynamic-Samsung/dp/B0D93Q4Q6C) + [USB 2.0 extender w/point-to-point ethernet](https://www.amazon.com/dp/B08D6MVCR6?ref=ppx_pop_mob_ap_share) / [USB 3 Active](https://www.amazon.com/BlueRigger-Active-Extension-Meters-Repeater/dp/B087LSFS6R/)+[Hub](https://www.amazon.com/Multiple-Splitter-Laptop-Extender-Windows/dp/B0CN3F9Y1Z)
  - Direct (PtP)
-   - Cat 6a-7 point to point + [OREI 4K@120Hz Balun Extender](https://www.amazon.com/OREI-120hz-Ethernet-Extender-UltraHD/dp/B0D5FDPRTL) + [USB extender w/point-to-point ethernet](https://www.amazon.com/dp/B08D6MVCR6?ref=ppx_pop_mob_ap_share)
+   - Cat 6a-7 point to point + [OREI 4K@120Hz Balun Extender](https://www.amazon.com/OREI-120hz-Ethernet-Extender-UltraHD/dp/B0D5FDPRTL) + [USB extender w/point-to-point ethernet](https://www.amazon.com/dp/B08D6MVCR6?ref=ppx_pop_mob_ap_share) / [USB 3 Active](https://www.amazon.com/BlueRigger-Active-Extension-Meters-Repeater/dp/B087LSFS6R/)+[Hub](https://www.amazon.com/Multiple-Splitter-Laptop-Extender-Windows/dp/B0CN3F9Y1Z)
 - Remote
   - Client: Software: Moonlight + [Device w/HDMI 2.1 + 1 Gbps LAN](https://r-htpc.github.io/wiki/sample-builds#specialized-4k120hz)
   - Server: Software: Sunshine + OPTIONAL: [Headless Moonlight/Sunshine Streaming Host fix (#9)](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output)
@@ -798,5 +798,5 @@ Ideal Youtube tests - Test if GPU can decode youtube content - 1080p/4k, VP9/AV1
 
 ---
 
-*This page was last updated on 2025-09-06*
+*This page was last updated on 2025-09-20*
 
