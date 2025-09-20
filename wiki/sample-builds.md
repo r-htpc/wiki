@@ -39,7 +39,7 @@ Some of these are: **Intel (NUC), [Lenovo (ThinkCentre/IdeaCentre)](https://www.
 
 ### 1080p PLAYERS
 
-**TL;DR: For new, an Intel N95 based mini pc <= $150 with mem/storage; Used Intel 7th gen USFF/SFF/NUC off ebay for $60-100 has better perf / $ and more hw flexibility. If you need extreme power efficiency, then a small ARM-based SBC is ok.**  
+**TL;DR: For new, an Intel N95 based mini pc <= $150 with mem/storage; For used, an Intel 7th gen USFF/SFF/NUC off ebay for $60-100 has better perf / $ and more hw flexibility. If you need extreme power efficiency, then a small ARM-based SBC is ok.**  
 
  $35-$55: SMALLEST: SBC: (Coreelec/Libreelec only): [ROCK64-2GB](https://pine64.com/product/rock64-2gb-single-board-computer/) / [Orange Pi 3](https://www.aliexpress.us/item/3256804341645667.html) / [Odroid C4](https://www.hardkernel.com/shop/odroid-c4/). Just good enough for local content, small and cheap.  
 
