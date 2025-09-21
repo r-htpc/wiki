@@ -472,7 +472,7 @@ Once you start looking for advanced features, like external storage, gigabit eth
 
 Using an over-the-air (OTA) HD antenna avoids the "copy once" problem and most users are surprised by how much mainstream content they can get over the airwaves for free. Alternatively, with Cable, your provider may provide unencrypted ClearQAM channels, usually standard broadcast stations, without a cablecard. Even if you are not a cable TV subscriber, if the cable is connected to the providers network, they may still be sending ClearQAM programming into your home.  
 
-If you use Plex Media Server, you can put a local pcie/usb tuner in your Plex server and set it up for Live TV and DVR, to be accessed by your preferred [Plex client](https://www.plex.tv/media-server-downloads/#plex-app). You can find a list of Plex compatible tuners [here](https://support.plex.tv/articles/225877427-supported-dvr-tuners-and-antennas/).  
+If you use Plex Media Server, you can put a local pcie/usb tuner in your Plex server and set it up for Live TV and DVR, to be accessed by your preferred [Plex client](https://www.plex.tv/media-server-downloads/#plex-app). You can find a list of Plex compatible tuners [here](https://support.plex.tv/articles/225877427-supported-dvr-tuners-and-antennas/). The Live TV feature requires a Plex Pass ($$)  
 
 If you can't or don't want to place the tuner at your server, you can use a networked tuner like a [HDHomerun](https://www.silicondust.com/) which you can find off ebay for cheap.  
 
@@ -480,9 +480,9 @@ If you don't have ethernet access, you can either use a wifi-capable tuner, like
 
 For Antennas, stick to well-known brands like Channel Master, Antennas Direct, Winegard and Televés. For reception signal maps check [here](https://www.fcc.gov/media/engineering/dtvmaps), [here](https://www.antennasdirect.com/transmitter-locator.html) and [here](https://rabbitears.info/searchmap.php)  
 
-If you don't want to use Plex to interface with your tuner, but want similar simplicity, you can install the [Channels](https://getchannels.com/) server/dvr somewhere (they support a range of hardware), point it to a networked [HDHomerun](https://www.silicondust.com/) (and ONLY HDHomerun) tuner and then access it with the Channels client app.  
+If you don't want to use Plex to interface with your tuner, but want similar simplicity, you can install the [Channels](https://getchannels.com/) server/dvr somewhere ($$) (they support a range of PC-like hardware), point it to a networked [HDHomerun](https://www.silicondust.com/) (and ONLY HDHomerun) tuner with an antenna or your provider's [TVEverywhere](https://getchannels.com/tv-everywhere/) feed and then access it with the Channels client app.  
 
-A more involved setup would be connecting a [tuner](https://linuxtv.org/wiki/index.php/ATSC_USB_devices) to a Raspberry PI 4 and using the TVHeadend backend ([included in the LibreElec OS](https://techlory.com/blog/2025/01/22/use-tvheadend-raspberry-pi-and-kodi-to-stream-tv-in-your-home/)) with tvhProxy to get the tuner into Plex. Again, if you don't want to use Plex, skip tvhProxy and simply use Kodi with the TVHeadend client on your frontends to access the TVHeadend backend. If you need to do video transcoding for your clients, replace the Pi with a used intel 7th gen+ PC off ebay.  
+A more involved, but free, setup would be connecting a [tuner](https://linuxtv.org/wiki/index.php/ATSC_USB_devices) to a Raspberry PI 4 and using the TVHeadend backend ([included in the LibreElec OS](https://techlory.com/blog/2025/01/22/use-tvheadend-raspberry-pi-and-kodi-to-stream-tv-in-your-home/)) with tvhProxy to get the tuner into Plex. Again, if you don't want to use Plex, skip tvhProxy and simply use Kodi with the TVHeadend client on your frontends to access the TVHeadend backend. If you need to do video transcoding for your clients, replace the Pi with a used intel 7th gen+ PC off ebay.  
 
 You can use MCEBuddy to remove commercials and convert your recorded programming to other file formats.  
 
@@ -490,21 +490,21 @@ For a more complete, albeit old, guide to setting up live TV with a generic TV t
 
 **From Cable (encrypted):** 
 
-The most common solution is to use a Silicon Dust [HDHomerun Prime](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw=hd+homerun+prime&_sacat=0) tuner, a Cable Card from your cable provider, and Windows Media Center software as the recording front-end. Presently, Windows Media Center is the only known way (using Windows) to record channels marked "copy once" by your cable provider. Different cable providers flag channels differently, and some flag *all* programming this way. Flagged content recorded by WMC can only be streamed to official WMC extenders, which are rare. But you can use ServerWMC to provide live TV to Kodi or MediaBrowser/Emby clients.  
+**NOTE: Cable Cards for encryption are becoming increasingly rare. You should eventually move to streaming from your Cable Service provider or a dedicated TV Streaming Service provider, in the next two options. Also, Windows 10+ will not include or support Windows Media Center or ServerWMC, but it will continue to work with older versions of Windows.**  
+
+The most common solution was to use a Silicon Dust [HDHomerun Prime](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw=hd+homerun+prime&_sacat=0) tuner, a Cable Card from your cable provider, and Windows Media Center software as the recording front-end. Presently, Windows Media Center is the only known way (using Windows) to record channels marked "copy once" by your cable provider. Different cable providers flag channels differently, and some flag *all* programming this way. Flagged content recorded by WMC can only be streamed to official WMC extenders, which are rare. But you can use ServerWMC to provide live TV to Kodi or MediaBrowser/Emby clients.  
 If you only want to watch "copy once" channels, you can use the official HDHR app on Android, Xbox, Windows, etc..  
 If you don't need "copy once" channel support, then your options are similar to the Antenna section above, albeit your tuner still being the HDHomerun Prime. That is, adding your tuner into a [Plex Media Server](https://www.plex.tv) or into a [Channels](https://getchannels.com) server and using their respectively client apps, or accessed directly with Kodi/Mediabrowser and its [add-on](https://kodi.wiki/view/Add-on:HDHomeRun).  
-
-**NOTE: Cable Cards are becoming increasingly rare. You should eventually move to streaming from your Cable Service provider or a dedicated TV Streaming Service provider, in the next two options. Also, Windows 10+ will not include or support Windows Media Center or ServerWMC, but it will continue to work with older versions of Windows.**  
 
 **From Cable Service (over the internet):** 
 
 If you don't want to or can't use a tuner with an antenna or cable connection, some TV providers will allow you to pull TV programming over the internet.  
 
-To do this, you need your normal cable subscription service, a login to your provider and a client/server program. The easiest way to currently do this is to install the [Channels DVR Server](https://getchannels.com/dvr-server) software somewhere on your network, configure it to use the [TV Everywhere](https://getchannels.com/tv-everywhere/) feature, with your provider and login credentials and then use the [Channels](https://getchannels.com/apps) client software on your devices to access the channels. On a PC client this can be done either through the server's web ui or via Kodi with the [Channels DVR](https://kodi.wiki/view/Add-on:Channels_DVR) plugin.  
+To do this, you need your normal cable subscription service, a login to your provider and a client/server program. The easiest way to currently do this is to install the [Channels DVR Server](https://getchannels.com/dvr-server) ($$) software somewhere on your network, configure it to use the [TV Everywhere](https://getchannels.com/tv-everywhere/) feature, with your provider and login credentials and then use the [Channels](https://getchannels.com/apps) client software on your devices to access the channels. On a PC client this can be done either through the server's web ui or via Kodi with the [Channels DVR](https://kodi.wiki/view/Add-on:Channels_DVR) plugin.  
 
 **From Streaming Service (over the internet):** 
 
-Youtube TV, DirectTV Stream, Hulu Live TV or Fubo on the premium end. Philo or Sling TV on the low-end. It depends on the [channels you want](https://www.google.com/search?q=youtube+tv+directv+hulu+fubo+sling+philo&tbs=qdr:m).  
+Youtube TV, Fubo, DirectTV Stream, or Hulu Live TV  on the premium end. Philo or Sling TV on the low-end. It depends on the [channels you want](https://www.google.com/search?q=youtube+tv+directv+hulu+fubo+sling+philo&tbs=qdr:m). Fubo tends to have the most channels/packages.  
 
 
 **From your own media content:**
