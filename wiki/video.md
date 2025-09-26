@@ -215,9 +215,9 @@ See also: [Audio Software](/wiki/audio#audio-software)
 1. [MediaInfo](https://mediaarea.net/en/MediaInfo) - Extremely useful tool for getting various video & audio information (codecs, formats, etc..) on media files  
 2. [MPC VR](https://github.com/Aleksoid1978/VideoRenderer) - Simple video renderer used to enable HDR passthrough, HDR tonemapping, Resolution/Chroma upscaling, Dithering  
 3. [MadVR](https://wiki.jriver.com/index.php/MadVR_Expert_Guide) - Advanced video renderer for HDR passthrough, [HDR tonemapping](https://madshi.net/madVRhdrMeasure113.zip), Resolution/Chroma upscaling, Dithering, Resolution/Refresh Rate Switching.
- - [Stable base install](http://madshi.net/madVR.zip) / [Non-expiring add-on - beta](https://madshi.net/madVRhdrMeasure113.zip) / [Expiring add-on - test builds](https://www.videohelp.com/software/madVR)   
-5. SVP - Used to upscale frate-rates for video smoothing  
-6. [K-lite](https://codecguide.com/download_kl.htm) - Codec pack including various video software  
+ - [Stable base install](http://madshi.net/madVR.zip) / [Non-expiring add-on - beta](https://madshi.net/madVRhdrMeasure113.zip) / [Expiring add-on - test builds](https://www.videohelp.com/software/madVR)
+4. [MakeMKV](https://www.makemkv.com/) - Video disc ripper  
+5. [K-lite](https://codecguide.com/download_kl.htm) - Codec pack including various video software  
  - Video/audio codecs  
  - Video/audio filters/splitters/mixers  
  - MPC VR, MadVR  
@@ -229,7 +229,8 @@ See also: [Audio Software](/wiki/audio#audio-software)
 9. Virtual CloneDrive - Mount ISO files for disc playback support
 10. [ImgBurn](https://www.imgburn.com/index.php?act=download) - Burn ISOs and files to CD/DVD/Blu-Ray discs
 11. [DVDStyler](https://www.dvdstyler.org/en/) - DVD Authoring software
-12. [Xreveal](https://www.xreveal.com/) - Disc region/protection removal  
+12. SVP - Used to upscale frate-rates for video smoothing  
+13. [Xreveal](https://www.xreveal.com/) - Disc region/protection removal  
 
 <!-- Section -->
 
