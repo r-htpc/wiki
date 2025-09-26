@@ -228,7 +228,8 @@ See also: [Audio Software](/wiki/audio#audio-software)
 8. [Handbrake](https://handbrake.fr) - Media Converter. See Also: [FAQ:How can i rip my DVD/Blu-ray discs and what are some good quality settings to use?](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use)  
 9. Virtual CloneDrive - Mount ISO files for disc playback support
 10. [ImgBurn](https://www.imgburn.com/index.php?act=download) - Burn ISOs and files to CD/DVD/Blu-Ray discs
-11. [DVDStyler](https://www.dvdstyler.org/en/) - DVD Authoring software  
+11. [DVDStyler](https://www.dvdstyler.org/en/) - DVD Authoring software
+12. [Xreveal](https://www.xreveal.com/) - Disc region/protection removal  
 
 <!-- Section -->
 
