@@ -849,7 +849,7 @@ If you want to re-encode audio down to Dolby Digital for your games:
 - Make sure the sound device you are using is connected, active and the default. 
 - If you're going through a display, make sure your display is set to passthrough/bitstream digital audio
 - Download and extract the "APO Driver" install from [here](https://puresoftapps.blogspot.com/2018/04/realtek-apo-driver.html)
-  - *If on Windows 11*, Disable Driver Signature Enforcement in windows Advanced Startup.
+  - *If on Windows 11*, install the AC-3 codec from [here](https://www.majorgeeks.com/files/details/dolby_ac_3ac_4_installer.html). You may also have to  [Disable Driver Signature Enforcement](https://www.youtube.com/watch?v=IpKDOTmiug4) first if the instructions don't work.
   - Run the extracted x64 .exe
   - Antivirus may be triggered. The software is safe to install. 
   - Enable the "Dolby DS1" feature
