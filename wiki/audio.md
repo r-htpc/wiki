@@ -107,22 +107,24 @@ See also: [Video Software](/wiki/video#video-software)
 
 1. [Foobar2000](https://www.foobar2000.org/) - Audio Player
  - Support for Windows, Mac, Mobile  
-2. [Exact Audio Copy](https://www.exactaudiocopy.de/)/[Fre:ac](https://www.freac.org/) - Audio CD Ripper/converter
+2. [Exact Audio Copy](https://www.exactaudiocopy.de/)/[Fre:ac](https://www.freac.org/) - Audio CD Ripper/converter. Burner (EAC)
  - Support for Windows, Mac, Linux
-3. [MusicBrainz Picard](https://picard.musicbrainz.org/) - Audio ID tagger
+3. [CDBurnerXP](https://cdburnerxp.se/en/home) - Audio CD Burner
+ - Support for Windows
+4. [MusicBrainz Picard](https://picard.musicbrainz.org/) - Audio ID tagger
  - Support for Windows, Mac, Linux
-4. [JRiver Media Center](https://jriver.com/) - A commercial media player/center
+5. [JRiver Media Center](https://jriver.com/) - A commercial media player/center
  - Support for Windows, Mac, Linux  
  - Extensive plug-in support  
-5. [Kodi](https://kodi.tv) - An open source media player/center.  
+6. [Kodi](https://kodi.tv) - An open source media player/center.  
  - Support for Windows, Linux, Mac, Android  
  - Extensive plug-in support  
-6. [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases)/[MPC-HC](https://github.com/clsid2/mpc-hc/releases/) - A popular media player 
+7. [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases)/[MPC-HC](https://github.com/clsid2/mpc-hc/releases/) - A popular media player 
  - Support for Windows  
  - Extensive feature-set
-7. [Plex](https://plex.tv) - A media player that interfaces with the Plex Media Server and plex.tv video content  
+8. [Plex](https://plex.tv) - A media player that interfaces with the Plex Media Server and plex.tv video content  
  - Support for Windows, Linux, Mac, Android  
-8. [VLC](https://www.videolan.org/vlc/) - A simple media player 
+9. [VLC](https://www.videolan.org/vlc/) - A simple media player 
  - Support for Windows, Linux, Mac, Android  
 
 **3rd Party**
@@ -137,7 +139,7 @@ See also: [Video Software](/wiki/video#video-software)
 4. [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) - Parametric / graphic equalizer. 
 5. [Peace Equalizer GUI](https://sourceforge.net/projects/peace-equalizer-apo-extension/) - GUI for Equalizer APO. 
 6. [APO Driver](https://puresoftapps.blogspot.com/2018/04/realtek-apo-driver.html) - Audio Enhancements, re-encoders. 
-7. [ffdshow](https://sourceforge.net/projects/ffdshow-tryout/files/Official%20releases/) - Defunct. Audio codecs/filters/splitters/mixers. 
+7. [ffdshow](https://sourceforge.net/projects/ffdshow-tryout/files/Official%20releases/) - Defunct. Audio codecs/filters/splitters/mixers.
 
 <!-- Section -->
 
