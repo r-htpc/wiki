@@ -227,7 +227,8 @@ See also: [Audio Software](/wiki/audio#audio-software)
 7. [Media Hoarder](https://media.hoarder.software/) / [tinyMediaManager](https://www.tinymediamanager.org/) - Media/Metadata Management  
 8. [Handbrake](https://handbrake.fr) - Media Converter. See Also: [FAQ:How can i rip my DVD/Blu-ray discs and what are some good quality settings to use?](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use)  
 9. Virtual CloneDrive - Mount ISO files for disc playback support
-10. [ImgBurn](https://www.imgburn.com/index.php?act=download) - Burn ISOs and files to CD/DVD/Blu-Ray discs  
+10. [ImgBurn](https://www.imgburn.com/index.php?act=download) - Burn ISOs and files to CD/DVD/Blu-Ray discs
+11. [DVDStyler](https://www.dvdstyler.org/en/) - DVD Authoring software  
 
 <!-- Section -->
 
