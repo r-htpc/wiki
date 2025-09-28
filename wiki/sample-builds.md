@@ -873,9 +873,8 @@ TOTAL	|						|	**$1190**	|
 
 <!-- Section -->
 
+<!--
 ## VR builds
-
-<!-- Sub-Section -->
 
 ### $800 VR Box (11.5L)
 
@@ -903,8 +902,6 @@ STORAGE		|WD SN7100 1TB NVMe M.2 SSD TLC					|$70		|[pcpartpicker](https://pcpar
 PSU			|Corsair CX650M (2021) 650W ATX				|$80			|[pcpartpicker](https://pcpartpicker.com/product/x96p99/corsair-cx650m-2021-650-w-80-bronze-certified-semi-modular-atx-power-supply-cp-9020221-na)	|ALT: [EVGA SuperNOVA 550 GM SFX](https://pcpartpicker.com/product/QgyV3C/evga-supernova-gm-550w-80-gold-certified-fully-modular-sfx-power-supply-123-gm-0550-y1) ($110)
 TOTAL		|													|$745		|	|
 
-<!-- Sub-Section -->
-
 ### $850 VR Box - Sandwich Case Variation (12.4L)
 
 The $800 VR Box with a Geeek sandwich case. About the same size as the SG13B.  
@@ -927,6 +924,8 @@ COOL		|Thermalright AXP90-X47 CPU cooler 						|$25				|[pcpartpicker](https://p
 COOL		|Arctic P14 PWM PST 140mm 2x				|$26				|[Amazon](https://www.amazon.com/ARCTIC-P14-PWM-PST-Pressure-optimised/dp/B07GZJY4TM)	|
 PSU			|Silverston SX500-G SFX				|$120			|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&sort=price&page=1)	|ALT: Cooler Master V750 SFX Gold ($140)
 TOTAL		|											|$801			|	|
+
+-->
 
 <!-- Footer -->
 &nbsp;
