@@ -878,14 +878,16 @@ If you want to re-encode audio down to Dolby Digital for your games:
 
 ### How can I send 4k video to my TV and HD audio to my old AVR without cloning/extending my display?
 
-You can use a good HDMI 2.0 splitter to send 4k/60hz video to a display and HD audio (TrueHD/DTS:X/etc..) to an old AVR that only supports HDMI 1.3/1.4.  
+1. <= 4K@60Hz: You can use a good HDMI 2.0 splitter to send 4k/60hz video to a display and HD audio (TrueHD/DTS:X/etc..) to an old AVR that only supports HDMI 1.3/1.4.  
 The ViewHD or SIIG options from the "[HDMI 2.0 Splitters](/wiki/audio#accessories)" section below are the best bets. They won't work with all hardware combinations, and you may have to fiddle with the EDID dip switches quite a bit in the initial setup, but should work.  
 
-There are no perfect solutions for 4k/120Hz video without an expensive [HDMI 2.1 splitter](/wiki/audio#accessories).  
-Either buy a new AVR and pass-through it or use eARC through your display.  
+2. 4K@120Hz: There are no perfect solutions for 4k/120Hz video without an expensive [HDMI 2.1 splitter](/wiki/audio#accessories).  
+Either buy a modern sound system and pass-through it or use connect to your HT display and use eARC.
 If your display supports eARC but your sound system doesn't, use an [eARC extractor](https://www.amazon.com/ViewHD-Adapter-Audio-Receiver-Application/dp/B08ZHCS5D9) between the display and sound system.  
 
-Use analog audio jacks from your PC to [powered speakers](/wiki/audio#what-kind-of-sound-system-should-i-get) or an AMP/AVR with analog inputs
+3. Analog: Use 3.5mm jacks from your HTPC motherboard or a [USB sound card](/wiki/audio#accessories) to [powered speakers](/wiki/audio#what-kind-of-sound-system-should-i-get) or an AMP/AVR with analog inputs
+
+4. Optical: Use a [PCIe sound card](/wiki/audio#accessories) with an optical out jack and Dolby Digital Live encoding. Use a [USB->optical adapter](/wiki/audio#accessories) and [encode to DD](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital) in software.
 
 <!-- Sub-Section -->
 
