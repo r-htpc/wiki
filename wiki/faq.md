@@ -802,12 +802,12 @@ Video: [See our separate wiki page here](/wiki/video)
 
 **THIS QUESTION IS UNDER CONSTRUCTION!**  
 
-If internet is available, and automation isn't needed, then a Roku is usually the easiest solution.  
+If you just need streaming services and automation isn't needed, then a Roku is usually the easiest solution. If you need local playback in addition to this, an Onn 4k Plus frontned with Kodi/Plex/Jellyfin software with a N100 mini pc backend connected to USB storage is best.  
 
-But if internet is not available and/or local content playback/automation is desired, this lends itself well to HTPCs, especially under x86 hardware 
-with linux, windows, or especially hardware that supports installing [Libreelec](https://libreelec.tv/downloads/) (like Raspberry Pis and cheap [mini pcs](https://r-htpc.github.io/wiki/sample-builds#htpc-pre-builtsmini-pcs)) so you can boot directly into Kodi  
+But if internet is not available, you have poor network conditions and/or automation is desired, this lends itself well to HTPCs, especially under x86 hardware 
+with linux, windows, or especially hardware that supports installing [Libreelec](https://libreelec.tv/downloads/) (like Raspberry Pis and cheap [mini pcs](/wiki/sample-builds#htpc-pre-builtsmini-pcs)) so you can boot directly into Kodi  
 
-Some options/considerations are:  
+Some options/considerations for this are:  
 
 1. Use Linux/Windows for OS
    - Simple: Install Kodi, Plex HTPC, etc..; set to run on boot, configure.
