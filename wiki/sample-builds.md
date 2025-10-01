@@ -180,9 +180,9 @@ Intel Core 7th gen i3+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDM
 
 ### Specialized: Media Server w/Transcoding
 
-- Light: GMKtec G3 Plus, [Pre-built NAS](/wiki/storage#pre-built-nas) (Nxx-based) - ~3x 4k transcodes
-- Medium: Beelink SEI 12 i5-12450H - ~6x 4k transcodes
-- Heavy: Minisforum NAB6 Lite, [Intel NUC 11/12/13 i5](https://www.newegg.com/p/pl?N=100008345%2050001157%20601398044%20601412542%20601398019%20601412544%20601398041%20601412545%20601398018%2050001315&Order=1) - ~12x 4k transcodes.
+- Light: GMKtec G3 Plus N150, [Pre-built NAS](/wiki/storage#pre-built-nas) (Nxx-based) - ~3x 4k transcodes
+- Medium: Beelink EQI12 i5-1235U - ~6x 4k transcodes
+- Heavy: Minisforum MS-01/NAB6 Lite i5-12600H, GMKTec M3 Ultra i7-12700H, [Intel NUC 12/13 i5+](https://www.newegg.com/p/pl?N=100008345%2050001157%20601398019%20601412544%20601398041%20601412545%2050001315%20601412542%20601398044%20601441281&Order=1) - ~12x 4k transcodes.
 <!-- - [DiY NAS/Media Server Build w/i5-12500+](https://r-htpc.github.io/wiki/sample-builds#nasmedia-server-builds) - ~18 4k transcodes -->
 
 <!-- Sub-Section -->
