@@ -182,7 +182,7 @@ Intel Core 7th gen i3+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDM
 
 - Light: GMKtec G3 Plus N150, [Pre-built NAS](/wiki/storage#pre-built-nas) (Nxx-based) - ~3x 4k transcodes
 - Medium: Beelink EQI12 i5-1235U - ~6x 4k transcodes
-- Heavy: Minisforum MS-01/NAB6 Lite i5-12600H, GMKTec M3 Ultra i7-12700H, [Intel NUC 12/13 i5+](https://www.newegg.com/p/pl?N=100008345%2050001157%20601398019%20601412544%20601398041%20601412545%2050001315%20601412542%20601398044%20601441281&Order=1) - ~12x 4k transcodes.
+- Heavy: Minisforum i5-12600H, GMKTec i7-12700H/Minisforum i7-12800H, [Intel NUC 12/13 i7](https://www.newegg.com/p/pl?N=100008345%2050001157%20601398019%20601412544%20601398041%20601412545%2050001315%20601412542%20601398044%20601441281&Order=1) - ~12x 4k transcodes.
 <!-- - [DiY NAS/Media Server Build w/i5-12500+](https://r-htpc.github.io/wiki/sample-builds#nasmedia-server-builds) - ~18 4k transcodes -->
 
 <!-- Sub-Section -->
@@ -197,10 +197,10 @@ Intel Core 7th gen i3+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDM
 
   - 4k HDR10/DV-5/7/8, Dolby TrueHD Atmos, DTS:X, 3x4k,10x1080p transcodes, 4xHDDs (WD Ultrastar/Seagate Exos), Ubuntu/Windows, Plex Pass/Jellyfin
 
-- $750 - 4k, high-bitrate, Medium Transcoding: Nvidia Shield Pro (client) + Beelink SEI 12 i5-12450H (server) + Terramaster F4-212 (storage)
+- $800 - 4k, high-bitrate, Medium Transcoding: Nvidia Shield Pro (client) + Beelink EQI12 i5 (server) + Terramaster F4-212 (storage)
 
   - 4k HDR10/DV-5/7/8, Dolby TrueHD Atmos, DTS:X, 6x4k,20x1080p transcodes, 4xHDDs (WD Ultrastar/Seagate Exos), Ubuntu, Plex Pass/Jellyfin
-  - For more transcodes, switch server to [Minisforum NAB6 Lite](https://www.amazon.com/MINISFORUM-NAB6-Lite-i5-12600H-Computer/dp/B0BYZC4SMW?th=1)
+  - For more transcodes, switch server to [Minisforum NAB8 Plus](https://www.amazon.com/MINISFORUM-NAB6-Lite-i5-12600H-Computer/dp/B0BYZC4SMW?th=1)
 
 - [DiY Media Server Builds](/wiki/sample-builds#nasmedia-server-builds)
 
