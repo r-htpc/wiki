@@ -70,8 +70,8 @@ The GPU (whether it's integrated into the CPU or a separate, discrete GPU) tends
 1. You should generally have a CPU that generates the least amount of heat (TDP) that you'll need. Faster and more powerful is not always better. The more powerful your 
 CPU, the higher the TDP will be, the more heat will be generated, the louder your fans will be. If the HTPC will be in your listening environment, the last thing you want to 
 hear is a loud fan. So stick with CPUs with TDPs <= 65W. CPU temps <= 80C under load are fine; anything higher than that is generally frowned upon for CPU longevity, esp 90+. Use Open Hardware Monitor/HwInfo64 to monitor your temps.  
-2. You shouldn't need anything more than a 4 core CPU for a frontend player. A backend server may require 6 core if doing something intensive like handbrake transcoding. 
-3. Don't forget a CPU cooler for your CPU, IF one is not already included. Ryzen APUs and non-K Intel CPUs DO come with a stock cooler, but you can do better if funds and space allow it. 
+2. You shouldn't need anything more than a 4 core CPU for a frontend media player. A backend server may require 6 core if doing something intensive like handbrake transcoding. 
+3. Don't forget a CPU cooler for your CPU, if one is not already included. Ryzen APUs and non-K Intel CPUs tend to come with a stock cooler, but you can do better if budget and space allow it. 
 We have a whole section on cooling below. Remember: bigger, slower fans are better than smaller, faster fans.  
 
 Below are the minimum CPUs required for each scenario and a recommendation. **All have integrated graphics and a dGPU is not required (unless specified)**. The recommendations may change depending on your budget, regional availability, space/power requirements, and whether you want new or second-hand parts. If you're not sure, post and ask us for a rec based on your detailed use-case.  
@@ -86,6 +86,8 @@ Below are the minimum CPUs required for each scenario and a recommendation. **Al
 
 - Casual gaming (iGPU): AMD >= Ryzen 3 3400G APU (REC: Used: Ryzen 5600G, New: Ryzen 5700G/8600G)  
 
+- Medium gaming w/dGPU below: AMD >= Intel i3-12400F, AMD >= Ryzen 5 5600 (REC: Intel i5-12400F/Ryzen 5600)  
+
 - 4K HDR: Intel >= i3/i5/i7-7xxx iGPU, AMD Athlon 3000G, AMD >= Ryzen 3 2200G APU (REC: Used: Ryzen 3400G, New: Ryzen 5500GT)  
 
 - 4K Netflix: >= Ryzen 3 3200G iGPU, Intel >= i3/i5/i7-7xxx iGPU  (REC: Used: Ryzen 3400G, New: Ryzen 5500GT)  
@@ -96,7 +98,7 @@ Below are the minimum CPUs required for each scenario and a recommendation. **Al
 
 - [HDMI 2.1 4K@120Hz (>= 32Gbps)](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output): >= Ryzen 8xxxG/7xxx iGPU (REC: Ryzen 8500G)
 
-- For use w/dGPU below (no iGPU): >= i3-10100F (REC: Ryzen 5600/Intel i5-12400F)  
+- For use w/dGPU below: >= i3-10100F (REC: Ryzen 5600/Intel i5-12400F)  
 
 - Plex Transcoding: Intel >= i3/i5/i7-7xxx iGPU (REC: Intel i3-12100)  
 
