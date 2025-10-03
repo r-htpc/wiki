@@ -818,6 +818,7 @@ It uses a Pre-built PC and GPU from Ebay.
 Make sure you pick a GPU with a 6-pin (not 8) power connector and a PC with 2 sata connectors free for GPU power. Any Dell/HP/Lenovo MT/tower from the search with an i7-6700 - i5-8500 is fine. You can usually find one with an M.2 SSD so you don't have to purchase one separately like listed below.  
 Manjaro linux OS is free and fine for Steam use and comes pre-installed with it. Simply download the Manjaro KDE Plasma iso, write it to the USB flash drive with Etcher, boot from it and install to your SSD. Install the nvidia non-free/proprietary drivers at install or [later](https://wiki.manjaro.org/index.php/Configure_Graphics_Cards#Identifying_Available_Drivers), then Enable Steam Play and Proton in the Compatability preferences of the Steam client.  
 Alternatively, you can run Windows if you want to play games not supported on Linux, such as Fortnite, PUBG, Warzone, Rainbow Six, etc..  
+Use a [8bitdo Ultimate 2c](https://www.amazon.com/dp/B0DB4LXDP7) controller  
 
 PART			|BRAND/MODEL												|	PRICE	|	VENDOR	|	NOTES
 :--|:--|:--|:--|:--
@@ -837,7 +838,7 @@ TOTAL			|															|	**$229**	|			|
 ### 1080p Gaming Box (11.5L)
 
 This is a straight up gaming build for 1080p with High settings, averaging about 80+ fps which is good for a 120 Hz TV.  
-Use Windows or Bazzite for your OS.  
+Use Windows or Bazzite for your OS. Use a [8bitdo Ultimate 2c](https://www.amazon.com/dp/B0DB4LXDP7) controller  
 If you want a low profile case or support longer gpus, look at the ALT: config with a Silverstone ML-07 case instead.  
 
 PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
@@ -857,7 +858,7 @@ TOTAL	|						|	**$800**	|
 ### 1440p Gaming Box (14L)
 
 This is a straight up gaming build for 1440p with High settings, averaging about 80+ fps which is good for a 120 Hz TV.  
-Use Windows or Bazzite for your OS.  
+Use Windows or Bazzite for your OS. Use a [8bitdo Ultimate 2c](https://www.amazon.com/dp/B0DB4LXDP7) controller   
 It's low profile so is good for a media cabinet. If you can handle more height or want to beef up the perf, look at the ALT: notes. 
 
 PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
