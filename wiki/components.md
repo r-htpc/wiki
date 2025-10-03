@@ -98,7 +98,7 @@ Below are the minimum CPUs required for each scenario and a recommendation. **Al
 
 - [HDMI 2.1 4K@120Hz (>= 32Gbps)](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output): >= Ryzen 8xxxG/7xxx iGPU (REC: Ryzen 8500G)
 
-- For use w/dGPU below: >= i3-10100F (REC: Ryzen 5600/Intel i5-12400F)  
+- For use w/dGPU below: >= i3-12100F (REC: Ryzen 5600/Intel i5-12400F)  
 
 - Plex Transcoding: Intel >= i3/i5/i7-7xxx iGPU (REC: Intel i3-12100)  
 
