@@ -812,7 +812,7 @@ TOTAL		|											|$760	|		|
 
 ### 1080p Gaming Steam Box - USED
 
-This budget gaming build runs on Manjaro Linux w/Steam.  
+This budget gaming build runs on Manjaro Linux w/Steam. Bazzite is also possible.  
 It's good for 1080p, High @ 60 fps+ on normal games, Medium @ 45-60 fps on AAA games.  
 It uses a Pre-built PC and GPU from Ebay.  
 Make sure you pick a GPU with a 6-pin (not 8) power connector and a PC with 2 sata connectors free for GPU power. Any Dell/HP/Lenovo MT/tower from the search with an i7-6700 - i5-8500 is fine. You can usually find one with an M.2 SSD so you don't have to purchase one separately like listed below.  
@@ -837,6 +837,7 @@ TOTAL			|															|	**$229**	|			|
 ### 1080p Gaming Box (11.5L)
 
 This is a straight up gaming build for 1080p with High settings, averaging about 80+ fps which is good for a 120 Hz TV.  
+Use Windows or Bazzite for your OS.  
 If you want a low profile case or support longer gpus, look at the ALT: config with a Silverstone ML-07 case instead.  
 
 PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
@@ -856,6 +857,7 @@ TOTAL	|						|	**$800**	|
 ### 1440p Gaming Box (14L)
 
 This is a straight up gaming build for 1440p with High settings, averaging about 80+ fps which is good for a 120 Hz TV.  
+Use Windows or Bazzite for your OS.  
 It's low profile so is good for a media cabinet. If you can handle more height or want to beef up the perf, look at the ALT: notes. 
 
 PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
