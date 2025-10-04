@@ -669,7 +669,7 @@ Way 4: Remote (separate client + software)
    - Cat 5e-7 LAN + [J-Tech KVM Extender](https://www.amazon.com/J-Tech-Digital-Extender-Ethernet-Supports/dp/B091D6ZDDC)
  - Remote
    - Client: Software: Moonlight or Steam Link + Hardware: Device w/Wifi 5 or 100 Mbps LAN (N95 Mini PC, Onn 4K Pro)
-   - Server: software: Sunshine or Steam w/Remote Play enabled
+   - Server: Software: Sunshine or Steam w/Remote Play enabled + Hardware: Gaming PC
 
  4K @ 60 Hz:
  - Direct (specialized)
@@ -680,7 +680,7 @@ Way 4: Remote (separate client + software)
    - Cat 6-7 LAN + [Monoprice 4K+USB 2 Blackbird Extender](https://www.monoprice.com/product?p_id=44570) / [OREI 4K+USB 2 KVM Extender](https://www.amazon.com/Extender-Single-CAT5e-RS-232-Remote/dp/B07BC83WPM)
  - Remote
    - Client: Software: Moonlight + Device w/1 Gbps LAN (N100 Mini PC, Google TV Streamer, ODroid N2+)
-   - Server: Software: Sunshine + OPTIONAL: [Headless Moonlight/Sunshine Streaming Host fix (#9)](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output)
+   - Server: Software: Sunshine + Hardware: Gaming PC. OPTIONAL: [Headless Moonlight/Sunshine Streaming Host fix (#9)](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output)
 
 4K @ 120 Hz:
 - Direct (specialized)
@@ -689,7 +689,7 @@ Way 4: Remote (separate client + software)
    - Cat 6a-7 point to point + [OREI 4K@120Hz Balun Extender](https://www.amazon.com/OREI-120hz-Ethernet-Extender-UltraHD/dp/B0D5FDPRTL) + [USB extender w/point-to-point ethernet](https://www.amazon.com/dp/B08D6MVCR6?ref=ppx_pop_mob_ap_share) / [USB 3 Active](https://www.amazon.com/BlueRigger-Active-Extension-Meters-Repeater/dp/B087LSFS6R/)+[Hub](https://www.amazon.com/Multiple-Splitter-Laptop-Extender-Windows/dp/B0CN3F9Y1Z)
 - Remote
   - Client: Software: Moonlight + [Device w/HDMI 2.1 + 1 Gbps LAN](https://r-htpc.github.io/wiki/sample-builds#specialized-4k120hz)
-  - Server: Software: Sunshine + OPTIONAL: [Headless Moonlight/Sunshine Streaming Host fix (#9)](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output)
+  - Server: Software: Sunshine + Hardware: Gaming PC. OPTIONAL: [Headless Moonlight/Sunshine Streaming Host fix (#9)](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output)
 
 
 <!-- Sub-Section -->
