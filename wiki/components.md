@@ -496,17 +496,17 @@ WeChip G20S Pro/Plus		|	$20	|	RF/BT		|	Yes	|	AAA	|	Remote and Air Mouse
 MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Remote, Mini keyboard, and Air Mouse
 [HTWebRemote](https://github.com/nicko88/HTWebRemote)	|	Free	|	LAN		|	NA	|	NA	|	Software to create web-accessible remote on Windows/[Linux](https://github.com/nicko88/HTWebRemoteHost) HTPC to control multiple devices. [Contact](https://www.reddit.com/message/compose/?to=SirMaster)
 [Unified Remote](https://www.unifiedremote.com/)	|	Free/$5	|	LAN		|	NA	|	NA	|	Software to create app-accessible remote on Windows/Linux HTPC to control multiple devices. Use phone to control PC as mouse/remote.
-[DS4Windows](https://ds4-windows.com/)	|	Free	|	NA		|	NA	|	NA	|	Software to use PS (DS3/DS4/DS5) controllers as mouse/remote
-[JoyXOff](https://joyxoff.com/en/)	|	Free	|	NA		|	NA	|	NA	|	Software to use Xbox/XInput controllers as keyboard/mouse/remote
-[Controller Companion](https://store.steampowered.com/app/367670/Controller_Companion/)	|	$2.99	|	NA		|	NA	|	NA	|	Software to use Xbox/XInput controllers as keyboard/mouse/remote
 [Netflix Remote Controller](http://sticky-ux.com/apps/NetflixRemoteController/)		|	Free	|	NA		|	NA	|	NA	| Software to control Windows Netflix app from keyboard/remote
 [MX3 Kodi Remapper](https://www.mediafire.com/download/gr77i62xp8q27j1/MX3-M_Remote_FiX-v3.0_(Universal).zip) 		|	Free	|	NA		|	NA	|	NA	| Software/scripts for MX3 remote to disable mouse map Ok/Mouse buttons to Enter/Backspace in Kodi
-
+[8bitdo Ultimate 2C](https://www.amazon.com/dp/B0DB4LXDP7?th=1) 		|	$30	|	RF/BT/USB		|	Yes	|	Int	|	Xbox-type gamepad. [specs](https://www.8bitdo.com/ultimate-2c-wireless-controller/)
+[Controller Companion](https://store.steampowered.com/app/367670/Controller_Companion/)	|	$2.99	|	NA		|	NA	|	NA	|	Software to use Xbox/XInput controllers as keyboard/mouse/remote
+[DS4Windows](https://ds4-windows.com/)	|	Free	|	NA		|	NA	|	NA	|	Software to use PS (DS3/DS4/DS5) controllers as mouse/remote
+[JoyXOff](https://joyxoff.com/en/)	|	Free	|	NA		|	NA	|	NA	|	Software to use Xbox/XInput controllers as keyboard/mouse/remote
 
 (1) Discontinued  
 
 - Gamepads
-  - Used with companion software listed above, these are good for use as a mouse. Look at [8bitdo](https://www.8bitdo.com/) or Microsoft for highly-compatible Xbox wireless controllers. For multi-user play, you can pair multiple Xbox controllers with a single USB adapter or 2-4 regular BT controllers with a single [USB BT adapter](https://www.amazon.com/IOGEAR-Bluetooth-Multi-Language-Version-GBU521W6/dp/B007ZT2AXE) (CSR8510/BCM20702 chipsets). For media/desktop control, use a PS3/PS4/Xbox controller with DS4Windows. 
+  - Used with companion software listed above, these are good for use as a mouse. Look at [8bitdo](https://www.8bitdo.com/) (rec above) or Microsoft for highly-compatible Xbox wireless controllers. For multi-user play, you can pair multiple Xbox controllers with a single USB adapter or 2-4 regular BT controllers with a single [USB BT adapter](https://www.amazon.com/IOGEAR-Bluetooth-Multi-Language-Version-GBU521W6/dp/B007ZT2AXE) (CSR8510/BCM20702 chipsets). For media/desktop control, use a PS3/PS4 controller with DS4Windows or Xbox-type with Controller Companion. 
 
 - IR
   - If you already have an IR remote, you can use a [Flirc](https://flirc.tv/more/flirc-usb) adapter to allow it to be used with your HTPC and/or Nvidia Shield. Use software below to remap keys.
@@ -526,5 +526,5 @@ MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Remote, Mini keyboard, and Air Mouse
 
 ---
 
-*This page was last updated on 2025-09-21*
+*This page was last updated on 2025-10-05*
 
