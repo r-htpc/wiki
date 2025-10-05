@@ -476,8 +476,9 @@ CURRENTLY UNAVAILABLE
 For **remotes**, the [Logitech Harmony](https://www.logitech.com/en-us/harmony-universal-remotes) series was the Rolls Royce of remotes, but is now discontinued, so look on the secondary market if you must have it. The [Sofabaton](https://www.sofabaton.com/) remotes are a decent replacement for it.  
 Everything below those are lower tier and <= $50. What's best for you depends on what you want to control and the features you need.  
 The [Pepper Jobs W10](https://www.amazon.com/W10-GYRO-Keyboard-Controller-Learning/dp/B078NT49MJ) remote is the best all-arounder for controlling an HTPC and IR-learned devices.  
-If you want to bring your own IR remote or use a universal one (like an Inteset) to control a HTPC, media box, tv, etc.. pair it with a Flirc USB adapter on the HTPC-side.  
-MCE remotes are flexible and use a standardized protocol. They are good for Kodi and Plex, work well with Windows/Linux, tend to come with IR receivers and can do key remap with either built-in media app mappers or AutoHotKey/EventGhost.  
+A gamepad with the Controller Companion app is good for using the sticks for more precise mouse control/scroll than an air mouse, has good key mapping abilities and a virtual keyboard. A serious option and you don't need to be a gamer.  
+If you want to bring your own IR remote or use a universal one (like an Inteset) to control a HTPC, media box, tv, etc.. pair it with a Flirc USB adapter on the HTPC-side for tons of options.  
+MCE remotes are flexible and use a standardized protocol. They are good for Kodi and Plex, work well with Windows/Linux, tend to come with IR receivers and can do key remap with either built-in media app mappers or AutoHotKey/EventGhost. Cheap and plentiful on Ebay  
 If you want built-in macro support and can't afford the Sofabatons, look at a Skip 1S w/a Flirc.
 
 REMOTE			|	PRICE	|	INT		|	BACKLIT	|	BATTERY	|	NOTES
