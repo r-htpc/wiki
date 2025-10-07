@@ -935,7 +935,7 @@ If you have a limited budget, but want really nice speakers, consider starting w
         - Good: [Fosi BT30D](https://www.amazon.com/dp/B07K7NJ4QN/) amp ($90) + [Dayton Audio B65 (75Wx2)](https://www.parts-express.com/Dayton-Audio-Classic-B65-Bookshelf-Speaker-Pair-Black-300-254?quantity=1) ($70). Add [this](https://www.amazon.com/OREI-Digital-Analog-Audio-Converter/dp/B008EPW7TA) for optical in.
         - Better: [Loxjie A30](https://www.amazon.com/LOXJIE-MA12070-Headphone-Amplifier-Bluetooth/dp/B08J7Z8TN6) amp ($170) + [Polk XT15 (30-150Wx2)](https://www.amazon.com/Polk-Monitor-Bookshelf-Surround-Speakers/dp/B09BMXVQFT?th=1) ($150)
         - Best: [WiiM Ultra](https://www.amazon.com/WiiM-Streamer-Touchscreen-Compatible-Headphone/dp/B0D41YCLW8?th=1) dac streamer ($300) + [Fosi BT30D Pro](https://www.amazon.com/Fosi-Audio-BT30D-Pro-Integrated/dp/B09YNBHR73) amp ($100) + [ELAC Debut 2.0 B6.2 (120Wx2)](https://www.amazon.com/ELAC-Debut-Bookshelf-Speakers-Black/dp/B07B4Q5587) ($300) - can decode DD over HDMI ARC
-        - For a 2.1 system, add on a [Dayton SUB-800 (80W)](https://www.parts-express.com/Dayton-Audio-SUB-800-8-80-Watt-Powered-Subwoofer-300-627) subwoofer ($135)  
+        - For a 2.1 system, add on a basic [Dayton SUB-800 (80W)](https://www.parts-express.com/Dayton-Audio-SUB-800-8-80-Watt-Powered-Subwoofer-300-627) ($135) or [Klipsch R-100SW (150W)](https://us.amazon.com/Klipsch-R-100SW-10-Subwoofer/dp/B07FKH9ZDC) ($180) subwoofer.
     - For 5.1:
       - Get a [Logitech Z906](https://www.logitech.com/en-us/products/speakers/z906-surround-sound-system.980-000467.html) that supports both analog and optical, with DD/DTS decoding. 
 
@@ -1136,5 +1136,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2025-09-14*
+ *This page was last updated on 2025-10-07*
 
