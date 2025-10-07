@@ -448,18 +448,18 @@ KODI:
 7. *Linux*: [https://forum.kodi.tv/showthread.php?tid=356360](https://forum.kodi.tv/showthread.php?tid=356360)
 
 PLEX HTPC/PLEX MEDIA PLAYER:  
-1. Settings->Audio->Device Type: HDMI/Optical  
-2. Settings->Audio->Channels: Auto  
-3. Settings->Audio->Device: Auto/<HDMI/Optical Device>  
+1. Settings->Audio->Device Type: HDMI/SPDIF  
+2. Settings->Audio->Channels: Auto (or 2.0 if spidif)  
+3. Settings->Audio->Device: Auto/<HDMI/SPDIF Device>  
 4. Settings->Audio->Exclusive Mode: Enable  
 5. Settings->Audio->Passthrough: xxx: Enable the codecs your sound system supports decoding  
 6. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
 
 PLEX FOR WINDOWS:  
 1. Settings->Player->Exclusive Mode: Enable  
-2. Settings->Player->Audio Device: <HDMI/Optical Device>  
-3. Settings->Player->Audio Device Kind: <HDMI/Optical>  
-4. Settings->Player->Channels: Auto  
+2. Settings->Player->Audio Device: <HDMI/SPDIF Device>  
+3. Settings->Player->Audio Device Kind: <HDMI/SPDIF>  
+4. Settings->Player->Channels: Auto (or 2.0 if spdif)  
 5. Settings->Player->Passthrough xxx: Enable the codecs your sound system supports decoding  
 6. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
 
