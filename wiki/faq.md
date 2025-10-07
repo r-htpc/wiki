@@ -330,7 +330,8 @@ Support for the higher resolutions and audio is way more prevalent on pre-built 
 
 In regards to internet bandwidth required, you should have 6 Mbps downstream to stream 1080p services. 25 Mbps for 4k.  
 
-If you don't plan on using a [keyboard/mouse-like device](/wiki/components#keyboardsremotesgamepads), then streaming services on a PC will be painful. There are some workarounds like [software](/wiki/components#keyboardsremotesgamepads) to emulate a mouse on game controllers/mobile.  
+If you don't plan on using a [keyboard/mouse-like device](/wiki/components#keyboardsremotesgamepads), then streaming services on a PC will be painful. There are some good workarounds like [software](/wiki/components#keyboardsremotesgamepads) to emulate a mouse on game controllers/mobile, like Controller Companion with an 8bitdo Ultimate 2c controller.  
+
 Other possible solutions are:  
 * Youtube: <code>"%PROGRAMFILES%\Google\Chrome\Application\chrome.exe" --kiosk --enable-extensions --user-agent=Xbox https://www.youtube.com/tv</code> OR [Leanback interface](https://redd.it/y5o7mi)
 * Netflix: <code>"%PROGRAMFILES%\Google\Chrome\Application\chrome.exe" --kiosk --enable-extensions https://www.netflix.com</code> + [Netflix Navigator](https://netflixnavigator.com) extension
@@ -818,7 +819,8 @@ Some options/considerations for this are:
 5. A simple remote.
    - RF: [OSMC](https://osmc.tv/store/product/osmc-remote-control/), [FM4](https://www.amazon.com/Seleven-Universal-Control-Wireless-Android/dp/B01FVUGPE8), [G20S](https://www.amazon.com/WeChip-G20-Control-Wireless-Sensing/dp/B07P322VRP)
    - IR: [WeChip W3](https://www.amazon.com/WeChip-W3-Wireless-Control-Projector/dp/B09XMF5YN1), [Argon IR](https://www.amazon.com/Argon-Raspberry-Infrared-Batteries-Included/dp/B091F3XSF6) w/FLIRC or rPI 4+Argon ONE case
-   - [FLIRC](https://flirc.tv/products/flirc-usb-receiver?variant=43513067569384) w/any IR TV/MCE remote. (e.g. [OneForAll Streamer](https://www.oneforall.com/universal-remotes/urc7935-streamer-remote))  
+   - [FLIRC](https://flirc.tv/products/flirc-usb-receiver?variant=43513067569384) w/any IR TV/MCE remote. (e.g. [OneForAll Streamer](https://www.oneforall.com/universal-remotes/urc7935-streamer-remote))
+   - Controller: 8bitdo Ultimate 2c w/Controller Companion for button mapping
 
 Notes:
  - Common: Start on boot
@@ -827,6 +829,7 @@ Notes:
  - Common: Key/Button mapping
    - Some programs have a built-in feature for mapping keys to functions like Kodi's [keymap](https://kodi.wiki/view/Keymap) and Plex's [inputmaps](https://support.plex.tv/articles/plex-htpc-input-maps/). If not, use the AutoHotKey (AHK) program to do this; it has a more advanced feature-set.
    - If not mapping a normal key, get its "scancode" by either using [KeyboardStateView](https://www.nirsoft.net/utils/keyboard_state_view.html), or by opening the window of a running .AHK script and using Cntrl+K. You can then use this in your AHK script/inputmap to do basically anything, open a program, etc...
+   - Controller Companion if using a controller.
  - Common: Remote Access for help
    - Linux/Windows: Teamviewer, Rustdesk, Chrome Remote Desktop
    - Libreelec: VPN to network (@router or @device w/tailscale) + VNC
