@@ -871,7 +871,7 @@ MEM	|	Crucial Pro 32GB 2x16GB DDR5-6000	|	$80	|[pcpartpicker](https://pcpartpick
 STORAGE	|	WD SN7100 500GB M.2 (OS)	|	$50	|[pcpartpicker](https://pcpartpicker.com/product/Gzn9TW/western-digital-wd_black-sn7100-500-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds500g4x0e-00cja0)	|ALT: WD SN7100 1TB M.2 (OS)
 STORAGE	|	WD SN7100 2TB M.2 (GAMES)	|	$120	|[pcpartpicker](https://pcpartpicker.com/product/wfMMnQ/western-digital-wd_black-sn7100-2-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds200t4x0e-00cja0)	|
 PSU	|	Cooler Master V 750W SFX		|	$110	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&p=1,3,2&A=550000000000,2050000000000&sort=price&e=5,4,2)	|ALT: GD-11: Corsair RM650x (2021) ATX
-COOL	|	Thermalright AXP120-X67	CPU Cooler	|	$35	|pcpartpicker	|ALT: GD-11: Peerless Assassin Mini (Air) / Arctic Liquid Freezer II 240 (AIO)
+COOL	|	Thermalright AXP120-X67	CPU Cooler	|	$35	|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,82000000&c=33,41&sort=price&page=1)	|ALT: GD-11: Peerless Assassin Mini (Air) / Arctic Liquid Freezer II 240 (AIO)
 TOTAL	|						|	**$1225**	|	
 
 <!-- Section -->
