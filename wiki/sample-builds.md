@@ -293,7 +293,7 @@ CASE			|Silverstone ML03					|$100	|[pcpartpicker](https://pcpartpicker.com/prod
 CPU				|Ryzen 5500GT (65W)							|$110	|[pcpartpicker](https://pcpartpicker.com/products/cpu/#sort=price&k=33&F=79,96&g=430,489,418,419)	|ALT:AV1: [Ryzen 8500G](https://pcpartpicker.com/product/y3XV3C/amd-ryzen-5-8500g-41-ghz-6-core-processor-100-100000931box) ($150)
 MOBO			|ASRock B550M Pro4 MicroATX					|$100	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=7&c=145&sort=price&page=1)	|ALT:AV1: [ASRock B650M PG Lightning](https://pcpartpicker.com/products/motherboard/#xcx=0&f=7&sort=price&s=41) ($120)
 MEM			|TEAMGROUP T-Force Vulcan Z 2x8GB DDR4-3200			|	$35		|[pcpartpicker](https://pcpartpicker.com/products/memory/#Z=16384002&sort=price&xcx=0&ff=ddr4&S=3200,7200&L=160,180)	|ALT:AV1: [Crucial 2x8GB DDR5-5600](https://pcpartpicker.com/product/y4BzK8/crucial-classic-16-gb-2-x-8-gb-ddr5-5600-cl46-memory-ct2k8g56c46u5) ($45)
-PSU             |Corsair CX 550W ATX                         | $60 | [pcpartpicker](https://pcpartpicker.com/products/power-supply/#sort=price&e=4,3,2,1&th=1&m=8,337,50,11,14,106,101,18,229,51,71,63,441,113,56) |
+PSU             |Corsair CX650M 650W ATX                         | $60 | [pcpartpicker](https://pcpartpicker.com/products/power-supply/#sort=price&e=4,3,2,1&th=1&m=8,337,50,11,14,106,101,18,229,51,71,63,441,113,56) |
 STORAGE			|WD SN5000 500GB NVMe M.2 SSD TLC				|$40	|[pcpartpicker](https://pcpartpicker.com/product/Pb3NnQ/western-digital-wd-blue-sn5000-500-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds500g4b0e)	|
 STORAGE			|4TB 7200rpm 3.5" HDD			|$40	|[disctech](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/4TB?order=onlinecustomerprice:asc&show=48)	|OPTIONAL. ALT: [10TB+ ($120+)](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/10TB_12TB_14TB_16TB_18TB_20TB_22TB_24TB_6TB_7TB_8TB?order=onlinecustomerprice:asc)
 COOL			|Thermalright AXP90-X53 CPU Cooler, 53mm					|$25	|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,70000000&c=33&W=0&sort=price&page=1)	| OPTIONAL: Quieter than stock cooler
@@ -801,7 +801,7 @@ GPU			|Nvidia RTX 2060				|$160	|[ebay](https://www.ebay.com/sch/i.html?_from=R4
 MEM			|G.Skill Ripjaws V 16GB 2x8GB DDR4-3600 CL18				|$40		|[pcpartpicker](https://pcpartpicker.com/product/n6RgXL/gskill-ripjaws-v-16-gb-2-x-8-gb-ddr4-3600-memory-f4-3600c18d-16gvk)		|ALT: Corsair Vengeance LPX 2x8GB DDR4-3600
 STORAGE		|WD SN7100 1TB NVMe M.2 SSD TLC			|$70	| [pcpartpicker](https://pcpartpicker.com/product/MYP8TW/western-digital-wd_black-sn7100-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds100t4x0e-00cja0)		|
 COOL		|Noctua NH-U12S Redux CPU Cooler					|$50		|[pcpartpicker](https://pcpartpicker.com/product/vV7G3C/noctua-nh-u12s-redux-7075-cfm-cpu-cooler-nh-u12s-redux)		|ALT: [Thermalright Silver Soul 135](https://pcpartpicker.com/product/c3pzK8/thermalright-silver-soul-135-82-cfm-cpu-cooler-ss135) ($40)
-PSU			|ADATA XPG Core Reactor II 650W ATX			|$70	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&sort=price&th=1&e=5,4,3,2&p=1,3,2)		|ALT: Corsair CX650M ($90)
+PSU			|ADATA XPG Core Reactor II 650W ATX			|$70	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&sort=price&th=1&e=5,4,3,2&p=1,3,2)		|ALT: Corsair CX650M ($70)
 TOTAL		|											|$760	|		|
 
 <!-- Section -->
@@ -870,7 +870,7 @@ MOBO	|	ASRock B650I Lightning Wifi ITX		|	$170	|[pcpartpicker](https://pcpartpic
 MEM	|	Crucial Pro 32GB 2x16GB DDR5-6000	|	$80	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr5&Z=32768002&sort=price&S=5200,8400)	|ALT: G.Skill Flare X5 2x16GB 32GB DDR5-6000
 STORAGE	|	WD SN7100 500GB M.2 (OS)	|	$50	|[pcpartpicker](https://pcpartpicker.com/product/Gzn9TW/western-digital-wd_black-sn7100-500-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds500g4x0e-00cja0)	|ALT: WD SN7100 1TB M.2 (OS)
 STORAGE	|	WD SN7100 2TB M.2 (GAMES)	|	$120	|[pcpartpicker](https://pcpartpicker.com/product/wfMMnQ/western-digital-wd_black-sn7100-2-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds200t4x0e-00cja0)	|
-PSU	|	Cooler Master V 750W SFX		|	$110	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&p=1,3,2&A=550000000000,2050000000000&sort=price&e=5,4,2)	|ALT: GD-11: Corsair RM650x (2021) ATX
+PSU	|	Cooler Master V 750W SFX		|	$110	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&p=1,3,2&A=550000000000,2050000000000&sort=price&e=5,4,2)	|ALT: GD-11: Corsair RM750e ATX
 COOL	|	Thermalright AXP120-X67	CPU Cooler	|	$35	|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,82000000&c=33,41&sort=price&page=1)	|ALT: GD-11: Peerless Assassin Mini (Air) / Arctic Liquid Freezer II 240 (AIO)
 TOTAL	|						|	**$1225**	|	
 
