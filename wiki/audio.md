@@ -242,7 +242,7 @@ You will use an HDMI splitter to split/clone the source signal and send the same
 
 <img src="https://i.imgur.com/dnBBvX3.png" width="550" height="300" alt="DIAGRAM">
 
-In this scenario you will likely be bitstreaming through Optical, or in the case of 3.5mm jacks, decoding audio on the HTPC. If you do not have these on your motherboard, there are [USB and PCIe-based options](/wiki/audio#accessories).  
+In this scenario you will likely be bitstreaming through Optical, or in the case of 3.5mm jacks, decoding audio on the HTPC. If you do not have these on your motherboard, there are [USB and PCIe-based sound cards/adapters](/wiki/audio#accessories).  
 
 1. Connect the HTPC's primary HDMI output to the display's HDMI input, i.e. HTPC (HDMI) -> TV (HDMI).  
 2. Connect the HTPC's optical/3.5mm output to the sound system's optical/RCA/3.5mm.. input, e.g. HTPC (Optical) -> Sound System (Optical).  
@@ -257,7 +257,7 @@ In this scenario you will likely be bitstreaming through Optical, or in the case
 <img src="https://i.imgur.com/vpUWS5B.png" width="550" height="300" alt="DIAGRAM">
 
 If you have only an ARC/eARC port on your sound system (like a cheaper soundbar), use a [HDMI Extractor](/wiki/audio#accessories) with an eARC output.  
-** An extractor should be a last resort, especially for optical or analog as there are many [USB and PCIe-based sound cards/adapters](/wiki/audio#accessories) out there for PCs and interuppting the HDMI signal should be avoided**
+**An extractor should be a last resort, especially for optical or analog as there are many [USB and PCIe-based sound cards/adapters](/wiki/audio#accessories) out there for PCs and interuppting the HDMI signal should be avoided**
  
 1. Connect the HTPC's HDMI output to a [HDMI Audio Extractor](/wiki/audio#accessories)'s HDMI input, i.e. HTPC (HDMI) -> Audio Extractor (HDMI).  
 2. Connect the HDMI Audio Extractor's HDMI output to the display's HDMI input, i.e. Audio Extractor (HDMI) -> TV (HDMI).  
