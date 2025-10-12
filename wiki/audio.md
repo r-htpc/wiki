@@ -197,6 +197,7 @@ This will send audio through your display. This is common for VRR (gsync/freesyn
 
  Audio supported:
    - Dependent on your display's audio pass-through support. See your display's manual or [rtings.com](https://rtings.com/tv) reviews for what audio codecs are supported and how to configure your display to pass-through/bitstream audio. If your display can't pass-through the codecs you want, see below scenarios.
+   - 5.1 Gaming audio will not work out of the box for regular ARC and Optical, as these do not support 5.1 PCM audio. See our [gaming audio section](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) for software workarounds if you must use this scenario.
    - **If your display supports eARC but your sound system doesn't**, use an [eARC extractor](https://www.amazon.com/ViewHD-Adapter-Audio-Receiver-Application/dp/B08ZHCS5D9) between the display and the sound system's HDMI **input**
    - *ARC:* PCM 2.0/Lossy DD+Atmos 5.1/DTS 5.1, *eARC:* All, *Optical:* PCM 2.0/Lossy DD 5.1/DTS 5.1
    
@@ -255,7 +256,8 @@ In this scenario you will likely be bitstreaming through Optical, or in the case
 
 <img src="https://i.imgur.com/vpUWS5B.png" width="550" height="300" alt="DIAGRAM">
 
-If you have only an ARC/eARC port on your sound system (like a cheaper soundbar), use a [HDMI Extractor](/wiki/audio#accessories) with an eARC output.
+If you have only an ARC/eARC port on your sound system (like a cheaper soundbar), use a [HDMI Extractor](/wiki/audio#accessories) with an eARC output.  
+** An extractor should be a last resort, especially for optical or analog as there are many [USB and PCIe-based sound cards/adapters](/wiki/audio#accessories) out there for PCs and interuppting the HDMI signal should be avoided**
  
 1. Connect the HTPC's HDMI output to a [HDMI Audio Extractor](/wiki/audio#accessories)'s HDMI input, i.e. HTPC (HDMI) -> Audio Extractor (HDMI).  
 2. Connect the HDMI Audio Extractor's HDMI output to the display's HDMI input, i.e. Audio Extractor (HDMI) -> TV (HDMI).  
