@@ -51,7 +51,7 @@ AAC/HE-AAC: Lossy, <= 320 Kbps. Up to 48 channels. Almost always cannot be decod
 
 Dolby Digital/AC-3: "DD". Lossy, <= 640 kbps. Up to 5.1 channels. Common in **commercial streaming media**, physical media. Can be played over Optical/HDMI/HDMI ARC  
 
-Dolby Digital Live: Encodes PCM 5.1 audio into a compressed 5.1 <!-- 16-bit/48kHz 640 Kbps --> DD stream for transport over bandwidth-starved Optical/HDMI ARC interfaces. [Used in gaming on specific soundcards/APO software](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system).  
+Dolby Digital Live: Encodes PCM 5.1 audio into a compressed 5.1 <!-- 16-bit/48kHz 640 Kbps --> DD stream for transport over bandwidth-starved Optical/HDMI ARC interfaces. [Used in gaming on specific soundcards](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system).  
 
 DTS Connect / Interactive: DTS's version of Dolby Digital Live. Encodes PCM 5.1 into a compressed 5.1 <!-- 24-bit/48kHz 1.5 Mbps --> DTS stream.  
 
@@ -1111,7 +1111,7 @@ Orei - [Optical](https://www.amazon.com/Optical-Coaxial-Audio-Extractor-OREI/dp/
 
 [Startech USB Audio Card - TOSLINK Optical+5.1 Analogs+Head](https://www.amazon.com/dp/B002LM0U2S) - $35 - DD/DTS Passthrough 
 
-[Creative Sound Blaster X3/X4 - TOSLINK Optical+7.1 Analogs+Line in](https://www.amazon.com/External-Holographic-Discrete-Surround-Optical-Out/dp/B0953LL5R6?th=1) - $140 - DD/DTS Passthrough, Dolby Digital Live Encoding 
+[Creative Sound Blaster X3/X4 - TOSLINK Optical+7.1 Analogs+Line in](https://www.amazon.com/External-Holographic-Discrete-Surround-Optical-Out/dp/B0953LL5R6?th=1) - $140 - DD/DTS Passthrough, Dolby Digital Live Encoding for 5.1 Gaming over Optical
 
 [Douk Audio U2 USB - TOSLINK Optical+Coax](https://www.amazon.com/Douk-Audio-Converter-Interface-PCM192Khz/dp/B085XPRSGM) (Nvidia Shield compatible) - $55 
 
@@ -1119,7 +1119,7 @@ Orei - [Optical](https://www.amazon.com/Optical-Coaxial-Audio-Extractor-OREI/dp/
 
 **PCIe to Optical/Analog**  
 
-Creative Sound Blaster [Z SE/SB1500](https://www.ebay.com/sch/44980/i.html?_nkw=%28Z+SE%2CSB1500%29&_from=R40&LH_BIN=1&_sop=15)/X3/X4/AE-5+ - TOSLINK Optical+Analog, DD/DTS Passthrough, Dolby Digital Live Encoding  
+Creative Sound Blaster [Z SE/SB1500](https://www.ebay.com/sch/44980/i.html?_nkw=%28Z+SE%2CSB1500%29&_from=R40&LH_BIN=1&_sop=15)/X3/X4/AE-5+ - $50-150 - TOSLINK Optical+Analog, DD/DTS Passthrough, Dolby Digital Live Encoding for 5.1 Gaming over Optical  
 
 Creative Audigy RX - TOSLINK Optical+Analog, DD/DTS Passthrough 
 
