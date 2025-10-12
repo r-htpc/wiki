@@ -113,7 +113,8 @@ $150-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB
 
    - See [ETA PRIME](https://www.youtube.com/@ETAPRIME) YT channel for Emulation device reviews  
 - Medium Gaming:
-  - Asus NUC 14 Performance (RTX 4060/4070), Asus ROG NUC 760/970 (RTX 4060/4070), Minisforum 790S7 (RTX 4060), Minisforum HX99G (RX 6600M)
+  - Mini: Asus NUC 14 Performance (RTX 4060/4070), Asus ROG NUC 760/970 (RTX 4060/4070), Minisforum 790S7 (RTX 4060), Minisforum HX99G (RX 6600M)
+  - Full: [Acer Nitro 50](https://www.amazon.com/N50-656-UR12-Desktop-i5-14400F-10-Core-Processor/dp/B0CPKNK1KP?th=1) (RTX 3050) ($700+)
  
 <!-- Sub-Section -->
 
