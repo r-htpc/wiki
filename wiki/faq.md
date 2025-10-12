@@ -177,9 +177,9 @@ Do NOT ask for help with playing media on [laptop screens or PC monitors](/wiki/
 
 ## How do i wake/power on/power off my HTPC with a remote/mobile app?
 
-You may want to wake your HTPC from sleep (S3) or have the ability to power it on (S5) or off from your remote control or a mobile app. There are a few ways to do this. Each has its own pros and cons.  
+You may want to wake your HTPC from sleep (S3) or have the ability to power it on (S5) or off from your remote control or a mobile app. There are a few ways to do this. Each has its own pros and cons. Keep in mind, turning PCs off and on lowers the life of the components due to thermal and electrical stress.  
 
-1. Wake/Power On/Off: Use HDMI CEC with another HT device. Wake: [Pulse-Eight USB adapter](https://www.pulse-eight.com/c/59), Wake/Power On/Off: [Intel NUC 7+](https://www.intel.com/content/www/us/en/support/articles/000023500/intel-nuc/intel-nuc-kits.html); add HTPC Control: NUC 7/8/10 + [Pulse-Eight Int. CEC](https://www.pulse-eight.com/p/154/intel-nuc-hdmi-cec-adapter).
+1. Wake/Power On/Off: Use HDMI CEC with another HT device. Wake: [Pulse-Eight USB CEC adapter](https://www.pulse-eight.com/p/104/usb-hdmi-cec-adapter), Wake/Power On/Off: [Intel NUC 7+](https://www.intel.com/content/www/us/en/support/articles/000023500/intel-nuc/intel-nuc-kits.html); add HTPC Control: NUC 7/8/10 + [Pulse-Eight Int. CEC](https://www.pulse-eight.com/p/154/intel-nuc-hdmi-cec-adapter).
 
 2. Wake: Use a [Flirc USB](https://flirc.tv/more/flirc-usb) device plugged into your HTPC and an IR remote
 
@@ -197,7 +197,9 @@ You may want to wake your HTPC from sleep (S3) or have the ability to power it o
 
 9. Wake/Power On: [Configure Wake-on-Lan](https://www.gearrice.com/update/turn-on-a-pc-remotely-with-wake-on-lan-or-remote-control/) in your BIOS and on your network card. Use with a mobile app like Unified Remote
 
-10. Wake/Power On/Off: Install a [SwitchBot bot](https://www.switch-bot.com/) on your HTPC's power button. Use SwitchBot Remote or mobile app.
+10. Wake: Using a Keyboard/Mouse/Gamepad with a USB dongle/support, Enable Wake/Resume-on-USB in your BIOS. In Windows, Disable Fast Startup and Enable Allow Device to Wake Computer under the USB device properties in Device Manager.
+
+11. Wake/Power On/Off: Install a [SwitchBot bot](https://www.switch-bot.com/) on your HTPC's power button. Use SwitchBot Remote or mobile app.
 
 If you want to control other devices from your HTPC, there are a number of ways depending on the target device's capabilities. Potential solutions include taking actions on triggers from Task Scheduler and [EventGhost](https://github.com/EventGhost/EventGhost/releases), combined with actions to devices using hardware like [Pulse-Eight](https://www.pulse-eight.com/c/59) (CEC), [USB-UIRT](http://www.usbuirt.com/) (IR), [Flirc USB](https://flirc.tv/collections/receivers) (IR), [IR Blasters](https://www.iguanaworks.net/products/usb-ir-transceiver/) (IR) and software like [WinLirc](https://winlirc.sourceforge.net/), [EventGhost CEC plugin](https://github.com/sam-6174/pulse-eight-egplugin), [Home Assistant](https://www.home-assistant.io/), [Wake-On-Lan](https://www.nirsoft.net/utils/wake_on_lan.html), and [IFTTT](https://ifttt.com/).  
 
@@ -854,5 +856,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2025-09-15*
+*This page was last updated on 2025-10-12*
 
