@@ -823,7 +823,7 @@ Finish the basic setup by following the [Decoding / Channelization software setu
 *ALTERNATIVES*  
 If you can't support the above hardware methods, but have plain **ARC** support or even only **Optical**, you can use that, but **you will only get PCM 2.0/Stereo sound by default**. The only way around this to still get 5.1 sound is to encode the game audio with a tech called **Dolby Digital Live**. To do this, you can either:  
 
- 1. Buy an internal/external sound card with Dolby Digital Live encoding support (e.g. Sound Blaster [SB1500/Z SE](https://www.ebay.com/sch/44980/i.html?_nkw=%28Z+SE%2CSB1500%29&_from=R40&LH_BIN=1&_sop=15)/X4/X3/AE-5+) and connect it via **Optical** to your Sound System  
+ 1. Buy an internal/external sound card with Dolby Digital Live encoding support (e.g. Sound Blaster [SB1500/Z SE](https://www.ebay.com/sch/44980/i.html?_nkw=%28Z+SE%2CSB1500%29&_from=R40&LH_BIN=1&_sop=15)/X4/X3/AE-5+) and connect it via **Optical** to your Sound System. This is the least complicated, without messy 3rd-party software driver workarounds.  
 
  2. For **HDMI ARC**: Install the APO driver to encode everything into Dolby Digital for over HDMI ARC from your PC. Read the *APO DRIVER SETUP* sub-section below for instructions.  
 
