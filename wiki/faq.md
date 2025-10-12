@@ -197,7 +197,7 @@ You may want to wake your HTPC from sleep (S3) or have the ability to power it o
 
 9. Wake/Power On: [Configure Wake-on-Lan](https://www.gearrice.com/update/turn-on-a-pc-remotely-with-wake-on-lan-or-remote-control/) in your BIOS and on your network card. Use with a mobile app like Unified Remote
 
-10. Wake: Using a Keyboard/Mouse/Gamepad with a USB dongle/support, Enable Wake/Resume-on-USB in your BIOS. In Windows, Disable Fast Startup and Enable Allow Device to Wake Computer under the USB device properties in Device Manager.
+10. Wake: Using a Keyboard/Mouse/Gamepad with a USB dongle/support, Enable Wake/Resume-on-USB and Disable ErP (if available) in your BIOS. In Windows, Disable Fast Startup and Enable Allow Device to Wake Computer under the USB device properties in Device Manager.
 
 11. Wake/Power On/Off: Install a [SwitchBot bot](https://www.switch-bot.com/) on your HTPC's power button. Use SwitchBot Remote or mobile app.
 
