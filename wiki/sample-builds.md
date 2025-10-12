@@ -769,20 +769,20 @@ TOTAL			|												|$497	|		|
 
 ### $650 1080p Gaming Emulation Box (14L)
 
-You should be able to play 60+ fps for most everything  
+You should be able to play 60+ fps for most everything. Also good for regular 1080p gaming at Medium quality.  
 
 Will handle 4k video duties just fine.  
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
-CASE		|Silverstone ML07				|$120		|[pcpartpicker](https://pcpartpicker.com/product/MtV48d/silverstone-case-ml07b)		|15" x 13.8" x 4.1" [specs](https://www.silverstonetek.com/en/product/info/computer-chassis/ML07/) ALT: Fractal Ridge
+CASE		|Silverstone ML07				|$110		|[pcpartpicker](https://pcpartpicker.com/product/MtV48d/silverstone-case-ml07b)		|15" x 13.8" x 4.1" [specs](https://www.silverstonetek.com/en/product/info/computer-chassis/ML07/) ALT: Fractal Ridge
 MOBO		|Gigabyte H610I DDR4			|$125	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&s=40&f=8&sort=price&page=1)	| DDR4
-CPU			|Intel i5-12400F, 65W						|$110	|[pcpartpicker](https://pcpartpicker.com/product/pQNxFT/intel-core-i5-12400f-25-ghz-6-core-processor-bx8071512400f)	|ALT: Intel i5-12100F
-GPU			|Nvidia GTX 1660 Super		|$100	|[ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=gtx+1660+super&_sacat=0&LH_TitleDesc=0&rt=nc&_odkw=rtx+2060&_osacat=0&LH_BIN=1&_sop=15)	|ALT: 1440p: GTX 1070
-MEM			|Corsair Vengeance 16GB 2x8GB DDR4-3200	|$40		|[pcpartpicker](https://pcpartpicker.com/product/p6RFf7/corsair-memory-cmk16gx4m2b3200c16)	|
+CPU			|Intel i5-12400F, 65W					|$110	|[pcpartpicker](https://pcpartpicker.com/product/pQNxFT/intel-core-i5-12400f-25-ghz-6-core-processor-bx8071512400f)	|ALT: Intel i5-12100F
+GPU			|Nvidia GTX 1660 Super (Used)		|$100	|[ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=gtx+1660+super&_sacat=0&LH_TitleDesc=0&rt=nc&_odkw=rtx+2060&_osacat=0&LH_BIN=1&_sop=15)	|ALT: RTX 3050 8GB (Used:$150/New:$200). 1440p: GTX 1070 (Used:$100) / RTX 5050 (New:$250)
+MEM			|Corsair Vengeance 16GB 2x8GB DDR4-3000	|$40		|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr4&Z=16384002,32768002&S=2933,8400&sort=price&page=1)	|
 STORAGE		|WD Black SN5000 500GB NVMe M.2 SSD TLC	|$45		|[pcpartpicker](https://pcpartpicker.com/product/Pb3NnQ/western-digital-wd-blue-sn5000-500-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds500g4b0e)	|ALT: [1TB M.2 SSD](https://pcpartpicker.com/product/YVytt6/western-digital-1-tb-m2-2280-nvme-solid-state-drive-wds100t3x0e) ($70)
-PSU			|Silverstone SFX 450W			|$100		|[pcpartpicker](https://pcpartpicker.com/product/jNBTwP/silverstone-sfx-450w-80-bronze-certified-sfx-power-supply-st45sf-v3)	|ALT: [SFX PSUs](https://pcpartpicker.com/products/power-supply/#sort=price&th=5&p=1,3,2&e=6,5,4,2,1)
-TOTAL		|									|$640	|	|
+PSU			|Silverstone SFX 450W			|$100		|[pcpartpicker](https://pcpartpicker.com/product/jNBTwP/silverstone-sfx-450w-80-bronze-certified-sfx-power-supply-st45sf-v3)	|ALT: [SFX PSUs](https://pcpartpicker.com/products/power-supply/#sort=price&th=5&e=6,5,4,2,1&xcx=0)
+TOTAL		|									|$630	|	|
 
 <!-- Sub-Section -->
 
