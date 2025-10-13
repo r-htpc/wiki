@@ -575,7 +575,7 @@ The following are the current capabilities of the major streaming services as we
   - *Windows:* (App) 720p SDR DD 5.1. (MS Edge) 720p SDR, (Chrome) 720p SDR, (Firefox) 480p SDR. Stereo.
   - *Linux:* (Chrome/Firefox): 480p SDR, Stereo
 
-- [APPLE TV+](https://support.apple.com/guide/tvplus/welcome/web)  
+- [APPLE TV](https://support.apple.com/guide/tvplus/welcome/web)  
 
   - *Windows:* (MS Edge/MS Store App) 4k HDR10 DD+ 5.1 Atmos. (Chrome/Firefox) 720p SDR
   - *Linux:* Unknown, but will not be higher than 1080p
@@ -856,5 +856,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2025-10-12*
+*This page was last updated on 2025-10-13*
 
