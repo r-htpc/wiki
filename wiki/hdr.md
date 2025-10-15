@@ -592,7 +592,7 @@ Simple, Tonemapping
   * Supported Web Browsers/Apps: Microsoft Edge (Netflix/Youtube), Microsoft Store app (Netflix), Google Chrome (Youtube)  
 * *Windows settings:*  
   * Activate HDR
-    * HDR may need to be turned on manually before viewing content; browsers other than Microsoft Edge may not switch to HDR mode automatically like local players. If that's the case, you can use the "Win + Alt + B" shortcut to turn on/off HDR in windows.  
+    * HDR may need to be turned on manually before viewing content; apps may not switch to HDR mode automatically like some local players do, especially in non-fullscreen mode. If that's the case, you can use the "Win + Alt + B" shortcut to turn on/off HDR in windows or the [HDRTray](https://github.com/res2k/HDRTray) utility to enable it via a mouse in the system tray.  
       * Start -> Settings -> System -> Display
         * Windows 10
           * Windows HD Color settings
@@ -600,7 +600,7 @@ Simple, Tonemapping
             * Stream HDR Video: On  
         * Windows 11
           * HDR
-            * (Use) HDR: On  
+            * (Use) HDR: Off  
               * Allow HDR video streaming even when HDR is off: On  
             * HDR video streaming..: On  
 * *Test*
@@ -714,5 +714,5 @@ AMD RX >= 67xx|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Dif
 
 ---
 
-*This page was last updated on 2025-09-06*
+*This page was last updated on 2025-10-15*
 
