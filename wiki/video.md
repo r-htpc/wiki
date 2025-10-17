@@ -550,6 +550,21 @@ See our [Optical Drive](/wiki/components#optical-drives) section of the Hardware
 
 ### What are the best ways for scaling video?
 
+If you set your GPU to output the same resolution as your display, your HTPC will do the upscaling. This can be handled by:
+ - Your GPU driver's default or proprietary scaling method (Good quality)
+   - Nvidia: Aspect scaling (Default), [Integer Scaling/NIS](https://nvidia.custhelp.com/app/answers/detail/a_id/5280/~/how-to-enable-nvidia-image-scaling)
+   - AMD: [Radeon Image Sharpening/RIS](https://www.amd.com/en/resources/support-articles/faqs/DH3-034.html)
+   - Intel: Stretched/Aspect
+ - Your GPU's proprietary hardware scaling method, usually configured in the GPU driver and/or in your video player's renderer, where supported (Better Quality)
+   - Nvidia: RTX Video Super Resolution/VSR, enable [Super Resolution in Nvidia control panel/app](https://nvidia.custhelp.com/app/answers/detail/a_id/5448). and in your video render (supported in PotPlayer, [MPC VR](https://github.com/Aleksoid1978/VideoRenderer/releases), VLC)
+   - AMD: [Radeon Super Resolution/RSR](https://www.amd.com/en/products/software/adrenalin/radeon-super-resolution.html). Video support unknown
+   - Intel: [Retro Scaling](https://www.intel.com/content/www/us/en/support/articles/000057030/graphics.html). Video support unknown
+ - Your player's video renderer ([MPC VR](https://github.com/Aleksoid1978/VideoRenderer/releases) or madVR) using GPU processing power (Best quality)
+   - Even the lowest algorithms (like DXVA2/Cubic) are good for use with iGPUs where proprietary methods are not supported.
+
+If you set your GPU to output a resolution that is different than your display's native resolution, your display will do the upscaling. For instance, if you have a 4K TV and set your GPU to output 1080p, your TV will upscale the 1080p signal to 4K using its own upscaling algorithims. The quality of this upscaling will vary based on the quality of the display.  
+The best TV upscalers (e.g. Sony) will fall somewhere in between the Better and Best Quality methods above.  
+
 Video scaling algorithms are available to configure in the [MPC VR](/wiki/hdr#mpc-be--mpc-video-renderer) and [madVR](/wiki/hdr#mpc-hcmpc-be--madvr) video renderers. Our HDR setup guide has basic instructions for player/renderer combos.
 
 From Worst to Best quality (and generally least resource intensive to most) the algos are:  
@@ -802,5 +817,5 @@ Ideal Youtube tests - Test if GPU can decode youtube content - 1080p/4k, VP9/AV1
 
 ---
 
-*This page was last updated on 2025-09-20*
+*This page was last updated on 2025-10-17*
 
