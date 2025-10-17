@@ -335,7 +335,7 @@ ATX: Seasonic (Focus/S12/GM), Super Flower (Leadex), EVGA (GD/GA/G5/G7/GT/G+), C
 Inaudible (< 20 dBA): [Phanteks Amp](https://www.cybenetics.com/index.php?option=database&cert=1&bdg=4&volts=1&manfID=83), [Super Flower Leadex III Gold](https://www.cybenetics.com/index.php?option=database&params=1,0,55), [be Quiet! Straight Power 11](https://www.cybenetics.com/index.php?option=database&params=1,0,22), [Corsair RM550x](https://www.cybenetics.com/index.php?option=database&params=1,0,28)  
 SFX: Seasonic Focus SGX, Silverstone ST30SF/SX, Corsair SF, EVGA GM, FSP Dagger Pro Gold  
 Pico: [HDPlex](https://hdplex.com/hdplex-fanless-250w-gan-aio-atx-psu.html), [Mini-Box](https://mini-box.com), [RGeek](https://www.amazon.com/stores/RGEEK/page/616B17E4-8578-4D17-B851-98993644408F?ref_=ast_bln)  
-Flex: [Enhance](https://www.geeekstore.com/product-category/power-supply/), [Silverstone](https://www.silverstonetek.com/en/product/power-supplies/?page=1&filter=TFX_Flex_ATX&sort=Newsest): mod w/Noctua 40mm fan for low noise.  
+Flex: [Enhance](https://www.geeekstore.com/product-category/power-supply/), [Silverstone](https://www.silverstonetek.com/en/product/power-supplies/?page=1&filter=TFX_Flex_ATX&sort=Newsest), [FSP FlexGuru/Gold](https://www.amazon.com/stores/page/FFA3D8E9-0F27-4CBA-BAA7-856F985586D2/search?ingress=0&visitId=289d7c89-3d34-42c9-9176-386d47aa74f5&terms=flex%20gold): mod w/Noctua 40mm fan for low noise.  
 
 **Power Usage**
 
