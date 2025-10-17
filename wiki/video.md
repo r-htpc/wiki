@@ -487,7 +487,8 @@ If the media you're watching does not have a framerate that's a multiple of your
 
 ### **Application-Specific Setup For HDR/Scaling**
 
-[HDR Setup Guide](/wiki/hdr)  
+[Wiki:HDR Setup Guide](/wiki/hdr)  
+[Wiki:Video:What Are The Best Ways For Scaling Video?](/wiki/video#what-are-the-best-ways-for-scaling-video)  
 
 <!-- Section -->
 
