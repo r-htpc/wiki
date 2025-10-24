@@ -99,8 +99,7 @@ If you need storage and want to run backend services (like plex)..
 BRAND		|	MODEL				|	DRIVES	|COST	|	TRANSCODING		|	CPU								|	PASSMARK	|	PM/$|	RAID MODES	| NOTES
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--
 **UGREEN**	|	**DXP2800**				|	2	|	$280	|	4k (0a)	|	x64 (Celeron N100) 3.4 Ghz	|		5400	|	19.28	|RAID 0/1/JBOD,Single|ext4/btrfs, 8GB RAM, 2.5 Gb/s
-**Terramaster**	|	**F2-423**				|	2	|	$280	|	4k (1a)	|	x64 (Celeron N5105) 2.0 Ghz	|		4094	|	14.6	|RAID 0/1,JBOD,Single|4GB RAM, 2.5 Gb/s
-Terramaster	|	F2-424				|	2	|	$380	|	4k (1a)	|	x64 (Celeron N95) 3.4 Ghz	|		5419	|	14.26	|RAID 0/1,JBOD,Single|8GB RAM, 2x2.5 Gb/s
+**Terramaster**	|	**F2-424**				|	2	|	$290	|	4k (1a)	|	x64 (Celeron N95) 3.4 Ghz	|		5419	|	18.68	|RAID 0/1,JBOD,Single|8GB RAM, 2x2.5 Gb/s
 ASUSTOR		|	AS-5402T			|	2	|	$380	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094|	10.77	|RAID 0/1,JBOD,Single|4GB RAM, 2x2.5Gb/s, ext4/btrfs
 Synology	|	DS224+				|	2	|	$300	|	Some/4k (1b)			|	x64 (Celeron J4125) 2.0 Ghz		|		3035	|	10.1	|RAID 0/1,JBOD,SHR,Single|2GB RAM, 1Gb/s x2
 QNAP	|	TS-264				|	2	|	$425	|	4k (1a)			|	x64 (Celeron N5095) 2.0GHz		|		4125	|	9.7	|RAID 0/1,JBOD,Single|8GB RAM, 2.5Gb/s, ext4
@@ -151,6 +150,7 @@ Transcoding = Plex transcoding ability, referenced in [plex's transcoding spread
 (4) HW Transcoding: 1x 1080p. SW Transcoding: 1x 720p  
 
 <!-- DISCONTINUED
+Terramaster	|	F2-423				|	2	|	$280	|	4k (1a)	|	x64 (Celeron N5105) 2.0 Ghz	|		4094	|	14.6	|RAID 0/1,JBOD,Single|4GB RAM, 2.5 Gb/s
 QNAP		|	TS-453D-4G				|	4	|	$500	|	Some/4k (1b)			|	x64 (Celeron J4125) 2.0 GHz		|		3035	|	6.07	|RAID 0/1/5/6/10,JBOD,Single|ext4, 4GB RAM
 Terramaster	|	F2-223				|	2	|	$260	|	Some/4k (1b)	|	x64 (Celeron N4505)	|		2241	|	8.62	|RAID 0/1,JBOD,Single|4GB RAM, 2x2.5 Gb/s
 -->
@@ -416,5 +416,5 @@ If your storage is on a windows-based OS, [follow these instructions](https://su
 
 ---
 
-*This page was last updated on 2025-07-09*
+*This page was last updated on 2025-10-24*
 
