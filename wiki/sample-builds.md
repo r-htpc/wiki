@@ -848,11 +848,11 @@ CASE		|Silverstone SG13b					|$75	|[pcpartpicker](https://pcpartpicker.com/produ
 CPU	|	Intel i5-12400F (65W)				|	$110	|[pcpartpicker](https://pcpartpicker.com/product/pQNxFT/intel-core-i5-12400f-25-ghz-6-core-processor-bx8071512400f)	|ALT: ML-07: AMD Ryzen 5700X
 GPU	|	AMD RX 9060 XT 8GB			|	$300	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&sort=price&c=596)	|<= 270 mm (L). ALT: RTX 5060 8GB
 MOBO	|	ASRock Z690M-ITX/ax				|	$140	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&s=40&f=8&sort=price&page=1)	|ALT: ML-07: ASRock A520M-ITX/ac
-MEM	|	Teamforce Vulcan Z 32GB 2x16GB DDR4-3600	|	$55	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr4&S=3600,3733&Z=32768002&sort=price)	|ALT: 16 GB 2x8GB ($30)
+MEM	|	Teamforce Vulcan Z 32GB 2x16GB DDR4-3600	|	$70	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr4&S=3200,3733&Z=32768002&sort=price)	|ALT: 16 GB 2x8GB ($30)
 STORAGE	|	WD SN5000 1TB M.2 (OS/GAMES)	|	$60	| [pcpartpicker](https://pcpartpicker.com/product/JFjRsY/western-digital-wd-blue-sn5000-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds100t4b0e)	| ALT: WD SN7100 1TB M.2 (OS/GAMES)
 PSU	|	ADATA XPG Core Reactor II 650W ATX	|	$70	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=1&e=4,2&p=1,3,2&sort=price&page=1)	| ALT: ML-07: [SFX Semi/Full-Modular](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&p=1,3,2&A=550000000000,2050000000000&sort=price&e=5,4,2)
 COOL		|Thermalright AXP90-X53 CPU Cooler, 53mm			|	$25		|[pcpartpicker](https://pcpartpicker.com/product/3g7G3C/thermalright-axp90-x53-4258-cfm-cpu-cooler-axp90-x53)	|ALT: [Thermalright AIO](https://pcpartpicker.com/product/hTqrxr/thermalright-aqua-elite-v3-6617-cfm-liquid-cpu-cooler-aqua-elite-120-v3) *ML-07*: [AXP120-X67](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=66500000,72600000&sort=price&m=113)
-TOTAL	|						|	**$815**	|	
+TOTAL	|						|	**$830**	|	
 
 <!-- Sub-Section -->
 
@@ -868,12 +868,12 @@ CASE	|	Silverstone Milo Z/ML-07		|	$110	|[pcpartpicker](https://pcpartpicker.com
 CPU	|	AMD Ryzen 7600X	    	    	|	$180	|[pcpartpicker](https://pcpartpicker.com/product/66C48d/amd-ryzen-5-7600x-47-ghz-6-core-processor-100-100000593wof)	|ALT: AMD Ryzen 7700X
 GPU	|	AMD RX 9060 XT 16GB				|	$350	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&sort=price&c=596&P=17179869184,51539607552)	|ALT: AMD RX 9070 16GB
 MOBO	|	ASRock B650I Lightning Wifi ITX		|	$170	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&sort=price&s=41)	|ALT: GD-11: Gigabyte B650 GAMING X AX ATX
-MEM	|	Crucial Pro 32GB 2x16GB DDR5-6000	|	$80	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr5&Z=32768002&sort=price&S=5200,8400)	|ALT: G.Skill Flare X5 2x16GB 32GB DDR5-6000
+MEM	|	Silicon Power 32GB 2x16GB DDR5-6000	|	$100	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr5&Z=32768002&sort=price&S=5600,8400)	|ALT: G.Skill Flare X5 2x16GB 32GB DDR5-6000
 STORAGE	|	WD SN7100 500GB M.2 (OS)	|	$50	|[pcpartpicker](https://pcpartpicker.com/product/Gzn9TW/western-digital-wd_black-sn7100-500-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds500g4x0e-00cja0)	|ALT: WD SN7100 1TB M.2 (OS)
 STORAGE	|	WD SN7100 2TB M.2 (GAMES)	|	$120	|[pcpartpicker](https://pcpartpicker.com/product/wfMMnQ/western-digital-wd_black-sn7100-2-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds200t4x0e-00cja0)	|
 PSU	|	Cooler Master V 750W SFX		|	$110	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&p=1,3,2&A=550000000000,2050000000000&sort=price&e=5,4,2)	|ALT: GD-11: Corsair RM750e ATX
 COOL	|	Thermalright AXP120-X67	CPU Cooler	|	$35	|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,82000000&c=33,41&sort=price&page=1)	|ALT: GD-11: Peerless Assassin Mini (Air) / Arctic Liquid Freezer II 240 (AIO)
-TOTAL	|						|	**$1205**	|	
+TOTAL	|						|	**$1220**	|	
 
 <!-- Section -->
 
@@ -936,5 +936,5 @@ TOTAL		|											|$801			|	|
 
 ---
 
-*This page was last updated on 2025-10-03*
+*This page was last updated on 2025-10-28*
 
