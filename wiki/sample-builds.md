@@ -145,8 +145,8 @@ Intel Core 7th gen i3+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDM
 
 ### Specialized: Dolby Vision / HDR10+
 
-- *Local Content:* Ugoos AM6B Plus/Dune HD Box R Plus (8K: Ugoos AM8 Pro) + CoreElec.
-- *Local Content+Streaming:* Ugoos AM6B Plus (local) + Apple TV 4K (streaming), Nvidia Shield Pro (both, more consistent UI, but less capable than separate devices (no P7 FEL/HDR10+/YT HDR)), or Fire TV Cube (both, but ads, no P7 FEL/DTS-HD+)
+- *Local Content:* Ugoos AM6B Plus/Dune HD Box R Plus + CoreElec NG (8K: Ugoos AM8 Pro)
+- *Local Content+Streaming:* Ugoos AM6B Plus (local) + Apple TV 4K (streaming). If you must have only one box, you will give up something. Nvidia Shield Pro (no P7 FEL/HDR10+/YT HDR), Fire TV Cube (ads, no P7 FEL/DTS-HD+)
 - **No passthrough on a traditional/DiY HTPC**  
 
 <!-- Sub-Section -->
