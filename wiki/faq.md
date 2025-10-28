@@ -539,7 +539,7 @@ The max resolution and audio supported by a particular service on a traditional 
 
 **Make sure to configure your system/browser first via the setup sections of the [Audio](/wiki/audio#application-specific-setup-for-bitstreaming) and [Video](/wiki/video#application-specific-setup-for-hardware-decoding) wiki pages**. For better video, audio and HDR support, use a media device instead.  
 
-The following are the current capabilities of the major streaming services as we know them on a PC. Anything 4K will require HDMI 2.0 and HDCP 2.2 support. These are always subject to change, both for the better and for the worse. If you have any contradicting data, please let us know.  
+The following are the current capabilities of the major streaming services as we know them on a PC. Anything 4K will require [HDMI 2.0 and HDCP 2.2](/wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility) support. These are always subject to change, both for the better and for the worse. If you have any contradicting data, please let us know.  
 
 - [NETFLIX](https://help.netflix.com/en/node/30081)  
 
@@ -684,7 +684,7 @@ See the DiY section of our [Sample Builds](/wiki/sample-builds#htpc-diy-builds) 
 
 MAIN REQUIREMENTS
 
-The major requirements for full 4k compatibility are [HDMI 2.0a](http://www.cnet.com/news/hdmi-2-0-what-you-need-to-know/), [HDCP 2.2](http://www.cnet.com/news/hdcp-2-2-what-you-need-to-know/), hardware HEVC decoding (and support for Intel SGX in the bios if playing UHD blu-ray discs). Anything less will be a limited and incomplete implementation of the upcoming standards.
+The major requirements for full 4k compatibility are HDMI 2.0a, HDCP 2.2, hardware HEVC decoding (and support for Intel SGX in the bios if playing UHD blu-ray discs). Anything less will be a limited and incomplete implementation of the upcoming standards.
 
 HARDWARE
 
@@ -698,7 +698,8 @@ You CAN display 4k video at 30hz via older HDMI 1.4 and 4k video at 60hz via a D
 
 DRM
 
-If you plan on playing DRM protected content, for instance 4k netflix, you will need to have a HDMI 2.0 port that supports HDCP 2.2 or a Displayport with an active DP 1.x->HDMI 2.0 adapter. This can take the form of an AMD Ryzen 3200G+ CPU with supported mobo **OR** Intel 7th-14th Gen CPU and [supported motherboard](/wiki/hdmi20) **OR** Any CPU and an add-on dGPU, **only** Nvidia >= GTX 1050 3GB, AMD >= RX 4xx/5xx/5x00/6x00, or Intel >= ARC A310.
+If you plan on playing DRM protected content, for instance 4k netflix, you will need to have a HDMI 2.0 port that supports HDCP 2.2 or a Displayport with an active DP 1.x->HDMI 2.0 adapter. This can take the form of an AMD Ryzen 3200G+ CPU with supported mobo **OR** Intel 7th-14th Gen CPU and [supported motherboard](/wiki/hdmi20) **OR** Any CPU and an add-on dGPU, **only** Nvidia >= GTX 1050 3GB, AMD >= RX 4xx/5xx/5x00/6x00, or Intel >= ARC A310.  
+With pre-builts, like Mini PCs, HDCP 2.2 is **NOT** a given with HDMI 2.0, so either stick to DiY, use one that specifically mentions it, or use the recommended pre-built solutions from our builds page.
 
 If you plan on playing UHD Blu-ray discs, things are even more restrictive; you are further limited to Intel CPUs w/SGX support (Intel i3/5/7/9 7th-10th Gen **ONLY**) + a [HDMI 2.0 motherboard w/SGX support](/wiki/hdmi20). Dedicated GPUs are **NOT** supported. **We do not recommend this** and you should play rips or ISOs of your discs. See our wiki section [here](/wiki/video#how-can-i-play-my-dvdblu-ray-discs-on-my-htpc). 
 
