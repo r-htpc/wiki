@@ -802,7 +802,7 @@ GPU			|Nvidia RTX 2060				|$160	|[ebay](https://www.ebay.com/sch/i.html?_from=R4
 MEM			|G.Skill Ripjaws V 16GB 2x8GB DDR4-3600 CL18				|$40		|[pcpartpicker](https://pcpartpicker.com/product/n6RgXL/gskill-ripjaws-v-16-gb-2-x-8-gb-ddr4-3600-memory-f4-3600c18d-16gvk)		|ALT: Corsair Vengeance LPX 2x8GB DDR4-3600
 STORAGE		|WD SN7100 1TB NVMe M.2 SSD TLC			|$70	| [pcpartpicker](https://pcpartpicker.com/product/MYP8TW/western-digital-wd_black-sn7100-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds100t4x0e-00cja0)		|
 COOL		|Noctua NH-U12S Redux CPU Cooler					|$50		|[pcpartpicker](https://pcpartpicker.com/product/vV7G3C/noctua-nh-u12s-redux-7075-cfm-cpu-cooler-nh-u12s-redux)		|ALT: [Thermalright Silver Soul 135](https://pcpartpicker.com/product/c3pzK8/thermalright-silver-soul-135-82-cfm-cpu-cooler-ss135) ($40)
-PSU			|ADATA XPG Core Reactor II 650W ATX			|$70	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&sort=price&th=1&e=5,4,3,2&p=1,3,2)		|ALT: Corsair CX650M ($70)
+PSU			|ADATA XPG Core Reactor II 650W ATX			|$70	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=1&e=4,2&p=1,3,2&sort=price&m=1,52,7,8,337,50,11,14,106,101,17,18,763,62,824,27,94,229,51,71,63,441,113,56,39)		|ALT: Corsair CX650M ($70)
 TOTAL		|											|$760	|		|
 
 <!-- Section -->
