@@ -682,11 +682,11 @@ See the DiY section of our [Sample Builds](/wiki/sample-builds#htpc-diy-builds) 
 
 *Long version:*
 
-MAIN REQUIREMENTS
+**MAIN REQUIREMENTS**
 
 The major requirements for full 4k compatibility are HDMI 2.0a, HDCP 2.2, hardware HEVC decoding (and support for Intel SGX in the bios if playing UHD blu-ray discs). Anything less will be a limited and incomplete implementation of the upcoming standards.
 
-HARDWARE
+**HARDWARE**
 
 Virtually all modern CPUs with integrated graphics can display 4k video. BUT, all of the components in your home theater (TV, AV Receiver and HTPC motherboard) will need to have a HDMI 2.0a port in order to use all sources of 4K content.  
 On the AMD side, this starts with the Ryzen 2200G and on with any supported motherboard. Buy a Ryzen 5500GT and B550 motherboard and move on.    
@@ -696,7 +696,7 @@ If one of the motherboards doesn't fit what you need, or you are upgrading an ol
 
 You CAN display 4k video at 30hz via older HDMI 1.4 and 4k video at 60hz via a Displayport 1.2 connection but you will run into other problems. HDMI 1.4 won't support HDCP 2.2/4k blu-ray/Netflix and the Displayport 1.2 connection won't display HDR content, so stick to the more modern iGPUs/dGPUs above.
 
-DRM
+**DRM**
 
 If you plan on playing DRM protected content, for instance 4k netflix, you will need to have a HDMI 2.0 port that supports HDCP 2.2 or a Displayport with an active DP 1.x->HDMI 2.0 adapter. This can take the form of an AMD Ryzen 3200G+ CPU with supported mobo **OR** Intel 7th-14th Gen CPU and [supported motherboard](/wiki/hdmi20) **OR** Any CPU and an add-on dGPU, **only** Nvidia >= GTX 1050 3GB, AMD >= RX 4xx/5xx/5x00/6x00, or Intel >= ARC A310.  
 With pre-builts, like Mini PCs, HDCP 2.2 is **NOT** a given with HDMI 2.0, so either stick to DiY, use one that specifically mentions it, or use the recommended pre-built solutions from our builds page.
@@ -705,7 +705,7 @@ If you plan on playing UHD Blu-ray discs, things are even more restrictive; you 
 
 To test for HDCP 2.2 compliance, use [Cyberlink Ultra HD Blu-Ray Advisor](https://www.cyberlink.com/prog/bd-support/diagnosis.do) or [Corel Ultra HD Blu-Ray Check Tool](https://dwnld.windvdpro.com/tools/CorelUltraHDBlurayCheckTool.exe)  
 
-SOFTWARE/CONTENT
+**SOFTWARE/CONTENT**
 
 The only 4k content supported on a PC are: Local files, UHD blu-ray discs, Youtube and Netflix. See the [section above](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x) on what resolutions are supported for other services and our [software section](/wiki/faq#what-software-will-i-need-and-how-do-i-set-it-up) for players. 
 
@@ -723,7 +723,7 @@ All options are sufficient, and have benchmarked playing 4K 400Mbps bitrate vide
 
 HDR is also a popular feature these days. For additional requirements, see the section below.
 
-COST
+**COST**
 
 If you go the CPU w/IGPU route, you can expect to spend about $125 for a CPU (like a Intel i3-12100 or AMD Ryzen 5500GT) and between $90-$150 for a Intel B760/AMD B550 motherboard, respectively, depending on the form factor.  
 
@@ -858,5 +858,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2025-10-16*
+*This page was last updated on 2025-10-27*
 
