@@ -137,7 +137,7 @@ Below are the minimum requirements for each scenario and a recommendation. The r
 
 - Low Profile (4K Netflix+Youtube+Local HDR/Gaming): AMD RX 6400, Intel A380, Nvidia GTX 1050 Ti/1650, RTX 3050/5050/5060 LP (REC: Used: GTX 1050 Ti LP, New: Gaming: RTX LP, Media: Intel A380/AMD RX 6400) 
 
-- Single Slot, Low Profile: Intel ARC A310, Yeston RTX 3050
+- Single Slot, Low Profile: Intel ARC A310, [Yeston RTX 3050](https://yestonstore.com/collections/rtx-30-series), [Yeston 1050 Ti](https://yestonstore.com/collections/gtx-10-series)
 
 - madVR upscaling/tonemapping: >= GTX 1060 6GB / AMD RX 5600 (Rec: GTX 1660/RTX 3050 6GB) 
 
