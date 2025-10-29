@@ -335,7 +335,7 @@ In regards to internet bandwidth required, you should have 6 Mbps downstream to 
 If you don't plan on using a [keyboard/mouse-like device](/wiki/components#keyboardsremotesgamepads), then streaming services on a PC will be painful. There are some good workarounds like [software](/wiki/components#keyboardsremotesgamepads) to emulate a mouse on game controllers/mobile, like Controller Companion with an 8bitdo Ultimate 2c controller.  
 
 Other possible solutions are:  
-* Youtube: <code>"%PROGRAMFILES%\Google\Chrome\Application\chrome.exe" --kiosk --enable-extensions --user-agent=Xbox https://www.youtube.com/tv</code> OR [Leanback interface](https://redd.it/y5o7mi)
+* Youtube: [VacuumTube](https://github.com/shy1132/VacuumTube) OR <code>"%PROGRAMFILES%\Google\Chrome\Application\chrome.exe" --kiosk --enable-extensions --user-agent=Xbox https://www.youtube.com/tv</code> OR [Leanback interface](https://redd.it/y5o7mi)
 * Netflix: <code>"%PROGRAMFILES%\Google\Chrome\Application\chrome.exe" --kiosk --enable-extensions https://www.netflix.com</code> + [Netflix Navigator](https://netflixnavigator.com) extension
 * Other services: Browser Kiosk mode (<code>"%PROGRAMFILES(X86)%\Microsoft\Edge\Application\msedge.exe" --kiosk --edge-kiosk-type=fullscreen</code>) + [TamperMonkey](https://www.tampermonkey.net/) extension + [Stream Assistant](https://github.com/CHJ85/Stream-Assistant) script
 * Keyboard Macros: [AutoHotKey](https://www.autohotkey.com)
@@ -858,5 +858,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2025-10-27*
+*This page was last updated on 2025-10-29*
 
