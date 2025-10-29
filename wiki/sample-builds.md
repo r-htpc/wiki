@@ -55,7 +55,7 @@ Some of these are: **Intel (NUC), [Lenovo (ThinkCentre/IdeaCentre)](https://www.
 
 ### 4K HDR PLAYERS
 
-**TL;DR: A [Beelink EQR6](https://www.amazon.com/Beelink-Windows-Celeron-Graphics-Computer/dp/B08QCMSR6R) or better ($270+) is ideal. If you're on a budget, then an Intel [N150](https://www.amazon.com/s?k=intel+n150+pc&rh=n%3A13896591011&ref=nb_sb_noss) for the bare minimum ($150)**  
+**TL;DR: A [Minisforum UM750L](https://www.amazon.com/MINISFORUM-UM690Pro-6900HX-Desktop-Computer/dp/B0CTTPPZQS?th=1) or better ($300+) is ideal. If you're on a budget, then an Intel [N150](https://www.amazon.com/s?k=intel+n150+pc&rh=n%3A13896591011&ref=nb_sb_noss) for the bare minimum ($150)**  
 **If you're looking for 4K Netflix/HDCP support, look at [name brand options](/wiki/sample-builds#specialized-4k-netflix)**
 
 $70-$85: SMALLEST: SBC: w/CoreELEC OS, 32GB MicroSD, AC Adapter 
@@ -64,13 +64,13 @@ $70-$85: SMALLEST: SBC: w/CoreELEC OS, 32GB MicroSD, AC Adapter
    - [Odroid C4](https://www.hardkernel.com/shop/odroid-c4/) ($60) 
    - **[Odroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ($72)** 
 
-$150-$425: SMALLER: Intel/AMD Mini PC, 8GB+ RAM, 256GB+ SSD
+$150-$400: SMALLER: Intel/AMD Mini PC, 8GB+ RAM, 256GB+ SSD
 
-- *Used for:* H264/H265, VP9, **AV1** local content, 4k YT, 4k Netflix **([name brand options](/wiki/sample-builds#specialized-4k-netflix))**, web browsing, **int. M.2 storage**, plex server (intel), light gaming (amd), lower power.  
+- *Used for:* H264/H265, VP9, **AV1** local content, 4k YT, 4k Netflix **([name brand options](/wiki/sample-builds#specialized-4k-netflix))**, browsing, **int. M.2 storage**, plex server (intel), light gaming/4k@120hz (amd), lower power.  
   - **Intel: [GMKtec G3 Plus](https://www.amazon.com/GMKtec-G3-Plus-Upgraded-Computer/dp/B0DM25BD7Y) (N150) ($150+)**
-  - **AMD: [Beelink EQR6](https://www.amazon.com/Beelink-EQR-Graphics-Display-Computer/dp/B0DDGFD51Y/) (6600) ($270)**
+  - **AMD: [Minisforum UM750L](https://www.amazon.com/MINISFORUM-UM690Pro-6900HX-Desktop-Computer/dp/B0CTTPPZQS?th=1) (7545U) ($300)**
   - Intel: MSI Cubi [NUC 1MG](https://www.amazon.com/s?k=msi+nuc+1MG&i=electronics&rh=n%3A172282%2Cp_123%3A378555&s=relevancerank&dc&crid=MU8G14916Q46&qid=1755365388&rnid=85457740011&sprefix=msi+nuc+1mg%2Celectronics%2C137&ref=sr_st_relevancerank&ds=v1%3A6L6WcQuOo8j2DNnQfr%2Fr8tJkpBHNwsfboKlRIPbn0pc) ($300+[RAM](https://pcpartpicker.com/products/memory/#xcx=0&Z=8192001,16384001,16384002,32768002&ff=ddr5_sodimm&sort=price)+[SSD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&t=0&D=1&A=240000000000,512000000000&sort=price&page=1)) / [Asus NUC 14 Pro](https://www.bhphotovideo.com/c/product/1814392-REG/asus_rnuc14rvki30000ui_nuc_14_pro_kit.html?ap=y&smp=Y) ($350+[RAM](https://pcpartpicker.com/products/memory/#xcx=0&Z=8192001,16384001,16384002,32768002&ff=ddr5_sodimm&sort=price&m=11,17,23,462,28,29,30,31,32,444,341)+[SSD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&t=0&D=1&A=240000000000,1000000000000&sort=price&page=1))  
-  - AMD: [Minisforum UM690L](https://www.amazon.com/MINISFORUM-UM690-Slim-PCIe4-0-Computer/dp/B0F386YJSS/?th=1) (6900HX) ($375)
+  - AMD: [Minisforum UM690L](https://www.amazon.com/MINISFORUM-UM690-Slim-PCIe4-0-Computer/dp/B0DJSQWCX3/?th=1) (6900HX) ($400)
     
 <!--  - [Morefine M9S](https://www.amazon.com/MOREFINE-M9S-AlderLake-Desktop-Computers/dp/B0DHZP1B4M) (N305) ($220) -->
 <!--  - Intel: [Beelink SEI 11/12](https://www.amazon.com/s?k=sei11%7Csei12%7C11320h%7C1235u%7C12450h&rh=n%3A13896591011&ref=nb_sb_noss) ($320) -->
@@ -79,7 +79,7 @@ $150-$425: SMALLER: Intel/AMD Mini PC, 8GB+ RAM, 256GB+ SSD
 
 $100-$500: SMALL/MEDIUM: Intel - i3/i5-7xxx+ 8GB (2x4GB) RAM, 256GB ssd/1TB hdd: 
 
- - *Used for:* H264/H265, VP9, **AV1 (Optiplex [3-7]000/Lenovo/MSI)** local content, 4k Netflix/YT, web browsing, **int. 3.5" storage/ODD (SFF/MT models)**, plex server, low power (xxxxT cpu models).  
+ - *Used for:* H264/H265, VP9, **AV1 (Optiplex [3-7]000/Lenovo/MSI)** local content, 4k Netflix/YT, browsing, **int. 3.5" storage/ODD (SFF/MT models)**, plex server, low power (xxxxT cpu models).  
    - USED: [Dell Optiplex xx60-xx90](https://www.ebay.com/sch/i.html?_fsrp=1&_blrs=recall_filtering&rt=nc&_from=R40&_nkw=(optiplex)+(3060%2C3070%2C3080%2C5060%2C5070%2C5080%2C7060%2C7070%2C7080)+(i3-8100%2Ci3-9100%2Ci3-10100%2Ci5-8400%2C8500%2Ci5-8600%2Ci5-9400%2C9500%2C9600)&_sacat=179&LH_BIN=1&_sop=15&LH_ItemCondition=3000%7C2030%7C2020%7C1500%7C1000%7C2010) + [HDMI 2.0 card](https://www.ebay.com/sch/i.html?_from=R40&_nkw=dell+hdmi+2.0+%28HXPK2%2C1KNYY%2CR07CP%2C5N1NY%29&_sacat=0&_sop=12) / [3000-7000](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%28optiplex+3000%29+%28i3%2Ci5%2Ci7%29&_sacat=171957&_odkw=%28optiplex%29+%283000%29+%28i3%2Ci5%2Ci7%29&_osacat=171957&LH_BIN=1&_sop=15&LH_PrefLoc=2) + [HDMI 2.0 card](https://www.dell.com/en-us/shop/dell-daughterboard-i-o-hdmi-card/apd/3v9n2/controller-cards) ($100-$300)
    - **NEW: [MSI PRO DP21 iX](https://www.amazon.com/s?k=msi+dp21&i=electronics&s=price-asc-rank) / [Lenovo IdeaCentre Mini](https://www.lenovo.com/us/en/p/desktops/ideacentre/500-series/ideacentre-mini-gen-8-(1l-intel)/90w2000gut) / [Lenovo Neo 50s Gen 4 SFF](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=lenovo+neo+50s&_sacat=179&LH_TitleDesc=0&_odkw=neo+50s&_osacat=179&_sop=15&LH_ItemCondition=3) ($400-600)** 
 
@@ -105,7 +105,7 @@ $150-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB
     - [HP EliteDesk 705 G5](https://www.ebay.com/sch/179/i.html?_from=R40&_nkw=hp+705+g5+%283200g%2C3400g%29&LH_TitleDesc=1&_sop=15&LH_PrefLoc=2&rt=nc&LH_BIN=1) (AMD 3400G)
     - [Minisforum UN300](https://www.amazon.com/MINISFORUM-LPDDR5-i3-N300-Threads-USB3-2/dp/B0CQYW121V) (N300)  
   - $300: Med+ (<= Switch)
-    - [Beelink EQR6](https://www.amazon.com/Beelink-Computer-PCIE4-0-Display-1000Mbps/dp/B0DBLJQMJ7?th=1) (AMD 6800U)  
+    - [Minisforum UM750L](https://www.amazon.com/MINISFORUM-UM690Pro-6900HX-Desktop-Computer/dp/B0CTTPPZQS?th=1) (AMD 7545U)  
   - $350-400: High (<= PS3)
     - [Gmktec M7](https://www.gmktec.com/products/amd-ryzen-7-pro-6850h-mini-pc-nucbox-m7?variant=bac9d62f-94ff-42ba-9102-f9d0e12ad9fc)/[Minisforum UM773](https://www.amazon.com/MINISFORUM-UM690-6900HX-Threads-Bluetooth5-2/dp/B0BYDF63TT/?th=1)  
   - $500+: Ultra (<= Xbox 360)
