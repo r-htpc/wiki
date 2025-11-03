@@ -308,7 +308,7 @@ To confuse things even more, sometimes Full and Limited are called by other name
  - HDMI 2.1 FRL: 3840x2160, 120 Hz, RGB, 10-bit
  - Displayport 1.2: 3840x2160, 75 Hz/8-bit - 60 Hz/10-bit, RGB
  - Displayport 1.4: 3840x2160, 120 Hz, RGB, 10-bit
-4. Run the Contrast, Black Level and Gradient tests from [Lagom LCD Tests](http://www.lagom.nl/lcd-test/)
+5. Run the Contrast, Black Level and Gradient tests from [Lagom LCD Tests](http://www.lagom.nl/lcd-test/)
 
 *The above are realistic and recommended settings for each video interface. Higher refresh rates may be possible (e.g. 144 to 165 Hz), where supported by the Display and contingent on [proper cables and optimal video cable length](/wiki/components#video-cablesadapters) and/or a single, direct GPU->Display connection. They are not recommended for media consumption due to stutter/judder problems.*
 
