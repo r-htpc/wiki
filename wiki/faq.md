@@ -193,7 +193,7 @@ You may want to wake your HTPC from sleep (S3) or have the ability to power it o
 
 7. Power On/Off: Plug your HTPC into a [smart power plug](https://www.amazon.com/Assistant-Controlled-Google-Enabled-Vacation/dp/B07XZT24B8). Use with mobile app and/or google/alexa voice tech. If you're IoT-averse, use a [dumb power plug](https://www.amazon.com/DEWENWILS-Control-Wireless-Interference-Programmable/dp/B09X2W2TRT) w/remote instead.
 
-8. Power On/Off: Plug your HTPC into a [power strip with a master/control](https://www.amazon.com/Sunbeam-Advance-Outlet-Protector-Spaced/dp/B08LSXXG7R) plus and configure your BIOS to set Power On for AC after power loss. Plug master/initial power-on device (like TV) into control port.
+8. Power On/Off: Plug your HTPC into a [power strip with a master/control](https://www.google.com/search?q=sunbeam+advance+7&oq=sunbeam+advance+7) plus and configure your BIOS to set Power On for AC after power loss. Plug master/initial power-on device (like TV) into control port.
 
 9. Wake/Power On: [Configure Wake-on-Lan](https://www.gearrice.com/update/turn-on-a-pc-remotely-with-wake-on-lan-or-remote-control/) in your BIOS and on your network card. Use with a mobile app like Unified Remote
 
