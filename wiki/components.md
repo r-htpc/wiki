@@ -327,6 +327,7 @@ A higher efficiency means a lower power bill, but this comes with a higher PSU c
 Efficiency is also tied to how much load you put on the PSU. A PSU is the most efficient when it's at 50% of its maximum load. So if you expect to be using 150W consistently, then a 300W PSU will be ideal. 
 
 For most HTPC builds with just an iGPU (but check the calculator!), we usually recommend at least a 80+ Bronze PSU in the 300-400W range. Problem is, these days, most PC builds are based around gaming and PSU sizes tend to trend higher, so finding a good selection of lower wattage PSUs isn't easy, in standard SFX/ATX form factors. You may have to go up to at least a 500W PSU. Sometimes you will find a case with a lower wattage (200W-300W) TFX PSU built right in.  
+Any decent PSU will be inaudible up to 50% of its rated capacity. So if you're building a high power system with a dGPU that pulls say 400W max and want it inaudible (< 20 dBA) at that power level, look at an PSU that's >= 800 W. Cybenetics reports on reviewed PSUs will give you the details  
 
 BRANDS/MODELS:  
 Ratings: [Cybenetics PSU Database](https://www.cybenetics.com/index.php?option=power-supplies)  
