@@ -332,7 +332,7 @@ Any decent PSU will be inaudible up to 50% of its rated capacity. So if you're b
 BRANDS/MODELS:  
 Ratings: [Cybenetics PSU Database](https://www.cybenetics.com/index.php?option=power-supplies)  
 ATX: Seasonic (Focus/S12/GM), Super Flower (Leadex), EVGA (GD/GA/G5/G7/GT/G+), Corsair (RM/CXM), Silverstone (ST/SX). Shoot for a warranty of 5-10 years.  
-[Example ATX/SFX PSU search](https://pcpartpicker.com/products/power-supply/#m=8,337,169,50,11,14,106,229,71,63,441,56&sort=price&A=200000000000,1000000000000&e=6,5,4,3,2,1)  
+[Example ATX/SFX PSU search](https://pcpartpicker.com/products/power-supply/#m=8,337,169,50,11,14,106,101,58,62,824,27,94,229,51,71,63,441,56&sort=price&A=200000000000,1000000000000&e=6,5,4,3,2,1&xcx=0&th=1,5)  
 Inaudible (< 20 dBA): [Phanteks Amp](https://www.cybenetics.com/index.php?option=database&cert=1&bdg=4&volts=1&manfID=83), [Super Flower Leadex III Gold](https://www.cybenetics.com/index.php?option=database&params=1,0,55), [be Quiet! Straight Power 11](https://www.cybenetics.com/index.php?option=database&params=1,0,22), [Corsair RM550x](https://www.cybenetics.com/index.php?option=database&params=1,0,28)  
 SFX: Seasonic Focus SGX, Silverstone ST30SF/SX, Corsair SF, EVGA GM, FSP Dagger Pro Gold  
 Pico: [HDPlex](https://hdplex.com/hdplex-fanless-250w-gan-aio-atx-psu.html), [Mini-Box](https://mini-box.com), [RGeek](https://www.amazon.com/stores/RGEEK/page/616B17E4-8578-4D17-B851-98993644408F?ref_=ast_bln)  
@@ -528,5 +528,5 @@ MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Remote, Mini keyboard, and Air Mouse
 
 ---
 
-*This page was last updated on 2025-10-28*
+*This page was last updated on 2025-11-06*
 
