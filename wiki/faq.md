@@ -247,7 +247,7 @@ Linux, alternatively, is free and good for local and emulation content, but you 
 
 There are some specialized linux-based distros out there, like [LibreElec](https://libreelec.tv/)/[CoreElec](https://coreelec.org) which are OSes designed for running Kodi as the OS's plugin-capable front interface. They very good for local content, emulation and game streaming, even HDR and work good with a simple remote/controller. Like stock linux, they also suffer from lower resolutions on streaming services.  
 
-For Android ports to PC look at [Android x86](https://www.android-x86.org/) or [Bliss OS](https://blissos.org/), but do not expect a TV-like interface, 4K streaming services or HD audio. You can run an Android container under Linux with [Waydroid](https://waydro.id/). 
+For Android ports to PC look at [Android x86](https://www.android-x86.org/) or [Bliss OS](https://blissos.org/), but do not expect a TV-like interface, 4K streaming services or HD audio. You can run an Android container under Linux with [Waydroid](https://waydro.id/) and under Windows with [WSABuilds](https://github.com/MustardChef/WSABuilds). 
 
 For a gaming-centric OS, if you have a AMD or Intel ARC gpu, look at [Bazzite](https://universal-blue.discourse.group/t/bazzite-inital-setup-and-installation-for-htpc-setups/1145) or [ChimeraOS](https://chimeraos.org/).  
 
