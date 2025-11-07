@@ -266,13 +266,15 @@ For a launcher interface to open multiple apps, look at:
 
 For [video streaming services](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x), use Microsoft Edge to get 1080p+, or the service's app (if available).  
 
-For simple media players, using local content, [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases), [VLC](https://www.videolan.org/vlc/) and [MPC-HC](https://github.com/clsid2/mpc-hc/releases/) are popular on Windows, with [VLC](https://www.videolan.org/vlc/) on Linux.  
+For simple media players, using local content, [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases), [VLC](https://www.videolan.org/vlc/) and [MPC-HC](https://github.com/clsid2/mpc-hc/releases/) are popular on Windows, with [Kodi](http://kodi.tv/) and [VLC](https://www.videolan.org/vlc/) on Linux.  
 
-If [HDR passthrough](/wiki/hdr) is what you're looking for, then look at [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases), [VLC](https://www.videolan.org/vlc/) or Kodi. For high-end video upscaling or HDR tonemapping, look at getting the [madVR](http://madshi.net/madVR.zip) renderer for MPC-BE, Kodi, or MPC-HC For FPS upscaling, [SmoothVideo Project](https://www.svp-team.com/).  
+If [simple HDR passthrough/tomemapping](/wiki/hdr) is what you're looking for, then look at [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases) with the built-in MPCVR renderer or [Kodi](http://kodi.tv/).  
+For [high-end video upscaling or HDR tonemapping](/wiki/hdr), look at MPC-BE/MPC-HC with the madVR renderer.  
+For FPS upscaling, the [SmoothVideo Project](https://www.svp-team.com/).  
 
 But perhaps you want a more full-featured player/interface..  
 
-If you DON'T need to serve media to other devices and just want a well-supported, highly-customizable home theater front-end, look at [Mediaportal](http://www.team-mediaportal.com/), [Jriver](https://www.jriver.com/) or [Kodi](http://kodi.tv/). All three will pull down metadata for the media you point them to, keep track of what you have watched/haven't watched, keep playback progress, pass-through HDR, and play from your internal or network storage. For Kodi, start with Kodi's [First Time User guide](https://kodi.wiki/view/First_time_user) and 3rd party guides like [this](https://androidpcreview.com/how-to-setup-kodi-the-right-way/).  
+If you DON'T need to serve media to other devices and just want a well-supported, highly-customizable home theater front-end, look at [Mediaportal](http://www.team-mediaportal.com/), [Jriver Media Center](https://www.jriver.com/) or [Kodi](http://kodi.tv/). All three will pull down metadata for the media you point them to, keep track of what you have watched/haven't watched, keep playback progress, pass-through HDR, and play from your internal or network storage. For Kodi, start with Kodi's [First Time User guide](https://kodi.wiki/view/First_time_user) and 3rd party guides like [this](https://androidpcreview.com/how-to-setup-kodi-the-right-way/).  
 If you DO need to serve media to other devices (local or remote) and/or want centralized metadata management, see Plex/Jellyfin/Emby client/server solutions in Media Servers below.
 
 For playback of 3D MVC/Frame-Packed/SBS content, read the [guide here](https://www.reddit.com/r/htpc/comments/115ap94/how_to_get_full_hd_3d_frame_packing_from_a_pc_or/)  
