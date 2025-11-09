@@ -824,15 +824,15 @@ Use a [8bitdo Ultimate 2c](https://www.amazon.com/dp/B0DB4LXDP7) controller w/[C
 PART			|BRAND/MODEL												|	PRICE	|	VENDOR	|	NOTES
 :--|:--|:--|:--|:--
 CASE/CPU/MEM	|Dell/HP/Lenovo Mini Tower pre-built w/8GB RAM	|	$100	|	[Ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28dell%2Chp%2Clenovo%29+%28mt%2Ctower%29+%28i7-6700%2Ci7-7700%2Ci5-8500%2Ci5-8400%29&_sacat=179&LH_TitleDesc=0&_sop=15&rt=nc&LH_All=1)	|	ALT: [i5-10400](https://www.ebay.com/sch/i.html?_nkw=%28dell%2Chp%2Clenovo%29+%28mt%2Ctower%29+%2810400%2C11400%2C12400%29&_sacat=179&_from=R40&_sop=15&rt=nc&LH_BIN=1) ($150)
-GPU				|Nvidia GTX 1060 6GB w/6-pin								|	$75	|	[Ebay](https://www.ebay.com/sch/27386/i.html?_fsrp=1&rt=nc&_from=R40&_nkw=gtx+1060+%226GB%22&LH_BIN=1&_sacat=27386&_sop=15&LH_ItemCondition=1000%7C1500%7C2020%7C3000)	|	ALT: Nvidia GTX 1650 Super 6-pin ($100)
-STORAGE		|512GB M.2 NVMe SSD										|	$30		|	[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&sort=price&A=450000000000,525000000000&D=1&f=122080)	|	ALT: [2.5" Version](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&sort=price&A=450000000000,525000000000&f=3&t=0) ($25)
-STORAGE		|16GB+ USB flash drive												|	$7		|	[Amazon](https://www.amazon.com/SanDisk-Ultra-Flash-Drive-100MB/dp/B00DQG9DDU)	|	For Linux install
+GPU				|Nvidia GTX 1060 6GB w/6-pin								|	$75	|	[Ebay](https://www.ebay.com/sch/27386/i.html?_fsrp=1&rt=nc&_from=R40&_nkw=gtx+1060+%226GB%22&LH_BIN=1&_sacat=27386&_sop=15&LH_ItemCondition=1000%7C1500%7C2020%7C3000)	|	ALT: Nvidia GTX 1650 Super 6-pin ($90)
+STORAGE		|512GB M.2 NVMe SSD										|	$40		|	[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&sort=price&A=450000000000,525000000000&D=1&f=122080)	|	ALT: [2.5" Version](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&sort=price&A=450000000000,525000000000&f=3&t=0) ($35)
+STORAGE		|16GB+ USB flash drive												|	$8		|	[Amazon](https://www.amazon.com/SanDisk-Ultra-Flair-Flash-Drive/dp/B015CH1JIW)	|	For Linux install
 ADAPTER			|SATA dual to pcie 6-pin adapter							|	$7		|	[Amazon](https://www.amazon.com/Power-Express-Video-Cable-Adapter/dp/B007Y91B80)	|	
-ACCESSORY	|HDMI to HDMI Cable						|$10			|	[Amazon](https://www.amazon.com/Monoprice-115428-Certified-Premium-18Gbps/dp/B01GCGKI3O)	| HDMI 2.0 - 6 Ft
+ACCESSORY	|HDMI to HDMI Cable						|$7			|	[Amazon](https://www.amazon.com/Monoprice-115428-Certified-Premium-18Gbps/dp/B01GCGKI3O)	| HDMI 2.0 - 6 Ft
 OS				|Manjaro Linux w/KDE Plasma									|	$0		|	[Download](https://manjaro.org/products/download/x86)	|	
 SOFTWARE		|Etcher ISO writer											|	$0		|	[Download](https://www.balena.io/etcher/)	|	
 SOFTWARE		|Steam + Proton Experimental								|	$0		|	NA		|	
-TOTAL			|															|	**$229**	|			|	
+TOTAL			|															|	**$237**	|			|	
 
 <!-- Sub-Section -->
 
