@@ -416,9 +416,12 @@ Kodi:
 Potplayer: F5 Key->Filter Control->Video Decoder->Built-in Video..->Use DXVA: Enable, Codecs your GPU supports: VLD  
 
 LINUX:
-1. Ideally use Mint, Arch, PopOS or another distro with VA-API support (otherwise see [here](https://rpmfusion.org/Howto/Multimedia))
-2. Install gpu driver and libva-\<gpu\>-driver packages for your distro.
-3. Configure player to use VA-API
+1. Ideally use Ubuntu, Mint, PopOS or another distro with VA-API support (otherwise see [here](https://rpmfusion.org/Howto/Multimedia))
+2. These instructions will be for Ubuntu. Consult the Hardware Acceleration wiki for your particular distro.
+3. Install gpu driver/vaapi package(s) (```intel-media-va-driver-non-free``` (Intel)/```nvidia-vaapi-driver``` (Nvidia)/```libva-mesa-driver``` (AMD)).
+4. Install and run ```vainfo``` to confirm driver ok and codecs
+5. Install ```mpv``` player and run ```mpv --hwdec=vaapi test_video.mkv``` as a test
+6. Configure your own video player to use VA-API
 
 <!-- Sub-Section -->
 
