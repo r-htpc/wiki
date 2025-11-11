@@ -17,7 +17,9 @@ keywords: [htpc build, diy htpc, mini pc, pre-builts, media server, emulation, m
 
 Here you'll find some pre-builts, mini-pcs and sample DiY builds for HTPC, Emulation, Gaming, Media Server, NAS and specialized purposes in their relevant sections. Before going through this page, look at the common scenarios in the [I want a HTPC/media device recommendation, but don't want to get into the complicated details](/wiki/faq#i-want-a-htpcmedia-device-recommendation-but-dont-want-to-get-into-the-complicated-details) section of the FAQ. You may find your specific scenario there and a device to match before you go down this rabbit hole. If what you want is not there, then read on here.  
 
-**There are a lot of options below. You should have a good idea what you're looking for before-hand. Resolution you want to support, video codecs to be decoded, budget, size, used/new, and/or niche capabilities (gaming, 120Hz, output ports). All of these will help you narrow your choice down.**
+**NOTICE: DDR4/DDR5 Prices are currently [EXTREMELY high](https://pcpartpicker.com/trends/price/memory/). You are urged to wait before building any DiY HTPC**  
+
+There are a lot of options below. You should have a good idea what you're looking for before-hand. Resolution you want to support, video codecs to be decoded, budget, size, used/new, and/or niche capabilities (gaming, 120Hz, output ports). All of these will help you narrow your choice down.
 
 Keep in mind, the DiY builds are meant as examples for certain usage scenarios, even though they are real builds. You can add/subtract/change certain components to match your specific budget or requirements, but these should be a good starting point. If you're un-sure, check our [Hardware Components Guide](/wiki/components), or post and ask us.  
 
@@ -936,5 +938,5 @@ TOTAL		|											|$801			|	|
 
 ---
  
-*This page was last updated on 2025-11-08*
+*This page was last updated on 2025-11-11*
 
