@@ -568,9 +568,9 @@ The following are the current capabilities of the major streaming services as we
   - *Windows:* 1080p SDR, Stereo
   - *Linux:* 720p SDR, Stereo
 
-- [HBO NOW/MAX](https://help.hbogo.com/hc/en-us/articles/206950967-What-do-I-need-to-stream-HBO-on-my-computer-)  
+- [HBO MAX](https://help.hbomax.com/US/Answer/Detail/000002506)  
 
-  - *Windows:* (MS Edge/Safari) 1080p SDR, (Chrome/Firefox) 720p SDR. DD 5.1 (broken)
+  - *Windows:* (MS Edge/Safari) 720p SDR, (Chrome/Firefox) 720p SDR. Stereo
   - *Linux:* (Chrome/Firefox) 720p SDR?
 
 - [DISNEY+](https://help.disneyplus.com/csp?id=csp_article_content&sys_kb_id=eac89167db3048900a2af56e0f96193b)  
