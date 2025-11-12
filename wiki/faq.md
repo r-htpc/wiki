@@ -550,7 +550,7 @@ The following are the current capabilities of the major streaming services as we
 
 - [AMAZON PRIME VIDEO](https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=GUVGB3QMQRYRERYW)  
 
-  - *Windows:* (MS Edge/Safari) 1080p SDR, (App/Chrome/Firefox) 720p SDR. Stereo
+  - *Windows:* (App/MS Edge/Safari) 1080p SDR, (Chrome/Firefox) 720p SDR. Stereo
   - *Linux:* 480p SDR, Stereo
 
 - [HULU](https://help.hulu.com/s/article/video-quality?language=en_US)  
@@ -860,5 +860,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2025-10-29*
+*This page was last updated on 2025-11-12*
 
