@@ -570,7 +570,7 @@ The following are the current capabilities of the major streaming services as we
 
 - [HBO MAX](https://help.hbomax.com/US/Answer/Detail/000002506)  
 
-  - *Windows:* (MS Edge/Safari) 720p SDR, (Chrome/Firefox) 720p SDR. Stereo
+  - *Windows:* (MS Edge/Safari/Chrome/Firefox) 720p SDR. Stereo
   - *Linux:* (Chrome/Firefox) 720p SDR?
 
 - [DISNEY+](https://help.disneyplus.com/csp?id=csp_article_content&sys_kb_id=eac89167db3048900a2af56e0f96193b)  
