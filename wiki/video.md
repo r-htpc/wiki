@@ -295,19 +295,22 @@ To confuse things even more, sometimes Full and Limited are called by other name
 
 **After all that, make the changes based on the above 3 scenarios. As mentioned above, when in doubt, use Scenario #1, as exampled with the following for a PC**
 
-1. Change your video application's renderer to a Range of Full (0-255). This is the default for all renderers (madVR/MPC VR/EVR CP) unless otherwise changed. Change Bit depth to auto  
-2. Change your Display to:
+1. Change your video applications
+ - Change your renderer to a Range of Full (0-255). This is the default for all renderers (madVR/MPC VR/EVR CP) unless otherwise changed.
+ - Change Bit Depth to Auto or the max color bit depth of your content 
+2. Change your Display:
  - If for 4k >= 60Hz, set a HDMI signal format of *UHD Deep Color/Input Signal Plus/Enhanced*
- - Set a color space of RGB/Native (where available) or Auto. Change the input range/black level to Full/High/Normal. As a last resort, put your Display in PC or Game Mode. This will remove a lot of Display processing options, so if this is not desired, you may want to use Scenario #2's Limited settings in these steps instead
-3. Change your Sound System (if between PC and Display) to:
+ - Set a color space of RGB/Native (where available) or Auto. Change the input range/black level to Full/High/Normal. If you can't find these settings, as a last resort, put your Display in PC or Game Mode. FYI, this will remove a lot of Display processing options, so if this is not desired, you may want to use Scenario #2's Limited settings in these steps instead
+3. Change your Sound System (if between PC and Display):
  - If for 4k@60Hz, set a HDMI signal/video format of *4K Enhanced/4K Mode*
  - If for 4k@120Hz/8K@60Hz, set a HDMI signal/video format of *8K Enhanced/8K mode*  
-4. Change your GPU driver settings to a Resolution, Refresh Rate, Color/Pixel Format, Color Depth, Dynamic Range based on the below for your video interface. Check you GPU/mobo specs for what the max supported is. Only use ALT: if you know what you're doing.
- - HDMI 1.4: 3840x2160, 30 Hz, RGB, 8-bit : 1920x1080, 120 Hz, RGB, 8-bit
- - HDMI 2.0/2.1 TMDS: 3840x2160, 60 Hz, RGB, 8-bit, Full
- - HDMI 2.1 FRL: 3840x2160, 120 Hz, RGB, 10-bit, Full
- - Displayport 1.2: 3840x2160, 75 Hz/8-bit - 60 Hz/10-bit, RGB, Full
- - Displayport 1.4: 3840x2160, 120 Hz, RGB, 10-bit, Full
+4. Change your GPU driver
+ - Set a Resolution, Refresh Rate, Color/Pixel Format, Color Depth, and Dynamic Range based on the below for your video interface. Check you GPU/mobo specs for what the max supported is. Only use ALT: if you know what you're doing.
+   - HDMI 2.1 FRL: 3840x2160, 120 Hz, RGB, 10-bit, Full
+   - HDMI 2.0/2.1 TMDS: 3840x2160, 60 Hz, RGB, 8-bit, Full
+   - HDMI 1.4: 3840x2160, 30 Hz, RGB, 8-bit : 1920x1080, 120 Hz, RGB, 8-bit
+   - Displayport 1.4: 3840x2160, 120 Hz, RGB, 10-bit, Full
+   - Displayport 1.2: 3840x2160, 75 Hz/8-bit - 60 Hz/10-bit, RGB, Full
 5. Run the Contrast, Black Level and Gradient tests from [Lagom LCD Tests](http://www.lagom.nl/lcd-test/)
 
 <!--
