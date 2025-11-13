@@ -303,12 +303,16 @@ To confuse things even more, sometimes Full and Limited are called by other name
  - If for 4k@60Hz, set a HDMI signal/video format of *4K Enhanced/4K Mode*
  - If for 4k@120Hz/8K@60Hz, set a HDMI signal/video format of *8K Enhanced/8K mode*  
 4. Change your GPU driver settings to a Resolution, Refresh Rate, Color/Pixel Format, Color Depth, Dynamic Range based on the below for your video interface. Check you GPU/mobo specs for what the max supported is. Only use ALT: if you know what you're doing.
- - HDMI 1.4: 3840x2160, 30 Hz, RGB, 8-bit : 1920x1080, 120 Hz, RGB, 8-bit (ALT: 10-bit w/color format YCbCr 420) 
- - HDMI 2.0/2.1 TMDS: 3840x2160, 60 Hz, RGB, 8-bit, Full (ALT: 10-bit w/color format YCbCr 420, Limited) 
+ - HDMI 1.4: 3840x2160, 30 Hz, RGB, 8-bit : 1920x1080, 120 Hz, RGB, 8-bit
+ - HDMI 2.0/2.1 TMDS: 3840x2160, 60 Hz, RGB, 8-bit, Full
  - HDMI 2.1 FRL: 3840x2160, 120 Hz, RGB, 10-bit, Full
  - Displayport 1.2: 3840x2160, 75 Hz/8-bit - 60 Hz/10-bit, RGB, Full
  - Displayport 1.4: 3840x2160, 120 Hz, RGB, 10-bit, Full
 5. Run the Contrast, Black Level and Gradient tests from [Lagom LCD Tests](http://www.lagom.nl/lcd-test/)
+
+<!--
+*If for some reason you must/want to set your GPU driver to 10-bit+ with only HDMI 2.0, then you should use scenario settings of App: Full, GPU: Limited, Display: Limited with your GPU set to 10-bit, YCbCr 420, Limited or 12-bit, YCbCr 422, Limited*  
+-->
 
 *The above are realistic and recommended settings for each video interface. Higher refresh rates may be possible (e.g. 144 to 165 Hz), where supported by the Display and contingent on [proper cables and optimal video cable length](/wiki/components#video-cablesadapters) and/or a single, direct GPU->Display connection. They are not recommended for media consumption due to stutter/judder problems.*
 
