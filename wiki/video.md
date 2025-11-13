@@ -281,15 +281,15 @@ Here's what should be set for the 3 pieces above, depending on your scenario, bu
 - Scenario #1 - PC Recommended: 
   - Application: Range: **Full (0-255)**, Bit depth: auto/\<display bit depth\> 
   - GPU: Color/Pixel Format: RGB, Range: Full  
-  - Display: Color Space: RGB/Native, Range: **Full**.  
+  - Display: Color Space: RGB/Native, Range/Black Level: **Full/High/Normal**.  
 - Scenario #2 - PC Alternate: 
   - Application: Range: **Limited (16-235)**, Bit depth: auto/\<display bit depth\>  
   - GPU: Color/Pixel Format: RGB, Range: Full  
-  - Display: Color Space: RGB/Native, Range: **Limited**  
+  - Display: Color Space: RGB/Native, Range/Black Level: **Limited/Low**  
 - Scenario #3 - Media device (roku, shield, fire tv) video content on a TV:  
   - Application: Limited (16-235), where available  
   - GPU: Color Space: YCbCr/YUV 422 12-bit  
-  - Display: Limited  
+  - Display: Limited/Low  
 
 To confuse things even more, sometimes Full and Limited are called by other names. We urge you to read a primer on calibration settings which explains more of the terms you'll find in your Display and what they're called for each major mfgr. The page at [rtings.com](https://www.rtings.com/tv/learn/how-to-calibrate-your-tv) is a good one to start with. If you still can't figure out what ranges are available on your Display, **assume it's in Limited range by default** unless you change it (like put in PC mode) or your manual says otherwise.  
 
@@ -297,17 +297,17 @@ To confuse things even more, sometimes Full and Limited are called by other name
 
 1. Change your video application's renderer to a Range of Full (0-255). This is the default for all renderers (madVR/MPC VR/EVR CP) unless otherwise changed. Change Bit depth to auto  
 2. Change your Display to:
- - If for 4k >= 60Hz, Have a HDMI signal format of *UHD Deep Color/Input Signal Plus/Enhanced*
- - Have a color space of RGB/Native (where available) or Auto. Change the input range to Full. As a last resort, put your Display in PC or Game Mode. This will remove a lot of Display processing options, so if this is not desired, you may want to use Scenario #2's Limited settings for this step and step #3.
+ - If for 4k >= 60Hz, set a HDMI signal format of *UHD Deep Color/Input Signal Plus/Enhanced*
+ - Set a color space of RGB/Native (where available) or Auto. Change the input range/black level to Full/High/Normal. As a last resort, put your Display in PC or Game Mode. This will remove a lot of Display processing options, so if this is not desired, you may want to use Scenario #2's Limited settings in these steps instead
 3. Change your Sound System (if between PC and Display) to:
  - If for 4k@60Hz, set a HDMI signal/video format of *4K Enhanced/4K Mode*
  - If for 4k@120Hz/8K@60Hz, set a HDMI signal/video format of *8K Enhanced/8K mode*  
-4. Change your GPU driver settings to a Resolution, Refresh Rate, Color/Pixel Format, Color Depth based on the below for your video interface. Check you GPU/mobo specs for what the max supported is. Only use ALT: if you know what you're doing.
+4. Change your GPU driver settings to a Resolution, Refresh Rate, Color/Pixel Format, Color Depth, Dynamic Range based on the below for your video interface. Check you GPU/mobo specs for what the max supported is. Only use ALT: if you know what you're doing.
  - HDMI 1.4: 3840x2160, 30 Hz, RGB, 8-bit : 1920x1080, 120 Hz, RGB, 8-bit (ALT: 10-bit w/color format YCbCr 420) 
- - HDMI 2.0/2.1 TMDS: 3840x2160, 60 Hz, RGB, 8-bit (ALT: 10-bit w/color format YCbCr 420) 
- - HDMI 2.1 FRL: 3840x2160, 120 Hz, RGB, 10-bit
- - Displayport 1.2: 3840x2160, 75 Hz/8-bit - 60 Hz/10-bit, RGB
- - Displayport 1.4: 3840x2160, 120 Hz, RGB, 10-bit
+ - HDMI 2.0/2.1 TMDS: 3840x2160, 60 Hz, RGB, 8-bit, Full (ALT: 10-bit w/color format YCbCr 420, Limited) 
+ - HDMI 2.1 FRL: 3840x2160, 120 Hz, RGB, 10-bit, Full
+ - Displayport 1.2: 3840x2160, 75 Hz/8-bit - 60 Hz/10-bit, RGB, Full
+ - Displayport 1.4: 3840x2160, 120 Hz, RGB, 10-bit, Full
 5. Run the Contrast, Black Level and Gradient tests from [Lagom LCD Tests](http://www.lagom.nl/lcd-test/)
 
 *The above are realistic and recommended settings for each video interface. Higher refresh rates may be possible (e.g. 144 to 165 Hz), where supported by the Display and contingent on [proper cables and optimal video cable length](/wiki/components#video-cablesadapters) and/or a single, direct GPU->Display connection. They are not recommended for media consumption due to stutter/judder problems.*
