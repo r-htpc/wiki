@@ -790,7 +790,7 @@ Jellyfish Codec Tests - Test if GPU can HW accelerate a codec - 1080p, 29.97 fps
 <!--
 [Jellyfin Video Bitrate Tests](https://repo.jellyfin.org/jellyfish/) - 1080p/4k, h.264/HEVC/**AV1**, 60 fps, High/Main (8-bit), Main10 (10-bit), HDR10/DV, MP4  
 -->
-[Jellyfin Video Bitrate Tests](https://repo.jellyfin.org/test-videos/) - Test if GPU can decode a video bitrate without dropping frames - 1080p/4k, h.264/HEVC/**AV1**, 60 fps, High/Main (8-bit), Main10 (10-bit), HDR10/DV, MP4  
+[Jellyfin Video Bitrate Tests](https://repo.jellyfin.org/test-videos/) - Test if GPU can decode a video bitrate without dropping frames - 1080p/4k, h.264/HEVC/**AV1**, 60 fps, High/Main (8-bit), Main10 (10-bit), HDR10/Dolby Vision, MP4  
 
 Ideal Youtube tests - Test if GPU can decode youtube content - 1080p/4k, VP9/AV1, SDR/HDR, 60 fps, webm - [1080p](https://drive.google.com/uc?export=download&id=1xNV5Bq7a1nxEstoCm_A8Qbc0Ydeh0Xy4), [4K](https://drive.google.com/uc?export=download&id=1K0TrYoM5rn2dAkJ8-L9QGu6H0WNTQsR1)
 
