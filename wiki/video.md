@@ -798,7 +798,7 @@ Ideal Youtube tests - Test if GPU can decode youtube content - 1080p/4k, VP9/AV1
 
 [Our HDR10 Test Videos/Patterns](https://drive.google.com/uc?export=download&id=1HbVqzhhtncjkowdxBgZ-ghycvy5w2cpv) - Tests for checking Basic HDR video calibration  
 
-Dolby Vision Tests - [P5](https://drive.google.com/uc?export=download&id=1u5T0NM-KfgAXgmh1A6muQOujpTec1pK-), [P7 FEL](https://drive.google.com/uc?export=download&id=1fqlcEhhfNMGeUuu9qNXLbq74dWAjdg09), [P8.1 HDR10](https://drive.google.com/uc?export=download&id=11QatUnWbaU8LofdYDsoya-jzmXIxj_jw), [P8.4 HLG](https://drive.google.com/uc?export=download&id=1tzp306qmTHEbCuNSOKx7gJZitI7azaaq)  
+Dolby Vision Tests - [P5](https://drive.google.com/uc?export=download&id=1u5T0NM-KfgAXgmh1A6muQOujpTec1pK-), [P7 FEL-1](https://drive.google.com/uc?export=download&id=1fqlcEhhfNMGeUuu9qNXLbq74dWAjdg09), [P7 FEL-2](https://drive.google.com/uc?export=download&id=1E742_Kb-o8eAM7q5FcsIPfHW6OcflzZx), [P8.1 HDR10](https://drive.google.com/uc?export=download&id=11QatUnWbaU8LofdYDsoya-jzmXIxj_jw), [P8.4 HLG](https://drive.google.com/uc?export=download&id=1tzp306qmTHEbCuNSOKx7gJZitI7azaaq)  
 
 [Mehanik's Full HDR10 Test Videos/Patterns](https://drive.google.com/drive/folders/1m4IBq0euAxamL9ePgfdFuf8_5nLcRwHA) - Tests for checking Advanced HDR video calibration  
 
