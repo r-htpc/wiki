@@ -316,6 +316,7 @@ To do this in Linux:
  - Run `alsamixer` from a terminal window
  - Press F6 to select your audio device
  - Change Channel Mode/Mappings to your speaker configuration, e.g. 6 for a 5.1 sound system.
+ - Make sure the device is un-muted (set to 00 and not MM)
  - Optionally, run `pavucontrol`. *HDMI/Displayport/S/PDIF*: Set Configuration->Profile to Digital Surround (5.1/7.1) or Digital Stereo (2.0). Output Devices-> Disable \<audio codecs\> you want to decode and not bitstream. Set Port to HDMI/Displayport/S/PDIF. *Analog*: Set Configuration->Profile to Analog. Set port to Speakers.
 
 **If you're trying to configure more than Stereo but the option isn't available or channels aren't being represented, it's usually because:**
