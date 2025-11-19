@@ -494,6 +494,7 @@ Logitech Harmony One	|	Disc (1)	|	RF/BT/IR	|	Yes	|	Int	|	IR Blaster, Hub
 [MCE](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw=mce+remote&_sacat=0) / [Inteset](https://www.amazon.com/Inteset-Universal-Backlit-Learning-Streamers/dp/B00M4I1BAY) Remote | $20-30 | IR | Some | AA/AAA | use w/an included IR hub, Flirc USB adap, or HDMI-CEC. Good for Kodi/Plex
 **[Vista MCE](https://www.ebay.com/sch/i.html?_nkw=vista+mce+remote)** | $40 | IR | No | AAA | use w/included IR hub, Flirc USB adap. **Built-in phy. trackpad**. [VRC-1100 clone](https://kodi.wiki/view/Archive:VRC-1100).
 **[Flirc](https://flirc.tv/more/flirc-usb)**  | $20 | USB/IR | NA | NA | USB IR Receiver for remotes. Wake/Sleep
+[Dune HD R4](https://www.dune-hd.com/collections/accessories/products/dune-hd-bt-backlit-remote-r4)		|	$20	|	BT/IR		|	Yes	|	AAA	|	Remote and Air Mouse, IR Learn
 WeChip G20S Pro/Plus		|	$20	|	RF/BT		|	Yes	|	AAA	|	Remote and Air Mouse
 MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Remote, Mini keyboard, and Air Mouse
 [HTWebRemote](https://github.com/nicko88/HTWebRemote)	|	Free	|	LAN		|	NA	|	NA	|	Software to create web-accessible remote on Windows/[Linux](https://github.com/nicko88/HTWebRemoteHost) HTPC to control multiple devices. [Contact](https://www.reddit.com/message/compose/?to=SirMaster)
@@ -528,5 +529,5 @@ MX3 Pro			|	$20	|	RF		|	Yes	|	AAA	|	Remote, Mini keyboard, and Air Mouse
 
 ---
 
-*This page was last updated on 2025-11-06*
+*This page was last updated on 2025-11-18*
 
