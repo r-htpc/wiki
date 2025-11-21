@@ -412,8 +412,10 @@ VLC:
 Plex:  
 1. Plex HTPC/Plex Media Player 
   - Settings->Video->Use Hardware Decoding: Enable  
+  - Settings->Video->Video Playback Quality: iGPU: Low, dGPU: >= Normal 
 2. Plex for Windows
   - Settings->Player->Use Hardware Decoding: Enable  
+  - Settings->Player->Video Playback Quality: iGPU: Low, dGPU: >= Normal 
 
 Kodi:  
 1. Settings->Player->Change to "Advanced" config view  
@@ -834,5 +836,5 @@ Dolby Vision Tests - [P5](https://drive.google.com/uc?export=download&id=1u5T0NM
 
 ---
 
-*This page was last updated on 2025-11-03*
+*This page was last updated on 2025-11-21*
 
