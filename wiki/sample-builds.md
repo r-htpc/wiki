@@ -125,7 +125,7 @@ $150-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB
 Intel Core 7th gen i3+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDMI 2.0 port + Windows 10+. Prices reflect PC + $75 worth of ram/ssd.  
 
 - Dell Optiplex/HP Prodesk/Elitedesk (Intel 8th gen+) + HDMI 2.0 card ($120+, see recs in 4K HDR players above)
-- [Intel/Asus NUCs](https://www.asus.com/us/displays-desktops/nucs/nuc-mini-pcs/filter?Series=NUC-Kits) ($250+)
+- [Intel](https://www.ebay.com/sch/179/i.html?_nkw=intel+nuc+%28nuc11%2Cnuc12%2Cnuc13%29+%28i5%2Ci7%29&_from=R40&_sop=15&_blrs=recall_filtering) / [Asus](https://www.asus.com/us/displays-desktops/nucs/nuc-mini-pcs/filter?Series=NUC-Kits) NUCs ($250+)
 - [MSI Cubi/Pro DP series](https://www.amazon.com/s?keywords=Mini+Computers&i=computers&rh=n%3A13896591011%2Cp_123%3A378555&dc&c=ts&qid=1733595152&rnid=85457740011&ts_id=13896591011&ref=sr_nr_p_123_10&ds=v1%3AnQRfur4qf8GhElQv2EyLSUgtMG4sr3SJOY94hUGfkfE) ($275+, see recs in 4K HDR players above) 
 - [Gigabyte Brix N250](https://www.newegg.com/gigabyte-gb-btip-n250-intel-processors-n250-4c-up-to-3-8-ghz-6w/p/N82E16856164179) ($300)
 - [Asus ExpertCenter PN42+](https://www.amazon.com/s?k=asus+expertcenter&i=computers&rh=n%3A13896591011&s=price-asc-rank) ($400+)
