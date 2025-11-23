@@ -711,7 +711,7 @@ AMD RX >= 67xx|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Dif
 
 ### Fullscreen Exclusive (FSE) behavior not working
 * *Disable fullscreen optimizations*: Find your video app/player's .exe file, right-click->Properties->Compatability->Disable fullscreen optimizations: enabled->Ok. Reboot  
-* *Disable Game DVR (registry)*: download and run this [reg file](https://gist.github.com/Redrrx/a6680e0b9fd0a1386efa3cf736ecde2e). Reboot
+* *Disable Game DVR (registry)*: Download and run this [reg file](https://gist.github.com/Redrrx/a6680e0b9fd0a1386efa3cf736ecde2e). Reboot
 * *Disable Game Bar/DVR (app)*: In Windows 11 settings app under Gaming
 
 <!-- Footer -->
