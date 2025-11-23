@@ -269,6 +269,7 @@ See our [Playback](/wiki/video#how-can-i-play-my-dvdblu-ray-discs-on-my-htpc) se
 *DVD/FHD Blu-Ray:*  
 Internal: LG WH14NS40, ASUS BW-16D1HT, Pioneer BDR 212  
 External, Slim: Archgon MD-3102S, LG WP50NB40/BP60NB10/BP50NB40  
+Internal, Slot: Panasonic UJ-265/UJ-267 (FHD Blu-Ray), Streacom ST-OB2 (FHD Blu-Ray), HL CA30N/40N (FHD Blu-Ray), LG GS40N (DVD), HL GA30N/31N (DVD), Silverstone SOD04/SOB03 (DVD)  
 
 *UHD Blu-Ray (for ripping or Xreveal playback):*  
 See [MakeMKV forum post on recommended drives/FW](https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634)  
