@@ -708,11 +708,16 @@ AMD RX >= 67xx|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Dif
     *  Play a [test HDR video](/wiki/hdr#hdr-tests) and press Ctrl+J to show stats. If avg/max rendering stats are >= 35ms, you're either doing too much madVR processing or your GPU isn't powerful enough. [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
 * *Update MadVR* (OPTIONAL)  
   * If you want newer, beta madVR features, after validating your setup, [download madVR beta](https://madshi.net/madVRhdrMeasure113.zip), unzip/copy all the FILES (NOT the directory itself) inside the zip into your previously-created %USERPROFILE%\madVR directory
-    
+
+### Fullscreen Exclusive (FSE) behavior not working
+* *Disable fullscreen optimizations*: Find your video app/player's .exe file, right-click->Properties->Compatability->Disable fullscreen optimizations: enabled->Reboot  
+* *Disable Game DVR (registry)*: download and run [reg file](https://gist.github.com/Redrrx/a6680e0b9fd0a1386efa3cf736ecde2e)
+* *Disable Game Bar/DVR (app)*: In Windows 11 settings app under Gaming
+
 <!-- Footer -->
 &nbsp;
 
 ---
 
-*This page was last updated on 2025-11-21*
+*This page was last updated on 2025-11-22*
 
