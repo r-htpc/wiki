@@ -467,6 +467,8 @@ If you use/want to use Google Assistant a lot or want an Android TV experience, 
 
 If you want something ad-free, then an Apple TV 4K or an Onn 4k Pro + Projectivy/ATV Launcher.  
 
+If you want something to just play files off a USB exfat drive with Kodi/VLC/etc.., then an Onn 4k Pro + Projectivy/ATV Launcher.  
+
 If you want something more content provider-agnostic that searches across them well and has a lot of curated/free content, you may want to go with a Roku device.  
 
 Once you start looking for advanced features, like external storage, gigabit ethernet, lossless audio or better performance for game streaming/emulation, you should start looking at pricier devices like the Nvidia Shield Pro, Fire TV Cube, Dune HD, and Odroid N2+  
