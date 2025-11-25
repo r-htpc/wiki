@@ -1075,9 +1075,11 @@ HDMI 1.4 (1080p/4k@30)
 
 *Extract audio from HDMI, decode Dolby/DTS/LPCM and send it to Analog Outputs.*  
 
-[J-Tech](https://www.amazon.com/J-Tech-Digital-Extractor-Compatible-JTECH-EXD2/dp/B08R6HCGVV?th=1) (Dolby/DTS Decoder) (RCA 2.0+Optical) - HDMI 2.0  
+[J-Tech](https://www.amazon.com/J-Tech-Digital-Extractor-Compatible-JTECH-EXD2/dp/B08R6HCGVV?th=1) (Dolby Digital/DTS Decoder) (RCA 2.0+Optical) - HDMI 2.0  
 
-[Xolorspace DU50](https://www.amazon.com/XOLORspace-COAXIAL-Optical-decoder-Control/dp/B085WRGRGY) (Dolby/DTS Decoder) (RCA Surround) - HDMI 1.4  
+[Xolorspace DU50](https://www.amazon.com/XOLORspace-COAXIAL-Optical-decoder-Control/dp/B085WRGRGY) (Dolby Digital/DTS Decoder) (RCA Surround) - HDMI 1.4  
+
+[Muxlab 500439](https://www.bhphotovideo.com/c/product/1403012-REG/muxlab_500439_hdmi_audio_extractor_with.html) (Dolby TrueHD/DTS-HD MA Decoder) (RCA 2.0) - HDMI 2.0  
 
 **eARC/ARC -> HDMI/Optical Extractors**  
 
@@ -1140,5 +1142,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2025-10-07*
+ *This page was last updated on 2025-11-25*
 
