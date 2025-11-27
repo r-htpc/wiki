@@ -124,7 +124,7 @@ Synology	|	DS1522+				|	5	|	$700	|	1080p			|	x64 (Ryzen R1600) 2.6 Ghz		|		3300|
 
 BRAND		|	MODEL				|	DRIVES	|COST	|	TRANSCODING		|	CPU								|	PASSMARK	|	PM/$|	RAID MODES	|	NOTES
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--
-**Terramaster**|	**[F2-212](https://www.terra-master.com/global/products/homesoho-nas/f2-212.html?page=menu&mid=1448)**				|	2	|	$170	|	Some 1080p/None	|	ARMv8.2 (Realtek 1619B) 1.7Ghz		|		NA		|	NA	|	RAID 0/1, TRAID, JBOD, Single	|	ext4/btrfs, 1GB RAM, 1 Gb/s
+**Terramaster**|	**[F2-212](https://www.terra-master.com/en-cn/blogs/news/private-cloud-nas)**				|	2	|	$170	|	Some 1080p/None	|	ARMv8.2 (Realtek 1619B) 1.7Ghz		|		NA		|	NA	|	RAID 0/1, TRAID, JBOD, Single	|	ext4/btrfs, 1GB RAM, 1 Gb/s
 QNAP			|	TS-233				|	2	|	$200	|	Some 1080p/None	|	ARMv8.2 4-core 2.0Ghz		|		NA		|	NA	|	RAID 0/1, JBOD, Single	|	ext4, 2GB RAM, 1 Gb/s
 Asustor			|	AS-1102TL			|	2	|	$175	|	Some 1080p/None	|	ARMv8 (Realtek 1619B) 1.7Ghz			|		NA		|	NA	|	RAID 0/1, JBOD, Single		|	ext4, 1GB RAM, 1 Gb/s
 Synology		|	DS223j				|	2	|	$190	|	Some 1080p/None	|	ARMv8 (Realtek 1619B) 1.7Ghz	|		NA		|NA|	SHR, RAID 0/1, JBOD, Single	|	ext4, 1 GB RAM, 1 Gb/s
@@ -133,7 +133,7 @@ Synology		|	DS223j				|	2	|	$190	|	Some 1080p/None	|	ARMv8 (Realtek 1619B) 1.7Gh
 
 BRAND		|	MODEL				|	DRIVES	|COST	|	TRANSCODING		|	CPU								|	PASSMARK	|	PM/$|	RAID MODES	|	NOTES
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--
-**Terramaster**		|	**[F4-212](https://www.terra-master.com/us/f4-212.html?page=menu&mid=1480)**				|	4	|	$230	|	Some 1080p/None	|	ARMv8.2 (Realtek 1619B) 1.7Ghz		|		NA		|	NA 	|	RAID 0/1/10/5/6, JBOD, TRAID, Single		|ext4/btrfs, 1/2GB RAM, 1 Gb/s
+**Terramaster**		|	**[F4-212](https://www.terra-master.com/products/f4-212?_pos=1&_sid=bfec50d8a&_ss=r)**				|	4	|	$230	|	Some 1080p/None	|	ARMv8.2 (Realtek 1619B) 1.7Ghz		|		NA		|	NA 	|	RAID 0/1/10/5/6, JBOD, TRAID, Single		|ext4/btrfs, 1/2GB RAM, 1 Gb/s
 Asustor		|	1104T				|	4	|	$270	|	Some 1080p/None	|	ARMv8 (Realtek 1296) 1.4Ghz		|		NA		|	NA 	|	RAID 0/1/10/5/6, JBOD, Single		|ext4, 1GB RAM, 2.5 Gb/s
 Terramaster	|	F5-221				|	5	|	$380	|	Some/4k 8-bit (3)	|	x64 (Celeron J3355) 2.0-2.5Ghz	|		1186	|	3.12	||
 
