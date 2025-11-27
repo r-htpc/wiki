@@ -95,7 +95,9 @@ Cheap Emulation Gaming: Odroid [N2+](https://www.hardkernel.com/shop/odroid-n2-w
 
 1080p Casual Gaming: [Beelink SER5 Max (6800U) mini pc](https://www.amazon.com/Beelink-Pro%EF%BC%8CAMD-powerful-Computer-Fingerprint/dp/B0CBTBJWHG?th=1) ($300)
 
-1080p local content, HD audio: **[Odroid C4](https://www.hardkernel.com/shop/odroid-c4/)** / [Orange Pi 3 LTS 2GB](https://www.aliexpress.us/item/3256804341645667.html) ($50)  
+<!-- [Orange Pi 3 LTS 2GB](https://www.aliexpress.us/item/3256804341645667.html) -->
+
+1080p local content, HD audio: **[Odroid C4](https://www.hardkernel.com/shop/odroid-c4/)** / [RPI 4 2GB](https://www.google.com/search?q=raspberry+pi+4+2gb&oq=raspberry+pi+4+2gb) ($50)  
 
 1080p local content + Web Browsing (minimal), Linux: **[Odroid C4](https://www.hardkernel.com/shop/odroid-c4/)** / [ROCK64-4GB](https://pine64.com/product/rock64-4gb-single-board-computer/) ($50)  
 
