@@ -80,9 +80,9 @@ Once you build/buy your solution, you can then follow the recommendations in the
 
 Here are recommendations for the most common scenarios, if you don't want to read our whole wiki and/or build something..
 
-Streaming services only: Fire TV 4K stick (Amazon ecosystem) ($40), Onn 4k Plus (Google ecosystem) ($30)  
+Streaming services only: Fire TV 4K stick (Amazon ecosystem) ($40), [Onn 4k Plus](https://www.walmart.com/ip/4K-PLUS-STREAMING/13577404044) (Google ecosystem) ($30)  
 
-Streaming services + 4K local content, no HD audio: Fire TV 4K Max stick ($55), Onn 4k Pro (Google ecosystem) ($50). If poor wifi env, add [micro-USB](https://www.amazon.com/Cable-Matters-Streaming-Including-Chromecast/dp/B07N2ZHFY9) or [usb-a](https://www.amazon.com/gp/product/B00BBD7NFU/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) ethernet adapter.  
+Streaming services + 4K local content, no HD audio: Fire TV 4K Max stick ($55), [Onn 4k Pro](https://www.walmart.com/ip/4K-Pro-Streaming-Device/5193222892) (Google ecosystem) ($50). If poor wifi env, add [micro-USB](https://www.amazon.com/Cable-Matters-Streaming-Including-Chromecast/dp/B07N2ZHFY9) or [usb-a](https://www.amazon.com/gp/product/B00BBD7NFU/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) ethernet adapter.  
 
 4K HDR10/Dolby Vision local content + streaming services, HD audio: Nvidia Shield Pro ($200).  
 
