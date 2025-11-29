@@ -93,7 +93,10 @@ HDR10+: Not common. Dynamic Metadata. 1000-4000 cd/m2. 10-bit color. **No passth
   - Profile 8: Uncommon (mobile phone/social content, etc..), single-layer HDR10/HLG/SDR.  
 
 HLG: Not common. No metadata. SDR & HDR in same signal. 1000 cd/m2 nominal. 10-bit color.  
-[Wiki:FAQ:What is HDR video and what do I need to take advantage of it?](/wiki/faq#what-is-hdr-video-and-what-do-i-need-to-take-advantage-of-it)  
+
+Quality potential: If we were judging HDR on a quality scale of 0-100, SDR would be 80/100, HDR10 would be 95/100, HDR10+ would be 98/100 and Dolby Vision would be 100/100. As you go up the scale, the amount of systems that can play the tech in all its potential goes down, while cost and complexity goes up.  
+
+See also: [Wiki:FAQ:What is HDR video and what do I need to take advantage of it?](/wiki/faq#what-is-hdr-video-and-what-do-i-need-to-take-advantage-of-it)  
 
 **Color Technologies**
 
@@ -836,5 +839,5 @@ Dolby Vision Tests - [P5](https://drive.google.com/uc?export=download&id=1u5T0NM
 
 ---
 
-*This page was last updated on 2025-11-21*
+*This page was last updated on 2025-11-28*
 
