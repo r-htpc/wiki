@@ -279,7 +279,7 @@ But perhaps you want a more full-featured player/interface..
 If you DON'T need to serve media to other devices and just want a well-supported, highly-customizable home theater front-end, look at [Mediaportal](http://www.team-mediaportal.com/), [Jriver Media Center](https://www.jriver.com/) or [Kodi](http://kodi.tv/). All three will pull down metadata for the media you point them to, keep track of what you have watched/haven't watched, keep playback progress, pass-through HDR, and play from your internal or network storage. For Kodi, start with Kodi's [First Time User guide](https://kodi.wiki/view/First_time_user) and 3rd party guides like [this](https://androidpcreview.com/how-to-setup-kodi-the-right-way/).  
 If you DO need to serve media to other devices (local or remote) and/or want centralized metadata management, see Plex/Jellyfin/Emby client/server solutions in Media Servers below.
 
-For playback of 3D MVC/Frame-Packed/SBS content, read the [guide here](https://www.reddit.com/r/htpc/comments/115ap94/how_to_get_full_hd_3d_frame_packing_from_a_pc_or/)  
+For playback of 3D MVC/Frame-Packed/SBS content, read the user-generated guides [here](https://www.reddit.com/r/htpc/comments/115ap94/how_to_get_full_hd_3d_frame_packing_from_a_pc_or/) and [here](https://www.reddit.com/r/htpc/comments/1ia3nq8/hdmi_framepacked_3d_on_a_cheap_ryzen_mini_pc_in/)  
 
 **Gaming/Emulation:** 
 
