@@ -142,7 +142,8 @@ Intel Core 7th gen i3+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDM
 
 ### Specialized: 4K@120Hz
 
-- **[UM750L](https://store.minisforum.com/products/minisforum-um750l-slim)/[UM680/UM760 Slim](https://store.minisforum.com/products/minisforum-um760-slim)**, [SER6 Max](https://www.google.com/search?q=ser6+max&oq=ser6+max), [Gigabyte Brix Extreme](https://www.newegg.com/p/pl?d=gigabyte+brix+extreme), [Venus UM790](https://store.minisforum.com/collections/amd-%C2%AE-ryzen-%C2%AE/products/minisforum-um790-pro), [ASRock 4x4 7535U/8640U](https://www.newegg.com/p/pl?N=50223387&d=4x4&Order=1), [Intel NUC 11+](https://www.newegg.com/p/pl?N=100008345%2050001157%20601331497%2050001315&Order=1) + [Cable Matters Thunderbolt->HDMI 2.1 Cable](https://www.amazon.com/Cable-Matters-48Gbps-Adapter-Supporting/dp/B08QDV5H4M) + Display w/HDMI DSC support
+- **[UM750L](https://store.minisforum.com/products/minisforum-um750l-slim)/[UM680/UM760 Slim](https://store.minisforum.com/products/minisforum-um760-slim)**, [SER6 Max](https://www.google.com/search?q=ser6+max&oq=ser6+max), [Gigabyte Brix Extreme](https://www.newegg.com/p/pl?d=gigabyte+brix+extreme), [Venus UM790](https://store.minisforum.com/collections/amd-%C2%AE-ryzen-%C2%AE/products/minisforum-um790-pro), [ASRock 4x4 7535U/8640U](https://www.newegg.com/p/pl?N=50223387&d=4x4&Order=1)
+- [Asus Nuc 14 Pro](https://shop.asus.com/us/asus-nuc-14-pro.html)/[Intel NUC 11+](https://www.newegg.com/p/pl?N=100008345%2050001157%20601331497%2050001315&Order=1) + [Cable Matters Thunderbolt->HDMI 2.1 Cable](https://www.amazon.com/Cable-Matters-48Gbps-Adapter-Supporting/dp/B08QDV5H4M) + Display w/HDMI DSC support
 - [What options are there for 4k @ 120 Hz video output?](/wiki/video#what-options-are-there-for-4k--120-hz-video-output)  
 
 <!-- Sub-Section -->
