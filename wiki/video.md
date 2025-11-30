@@ -733,19 +733,20 @@ Way 4: Remote (separate client + software)
 
 Keep in mind we assume a HDMI input will be on your Display (TVs/Projectors, which is our only concern here).  
 
-You will need to have HDMI 2.1 FRL bandwidth on every HDMI device between your HTPC and your Display (GPU, TV, AVR, Switches, etc..). Simply having "HDMI 2.1" does not mean 4k@120 Hz bandwidth will be supported; this is an important distinction, so make sure they state 4k@120 hz support and/or >= 32 Gbps bandwidth (for at least media content) or >= 40 Gbps for gaming.  
+You will need to have HDMI 2.1 FRL bandwidth on every HDMI device between your HTPC and your Display (GPU, TV, AVR, Switches, etc..). Simply having "HDMI 2.1" does not mean 4k@120 Hz bandwidth will be supported; this is an important distinction, so make sure they state 4k@120 hz FRL support and/or >= 32 Gbps bandwidth (for a minimal media content setup or non-HDR gaming of HDR/10-bit/4:2:2) or >= 40 Gbps (for an ideal media content setup or HDR gaming of HDR/10-bit/RGB).  Reference [this thread](https://www.avsforum.com/threads/hdmi-2-1-frl-hdmi-2-2-and-displayport-2-1-uhbr-video-sources-for-gaming-home-theatre-pc-and-viewing-experience.3259197/) for specific parts.  
+A GPU and display with DSC support will allow more than the minimal native bandwidth of 32 Gbps. Displays that support >= 4K@144Hz usually have DSC support.  
 
 **Options below for this are ordered from best to worst in terms of stability and reliability.** 
 
-Technically, straight HDMI is the best (#1/#2/#3), followed by Thunderbolt->HDMI (#4/#5), USB-C->HDMI (#6) and DP->HDMI (#7/#8). 
+Technically, straight HDMI is the best (#1/#2/#3), followed by Thunderbolt->HDMI (#4/#5), USB-C->HDMI (#6) and DP->HDMI (#7/#8) if you must, but is discouraged. 
 
 Use case is KEY, as 4k@120 Hz is a broad requirement and knowing what sub-features (media, gaming, HDR) you want will determine bandwidth requirements. 
 
 Use of an adapter in options #4/#5/#6/#7/#8 assumes you have a GPU with Displayport 1.4 protocol support and DSC (Display Stream Compression). 
-Media content (HDR/10-bit/4:2:2) is technically possible without DSC support. Gaming (HDR/10-bit/4:4:4/RGB) is NOT. **VRR** gaming will **not** be supported with any adapter.  
+Media content (HDR/10-bit/4:2:2) is technically possible without DSC support. Gaming (HDR/10-bit/RGB) is NOT. **VRR** gaming will **not** be supported with any adapter.  
   
-1. DiY: Any [decent cpu/motherboard](/wiki/components#motherboards) or [OEM build](https://www.ebay.com/sch/i.html?_from=R40&_nkw=sff+%28i5-7400%2Ci3-8100%2Ci5-8400%2Ci5-8500%2Ci3-9100%2Ci5-9400%2Ci5-9500%29&_sacat=179&_odkw=sff+%28i3-9100%2Ci5-9400%2Ci5-9500%29&_osacat=179&LH_BIN=1&_sop=15) + a discrete GPU w/a 4k@120 Hz HDMI 2.1. e.g. RTX 3050 6GB LP, Radeon RX 6400 
-2. DiY: An AMD Ryzen 8xxxG or Intel Core Ultra 2xx desktop CPU and respective motherboard that states 4k@120Hz HDMI 2.1. e.g. Ryzen 8500G + ASRock A620I/B650I Lightning Wifi mobo/ASRock Deskmini X600, Intel Core 225 + ASRock B860I Lightning, for a realistic max of 4:2:2 10-bit HDR. 
+1. DiY: Any [decent cpu/motherboard](/wiki/components#cpus) or [OEM build](https://www.ebay.com/sch/i.html?_from=R40&_nkw=sff+%28i5-7400%2Ci3-8100%2Ci5-8400%2Ci5-8500%2Ci3-9100%2Ci5-9400%2Ci5-9500%29&_sacat=179&_odkw=sff+%28i3-9100%2Ci5-9400%2Ci5-9500%29&_osacat=179&LH_BIN=1&_sop=15) + a discrete GPU w/a 4k@120 Hz HDMI 2.1. e.g. RTX 3050 6GB LP, ARC B570, Radeon RX 6400 
+2. DiY: An AMD Ryzen 8xxxG or Intel Core Ultra 2xx non-F desktop CPU and respective motherboard that states 4k@120Hz HDMI 2.1. e.g. Ryzen 8500G + [ASRock A620AI/B650I Lightning Wifi](https://pcpartpicker.com/products/motherboard/#f=8&s=41&sort=price) mobo/ASRock Deskmini X600, Intel Core 225 + [ASRock B860I Lightning](https://pcpartpicker.com/products/motherboard/#f=8&s=42&sort=price&page=1), for a realistic max of 4:2:2 10-bit HDR. 
 3. Pre-built: A Ryzen 6000+ or Intel 11th+ gen Mini PC with a 4k@120Hz HDMI 2.1 port. e.g. see [Wiki:Sample Builds:Specialized: 4K@120hz](/wiki/sample-builds#specialized-4k120hz)
 4. Pre-built: An Intel 11th+ gen Mini PC with a Thunderbolt display out connector and a Thunderbolt->HDMI adapter/cable. e.g. Intel NUC [11](https://www.google.com/search?q=nuc11pahi5&oq=nuc11pahi5)/[12/13](https://www.newegg.com/p/pl?N=100008345%2050001157%20601331497&Order=1&SrchInDesc=nuc+12)/Lenovo IdeaCentre Mini Gen 8 + [Thunderbolt->HDMI 2.1 Cable](https://www.amazon.com/Cable-Matters-48Gbps-Adapter-Supporting/dp/B08QDV5H4M) 
 5. DiY: Intel 12th+ Gen CPU and respective motherboard with a Thunderbolt display out connector out and a [Thunderbolt->HDMI 2.1 Cable](https://www.amazon.com/Cable-Matters-48Gbps-Adapter-Supporting/dp/B08QDV5H4M). Not as good as straight HDMI, but better compared to DP or plain USB-C. This will likely be expensive as these boards are rare. e.g. for an ITX board, look at the Asus ROG STRIX Z690-I GAMING WIFI, ASRock Z690 Phantom Gaming-ITX/TB4 or ASRock Z790 PG-ITX/TB4. 
