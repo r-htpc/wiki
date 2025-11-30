@@ -71,7 +71,8 @@ The GPU (whether it's integrated into the CPU or a separate, discrete GPU) tends
 CPU, the higher the TDP will be, the more heat will be generated, the louder your fans will be. If the HTPC will be in your listening environment, the last thing you want to 
 hear is a loud fan. So stick with CPUs with TDPs <= 65W. CPU temps <= 80C under load are fine; anything higher than that is generally frowned upon for CPU longevity, esp 90+. Use Open Hardware Monitor/HwInfo64 to monitor your temps.  
 2. You shouldn't need anything more than a 4 core CPU for a frontend media player. A backend server may require 6 core if doing something intensive like handbrake transcoding. 
-3. Don't forget a CPU cooler for your CPU, if one is not already included. Ryzen APUs and non-K Intel CPUs tend to come with a stock cooler, but you can do better if budget and space allow it. 
+3. Don't forget a CPU cooler for your CPU, if one is not already included. Ryzen APUs and non-K Intel CPUs tend to come with a stock cooler, but you can do better if budget and space allow it.
+4. If using the iGPU, make sure the motherboard you choose also supports the resolution/refresh rate you want to use.
 We have a whole section on cooling below. Remember: bigger, slower fans are better than smaller, faster fans.  
 
 Below are the minimum CPUs required for each scenario and a recommendation. **All have integrated graphics and a dGPU is not required (unless specified)**. The recommendations may change depending on your budget, regional availability, space/power requirements, and whether you want new or second-hand parts. If you're not sure, post and ask us for a rec based on your detailed use-case.  
@@ -96,7 +97,7 @@ Below are the minimum CPUs required for each scenario and a recommendation. **Al
 
 - UHD Blu-Ray disc playing: Intel i3/5/7/9-7xxx-10xxx Gen iGPU ONLY + [Motherboard BIOS supporting Intel SGX](/wiki/hdmi20) (REC: Intel i3-10100)  
 
-- [HDMI 2.1 4K@120Hz (>= 32Gbps)](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output): >= Ryzen 8xxxG/7xxx iGPU (REC: Ryzen 8500G)
+- [HDMI 2.1 4K@120Hz (>= 32Gbps)](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output): >= Ryzen 8xxxG/7xxx, Intel 225 iGPU (REC: Ryzen 8500G)
 
 - For use w/dGPU below: >= i3-12100F (REC: Ryzen 5600/Intel i5-12400F)  
 
@@ -113,7 +114,7 @@ Some features like HDR, 4K and protected content will restrict you to certain dG
 Below are the minimum requirements for each scenario and a recommendation. The recommendations are generalized and may change depending on your budget, regional availability, space/power requirements, and whether you want new or second-hand parts. If you're not sure, post and ask us for a rec based on your detailed use-case.  
 
 - **Best All-Rounder: Intel Arc A310/A380**
-  - Will run 4k@60Hz, HDR, AV1, has low-profile versions and only requires PCIe slot power. Its weakness is it doesn't do [4k@120Hz](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output). To get that, look at the Nvidia RTX 3050 6GB. If you don't need AV1, the AMD Radeon RX 6400.
+  - Will run 4k@60Hz, HDR, AV1, has low-profile versions and only requires PCIe slot power. Its weakness is it doesn't do [4k@120Hz](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output). To get that, look at the Nvidia RTX 3050 6GB or ARC B570. If you don't need AV1, the AMD Radeon RX 6400.
 
 - 1080p H264, 4k@30Hz video out or for DP/HDMI HD audio only: AMD Radeon R5 340/Nvidia GT 730 (REC: [Dell R5 340](https://www.ebay.com/sch/27386/i.html?_from=R40&_nkw=amd+%28r5%2Cr7%29+%28240%2C340%29&LH_BIN=1&_sop=15)) 
 
@@ -125,7 +126,7 @@ Below are the minimum requirements for each scenario and a recommendation. The r
 
 - AV1 decoding: >= Intel A3xx/Nvidia RTX 3050/A2000/AMD RX 6600 (REC: Intel A3x0/RTX 3050 6GB) 
 
-- [HDMI 2.1 4K@120Hz (>= 32Gbps)](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output): >= Nvidia RTX 3050/AMD RX 6400 (REC: RX 6400/RTX 3050 6GB) 
+- [HDMI 2.1 4K@120Hz (>= 32Gbps)](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output): >= Nvidia RTX 3050/Intel ARC B570/AMD RX 6400 (REC: RTX 3050 6GB/ARC B570) 
 
 - Emulation/Casual Gaming: Nvidia >= GT 1030 GDDR5, AMD >= 5xx/5x00/6x00 (REC: Used: GTX 1650, New: RX 6400/570) 
 
@@ -202,7 +203,7 @@ Motherboards are sometimes a matter of preference, however many of the higher-en
 The best values are in motherboards with the Bxxx chipsets for Intel/AMD, so that's what we recommend.  
 Even cheaper are the bargain basement chipsets like Intel [Hx10 (Intel)](https://en.wikipedia.org/wiki/List_of_Intel_chipsets#600/700_Series_chipsets) e.g. H510/H610. and AMD [Ax20 (AMD)](https://en.wikipedia.org/wiki/List_of_AMD_chipsets#AM4_chipsets) e.g. A320/A520; they are also fine for a basic build, they just skimp on features a little more, like no PCIe 4, limited/no memory overclocking and/or limited SATA ports.  
 For form factor, Mini-ITX boards are usually preferred for their smaller size where space is at a premium (though they are more expensive), followed by Micro-ATX which are a little bigger in size (and which tend to be the least expensive, so are the best value). Full ATX sized boards are large and aren't particularly useful here.  
-Make sure you check the mfgr specs/support page for any potential motherboard you want for your CPU, as the chipset in combination with the BIOS version may dictate what CPUs are supported.  
+Make sure you check the mfgr specs/support page for any potential motherboard you want for your CPU, as the chipset in combination with the BIOS version may dictate what CPUs are supported. The motherboard may also limit the resolution/refresh rate you want to use, if using a CPU's iGPU.  
 Shoot for spending $100-$200 for a motherboard, with $125 being a good starting point.  
 
 Example Combinations:  
