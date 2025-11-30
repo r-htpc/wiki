@@ -158,6 +158,7 @@ Intel Core 7th gen i3+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDM
 ### Specialized: 3D MVC/Frame-Packed
 
 - [HTPC w/Windows or Mac](https://www.reddit.com/r/htpc/comments/115ap94/how_to_get_full_hd_3d_frame_packing_from_a_pc_or/), Odroid N2+ + CoreElec, Vero V / Ugoos AM6B Plus / Zidoo Z9X w/Kodi-based player
+- [Kodi-based device 3D support spreadsheet](https://docs.google.com/spreadsheets/d/1Uyuw_1dADsRw7u1LGW6qTSZDLLNXWVK82gmHX7L6M3I/view?gid=0#gid=0)
 
 <!-- Sub-Section -->
 
