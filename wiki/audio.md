@@ -388,7 +388,9 @@ Most media players have audio passthrough support built-in, but it must be confi
 COMMON REQUIREMENTS (Windows):  
 1. Make sure the drivers are installed for your GPU, if using HDMI; if an Intel GPU, the Intel HD Audio driver and the Intel Management Engine driver. If Nvidia, the Nvidia HD Audio driver. If AMD, the AMD High Definition Audio driver. If Optical, the audio drivers for your motherboard or add-in sound card (realtek, soundblaster, xonar, etc..)  
 2. If you're using **Windows 11 24H2** that was installed from scratch, install the AC-3/Dolby Digital codec from [here](https://www.majorgeeks.com/files/details/dolby_ac_3ac_4_installer.html) first.  
-3. Windows Sound control panel-> \<your_sound_device\> ->Properties->Advanced: Enable "Allow applications to take exclusive control of this device".
+3. Open Windows Sound control panel (run mmsys.cpl) -> \<your_sound_device\> -> Properties
+   - Supported Formats: Confirm codecs you want to bitstream are listed. If not, confirm support in Hardware Setup steps
+   - Advanced: Enable "Allow applications to take exclusive control of this device".
 
 COMMON REQUIREMENTS (Linux):  
 1. Remove pulseaudio packages to use ALSA. `apt remove pulse*`
