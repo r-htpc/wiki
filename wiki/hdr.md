@@ -623,7 +623,8 @@ Simple, HDR Passthrough or Tonemapping
      -->
 * *Test*
   * *MPV app*  
-    * Play a [test HDR video](/wiki/hdr#hdr-tests). [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
+    * Play a [test HDR video](/wiki/hdr#hdr-tests). [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.
+    * ALT: `ENABLE_HDR_WSI=1 mpv --gpu-api=vulkan --gpu-context=waylandvk "/path/to/video_file"`  
 
 &nbsp;
 
