@@ -819,9 +819,9 @@ First, most games output audio in the **[PCM 5.1](https://satsun.org/audio/)** f
 
 The easiest and best way to connect your components is: PC (HDMI OUT) -> Sound System (HDMI IN) -> TV (HDMI IN/ARC). This will give you PCM 5.1 capability. See **Scenario #1** in the Hardware Setup section above for details
 
-If you need **G-Sync/Freesync** (and not plain VRR) for gaming though, this won't work, as Sound Systems like AVRs/Soundbars won't pass through those VRR techs to the TV. In that case, and if you have **HDMI eARC** support on your Sound System and TV, you can connect: PC (HDMI OUT) -> TV (HDMI IN), TV (HDMI eARC) -> Sound System. See **Scenario #2** in the Hardware Setup section above for details before moving on.  
+If you need **G-Sync/Freesync** (and not plain VRR) for gaming this may not work, as some AVRs/Soundbars won't pass through those VRR techs to the TV. If that's the case, and if you have **HDMI eARC** support on your Sound System and TV, you can connect: PC (HDMI OUT) -> TV (HDMI IN), TV (HDMI eARC) -> Sound System. See **Scenario #2** in the Hardware Setup section above for details before moving on.  
 
-If neither scenario is viable, you should split up the video and audio paths with **Scenario #3** in the Hardware Setup section above. If not possible, see the Alternatives below.
+If neither scenario is viable, you should split up the video and audio paths with **Scenario #3** in the Hardware Setup section above. If not possible, see the "Alternatives" below.
 
 Finish the basic setup by following the [Decoding / Channelization software setup](/wiki/audio#softwareos-setup) section above, to configure your speakers for Windows, if you haven't already. 
 
