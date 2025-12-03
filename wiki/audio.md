@@ -296,7 +296,7 @@ There are 2 separate ways to audio can be processed between your HTPC and your s
 Depending on your use-case **you may be using one or both**.  
 A use-case where you'd use both is where you want to bitstream Dolby/DTS codecs from a media player(s), but send decoded PCM for games and other non-encoded content (music, youtube, etc..);  
 You should **configure Scenario #1 for decoded PCM first and then, optionally, configure Scenario #2 for bitstreaming Dolby/DTS encoded content in your OS and media players**.  
-**Do NOT continue on until you know what codecs your sound system/display and related audio interfaces support (per above research/setup) and [which you want to use](/wiki/audio#what-kind-of-audio-is-supported-on-a-htpc)**
+**Do NOT continue on until you know what codecs your sound system, display and related audio interfaces support (per above research/setup) and [which you want to use](/wiki/audio#what-kind-of-audio-is-supported-on-a-htpc)**
 
 **Scenario #1: DECODING/CHANNELIZATION**  
 
@@ -307,6 +307,7 @@ This scenario applies for such things as **Gaming**, analog audio interfaces, so
 **On a Windows HTPC, this is the DEFAULT scenario for audio and Stereo is the default output unless configured below!**  
 
 Start by setting up your Speaker configuration in your OS so it knows how many channels your sound system has.  
+
 To do this in Windows:
  - Open Windows Sound control panel (run mmsys.cpl) -> \<your_audio_device\> -> Configure
  - Select your speaker configuration -> Next -> Optionally, configure the speakers you have/don't have. Click 'Test' and confirm all channels you're configuring are being represented properly.
@@ -320,7 +321,7 @@ To do this in Linux:
  - Optionally, run `pavucontrol`. *HDMI/Displayport/S/PDIF*: Set Configuration->Profile to Digital Surround (5.1/7.1) or Digital Stereo (2.0). Output Devices-> Disable \<audio codecs\> you want to decode and not bitstream. Set Port to HDMI/Displayport/S/PDIF. *Analog*: Set Configuration->Profile to Analog. Set port to Speakers.
 
 **If you're trying to configure more than Stereo but the option isn't available or channels aren't being represented, it's usually because:**
- - Your setup is limited by hardware (audio interfaces, sound system support, display passthrough mis-configuration). Double-check that all the connected equipment and interfaces support PCM in the channel config you want. For instance, don't use an Optical or regular ARC audio interface that only supports PCM 2.0 as per above and try to configure PCM 5.1 surround; if you need 5.1, re-encode [your media](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital) or [game audio](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) to a bitstreamable codec. 
+ - Your setup is limited by hardware (audio interfaces, sound system support, display passthrough mis-configuration). Double-check that all the connected equipment and interfaces support PCM in the channel config you want. For instance, don't use an Optical or regular ARC audio interface that only supports PCM 2.0 as per above and try to configure PCM 5.1 surround; if you need must use these interfaces, re-encode [your media](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital) or [game audio](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) to a bitstreamable codec, like Dolby Digital Live with a supported sound card or APO Driver. 
  - Your setup is limited by software or a mis-configuration. You haven't set up audio passthrough properly in your display, your sound system is not in direct mode, your speakers are mis-configured at your sound system or you installed/configured middleware audio software (like an APO, Spatial Sound, Mixer, Dolby Access/DTS Connect) before doing this setup.
 
 *If you select a speaker configuration that is more than what your played content provides, for instance you choose 5.1 speakers and play a Stereo source, Windows will output the source as 5.1 but with only the Stereo speakers containing audio. This will limit your sound system's ability to upmix Stereo sources to Surround or Multi-Channel*  
