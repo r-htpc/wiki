@@ -85,6 +85,9 @@ keywords: [hdr, hdr10, madvr, mpc, tonemapping, kodi, plex, upscaling]
   * [4K/HDR](https://wiki.libreelec.tv/configuration/4k-hdr)
 * *CoreElec:*  
   * [Display Settings](https://wiki.coreelec.org/coreelec:kodi_ce_sys_settings)
+* *Linux Desktop:*  
+  * Kubuntu 25.10
+  * KDE Plasma 6.x + Wayland
 * *Android-like/Roku:*  
   * [Nvidia Shield](https://www.nvidia.com/en-us/shield/support/shield-tv-pro/4k-hdr-dolby-vision-display-setup/) / [Fire TV](https://www.amazon.com/gp/help/customer/display.html?nodeId=G8GNX2B27JG726AH&ref_=hp_GHH5TUHA7677G4HJ_Dolby-Vision-or-High-Dynamic-R) / [Chromecast](https://support.google.com/chromecast/answer/10117046?hl=en&sjid=10251772960481040502-NC) / [Roku](https://support.roku.com/article/235168467)
 
@@ -571,7 +574,59 @@ Simple, HDR Passthrough or Tonemapping
     * Play a [test HDR video](/wiki/hdr#hdr-tests). [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
 
 &nbsp;
- 
+
+### **MPV (Linux) EXPERIMENTAL/DRAFT**
+
+Simple, HDR Passthrough or Tonemapping  
+
+* *Requirements:*  
+   * Common settings above (Linux Desktop)
+   * Enable OS HDR
+     * System Settings->Display Configuration->Enable HDR: Checked, Color accuracy: Prefer color accuracy, Calibrate HDR brightness
+   * Install MPV: Terminal->`sudo snap install mpv`
+   * *Notes:*  
+     * If HDR is not configured as per below, HDR will be tonemapped to SDR (?)
+* *MPV settings:*  
+   *  Create/Edit file: ~/snap/mpv/current/.config/mpv/mpv.conf
+      * Add:  
+     `[HDR]`<br>
+     `profile-cond=p["video-params/primaries"] == "bt.2020"`<br>
+     `vo=gpu-next`<br>
+     `hwdec=auto-copy`<br>
+     `target-colorspace-hint=yes`<br>
+     `target-trc=pq`<br>
+     `target-prim=dci-p3`<br>
+     `dolbyvision=no`<br>
+     <!--
+     MISC
+     `target-contrast=inf ##inf is for OLED, for LCD get the contrast value from rtings or similar`<br>
+     `target-peak=700    ## If you have an HDR display, adjust this to the 10% peak`<br>
+     HDR->SDR TONEMAPPING
+     `target-colorspace-hint=no`<br>
+     `gamut-mapping-mode=clip`<br>
+     `vf=format:dolbyvision=no:hdr10plus=no`<br>
+     `tone-mapping=st2094-10`<br>
+     `target-peak=100`<br>
+     `hdr-compute-peak=yes`<br>
+     `allow-delayed-peak-detect=yes`<br>
+     `hdr-peak-percentile=99.9`<br>
+     `target-prim=bt.2020`<br>
+     `target-trc=pq`<br>
+     `saturation=-20`<br>
+     MESA 25.1+ HDR
+     `vo=gpu-next`<br>
+     `hwdec=vulkan`<br>
+     `gpu-api=vulkan`<br>
+     `gpu-context=waylandvk`<br>
+     `target-colorspace-hint=yes`<br>
+     `target-trc=pq`<br>
+     -->
+* *Test*
+  * *MPV app*  
+    * Play a [test HDR video](/wiki/hdr#hdr-tests). [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
+
+&nbsp;
+
 ### **Plex Media Player (old)**
 
 Simple, Tonemapping  
@@ -719,5 +774,5 @@ AMD RX >= 67xx|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Dif
 
 ---
 
-*This page was last updated on 2025-11-22*
+*This page was last updated on 2025-12-02*
 
