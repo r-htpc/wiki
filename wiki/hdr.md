@@ -672,10 +672,10 @@ Simple, Tonemapping
 
 ## MadVR Performance Settings Per GPU
 
-WARNING: These settings are for more intensive image processing/scaling that is **NOT** necessary for just HDR passthrough.  
-The settings for the corresponding GPU families below are **conservative** so you don't have to spend hours wasting your time with stuttering due to high rendering times and diminishing returns. **Test with the default settings above before changing to any of these**. Don't test higher tiers until you test the conservative ones first.  
+WARNING: These settings are for more intensive image processing/scaling of <= 1080p to 4k, that is **NOT** necessary for just HDR passthrough. They are not the end all to be all and best when configured with resolution-conditional profiles, which are beyond the scope of this page.  
+The settings below are also **conservative** so you don't have to spend hours wasting your time with stuttering due to high rendering times and diminishing returns. **Test with the default settings above before changing to any of these**. Don't test higher tiers until you test the conservative ones first.  
 This doesn't mean that they're not gpu intensive; they most certainly are.  
-If you can't handle the GPU load/noise/heat these settings produce, turn them down or go back to the madvr Bilinear defaults.  
+If you can't handle the GPU load/noise/heat these settings produce, turn them down or go back to the madvr Bilinear defaults.   
 Related: [What are the best ways for scaling video?](/wiki/video#what-are-the-best-ways-for-scaling-video), [madVR settings](https://forum.doom9.org/showthread.php?p=1709584)  
 
 GPU|IMAGE UPSCALING|IMAGE DOUBLING|IMAGE DOWNSCALING|CHROMA UPSCALING|DITHERING
