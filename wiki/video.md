@@ -727,7 +727,7 @@ Way 4: Remote (separate client + software)
 - Direct (specialized)
   - [RUIPro HDMI 48 Gbps Fiber](https://www.amazon.com/RUIPRO-Fiber-48Gbps-Dynamic-Samsung/dp/B0D93Q4Q6C) + [USB 2.0 extender w/point-to-point ethernet](https://www.amazon.com/dp/B08D6MVCR6?ref=ppx_pop_mob_ap_share) or a [USB 3 Active Cable](https://www.amazon.com/BlueRigger-Active-Extension-Meters-Repeater/dp/B087LSFS6R/)+[USB Hub](https://www.amazon.com/Multiple-Splitter-Laptop-Extender-Windows/dp/B0CN3F9Y1Z)
  - Direct (PtP)
-   - Cat 6a-7 point to point + [OREI 4K@120Hz Balun Extender](https://www.amazon.com/OREI-120hz-Ethernet-Extender-UltraHD/dp/B0D5FDPRTL) + [USB 2.0 extender w/point-to-point ethernet](https://www.amazon.com/dp/B08D6MVCR6?ref=ppx_pop_mob_ap_share) or a [USB 3 Active Cable](https://www.amazon.com/BlueRigger-Active-Extension-Meters-Repeater/dp/B087LSFS6R/)+[Hub](https://www.amazon.com/Multiple-Splitter-Laptop-Extender-Windows/dp/B0CN3F9Y1Z)
+   - Cat 6a-8 point to point + [OREI 4K@120Hz Balun Extender](https://www.amazon.com/OREI-120hz-Ethernet-Extender-UltraHD/dp/B0D5FDPRTL) + [USB 2.0 extender w/point-to-point ethernet](https://www.amazon.com/dp/B08D6MVCR6?ref=ppx_pop_mob_ap_share) or a [USB 3 Active Cable](https://www.amazon.com/BlueRigger-Active-Extension-Meters-Repeater/dp/B087LSFS6R/)+[Hub](https://www.amazon.com/Multiple-Splitter-Laptop-Extender-Windows/dp/B0CN3F9Y1Z)
 - Remote
   - Client: Software: Moonlight + [Device w/HDMI 2.1 + 1 Gbps LAN](https://r-htpc.github.io/wiki/sample-builds#specialized-4k120hz)
   - Server: Software: Sunshine + Hardware: Gaming PC. OPTIONAL: [Headless Moonlight/Sunshine Streaming Host fix (#9)](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output)
@@ -846,5 +846,5 @@ Dolby Vision Tests - [P5](https://drive.google.com/uc?export=download&id=1u5T0NM
 
 ---
 
-*This page was last updated on 2025-11-28*
+*This page was last updated on 2025-12-08*
 
