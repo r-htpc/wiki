@@ -675,15 +675,21 @@ When buying cables and adapters, please do NOT buy no-name brands. As quality co
 
 ### How can I use a PC that's installed away from my HT / in another room? ###
 
+The solution you choose for the resolution and refresh rate you want to support will be based on your house layout and its network capabilities and how much you're willing to spend. There is no one-size-fits-all.  
+We will list the potential solutions available and then the options for each resolution/refresh rate.  
+
 Way 1: Direct (specialized cables)
  - Use HDMI over fiber cables designed for distances over 25 ft. Use USB cables with an ethernet extender for control or an active usb cable if you must have USB 3.0
  - If HDMI cable is exiting from a wall to endpoint, do not use terminated HDMI wallplates, use passive brushplates instead.
+ - Good solution if you can run multiple cables from the server to the client, directly, over short distances, and without tight bends.
 
 Way 2: Direct (PtP Ethernet)
  - Use a HDBaseT Balun extender which does HDMI and USB control over point to point ethernet (NOT using a LAN switch)
+ - Good solution if you can run a cable from the server to the client directly
 
 Way 3: Direct (LAN)
  - Use a HDBaseT KVM Extender which does HDMI and USB control over a LAN (point to point ethernet or via a switch)
+ - Good solution if you already have a wired network with a central switch
  - If you using a LAN switch, you should consider a separate switch, hub or VLAN for this traffic, esp. on a busy or latency-sensitive network.
  - *Coax Variation*: If you don't have ethernet access in the relevant rooms, but have coax, use [MOCA adapters](https://www.amazon.com/Actiontec-Bonded-Ethernet-Adapter-ECB6200K02/dp/B013J7O3X0) between wall and Extender
 
@@ -719,7 +725,7 @@ Way 4: Remote (separate client + software)
 
 4K @ 120 Hz:
 - Direct (specialized)
-  - [RUIPro HDMI 48 Gbps Fiber](https://www.amazon.com/RUIPRO-Fiber-48Gbps-Dynamic-Samsung/dp/B0D93Q4Q6C) + [USB 2.0 extender w/point-to-point ethernet](https://www.amazon.com/dp/B08D6MVCR6?ref=ppx_pop_mob_ap_share) / [USB 3 Active](https://www.amazon.com/BlueRigger-Active-Extension-Meters-Repeater/dp/B087LSFS6R/)+[Hub](https://www.amazon.com/Multiple-Splitter-Laptop-Extender-Windows/dp/B0CN3F9Y1Z)
+  - [RUIPro HDMI 48 Gbps Fiber](https://www.amazon.com/RUIPRO-Fiber-48Gbps-Dynamic-Samsung/dp/B0D93Q4Q6C) + [USB 2.0 extender w/point-to-point ethernet](https://www.amazon.com/dp/B08D6MVCR6?ref=ppx_pop_mob_ap_share) or a [USB 3 Active Cable](https://www.amazon.com/BlueRigger-Active-Extension-Meters-Repeater/dp/B087LSFS6R/)+[USB Hub](https://www.amazon.com/Multiple-Splitter-Laptop-Extender-Windows/dp/B0CN3F9Y1Z)
  - Direct (PtP)
    - Cat 6a-7 point to point + [OREI 4K@120Hz Balun Extender](https://www.amazon.com/OREI-120hz-Ethernet-Extender-UltraHD/dp/B0D5FDPRTL) + [USB extender w/point-to-point ethernet](https://www.amazon.com/dp/B08D6MVCR6?ref=ppx_pop_mob_ap_share) / [USB 3 Active](https://www.amazon.com/BlueRigger-Active-Extension-Meters-Repeater/dp/B087LSFS6R/)+[Hub](https://www.amazon.com/Multiple-Splitter-Laptop-Extender-Windows/dp/B0CN3F9Y1Z)
 - Remote
