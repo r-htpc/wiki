@@ -1,5 +1,6 @@
 ---
 description: Information on components you should consider for a HTPC build. Cases/CPUs/GPUs/Motherboards/Memory/Storage/PSUs/Cooling, Video Cables/Adapters, Remotes, Keyboards
+keywords: [htpc, htpc components, htpc remote, htpc keyboard, htpc case, htpc cpu, htpc gpu, htpc odd, htpc hdmi]
 ---
 
 # Hardware Components Guide
