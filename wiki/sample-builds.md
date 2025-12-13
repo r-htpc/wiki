@@ -445,11 +445,11 @@ TOTAL	|										|$755	|					|
 
 <!-- Sub-Section -->
 
-### CHEAPEST 4K HDR/ALL-IN-ONE PLAYER - NEW (12L)
+### CHEAPEST 4K HDR/ALL-IN-ONE PLAYER - NEW (8-12L)
 
 TL;DR: You want 4K@60 local/youtube/netflix HDR on a real PC, may want HDD media storage and want the cheapest build with new hardware that we're comfortable recommending.  
 
-Not the prettiest case, but slim and gets the job done at 12 liters.  
+Not the prettiest cases, but slim and gets the job done at <= 12 liters.  
 
 Light 720p gaming can be had here, if you need.  
 
@@ -459,11 +459,11 @@ You can add one or more 3.5" HDD content storage for an all-in-one.
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
-CASE	|InWin Slim MicroATX BL040 Case w/300W PSU		|$100	|[amazon](https://www.amazon.com/InWin-BL040-mATX-Desktop-Black/dp/B0964K2W4R)	|13" x 14.4" x 3.8"
+CASE	|InWin Slim mATX Case w/250W+ PSU (BL040/BL631/CK709/CJ712/CK722)		|$100	|[amazon](https://www.amazon.com/InWin-BL040-mATX-Desktop-Black/dp/B0964K2W4R)	|13" x 14.4" x 3.8"
 MOBO	|ASRock B450M-HDV R4.0 MicroATX				|$60  	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&s=33&sort=price&f=7)	| 
-CPU	|AMD Ryzen 3200G (65W)				|$80	|[pcpartpicker](https://pcpartpicker.com/product/J8drxr/amd-ryzen-3-3200g-36-ghz-quad-core-processor-yd3200c5fhbox)	|ALT: Ryzen 5500GT ($110) 
-MEM	|G.Skill Value DDR4-2400 2x4GB		|$25  	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&sort=price&Z=8192002,16384002&ff=ddr4)	|
-STORAGE	|Patriot P300 256GB M.2 SSD (OS/APPS)				|$20	|[pcpartpicker](https://pcpartpicker.com/product/rWxbt6/patriot-p300-256-gb-m2-2280-nvme-solid-state-drive-p300p256gm28)	|
+CPU	|AMD Ryzen 3200G (65W)				|$65	|[pcpartpicker](https://pcpartpicker.com/product/J8drxr/amd-ryzen-3-3200g-36-ghz-quad-core-processor-yd3200c5fhbox)	|ALT: Ryzen 5500GT ($110) 
+MEM	|>= DDR4-2400 2x4GB		|$30  	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&sort=price&Z=8192002,16384002&ff=ddr4)	|
+STORAGE	|Patriot P300 256GB M.2 SSD (OS/APPS)				|$30	|[pcpartpicker](https://pcpartpicker.com/product/rWxbt6/patriot-p300-256-gb-m2-2280-nvme-solid-state-drive-p300p256gm28)	|
 STORAGE			|4TB 7200rpm 3.5" HDD			|$40	|[disctech](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/4TB?order=onlinecustomerprice:asc&show=48)	|OPTIONAL. ALT: [10TB+ ($120+)](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/10TB_12TB_14TB_16TB_18TB_20TB_22TB_24TB_6TB_7TB_8TB?order=onlinecustomerprice:asc)
 TOTAL	|							|$285  	|	|
 
