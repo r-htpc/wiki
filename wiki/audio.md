@@ -650,12 +650,13 @@ The following things may fix and/or help you identify your problem:
 5. If the content is coming from over a network, copy it to local storage on the HTPC. Test again.
 6. Your HDMI port may be going to an idle, power-saving state. Use [Sound Keeper](https://github.com/vrubleg/soundkeeper) to keep it alive.
 7. If you're bitstreaming an audio codec in your media player, disable it to decode the codec to PCM. Test again. If you usually are decoding the codec, enable bitstreaming for it, where possible. Test different audio codecs to see if the issue is specific to certain codecs.
-8. If you're using HDMI/DP for your audio, try newer or older versions of your GPU drivers.
-9. Run the [LatencyMon](https://www.resplendence.com/latencymon) utility during playback to help identify drop-out causes by other system hw/drivers.
-10. Replace your [video](/wiki/components#video-cablesadapters)/[audio](/wiki/audio#accessories) cables, perhaps due to loss of signal integrity because of excessive length, excessive terminations, bad cable quality and/or too high a resolution/refresh rate.
-11. Run your audio through a different path, or in the most direct path to the sound system, to narrow down hardware causing the issue. See the scenarios at the beginning of this page for the most optimal setups.
-12. Re-install your operating system to a clean state and test your content again before installing everything else.
-13. Install a different version of your operating system. e.g. Windows 10 instead of 11. Install a different operating system (e.g. linux, libreelec to confirm or dis-confirm the behavior).
+8. Test with a different media player
+9. If you're using HDMI/DP for your audio, try newer or older versions of your GPU drivers.
+10. Run the [LatencyMon](https://www.resplendence.com/latencymon) utility during playback to help identify drop-out causes by other system hw/drivers.
+11. Replace your [video](/wiki/components#video-cablesadapters)/[audio](/wiki/audio#accessories) cables, perhaps due to loss of signal integrity because of excessive length, excessive terminations, bad cable quality and/or too high a resolution/refresh rate.
+12. Run your audio through a different path, or in the most direct path to the sound system, to narrow down hardware causing the issue. See the scenarios at the beginning of this page for the most optimal setups.
+13. Re-install your operating system to a clean state and test your content again before installing everything else.
+14. Install a different version of your operating system. e.g. Windows 10 instead of 11. Install a different operating system (e.g. linux, libreelec to confirm or dis-confirm the behavior).
 
 <!-- Sub-Section -->
 
