@@ -141,7 +141,7 @@ Below are the minimum requirements for each scenario and a recommendation. The r
 
 - Single Slot, Low Profile: [Intel ARC A310](https://www.sparkle.com.tw/en/A310-ECO) ($100), [Yeston 1050 Ti](https://yestonstore.com/collections/gtx-10-series) ($135), [Yeston RTX 3050](https://yestonstore.com/collections/rtx-30-series) ($185)
 
-- madVR upscaling/tonemapping: >= GTX 1060 6GB / AMD RX 5600 (Rec: GTX 1660/RTX 3050 6GB) 
+- madVR upscaling/tonemapping: >= GTX 1060 6GB / AMD RX 5600 (Rec: Used: GTX 1660 Ti/Super, New: RTX 5050) 
 
 **GPU/CPU Feature Set Matrix:**
 
@@ -537,5 +537,5 @@ MX3 Pro			|	$20	|	RF		|	Yes	|	YES  | AAA	|	Remote, Mini keyboard, and Air Mouse
 
 ---
 
-*This page was last updated on 2025-12-01*
+*This page was last updated on 2025-12-19*
 
