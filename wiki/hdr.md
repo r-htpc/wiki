@@ -180,7 +180,7 @@ Simple, HDR passthrough, tonemapping and decent upscaling.
     * *Restart MPC-BE app*  
 * *Test*  
   * *MPC-BE app*  
-    * Play a [test HDR video](/wiki/hdr#hdr-tests) and press Ctrl+J to show stats. If "Times" stats are >= 35ms you're doing too much processing (like upscaling/tonemapping). If "Frames" shows significant skipped frames, your GPU isn't powerful enough. [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
+    * Play a [test HDR video](/wiki/hdr#hdr-tests) and press Ctrl+J to show stats. If "Times" stats are >= 33ms for 30fps, you're doing too much processing (like upscaling/tonemapping). If "Frames" shows significant skipped frames, your GPU isn't powerful enough. [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
 
 ### **MPC-HC/MPC-BE + madVR**
 
@@ -294,7 +294,7 @@ Advanced, more powerful dynamic tonemapping, high-end upscaling and processing t
     * *Restart MPC-HC/BE app*  
 * *Test*  
   * *MPC-HC/BE app*  
-    *  Play a [test HDR video](/wiki/hdr#hdr-tests) and press Ctrl+J to show stats. If avg/max rendering stats are >= 35ms, you're either doing too much madVR processing or your GPU isn't powerful enough. [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
+    *  Play a [test HDR video](/wiki/hdr#hdr-tests) and press Ctrl+J to show stats. If avg/max rendering stats are >= 33ms for 30fps, you're either doing too much madVR processing or your GPU isn't powerful enough. [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
 * *Update MadVR* (OPTIONAL)  
   * If you want newer, beta madVR features, after validating your setup, [download madVR beta](https://madshi.net/madVRhdrMeasure113.zip), unzip and copy the files into C:\Program Files (x86)\K-Lite Codec Pack\Filters\madVR\  
 
@@ -427,7 +427,7 @@ Advanced, current way to integrate madVR into Kodi for passthrough, dynamic tone
 
 * *Test*
   * *Kodi app*
-    * Play a [test HDR video](/wiki/hdr#hdr-tests) and press Ctrl+J to show stats. If avg/max rendering stats are >= 35ms, you're either doing too much madVR processing or your GPU isn't powerful enough. [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
+    * Play a [test HDR video](/wiki/hdr#hdr-tests) and press Ctrl+J to show stats. If avg/max rendering stats are >= 33ms for 30fps, you're either doing too much madVR processing or your GPU isn't powerful enough. [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
 
 * *Update MadVR* (OPTIONAL)
   * If you want newer, beta madVR features, after validating your setup, [download madVR beta](https://madshi.net/madVRhdrMeasure113.zip), unzip and copy the files into C:\Program Files (x86)\K-Lite Codec Pack\Filters\madVR\  
@@ -487,7 +487,7 @@ Advanced, OLD way to integrate madVR into Kodi for passthrough, tonemapping, and
 
 * *Test*
   * *Kodi app*
-    * Play a [test HDR video](/wiki/hdr#hdr-tests) and press Ctrl+J to show stats. If avg/max rendering stats are >= 35ms, you're either doing too much madVR processing or your GPU isn't powerful enough. [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
+    * Play a [test HDR video](/wiki/hdr#hdr-tests) and press Ctrl+J to show stats. If avg/max rendering stats are >= 33ms for 30fps, you're either doing too much madVR processing or your GPU isn't powerful enough. [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
 * *Update MadVR* (OPTIONAL)
   * If you want newer, beta madVR features, after validating your setup, [download madVR beta](https://madshi.net/madVRhdrMeasure113.zip), unzip and copy the files into C:\Program Files (x86)\K-Lite Codec Pack\Filters\madVR\  
 
@@ -672,11 +672,12 @@ Simple, Tonemapping
 
 ## MadVR Performance Settings Per GPU
 
-WARNING: These settings are for more intensive image processing/scaling of <= 1080p to 4k, that is **NOT** necessary for just HDR passthrough. They are not the end all to be all and best when configured with resolution-conditional profiles, which are beyond the scope of this page.  
+WARNING: These settings are for more intensive image processing/scaling of <= 1080p to 4k, that is **NOT** necessary for just HDR passthrough.  
+They are not the end all to be all and are best when configured with [resolution-conditional profiles](https://yabb.jriver.com/interact/index.php?topic=124136.0) to limit upscaling on higher resolutions, like 4K, which are beyond the scope of this page.  
 The settings below are also **conservative** so you don't have to spend hours wasting your time with stuttering due to high rendering times and diminishing returns. **Test with the default settings above before changing to any of these**. Don't test higher tiers until you test the conservative ones first.  
 This doesn't mean that they're not gpu intensive; they most certainly are.  
 If you can't handle the GPU load/noise/heat these settings produce, turn them down or go back to the madvr Bilinear defaults.   
-Related: [What are the best ways for scaling video?](/wiki/video#what-are-the-best-ways-for-scaling-video), [madVR settings](https://forum.doom9.org/showthread.php?p=1709584)  
+Related: [What are the best ways for scaling video?](/wiki/video#what-are-the-best-ways-for-scaling-video), [madVR beginner scaling](https://yabb.jriver.com/interact/index.php?topic=124136.0), [madVR settings](https://forum.doom9.org/showthread.php?p=1709584)  
 
 GPU|IMAGE UPSCALING|IMAGE DOUBLING|IMAGE DOWNSCALING|CHROMA UPSCALING|DITHERING
 :--|:--|:--|:--|:--|:--
@@ -761,7 +762,7 @@ AMD RX >= 67xx|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Dif
     * *Restart MPC-BE app*  
 * *Test*  
   * *MPC-HC/BE app*  
-    *  Play a [test HDR video](/wiki/hdr#hdr-tests) and press Ctrl+J to show stats. If avg/max rendering stats are >= 35ms, you're either doing too much madVR processing or your GPU isn't powerful enough. [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
+    *  Play a [test HDR video](/wiki/hdr#hdr-tests) and press Ctrl+J to show stats. If avg/max rendering stats are >= 33ms for 30fps, you're either doing too much madVR processing or your GPU isn't powerful enough. [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.  
 * *Update MadVR* (OPTIONAL)  
   * If you want newer, beta madVR features, after validating your setup, [download madVR beta](https://madshi.net/madVRhdrMeasure113.zip), unzip/copy all the FILES (NOT the directory itself) inside the zip into your previously-created %USERPROFILE%\madVR directory
 
@@ -775,5 +776,5 @@ AMD RX >= 67xx|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Dif
 
 ---
 
-*This page was last updated on 2025-12-02*
+*This page was last updated on 2025-12-19*
 
