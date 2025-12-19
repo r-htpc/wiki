@@ -670,7 +670,9 @@ Simple, Tonemapping
 [Ideal 4K HEVC HDR10 test](https://drive.google.com/uc?export=download&id=1Q2Ix3mXMl-EMs0-hE-C3gCHg_Uwh4HZz) - UHD Blu-Ray high bitrate test - 4k, HEVC, HDR10, 50-90Mbps, 10-bit, 29.97fps, mp4  
 [Dolby's HDR tests](https://ott.dolby.com/browser_test_kit/help_files/topics/r_test_signals_all.html#r_files_mp4_all_def) - Multiple resolutions, frame rates and HDR types - 480p->4k, HEVC, HDR10/HLG/DV, DD+Atmos, mp4  
 
-## MadVR Performance Settings Per GPU
+## Appendix
+
+### MadVR Performance Settings Per GPU
 
 WARNING: These settings are for more intensive image processing/scaling of <= 1080p to 4k, that is **NOT** necessary for just HDR passthrough.  
 They are not the end all to be all and are best when configured with [resolution-conditional profiles](https://yabb.jriver.com/interact/index.php?topic=124136.0) to limit upscaling on higher resolutions, like 4K, which are beyond the scope of this page.  
@@ -693,16 +695,6 @@ Nvidia GTX 980/1660 (Reg/Ti/Super)/3050 6GB|Jinc|NGU Standard Luma High|SSIM 1D+
 Nvidia GTX >= 1070/RTX 2060/3050 8GB|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Diff. #2
 AMD RX 56xx - 66xx|Jinc|NGU Standard Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Diff. #2
 AMD RX >= 67xx|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Diff. #2
-
-## Android (This section is Deprecated, see Common Settings)
-
-* *Requirements:*  
-  * TV/Projector: HDMI >= 2.0/DisplayPort >= 1.3, HDR10, 10-bit panel, [VESA DisplayHDR](https://displayhdr.org/) >= 600  
-* *TV/Projector settings:*  
-  * GPU Connected to HDMI >= 2.0/DisplayPort >= 1.3 port  
-  * UHD Deep Color/Input Signal Plus turned On for your HDMI port. Setting name dependent on TV mfgr.
-
-## Appendix
 
 ### Alternate MPC-HC/MPC-BE + madVR Install Method
 
