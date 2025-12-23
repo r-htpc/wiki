@@ -59,7 +59,7 @@ Some of these are: **Intel (NUC), [Lenovo (ThinkCentre/IdeaCentre)](https://www.
 
 ### 4K HDR PLAYERS
 
-**TL;DR: A [Minisforum UM750L](https://www.amazon.com/MINISFORUM-UM690Pro-6900HX-Desktop-Computer/dp/B0CTTPPZQS?th=1) or better ($300+) is ideal. If you're on a budget, then an Intel [N150](https://www.amazon.com/s?k=intel+n150+pc&rh=n%3A13896591011&ref=nb_sb_noss) for the bare minimum ($150)**  
+**TL;DR: A [Minisforum UM750L](https://www.amazon.com/MINISFORUM-UM690Pro-6900HX-Desktop-Computer/dp/B0CTTPPZQS?th=1) or better ($300+) is ideal. If you're on a budget, then an Intel [N150](https://www.amazon.com/s?k=intel+n150+pc&rh=n%3A13896591011&ref=nb_sb_noss) for the bare minimum ($200)**  
 **If you're looking for 4K Netflix/HDCP support, look at [name brand options](/wiki/sample-builds#specialized-4k-netflix)**
 
 $70-$85: SMALLEST: SBC: w/CoreELEC OS, 32GB MicroSD, AC Adapter 
@@ -71,7 +71,7 @@ $70-$85: SMALLEST: SBC: w/CoreELEC OS, 32GB MicroSD, AC Adapter
 $150-$400: SMALLER: Intel/AMD Mini PC, 8GB+ RAM, 256GB+ SSD
 
 - *Used for:* H264/H265, VP9, **AV1** local content, 4k YT, 4k Netflix **([name brand options](/wiki/sample-builds#specialized-4k-netflix))**, browsing, **int. M.2 storage**, plex server (intel), light gaming/4k@120hz (amd), lower power.  
-  - **Intel: [GMKtec G3 Plus](https://www.amazon.com/GMKtec-G3-Plus-Upgraded-Computer/dp/B0DM25BD7Y) (N150) ($150+)**
+  - **Intel: [GMKtec G3 Plus](https://www.amazon.com/GMKtec-mini-pc-desktop-computer-n150/dp/B0DN51KD9D?th=1) (N150) ($200+)**
   - **AMD: [Minisforum UM750L](https://www.amazon.com/MINISFORUM-UM690Pro-6900HX-Desktop-Computer/dp/B0CTTPPZQS?th=1) (7545U) ($300)**
   - Intel: MSI Cubi [NUC 1MG](https://www.amazon.com/s?k=msi+nuc+1MG&i=electronics&rh=n%3A172282%2Cp_123%3A378555&s=relevancerank&dc&crid=MU8G14916Q46&qid=1755365388&rnid=85457740011&sprefix=msi+nuc+1mg%2Celectronics%2C137&ref=sr_st_relevancerank&ds=v1%3A6L6WcQuOo8j2DNnQfr%2Fr8tJkpBHNwsfboKlRIPbn0pc) ($300+[RAM](https://pcpartpicker.com/products/memory/#xcx=0&Z=8192001,16384001,16384002,32768002&ff=ddr5_sodimm&sort=price)+[SSD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&t=0&D=1&A=240000000000,512000000000&sort=price&page=1)) / [Asus NUC 14 Pro](https://www.bhphotovideo.com/c/product/1814392-REG/asus_rnuc14rvki30000ui_nuc_14_pro_kit.html?ap=y&smp=Y) ($350+[RAM](https://pcpartpicker.com/products/memory/#xcx=0&Z=8192001,16384001,16384002,32768002&ff=ddr5_sodimm&sort=price&m=11,17,23,462,28,29,30,31,32,444,341)+[SSD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&t=0&D=1&A=240000000000,1000000000000&sort=price&page=1))  
   - AMD: [Minisforum UM690L](https://www.amazon.com/MINISFORUM-UM690-Slim-PCIe4-0-Computer/dp/B0DJSQWCX3/?th=1) (6900HX) ($400)
