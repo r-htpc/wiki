@@ -1020,7 +1020,7 @@ Audio Sync Tests: [1080p/H264/60fps/AAC](https://drive.google.com/uc?export=down
 
 ## Accessories
 
-NOTE: Splitters and Extractors are very similar, but extractors are usually geared towards non-display/audio-only outputs. Choose an extractor unless ydepending on pricing/availabiity in your region.  
+NOTE: Splitters and Extractors are very similar, but Extractors are usually geared towards non-display/audio-only outputs, whereas Splitters are geared towards multiple displays with some audio output. Choose less on the type, but more on the desired feature set, pricing, and availabiity in your region.  
 
 **HDMI Splitters**  
 
