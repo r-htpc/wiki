@@ -131,7 +131,7 @@ Thermalright AXP120-X67, Noctua NH-L12Sx77
 
 **CASE: Silverstone GD11**  
 AIO: Arctic Liquid Freezer III 240 AIO  
-AIR: [Noctua NH-D12L](https://www.reddit.com/r/htpc/comments/y7vpr0/fyi_the_noctua_nhd12l_fits_the_silverstone_gd11/)  
+AIR: [Noctua NH-D12L](https://www.reddit.com/r/htpc/comments/y7vpr0/fyi_the_noctua_nhd12l_fits_the_silverstone_gd11/) (Intel, AMD w/[NM-AMB15](https://www.amazon.com/dp/B0C3RJQNCP?tag=noctua0b-20))  
 
 &nbsp;
 
@@ -183,5 +183,5 @@ AIR: [Noctua NH-D12L](https://www.reddit.com/r/htpc/comments/y7vpr0/fyi_the_noct
 
 --- 
 
-*This page was last updated on 2025-06-19*
+*This page was last updated on 2025-12-23*
 
