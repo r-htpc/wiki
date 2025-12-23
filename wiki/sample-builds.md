@@ -583,7 +583,7 @@ The Node 304 is tailor made for this kind of NAS and the Intel CPU will give you
 
 Nothing else here is too surprising. High value ram and ssd perform well and don't break the bank.  
 
-This is configured below with 24TB of usable space with protection (12TBx3 = 36TB - 12TB parity drive = 24TB), but you can pack it all the way up to 110TB usable with protection (6x22TB-22TB parity). We use highly reliable, well-priced Exos/Ultrastar HDDs here.   
+This is configured below with 24TB of usable space with protection (12TBx3 = 36TB - 12TB parity drive = 24TB), but you can pack it all the way up to 110TB usable with protection (6x22TB-22TB parity). We use highly reliable enterprise HDDs here.   
 
 If you want to bulk up past 6 drives, look at the Node 804 or Jonsbo N4 for up to 10 drives, with the uATX motherboard and the optional HBA in the parts list.  
 
@@ -597,7 +597,7 @@ MOBO|ASRock B760M-ITX/D4|$150|[pcpartpicker](https://pcpartpicker.com/products/m
 MEM|G.Skill Aegis 32GB 2x16GB DDR4-3200|$100|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr4&S=3000,8400&Z=32768002&sort=price&page=1)|ALT: 16GB 2x8GB DDR4-3200 ($50)
 STORAGE|PNY Attache 4 32GB USB Flash Drive (BOOT)|$12|[amazon](https://www.amazon.com/PNY-Attache-Drives-3-Pack-P-FD32GX3ATT4-GE/dp/B07YVY2H1J)| USB 2.0 for low heat/longevity
 STORAGE|WD SN7100 1TB NVMe M.2 SSD (APP/CACHE)|$70|[pcpartpicker](https://pcpartpicker.com/product/MYP8TW/western-digital-wd_black-sn7100-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds100t4x0e-00cja0)|ALT: [SK Hynix P41 1TB](https://pcpartpicker.com/product/sw2WGX/sk-hynix-platinum-p41-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-shpp41-1000gm-2)
-STORAGE|3 x Seagate Exos X14 12TB HDD (DATA)|$540|[disctech](https://www.disctech.com/Seagate-Exos-X14-ST12000NM0538-12TB-3.5-LFF-6Gbps-7.2K-RPM-FastFormat-512e-Enterprise-SATA-Hard-Disk)| SEPARATE. ALT: [Ultrastar HC530 14TB](https://www.disctech.com/interface-types/SATA?order=relevance:asc&keywords=hc530) (better $/GB)
+STORAGE|3 x Ultrastar/Exos/Ironwolf 12TB HDD (DATA)|$750|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#sort=price&A=12000000000000,36000000000000&f=2&c1=di_sata.60)| SEPARATE. ALT: Refurb: [serverpartdeals](https://serverpartdeals.com/collections/sata-hard-drives?pf_t_capacity=capacity%3A12TB&pf_t_capacity=capacity%3A14TB&pf_t_capacity=capacity%3A16TB&pf_t_capacity=capacity%3A18TB&pf_t_capacity=capacity%3A20TB&pf_t_capacity=capacity%3A22TB&pf_t_capacity=capacity%3A24TB&pf_t_capacity=capacity%3A30TB&pf_t_capacity=capacity%3A28TB&pf_t_capacity=capacity%3A26TB&sort=number-extra-sort1-ascending)
 STORAGE|IBM M1110 (x4)/LSI 9211-8i (x8) HBA - IT mode|$30|[ebay](https://www.ebay.com/sch/i.html?_nkw=%289211%2Cm1110%29&_sacat=56091&_from=R40&_trksid=m570.l1313&_dmd=1&_odkw=%289211%2Cm1110%29+%2Bcables&_osacat=56091&_sop=15&_ipg=60)|OPTIONAL. For more SATA ports + [cables](https://www.ebay.com/sch/i.html?_nkw=8087+cables&_sacat=0&_from=R40&_sop=15). 
 COOL|Noctua NH-U12S Redux CPU Cooler|$50|[pcpartpicker](https://pcpartpicker.com/product/vV7G3C/noctua-nh-u12s-redux-7075-cfm-cpu-cooler-nh-u12s-redux)|ALT: be quiet Pure Rock 2 ($40)
 PSU|Corsair RM/CX 650-750W|$75|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=1&A=500000000000,750000000000&p=1,3,2&sort=price&m=8,337,50,11,14,106,101,17,18,58,62,824,27,28,94,29,229,51,71,63,441,113,56,39,60&e=4,3,2,1)|ALT: EVGA/Seasonic
@@ -616,7 +616,7 @@ collectively produce a lot of heat. See our [Storage Setup Guide](/wiki/storage#
 The CPU may seem meager, not being a K sku, but we don't need much power, we mostly want the iGPU for hardware media transcoding and the specced cooler is 
 more than enough for this 65W CPU. If you opt for the 12600K, move up to the Peerless Assassin cooler.  
 
-We use highly reliable, well-priced Seagate Exos HDDs here for our data. Alternatively, WD Ultrastar drives are just as good. Since this is the bulk of our 
+We use highly reliable enterprise HDDs here for our data. Alternatively, refurb drives can be had for some savings. Since this is the bulk of our 
 cost, find the best price you can and, if you can, order from multiple vendors to get different batches of drives.  
 
 We configure this build for 126TB of usable space with dual-parity protection (14TBx11 = 154TB total - 28TB parity = 126TB usable) to show the potential of what's possible. If you want to start with smaller-sized or a smaller number of drives and mix-and-match sizes later, you can do that, but your parity drive(s) should be as big as the largest usable data drive you plan on having. It is also not recommended to go over 6 usable data drives per parity drive.  
@@ -631,7 +631,7 @@ For app/cache storage, such things as VMs, Docker data and media caching, we hav
 
 Unraid will boot off the USB flash drive, so we have a reliable USB 2.0 one here, with backups.  
 
-Lots of well-priced DDR5 RAM for VMs, Dockers and, if you so choose, Plex media transcoding in RAM.  
+Lots of DDR5 RAM for VMs, Dockers and, if you so choose, Plex media transcoding in RAM.  
 
 If you want a system with ECC memory and a workstation mobo, see our [pcpartpicker part list](https://pcpartpicker.com/list/yvMQ6Q).  
 
@@ -649,10 +649,10 @@ PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 CASE		|	Fractal Design Meshify 2			|	$130	|	[pcpartpicker](https://pcpartpicker.com/product/6KWBD3/fractal-design-meshify-2-atx-mid-tower-case-fd-c-mes2a-01)	|[[specs](https://www.fractal-design.com/products/cases/meshify/meshify-2/black-tg-dark-tint/)]. ALT: Fractal Design Define 7 ($160)
 CPU		|	Intel i5-12500 6C/12T CPU (65W)			|	$180	|	[pcpartpicker](https://pcpartpicker.com/product/hvC48d/intel-core-i5-12500-3-ghz-6-core-processor-bx8071512500)	|ALT: [Intel i5-12600k](https://pcpartpicker.com/product/BB4Ycf/intel-core-i5-12600k-37-ghz-6-core-processor-bx8071512600k)
 MOBO		|MSI Z790 Tomahawk Max DDR5 ATX			|	$250	|	[pcpartpicker](https://pcpartpicker.com/product/DpV2FT/msi-mag-z790-tomahawk-max-wifi-atx-lga1700-motherboard-mag-z790-tomahawk-max-wifi)	|ALT: [Other DDR5 Motherboards](https://pcpartpicker.com/products/motherboard/#h=2,8&K=6,13&sort=price&c0=1x2500-1x1000,1x2500&xcx=0&s=40&f=2,7&mt=ddr5)
-MEM		|	G.Skill Ripjaws S5 64GB (2x32GB) DDR5-6000	|	$160	|	[pcpartpicker](https://pcpartpicker.com/product/6npQzy/gskill-ripjaws-s5-64-gb-2-x-32-gb-ddr5-6000-cl36-memory-f5-6000j3636f32gx2-rs5k)	| ALT: [32GB (2x16GB) DDR5](https://pcpartpicker.com/products/memory/#xcx=0&Z=32768002&sort=price&ff=ddr5&S=5600,8400)
+MEM		|	G.Skill Ripjaws S5 64GB (2x32GB) DDR5-6000	|	$300	|	[pcpartpicker](https://pcpartpicker.com/product/6npQzy/gskill-ripjaws-s5-64-gb-2-x-32-gb-ddr5-6000-cl36-memory-f5-6000j3636f32gx2-rs5k)	| ALT: [32GB (2x16GB) DDR5](https://pcpartpicker.com/products/memory/#xcx=0&Z=32768002&sort=price&ff=ddr5&S=5600,8400)
 STORAGE		|	PNY Attache 4 32GB USB Flash Drive (BOOT)	|	$12 |	[amazon](https://www.amazon.com/PNY-Attache-Drives-3-Pack-P-FD32GX3ATT4-GE/dp/B07YVY2H1J)		| USB 2.0 for low heat/longevity
 STORAGE		|	2x SK Hynix P41 1TB NVMe M.2 SSD (APP/CACHE)	|	$160	|	[pcpartpicker](https://pcpartpicker.com/product/sw2WGX/sk-hynix-platinum-p41-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-shpp41-1000gm-2)	|ALT: Samsung 990 Pro
-STORAGE		|	11x Seagate Exos X16 14TB SATA HDD (DATA)		|	$2300	|	[disctech](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/14TB/manufacturer/Seagate?order=onlinecustomerprice:asc)	| SEPARATE. ALT: WD Ultrastar DC HC530 14TB
+STORAGE		|	11x Ultrastar/Exos/Ironwolf 14TB SATA HDD (DATA)		|	$2750	|	[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#sort=price&A=14000000000000,36000000000000&f=2&c1=di_sata.60)	| SEPARATE. ALT: Refurb: [serverpartdeals](https://serverpartdeals.com/collections/sata-hard-drives?pf_t_capacity=capacity%3A12TB&pf_t_capacity=capacity%3A14TB&pf_t_capacity=capacity%3A16TB&pf_t_capacity=capacity%3A18TB&pf_t_capacity=capacity%3A20TB&pf_t_capacity=capacity%3A22TB&pf_t_capacity=capacity%3A24TB&pf_t_capacity=capacity%3A30TB&pf_t_capacity=capacity%3A28TB&pf_t_capacity=capacity%3A26TB&sort=number-extra-sort1-ascending)
 STORAGE		|	LSI 9207-8i HBA (x8) + Cables - IT mode	|	$40	|	[ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=9207+8i+%2Bcables&_sacat=0&LH_TitleDesc=0&_dmd=1&_stpos=80232-6476&_odkw=9201+%2B16i+%2Bcables&_osacat=0&_sop=15&LH_PrefLoc=2&_ipg=60&_sadis=15)	|ALT: [Adaptec ASR 71605 (x16)](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=adaptec+asr+71605+%2Bcables&_sacat=0&LH_TitleDesc=0&_odkw=Adaptec+ASR+71605&_osacat=0) ($50)
 STORAGE          |       SATA Power Splitter Cables                                  |       $15  |       [amazon](https://www.amazon.com/Cable-Matters-Pack-Power-Splitter/dp/B012BPLW08)   |  
 COOL		|	Arctic P14 PWM 140 mm Fan (FRONT)		|	$15	|	[amazon](https://www.amazon.com/dp/B07GZJY4TM?tag=pcpapi-20&linkCode=ogi&th=1&psc=1)		|
@@ -662,7 +662,7 @@ PSU		|	SeaSonic FOCUS Plus 750 Gold ATX PSU	|	$100	|	[pcpartpicker](https://pcpa
 SOFTWARE	|	Unraid Unleashed - Unlimited device license		|	$110	|	[limetech](https://unraid.net/pricing)	|
 SOFTWARE	|	Plex Media Server				|	$0	|	[Plex](https://www.plex.tv/downloads)		|Free
 LICENSE		|	Plex Pass					|	$250	|	[Plex](https://www.plex.tv/plex-pass/)		|OPTIONAL. Lifetime cost or $70/year, $7/month.
-TOTAL		|							|	$1222	|			|
+TOTAL		|							|	$1362	|			|
 
 <!-- Sub-Section -->
 
