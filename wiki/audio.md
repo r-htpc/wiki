@@ -218,7 +218,7 @@ This will give you a primary display for video output and a secondary, extended 
 
  Audio supported: All  
 
-**Scenario #4** - Your display does not have any or a decent (e)ARC port for Scenario #2, you have a sound system with display capabilities less-than your display (#1), and you don't want to use multiple display outs to set up an extended display in your OS for separate video/audio (#3).
+**Scenario #4** - Your display does not have any or a decent (e)ARC port for Scenario #2, you don't have a sound system with resolution/refresh pass-through capabilities >= your display (#1), and/or you don't want to use multiple display outs to set up an extended display in your OS for separate video/audio (#3).
 
 <!-- <img src="https://i.imgur.com/f2qsP4W.png" width="550" height="300" alt="DIAGRAM"> -->
 <img src="https://i.imgur.com/vpUWS5B.png" width="550" height="300" alt="DIAGRAM">
