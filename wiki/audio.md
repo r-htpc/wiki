@@ -218,25 +218,30 @@ This will give you a primary display for video output and a secondary, extended 
 
  Audio supported: All  
 
-**Scenario #4** - Your HTPC does/does not have multiple display outputs (either hdmi or displayport), you want full audio support, but you don't want to set up a cloned or extended display in windows for separate video/audio
+**Scenario #4** - Your display does not have any or a decent (e)ARC port for Scenario #2, you have a sound system with display capabilities less-than your display (#1), and you don't want to use multiple display outs to set up an extended display in your OS for separate video/audio (#3).
 
-<img src="https://i.imgur.com/f2qsP4W.png" width="550" height="300" alt="DIAGRAM">
+<!-- <img src="https://i.imgur.com/f2qsP4W.png" width="550" height="300" alt="DIAGRAM"> -->
+<img src="https://i.imgur.com/vpUWS5B.png" width="550" height="300" alt="DIAGRAM">
 
-This is an alternative to Scenario #3 where you don't want to deal with multiple displays in windows either out of navigational or visual annoyance due to driving multiple display outputs. It could also be used with a single display output (e.g. APU) where you want full audio support but don't have eARC on your display. If you have only an ARC/eARC port on your sound system (like a cheaper soundbar), use a [HDMI Splitter](/wiki/audio#accessories) with an eARC output.  
+This is primarily an alternative to Scenario #2 where your display doesn't support (e)ARC and where you don't want to or can't use Scenario #3 to solve this with multiple display outputs in your OS, either out of navigational or visual annoyance.  
+This can be done with an HDMI Audio Extractor or a Splitter, depending on the display requirements.  
+An Extractor is more common and usually used with a single display and audio outputs, ideally HDMI-based ones like AVRs/Soundbars with an HDMI In, or Soundbars with only an HDMI (e)ARC port. Using an extractor to extract an HDMI audio signal to optical or 3.5mm analog should be a last resort, as there are better [PCIe/USB-based options](/wiki/audio#accessories) to do this straight from your HTPC (Scenario #5), without interrupting the HDMI signal.  
+A Splitter is used for multiple display outputs.  
+Sometimes these terms are used interchangeably. See the [Accessories](/wiki/audio#accessories) section for recommendations, reading the options carefully.  
+Note that not these devices are built the same and can vary dramatically in price, depending on feature set and reliability.   
 
-You will use an HDMI splitter to split/clone the source signal and send the same signal to both your display and sound system. Note that not all splitters are built the same and can vary dramatically in price, depending on feature set and reliability. See the [accessories](/wiki/audio#accessories) section.  
-
-1. Connect the HTPC's primary HDMI output to a [HDMI Splitter](/wiki/audio#accessories).
-2. Connect the 1st output of the HDMI Splitter to your Display.  
-3. Connect the 2nd output of the HDMI Splitter to your Sound system.  
-4. Set the dip switches on the HDMI Splitter to the desired behavior for display/edid priority.  
+1. Connect the HTPC's primary HDMI output to an [HDMI Extractor](/wiki/audio#accessories).
+2. Connect the 1st output of the HDMI Extractor to your Display.  
+3. Connect the 2nd output of the HDMI Extractor to your Sound system. For a splitter, 2nd output to your 2nd display.  
+4. Set the dip switches on the HDMI Extractor to the desired behavior for display/edid priority.  
 5. Configure your media players for the audio codecs you can support per [Software/OS Setup](/wiki/audio#softwareos-setup)  
 
- Video supported: Negotiated by HTPC and Splitter, set by dip switches.  
+ Video supported: Negotiated by HTPC and Extractor/Splitter, set by dip switches.  
 
- Audio supported: All  
+ Audio supported: *HDMI:* All. *Optical:* Stereo PCM/Lossy DD 5.1/DTS 5.1. *RCA:* Stereo/Surround analog. *3.5mm:* Stereo analog. [Gaming audio setup](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system)   
 
- NOTES: DRMed content may not work due to old HDCP support on splitters. CEC may not work. HDMI 2.1 splitters are rare and/or expensive. Displayport splitters have a limit of 4K@60Hz on the primary conn. when using audio on the secondary conn.  
+ NOTE: Extractors: These **WILL NOT DECODE** audio codecs; they just get passed through the output connector, so do not try to bitstream something like DD/DTS and use a sound system that doesn't support these codecs; you will get NO audio. You either have to decode the audio to PCM on your HTPC first or use a decoder box behind the HDMI/optical port.  
+ NOTE: Splitters: DRMed content may not work due to old HDCP support, CEC may not work, Displayport splitters have a limit of 4K@60Hz on the primary conn. when using audio on the secondary conn.  
 
 **Scenario #5** - Your HTPC does NOT have multiple display outputs, but does have an Optical/S/PDIF/3.5mm ports
 
@@ -250,9 +255,10 @@ In this scenario you will likely be bitstreaming through Optical, or in the case
 
  Video supported: Negotiated by HTPC and Display  
 
- Audio supported: Stereo PCM, Lossy DD 5.1/DTS 5.1 (optical) or Stereo/Surround analog (3.5mm). [Gaming audio setup](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system)  
+ Audio supported: *Optical:* Stereo PCM/Lossy DD 5.1/DTS 5.1. *3.5mm/RCA:* Stereo/Surround analog. [Gaming audio setup](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system)  
 
-**Scenario #6** - Your HTPC does NOT have multiple display outputs, does not have an Optical/SPDIF port, and your display does not have a HDMI ARC or Optical port
+<!--
+**Scenario #6** - DEPRECATED - See #4 - Your HTPC does NOT have multiple display outputs, does not have an Optical/SPDIF port, and your display does not have a HDMI ARC or Optical port
 
 <img src="https://i.imgur.com/vpUWS5B.png" width="550" height="300" alt="DIAGRAM">
 
@@ -269,8 +275,9 @@ If you have only an ARC/eARC port on your sound system (like a cheaper soundbar)
  Audio supported: HDMI (all), Stereo PCM, Lossy DD 5.1/DTS 5.1 (optical), Stereo PCM (RCA), or Stereo/Surround analog (3.5mm). [Gaming audio setup](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system)  
 
  NOTE: An audio extractor will not DECODE audio codecs, it just passes it through its output connector. If you send such a bitstreamed signal into it and expect audio out of its analog connectors, you will get NO audio; you either have to pass PCM in to get audio out of those connectors, or use an AVR/decoder box behind the HDMI/optical port.  
+-->
 
-**Scenario #7** - Your HTPC does have multiple display outputs (either hdmi or displayport) but your sound system does NOT have a HDMI port
+**Scenario #6** - Your HTPC does have multiple display outputs (either hdmi or displayport) but your sound system does NOT have a HDMI port
 
 <img src="https://i.imgur.com/jl7rIf7.png" width="550" height="300" alt="DIAGRAM">
 
@@ -284,7 +291,7 @@ If you have only an ARC/eARC port on your sound system (like a cheaper soundbar)
 
  Video supported: Negotiated by HTPC and Display  
 
- Audio supported: Stereo PCM, Lossy DD 5.1/DTS 5.1 (optical), Stereo PCM (RCA), or Stereo/Surround analog (3.5mm). [Gaming audio setup](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system)  
+ Audio supported: *Optical:* Stereo PCM/Lossy DD 5.1/DTS 5.1. *RCA:* Stereo/Surround analog. *3.5mm:*: Stereo/Surround analog. [Gaming audio setup](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system)  
 
  NOTE: An audio extractor will not DECODE Dolby/DTS audio, it just passes it through to the optical connector. If you send such a signal in and expect audio out of the RCA/3.5" connectors, you will get NO audio; you either have to pass PCM in to get audio out of those connectors, or use an AVR/decoder box behind the optical port, like [this](https://www.amazon.com/J-Tech-Digital-Optical-Toslink-Converter/dp/B01A1HQE38).  
 
@@ -1013,57 +1020,59 @@ Audio Sync Tests: [1080p/H264/60fps/AAC](https://drive.google.com/uc?export=down
 
 ## Accessories
 
+NOTE: Splitters and Extractors are very similar, but extractors are usually geared towards non-display/audio-only outputs. Choose an extractor unless ydepending on pricing/availabiity in your region.  
+
 **HDMI Splitters**  
 
-*Used to clone HDMI video output from GPU to TV, or send HD audio to older sound system where DRM/HDCP not a concern*  
+*Used to clone HDMI video output from GPU to TV, or send HD audio to HDMI-based sound systems where DRM/HDCP not a concern. "HDMI" below means non-(e)ARC HDMI, unless specified*  
 
-HDMI 2.0 (4K@60)  
+HDMI 2.1 (4K@120Hz)  
 
-**ViewHD [VHD-UHAE2](https://www.amazon.com/ViewHD-Extractor-Splitter-Support-Toslink/dp/B0755TB82Q)** - $50 - **Audio only port, EDID Options. Start with one of these for basic A/V splitting**. ALT: [UHD1X2SA](https://www.amazon.com/ViewHD-Splitter-Extractor-Optical-Receiver/dp/B07VQF75FW)  
+[EZcoo w/eARC](https://www.amazon.com/OREI-Extractor-Extract-Monitors-BK-929/dp/B0D951KMTM) - $100 - For splitting audio out to ARC/eARC-only sound system. 
 
-[EZcoo w/eARC](https://www.amazon.com/Splitter-Soundbar-Switch-Bi-Direction-Extractor/dp/B0BNSY3VKW) - $100 - For splitting audio out to ARC/eARC-only sound system.
+[Monoprice Blackbird](https://www.monoprice.com/product?p_id=44436) - $125 -  Should not be used for audio extraction to HDMI. More well-known brand, EDID Options, Adds Optical+3.5mm
 
-[SIIG 1x2](https://www.amazon.com/gp/product/B00YT6V9A6) - $45 - EDID Options
+[EZCoo 1x2](https://www.amazon.com/OREI-Splitter-Duplicate-Extractor-Supports/dp/B0BHL8LF1W), [EZCoo 1x4](https://www.amazon.com/OREI-Splitter-Duplicate-Extractor-Supports/dp/B0C5G92Z6Q) - $50-60 - Should not be used for audio extraction to HDMI. EDID options, Adds Optical+3.5mm
 
-[Egreat H10](https://www.geekbuying.com/item/Egreat-H10-4K-HDMI-Video-Audio-Splitter-389101.html) ([eccgeek](https://www.eccgeek.com/product/egreat-h10-4k-hdmi-2-0a-uhd-video-audio-splitter-dolby-true-hd-and-dts-hd-ma-email-protected-rgb-hdr-3d-black/)) - $105-140 - Plug n Play. Hard to find. Pricey depending on vendor.  
+[gofango 1x2](https://www.amazon.com/gofanco-60Hz-1x2-HDMI-Splitter/dp/B0CWS96G4V) - $60 -  Should not be used for audio extraction to HDMI. EDID options  
 
-[gofanco Prophecy](https://www.amazon.com/gofanco-Prophecy-Intelligent-60Hz-Splitter/dp/B079HJWF31?ref_=ast_sto_dp) - $55 - Good price, lots of EDID options. Not as reliable as AVR Key or Plug n Play as Egreat.  
+[Feintech 1x2](https://www.amazon.de/FeinTech-VAX01202-Extractor-Splitter-Delivers/dp/B08TX473Z8?ref_=ast_sto_dp&th=1) (Europe) - Ok for use as audio extractor to HDMI. EDID options.
+
+HDMI 2.0 (4K@60Hz)  
+
+**ViewHD [VHD-UHAE2](https://www.amazon.com/ViewHD-Extractor-Splitter-Support-Toslink/dp/B0755TB82Q)** - $50 - **Start with one of these for basic splitting to Sound System with normal HDMI In. Decent EDID Options**. ALT: [UHD1X2SA](https://www.amazon.com/ViewHD-Splitter-Extractor-Optical-Receiver/dp/B07VQF75FW)  
+
+[EZCoo w/eARC](https://www.amazon.com/OREI-Extractor-Extract-Passthrough-HDA-929/dp/B0CDNYH3WN) - $80 - For splitting audio out to ARC/eARC-only sound system. ALT: [EZCoo](https://www.amazon.com/SplitterARC-Soundbar-Switch-Bi-Direction-Extractor/dp/B0FGX8R55W) - Adds Switch, IR, and 2nd display option
+
+[gofanco Prophecy](https://www.amazon.com/gofanco-Prophecy-Intelligent-60Hz-Splitter/dp/B079HN327D) - $70 - 4xHDMI display outs, downscaling, EDID options. ALT: [SIIG](https://www.amazon.com/SIIG-HDMI-60Hz-Splitter-Management/dp/B07BX8JWV8)  
 
 [Wolfpack 1x2](https://www.hdtvsupply.com/1x2-hdmi-splitter-hdcp-2-2.html) - $75 - Unknown, but reported compatible with media devices (Shield, etc..)
 
+[Egreat H10](https://www.geekbuying.com/item/Egreat-H10-4K-HDMI-Video-Audio-Splitter-389101.html) - $105-140 - Plug n Play. Hard to find. Pricey depending on vendor.  
+
 [HDFury AVRKey 18Gbps](https://www.monoprice.com/product?p_id=30457) ([ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=fury+avr+key&_sacat=0&_odkw=avr+key&_osacat=0)) - $160 - Top of the line, but expensive and discontinued.   
-
-HDMI 2.1 (4K@120)  
-
-[Monoprice Blackbird](https://www.monoprice.com/product?p_id=44436)  
-
-[EZCoo 1x2](https://www.amazon.com/HDMI-Splitter-1x2-4K-120Hz/dp/B0B7W94LHB)  
-
-[Feintech 1x2](https://www.amazon.de/FeinTech-VAX01202-Extractor-Splitter-Delivers/dp/B08TX473Z8?ref_=ast_sto_dp&th=1) (Europe)  
 
 **HDMI Audio Extractors**  
 
-*Used to extract audio from HDMI between HTPC and TV and send it to AVR HDMI input, eARC, Optical or Analog Outputs. Passes Dolby/DTS to optical or HD/LCPM 7.1 to HDMI/analog. Does NOT decode audio codecs*  
+*Used to extract audio from HDMI between HTPC and TV and send it to Optical or Analog, HDMI input or eARC Outputs. Passes Dolby/DTS to optical or HD/LCPM 7.1 to HDMI/analog. Does NOT decode audio codecs*  
 
-HDMI 2.1 (4k@120)  
+HDMI 2.1 (4k@120Hz)  
 
-**[J-Tech](https://www.amazon.com/Extractor-Compatible-J-Tech-Digital-JTECH-AE8K/dp/B0CQTPSVCK?th=1) / [OREI](https://www.amazon.com/OREI-Extractor-Converter-Support-48Gbps/dp/B0D4C5YWDH) ($75) - HDMI/Optical/3.5mm - Extracts HD audio from HTPC to non-eARC AVR**
+**[OREI](https://www.amazon.com/OREI-Extractor-Converter-Support-48Gbps/dp/B0D4C5YWDH) - $75 - HDMI - Extracts HD audio from HTPC to Sound System with normal HDMI In**
 
-[Cable Matters w/eARC](https://www.amazon.com/Cable-Matters-Extractor-Amplifier-Soundbars/dp/B0D32BKL2J) - HDMI - Extracts HD Audio from HTPC and/or TV to eARC Soundbar or non-eARC AVR
+[Cable Matters w/eARC](https://www.amazon.com/Cable-Matters-Extractor-Amplifier-Soundbars/dp/B0D32BKL2J) - $95 - eARC HDMI+HDMI+Optical+3.5mm - Extracts HD Audio from HTPC and/or TV to eARC Soundbar or non-eARC AVR. ALT: [J-tech](https://www.amazon.com/J-Tech-Digital-Extractor-Converter-JTECH-8KAE/dp/B0FGKVF9ZS) 
 
-[Navceker](https://www.navceker.com/products/hdmi-2-1-audio-extractor) - HDMI+Optical+3.5mm Stereo - Extracts HD audio from HTPC to non-eARC AVR  
+[Navceker](https://www.navceker.com/products/hdmi-2-1-audio-extractor) - HDMI+Optical+Coax+3.5mm Stereo - Extracts HD audio from HTPC to non-eARC AVR  
 
 [OREI](https://www.amazon.com/2x1-HDMI-Switcher-Audio-Out/dp/B00MNGIP2Y) - Optical+3.5mm Stereo - Switch that doubles as an extractor; cheaper than a splitter  
 
 <!-- [OREI w/eARC](https://www.amazon.com/OREI-Extractor-Extract-Monitors-BK-929/dp/B0D951KMTM) - HDMI - Extracts HD Audio to eARC Soundbar -->
 
-HDMI 2.0 (4k@60)  
+HDMI 2.0 (4k@60Hz)  
 
-**ViewHD [VHD-UHAE2](https://www.amazon.com/ViewHD-Extractor-Splitter-Support-Toslink/dp/B0755TB82Q) ($50) - HDMI outs - Extracts HD audio to AVR via audio only HDMI port, EDID Options**  
+**ViewHD [VHD-UHAE2](https://www.amazon.com/ViewHD-Extractor-Splitter-Support-Toslink/dp/B0755TB82Q) - $50 - HDMI - Extracts HD audio to Sound System with normal HDMI In. EDID Options**  
 
-[OREI](https://www.amazon.com/OREI-Extractor-Extract-Passthrough-HDA-929/dp/B0CDNYH3WN/) - eARC HDMI + HDMI - Extracts HD audio to AVR or eARC soundbar via HDMI. ALT: [optical version](https://www.amazon.com/OREI-Audio-Extractor-Converter-Support/dp/B0C7LK48ZX)
-
-[Ezcoo](https://www.amazon.com/Splitter-Soundbar-Switch-Bi-Direction-Extractor/dp/B0BNSY3VKW) - eARC HDMI + Optical - Extracts HD audio to eARC soundbar via HDMI
+[OREI w/eARC](https://www.amazon.com/OREI-Extractor-Extract-Passthrough-HDA-929/dp/B0CDNYH3WN/) - $80 - eARC HDMI+HDMI - Extracts HD audio to AVR or eARC soundbar via HDMI. ALT: [OREI](https://www.amazon.com/OREI-Audio-Extractor-Converter-Support/dp/B0C7LK48ZX) - Add Optical+3.5mm
 
 [Monoprice](https://www.monoprice.com/product?p_id=24278) / [J-Tech](https://www.amazon.com/J-Tech-Digital-Extractor-Passthrough-JTD18G-H5CH/dp/B074HHSJVN) / [OREI](https://www.amazon.com/OREI-HDA-912-Audio-Converter-Extractor/dp/B07BHYXVTY) - Optical+3.5mm Stereo  
 
@@ -1146,5 +1155,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2025-11-25*
+ *This page was last updated on 2025-12-23*
 
