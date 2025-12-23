@@ -602,7 +602,7 @@ STORAGE|IBM M1110 (x4)/LSI 9211-8i (x8) HBA - IT mode|$30|[ebay](https://www.eba
 COOL|Noctua NH-U12S Redux CPU Cooler|$50|[pcpartpicker](https://pcpartpicker.com/product/vV7G3C/noctua-nh-u12s-redux-7075-cfm-cpu-cooler-nh-u12s-redux)|ALT: be quiet Pure Rock 2 ($40)
 PSU|Corsair RM/CX 650-750W|$75|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=1&A=500000000000,750000000000&p=1,3,2&sort=price&m=8,337,50,11,14,106,101,17,18,58,62,824,27,28,94,29,229,51,71,63,441,113,56,39,60&e=4,3,2,1)|ALT: EVGA/Seasonic
 SOFTWARE|Unraid Starter - 6 device license|$50|[limetech](https://unraid.net/pricing)|
-TOTAL||$757||
+TOTAL||$767||
 
 <!-- Sub-Section -->
 
