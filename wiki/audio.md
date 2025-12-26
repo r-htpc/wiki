@@ -1072,6 +1072,8 @@ HDMI 2.0 (4k@60Hz)
 
 **ViewHD [VHD-UHAE2](https://www.amazon.com/ViewHD-Extractor-Splitter-Support-Toslink/dp/B0755TB82Q) - $50 - HDMI - Extracts HD audio to Sound System with normal HDMI In. EDID Options**  
 
+[Evolve II](https://www.essenceelectrostatic.com/product/evolve-ii-4k-hdmi-v2-0b-multi-channel-hi-res-audio-dac-for-4k-sources-and-tvsdac-for-4k-sources-and-tvs/) - $350 - RCA 7.1+Optical - Extracts and decodes HD codecs to PCM and and outputs analog surround.  
+
 [OREI w/eARC](https://www.amazon.com/OREI-Extractor-Extract-Passthrough-HDA-929/dp/B0CDNYH3WN/) - $80 - eARC HDMI+HDMI - Extracts HD audio to AVR or eARC soundbar via HDMI. ALT: [OREI](https://www.amazon.com/OREI-Audio-Extractor-Converter-Support/dp/B0C7LK48ZX) - Add Optical+3.5mm
 
 [Monoprice](https://www.monoprice.com/product?p_id=24278) / [J-Tech](https://www.amazon.com/J-Tech-Digital-Extractor-Passthrough-JTD18G-H5CH/dp/B074HHSJVN) / [OREI](https://www.amazon.com/OREI-HDA-912-Audio-Converter-Extractor/dp/B07BHYXVTY) - Optical+3.5mm Stereo  
