@@ -434,14 +434,14 @@ PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE	|Silverstone TJ08B-E/PS07				|$135	|	[pcpartpicker](https://pcpartpicker.com/product/WcphP6/silverstone-case-tj08be)	| [specs](https://www.silverstonetek.com/en/product/info/computer-chassis/TJ08-E/). ALT: Silverstone ML03
 CPU		|Intel i5-12600K CPU, 125W				|$150	|	[pcpartpicker](https://pcpartpicker.com/product/BB4Ycf/intel-core-i5-12600k-37-ghz-6-core-processor-bx8071512600k)	|	ALT: i5-12400 ($135)
-MOBO	|ASRock B760M Pro RS MicroATX	|$125	|	[pcpartpicker](https://pcpartpicker.com/product/pTbTwP/asrock-b760m-pro-rs-micro-atx-lga1700-motherboard-b760m-pro-rs)	|	ALT: [Other uATX mobos](https://pcpartpicker.com/products/motherboard/#xcx=0&c=154,163,152,162&f=7&sort=price&mt=ddr5)
-MEM		|Teamgroup T-Create Expert 32GB 2x16GB DDR5-6000			|$85	|	[pcpartpicker](https://pcpartpicker.com/product/H9CZxr/teamgroup-t-create-expert-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-ctced532g6000hc30dc01)	|	ALT: Teamgroup Elite 16GB 2x8GB DDR5-5200 ($45)
+MOBO	|Gigabyte B760M Gaming Plus Wifi DDR4 MicroATX	|$140	|	[pcpartpicker](https://pcpartpicker.com/product/NMWJ7P/gigabyte-b760m-gaming-plus-wifi-ddr4-micro-atx-lga1700-motherboard-b760m-g-p-wifi-ddr4)	|	ALT: [Other uATX mobos](https://pcpartpicker.com/products/motherboard/#xcx=0&c=154,163,152,162&f=7&sort=price&mt=ddr4)
+MEM		|Teamgroup 16GB 2x8GB DDR4-3600			|$90	|	[pcpartpicker](https://pcpartpicker.com/product/H9CZxr/teamgroup-t-create-expert-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-ctced532g6000hc30dc01)	|	ALT: [Other DDR4 memory](https://pcpartpicker.com/products/memory/#ff=ddr4&sort=price&Z=16384002,32768002)
 STORAGE	|LG WH16NS40 UHD Blu-Ray Drive			|$70	|	[pcpartpicker](https://pcpartpicker.com/product/QZ6BD3/lg-optical-drive-wh16ns40)	|	ALT: ASUS BW-16D1HT ($100)
 STORAGE	|WD SN7100 1TB NVMe M.2 SSD		|$70	|	[pcpartpicker](https://pcpartpicker.com/product/MYP8TW/western-digital-wd_black-sn7100-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds100t4x0e-00cja0)	|	ALT:  Teamgroup Cardea Zero Z440 1TB
 COOL	|Thermalright Peerless Assassin CPU Cooler				|$40	|	[pcpartpicker](https://pcpartpicker.com/product/hYxRsY/thermalright-peerless-assassin-120-se-6617-cfm-cpu-cooler-pa120-se-d3)	|	ALT: Thermalright AXP120-X67 ($40)
 PSU		|MSI MAG A750GL Full Modular ATX PSU		|$80	|	[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=1&sort=price&m=8,337,50,11,14,17,18,27,28,94,29,229,51,71,63,441,56&e=4,2)	|	ALT: Corsair RM750e 750W ($90)
 SOFTWARE	|MakeMKV Beta/Full		|FREE/$60	|	[makemkv](https://www.makemkv.com/buy/)	|Free with beta license key posted each month
-TOTAL	|										|$755	|					|
+TOTAL	|										|$775	|					|
 
 <!-- Sub-Section -->
 
@@ -757,6 +757,8 @@ Emulation: You should be able to play at 45-60 fps for most everything at 720p i
 
 Gaming: Expect 50 fps@1080p Med for most games, with a 8600G pushing that up to 60 fps@1080p Med sans harder games like Doom Eternal/Cyberpunk/etc.. which you'll have to run Low w/FSR upscaling.
 
+If you want to use cheaper DDR4 memory, look at a 5700G-based system  
+
 For an even smaller box, you could go with the Asrock Deskmini X600 at 1.9L as shown in the Notes column. And it comes out to about $45 cheaper since you don't need to buy a motherboard. Everything else stays the same.  
 
 For a fanless build, with same perf., for $250 more, see build in HTPC section above
@@ -865,7 +867,8 @@ TOTAL	|						|	**$870**	|
 
 This is a straight up gaming build for 1440p with High settings, averaging about 80+ fps which is good for a 120 Hz TV.  
 Use Windows w/PlayNite or Bazzite for your OS. Use a [8bitdo Ultimate 2c](https://www.amazon.com/dp/B0DB4LXDP7) controller w/[Controller Companion](https://store.steampowered.com/app/367670/Controller_Companion/)  
-It's low profile so is good for a media cabinet. If you can handle more height or want to beef up the perf, look at the ALT: notes. 
+It's low profile so is good for a media cabinet. If you can handle more height or want to beef up the perf, look at the ALT: notes.  
+If you want to use cheaper DDR4 memory, look at a Intel 12600KF based system. 
 
 PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
 :--|:--|:--|:--|:--
@@ -941,5 +944,5 @@ TOTAL		|											|$801			|	|
 
 ---
  
-*This page was last updated on 2025-12-23*
+*This page was last updated on 2025-12-26*
 
