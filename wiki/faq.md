@@ -577,7 +577,7 @@ The following are the current capabilities of the major streaming services as we
   - *Windows:* (MS Edge/Safari/Chrome/Firefox) 720p SDR. Stereo
   - *Linux:* (Chrome/Firefox) 720p SDR?
 
-- [DISNEY+](https://help.disneyplus.com/csp?id=csp_article_content&sys_kb_id=eac89167db3048900a2af56e0f96193b)  
+- [DISNEY+](https://help.disneyplus.com/article/disneyplus-computer-browser-requirements)  
 
   - *Windows:* (App) 720p SDR DD 5.1. (MS Edge) 720p SDR, (Chrome) 720p SDR, (Firefox) 480p SDR. Stereo.
   - *Linux:* (Chrome/Firefox): 480p SDR, Stereo
@@ -864,5 +864,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2025-11-22*
+*This page was last updated on 2025-12-26*
 
