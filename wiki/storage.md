@@ -178,9 +178,9 @@ If you can't afford a pre-built NAS you can buy one of these options and add ext
 If you want more CPU performance or more flexibility/expandability than any reasonably priced pre-built NAS or Ad-hoc solution can offer, build out your own DiY NAS with commodity hardware and a specialized OS like Unraid/TrueNAS/OMV.  
 Reference the DiY case list below, and the example builds under the [Wiki Sample Builds](/wiki/sample-builds#nasmedia-server-builds) page for full-part builds that range from used [OEM pre-builts](/wiki/sample-builds#135-medium-nas--media-server-9-26l---used) to the [the ultimate DiY](/wiki/sample-builds#1300-almost-ultimate-nas--media-server-59l).  
 
-**If you want to skirt the line between a pre-built NAS and DiY, look at the following, as these can provide the same CPU/GPU performance as a pre-built NAS for cheaper, but give you more OS support with Windows, Linux or Unraid/TrueNAS/OMV compatibility and DiY-like flexibility:**  
-- **Intel-based [Seeed Studio reServer (2 drives)](https://www.seeedstudio.com/reThings-reServer-c-2006.html)**  
-- **Intel-based [AOOSTAR R1 (2 drives)](https://aoostar.com/products/aoostar-r1-2-bay-40t-storage-nas-intel-n100-mini-pc-black?variant=49817168806186) / [AOOSTAR WTR PRO (4 drives)](https://aoostar.com/products/aoostar-wtr-pro-intel-n150-4-bays-nas-mini-pc?variant=50145480835370)**  
+If you want to skirt the line between a pre-built NAS and DiY, look at the following, as these can provide the same CPU/GPU performance as a pre-built NAS, but give you more OS support with Windows, Linux or Unraid/TrueNAS/OMV compatibility and DiY-like flexibility:  
+- **Intel-based [Seeed Studio reServer (2 drives)](https://www.seeedstudio.com/catalogsearch/result/?q=reserver&warehouse=CN+Warehouse+In+Stock%2CCN+or+US+Warehouse+In+Stock%2CCN+or+DE+Warehouse+In+Stock)**  
+- **Intel-based [AOOSTAR WTR PRO (4 drives)](https://aoostar.com/products/aoostar-wtr-pro-intel-n150-4-bays-nas-mini-pc?variant=50145480835370) / [AOOSTAR R1 (2 drives)](https://aoostar.com/products/aoostar-r1-2-bay-40t-storage-nas-intel-n100-mini-pc-black?variant=49817168806186)**  
 
 <!-- Sub-Section -->
 
