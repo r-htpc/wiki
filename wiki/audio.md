@@ -208,7 +208,7 @@ This will send audio through your display. This is common for VRR (gsync/freesyn
 This will give you a primary display for video output and a secondary, extended display for audio-only output. This is common for VRR (gsync/freesync) gaming setups and/or where the resolution/refresh rate to the display exceeds what the sound system can pass through. If a secondary display is not desirable, see Scenario #4.  
 
 1. Connect the HTPC's primary HDMI output to the display's HDMI input, e.g. HTPC (HDMI) -> TV (HDMI).  
-2. Connect the HTPC's 2nd display output (either from motherboard or dGPU) to the sound system. If Displayport, use a PASSIVE [Displayport->HDMI cable](/wiki/components#video-cablesadapters) or adapter. e.g. HTPC (HDMI/Displayport) -> Sound System (HDMI).  
+2. Connect the HTPC's 2nd display output (either from motherboard or dGPU) to the sound system's non-(e)ARC HDMI In port. If Displayport, use a PASSIVE [Displayport->HDMI cable](/wiki/components#video-cablesadapters) or adapter. e.g. HTPC (HDMI/Displayport) -> Sound System (HDMI).  
 3. Set the 2nd display output in your OS as an extended display at a resolution of 720p@60Hz. Drag this display to the top-right corner of the primary display. NOTE: Even though you are using this only for audio, a video signal IS required.  
 4. In Windows sound control panel, disable the audio device on the primary display output. Enable audio on the 2nd display output.  
 5. Configure your media players for the audio codecs you can support per [Software/OS Setup](/wiki/audio#softwareos-setup)
@@ -225,9 +225,10 @@ This will give you a primary display for video output and a secondary, extended 
 
 This is primarily an alternative to Scenario #2 where your display doesn't support (e)ARC and where you don't want to or can't use Scenario #3 to solve this with multiple display outputs in your OS, either out of navigational or visual annoyance.  
 This can be done with an HDMI Audio Extractor or a Splitter, depending on the display requirements.  
-An Extractor is more common and usually used with a single display and audio outputs, ideally HDMI-based ones like AVRs/Soundbars with an HDMI In, or Soundbars with only an HDMI (e)ARC port. Using an extractor to extract an HDMI audio signal to optical or 3.5mm analog should be a last resort, as there are better [PCIe/USB-based options](/wiki/audio#accessories) to do this straight from your HTPC (Scenario #5), without interrupting the HDMI signal.  
-A Splitter is used for multiple display outputs.  
-Sometimes these terms are used interchangeably. See the [Accessories](/wiki/audio#accessories) section for recommendations, reading the options carefully.  
+An Extractor is more common and usually used with a single display and audio outputs, ideally HDMI-based ones like AVRs/Soundbars with an HDMI In, or Soundbars with only an HDMI (e)ARC port; if an (e)ARC only soundbar, make sure the extractor you choose supports this.  
+Using an extractor to extract an HDMI audio signal to optical or 3.5mm analog should be a last resort, as there are better [PCIe/USB-based options](/wiki/audio#accessories) to do this straight from your HTPC (Scenario #5), without interrupting the HDMI signal.  
+A Splitter is used for multiple display outputs. Sometimes these terms are used interchangeably.  
+See the [Accessories](/wiki/audio#accessories) section for recommendations, reading the options carefully.  
 Note that not these devices are built the same and can vary dramatically in price, depending on feature set and reliability.   
 
 1. Connect the HTPC's primary HDMI output to an [HDMI Extractor](/wiki/audio#accessories).
