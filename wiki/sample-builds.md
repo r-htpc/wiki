@@ -126,13 +126,14 @@ $150-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB
 
 Intel Core 7th gen i3+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDMI 2.0 port + Windows 10+. Prices reflect PC without ram/ssd.  
 
-- Used Dell Optiplex/HP Prodesk/Elitedesk (Intel 8th gen+) + HDMI 2.0 card ($120+, see recs in 4K HDR players above)
+- Used Dell Optiplex [xx60-xx90](https://www.ebay.com/sch/i.html?_fsrp=1&_blrs=recall_filtering&rt=nc&_from=R40&_nkw=(optiplex)+(3060%2C3070%2C3080%2C5060%2C5070%2C5080%2C7060%2C7070%2C7080)+(i3-8100%2Ci3-9100%2Ci3-10100%2Ci5-8400%2C8500%2Ci5-8600%2Ci5-9400%2C9500%2C9600)&_sacat=179&LH_BIN=1&_sop=15&LH_ItemCondition=3000%7C2030%7C2020%7C1500%7C1000%7C2010) + [HDMI 2.0 card](https://www.ebay.com/sch/i.html?_from=R40&_nkw=dell+hdmi+2.0+%28HXPK2%2C1KNYY%2CR07CP%2C5N1NY%29&_sacat=0&_sop=12) ($120+) / [3000-7000](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%28optiplex+3000%29+%28i3%2Ci5%2Ci7%29&_sacat=171957&_odkw=%28optiplex%29+%283000%29+%28i3%2Ci5%2Ci7%29&_osacat=171957&LH_BIN=1&_sop=15&LH_PrefLoc=2) + [HDMI 2.0 card](https://www.dell.com/en-us/shop/dell-daughterboard-i-o-hdmi-card/apd/3v9n2/controller-cards) ($300+)
+- Used Lenovo [Neo](https://www.ebay.com/sch/i.html?_nkw=lenovo+neo+-50a+-30a&_sacat=179&_from=R40&_trksid=p2334524.m570.l1313&_odkw=lenovo+neo+-50a&_osacat=179&_sop=15) / [M70q](https://www.ebay.com/sch/i.html?_nkw=lenovo+m70q+%28i3%2Ci5%2Ci7%29&_sacat=179&_from=R40&_trksid=p2334524.m570.l1313&_odkw=lenovo+m70q&_osacat=179&_sop=15) / [Ideacentre Mini](https://www.ebay.com/sch/i.html?_nkw=lenovo+ideacentre+mini+%28i5%2Ci7%2Ci3%29&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=lenovo+ideacentre+mini+%28i5%2Ci7%2Ci3%2C01IRH8%29&_osacat=179&_sop=15) ($175+)
 - [Intel](https://www.ebay.com/sch/179/i.html?_nkw=intel+nuc+%28nuc11%2Cnuc12%2Cnuc13%29+%28i5%2Ci7%29&_from=R40&_sop=15&_blrs=recall_filtering) / [Asus](https://www.asus.com/us/displays-desktops/nucs/nuc-mini-pcs/filter?Series=NUC-Kits) NUCs ($250+)
 - [MSI Cubi/Pro DP series](https://www.amazon.com/s?keywords=Mini+Computers&i=computers&rh=n%3A13896591011%2Cp_123%3A378555&dc&c=ts&qid=1733595152&rnid=85457740011&ts_id=13896591011&ref=sr_nr_p_123_10&ds=v1%3AnQRfur4qf8GhElQv2EyLSUgtMG4sr3SJOY94hUGfkfE) ($275+, see recs in 4K HDR players above) 
 - [Gigabyte Brix N250](https://www.newegg.com/gigabyte-gb-btip-n250-intel-processors-n250-4c-up-to-3-8-ghz-6w/p/N82E16856164179) ($300)
 - [Asus ExpertCenter PN42+](https://www.amazon.com/s?k=asus+expertcenter&i=computers&rh=n%3A13896591011&s=price-asc-rank) ($400+)
 - ASRock [NUC/4x4 Box](https://www.newegg.com/ASRock-Industrial-Mini-PC-Barebone/BrandSubCat/ID-223387-309?Order=1) ($425+)
-- [Lenovo Neo/M70q/Ideacentre](https://www.ebay.com/sch/179/i.html?_nkw=lenovo+neo&_from=R40) ($500+, see recs in 4K HDR players above) 
+ 
   
 <!--
  [Intel/Asus NUC 7+ (i3-i9)](https://www.newegg.com/p/pl?N=100008345%2050001315%2050001157%20601450721%20601435127%20601435126%20601398031%20601407140%20601412543%20601398018%20601398044%20601412542%20601398043%20601398019%20601412544%20601398020%20601398041%20601441281%20600045203%20600414452&Order=1) ($300+)
