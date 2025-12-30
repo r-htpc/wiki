@@ -94,7 +94,7 @@ $100-$500: SMALL/MEDIUM: Intel - i3/i5-7xxx+ 8GB+ RAM, 256GB ssd/1TB hdd:
    - **USED: [Lenovo m70s Gen3+ SFF](https://www.ebay.com/sch/i.html?_nkw=lenovo+%28m70s%2Cm80s%2Cm90s%29+%2812100%2C12300%2C12400%2C12500%2C12600%2C12700%2C12900%2C13100%2C13400%2C13500%2C13600%2C13700%29&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=lenovo+%28m70s%2Cm90s%29+%2812100%2C12300%2C12400%2C12500%2C12600%2C12700%2C12900%2C13100%2C13400%2C13500%2C13600%2C13700%29&_osacat=179&_sop=15) ($300+)** 
    - NEW: [Lenovo Neo 50s Gen 3+ SFF](https://www.ebay.com/sch/i.html?_nkw=lenovo+neo+50s&_sacat=179&_from=R40&_trksid=p2334524.m570.l1313&_odkw=neo+50s&_osacat=179&_sop=15) ($500+) 
 
-$150-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB (2x4GB) RAM, 256GB ssd/1TB hdd
+$150-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB+ RAM, 256GB ssd/1TB hdd
 
  - *Used for:* H264/H265, VP9 local content, 4k Netflix/YT, web browsing, **int. 3.5" storage/ODD (SFF/MT models)**, **light gaming**, low power (xxxxGE cpu models).  
    - USED: [HP EliteDesk 705 G5](https://www.ebay.com/sch/179/i.html?_from=R40&_nkw=hp+705+g5+%283200g%2C3400g%29&LH_TitleDesc=1&_sop=15&LH_PrefLoc=2&rt=nc&LH_BIN=1) + [HDMI 2.0 card - 3TK75AA](https://www.ebay.com/sch/i.html?_from=R40&_nkw=hdmi+705+%283TK75AA%2CL25757%29&_sacat=0&_odkw=hdmi+%283TK75AA%2CL25757%29&_osacat=0&_nls=2&_dmd=1) ($140-$300)
