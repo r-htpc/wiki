@@ -87,7 +87,7 @@ $150-$400: SMALLER: Intel/AMD Mini PC, 8GB+ RAM, 256GB+ SSD
 -->
 <!-- Optiplex [3000-7000 SFF](https://www.ebay.com/sch/i.html?_nkw=%28optiplex+3000%29+%28i3%2Ci5%2Ci7%29+%28sff%2Cmt%29&_sacat=171957&_from=R40&_trksid=m570.l1313&_odkw=%28optiplex+3000%29+%28i3%2Ci5%2Ci7%29&_osacat=171957&LH_BIN=1&_sop=15&LH_PrefLoc=2) + [HDMI 2.0 card](https://www.dell.com/en-us/shop/dell-daughterboard-i-o-hdmi-card/apd/3v9n2/controller-cards) ($300+) -->
 
-$100-$500: SMALL/MEDIUM: Intel - i3/i5-7xxx+ 8GB (2x4GB) RAM, 256GB ssd/1TB hdd: 
+$100-$500: SMALL/MEDIUM: Intel - i3/i5-7xxx+ 8GB+ RAM, 256GB ssd/1TB hdd: 
 
  - *Used for:* H264/H265, VP9, AV1 local content, 4k Netflix/YT, browsing, **int. 3.5" storage/ODD**, plex server, low power (xxxxT cpu models).  
    - USED: [Dell Optiplex xx60-xx90 SFF](https://www.ebay.com/sch/i.html?_nkw=%28optiplex%29+%283060%2C3070%2C3080%2C5060%2C5070%2C5080%2C7060%2C7070%2C7080%29+%28i3-8100%2Ci3-9100%2Ci3-10100%2Ci5-8400%2C8500%2Ci5-8600%2Ci5-9400%2C9500%2C9600%29+%28sff%2Cmt%29&_sacat=179&_from=R40&_trksid=m570.l1313&_fsrp=1&_blrs=recall_filtering&rt=nc&_odkw=%28optiplex%29+%283060%2C3070%2C3080%2C5060%2C5070%2C5080%2C7060%2C7070%2C7080%29+%28i3-8100%2Ci3-9100%2Ci3-10100%2Ci5-8400%2C8500%2Ci5-8600%2Ci5-9400%2C9500%2C9600%29&_osacat=179&LH_BIN=1&_sop=15&LH_ItemCondition=3000%7C2030%7C2020%7C1500%7C1000%7C2010) (no AV1) + [HDMI 2.0 card](https://www.ebay.com/sch/i.html?_from=R40&_nkw=dell+hdmi+2.0+%28HXPK2%2C1KNYY%2CR07CP%2C5N1NY%29&_sacat=0&_sop=12) ($100+) 
