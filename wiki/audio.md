@@ -843,7 +843,7 @@ If you can't support the above hardware methods, but have plain **ARC** support 
 
  3. For **OPTICAL/SPDIF**: For Realtek motherboard-based Optical/SPDIF check if your motherboard's audio driver includes the Dolby Digital Live/DTS Connect feature. If not, use the [patched drivers](https://github.com/Loliconera/Unlocked-Dolby-Digital-Live-DTS-Interactive-for-Realtek-HD-Audio-Drivers-for-Windows-10-and-11) to unlock the feature. If it doesn't work or you are using non-Realtek or non-Motherboard based optical, use the *APO DRIVER* way below.  
 
- 4. Use analog surround sound speakers (Logitech Z906, Z5500) connected directly to the PC, if your motherboard supports it or a [USB analog sound card](https://www.amazon.com/Cubilux-Surround-48KHz-384KHz-Headphones-PC-Supports/dp/B0CKPL5HXZ).  
+ 4. Use an analog surround sound speaker system (Logitech Z906/Z5500/Z680/Z640/Z5300) connected directly to the PC, if your motherboard supports it or a [USB analog sound card](https://www.amazon.com/Cubilux-Surround-48KHz-384KHz-Headphones-PC-Supports/dp/B0CKPL5HXZ).  
 
 *SPATIAL AUDIO SETUP*  
 If you want to, and can, support **Dolby Atmos** from your games:
@@ -953,7 +953,7 @@ If you have a limited budget, but want really nice speakers, consider starting w
         - Best: [WiiM Ultra](https://www.amazon.com/WiiM-Streamer-Touchscreen-Compatible-Headphone/dp/B0D41YCLW8?th=1) dac streamer ($300) + [Fosi BT30D Pro](https://www.amazon.com/Fosi-Audio-BT30D-Pro-Integrated/dp/B09YNBHR73) amp ($100) + [ELAC Debut 2.0 B6.2 (120Wx2)](https://www.amazon.com/ELAC-Debut-Bookshelf-Speakers-Black/dp/B07B4Q5587) ($300) - can decode DD over HDMI ARC
         - For a 2.1 system, add on a basic [Dayton SUB-800 (80W)](https://www.parts-express.com/Dayton-Audio-SUB-800-8-80-Watt-Powered-Subwoofer-300-627) ($135) or [Klipsch R-100SW (150W)](https://us.amazon.com/Klipsch-R-100SW-10-Subwoofer/dp/B07FKH9ZDC) ($180) subwoofer.
     - For 5.1:
-      - Get a [Logitech Z906](https://www.logitech.com/en-us/products/speakers/z906-surround-sound-system.980-000467.html) that supports both analog and optical, with DD/DTS decoding. 
+      - Get a [Logitech Z906](https://www.logitech.com/en-us/products/speakers/z906-surround-sound-system.980-000467.html) or used Z5500/Z680 system that supports both analog and optical, with DD/DTS decoding; else a used, analog Z640/Z5300 system. 
 
 2. If you have limited space and a small budget:  
    $700+ : $300 Sony STR-DH590/RX-V385/S570BT receiver, $250 [Dayton Audio BS41 3.0](https://www.parts-express.com/Dayton-Audio-BS41-41-LCR-Speaker-Bar-Black-300-686?quantity=1) / $300 [Polk XT15x2](https://www.amazon.com/Polk-Monitor-Bookshelf-Surround-Speakers/dp/B09BMXVQFT?th=) + [XT30](https://www.amazon.com/Polk-Monitor-Compact-Channel-Speaker/dp/B09BMXPT3B/), $130 Dayton Audio [MKSX4](https://www.parts-express.com/Dayton-Audio-MKSX4-Four-4-Driver-Low-Profile-Passive-Subwoofer-300-495)/SUB-800 Sub  
