@@ -601,9 +601,9 @@ If used as a Plex server, you can [Direct Play](https://support.plex.tv/articles
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE|Fractal Design Node 304|$100|[newegg](https://www.newegg.com/black-fractal-design-node-304-mini-itx-tower/p/N82E16811352027)|ITX, 14.7"x9.8"x8.3" ALT: Node 804, Jonsbo N4 ($120), [DIY NAS Case List](/wiki/storage#diy-nas-case-list)
-CPU|Intel i3-14100 CPU, 60W|$160|[pcpartpicker](https://pcpartpicker.com/product/qtBzK8/intel-core-i3-14100-35-ghz-quad-core-processor-bx8071514100)|Passmark CPU Mark: [15000+](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i3-14100&id=5831). ALT: Used: i3-12100 ($100)
+CPU|Intel i3-14100 CPU, 60W|$160|[pcpartpicker](https://pcpartpicker.com/product/qtBzK8/intel-core-i3-14100-35-ghz-quad-core-processor-bx8071514100)|Passmark CPU Mark: [15000+](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i3-14100&id=5831). ALT: Used: [i3-12100](https://www.ebay.com/sch/i.html?_nkw=%28i3-12100%2Ci3-13100%29+-12100F+-13100F&_sacat=164&_from=R40&_trksid=p2334524.m570.l1313&_fsrp=1&_odkw=%28i3-12100%2Ci3-13100%29+-12100F&_osacat=164&_sop=15) ($100)
 MOBO|ASRock B760M-ITX/D4|$150|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&s=40&f=8&sort=price&page=1)|ALT: [B660M/B760M uATX mobo](https://pcpartpicker.com/products/motherboard/#f=7&sort=price&xcx=0&s=40&K=5,13)
-MEM|G.Skill Aegis 32GB 2x16GB DDR4-3200|$100|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr4&S=3000,8400&Z=32768002&sort=price&page=1)|ALT: 16GB 2x8GB DDR4-3200 ($50)
+MEM|G.Skill Aegis 32GB 2x16GB DDR4-3200|$100|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr4&S=3000,8400&Z=32768002&sort=price&page=1)|ALT: 16GB 2x8GB DDR4-3200 ($50), Used: [16GB/32GB](https://www.ebay.com/sch/i.html?_nkw=ddr4+%282x8GB%2C2x16GB%29+-sodimms&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_fsrp=1&rt=nc&_blrs=recall_filtering&LH_ItemCondition=3000%7C2020%7C1500%7C1000&Form%2520Factor=DIMM&Number%2520of%2520Modules=2&_odkw=ddr4+%282x8GB%2C2x16GB%29+-sodimm&_osacat=0&LH_BIN=1&_dcat=170083&_sop=15&Total%2520Capacity=16%2520GB%7C32%2520GB) ($50-100)
 STORAGE|PNY Attache 4 32GB USB Flash Drive (BOOT)|$12|[amazon](https://www.amazon.com/PNY-Attache-Drives-3-Pack-P-FD32GX3ATT4-GE/dp/B07YVY2H1J)| USB 2.0 for low heat/longevity
 STORAGE|WD SN7100 1TB NVMe M.2 SSD (APP/CACHE)|$70|[pcpartpicker](https://pcpartpicker.com/product/MYP8TW/western-digital-wd_black-sn7100-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds100t4x0e-00cja0)|ALT: [SK Hynix P41 1TB](https://pcpartpicker.com/product/sw2WGX/sk-hynix-platinum-p41-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-shpp41-1000gm-2)
 STORAGE|3 x Ultrastar/Exos/Ironwolf 12TB HDD (DATA)|$750|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#sort=price&A=12000000000000,36000000000000&f=2&c1=di_sata.60)| SEPARATE. ALT: Refurb: [serverpartdeals](https://serverpartdeals.com/collections/sata-hard-drives?pf_t_capacity=capacity%3A12TB&pf_t_capacity=capacity%3A14TB&pf_t_capacity=capacity%3A16TB&pf_t_capacity=capacity%3A18TB&pf_t_capacity=capacity%3A20TB&pf_t_capacity=capacity%3A22TB&pf_t_capacity=capacity%3A24TB&pf_t_capacity=capacity%3A30TB&pf_t_capacity=capacity%3A28TB&pf_t_capacity=capacity%3A26TB&sort=number-extra-sort1-ascending)
@@ -953,5 +953,5 @@ TOTAL		|											|$801			|	|
 
 ---
  
-*This page was last updated on 2025-12-26*
+*This page was last updated on 2026-01-03*
 
