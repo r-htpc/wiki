@@ -554,7 +554,7 @@ See our [Optical Drive](/wiki/components#optical-drives) section of the Hardware
 
 <!-- Sub-Section -->
 
-### Why won't my video signal remain stable?
+### Why won't my video signal remain stable/on?
 ### Why doesn't my video signal go up to the stated resolution/refresh rate?
 
 1. You may be using a bad, poor quality, or inadequately speced HDMI cable/adapter. Use a [better one](/wiki/components#video-cablesadapters)
@@ -563,7 +563,8 @@ See our [Optical Drive](/wiki/components#optical-drives) section of the Hardware
 4. You may have a bad HDMI port on your Display, GPU, or an in-between Sound System. Try a different port.
 5. You're using too many cable segments in the HDMI cable run from the HTPC to Display. You should limit the amount of segments to 2. HTPC->TV would be 1. HTPC->AVR->TV would be 2. HTPC->AVR->Wall jack->TV would be 3. If you have a wall jack behind the TV AND behind the AVR, that's 4. You can *usually* make up for using more segments with shorter/better cables or brush plates instead of wall jacks.
 6. You GPU driver may be corrupted. Run [DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) to remove it fully and then re-install the driver.
-7. You're overclocking your GPU or have a bad GPU.
+7. You have your display/screen set to go to off after X amount of time in the OS. Disable this. Your display or sound system is turning your video port off after X amount of time. If there's no setting in the device to disable this, use [Unified Remote to configure a button to turn your monitor on/off](https://www.unifiedremote.com/remotes/monitor).
+8. You're overclocking your GPU or have a bad GPU.
  
 
 <!-- Sub-Section -->
@@ -844,5 +845,5 @@ Dolby Vision Tests - [P5](https://drive.google.com/uc?export=download&id=1u5T0NM
 
 ---
 
-*This page was last updated on 2025-12-08*
+*This page was last updated on 2026-01-05*
 
