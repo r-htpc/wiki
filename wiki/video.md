@@ -387,9 +387,9 @@ You will first run a test for the presence of motion problems like stutter. You 
 
 Most video players have hardware decoding support built-in.  
 
-Configuration usually involves a single toggle on the simple side, or, on the advanced side, choosing between DVXA/D3D11/Quicksync and/or choosing your proper GPU Device. Make sure your GPU Device supports hardware decoding for the format(s) you're trying to play. See the [GPU Feature Set Matrix](/wiki/components#gpusgraphics) of the Wiki.  
+Configuration usually involves a single toggle on the simple side, or, on the advanced side, choosing between DVXA/D3D11/Quicksync and/or choosing your proper GPU Device. Make sure your GPU Device supports hardware decoding for the codec(s)/format(s) you're trying to play. See the [GPU Feature Set Matrix](/wiki/components#gpusgraphics) of the Wiki.  
 
-If configured correctly, CPU Usage should be low during playback, while GPU Usage (Video Decode) should be non-0. If GPU Video Decode is 0, then hardware decoding is not being used.
+If configured correctly, in your OS system monitor, CPU Usage should be low during playback, while GPU Usage (Video Decode) should be non-0. If GPU Video Decode is 0, then GPU hardware decoding is not being used. Each player below may have their own way of displaying GPU hardware decoding being active.  
 
 BROWSERS/STREAMING SERVICES:  
 1. Make sure your service supports the video codec/resolution you want to play. See: [Wiki:FAQ:What resolution and audio is supported on streaming service X?](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x)
@@ -400,14 +400,14 @@ BROWSERS/STREAMING SERVICES:
 6. If HDR, see: [Wiki:HDR Setup Guide:Streaming Content (Netflix, Youtube, etc..)](/wiki/hdr#streaming-content-netflix-youtube-etc)  
 7. Test your browser's video capabilities with [Dolby's capabilities test website](https://ott.dolby.com/codec_test/index.html)  
 
-MPC-BE:  
+[MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases):  
 1. View->Options->Internal Filters->Video Decoders->Video Decoder Configuration
    - Codecs: <all checked\>
    - Preferred Decoder: 'D3D11, DXVA2' (Win 8+) or DXVA2 (copy-back) (others)
 2. Test by playing a codec-supported video
 3. Check that "(GPU)" indicator is shown below player seek bar next to speaker icon
 
-MPC-HC:  
+[MPC-HC](https://github.com/clsid2/mpc-hc/releases/):  
 1. View->Options->Internal Filters->Video Decoder
    - Hardware Decoder to use: D3D11 (Win 8+) or DXVA2 (copy-back) (others)  
    - Hardware Device to use: Automatic (if D3D11) or Your_GPU_Device (DXVA2)
