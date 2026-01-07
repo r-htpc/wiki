@@ -404,6 +404,8 @@ MPC-BE:
 1. View->Options->Internal Filters->Video Decoders->Video Decoder Configuration
    - Codecs: <all checked\>
    - Preferred Decoder: 'D3D11, DXVA2' (Win 8+) or DXVA2 (copy-back) (others)
+2. Test by playing a codec-supported video
+3. Check that "(GPU)" indicator is shown below player seek bar next to speaker icon
 
 MPC-HC:  
 1. View->Options->Internal Filters->Video Decoder
