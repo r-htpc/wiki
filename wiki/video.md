@@ -406,8 +406,12 @@ MPC-BE:
    - Preferred Decoder: 'D3D11, DXVA2' (Win 8+) or DXVA2 (copy-back) (others)
 
 MPC-HC:  
-1. View->Options->Internal Filters->Video Decoder: Hardware Decoder to use: D3D11 (Win 8+) or DXVA2 (copy-back) (others)  
-2. View->Options->Internal Filters->Video Decoder: Hardware Device to use: Automatic (if D3D11) or Your_GPU_Device (DXVA2)
+1. View->Options->Internal Filters->Video Decoder
+   - Hardware Decoder to use: D3D11 (Win 8+) or DXVA2 (copy-back) (others)  
+   - Hardware Device to use: Automatic (if D3D11) or Your_GPU_Device (DXVA2)
+   - Enable System Tray Icon: <checked\>
+2. Test by playing a codec-supported video
+3. Click on LAV Video Decoder icon in System tray and check active decoder is not inactive
 
 VLC:  
 1. Tools->Preferences->Input/Codecs->Hardware-accelerated decoding: Direct3D11 (Win 8+) or DirectX (others)
