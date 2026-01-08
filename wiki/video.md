@@ -615,7 +615,7 @@ First, make sure what you're experiencing is actually stutter and not judder. Wa
 1. Your content is poorly encoded. Test with [known-good test files](/wiki/video#where-do-i-find-additional-sample-video-files-to-test).
 2. Your content has a frame-rate that is mis-matched from your display's refresh-rate (like 24 fps on 60 Hz). Test with [known-good test files](/wiki/video#where-do-i-find-additional-sample-video-files-to-test) of varying frame-rates and/or make sure your refresh-rate is equal to, or a whole number multiple of, the frame-rate.
 3. You're using an OLED TV, which can cause stutter due to the nature of the tech. Test with [Motion Interpolation enabled](https://www.rtings.com/tv/tests/motion/motion-interpolation-soap-opera-effect#related-settings) on it at various levels. 
-4. You haven't configured your video player to use your GPU to hardware decode video. See application-specific setup for hw decoding above.
+4. You haven't configured your video player to use your GPU to hardware decode video. See [application-specific setup for hw decoding](/wiki/video#application-specific-setup-for-hardware-decoding) above.
 5. If you have an Nvidia GPU, in Nvidia Control Panel -> Manage 3D Settings, Set Vertical Sync: ON, Low Latency Mode:OFF, Power Management Mode: Prefer Maximum.
 6. If you have an AMD GPU: In Radeon Settings, Display -> Radeon FreeSync: OFF, Graphics -> Enhanced Sync: OFF, Wait for Vertical Refresh: ON, either globally or create a app profile for your video player  
 7. You've configured your Windows power plan or Video driver power settings to balanced/power saving. Test with your Windows power plan set to High Performance. Test with your Video driver power management set to maximum performance.
