@@ -577,7 +577,7 @@ See our [Optical Drive](/wiki/components#optical-drives) section of the Hardware
 
 ### What are the best ways for scaling video?
 
-If you set your GPU to output the same resolution as your display, your HTPC will do the upscaling. This can be handled by:
+If you set your GPU to output the same resolution as your display, your HTPC will do the upscaling on lower-resolution content. This can be handled by:
  - Your GPU driver's default or proprietary scaling method (Good quality)
    - Nvidia: Aspect scaling (Default), [Integer Scaling/NIS](https://nvidia.custhelp.com/app/answers/detail/a_id/5280/~/how-to-enable-nvidia-image-scaling)
    - AMD: [Radeon Image Sharpening/RIS](https://www.amd.com/en/resources/support-articles/faqs/DH3-034.html)
