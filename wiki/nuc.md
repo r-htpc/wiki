@@ -37,6 +37,13 @@ CPU/PASSMARK refers to Passmark's [CPU Mark performance benchmark](https://www.c
 
 &nbsp;
 
+### AMD Zen 5 (4nm/8K HW) ###
+
+BRAND|CPU|COST|MODEL|PASSMARK|GPU|SPECS/NOTES
+:--|:--|:--|:--|:--|:--|:--
+Asus|Ryzen AI 4xx|$NA+|PN55|NA*|NA|RDNA3.5 Radeon 8xxM GPU. HDMI 2.1x1 (4K@60), DP1.4x2, 96GB-DDR5-9600-SODIMMx2, 2xPCIe 4.0 M.2x4, USB32G2-Ax3, USB2-Ax1, USB32G1-Cx1, USB4-Cx1, ILANx2 (2.5G), WLAN (be), BT 5.4, CEC
+Asus|Ryzen AI 3xx|$590+|PN54|19600-24800*|NA|RDNA3.5 Radeon 840M/880M GPU. HDMI 2.1x1 (4K@60), DP1.4x1, 32GB-DDR5-5600-SODIMMx2, 2xPCIe 4.0 M.2x4, USB32G2-Ax3, USB2-Ax1, USB32G1-Cx1, USB4-Cx1, ILANx2 (2.5G), WLAN (be), BT 5.4, CEC
+
 ### AMD Zen 4 (4nm/8K HW) ###
 
 NOTES: Good for 4k HDR, emulation, medium gaming  
@@ -105,6 +112,12 @@ ASRock|R1505G|$280|R1000V|4200*|12-25W, 2 core, RLANx2 (1000), WLAN (ac), Vega 3
 ASRock|V1605B|$370|V1000M|6800*|12-25W, 4 core, RLANx2 (1000), WLAN (ac), Vega 8 GPU, HDMI 2.0ax1, DP1.2x2, 32GB-DDR4-2400-SODIMMx2, USB31G2-Ax3, USB2-Ax2, M.2x1 (2242/2260), 2.5"x1, microSD, Stereo, Mic, BT 4.2
 T-Bao|2500U|$330|TBOOK MN25|6600*|15W, 4 core, Vega 8, 4GB/128GB
 Zotac|2200G/2400G|NA|MA551|NA|UPCOMING (Not in U.S.A). 45W/65W, 4 core, LANx1 (1000), WLAN (ac), 32GB-DDR4-2400-SODIMM, HDMI 2.0x2, DP 1.2x1, 2.5" SSD, M.2x1, microSD, USB30Ax4, USB31Cx1, BT 4.2
+
+### Intel Panther Lake (16th gen/18A/8K HW) ###
+
+BRAND|CPU|COST|MODEL|PASSMARK|GPU|SPECS/NOTES
+:--|:--|:--|:--|:--|:--|:--
+Asus|Core5/X7/X9|$NA+|NUC 16 Pro|NA*|NA|Cougar Cove. Xe/Arc B370/B390 GPU. 96GB-DDR5x-9600-LP, HDMI 2.1x2 (4K@60), USB32G2-Ax4, USB32G1-Cx1, USB4-Cx2 (TB4), ILANx2 (2.5G), WLAN (be), BT 6, CEC
 
 ### Intel Lunar Lake (15th gen/3nm/8K HW) ###
 
@@ -490,5 +503,5 @@ Zotac
 
 ---
 
-*This page was last updated on 2025-12-09*
+*This page was last updated on 2026-01-10*
 
