@@ -23,7 +23,7 @@
 
 **Medium Gaming: Minisforum UM773 Lite, Minisforum EliteMini UM690 Pro, Beelink GTR6**
 
-**High Gaming: GMKTec Evo X2, Asus NUC 14 Perf/ROG NUC 760/970 (dGPU), Minisforum HX99G (dGPU), Minisforum AI X1 Pro/Beelink SER9 Pro**
+**High Gaming: GMKTec Evo X2, Asus NUC 14 Perf/ROG NUC 760/970 (dGPU), Minisforum HX99G (dGPU), Minisforum AtomMan G1 Pro (dGPU)**
 
 ## NUC List
 
