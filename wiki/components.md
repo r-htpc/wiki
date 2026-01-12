@@ -408,7 +408,7 @@ Belkin Pivot-Plug 12 BP112230-08 - 12 plug, 4320 Joules, 1875W, $300k protection
 
 ### Video Cables/Adapters
 
-Refer to [this table](https://images.idgesg.net/images/article/2018/02/formatdataratetable-100750471-large.jpg) for the bandwidth and cable speed required for each resolution/refresh rate/chroma.
+Refer to [this table](https://i.imgur.com/znCIAEJ.png) for the bandwidth and cable speed required for each resolution/refresh rate/chroma.
 
 There are a LOT of cable/adapter companies floating around on the internet. Some good. Some bad. NOTICE THE TREND OF WELL-KNOWN BRANDS BELOW. DO NOT MESS AROUND WITH NO-NAME CABLES OR ADAPTERS OF DUBIOUS QUALITY CONTROL. IF YOU DO, YOU'RE ON YOUR OWN!  
 
