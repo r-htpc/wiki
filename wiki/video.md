@@ -531,7 +531,7 @@ See [Wiki:FAQ:What resolution and audio is supported on streaming service X?](/w
 
 Ideally, you shouldn't; especially for UHD/4K, as the [system requirements are so restrictive](/wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility) to make it not worth-while.  
 
-You should rip your discs to digital files per [Wiki:How can i rip my DVD/Blu-ray discs and what are some good quality settings to use?](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use)  
+You should rip your discs to digital files per [Wiki:How can i rip my DVD/Blu-ray discs and what are some good quality settings to use?](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use). If you must have Dolby Vision/HDR10+, send them over the network via network share or [media server software](/wiki/video#video-software) to a [capable client device](/wiki/sample-builds#specialized-dolby-vision--hdr10). Read [this](/wiki/faq#can-i-streamhow-do-i-serve-my-content-from-another-computer-or-a-networked-storage-device) for details on streaming content over your local network.  
 
 If you must have menus, which is presumably the reason you want disc playback, create an unencrypted ISO of it.  
  1. If UHD Blu-Ray, make sure [you have a UHD Friendly drive](/wiki/components#optical-drives)
@@ -553,7 +553,7 @@ If you must have menus, which is presumably the reason you want disc playback, c
 If you must have disc playback:
  1. DVD: Kodi/MPC-BE/VLC, [Microsoft DVD player](http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/db1d271e-866f-4943-8e8d-1649d5ca704c?P1=1748382587&P2=404&P3=2&P4=UlZBtHy0ecYSgnXfX0cfyXNxHLRdfTawYFSnFTLz7j%2f9ZOmLEmG5UlZaMH%2bTYqhSbd0hdCcG1wqTks6dGB9gbg%3d%3d), [Xreveal](https://www.xreveal.com/) + keydb_eng.zip + Media player above
  2. FHD Blu-Ray: [Leawo Blu-Ray Player](https://www.leawo.com/blu-ray-player/), [Xreveal](https://www.xreveal.com/) + keydb_eng.zip + Media player above
- 3. UHD Blu-Ray: *Official UHD Drive*: [CyberLink PowerDVD Ultra <= v22.0.3214.62](https://www.cyberlink.com/products/powerdvd-ultra/features_en_US.html). *[UHD-Friendly Drive](/wiki/components#optical-drives)*: [Xreveal](https://www.xreveal.com/) + keydb_eng.zip + Media player above
+ 3. UHD Blu-Ray: *Official UHD Drive*: [CyberLink PowerDVD Ultra <= v22.0.3214.62](https://www.cyberlink.com/products/powerdvd-ultra/features_en_US.html). *[UHD-Friendly Drive](/wiki/components#optical-drives)*: [Xreveal](https://www.xreveal.com/) + keydb_eng.zip + Media player above. DV/HDR10+ is not possible. If you must have these, rip the discs to file storage and send them over the network via network share or media server software to a [capable client device](/wiki/sample-builds#specialized-dolby-vision--hdr10)
  4. Make sure you meet audio/video chain restrictions: [HDCP](https://en.wikipedia.org/wiki/High-bandwidth_Digital_Content_Protection) 1.x for DVD, HDCP 1.3 for FHD Blu-Ray, HDCP 2.2 for UHD Blu-Ray; in all devices of the video chain (Drive, GPU, Video Cable, Display)  
 
 See our [Optical Drive](/wiki/components#optical-drives) section of the Hardware Components page for drive selection  
