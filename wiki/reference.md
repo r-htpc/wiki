@@ -99,7 +99,7 @@ ATX|12 x 9.6|305 x 244|PCIE x 5/6, MEM x 2/4
 
 **HDCP** - High-bandwidth Digital Content Protection. A copy-protection/DRM scheme found in audio/video streams to protect content from unauthorized duplication. Commonly found in DVD, Blu-ray, Netflix and other major streaming content and used over HDMI, DisplayPort and DVI video interfaces. Each hardware device (HTPC, AVR, TV, etc..) in the content chain must be HDCP compliant for the stream to be accessible. For a HTPC, this usually means the CPU, GPU, video interface, OS and ultimately your output device (typically a TV). The current standard is HDCP 2.2.
 
-**HDMI** - High-Definition Multimedia Interface. An interface for transporting audio/video. Commonly used to connect devices in a Home Theater setting. The current standard is HDMI 2.1.
+**HDMI** - High-Definition Multimedia Interface. An interface for transporting audio/video. Commonly used to connect devices in a Home Theater setting. The current standard is HDMI 2.2.
 
 **HDR video** - High Dynamic Range video. A technology used to produce better looking video by preserving details in the darkest and lightest portions of a frame resulting in better contrast. For a HTPC, this means HDR support must be in the video, GPU, video interface (HDMI/DP) and ultimately your output device (typically a TV). Check the [FAQ](/wiki/faq#what-is-hdr-video-and-what-do-i-need-to-take-advantage-of-it) for GPUs that support HDR. Common standards are HDR10, HDR10+ and Dolby Vision.
 
@@ -172,5 +172,5 @@ ARCH|GEN|RELEASED|NOTES
 
 ---
 
-*This page was last updated on 2025-04-21*
+*This page was last updated on 2026-01-14*
 
