@@ -416,15 +416,21 @@ Signal integrity on a cable drops the more cable terminations you make. **Avoid*
 
 **HDMI Cables**
 
-For **4K@60Hz** or 1080p@120Hz, always get a "Premium High Speed" cable that supports "18 Gbps". We HIGHLY recommended a cable that is "[Premium Certified](https://www.hdmi.org/spec/premiumcable)", which means that it has been tested by the HDMI spec organization up to the full 18 Gbps bandwidth and not the Standard/High Speed speed of 10.2 Gbps. Do not settle for anything less than a wire thickness of 28 AWG up to 15 ft and 26 AWG to 20 ft (lower AWG is thicker) for these passive type cables.  
+For <= **4K@60Hz** or 1080p@120Hz, always get a "Premium High Speed" cable that supports "18 Gbps". We HIGHLY recommended a cable that is "[Premium Certified](https://www.hdmi.org/spec/premiumcable)", which means that it has been tested by the HDMI spec organization up to the full 18 Gbps bandwidth and not the Standard/High Speed speed of 10.2 Gbps. Do not settle for anything less than a wire thickness of 28 AWG up to 15 ft and 26 AWG to 20 ft (lower AWG is thicker) for these passive type cables.  
 
 You don't have to spend a lot for all of this, even Premium Certified. We recommend [Monoprice Premium Certified](https://www.monoprice.com/product?p_id=15427) or [Cable Matters Certified](https://www.amazon.com/Cable-Matters-Premium-Certified-Support/dp/B005BZG8G4) cables. Pick up a 6 footer for $8 and call it a day. You probably shouldn't be spending more than $1.75/foot unless it's something unique to your situation or from a quality, low-volume vendor like [Blue Jeans Cable](https://www.bluejeanscable.com) which we can also recommend for high-quality cables.  
 
 You should not run normal High Speed cables over **20 ft**. If you need to go further than that, look at "Active" or HDMI-over-fiber cables. We recommend [Ultra Active](https://www.monoprice.com/product?p_id=12735)/[Slim-run AV](https://www.monoprice.com/category/cables/hdmi-cables/hdmi-cables?menuDisStr=hdmi%20cables&v_Series_uFilter=SlimRun%20AV&TotalProducts=6), [RUIPRO Ultra-Slim](https://www.amazon.com/RUIPRO-Fiber-Cable-Support-Subsampling/dp/B01MDQ5JOC) or [Blue Jeans Series-3A](https://www.bluejeanscable.com/store/hdmi-cables/hdmi-cable.htm) cables. Runs over **100 ft** for 4K are NOT recommended. Look [here](https://www.avforums.com/attachments/hdmi-cables-performance-evaluation-testing-report-1-_-50ft-15m-length-cables-v3-sml-3-pdf.1149898/) for cable testing results.  
 
-For **4K@120Hz**, always get a "Ultra High Speed" cable that supports "48 Gbps" and is "[Ultra Certified](https://hdmi.org/spec21sub/ultrahighspeedcable)". Cables currently meeting this spec that we can recommend are [Zeskit Maya/X-Tech](https://www.amazon.com/48Gbps-Compatible-Netflix-Playstation-Samsung/dp/B07S1CGQ9Z?ref_=ast_sto_dp), [Club3D 1372](https://www.amazon.com/Club3D-CAC-1372-Ultra-Speed-Male-Male/dp/B07H5Y5N55), [RUIPRO 8K](https://www.amazon.com/RUIPRO-Certified-Dynamic-Suitable-Samsung/dp/B08QTNNRS4), [Monoprice 8K Normal](https://www.monoprice.com/product?p_id=42674) / [Braided](https://www.monoprice.com/product?p_id=42682).  
-
+For <= **4K@144Hz**, always get a "Ultra High Speed" cable that supports "48 Gbps" and is "[Ultra Certified](https://hdmi.org/spec21sub/ultrahighspeedcable)". Cables currently meeting this spec that we can recommend are [Zeskit Maya/X-Tech](https://www.amazon.com/48Gbps-Compatible-Netflix-Playstation-Samsung/dp/B07S1CGQ9Z?ref_=ast_sto_dp), [Club3D 1372](https://www.amazon.com/Club3D-CAC-1372-Ultra-Speed-Male-Male/dp/B07H5Y5N55), [RUIPRO 8K](https://www.amazon.com/RUIPRO-Certified-Dynamic-Suitable-Samsung/dp/B08QTNNRS4), [Monoprice 8K Normal](https://www.monoprice.com/product?p_id=42674) / [Braided](https://www.monoprice.com/product?p_id=42682).  
 You should not run normal Ultra High Speed cables over **10 ft**. If you try, you should have one using at least 26 AWG cable, such as the 15 ft [Zeskit Maya](https://www.amazon.com/48Gbps-Compatible-Netflix-Playstation-Samsung/dp/B07S1BNM7K) or 20 ft [Monoprice 8K](https://www.monoprice.com/product?p_id=42674) (these will be super stiff to keep signal integrity at that distance). If you need to go further than that, look at HDMI-over-fiber cables. We recommend [RUIPro 8K HDMI Fiber](https://www.amazon.com/RUIPRO-Dynamic-Flexible-Projector-Theatre/dp/B081SHJJ3C?ref_=ast_sto_dp&th=1&psc=1), [Phoossno 8K Fiber](https://www.amazon.com/Certified-Fiber-Optical-Cable-phoossno/dp/B09LYZQW93?th=1), [Zeskit Optical](https://www.amazon.com/Zeskit-Optical-48Gbps-Compatible-Samsung/dp/B09MMS2B1B), or [Cable Matters Active 8K Fiber](https://www.amazon.com/dp/B092MWQGSF/)  
+
+For **4K@240Hz**, always get a "Ultra96" cable that supports "96 Gbps" and is "[Ultra96 Certified](https://hdmi.org/spec2sub/ultrahdmicables)".  
+You should not run normal Ultra96 cables over **6 ft**.  
+
+Resolution and refresh rates possible may be higher for any particular bandwidth cable if Display Stream Compression (DSC) is supported by all devices in the HDMI chain. Reference the [HDMI article on Wikipedia](https://en.wikipedia.org/wiki/HDMI#Refresh_frequency_limits_for_standard_video) for charts.  
+
+For **ARC/eARC** connections, get at least a "High Speed with Ethernet" cable that supports "10 Gbps"  
 
 **Adapters/Adapter Cables**
 
@@ -537,5 +543,5 @@ MX3 Pro			|	$20	|	RF		|	Yes	|	YES  | AAA	|	Remote, Mini keyboard, and Air Mouse
 
 ---
 
-*This page was last updated on 2025-12-19*
+*This page was last updated on 2026-01-14*
 
