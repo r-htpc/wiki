@@ -74,6 +74,7 @@ You can calculate video bitrate by applying the formula
 HDMI 1.4: Digital. 10 Gbps. 4K @ 30 Hz  
 HDMI 2.0/2.1 TMDS: Digital. 18 Gbps. 4K @ 60 Hz. HDR  
 HDMI 2.1 FRL: Digital. Up to 48 Gbps. 4K @ 144 Hz. HDR+  
+HDMI 2.2 FRL: Digital. Up to 96 Gbps. 4K @ 288 Hz. HDR+  
 Displayport 1.2 (native): Digital. Displayport on both ends. 20 Gbps. 4K @ 60 Hz  
 Displayport 1.4 (native): Digital. Displayport on both ends. 32 Gbps. 4K @ 120 Hz. HDR  
 Displayport (Alternate mode): Digital. Displayport/USB->HDMI cable/adapter  
@@ -309,6 +310,7 @@ To confuse things even more, sometimes Full and Limited are called by other name
  - If for 4k@120Hz/8K@60Hz, set a HDMI signal/video format of *8K Enhanced/8K mode*  
 4. Change your GPU driver
  - Set a Resolution, Refresh Rate, Color/Pixel Format, Color Depth, and Dynamic Range based on the below for your video interface. Check you GPU/mobo specs for what the max supported is.
+   - HDMI 2.2 FRL: 3840x2160, 240 Hz, RGB, 10-bit, Full
    - HDMI 2.1 FRL: 3840x2160, 120 Hz, RGB, 10-bit, Full
    - HDMI 2.0/2.1 TMDS: 3840x2160, 60 Hz, RGB, 8-bit, Full
    - HDMI 1.4: 3840x2160, 30 Hz, RGB, 8-bit : 1920x1080, 120 Hz, RGB, 8-bit
@@ -852,5 +854,5 @@ Dolby Vision Tests - [P5](https://drive.google.com/uc?export=download&id=1u5T0NM
 
 ---
 
-*This page was last updated on 2026-01-05*
+*This page was last updated on 2026-01-14*
 
