@@ -165,12 +165,14 @@ Simple, HDR passthrough, tonemapping and decent upscaling.
             * HDR: Passthrough to display: checked (*unchecked to tonemap to SDR*)  
             * HDR: Convert to SDR: unchecked (*checked to tonemap to SDR*)  
             * HDR: Windows HDR: Allow turn on/off  
+            * Use exclusive fullscreen: checked
+            * Wait for VBlank..: checked
             * OPTIONAL: Chroma/Upscaling
               * NOTE: To use these, you must uncheck the four DXVA2/D3D11 video processors. GPU usage will increase as you go down the list of scaling options.
-              * Chroma/Upscaling: [\<choose\>](/wiki/video#what-are-the-best-ways-for-scaling-video)
+              * Chroma/Upscaling: [\<choose algo\>](/wiki/video#what-are-the-best-ways-for-scaling-video)
             * OPTIONAL: Downscaling
               * NOTE: To use this, you must uncheck "Use for Resizing".
-              * Downscaling: \<choose\>
+              * Downscaling: \<choose algo\>
       * Internal Filters -> Video Decoders  
         * Video decoder configuration  
           * Preferred Decoder: 'D3D11, DXVA2' (win 8/10/11) or DXVA2 (win 7) 
@@ -758,7 +760,15 @@ AMD RX >= 67xx|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Dif
 * *Update MadVR* (OPTIONAL)  
   * If you want newer, beta madVR features, after validating your setup, [download madVR beta](https://madshi.net/madVRhdrMeasure113.zip), unzip/copy all the FILES (NOT the directory itself) inside the zip into your previously-created %USERPROFILE%\madVR directory
 
-### Fullscreen Exclusive (FSE) behavior not working
+## Common Questions
+
+### Windows 11: HDR colors are washed out only in Fullscreen
+Do one or more of the following..
+* *Use Legacy ICC Color Management*: Find your video app/player's .exe file, right-click->Properties->Compatability->Use Legacy Display ICC Color Management: enabled->Ok. Reboot  
+* *Disable "Automatic Color Management"*: Settings->System->Display->Color Management->Automatically manage..: Off
+
+### Fullscreen Exclusive (FSE) behavior is not working
+Do one or more of the following..
 * *Disable fullscreen optimizations*: Find your video app/player's .exe file, right-click->Properties->Compatability->Disable fullscreen optimizations: enabled->Ok. Reboot  
 * *Disable Game DVR (registry)*: Download and run this [reg file](https://gist.github.com/Redrrx/a6680e0b9fd0a1386efa3cf736ecde2e). Reboot
 * *Disable Game Bar/DVR (app)*: In Windows 11 settings app under Gaming
@@ -768,5 +778,5 @@ AMD RX >= 67xx|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Dif
 
 ---
 
-*This page was last updated on 2025-12-19*
+*This page was last updated on 2026-01-16*
 
