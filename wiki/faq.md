@@ -696,7 +696,7 @@ The major requirements for full 4k compatibility are HDMI 2.0a, HDCP 2.2, hardwa
 
 Virtually all modern CPUs with integrated graphics can display 4k video. BUT, all of the components in your home theater (TV, AV Receiver and HTPC motherboard) will need to have a HDMI 2.0a port in order to use all sources of 4K content.  
 On the AMD side, this starts with the Ryzen 2200G and on with any supported motherboard. Buy a Ryzen 5500GT and B550 motherboard and move on.    
-On the Intel side, this started with 7th gen (7xxx) CPUs, but required a [special hdmi 2.0 motherboard](/wiki/hdmi20); But since 11th gen (11xxx) CPUs, any supported motherboard will work. Buy a i3-12100 and B760 motherboard and move on.
+On the Intel side, this started with 7th gen (7xxx) CPUs, but required a [special hdmi 2.0 motherboard](/wiki/hdmi20); But since 11th gen (11xxx) CPUs, any supported motherboard will work. Buy a i3-13100 and B760 motherboard and move on.
 
 If one of the motherboards doesn't fit what you need, or you are upgrading an older, existing system that lacks the above, you can choose a [dedicated GPU](/wiki/components#gpusgraphics) to add on to your system that has these features. The Intel Arc A380 is popular, as is the RX 6400 on the AMD side.
 
@@ -731,7 +731,7 @@ HDR is also a popular feature these days. For additional requirements, see the s
 
 **COST**
 
-If you go the CPU w/IGPU route, you can expect to spend about $125 for a CPU (like a Intel i3-12100 or AMD Ryzen 5500GT) and between $90-$150 for a Intel B760/AMD B550 motherboard, respectively, depending on the form factor.  
+If you go the CPU w/IGPU route, you can expect to spend about $125 for a CPU (like a Intel i3-13100 or AMD Ryzen 5500GT) and between $90-$150 for a Intel B760/AMD B550 motherboard, respectively, depending on the form factor.  
 
 If you go the dedicated GPU route, an Intel ARC A380 will cost around $100, while a AMD RX 6400 will cost around $140.  
 
@@ -762,7 +762,7 @@ Otherwise, if you stick to Ryzen APUs or Intel >= 11th gen CPUs below, any paire
 
 The following CPU iGPUs/APUs are officially supported:  
 
-- Intel 7th+ Gen (7xxx+) Core i3/i5/i7/i9/Ultra, Intel >= 12th gen (G6900/G7400) Celeron/Pentium, Intel N5xxx/N6xxx Jasper Lake. **(REC: Intel i3-12100+B760 mobo)**  
+- Intel 7th+ Gen (7xxx+) Core i3/i5/i7/i9/Ultra, Intel >= 12th gen (G6900/G7400) Celeron/Pentium, Intel N5xxx/N6xxx Jasper Lake. **(REC: Intel i3-13100+B760 mobo)**  
 
 - AMD >= Ryzen 3 2x00G APU, >= Athlon 2x0GE/3000G **(REC: Ryzen 5500GT+B550 mobo)**
 
@@ -775,7 +775,7 @@ For older DiY motherboard support, reference our [HDMI 2.0 motherboards](/wiki/h
 *This section applies to DiY*  
 CPUs use power, sometimes more than you want. This power usage produces heat, which makes your fans work harder and sound louder to keep the CPU temperature under control. This number is the TDP and is in watts.  
 CPU mfgrs like Intel and AMD sometimes make low-power versions of their CPUs with a lower TDP.  
-Intel makes 65W and 35W versions of their i3 CPUs, with the 35W version having a "T" suffix (e.g. i3-12100T vs i3-12100) with a signifigantly lower Base Frequency to stay within the 35W limit.  
+Intel makes 65W and 35W versions of their i3 CPUs, with the 35W version having a "T" suffix (e.g. i3-13100T vs i3-13100) with a signifigantly lower Base Frequency to stay within the 35W limit.  
 AMD makes 65W and 35W versions of their APUs, with the 35W verion have a "E" suffix (e.g. 3400GE vs 3400G) with a signifigantly lower Base Frequency to stay within the 35W limit.  
 
 Usually, the low-power models are more expensive and limited in availablility, therefore harder to find.  
