@@ -665,14 +665,14 @@ Simple, Tonemapping
   * Netflix: Check edge://gpu in Microsoft Edge for: HDCP 2.2 support, HEVC installed/activable, and HEVC - HDR10 support set true. Check [Netflix HDR10 test pattern](https://www.netflix.com/title/80018499) looks correct.
   * Youtube: <!-- Check edge://flags in Microsoft Edge for: Media Foundation for Clear set to Enabled. --> Check [HDR content](https://www.youtube.com/watch?v=njX2bu-_Vw4) looks correct.
 
-## HDR Tests
+## Appendix
+
+### HDR Tests
 
 [Our HDR10 Test Videos/Patterns](https://drive.google.com/uc?export=download&id=1HbVqzhhtncjkowdxBgZ-ghycvy5w2cpv) - For Basic HDR video calibration  
 [Mehanik's Full HDR10 Test Videos/Patterns](https://drive.google.com/drive/folders/1m4IBq0euAxamL9ePgfdFuf8_5nLcRwHA) - For Advanced HDR video calibration  
 [Ideal 4K HEVC HDR10 test](https://drive.google.com/uc?export=download&id=1Q2Ix3mXMl-EMs0-hE-C3gCHg_Uwh4HZz) - UHD Blu-Ray high bitrate test - 4k, HEVC, HDR10, 50-90Mbps, 10-bit, 29.97fps, mp4  
 [Dolby's HDR tests](https://ott.dolby.com/browser_test_kit/help_files/topics/r_test_signals_all.html#r_files_mp4_all_def) - Multiple resolutions, frame rates and HDR types - 480p->4k, HEVC, HDR10/HLG/DV, DD+Atmos, mp4  
-
-## Appendix
 
 ### MadVR Performance Settings Per GPU
 
