@@ -448,7 +448,7 @@ If you need a DVI to HDMI cable, we recommend [BlueRigger](https://www.amazon.co
 
 It's highly recommended that you do NOT put 2.4 Ghz wifi routers in the same room as RF or BT devices below.  
 
-For **keyboards**, one with an integrated trackpad and backlight for use in the dark is ideal, but the best ones (like the Logitech K830 or Corsair K83) are discontinued. Of current ones, the Kinesis Form is of high quality but is expensive. Beyond that, Logitech and Microsoft will be the most supported and of decent quality. If you want specific features, you may be forced to venture out to Riitek, Arteck or other unknown chinese brands. Do not expect good quality, longevity, or support.  
+For **keyboards**, one with an integrated trackpad and backlight for use in the dark is ideal, but the best ones (like the Logitech K830 or Corsair K83) are discontinued. Of current new options, expect to spend $200 on a Kinesis Form or Magic Board setup if you want quality. Beyond that, Logitech and Microsoft will be the most supported and of decent quality. If you want specific features, you may be forced to venture out to Riitek, Arteck or other unknown chinese brands. Do not expect good quality, longevity, or support.  
 RF and Bluetooth (BT) are the most used connection technologies. Use either with a HTPC. For media devices/smart tvs, BT will be most supported  
 
 KEYBOARD						|	PRICE	|	SIZE	|	INT		|	BACKLIT	|	POINT	|	BATTERY	|	NOTES
