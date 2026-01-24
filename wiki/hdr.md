@@ -539,7 +539,6 @@ Simple, HDR Passthrough or Tonemapping
 * *MPV settings (Linux) **EXPERIMENTAL**:*  
    *  Create/Edit file: ~/snap/plex-htpc/common/mpv.conf
       * Add:  
-     `fullscreen=yes`<br>
      `[HDR]`<br>
      `profile-cond=p["video-params/primaries"] == "bt.2020"`<br>
      `vo=gpu-next`<br>
@@ -547,7 +546,6 @@ Simple, HDR Passthrough or Tonemapping
      `target-colorspace-hint=yes`<br>
      `target-trc=pq`<br>
      `target-prim=dci-p3`<br>
-     `fullscreen=yes`<br>
      `dolbyvision=no`<br>
      <!--
      MISC
@@ -593,6 +591,7 @@ Simple, HDR Passthrough or Tonemapping
 * *MPV settings:*  
    *  Create/Edit file: ~/snap/mpv/current/.config/mpv/mpv.conf
       * Add:  
+     `fullscreen=yes`<br>
      `[HDR]`<br>
      `profile-cond=p["video-params/primaries"] == "bt.2020"`<br>
      `vo=gpu-next`<br>
@@ -600,6 +599,7 @@ Simple, HDR Passthrough or Tonemapping
      `target-colorspace-hint=yes`<br>
      `target-trc=pq`<br>
      `target-prim=dci-p3`<br>
+     `fullscreen=yes`<br>
      `dolbyvision=no`<br>
      <!--
      MISC
