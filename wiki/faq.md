@@ -291,7 +291,7 @@ For Game Emulation, look at:
   - Mac: [RetroArch](https://www.retroarch.com/?page=platforms), [EmulationStation DE](https://es-de.org/), or [OpenEmu](https://openemu.org/) 
   - Android: [RetroArch](https://www.retroarch.com/?page=platforms), [EmulationStation DE](https://es-de.org/), or [Lemuroid](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid&hl=en_US&gl=US) 
   - Apple TV: [Provenance](https://github.com/Provenance-Emu/Provenance) 
-  - Others: [Nostlan](https://github.com/quinton-ashley/nostlan) for large 4k displays.
+  - Others: [Nostlan](https://quinton-ashley.github.io/nostlan-web) ($) for large 4k displays.
 
 For Game Streaming, look at [Sunshine](https://app.lizardbyte.dev/Sunshine) on your server/gaming PC and [Moonlight](https://moonlight-stream.org/) on your frontend client ([Windows/Linux/Android](https://github.com/moonlight-stream/moonlight-qt)/[LibreElec](https://github.com/veldenb/plugin.program.moonlight-qt)/tvOS).  
 
