@@ -294,7 +294,7 @@ For Game Emulation, look at:
 
 For Game Streaming, look at [Sunshine](https://app.lizardbyte.dev/Sunshine) on your server/gaming PC and [Moonlight](https://moonlight-stream.org/) on your frontend client ([Windows/Linux/Android](https://github.com/moonlight-stream/moonlight-qt)/[LibreElec](https://github.com/veldenb/plugin.program.moonlight-qt)/tvOS).  
 
-For Gaming, look at Steam w/Windows or Linux, as well as [Bazzite](https://universal-blue.discourse.group/t/bazzite-inital-setup-and-installation-for-htpc-setups/1145) or [ChimeraOS](https://chimeraos.org/) for a whole Steam-based OS.  
+For Gaming, look at Steam w/Windows (esp. for Anti-Cheat based games), Linux, or [Bazzite](https://universal-blue.discourse.group/t/bazzite-inital-setup-and-installation-for-htpc-setups/1145) / [ChimeraOS](https://chimeraos.org/) for a whole Steam-based OS with no Anti-Cheat based games.  
 
 **Media Servers:** 
 
