@@ -284,11 +284,12 @@ For playback of 3D MVC/Frame-Packed/SBS content, [See our separate wiki page her
 **Gaming/Emulation:** 
 
 For Game Emulation, look at:
-  - Linux: [Batocera](https://batocera.org/), [LibreElec](https://libreelec.tv/downloads/) w/Retroarch, or [Lakka (RetroArch on a stick)](https://www.lakka.tv/) 
-  - Windows: [RetroArch](https://www.retroarch.com/?page=platforms), [EmulationStation DE](https://es-de.org/) or [Launchbox Big Box](https://www.launchbox-app.com/premium) 
+  - Standalone: [Batocera](https://batocera.org/), [LibreElec](https://libreelec.tv/downloads/) w/Retroarch, or [Lakka (RetroArch on a stick)](https://www.lakka.tv/) 
+  - Linux: [RetroArch](https://www.retroarch.com/?page=platforms), [EmulationStation DE](https://es-de.org/) 
+  - Windows: [RetroArch](https://www.retroarch.com/?page=platforms), [Retrobat](https://www.retrobat.org/), [EmulationStation DE](https://es-de.org/) or [Launchbox Big Box](https://www.launchbox-app.com/premium) 
   - Bazzite: [Emudeck](https://www.emudeck.com) 
   - Mac: RetroArch or [OpenEmu](https://openemu.org/) 
-  - Android: [Lemuroid](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid&hl=en_US&gl=US) or RetroArch 
+  - Android: [RetroArch](https://www.retroarch.com/?page=platforms), [EmulationStation DE](https://es-de.org/), or [Lemuroid](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid&hl=en_US&gl=US) 
   - Apple TV: [Provenance](https://github.com/Provenance-Emu/Provenance) 
   - Others: [Nostlan](https://github.com/quinton-ashley/nostlan) for large 4k displays.
 
