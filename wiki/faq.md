@@ -59,7 +59,7 @@ You should first decide which of these roles you need and what your use-case is,
  - If a client/standlone, decide what kind of content you want to play. Local content? What video codecs? What audio codecs? HDR? Streaming services? Which ones? Web browsing? Gaming? Budget? Size?
  - If a server, decide what content you want to serve. Will you have to transcode it for remote clients? Do you want internal storage for it? How much? Budget? Size?
 
-If you're not familiar with HTPC terminology, you should reference the [video](/wiki/video)/[audio](/wiki/audio)/[storage](/wiki/storage) pages of the wiki as a guide to overall concepts before researching a solution that has to interact with other parts of your Home Theater system.  
+If you're not familiar with HTPC terminology, you should reference the [video](/wiki/video), [audio](/wiki/audio), and [HTPC terms](/wiki/reference) pages of the wiki as a guide to overall concepts before researching a solution that has to interact with other parts of your Home Theater system.  
 
 You can check our [general software section](/wiki/faq#what-software-will-i-need-and-how-do-i-set-it-up) for what's appropriate depending on what you want to do.
 
@@ -864,5 +864,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2026-01-13*
+*This page was last updated on 2026-01-25*
 
