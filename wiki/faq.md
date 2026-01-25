@@ -257,6 +257,7 @@ For a gaming-centric OS, if you have a AMD or Intel ARC gpu, look at [Bazzite](h
 
 For a launcher interface to open multiple apps, look at:
  - [Flex Launcher](https://complexlogic.github.io/flex-launcher) (Windows/Linux)
+ - [TV Launcher](https://github.com/Darkvinx88/TvLauncher) (Windows/Linux)
  - [Steam Big Picture mode](https://store.steampowered.com/bigpicture) (Windows/Linux/Mac)
  - [Kodi](https://kodi.wiki/view/Archive:HOW-TO:Make_Windows_boot_directly_to_Kodi_(as_a_shell)) with [add-ons](https://kodi.wiki/view/Category:All_add-ons) for pvr, emulators, etc..
  - [Omnimo for Rainmeter](https://omnimo.info/) (Windows)
