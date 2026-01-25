@@ -270,7 +270,7 @@ For [video streaming services](/wiki/faq#what-resolution-and-audio-is-supported-
 
 For simple media players, using local content, [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases), [VLC](https://www.videolan.org/vlc/) and [MPC-HC](https://github.com/clsid2/mpc-hc/releases/) are popular on Windows, with [Kodi](http://kodi.tv/) and [VLC](https://www.videolan.org/vlc/) on Linux.  
 
-If [simple HDR passthrough/tomemapping](/wiki/hdr) is what you're looking for, then look at [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases) with the built-in MPCVR renderer or [Kodi](http://kodi.tv/).  
+If [simple HDR passthrough/tonemapping](/wiki/hdr) is what you're looking for, then look at [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases) with the built-in MPCVR renderer or [Kodi](http://kodi.tv/).  
 For [high-end video upscaling or HDR tonemapping](/wiki/hdr), look at MPC-BE/MPC-HC with the madVR renderer.  
 For FPS upscaling, the [SmoothVideo Project](https://www.svp-team.com/).  
 
