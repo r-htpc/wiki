@@ -288,7 +288,7 @@ For Game Emulation, look at:
   - Linux: [RetroArch](https://www.retroarch.com/?page=platforms), [EmulationStation DE](https://es-de.org/) 
   - Windows: [RetroArch](https://www.retroarch.com/?page=platforms), [Retrobat](https://www.retrobat.org/), [EmulationStation DE](https://es-de.org/) or [Launchbox Big Box](https://www.launchbox-app.com/premium) 
   - Bazzite: [Emudeck](https://www.emudeck.com) 
-  - Mac: RetroArch or [OpenEmu](https://openemu.org/) 
+  - Mac: [RetroArch](https://www.retroarch.com/?page=platforms), [EmulationStation DE](https://es-de.org/), or [OpenEmu](https://openemu.org/) 
   - Android: [RetroArch](https://www.retroarch.com/?page=platforms), [EmulationStation DE](https://es-de.org/), or [Lemuroid](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid&hl=en_US&gl=US) 
   - Apple TV: [Provenance](https://github.com/Provenance-Emu/Provenance) 
   - Others: [Nostlan](https://github.com/quinton-ashley/nostlan) for large 4k displays.
