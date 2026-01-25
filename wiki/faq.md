@@ -244,7 +244,7 @@ Windows, Linux and Android are the most popular choices, as you can imagine.
 
 If you want to get the highest resolution from [streaming services](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x) (esp. DRMed ones), use HDR, video upscaling like madVR, or are combining with a gaming solution, you would use Windows.  
 
-Linux, alternatively, is free and good for local and emulation content, but you will be limited to [lower resolution streaming services](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x) and no stable HDR. Ubuntu and Fedora are good distros to start with.
+Linux, alternatively, is free and good for local and emulation content, but you will be limited to [lower resolution streaming services](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x) and no stable HDR. Kubuntu and Fedora are good distros to start with.
 
 There are some specialized linux-based distros out there, like [LibreElec (x86)](https://libreelec.tv/)/[CoreElec (ARM)](https://coreelec.org) which are OSes designed for running Kodi as the OS's plugin-capable front interface. They're very good for local content, emulation and game streaming, even HDR and work well with a [simple remote/controller](/wiki/components#keyboardsremotesgamepads). Like stock linux, they also suffer from lower resolutions on streaming services.  
 
