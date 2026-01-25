@@ -250,7 +250,7 @@ There are some specialized linux-based distros out there, like [LibreElec (x86)]
 
 For Android ports to PC look at [Android x86](https://www.android-x86.org/) or [Bliss OS](https://blissos.org/), but do not expect a TV-like interface, 4K streaming services or HD audio. You can run an Android container under Linux with [Waydroid](https://waydro.id/) and under Windows with [WSABuilds](https://github.com/MustardChef/WSABuilds). 
 
-For a gaming-centric OS, look at the SteamOS-like [Bazzite](https://universal-blue.discourse.group/t/bazzite-inital-setup-and-installation-for-htpc-setups/1145) or [ChimeraOS](https://chimeraos.org/). You can combine this with [EmuDeck](https://www.emudeck.com) for emulation or Plex/Kodi/VLC for media.  
+For a gaming-centric OS, look at the SteamOS-like [Bazzite](https://docs.bazzite.gg/General/Installation_Guide/Installing_Bazzite_for_HTPC_Setups/) or [ChimeraOS](https://chimeraos.org/). You can combine this with [EmuDeck](https://www.emudeck.com) for emulation or Plex/Kodi/VLC for media.  
 
 **Launchers:** 
 
