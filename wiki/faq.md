@@ -51,12 +51,9 @@ For instance, it can act standalone and play media from [internal storage](/wiki
  - If you are planning on playing streaming services in >= 1080p, or >= 5.1 sound, you should use a [media device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) instead. A traditional HTPC [lacks HD video/audio for a lot of the streaming services](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x) and is poor at navigating them.  
  - If you are planning on playing **Dolby Vision**/HDR10+, you should use a [media device](/wiki/sample-builds#specialized-dolby-vision--hdr10) instead. A traditional HTPC lacks proper passthrough of Dolby Vision for media content.
  
-It can be a client connected to a TV/sound system and then [connect to a server](/wiki/faq#can-i-streamhow-do-i-serve-my-content-from-another-computer-or-a-networked-storage-device) which provides it the media to play.  
-
-It can be a server which provides the media to the client as fore-mentioned.  
-
-It can be client and server as well; connected to a TV as a client, playing internal media, but also has [server software](/wiki/faq#what-software-will-i-need-and-how-do-i-set-it-up) installed, which it uses to [send media to 
-other clients in the home](/wiki/faq#can-i-streamhow-do-i-serve-my-content-from-another-computer-or-a-networked-storage-device).
+It can be a client connected to a TV/sound system and then [connect to a server](/wiki/faq#can-i-streamhow-do-i-serve-my-content-from-another-computer-or-a-networked-storage-device) which provides it the media/games to play.  
+It can be a server which provides the media/games to the client as fore-mentioned.  
+It can be client and server as well; connected to a TV as a client, playing internal media, but also has [server software](/wiki/faq#what-software-will-i-need-and-how-do-i-set-it-up) installed, which it uses to [send media to other clients in the home](/wiki/faq#can-i-streamhow-do-i-serve-my-content-from-another-computer-or-a-networked-storage-device).
 
 You should first decide which of these roles you need and what your use-case is, then you can look at the builds page and find something that meets your needs.
  - If a client/standlone, decide what kind of content you want to play. Local content? What video codecs? What audio codecs? HDR? Streaming services? Which ones? Web browsing? Gaming? Budget? Size?
@@ -64,9 +61,11 @@ You should first decide which of these roles you need and what your use-case is,
 
 If you're not familiar with HTPC terminology, you should reference the [video](/wiki/video)/[audio](/wiki/audio)/[storage](/wiki/storage) pages of the wiki as a guide to overall concepts before researching a solution that has to interact with other parts of your Home Theater system.  
 
-A simple setup may just have a standalone PC with the [appropriate software](/wiki/faq#what-software-will-i-need-and-how-do-i-set-it-up) or a [media device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc). Usually if streaming or a remote-based interface is a priority, then a media device is best, where a PC is better for more customization, local content, keyboard/mouse interaction or lots of storage.  
+You can check our [general software section](/wiki/faq#what-software-will-i-need-and-how-do-i-set-it-up) for what's appropriate depending on what you want to do.
 
-An advanced setup with might have a server/storage tucked away somewhere and one or more client PCs/media devices connected to each display.  
+A simple setup may just have a standalone PC with the appropriate software or a [media device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc). Usually if streaming or a remote-based interface is a priority, then a media device is best, where a PC is better for more customization, local content, keyboard/mouse interaction or lots of storage.  
+
+If a PC, it's normal to want to make the interface as easy to use as a media device and less like a Windows or Linux OS desktop. It will not be all the way there, but you can get partially there either with specialized operating systems, like [LibreElec](/wiki/faq#what-software-will-i-need-and-how-do-i-set-it-up), a Kodi interface-based OS built mostly for media and emulation, [Bazzite](/wiki/faq#what-software-will-i-need-and-how-do-i-set-it-up), a SteamOS-like OS built for mostly gaming, other linux-based distros for emulation (like Batocera or Lakka), or just [Launchers](/wiki/faq#what-software-will-i-need-and-how-do-i-set-it-up) over top of Windows/Linux to open Apps and either a [keyboard, remote, or game controller](/wiki/components#keyboardsremotesgamepads).  
 
 Setups vary and there are many ways to do things. Finding the best way for you takes some time and research.  
 
@@ -251,7 +250,7 @@ There are some specialized linux-based distros out there, like [LibreElec (x86)]
 
 For Android ports to PC look at [Android x86](https://www.android-x86.org/) or [Bliss OS](https://blissos.org/), but do not expect a TV-like interface, 4K streaming services or HD audio. You can run an Android container under Linux with [Waydroid](https://waydro.id/) and under Windows with [WSABuilds](https://github.com/MustardChef/WSABuilds). 
 
-For a gaming-centric OS, if you have a AMD or Intel ARC gpu, look at [Bazzite](https://universal-blue.discourse.group/t/bazzite-inital-setup-and-installation-for-htpc-setups/1145) or [ChimeraOS](https://chimeraos.org/).  
+For a gaming-centric OS, look at the SteamOS-like [Bazzite](https://universal-blue.discourse.group/t/bazzite-inital-setup-and-installation-for-htpc-setups/1145) or [ChimeraOS](https://chimeraos.org/). You can combine this with [EmuDeck](https://www.emudeck.com) for emulation or Plex/Kodi/VLC for media.  
 
 **Launchers:** 
 
