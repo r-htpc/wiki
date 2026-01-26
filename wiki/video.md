@@ -87,11 +87,13 @@ Displayport (Alternate mode): Digital. Displayport/USB->HDMI cable/adapter
 **HDR Types**
 
 HDR10: Very common. Very compatible. Static Metadata. 400-4000 cd/m2. 10-bit color.  
-HDR10+: Not common. Dynamic Metadata. 1000-4000 cd/m2. 10-bit color. **No passthrough on an HTPC**  
+[HDR10+](https://hdr10plus.org/wp-content/uploads/2025/04/HDR10_Ecosystem_April_2025.pdf) (Bright/Adaptive/Genre): Not common. Dynamic Metadata. 1000-4000 cd/m2. 10-16-bit color. **No passthrough on an HTPC**  
+HDR10+ Advanced: Not common. Dynamic Metadata. 1000-10000 cd/m2. 10-16-bit color. Intelligent FRC. **No passthrough on an HTPC**  
 [Dolby Vision](https://dolby.my.salesforce.com/sfc/p/700000009YuG/a/4u000000l6G4/4R18riPaaW3gxpVx7XwyQLdEITLFjB.w.Si0LoQR5j8): Very common. Not very compatible, esp. with local content. Dynamic Metadata. 1000-4000 cd/m2. 12-bit color. **No passthrough on an HTPC**  
+Dolby Vision 2: 10000 cd/m2. Authentic Motion, Content Intelligence, Precision Black. **No passthrough on an HTPC**  
   - Profile 5: Commerical streaming services, single-layer, ICtCp colorspace. Netflix, Youtube, etc.. No HDR10 fallback.
   - Profile 7: UHD Blu-ray discs, dual-layer. Base layer (4k HDR10-compatible static layer) + Enhancement layer (7M/MEL (1080p partial dynamic enhancement layer) or 7F/FEL (4k 12-bit full dynamic enhancement layer))
-  - Profile 8: Uncommon (mobile phone/social content, etc..), single-layer HDR10/HLG/SDR.  
+  - Profile 8: Uncommon (mobile phone/social content, etc..), single-layer HDR10/HLG/SDR.
 
 HLG: Not common. No metadata. SDR & HDR in same signal. 1000 cd/m2 nominal. 10-bit color.  
 
@@ -112,7 +114,7 @@ See also: [Wiki:FAQ:What is HDR video and what do I need to take advantage of it
 4. Technology Combinations (TECHNOLOGY: BIT-DEPTH, TRANSFER FUNCTION, COLOR PRIMARIES, FORMATS)  
  a. PQ10: 10-bit, PQ, P3->Rec.2020, ST 2084  
  b. HDR10: 10-bit, PQ, P3->Rec.2020, ST 2084/ST 2086  
- c. HDR10+: 10/12-bit, PQ, P3->Rec.2020, ST 2094  
+ c. HDR10+: 10/12-bit, PQ, P3->Rec.2020, ST 2084/ST 2094  
  d. Dolby Vision: 10/12-bit, PQ, P3->Rec.2020, ST 2094  
  e. HLG: 10-bit, HLG/Gamma, P3->Rec.2020, None    
  f. DVD/FHD Blu-Ray: 8-bit, Gamma, Rec.709->sRGB, None  
@@ -854,5 +856,5 @@ Dolby Vision Tests - [P5](https://drive.google.com/uc?export=download&id=1u5T0NM
 
 ---
 
-*This page was last updated on 2026-01-14*
+*This page was last updated on 2026-01-25*
 
