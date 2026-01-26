@@ -69,6 +69,8 @@ Dolby Atmos: For Media, Metadata around the TrueHD/DD+ codecs. For Gaming, Metad
 
 DTS:X: Metadata around the DTS-HD MA/DTS codec. Lossless. Up to 24.1.10 channels. Gold standard. Atmos competitor. Lossless can be played over full HDMI (1.3+) or eARC. Lossy DTS core for over Optical/HDMI ARC. Lossy IMAX Enhanced DTS:X for over HDMI ARC. 
 
+Eclipsa / IAMF: Lossless/Lossy, <= NA Mbps. Up to 28 channels. Rare. An open-source 3D sound format developed by Google and Samsung. Codec-agnostic, but PCM/Opus/AAC/FLAC is common. 
+
 Dolby Atmos/DTS:X > Dolby TrueHD/DTS-HD MA > DD+/DTS-HD HRA > DD/DTS > AAC > Stereo  
 
 &nbsp;
