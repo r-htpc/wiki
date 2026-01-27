@@ -494,6 +494,8 @@ EXTERNAL: OPTIONAL: If you need/want an advanced/specialized audio decoder/filte
 
 ### What kind of audio is supported on a HTPC?
 
+OS: Windows - Up to 7.1 PCM, Dolby TrueHD Atmos (8.1.4.4), DTS:X (8.1.4.4). Linux: Up to 7.1 PCM, Dolby TrueHD Atmos, DTS:X. MacOS: Up to 7.1 PCM, Dolby Digital+ Atmos, No DTS.  
+
 Media Player Apps: Up to [Dolby TrueHD Atmos, DTS:X](/wiki/audio#audio-formatscodecs)  
 
 Blu-Ray Media: Required: LPCM <= 7.1, DTS, Dolby Digital <= 5.1. Optional: [Dolby Digital+ 6.1-7.1, Dolby TrueHD 1.0-7.1 Atmos](https://forum.blu-ray.com/showthread.php?t=159814), DTS-HD/MA 7.1, DTS:X  
@@ -1161,5 +1163,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2026-01-25*
+ *This page was last updated on 2026-01-26*
 
