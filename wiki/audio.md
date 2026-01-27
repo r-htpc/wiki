@@ -494,7 +494,7 @@ EXTERNAL: OPTIONAL: If you need/want an advanced/specialized audio decoder/filte
 
 ### What kind of audio is supported on a HTPC?
 
-OS: Windows - Up to 7.1 PCM, Dolby TrueHD Atmos (8.1.4.4), DTS:X (8.1.4.4). Linux: Up to 7.1 PCM, Dolby TrueHD Atmos, DTS:X. MacOS: Up to 7.1 PCM, Dolby Digital+ Atmos, No DTS.  
+OS: Windows - Up to LPCM 7.1, Dolby TrueHD Atmos (8.1.4.4), DTS:X (8.1.4.4). Linux: Up to 7.1 LPCM, Dolby TrueHD Atmos, DTS:X. MacOS: Up to 7.1 LPCM, Dolby Digital+ Atmos, No DTS.  
 
 Media Player Apps: Up to [Dolby TrueHD Atmos, DTS:X](/wiki/audio#audio-formatscodecs)  
 
