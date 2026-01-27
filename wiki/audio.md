@@ -71,7 +71,9 @@ DTS:X: Metadata around the DTS-HD MA/DTS codec. Lossless. Up to 24.1.10 channels
 
 Eclipsa / IAMF: Lossless/Lossy, <= NA Mbps. Up to 28 channels. Rare. An open-source 3D sound format developed by Google and Samsung. Codec-agnostic, but PCM/Opus/AAC/FLAC is common. 
 
-Dolby Atmos/DTS:X > Dolby TrueHD/DTS-HD MA > DD+/DTS-HD HRA > DD/DTS > AAC > Stereo  
+OS Support: *Windows*: Up to LPCM 7.1, Dolby TrueHD Atmos (8.1.4.4), DTS:X (8.1.4.4). *Linux*: Up to 7.1 LPCM, Dolby TrueHD Atmos, DTS:X. *MacOS*: Up to 7.1 LPCM, Dolby Digital+ Atmos, No DTS.  
+
+<!-- Dolby Atmos/DTS:X > Dolby TrueHD/DTS-HD MA > DD+/DTS-HD HRA > DD/DTS > AAC > Stereo   -->
 
 &nbsp;
 
