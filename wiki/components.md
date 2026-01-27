@@ -499,23 +499,23 @@ If you want built-in macro support and can't afford the Sofabatons, look at a Sk
 REMOTE			|	PRICE	|	INT		|	BACKLIT	|	POINT | BATTERY	|	NOTES
 :--|:--|:--|:--|:--|:--|:--|
 Logitech Harmony One	|	Disc (1)	|	RF/BT/IR	|	Yes	|	No  | Int	|	IR Blaster, Hub
-[Sofabaton U1](https://sofabaton.com/products/u1) / [U2](https://sofabaton.com/products/u2)		|	$37/$60	|	BT/IR		|	NO	|	No  | AA (30hr)	|	15 devices, macros, mobile app
-[Sofabaton X1](https://sofabaton.com/products/x1)		|	$130	|	BT/IR/WiFi	|	Yes	| No  | 	Int	(60hr) |	60 devices, adv macros, hub, IR blaster, voice/alexa/google
-**[Pepper Jobs W10](https://www.pepper-jobs.com/products/w10-gyro-smart-remote)**		|	$30	|	RF/IR	|	Yes	|	YES  | AAA	|	Mini keyboard, Air Mouse, IR Learn, Made for Windows, Linux ok
-**[OSMC Remote](https://osmc.tv/store/product/osmc-remote-control/)**		|	$20	|	RF		|	Yes	|	No  | CR-2032	|	Good simple remote for Kodi
-[8bitdo Media Remote](https://www.amazon.com/8Bitdo-Media-Remote-Xbox-One-Infrared/dp/B0BXSV78R6) |	$20	|	IR    |  Yes  | No  | AAA | Use w/Flirc, **Motion-active** backlight
+[Sofabaton U2](https://sofabaton.com/products/u2) / [U2 BL](https://sofabaton.com/products/u2-backlit)		|	$60/$70	|	BT/IR		|	No/YES	|	No  | AA (30hr)	|	15 devices, macros, IR Learn, mobile app
+[Sofabaton X1](https://sofabaton.com/products/x1)		|	$130	|	BT/IR/WiFi	|	YES	| No  | 	Int	(60hr) |	60 devices, adv macros, hub, IR blaster, voice/alexa/google
+**[Pepper Jobs W10](https://www.pepper-jobs.com/products/w10-gyro-smart-remote)**		|	$30	|	RF/IR	|	YES	|	YES  | AAA	|	Mini keyboard, Air Mouse, IR Learn, Made for Windows, Linux ok
+**[OSMC Remote](https://osmc.tv/store/product/osmc-remote-control/)**		|	$20	|	RF		|	YES	|	No  | CR-2032	|	Good simple remote for Kodi
+[8bitdo Media Remote](https://www.amazon.com/8Bitdo-Media-Remote-Xbox-One-Infrared/dp/B0BXSV78R6) |	$20	|	IR    |  YES  | No  | AAA | Use w/Flirc, **Motion-active** backlight
 [Skip 1s](https://flirc.tv/products/skip1s-remote-universal-remote-control)    | $45  | IR  | No | No  | AAA | Use w/Flirc, **Macros**, learning, mobile app
 [MCE](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw=mce+remote&_sacat=0) / [Inteset](https://www.amazon.com/Inteset-Universal-Backlit-Learning-Streamers/dp/B00M4I1BAY) Remote | $20-30 | IR | Some | No  |  AA/AAA | Use w/an included IR hub, Flirc USB adap, or HDMI-CEC. Good for Kodi/Plex
 **[Vista MCE](https://www.ebay.com/sch/i.html?_nkw=vista+mce+remote)** | $40 | IR | No | YES | AAA | Use w/included IR hub, Flirc USB adap. **Built-in phy. trackpad**. [VRC-1100 clone](https://kodi.wiki/view/Archive:VRC-1100).
 **[Flirc](https://flirc.tv/more/flirc-usb)**  | $20 | USB/IR | NA | NA  |  NA | USB IR Receiver for remotes. Wake/Sleep
-[Dune HD R4](https://www.dune-hd.com/collections/accessories/products/dune-hd-bt-backlit-remote-r4)		|	$20	|	BT/IR		|	Yes	| YES  | 	AAA	|	Remote and Air Mouse, IR Learn
-WeChip G20S Pro/Plus		|	$20	|	RF/BT		|	Yes	|	YES | AAA	|	Remote and Air Mouse
+[Dune HD R4](https://www.dune-hd.com/collections/accessories/products/dune-hd-bt-backlit-remote-r4)		|	$20	|	BT/IR		|	YES	| YES  | 	AAA	|	Remote and Air Mouse, IR Learn
+WeChip G20S Pro/Plus		|	$20	|	RF/BT		|	YES	|	YES | AAA	|	Remote and Air Mouse
 MX3 Pro			|	$20	|	RF		|	Yes	|	YES  | AAA	|	Remote, Mini keyboard, and Air Mouse
 [HTWebRemote](https://github.com/nicko88/HTWebRemote)	|	Free	|	LAN		|	NA	| NA | 	NA	|	Software to create web-accessible remote on Windows/[Linux](https://github.com/nicko88/HTWebRemoteHost) HTPC to control multiple devices. [Contact](https://www.reddit.com/message/compose/?to=SirMaster)
 [Unified Remote](https://www.unifiedremote.com/)	|	Free/$5	|	LAN		|	NA	|	NA | NA	|	Software to create app-accessible remote on Windows/Linux HTPC to control multiple devices. Use phone to control PC as mouse/remote.
 [Netflix Remote Controller](http://sticky-ux.com/apps/NetflixRemoteController/)		|	Free	|	NA | NA	|	NA 	|	NA	| Software to control Windows Netflix app from keyboard/remote
 [MX3 Kodi Remapper](https://www.mediafire.com/download/gr77i62xp8q27j1/MX3-M_Remote_FiX-v3.0_(Universal).zip) 		|	Free	|	NA	|NA	|	NA	|	NA	| Software/scripts for MX3 remote to disable mouse map Ok/Mouse buttons to Enter/Backspace in Kodi
-[8bitdo Ultimate 2C](https://www.amazon.com/dp/B0DB4LXDP7?th=1) 		|	$30	|	RF/BT/USB		|	Yes	|	YES | Int	|	Xbox-type gamepad. [specs](https://www.8bitdo.com/ultimate-2c-wireless-controller/)
+[8bitdo Ultimate 2C](https://www.amazon.com/dp/B0DB4LXDP7?th=1) 		|	$30	|	RF/BT/USB		|	YES	|	YES | Int	|	Xbox-type gamepad. [specs](https://www.8bitdo.com/ultimate-2c-wireless-controller/)
 [Controller Companion](https://store.steampowered.com/app/367670/Controller_Companion/)	|	$2.99	|	NA		|	NA	| YES |	NA	|	Software to use Xbox/XInput controllers as keyboard/mouse/remote
 [DS4Windows](https://ds4-windows.com/)	|	Free	|	NA		|	NA  | YES	|	NA	|	Software to use PS (DS3/DS4/DS5) controllers as mouse/remote
 [JoyXOff](https://joyxoff.com/en/)	|	Free	|	NA		|	NA | YES	|	NA	|	Software to use Xbox/XInput controllers as keyboard/mouse/remote
