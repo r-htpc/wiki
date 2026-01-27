@@ -548,11 +548,12 @@ If you must have menus, which is presumably the reason you want disc playback, c
       - Click the disc backup icon in the Toolbar. This will create an unencrypted folder structure. Specify the output path for it
       - Use [ImgBurn](https://www.imgburn.com/index.php?act=download) to create an ISO file from the unencrypted folder
  5. Play the ISO with a compatible player; these are:
-    - Kodi (w/[Java 8](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html) for Blu-Ray)
-    - VLC
+    - Kodi (w/[Java 8](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html)/[OpenJDK 12](https://download.java.net/java/GA/jdk12.0.2/e482c34c86bd4bf8b56c0b35558996b9/10/GPL/openjdk-12.0.2_windows-x64_bin.zip) for Blu-Ray menus)
+    - VLC (w/[Java 8](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html)/[OpenJDK 12](https://download.java.net/java/GA/jdk12.0.2/e482c34c86bd4bf8b56c0b35558996b9/10/GPL/openjdk-12.0.2_windows-x64_bin.zip) for Blu-Ray menus)
     - MPC-HC/MPC-BE
     - JRiver
-    - If you have problems opening the ISO with a player, mount the ISO with [CloneDrive](https://www.majorgeeks.com/files/details/virtual_clonedrive.html) first and open the folder structure
+    - NOTE: If you have problems opening the ISO with a player, mount the ISO with [CloneDrive](https://www.majorgeeks.com/files/details/virtual_clonedrive.html) first and open the folder structure
+    - NOTE: If you have problems with Java being found by a media player for Blu-Ray menus, make sure the Java and the Media Player installs are both 64-bit
 
 If you must have disc playback:
  1. DVD: Kodi/MPC-BE/VLC, [Microsoft DVD player](http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/db1d271e-866f-4943-8e8d-1649d5ca704c?P1=1748382587&P2=404&P3=2&P4=UlZBtHy0ecYSgnXfX0cfyXNxHLRdfTawYFSnFTLz7j%2f9ZOmLEmG5UlZaMH%2bTYqhSbd0hdCcG1wqTks6dGB9gbg%3d%3d), [Xreveal](https://www.xreveal.com/) + keydb_eng.zip + Media player above
