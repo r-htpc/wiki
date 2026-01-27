@@ -533,12 +533,12 @@ See [Wiki:FAQ:What resolution and audio is supported on streaming service X?](/w
 
 ### How can i play my DVD/Blu-ray discs on my HTPC?
 
-Ideally, you shouldn't; especially for UHD/4K, as the [system requirements are so restrictive](/wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility) to make it not worth-while.  
+Ideally, you shouldn't try to play physical discs; especially for UHD/4K, as the [system requirements are so restrictive](/wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility) to make it not worth-while.  
 
 You should rip your discs to digital files per [Wiki:How can i rip my DVD/Blu-ray discs and what are some good quality settings to use?](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use). If you must have Dolby Vision/HDR10+, send them over the network via network share or [media server software](/wiki/video#video-software) to a [capable client device](/wiki/sample-builds#specialized-dolby-vision--hdr10). Read [this](/wiki/faq#can-i-streamhow-do-i-serve-my-content-from-another-computer-or-a-networked-storage-device) for details on streaming content over your local network.  
 
-If you must have menus, which is presumably the reason you want disc playback, create an unencrypted ISO of it.  
- 1. If UHD Blu-Ray, make sure [you have a UHD Friendly drive](/wiki/components#optical-drives)
+If you must have disc menus, which is presumably the reason you want disc playback, create an unencrypted ISO of it.  
+ 1. If UHD Blu-Ray, make sure you have a [UHD Friendly drive](/wiki/components#optical-drives)
  2. Install and run [MakeMKV](https://www.makemkv.com/)
  3. Insert your disc
  4. Create the backup
@@ -555,7 +555,7 @@ If you must have menus, which is presumably the reason you want disc playback, c
     - NOTE: If you have problems opening the ISO with a player, mount the ISO with [CloneDrive](https://www.majorgeeks.com/files/details/virtual_clonedrive.html) first and open the folder structure
     - NOTE: If you have problems with Java being found by a media player for Blu-Ray menus, make sure the Java and the Media Player installs are both 64-bit
 
-If you must have disc playback:
+If you must have physical disc playback:
  1. DVD: Kodi/MPC-BE/VLC, [Microsoft DVD player](http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/db1d271e-866f-4943-8e8d-1649d5ca704c?P1=1748382587&P2=404&P3=2&P4=UlZBtHy0ecYSgnXfX0cfyXNxHLRdfTawYFSnFTLz7j%2f9ZOmLEmG5UlZaMH%2bTYqhSbd0hdCcG1wqTks6dGB9gbg%3d%3d), [Xreveal](https://www.xreveal.com/) + keydb_eng.zip + Media player above
  2. FHD Blu-Ray: [Leawo Blu-Ray Player](https://www.leawo.com/blu-ray-player/), [Xreveal](https://www.xreveal.com/) + keydb_eng.zip + Media player above
  3. UHD Blu-Ray: *Official UHD Drive*: [CyberLink PowerDVD Ultra <= v22.0.3214.62](https://www.cyberlink.com/products/powerdvd-ultra/features_en_US.html). *[UHD-Friendly Drive](/wiki/components#optical-drives)*: [Xreveal](https://www.xreveal.com/) + keydb_eng.zip + Media player above. DV/HDR10+ is not possible. If you must have these, rip the discs to file storage and send them over the network via network share or media server software to a [capable client device](/wiki/sample-builds#specialized-dolby-vision--hdr10)
@@ -857,5 +857,5 @@ Dolby Vision Tests - [P5](https://drive.google.com/uc?export=download&id=1u5T0NM
 
 ---
 
-*This page was last updated on 2026-01-25*
+*This page was last updated on 2026-01-26*
 
