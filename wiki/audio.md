@@ -45,31 +45,44 @@ Interface support for codecs is varied because of bandwidth limitations. An exam
 
 These are the codecs/encoded formats you're likely to run into:  
 
-PCM/LPCM: Lossless. # of channels dependent on interface. Optical/HDMI ARC only supports 2 channels. More than 2 channels can be played over regular HDMI/eARC/Displayport/RCA/3.5mm. Common in web browsers and typical **gaming audio.** **Default OS output**  
+PCM/LPCM: Lossless. # of channels dependent on interface. Optical/HDMI ARC only supports 2 channels. More than 2 channels can be played over regular HDMI/eARC/Displayport/RCA/3.5mm.
+ - Used in: **Default OS output**, **Gaming audio**, Ripped/physical DVD/FHD/UHD disc media, Youtube, Web Browsers  
 
 AAC/HE-AAC: Lossy, <= 320 Kbps. Up to 48 channels. Almost always cannot be decoded (esp. in 5.1 form) by Sound Systems. Decode to PCM or re-encode first. Also applies to FLAC/MP3/OGG. 
+ - Used in: Local media, Music  
 
-Dolby Digital/AC-3: "DD". Lossy, <= 640 kbps. Up to 5.1 channels. Common in **commercial streaming media**, physical media. Can be played over Optical/HDMI/HDMI ARC  
+Dolby Digital/AC-3: "DD". Lossy, <= 640 kbps. Up to 5.1 channels. Can be played over Optical/HDMI/HDMI ARC  
+ - Used in: Ripped/physical DVD/FHD/UHD disc media, **commerical streaming services**  
 
 Dolby Digital Live: Encodes PCM 5.1 audio into a compressed 5.1 <!-- 16-bit/48kHz 640 Kbps --> DD stream for transport over bandwidth-starved Optical/HDMI ARC interfaces. [Used in gaming on specific soundcards](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system).  
+ - Used in: Transcoded **gaming audio**/local media for compatability
 
 DTS Connect / Interactive: DTS's version of Dolby Digital Live. Encodes PCM 5.1 into a compressed 5.1 <!-- 24-bit/48kHz 1.5 Mbps --> DTS stream.  
+ - Used in: Transcoded **gaming audio**/local media for compatability
 
-DTS/DCA: Lossy, <= 1.5 Mbps. Up to 5.1 channels. Common in physical media, not streaming media. DD competitor. Can be played over Optical/HDMI/HDMI ARC  
+DTS/DCA: Lossy, <= 1.5 Mbps. Up to 5.1 channels. DD competitor. Can be played over Optical/HDMI/HDMI ARC  
+ - Used in: Ripped/physical DVD/FHD/UHD disc media
 
-Dolby Digital+/E-AC-3: "DD+". Lossy, <= 6 Mbps (1.7 on Blu-Ray). Up to 15.1 channels. Can be played over full HDMI or HDMI ARC (5.1)/eARC (7.1). Common in **commercial streaming media**  
+Dolby Digital+/E-AC-3: "DD+". Lossy, <= 6 Mbps (1.7 on Blu-Ray). Up to 15.1 channels. Can be played over full HDMI or HDMI ARC (5.1)/eARC (7.1).
+ - Used in: Ripped/physical DVD/FHD/UHD disc media, **commerical streaming services**
 
-Dolby TrueHD: Lossless, <= 18 Mbps. Up to 7.1 channels. Common in physical media, not in streaming media. Can be played over full HDMI (1.3+) or HDMI eARC.  
+Dolby TrueHD: Lossless, <= 18 Mbps. Up to 7.1 channels. Can be played over full HDMI (1.3+) or HDMI eARC.  
+ - Used in: Ripped/physical FHD/UHD disc media
 
 DTS-HD HRA: Lossy, <= 6Mbps. Up to 7.1 channels. DD+ competitor. Can be played over full HDMI or eARC.  
+ - Used in: Ripped/physical FHD/UHD disc media
 
-DTS-HD MA: Lossless, <= 25.4 Mbps. Up to 7.1 channels. Common in physical media, not in streaming media. TrueHD competitor. Can be played over full HDMI (1.3+) or eARC. DTS lossy included within for over Optical/HDMI ARC.  
+DTS-HD MA: Lossless, <= 25.4 Mbps. Up to 7.1 channels. TrueHD competitor. Can be played over full HDMI (1.3+) or eARC. DTS lossy included within for over Optical/HDMI ARC.  
+ - Used in: Ripped/physical FHD/UHD disc media
 
 Dolby Atmos: For Media, Metadata around the TrueHD/DD+ codecs. For Gaming, Metadata embedded in PCM (MAT) for use with Dolby Access. Without an Atmos sound system and height speakers, just the base codecs apply. Lossless/Lossy indirectly. Up to 24.1.10 channels. Gold standard. Lossless can be played over full HDMI (1.3+) or eARC. Lossy DD+ 5.1 version can be played over HDMI ARC.  
+ - Used in: Ripped/physical FHD/UHD disc media, **gaming audio (lossless)**, **commerical streaming services (lossy)**
 
 DTS:X: Metadata around the DTS-HD MA/DTS codec. Lossless. Up to 24.1.10 channels. Gold standard. Atmos competitor. Lossless can be played over full HDMI (1.3+) or eARC. Lossy DTS core for over Optical/HDMI ARC. Lossy IMAX Enhanced DTS:X for over HDMI ARC. 
+ - Used in: Ripped/physical FHD/UHD disc media
 
 Eclipsa / IAMF: Lossless/Lossy, <= NA Mbps. Up to 28 channels. Rare. An open-source 3D sound format developed by Google and Samsung. Codec-agnostic, but PCM/Opus/AAC/FLAC is common. 
+ - Used in: NA
 
 OS Support: *Windows*: Up to LPCM 7.1, Dolby TrueHD Atmos (8.1.4.4), DTS:X (8.1.4.4). *Linux*: Up to 7.1 LPCM, Dolby TrueHD Atmos, DTS:X. *MacOS*: Up to 7.1 LPCM, Dolby Digital+ Atmos, No DTS.  
 
