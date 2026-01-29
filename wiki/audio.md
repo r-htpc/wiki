@@ -378,9 +378,9 @@ In media applications, the most popular ones will have the codecs to decode up t
    - Choose ONE of the following options
    - Use one of the upmixing listening mode(s) on your sound system (e.g. Dolby Surround/Dolby Pro Logic/DTS Neural), if available.
    - Configure the speaker configuration in your media applications to the speakers you want to upmix to, e.g. 5.1. This varies. Each app usually has their own audio mixing filter, but may also include LAV audio decoder filters to do normalize/DRC/etc...
-   - Use a system-wide upmixer, such as [Equalizer APO + Peace Equalizer GUI](/wiki/audio#audio-software), with Stereo Effect.
+   - Use a system-wide upmixer, such as [Equalizer APO + Peace Equalizer GUI](/wiki/audio#audio-software), with Stereo Effect *OR* [Voicemeter Banana](https://vb-audio.com/Voicemeeter/banana.htm) with [Stereo Repeat](https://voicemeeter.com/mix-down-and-mix-up-the-voicemeeter-bus-modes/)
    - If available, set your window's sound device to use the 'Speaker fill' enhancement.
-   - Install Dolby Access and configure Dolby Atmos for Home Theater with the Channel Upmixer option enabled
+   - Install Dolby Access and configure Dolby Atmos for Home Theater in your sound device's speaker config
 
 - *Other:*
   - Some OS sounds/applications primarily output audio as PCM exclusively (e.g. youtube in web browsers).
