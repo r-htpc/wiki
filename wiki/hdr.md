@@ -206,7 +206,7 @@ Advanced, more powerful dynamic tonemapping, high-end upscaling and processing t
           * Enable: switch to matching display mode..when playback starts  
           * list all display modes..: 2160p23, 2160p24, 2160p50, 2160p59, 2160p60 (assumes a 4k display)  
         * HDR -> passthrough HDR content to the display, send HDR metadata to the display  
-          * *ALT: For static tonemapping to SDR*: HDR -> let madVR decide + rendering->trade quality for..->don't measure HDR.. option checked
+          * *ALT: For static tonemapping to SDR*: HDR -> let madVR decide + rendering->trade quality for..->don't measure HDR.. option checked (if avail)
     * scaling algorithms
       * chroma upscaling
         * processing..: Bilinear (for more intensive scaling, see Performance settings section at the bottom)  
@@ -270,7 +270,7 @@ Advanced, more powerful dynamic tonemapping, high-end upscaling and processing t
           * Enable: switch to matching display mode..when playback starts  
           * list all display modes..: 2160p23, 2160p24, 2160p50, 2160p59, 2160p60 (assumes a 4k display)  
         * HDR -> passthrough HDR content to the display, send HDR metadata to the display  
-          * *ALT: For static tonemapping to SDR*: HDR -> let madVR decide + rendering->trade quality for..->don't measure HDR.. option checked
+          * *ALT: For static tonemapping to SDR*: HDR -> let madVR decide + rendering->trade quality for..->don't measure HDR.. option checked (if avail)
     * scaling algorithms
       * chroma upscaling
         * processing..: Bilinear (for more intensive scaling, see Performance settings section at the bottom)  
@@ -322,7 +322,7 @@ Advanced, current way to integrate madVR into Kodi for passthrough, dynamic tone
           * Enable: switch to matching display mode..when playback starts  
           * list all display modes..: 2160p23, 2160p24, 2160p50, 2160p59, 2160p60 (assumes a 4k display)  
         * HDR -> passthrough HDR content to the display, send HDR metadata to the display  
-          * *ALT: For static tonemapping to SDR:* HDR -> let madVR decide + rendering->trade quality for..->don't measure HDR.. option checked
+          * *ALT: For static tonemapping to SDR:* HDR -> let madVR decide + rendering->trade quality for..->don't measure HDR.. option checked (if avail)
     * scaling algorithms
       * chroma upscaling
         * processing..: Bilinear (for more intensive scaling, see Performance settings section at the bottom)  
@@ -456,7 +456,7 @@ Advanced, OLD way to integrate madVR into Kodi for passthrough, tonemapping, and
           * Enable: switch to matching display mode..when playback starts  
           * list all display modes..: 2160p23, 2160p24, 2160p50, 2160p59, 2160p60 (assumes a 4k display)  
         * HDR -> passthrough HDR content to the display, send HDR metadata to the display  
-          * ALT: For static tonemapping to SDR: HDR -> let madVR decide + rendering->trade quality for..->don't measure HDR.. option checked
+          * ALT: For static tonemapping to SDR: HDR -> let madVR decide + rendering->trade quality for..->don't measure HDR.. option checked (if avail)
     * scaling algorithms
       * chroma upscaling
         * processing..: Bilinear (for more intensive scaling, see Performance settings section at the bottom)  
@@ -719,7 +719,7 @@ AMD RX >= 67xx|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Dif
           * Enable: switch to matching display mode..when playback starts  
           * list all display modes..: 2160p23, 2160p24, 2160p50, 2160p59, 2160p60 (assumes a 4k display)  
         * HDR -> passthrough HDR content to the display, send HDR metadata to the display  
-          * *ALT: For static tonemapping to SDR*: HDR -> let madVR decide + rendering->trade quality for..->don't measure HDR.. option checked
+          * *ALT: For static tonemapping to SDR*: HDR -> let madVR decide + rendering->trade quality for..->don't measure HDR.. option checked (if avail)
     * scaling algorithms
       * chroma upscaling
         * processing..: Bilinear (for more intensive scaling, see Performance settings section at the bottom)  
