@@ -556,9 +556,9 @@ If you must have disc menus, which is presumably the reason you want disc playba
     - NOTE: If you have problems with Java being found by a media player for Blu-Ray menus, make sure the Java and the Media Player installs are both 64-bit
 
 If you must have physical disc playback:
- 1. DVD: Kodi/MPC-BE/VLC, [Microsoft DVD player](http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/db1d271e-866f-4943-8e8d-1649d5ca704c?P1=1748382587&P2=404&P3=2&P4=UlZBtHy0ecYSgnXfX0cfyXNxHLRdfTawYFSnFTLz7j%2f9ZOmLEmG5UlZaMH%2bTYqhSbd0hdCcG1wqTks6dGB9gbg%3d%3d), [Xreveal](https://www.xreveal.com/) + keydb_eng.zip + Media player above
- 2. FHD Blu-Ray: [Leawo Blu-Ray Player](https://www.leawo.com/blu-ray-player/), [Xreveal](https://www.xreveal.com/) + keydb_eng.zip + Media player above
- 3. UHD Blu-Ray: *Official UHD Drive*: [CyberLink PowerDVD Ultra <= v22.0.3214.62](https://www.cyberlink.com/products/powerdvd-ultra/features_en_US.html). *[UHD-Friendly Drive](/wiki/components#optical-drives)*: [Xreveal](https://www.xreveal.com/) + keydb_eng.zip + Media player above. DV/HDR10+ is not possible. If you must have these, rip the discs per the beginning part of this question 
+ 1. DVD: Kodi/MPC-BE/VLC, [Microsoft DVD player](http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/db1d271e-866f-4943-8e8d-1649d5ca704c?P1=1748382587&P2=404&P3=2&P4=UlZBtHy0ecYSgnXfX0cfyXNxHLRdfTawYFSnFTLz7j%2f9ZOmLEmG5UlZaMH%2bTYqhSbd0hdCcG1wqTks6dGB9gbg%3d%3d), [Xreveal](https://www.xreveal.com/) + VUK keydb.cfg + Media player above
+ 2. FHD Blu-Ray: [Leawo Blu-Ray Player](https://www.leawo.com/blu-ray-player/), [Xreveal](https://www.xreveal.com/) + VUK keydb.cfg + Media player above
+ 3. UHD Blu-Ray: *Official UHD Drive*: [CyberLink PowerDVD Ultra <= v22.0.3214.62](https://www.cyberlink.com/products/powerdvd-ultra/features_en_US.html). *[UHD-Friendly Drive](/wiki/components#optical-drives)*: [Xreveal](https://www.xreveal.com/) + VUK keydb.cfg + Media player above. DV/HDR10+ is not possible. If you must have these, rip the discs per the beginning part of this question 
  4. Make sure you meet audio/video chain restrictions: [HDCP](https://en.wikipedia.org/wiki/High-bandwidth_Digital_Content_Protection) 1.x for DVD, HDCP 1.3 for FHD Blu-Ray, HDCP 2.2 for UHD Blu-Ray; in all devices of the video chain (Drive, GPU, Video Cable, Display)  
 
 See our [Optical Drive](/wiki/components#optical-drives) section of the Hardware Components page for drive selection  
@@ -857,5 +857,5 @@ Dolby Vision Tests - [P5](https://drive.google.com/uc?export=download&id=1u5T0NM
 
 ---
 
-*This page was last updated on 2026-01-26*
+*This page was last updated on 2026-02-05*
 
