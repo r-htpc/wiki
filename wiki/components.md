@@ -392,7 +392,7 @@ Any of the options below are fine in general, though the HT10DBS is preferred fo
 
 [Tripp Lite ISOBAR6DBS](https://assets.tripplite.com/product-pdfs/en/isobar6dbs.pdf) - 6 plug, 3330 Joules, 1440W, $250k protection, Tele/coax ($70)  
 
-[Furman PST-8/PST-8D](https://furmanpower.com/product/15a-8-outlet-surge-suppressor-strip-w-smp-lift-and-evs/) - 8 plug, 4320 Joules, Tele/coax, Noise suppression, Extreme voltage clampdown >137V ($115)  
+[Furman PST-8/PST-8D](https://furmanpower.com/collections/power-station-series) - 8 plug, 4320 Joules, Tele/coax, Noise suppression, Extreme voltage clampdown >137V ($140)  
 
 [Tripp Lite HT10DBS](https://assets.tripplite.com/product-pdfs/en/ht10dbs.pdf) - 10 plug, 3840 Joules, 1440W, $500k protection, Tele/coax/LAN ($120)  
 
@@ -543,5 +543,5 @@ MX3 Pro			|	$20	|	RF		|	Yes	|	YES  | AAA	|	Remote, Mini keyboard, and Air Mouse
 
 ---
 
-*This page was last updated on 2026-01-26*
+*This page was last updated on 2026-02-05*
 
