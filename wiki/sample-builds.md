@@ -165,6 +165,12 @@ Intel Core 7th gen i3+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDM
 
 <!-- Sub-Section -->
 
+### Specialized: 4k HDR Ripping + Playback
+
+- [4k HDR player](/wiki/sample-builds#4k-hdr-players) (from above) + [Pre-flashed UHD-friendly USB optical drive](https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634) + [5TB+ external USB HDD](https://pcpartpicker.com/products/external-hard-drive/#sort=price&A=5000000000000,44000000000000&rpm=5400,5700,5900,7200) / Terramaster F2-212 NAS
+
+<!-- Sub-Section -->
+
 ### Specialized: 3D MVC/Frame-Packed
 
 - [See our separate wiki page here](/wiki/3d)
@@ -953,5 +959,5 @@ TOTAL		|											|$801			|	|
 
 ---
  
-*This page was last updated on 2026-01-10*
+*This page was last updated on 2026-02-09*
 
