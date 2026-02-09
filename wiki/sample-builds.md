@@ -165,9 +165,10 @@ Intel Core 7th gen i3+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDM
 
 <!-- Sub-Section -->
 
-### Specialized: 4k HDR Ripping + Playback
+### Specialized: 4K HDR Ripping + Playback
 
-- [4k HDR player](/wiki/sample-builds#4k-hdr-players) (from above) + [Pre-flashed UHD-friendly USB optical drive](https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634) + [5TB+ external USB HDD](https://pcpartpicker.com/products/external-hard-drive/#sort=price&A=5000000000000,44000000000000&rpm=5400,5700,5900,7200) / Terramaster F2-212 NAS
+- HDR10: [4K HDR player](/wiki/sample-builds#4k-hdr-players) (from above) + [Pre-flashed UHD-friendly USB optical drive](https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634) + [5TB+ external USB HDD](https://pcpartpicker.com/products/external-hard-drive/#sort=price&A=5000000000000,44000000000000&rpm=5400,5700,5900,7200) / Terramaster F2-212 NAS. Assume 60-100GB storage used per 4K movie ripped as-is.
+- DV/HDR10+: Add [Pre-flashed UHD-friendly USB optical drive](https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634) to recs in Specialized: Media client, server, storage system combos
 
 <!-- Sub-Section -->
 
@@ -437,7 +438,7 @@ A build for ripping DVD/FHD Blu Ray and UHD Blu Ray discs. As such, it has space
 If you don't need the drive space and want something smaller, consider the Silverstone ML03/ML04 (16L) or In Win CE685 (12L).   
 Alternatively, if you want a different form factor or more HDD space look at Silverstone's GD06 (4)/GD07 (8)/GD08 (9).  
 
-This uses a modern 10-core CPU w/IGPU for very fast Handbrake transcoding performance. This is a high watt part and necessitates a good tower CPU cooler. If you go with one of the smaller/shorter cases, you can either lower the TDP on the CPU or switch to a i5-12400 w/stock cooler.  
+This uses a modern 10-core CPU w/IGPU for very fast Handbrake transcoding performance. This is a high watt part and necessitates a good tower CPU cooler. If you go with one of the smaller/shorter cases, you can either lower the TDP on the CPU or switch to a i5-12400 w/stock cooler. The same applies if you're just ripping and not transcoding, as you don't need the processing power of the high watt part.  
 
 Standard software for ripping is: [MakeMKV](https://www.makemkv.com) to rip a disc to a full quality file, and then [Handbrake](https://handbrake.fr) to optionally transcode it down for size and client compatibility. Check the [ripping section](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use) of our FAQ page for detailed instructions. Check the flashing guide on the [makemkv forum](https://forum.makemkv.com/forum/viewforum.php?f=16) for drive firmware, if you intend to do UHD ripping.   
 For automated ripping on disc insert, look at [Automatic Ripping Machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) (ARM), which is a front-end to makemkv/handbrake. Its setup on Linux is not for the faint of heart. 
