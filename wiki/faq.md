@@ -525,15 +525,28 @@ If you want to make virtual TV channels out of your own content, look at [ersatz
 
 Figure out how many clients you will be serving to simultaneously and what types of clients (local or remote). Assume you will be transcoding content for at least 1/3 of the clients (unless you know otherwise). So, for example, if you determine you will have 3 simultaneous clients, assume 1 of them will be transcoding, so choose a server with hardware that can do at least 1 transcode.
 
-Look at the [Sample Builds](/wiki/sample-builds#nasmedia-server-builds) page for pre-built and DiY media server solutions based on that. You can buy a very capable media server for under $200. Don't forget to take into account the amount of storage you need, which can be signifigant, whether it be [internal, external, or networked with a NAS](/wiki/storage). Ripped/Remux 1080p movies can reach 25GB in size EACH, with 4k ones up to 4x that. Your storage can be separate with a pre-built NAS, or built into the media server, depending on your technical ability.  
+For hardware, determine if you want to segregate your server and storage. You can:
+ - Have a PC server with internal storage
+   - Best for an all-in-one server, using light to heavy transcoding or not.
+ - Have a PC server with NAS storage
+   - Best for using light to heavy transcoding from the server, with segregated, mounted storage
+ - Have a NAS with internal storage
+   - Best for an all-in-one server, using light transcoding or not.
+ - Have a PC server with external (think USB) storage (not recommended)
 
-Once you have the hardware you need, connect the media server and/or NAS to your router over ethernet, attach and/or mount the internal/external storage to the server, install and configure [media server software](/wiki/video#video-software), then install the server's player software on your [media client](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) devices, making sure they're compatible with the codecs you want to play.  
+For a PC server, look at the [Sample Builds](/wiki/sample-builds#nasmedia-server-builds) page for pre-built and DiY media server solutions based on that. You can buy a very capable media server for under $200. Don't forget to take into account the amount of storage you need, which can be signifigant, whether it be [internal, external, or networked with a NAS](/wiki/storage). Your storage can be [built into the media server](https://r-htpc.github.io/wiki/storage#internal-storage) or be separate with a ["just storage" pre-built NAS](https://r-htpc.github.io/wiki/storage#pre-built-nas), as mentioned above, depending on your technical ability.  
+
+For a NAS, you can get a ["just storage" pre-built NAS](https://r-htpc.github.io/wiki/storage#pre-built-nas) for no transcoding, or a ["storage+services" pre-built NAS](https://r-htpc.github.io/wiki/storage#pre-built-nas) for transcoding.  
+
+Consider how much storage you will need now AND in the future, depending on the type od media you will be serving. Ripped/Remux 1080p movies can reach 25GB in size EACH, with 4k ones up to 4x that.  
+
+Once you have the hardware you need, connect the PC server and/or NAS to your router/switch over ethernet, attach and/or mount the internal/[NAS storage](https://kb.synology.com/en-global/DSM/tutorial/How_to_map_shared_folder_Windows_PC) to the server.
+
+If not transcoding, you can simply share your content storage out using a network samba share, whether that be configured [in windows or linux](https://r-htpc.github.io/wiki/storage#how-do-i-share-htpc-storage-on-my-network) on a server, or [from a NAS](https://kb.synology.com/en-global/DSM/tutorial/How_to_map_shared_folder_Windows_PC). You can then access the network samba share on your [media clients](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) or a [PC](https://r-htpc.github.io/wiki/storage#how-do-i-share-htpc-storage-on-my-network), and use normal media players like Kodi, MPC-BE, etc.. to play the content. For those instances where you can't use one of these media players (to access network samba shares), try DLNA server software and client.  
+
+If transcoding, install and configure [media server software](/wiki/video#video-software), then install the server's player software on your [media client](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) devices, making sure they're compatible with the codecs you want to play.  
 
 [Media serving software](/wiki/video#video-software) can be PleX Media Server or something similar like Emby/Jellyfin. The advantage of these media servers is that they can transcode the files in real time to meet the needs of your target client device (HTPC, phone, tablet, smart tv, remote client, etc.) and organize your media with metadata. It will serve the media to your client devices or HTPCs using the software's respective client app, over the network. Make sure your network that is serving the clients has bandwidth sufficient to do this. Ideally the clients should be on 100 Mbps ethernet for 1080p content or 1 Gbps ethernet for 4k content. If you're attempting to use wifi instead, make sure the client's bandwidth (via a speed test) is greater than that of your [content's bitrate](https://mediaarea.net/en/MediaInfo). Running these on Linux or a dedicated OS (like Unraid/TrueNAS/OMV) provides the most capabilities (esp. for gpu transcoding), but Windows is also possible.  
-  
-If you don't want to use media serving softwares, or you don't need real time transcoding, you can simply share your content storage out using a [network samba share](https://www.net-usb.com/share-hard-drive-over-network/#usb), whether that be configured in windows or linux, or connected to a router with a USB port. You can then access the network samba share on your [media clients](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc), and use normal media players like Kodi, MPC-BE, etc.. to play the content. For those instances where you can't use one of these media players (to access network samba shares), try a DLNA server and client.  
-
-
 
 ## How do I add Network Attached Storage (NAS) to my network for my HTPC/media devices?
 
