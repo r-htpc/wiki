@@ -527,11 +527,11 @@ Figure out how many clients you will be serving to simultaneously and what types
 
 For hardware, determine if you want to segregate your server and storage. You can:
  - Have a PC server with internal storage
-   - Best for an all-in-one server, using light to heavy transcoding or no transcoding.
+   - Best for an all-in-one server, using light to heavy transcoding or no transcoding, and vendor-agnostic.
  - Have a PC server with NAS storage
-   - Best for using light to heavy transcoding from the server, for better flexibility in upgradability of segregated hardware
+   - Best for using light to heavy transcoding from the server, for better flexibility in upgradability of segregated hardware, and a mix of agnostic and specifc vendors.
  - Have a NAS with internal storage
-   - Best for an all-in-one server, using light transcoding or no transcoding.
+   - Best for an all-in-one server, using light transcoding or no transcoding, vendor-specific and limited.
  - Have a PC server with external (think USB) storage (not recommended)
 
 For a PC server, look at the [Sample Builds](/wiki/sample-builds#nasmedia-server-builds) page for pre-built and DiY media server solutions based on that. You can buy a very capable media server for under $200. Don't forget to take into account the amount of storage you need, which can be signifigant, whether it be [internal, external, or networked with a NAS](/wiki/storage). Your storage can be [built into the media server](https://r-htpc.github.io/wiki/storage#internal-storage) or be separate with a ["just storage" pre-built NAS](https://r-htpc.github.io/wiki/storage#pre-built-nas), as mentioned above, depending on your technical ability.  
