@@ -246,9 +246,9 @@ BRANDS/MODELS:
 
 ### Storage/HDDs/SSDs
 
-Your OS should be stored on a SSD. Shoot for at least a 250GB drive. A SATA SSD will be 30-50x faster than a HDD at OS operations. A M.2 NVMe SSD with transfer rates of 1500 MB/s will be around 2x faster than a SATA SSD and is the best option, while reducing cable clutter in the process. A high-end M.2 NVMe SSD @ 3000 MB/s will be 5x faster than a SATA SSD; anything more does not make sense on a HTPC.  
+Your OS should be stored on an SSD; >= 240GB would be ieeal. A SATA SSD will be 30-50x faster than a HDD at OS operations. An M.2 NVMe SSD with transfer rates of 1500 MB/s will be around 2x faster than a SATA SSD and is the best option, while reducing cable clutter in the process. A high-end M.2 NVMe SSD @ 3000 MB/s will be 5x faster than a SATA SSD, but overkill, as at this point warranty/higher TBW numbers matter more. Anything higher speced does not make sense on a HTPC.  
 
-Your media content should be stored on HDDs. Internal drives for media are preferred, but external drives are also fine. 2.5" HDDs are ok for the smallest cases, but capacities are limited to 5 TB, so if you need larger, you'll have to go to 3.5". If using external drives, make sure power management features in your OS don't disconnect a USB drive after a certain period of time. 
+Your media content should be stored on HDDs. Internal drives for media are preferred; 2.5" HDDs are ok for the smallest cases, but capacities are limited to 5 TB, so if you need larger, you'll have to go to 3.5". External drives are o.k. in the short term, but long term will die quicker due to heat. If using external drives, make sure power management features in your OS don't disconnect a USB drive after a certain period of time. 
 You can also buy external drives and "shuck" the drives out of them to use internally in your HTPC, which tends to be cheaper. Check the [Storage wiki page](/wiki/storage) page for prices/recs of internal/external drives.  
 
 There are a very few cases where a SSD should be used for media or non-OS data: 
@@ -259,8 +259,8 @@ There are a very few cases where a SSD should be used for media or non-OS data:
 
 BRANDS/MODELS:  
 SSDs:  
-*- Quality:* Samsung, WD Black, SK Hynix, Sabrent, Crucial (OS Drive REC: SK Hynix Gold P31)  
-*- Budget:* Teamgroup, Inland, Kingston, WD Blue (OS Drive REC: WD Blue SN580).  
+*- Quality:* Samsung, WD Black, SK Hynix, Sabrent, Crucial (OS Drive REC: WD Black SN850/SK Hynix P31)  
+*- Budget:* Teamgroup, Inland, Kingston, WD Blue/Sandisk (OS Drive REC: WD Blue SN5100).  
 HDDs: Ultrastar, Seagate Exos, WD Red  
 [Example PCPartPicker SSD search](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=250000000000,20000000000000&t=0&f=122080&sort=price&R=5,4,3&D=1)  
 
