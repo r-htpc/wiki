@@ -229,6 +229,8 @@ We will not support Laptop Screens or PC Monitors as Home Theater display device
 
 ### Memory/RAM
 
+**NOTICE: DDR4/DDR5 Prices are currently [EXTREMELY high](https://pcpartpicker.com/trends/price/memory/). DDR4 is cheaper, so if you're on a budget, an AM4/LGA1700 [CPU](https://pcpartpicker.com/products/cpu/#sort=price&k=33,40) and [MOBO](https://pcpartpicker.com/products/motherboard/#s=33,40&mt=ddr4&sort=price&page=1) system based on this is best. You are urged to wait before building any DiY HTPC**
+
 Most HTPC applications do not need very much RAM. You can get away with 8GB of RAM, especially on Linux-based OSes. On Windows, shoot for at least 16GB nowadays, unless you're on a strict budget.  
 
 If you're playing 4K media or doing some gaming with an CPU-integrated GPU/APU, you will get a lot better performance if you use 2 memory modules instead of 1 (e.g. 2x8GB for 16GB) in a dual-channel configuration @ >= DDR4-3200 or <= DDR5-6000 and XMP/EXPO enabled in your BIOS.  
@@ -543,5 +545,5 @@ MX3 Pro			|	$20	|	RF		|	Yes	|	YES  | AAA	|	Remote, Mini keyboard, and Air Mouse
 
 ---
 
-*This page was last updated on 2026-02-13*
+*This page was last updated on 2026-02-18*
 
