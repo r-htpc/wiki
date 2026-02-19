@@ -680,10 +680,11 @@ The following things may fix and/or help you identify your problem:
 8. Test with a different media player
 9. If you're using HDMI/DP for your audio, try newer or older versions of your GPU drivers.
 10. Run the [LatencyMon](https://www.resplendence.com/latencymon) utility during playback to help identify drop-out causes by other system hw/drivers.
-11. Replace your [video](/wiki/components#video-cablesadapters)/[audio](/wiki/audio#accessories) cables, perhaps due to loss of signal integrity because of excessive length, excessive terminations, bad cable quality and/or too high a resolution/refresh rate.
-12. Run your audio through a different path, or in the most direct path to the sound system, to narrow down hardware causing the issue. See the scenarios at the beginning of this page for the most optimal setups.
-13. Re-install your operating system to a clean state and test your content again before installing everything else.
-14. Install a different version of your operating system. e.g. Windows 10 instead of 11. Install a different operating system (e.g. linux, libreelec to confirm or dis-confirm the behavior).
+11. If on Linux, you may be using a sound architecture that suspends audio after a period of time. See solutions listed in our question [here](/wiki/audio#when-i-play-my-content-why-does-the-audio-start-playing-with-a-delay)
+12. Replace your [video](/wiki/components#video-cablesadapters)/[audio](/wiki/audio#accessories) cables, perhaps due to loss of signal integrity because of excessive length, excessive terminations, bad cable quality and/or too high a resolution/refresh rate.
+13. Run your audio through a different path, or in the most direct path to the sound system, to narrow down hardware causing the issue. See the scenarios at the beginning of this page for the most optimal setups.
+14. Re-install your operating system to a clean state and test your content again before installing everything else.
+15. Install a different version of your operating system. e.g. Windows 10 instead of 11. Install a different operating system (e.g. linux, libreelec to confirm or dis-confirm the behavior).
 
 <!-- Sub-Section -->
 
@@ -720,9 +721,11 @@ The following things may fix and/or help you identify your problem:
 
 ### When I play my content, why does the audio start playing with a delay?
 
-You could be encountering a "feature" that causes a digital audio connection (SPDIF or HDMI) to go to sleep, [into a power saving D3 state](https://www.intel.com/content/dam/www/public/us/en/documents/product-specifications/high-definition-audio-specification.pdf), when audio stops playing for a period of time. It takes some time for the connection to come back to an active D0 power state, causing the delay. To workaround this use a program to keep the connection active, such as [Sound Keeper](https://github.com/vrubleg/soundkeeper) or [SPDIF KA](https://github.com/handruin/spdif-ka) on Windows (or [these methods](https://destinmoulton.com/notes/howto/linux-usb-audio-keep-alive-service/) on Linux) which will play inaudible audio over the connection at all times.  
+You could be encountering a "feature" that causes a digital audio connection (SPDIF or HDMI) to go to sleep, [into a power saving D3 state](https://www.intel.com/content/dam/www/public/us/en/documents/product-specifications/high-definition-audio-specification.pdf), when audio stops playing for a period of time. It takes some time for the connection to come back to an active D0 power state, causing the delay. To workaround this use a program to keep the connection active, such as:
+ - Windows: [Sound Keeper](https://github.com/vrubleg/soundkeeper) or [SPDIF KA](https://github.com/handruin/spdif-ka)
+ - Linux: [This method](https://destinmoulton.com/notes/howto/linux-usb-audio-keep-alive-service/) which will play inaudible audio over the connection at all times and is more universal, [this method](https://wiki.scanframe.com/en/Configuration/Linux/audio-suspend-disable) if you're using Alsa/Wireplumber, or [this method](https://wiki.archlinux.org/title/PulseAudio/Troubleshooting#Pops_when_starting_and_stopping_playback) if you're using Pulseaudio.
 
-You can also reference [this post](https://www.reddit.com/r/htpc/comments/vn3iuy/fixing_the_delay_when_starting_audio_from_windows/) for experiences. 
+You can also reference [this post](https://www.reddit.com/r/htpc/comments/vn3iuy/fixing_the_delay_when_starting_audio_from_windows/) for user experiences. 
 
 <!-- Sub-Section -->
 
@@ -860,7 +863,7 @@ If you can't support the above hardware methods, but have plain **ARC** support 
 
  2. For **HDMI ARC**: Install the APO driver to encode everything into Dolby Digital for over HDMI ARC from your PC. Read the *APO DRIVER SETUP* sub-section below for instructions.  
 
- 3. For **OPTICAL/SPDIF**: For Realtek motherboard-based Optical/SPDIF check if your motherboard's audio driver includes the Dolby Digital Live/DTS Connect feature. If not, use the [patched drivers](https://github.com/Loliconera/Unlocked-Dolby-Digital-Live-DTS-Interactive-for-Realtek-HD-Audio-Drivers-for-Windows-10-and-11) to unlock the feature. If it doesn't work or you are using non-Realtek or non-Motherboard based optical, use the *APO DRIVER* way below.  
+ 3. For **OPTICAL/SPDIF**: For Realtek motherboard-based Optical/SPDIF check if your motherboard's audio driver includes the Dolby Digital Live/DTS Connect feature. If not, on Windows, use the [patched drivers](https://github.com/Loliconera/Unlocked-Dolby-Digital-Live-DTS-Interactive-for-Realtek-HD-Audio-Drivers-for-Windows-10-and-11) to unlock the feature. If it doesn't work or you are using non-Realtek or non-Motherboard based optical, use the *APO DRIVER* way below. On Linux, install the alsa-plugins-a52 plugin and reboot. 
 
  4. Use an [analog surround sound speaker system](/wiki/audio#what-kind-of-sound-system-should-i-get) connected directly to the PC, if your motherboard supports it or a [USB analog sound card](https://www.amazon.com/Cubilux-Surround-48KHz-384KHz-Headphones-PC-Supports/dp/B0CKPL5HXZ).  
 
@@ -1178,5 +1181,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2026-01-26*
+ *This page was last updated on 2026-02-19*
 
