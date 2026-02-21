@@ -1130,7 +1130,7 @@ Orei - [Optical](https://www.amazon.com/Optical-Coaxial-Audio-Extractor-OREI/dp/
 
 *Extract audio from Optical, decode Dolby/DTS/LPCM and send it to Analog Outputs.*  
 
-[OREI](https://www.amazon.com/Orei-DA34-Digital-5-1-Channel-Headphone/dp/B008EPW7O0) / [Muxlab](https://www.bhphotovideo.com/c/buy/ad-da-converters/ci/44472) (Dolby/DTS Decoder) (3.5mm/RCA 2.0)  
+[OREI](https://www.amazon.com/Orei-DA34-Digital-5-1-Channel-Headphone/dp/B008EPW7O0) / [Muxlab](https://www.ebay.com/sch/i.html?_nkw=muxlab+%22500088%22&_sacat=0&_from=R40&_sop=15) (Dolby/DTS Decoder) (3.5mm/RCA 2.0)  
 
 [Southsky DAC](https://www.amazon.com/SOUTHSKY-Digital-Decoder-Converter-Optical/dp/B08KD9NVXY) (Dolby/DTS Decoder) (RCA Surround)  
 
