@@ -222,7 +222,7 @@ See also: [Audio Software](/wiki/audio#audio-software)
 2. [MPC VR](https://github.com/Aleksoid1978/VideoRenderer) - Simple video renderer used to enable HDR passthrough, HDR tonemapping, Resolution/Chroma upscaling, Dithering  
 3. [MadVR](https://wiki.jriver.com/index.php/MadVR_Expert_Guide) - Advanced video renderer for HDR passthrough, [HDR tonemapping](https://madshi.net/madVRhdrMeasure113.zip), Resolution/Chroma upscaling, Dithering, Resolution/Refresh Rate Switching.
  - [Stable base install](http://madshi.net/madVR.zip) / [Non-expiring add-on - beta](https://madshi.net/madVRhdrMeasure113.zip) / [Expiring add-on - test builds](https://www.videohelp.com/software/madVR)
-4. [MakeMKV](https://www.makemkv.com/) - Video disc ripper  
+4. [MakeMKV](https://www.makemkv.com/) - Video disc ripper. See Also: [FAQ:How can i rip my DVD/Blu-ray discs and what are some good quality settings to use?](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use)  
 5. [K-lite](https://codecguide.com/download_kl.htm) - Codec pack including various video software  
  - Video/audio codecs  
  - Video/audio filters/splitters/mixers  
