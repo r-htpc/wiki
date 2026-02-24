@@ -47,7 +47,7 @@ Some of these are: **Intel (NUC), [Lenovo (ThinkCentre/IdeaCentre)](https://www.
 
  $35-$55: SMALLEST: SBC: (Coreelec/Libreelec only): [ROCK64-2GB](https://pine64.com/product/rock64-2gb-single-board-computer/) / [RPI 4 2GB](https://www.seeedstudio.com/Raspberry-Pi-4-Computer-Model-B-2GB-V1-2-p-4299.html) / [Odroid C4](https://www.hardkernel.com/shop/odroid-c4/). Just good enough for local content, small and cheap.  
 
- $60-100: SMALL/MEDIUM: Used: HP/Dell/Lenovo - Intel - i3/i5-7100T/7400T/7500T, >= 8GB RAM, >= 120GB disk. [[Ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28hp%2Cdell%2Clenovo%29+%28i3-7100%2Ci5-7400%2Ci5-7500%29&_sacat=179&LH_TitleDesc=0&LH_BIN=1&_sop=15&_udhi=150&_blrs=recall_filtering)]  
+ $80-100: SMALL/MEDIUM: Used: HP/Dell/Lenovo - Intel - i3/i5-8100T/8400T/8500T, >= 8GB RAM, >= 120GB disk. [[Ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28hp%2Cdell%2Clenovo%29+%28i3-8100%2Ci5-8400%2Ci5-8500%29&_sacat=179&LH_TitleDesc=0&LH_BIN=1&_sop=15&_udhi=150&_blrs=recall_filtering)]  
 
  $80: SMALLER: Used: Intel NUC8i3/NUC8i5, >= 8GB, >= 128GB disk. Lower power than HP/Dell/Lenovo above. [[Ebay](https://www.ebay.com/sch/i.html?_nkw=nuc+%288i5beh%2C8i5bek%2C8i3beh%2C8i3bek%2C8109u%2C8259u%29&_sacat=179&_from=R40&_trksid=m570.l1313&_fsrp=1&_odkw=nuc+%288i5beh%2C8i5bek%2C8i3beh%2C8i3bek%2C8109u%29&_osacat=179&LH_BIN=1&_sop=15)]  
 
