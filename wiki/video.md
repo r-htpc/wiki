@@ -672,17 +672,19 @@ Content varies between 23.976, 24, 25 fps, 29.97 or 60 fps. Local content is usu
 
 There are 2 ways to change DisplayPort to HDMI. The 1st is a Passive cable/adapter, the 2nd is an Active cable/adapter.  
 
-A passive cable/adapter does not do a conversion on the protocol and is more limiting. If you have a DisplayPort 1.2 port, you can passively use HDMI 1.4 on the other end; so 4k@30 Hz SDR for video. Passive is most commonly used to get HD audio out of a DisplayPort port connected to a CPU's iGPU and send it to an AVR via HDMI on the other end.  
+A passive cable/adapter does not do a conversion on the protocol and is more limiting. If you have a DisplayPort 1.2 port, you can passively use HDMI 1.4 on the other end; so 4k@30 Hz SDR for video. Passive is most commonly used to get HD audio out of a DisplayPort port connected to a GPU and send it to an AVR via HDMI on the other end.  
 
 An active cable/adapter converts the DisplayPort protocol coming into the adapter. This is less limiting and will potentially provide higher bandwidth. For instance, you can use an Active adapter to convert DisplayPort 1.2 to HDMI 2.0 and get 4K@60Hz output, though getting some HDMI 2.0-native features is problematic if they weren't supported by the DisplayPort version to begin with. In our example, since DisplayPort 1.2 does not support HDR, it will not get passed over the adapter.  
 SOME oem vendors (hp, dell, levovo) SOMETIMES advertise DisplayPort 1.2, but in reality support 1.3/1.4. When this happens you can use a DisplayPort 1.4->HDMI 2.0 active adapter and get HDR. This support is very spotty, so unless you find accounts of it on the hardware you want to use, don't bet on it.  
 
-Active connectors can also be used to convert DisplayPort 1.4 to HDMI 2.1 and get 4K@120Hz HDR >= 32Gbps output. This also has its caveats. The adapters require the Display Stream Compression (DSC 1.2) feature to be supported in the GPU for use over DisplayPort. Since this is an OPTIONAL feature to DisplayPort 1.x, do not expect all GPUs with DisplayPort 1.4 to support this. Officially supported GPUS are >= Nvidia GTX 16xx/RTX 20xx or >= AMD RX 5xxx dGPUs.  
-Active adapters also do not allow passthrough/bitstreaming of HD audio, only PCM audio.  
+Active adapters can also be used to convert DisplayPort 1.4 to HDMI 2.1 and get 4K@120Hz HDR >= 32Gbps output. This also has its caveats. The adapters require the Display Stream Compression (DSC 1.2) feature to be supported in the GPU for use over DisplayPort. Since this is an OPTIONAL feature to DisplayPort 1.x, do not expect all GPUs with DisplayPort 1.4 to support this. Officially supported GPUS are >= Nvidia GTX 16xx/RTX 20xx or >= AMD RX 5xxx dGPUs.  
+
+Active adapters do not allow passthrough/bitstreaming of HD audio, like Dolby TrueHD and DTS-HD; only DD+/DTS/PCM audio.  
+Active adapters can have problems with video signal stability, especially when used at high resolutions/refresh rates or when a lot of cable terminations are in place. You should avoid active adapters under these conditions. This can result in no signal at all, a flickering of the signal in and out, or loss of pixel integrity (snow/sparkling).  
 
 USB-C is just a different connector, still carrying the DisplayPort protocol as if it was that connector.  
 
-When buying cables and adapters, please do NOT buy no-name brands. As quality control is low on them and marketing is more often than that mis-leading. Recommended cables and adapters can be found in the cables section of the [Hardware Components Guide](/wiki/components#video-cablesadapters). You can also find there what versions of DisplayPort and HDMI are supported on various CPUs/GPUs.  
+When buying cables and adapters, please do NOT buy no-name brands. As quality control is low on them and marketing is more often than that misleading. Recommended cables and adapters can be found in the cables section of the [Hardware Components Guide](/wiki/components#video-cablesadapters). You can also find there what versions of DisplayPort and HDMI are supported on various CPUs/GPUs.  
 
 <!-- Sub-Section -->
 
@@ -857,5 +859,5 @@ Dolby Vision Tests - [P5](https://drive.google.com/uc?export=download&id=1u5T0NM
 
 ---
 
-*This page was last updated on 2026-02-05*
+*This page was last updated on 2026-02-23*
 
