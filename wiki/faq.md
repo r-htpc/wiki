@@ -241,7 +241,7 @@ While media devices are great frontends that are easy to use and navigate, they'
 3. Buy a physical disc and redeem the included code for a digital copy via [Movies Anywhere](https://moviesanywhere.com). Play via [moviesanywhere.com](https://moviesanywhere.com) in a browser or link your Movies Anywhere account to the Microsoft Movies & TV media player or use one of Movies Anywhere's apps for media devices.
 4. Buy a physical disc, use [Fandango at Home](https://athome.fandango.com/) to "convert" the disc into a digital copy for a fee, link your Fandango at Home account to a [Movies Anywhere](https://moviesanywhere.com) account, then follow playback in #3.
 5. Buy a movie from a content service (Fandango at Home, Prime Video, Apple iTunes, Google Play/Youtube, Comcast/Verizon/DirectTV) via Movies Anywhere, then follow playback in #3.
-6. Buy a [Kaleidescape](https://www.kaleidescape.com/) system and buy/download lossless content from them for your system
+6. Buy a [Kaleidescape](https://www.kaleidescape.com/) closed eco-system, buy/download lossless content from them for your system, or use their disc-to-digital service with your own physical discs.
 7. Pull live TV broadcasts from "Over the Air" [via an antenna, cable provider's service, streaming service, or the TVEverywhere service](/wiki/faq#can-i-watch-live-tv-or-record-it-and-play-it-back-on-my-htpc).
 
 
