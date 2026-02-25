@@ -234,6 +234,16 @@ While media devices are great frontends that are easy to use and navigate, they'
 12. You have privacy concerns with proprietary systems.  
 
 
+## Where can I legally obtain media content from?
+
+1. Sign up for a commercial streaming service (Netflix, Amazon Prime, Apple TV, Disney+, etc..) and watch the content through the [service's app or a web browser](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x)
+2. Buy a physical disc, [get an optical drive](/wiki/components#optical-drives), [play it](/wiki/video#how-can-i-play-my-dvdblu-ray-discs-on-my-htpc), or [rip it to a digital file](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use) and play it with your [favorite media player and/or media server combo](/wiki/faq#what-software-will-i-need-and-how-do-i-set-it-up)
+3. Buy a physical disc and redeem the included code for a digital copy via [Movies Anywhere](https://moviesanywhere.com). Play via [moviesanywhere.com](https://moviesanywhere.com) in a browser or link your Movies Anywhere account to the Microsoft Movies & TV media player or use one of Movies Anywhere's apps for media devices.
+4. Buy a physical disc, use [Fandango at Home](https://athome.fandango.com/) to "convert" the disc into a digital copy for a fee, link your Fandango at Home account to a [Movies Anywhere](https://moviesanywhere.com) account, then follow playback in #3.
+5. Buy a movie from a content service (Fandango at Home, Prime Video, Apple iTunes, Google Play/Youtube, Comcast/Verizon/DirectTV) via Movies Anywhere, then follow playback in #3.
+6. Pull live TV broadcasts from "Over the Air" [via an antenna, cable provider's service, streaming service, or the TVEverywhere service](/wiki/faq#can-i-watch-live-tv-or-record-it-and-play-it-back-on-my-htpc).
+
+
 ## What software will I need and how do I set it up?
 
 For the software side of things, there are various tools you may need to take advantage of your HTPC. An OS, media player, media server, ripper, downloader, file renamer, etc.. 
