@@ -48,7 +48,7 @@ These are the codecs/encoded formats you're likely to run into:
 PCM/LPCM: Lossless. # of channels dependent on interface. Optical/HDMI ARC only supports 2 channels. More than 2 channels can be played over regular HDMI/eARC/Displayport/RCA/3.5mm.
  - Used in: **Default OS output**, **Gaming audio**, Ripped/physical DVD/FHD/UHD disc media, Youtube, Web Browsers  
 
-AAC/HE-AAC: Lossy, <= 320 Kbps. Up to 48 channels. Almost always cannot be decoded (esp. in 5.1 form) by Sound Systems. Decode to PCM or re-encode first. Also applies to FLAC/MP3/OGG. 
+AAC/HE-AAC: Lossy, <= 320 Kbps. Up to 48 channels. Almost always cannot be bitstreamed (esp. in 5.1 form) to Sound Systems. Decode to PCM or [re-encode to a supported codec](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital). Also applies to FLAC/MP3/OGG. 
  - Used in: Local media, Music  
 
 Dolby Digital/AC-3: "DD". Lossy, <= 640 kbps. Up to 5.1 channels. Can be played over Optical/HDMI/HDMI ARC  
