@@ -991,7 +991,7 @@ $800 : Polk Magnifi MAX AX SR soundbar
 *- 3 HDMI 2.0 input, 1 HDMI 2.1 output (4k@60Hz), 7.1.2, 4K HDR, Dolby Atmos/DTS:X lossless sound, eARC*  
 
 4. If you have unlimited space and a $550/$1000/$2000 budget:  
-$550: $300 Yamaha [RX-V385](https://usa.yamaha.com/products/audio_visual/av_receivers_amps/rx-v385_u/index.html) receiver, $255 speakers/sub - Dayton Audio (B452x4 FL/FR/SL/SR + C452x1 C) + Polk PSW108 SUB <!-- [Dayton Audio B652 5.1 bundle](https://www.parts-express.com/B652-5.1-Home-Theater-Surround-Sound-Speaker-System-with-10-300-689?quantity=1) -->  
+$550: $300 Yamaha [RX-V385](https://www.google.com/search?q=rx+v385+receiver) receiver, $255 speakers/sub - Dayton Audio ([B40x4](https://www.parts-express.com/Dayton-Audio-Classic-B40-Bookshelf-Speaker-Pair-Black-300-250?quantity=2) FL/FR/SL/SR + [C40x1](https://www.parts-express.com/Dayton-Audio-Classic-C40-Center-Channel-Speaker-Pair-Black-300-252?quantity=1) C) + Dayton Audio SUB-800/Used Polk PSW108 SUB <!-- [Dayton Audio B652 5.1 bundle](https://www.parts-express.com/B652-5.1-Home-Theater-Surround-Sound-Speaker-System-with-10-300-689?quantity=1) -->  
 *- HDMI 2.0, 5.1 channels, TrueHD/DTS-HD MA lossless sound, eARC*  
 $1000: $550 Denon [S760H](https://www.denon.com/en-us/product/av-receivers/avr-s760h) receiver, $500 speakers/sub - Neumi (BS5x4 FL/FR/SL/SR + CS5x1 C) + Dayton Sub-1000 <!-- [Dayton Audio MK442T 5.1 bundle](https://www.parts-express.com/Dayton-Audio-MK442T-5.1-Home-Theater-Bundle-10-Powered-Subwoofer-300-705) -->  
 $2000: $550 Denon [S760H](https://www.denon.com/en-us/product/av-receivers/avr-s760h) receiver, $1400 5.1 speakers/sub (L/R/Surr: [Kef Q150](https://www.accessories4less.com/make-a-store/item/kefq150blka/kef-new-q150-pair-5.25-2-way-bookshelf-speaker-black/1.html) (2-pair) $600 + Cen: [Kef Q150](https://www.accessories4less.com/make-a-store/item/kefq150blkea/kef-q150-5.25-2-way-bookshelf-speaker-black-one-single-speaker/1.html) $200 + Sub: [SVS PB-2000](https://www.svsound.com/collections/outlet-specials/outlet-subwoofer) $600)  
@@ -1181,5 +1181,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2026-02-19*
+ *This page was last updated on 2026-02-28*
 
