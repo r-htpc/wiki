@@ -125,8 +125,9 @@ $150-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB+ RAM, 256GB ssd/1TB hdd
 
    - See [ETA PRIME](https://www.youtube.com/@ETAPRIME) YT channel for Emulation device reviews  
 - Medium Gaming:
-  - Mini: Asus NUC 14 Performance (RTX 4060/4070), Asus ROG NUC 760/970 (RTX 4060/4070), [Minisforum 790S7](https://store.minisforum.com/products/minisforum-mini-itx-pc-790s7-129i7?variant=46620053864693) (RTX 4060), Minisforum AtomMan G1 Pro (RTX 5060), Minisforum HX99G (RX 6600M)
-  - Full: [Acer Nitro 50](https://www.amazon.com/N50-656-UR12-Desktop-i5-14400F-10-Core-Processor/dp/B0CPKNK1KP?th=1) (RTX 3050) ($700+)
+  - Tiny (<10L): Asus NUC 14 Performance (RTX 4060/4070), Asus ROG NUC 760/970 (RTX 4060/4070), [Minisforum 790S7](https://store.minisforum.com/products/minisforum-mini-itx-pc-790s7-129i7?variant=46620053864693) (RTX 4060), Minisforum AtomMan G1 Pro (RTX 5060), Minisforum HX99G (RX 6600M)
+  - Small (10-12L): **USED: [HP Elitedesk 800 G5/G6 i5 16GB ($200)](https://www.ebay.com/sch/i.html?_nkw=hp+elitedesk+800+sff+%28g5%2Cg6%29+i5+%2816gb%2C32gb%29&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=hp+elitedesk+800+sff+%28g5%2Cg6%29+i5+16gb&_osacat=179&_sop=15) + RTX 3050 LP ($200)**
+  - Medium (15-20L): [Acer Nitro 50](https://www.amazon.com/N50-656-UR12-Desktop-i5-14400F-10-Core-Processor/dp/B0CPKNK1KP?th=1) (RTX 3050) ($700+)
  
 <!-- Sub-Section -->
 
