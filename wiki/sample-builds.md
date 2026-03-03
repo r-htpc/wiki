@@ -422,7 +422,7 @@ If you can't afford to do a new build or only need reasonable upscaling, you can
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE|Silverstone ML07|$105|[amazon](https://www.amazon.com/SilverStone-Technology-Mini-ITX-Computer-ML07B/dp/B00K8CIZYS?th=1)|[specs](https://www.silverstonetek.com/en/product/info/computer-chassis/ML07/). ALT: Silverstone [GD09](https://www.silverstonetek.com/en/product/info/computer-chassis/GD09/)
-CPU|Intel i5-12400F, 65W|$115|[pcpartpicker](https://pcpartpicker.com/product/pQNxFT/intel-core-i5-12400f-25-ghz-6-core-processor-bx8071512400f)|ALT: Intel i5-12100F
+CPU|Intel i5-12400F, 65W|$140|[pcpartpicker](https://pcpartpicker.com/product/pQNxFT/intel-core-i5-12400f-25-ghz-6-core-processor-bx8071512400f)|ALT: Intel Core Ultra 5 225F
 MOBO|ASRock B760M-ITX/D4|$150|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&s=40&sort=price&mt=ddr4)|ALT: GD09/ML03: [MSI Pro B760M-A DDR4 MicroATX](https://pcpartpicker.com/product/VVqPxr/msi-pro-b760m-a-wifi-ddr4-micro-atx-lga1700-motherboard-pro-b760m-a-wifi-ddr4) ($140)
 MEM|Silicon Power Xpower 32GB 2x16GB DDR4-3200|$100|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr4&S=3000,4066&Z=32768002&sort=price&page=1)|
 GPU|Nvidia GTX 1660 Ti/Super 6GB|$110|[ebay](https://www.ebay.com/sch/i.html?_nkw=1660+%28ti%2Csuper%29&_sacat=27386&_from=R40&_trksid=p2334524.m570.l1313&_fsrp=1&_odkw=%281660%2C1070%29&_osacat=27386&LH_BIN=1&_sop=15&LH_PrefLoc=2)|<= 330 mm. ALT: [Nvidia RTX 5050+](https://pcpartpicker.com/products/video-card/#xcx=0&sort=price&c=436,514,446,572,518,546,499,497,513,494,508,552,553,597) ($200+)
@@ -430,7 +430,7 @@ STORAGE			|WD SN5000 500GB NVMe M.2 SSD TLC				|$50	|[pcpartpicker](https://pcpa
 STORAGE			|4TB 7200rpm 3.5" HDD			|$40	|[disctech](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/4TB?order=onlinecustomerprice:asc&show=48)	|OPTIONAL. ALT: [10TB+ ($120+)](https://www.disctech.com/data-storage/internal-storage/sata-hard-drives/capacity/10TB_12TB_14TB_16TB_18TB_20TB_22TB_24TB_6TB_7TB_8TB?order=onlinecustomerprice:asc)
 COOL	|	Thermalright AXP120-X67	CPU Cooler	|	$35	|[pcpartpicker](https://pcpartpicker.com/product/K2cG3C/thermalright-axp120-x67-59-cfm-cpu-cooler-axp120-x67)	|OPTIONAL. ALT: GD09: Thermalright Silver Soul 135 ($40)
 PSU|Silverstone SX500-G 500W SFX|$110|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&sort=price&m=8,337,50,11,14,101,17,18,27,28,94,29,229,51,71,63,441,56&A=450000000000,2050000000000)|ALT: GD09: [500W+ ATX](https://pcpartpicker.com/products/power-supply/#xcx=0&th=1&sort=price&m=8,337,50,11,14,17,18,27,28,94,29,229,51,71,63,441,56&e=4,2)
-TOTAL||$740||
+TOTAL||$765||
 
 <!-- Sub-Section -->
 
@@ -962,5 +962,5 @@ TOTAL		|											|$801			|	|
 
 ---
  
-*This page was last updated on 2026-02-22*
+*This page was last updated on 2026-03-02*
 
