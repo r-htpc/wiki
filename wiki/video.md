@@ -172,6 +172,7 @@ See also: [Audio Software](/wiki/audio#audio-software)
 
 1. [Kodi](https://kodi.tv) - An open source media player/center.  
  - Support for Windows, Linux, Mac, Android  
+ - Looks-focused UI 
  - Automatic scanning of video content directories  
  - Automatic retrieval of metadata content (posters, descriptions) from the internet  
  - Extensive plug-in support  
@@ -180,10 +181,12 @@ See also: [Audio Software](/wiki/audio#audio-software)
  - Keyboard/remote support 
 2. [Plex HTPC](https://www.plex.tv/media-server-downloads/?cat=plex+htpc&plat=windows#plex-app) - A media player that interfaces with the Plex Media Server and plex.tv video content  
  - Support for Windows, Linux, Mac, Android  
+ - Looks-focused UI 
  - 4K/[HDR support](/wiki/hdr), Subtitle support  
  - Keyboard/remote support 
 3. [Jellyfin Media Player](https://github.com/jellyfin/jellyfin-media-player/releases) - A media player that interfaces with the Jellyfin media server  
  - Support for Windows, Linux, Mac  
+ - Looks-focused UI 
  - 4K/[HDR support](https://forum.jellyfin.org/t-4k-hdr-client), Subtitle support  
  - Keyboard/remote support in "TV" mode 
 4. [VLC](https://www.videolan.org/vlc/)  
@@ -198,7 +201,8 @@ See also: [Audio Software](/wiki/audio#audio-software)
  - Subtitle support  
  - DVD/Blu-ray folder support  
 6. [JRiver Media Center](https://jriver.com/)  
- - Support for Windows, Mac, Linux  
+ - Support for Windows, Mac, Linux
+ - Looks-focused UI 
  - Automatic scanning of video content directories  
  - Automatic retrieval of metadata content (posters, descriptions) from the internet  
  - MadVR integration  
@@ -216,7 +220,7 @@ See also: [Audio Software](/wiki/audio#audio-software)
  - 4K/HDR support (via MadVR)  
  - Closed source  
 
-**3rd Party**
+**Utilities/Other**
 
 1. [MediaInfo](https://mediaarea.net/en/MediaInfo) - Extremely useful tool for getting various video & audio information (codecs, formats, etc..) on media files  
 2. [MPC VR](https://github.com/Aleksoid1978/VideoRenderer) - Simple video renderer used to enable HDR passthrough, HDR tonemapping, Resolution/Chroma upscaling, Dithering  
@@ -859,5 +863,5 @@ Dolby Vision Tests - [P5](https://drive.google.com/uc?export=download&id=1u5T0NM
 
 ---
 
-*This page was last updated on 2026-02-23*
+*This page was last updated on 2026-03-04*
 
