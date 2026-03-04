@@ -672,19 +672,20 @@ You should read [this guide](https://drive.google.com/file/d/1N3FaJmIQicN8TEPzPz
 The following things may fix and/or help you identify your problem:
 1. If you're using HDMI/DP for your audio, re-install your GPU drivers clean, by first un-installing them with the [DDU Utility](https://www.guru3d.com/download/display-driver-uninstaller-download/).
 2. Disabling all extra audio processing such as audio enhancements, re-encoding, mixing/equalizing, and/or spatial (Dolby Access/DTS Unbound) software. Test again.
-3. Test with your Video driver's power management set to maximum performance
+3. Test with your Video driver's power management set to maximum performance; If Nvidia, also set Low Latency Mode to Ultra
 4. If you're using HDMI/DP for your audio, test with the generic "High Definition Audio Device" Windows driver for your Display/HD audio device under Device manager->Sound, video, and game controllers->\<Display/HD audio device\>->Update Driver->Browse..->Let me pick..-->High Definition Audio Device
 5. If the content is coming from over a network, copy it to local storage on the HTPC. Test again.
 6. Your HDMI port may be going to an idle, power-saving state. Use [Sound Keeper](https://github.com/vrubleg/soundkeeper) to keep it alive.
 7. If you're bitstreaming an audio codec in your media player, disable it to decode the codec to PCM. Test again. If you usually are decoding the codec, enable bitstreaming for it, where possible. Test different audio codecs to see if the issue is specific to certain codecs.
 8. Test with a different media player
 9. If you're using HDMI/DP for your audio, try newer or older versions of your GPU drivers.
-10. Run the [LatencyMon](https://www.resplendence.com/latencymon) utility during playback to help identify drop-out causes by other system hw/drivers.
+10. Run the [LatencyMon](https://www.resplendence.com/latencymon) utility during playback to help identify drop-out causes by other system hw/drivers. Network and USB devices are usual suspects. Disable this hardware, where possible, during a test.
 11. If on Linux, you may be using a sound architecture that suspends audio after a period of time. See solutions listed in our question [here](/wiki/audio#when-i-play-my-content-why-does-the-audio-start-playing-with-a-delay)
-12. Replace your [video](/wiki/components#video-cablesadapters)/[audio](/wiki/audio#accessories) cables, perhaps due to loss of signal integrity because of excessive length, excessive terminations, bad cable quality and/or too high a resolution/refresh rate.
-13. Run your audio through a different path, or in the most direct path to the sound system, to narrow down hardware causing the issue. See the scenarios at the beginning of this page for the most optimal setups.
-14. Re-install your operating system to a clean state and test your content again before installing everything else.
-15. Install a different version of your operating system. e.g. Windows 10 instead of 11. Install a different operating system (e.g. linux, libreelec to confirm or dis-confirm the behavior).
+12. If you're running your RAM at XMP/EXPO/DOCP speeds in BIOS, test with it off/run at JEDEC speeds. 
+13. Replace your [video](/wiki/components#video-cablesadapters)/[audio](/wiki/audio#accessories) cables, perhaps due to loss of signal integrity because of excessive length, excessive terminations, bad cable quality and/or too high a resolution/refresh rate.
+14. Run your audio through a different path, or in the most direct path to the sound system, to narrow down hardware causing the issue. See the scenarios at the beginning of this page for the most optimal setups.
+15. Re-install your operating system to a clean state and test your content again before installing everything else.
+16. Install a different version of your operating system. e.g. Windows 10 instead of 11. Install a different operating system (e.g. linux, libreelec to confirm or dis-confirm the behavior).
 
 <!-- Sub-Section -->
 
