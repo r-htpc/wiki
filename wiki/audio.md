@@ -983,14 +983,14 @@ If you have a limited budget, but want really nice speakers, consider starting w
 2. If you have limited space and a small budget:  
    $700+ : $300 Sony STR-DH590/RX-V385/S570BT receiver, $250 [Dayton Audio BS41 3.0](https://www.parts-express.com/Dayton-Audio-BS41-41-LCR-Speaker-Bar-Black-300-686?quantity=1) / $300 [Polk XT15x2](https://www.amazon.com/Polk-Monitor-Bookshelf-Surround-Speakers/dp/B09BMXVQFT?th=) + [XT30](https://www.amazon.com/Polk-Monitor-Compact-Channel-Speaker/dp/B09BMXPT3B/), $130 Dayton Audio [MKSX4](https://www.parts-express.com/Dayton-Audio-MKSX4-Four-4-Driver-Low-Profile-Passive-Subwoofer-300-495)/SUB-800 Sub  
 *- HDMI 2.0/2.1, 4K HDR, 3.1 channels effective (5.1 expandable), TrueHD/DTS-HD MA lossless sound, ARC (DH590)/eARC (V385/S570BT)*  
-$400 : Vizio Elevate SL512X-08 soundbar - [Our custom rtings search](https://www.rtings.com/soundbar/tools/table/170868)  
-*- HDMI 2.0, 4K HDR, 5.1.2 (Vizio)/3.1.2-5.1.2 (Samsung) channels, Dolby Atmos/DTS:X lossless sound, eARC*  
+$400 : Hisense AX5140Q soundbar - [Our custom rtings search](https://www.rtings.com/soundbar/tools/table/170868)  
+*- HDMI 2.0, 4K HDR10+, 5.1.4 channels, Dolby TrueHD Atmos/DTS:X lossless sound, eARC*  
 
 3. If you have limited space and a higher budget:  
 $1100 : $550 Denon [S760H](https://www.denon.com/en-us/product/av-receivers/avr-s760h) receiver (Low Profile: Marantz [NR1xxx](https://www.marantz.com/en-us/category/av-receivers)), $350 BIC Formula FH56 5.0 Speaker Bar (ALT: Used Mythos SSA-42), $185 Dayton Audio SUB-1000L Sub  
 *- HDMI 2.1, 5.1.2/7.2 channels, Dolby Atmos/DTS:X lossless sound, eARC*  
 $800 : Polk Magnifi MAX AX SR soundbar  
-*- 3 HDMI 2.0 input, 1 HDMI 2.1 output (4k@60Hz), 7.1.2, 4K HDR, Dolby Atmos/DTS:X lossless sound, eARC*  
+*- 3 HDMI 2.0 input, 1 HDMI 2.1 output (4k@60Hz), 7.1.2, 4K HDR10/Vision, Dolby TrueHD Atmos/DTS:X lossless sound, eARC*  
 
 4. If you have unlimited space and a $600/$1000/$2000 budget:  
 $600: $300 Yamaha [RX-V385](https://www.google.com/search?q=rx+v385+receiver) receiver, $300 speakers/sub - Dayton Audio ([B40x4](https://www.parts-express.com/Dayton-Audio-Classic-B40-Bookshelf-Speaker-Pair-Black-300-250?quantity=2) FL/FR/SL/SR + [C40x1](https://www.parts-express.com/Dayton-Audio-Classic-C40-Center-Channel-Speaker-Pair-Black-300-252?quantity=1) C) + Dayton Audio SUB-800/Used Polk PSW108 SUB <!-- [Dayton Audio B652 5.1 bundle](https://www.parts-express.com/B652-5.1-Home-Theater-Surround-Sound-Speaker-System-with-10-300-689?quantity=1) -->  
