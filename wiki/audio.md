@@ -94,11 +94,11 @@ OS Support: *Windows*: Up to LPCM 7.1, Dolby TrueHD Atmos (8.1.4.4), DTS:X (8.1.
 
 HDMI 1.3+ (Full): Digital. Bitstreamed: Lossless Dolby TrueHD/DTS-HD MA (Atmos/DTS:X). PCM: 8 channels (1.x), 32 channels (2.x).
 
-HDMI 1.4+ (ARC): Digital. Bitstreamed: Lossy Dolby Digital+ 5.1 Atmos, Lossy DTS 5.1. PCM: 2.0 channels  
+HDMI 1.4+ (ARC): Digital. Bitstreamed: Lossy Dolby Digital+ 5.1 Atmos, Lossy DTS 5.1. PCM: 2.0 channels. Stereo in OS  
 
 HDMI 2.1+ (eARC): Digital. Bitstreamed: Lossless Dolby TrueHD/DTS-HD MA (Atmos/DTS:X). PCM: 32 channels  
 
-ARC/eARC: A feature of the HDMI spec that allows audio to travel back from a HDMI "sink" (TV/Projector) to a HDMI "source" (Sound System). Must be supported on both source/sink sides. eARC can fall-back to ARC, where supported. eARC can support up to TrueHD Atmos/DTS:X/PCM 5.1, ARC up to DD+ 5.1 Atmos/DTS/PCM 2.0. it does **NOT** apply to most Monitors, nor is it a feature of GPUs.  
+ARC/eARC: A feature of the HDMI spec that allows audio to travel back from a HDMI "sink" (TV/Projector) to a HDMI "source" (Sound System). Must be supported on both source/sink sides. eARC can fall-back to ARC, where supported. eARC can support up to TrueHD Atmos/DTS:X/PCM 5.1, ARC up to DD+ 5.1 Atmos/DTS/PCM 2.0,  **shows up as Stereo in OS**. They do **NOT** apply to most Monitors, nor are they a feature of GPUs.  
 
 Displayport (native): Digital. Displayport on both ends. Bitstreamed: None. PCM: 8 channels (1.0-1.3). 32 channels (1.4+)  
 
