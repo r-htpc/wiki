@@ -94,7 +94,7 @@ OS Support: *Windows*: Up to LPCM 7.1, Dolby TrueHD Atmos (8.1.4.4), DTS:X (8.1.
 
 HDMI 1.3+ (Full): Digital. Bitstreamed: Lossless Dolby TrueHD/DTS-HD MA (Atmos/DTS:X). PCM: 8 channels (1.x), 32 channels (2.x).
 
-HDMI 1.4+ (ARC): Digital. Bitstreamed: Lossy Dolby Digital+ 5.1 Atmos, Lossy DTS 5.1. PCM: 2.0 channels. Stereo in OS  
+HDMI 1.4+ (ARC): Digital. Bitstreamed: Lossy Dolby Digital+ 5.1 Atmos, Lossy DTS 5.1. PCM: 2.0 channels. **Shows up as Stereo in OS**  
 
 HDMI 2.1+ (eARC): Digital. Bitstreamed: Lossless Dolby TrueHD/DTS-HD MA (Atmos/DTS:X). PCM: 32 channels  
 
