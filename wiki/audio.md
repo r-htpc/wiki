@@ -765,7 +765,8 @@ KODI:
 
 MPC-BE:  
    - Open MPC-BE
-   - View->Options->Internal Filters->Audio Decoders->Audio Decoder Configuration, enable "Encode to AC-3"
+   - View->Options->Audio->Audio Renderer: MPC Audio Renderer->Properties->WASAPI Mode: Exclusive->Allow bit-exact output: checked
+   - View->Options->Internal Filters->Audio Decoders (tab)->Audio decoder configuration (button)->Enable Pass-through->AC-3, Encode to AC-3
    - Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.
 
 MPC-HC/Others:
