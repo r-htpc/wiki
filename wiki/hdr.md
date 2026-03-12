@@ -79,8 +79,10 @@ keywords: [hdr, hdr10, madvr, mpc, tonemapping, kodi, plex, upscaling]
           * Radeon FreeSync: Disabled (create an app profile for your media player if you don't want to disable this globally)
           <!-- Graphics -> Enhanced Sync: Disabled -->
   * *Windows settings:*
-    * Check Windows 1x version: OS build >= 17134 (Settings app -> System -> About)
-    * Calibrate your display for HDR in Windows. *Windows 11:* [Windows App](https://support.microsoft.com/en-us/windows/calibrate-your-hdr-display-using-the-windows-hdr-calibration-app-f30f4809-3369-43e4-9b02-9eabebd23f19). *Windows 10:* Run Start->Calibrate Display Color 
+    * Check Windows 1x version for future steps: OS build >= 17134 (Settings app -> System -> About)
+    * Calibrate your display for HDR in Windows
+      * Display: If your display has a Dynamic Tone Mapping option, set it to HGiG (if available) or Off  
+      * *Windows 11:* Install and Run the [Windows HD Calibration](https://support.microsoft.com/en-us/windows/calibrate-your-hdr-display-using-the-windows-hdr-calibration-app-f30f4809-3369-43e4-9b02-9eabebd23f19) app. *Windows 10:* Run Start->Calibrate Display Color 
 * *LibreElec:*  
   * [4K/HDR](https://wiki.libreelec.tv/configuration/4k-hdr)
 * *CoreElec:*  
@@ -780,5 +782,5 @@ Do one or more of the following..
 
 ---
 
-*This page was last updated on 2026-01-23*
+*This page was last updated on 2026-03-12*
 
