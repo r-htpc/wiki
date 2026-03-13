@@ -117,7 +117,8 @@ $150-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB+ RAM, 256GB ssd/1TB hdd
     - [HP EliteDesk 705 G5](https://www.ebay.com/sch/179/i.html?_from=R40&_nkw=hp+705+g5+%283200g%2C3400g%29&LH_TitleDesc=1&_sop=15&LH_PrefLoc=2&rt=nc&LH_BIN=1) (AMD 3400G)
     - [Minisforum UN300](https://www.amazon.com/MINISFORUM-LPDDR5-i3-N300-Threads-USB3-2/dp/B0CQYW121V) (N300)  
   - $300: Med+ (<= Switch)
-    - [GMKTec M6 Ultra](https://www.gmktec.com/products/amd-ryzen-5-7640hs-mini-pc-nucbox-m6-ultra?variant=9b66d3ad-91a1-4f84-bfcc-f0e919102f1a) / [Minisforum UM750L](https://www.amazon.com/MINISFORUM-UM690Pro-6900HX-Desktop-Computer/dp/B0CTTPPZQS?th=1) (760/740M)  
+    - [GMKTec M6 Ultra](https://www.gmktec.com/products/amd-ryzen-5-7640hs-mini-pc-nucbox-m6-ultra?variant=9b66d3ad-91a1-4f84-bfcc-f0e919102f1a) / [Minisforum UM750L](https://www.amazon.com/MINISFORUM-UM690Pro-6900HX-Desktop-Computer/dp/B0CTTPPZQS?th=1) (760/740M)
+    - [HP EliteDesk 805 G6](https://www.ebay.com/sch/i.html?_nkw=%285600g%2C5650g%2C4600g%2C4650g%29&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=%285600g%2C5650g%29&_osacat=179&LH_BIN=1&_sop=15&_udhi=150%29+%28%24100%29+OR+%3E%3D+%5BJ4125+Mini+PC%5D%28https%3A%2F%2Fwww.amazon.com%2FNucBox-Windows-Computer-Intel-J4125%2Fdp%2FB092JFVX2Z) (AMD 4650G)
   - $350-400: High (<= PS3)
     - [GMKtec M7](https://www.gmktec.com/products/amd-ryzen-7-pro-6850h-mini-pc-nucbox-m7?variant=bac9d62f-94ff-42ba-9102-f9d0e12ad9fc)/[Minisforum UM773](https://www.amazon.com/MINISFORUM-UM690-6900HX-Threads-Bluetooth5-2/dp/B0BYDF63TT/?th=1) (680M)  
   - $500+: Ultra (<= Xbox 360)
@@ -725,7 +726,7 @@ TOTAL		|										|$150		|	NA			|
 ### $100 720p/1080p Gaming Emulation Box (1.2L)
 
 This is a good, small (Micro/USFF) emulation box for NES/SNES, Game Gear, Sega Master/Saturn/Dreamcast, PSP/PS1, N64/Gamecube, AtomisWave.  
-3DS, PS2 and anything greater will struggle a bit, depending on the game. Check [ETA Prime's reviews](https://www.youtube.com/watch?v=XONKVZf0m6o). If you want to run those, move up to a i5-8500 SFF and low profile Nvidia GT 1030 GDDR5 used off ebay for $70 more; if you need to stay in the Micro/USFF form-factor, look at [AMD-based pre-builts](https://www.ebay.com/sch/179/i.html?_from=R40&_nkw=%283200ge%2C3400ge%2C2400ge%2C3200ge%29&LH_TitleDesc=0&LH_BIN=1&_sop=15&_udhi=150%29+%28%24100%29+OR+%3E%3D+%5BJ4125+Mini+PC%5D%28https%3A%2F%2Fwww.amazon.com%2FNucBox-Windows-Computer-Intel-J4125%2Fdp%2FB092JFVX2Z) ($175).  
+3DS, PS2 and anything greater will struggle a bit, depending on the game. Check [ETA Prime's reviews](https://www.youtube.com/watch?v=XONKVZf0m6o). If you want to run those, move up to a i5-8500 SFF and low profile Nvidia GT 1030 GDDR5 used off ebay for $70 more; if you need to stay in the Micro/USFF form-factor, look at [AMD-based pre-builts](https://www.ebay.com/sch/i.html?_nkw=%283200ge%2C3400ge%2C2400ge%2C3200ge%2C4600g%2C4650g%29&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=%283200ge%2C3400ge%2C2400ge%2C3200ge%29&LH_BIN=1&_osacat=179&_sop=15&_udhi=150%29+%28%24100%29+OR+%3E%3D+%5BJ4125+Mini+PC%5D%28https%3A%2F%2Fwww.amazon.com%2FNucBox-Windows-Computer-Intel-J4125%2Fdp%2FB092JFVX2Z) ($125).  
 This is not for anything like PS3, CEMU, or anything >= Xbox  
 
 Make sure to get one with 2x4GB sticks of RAM, not a single stick.  
@@ -759,8 +760,8 @@ PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE	|InWin Slim BL040 MicroATX case w/300W PSU			|$100		|[amazon](https://www.amazon.com/InWin-BL040-mATX-Desktop-Black/dp/B0964K2W4R)	|ALT: [Silverstone ML03b](https://pcpartpicker.com/product/bWR48d/silverstone-case-ml03b) (15.7L) ($95)/[Jonsbo C6](https://www.newegg.com/p/2AM-006A-000C4) (15.8L) ($60)
 PSU		|Included							|$0		|	|ALT: [EVGA BQ 500W](https://pcpartpicker.com/product/8P7CmG/evga-bq-500w-80-bronze-certified-semi-modular-atx-power-supply-110-bq-0500-k1) ($60)
-CPU		|AMD Ryzen 5500GT APU (65W)				|$110		|[pcpartpicker](https://pcpartpicker.com/products/cpu/#sort=price&k=33&F=79,96&g=430,489,418,419)	|ALT: [Ryzen 3400G - Ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=3400g&_sacat=0&LH_BIN=1&_sop=15) ($75)
-MOBO	|MSI A520M-A PRO MicroATX		|$70		|[pcpartpicker](https://pcpartpicker.com/product/nZTzK8/msi-a520m-a-pro-micro-atx-am4-motherboard-a520m-a-pro)	|ALT: 3400G: [MSI A320M PRO](https://pcpartpicker.com/product/mB4BD3/msi-a320m-a-pro-micro-atx-am4-motherboard-a320m-a-pro) ($80)
+CPU		|AMD Ryzen 5500GT APU (65W)				|$110		|[pcpartpicker](https://pcpartpicker.com/products/cpu/#sort=price&k=33&F=79,96&g=430,489,418,419)	|ALT: [Ryzen 4600G - Ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=4600g&_sacat=0&LH_BIN=1&_sop=15) ($85)
+MOBO	|MSI A520M-A PRO MicroATX		|$70		|[pcpartpicker](https://pcpartpicker.com/product/nZTzK8/msi-a520m-a-pro-micro-atx-am4-motherboard-a520m-a-pro)	|ALT: 4600G: [MSI A320M PRO](https://pcpartpicker.com/product/mB4BD3/msi-a320m-a-pro-micro-atx-am4-motherboard-a320m-a-pro) ($80)
 MEM		|Silicon Power Gaming 2x8GB DDR4-3200		|$30		|[pcpartpicker](https://pcpartpicker.com/product/P4FKHx/silicon-power-sp016gxlzu320bdaj5-16-gb-2-x-8-gb-ddr4-3200-cl16-memory-sp016gxlzu320bdaj5)	|ALT: Deskmini: [2x8GB DDR4-3200 SODIMMS](https://pcpartpicker.com/products/memory/#xcx=0&b=ddr4&ff=ddr4_sodimm&sort=price&S=2666,8000&Z=16384002)
 STORAGE	 	|Sandisk SSD Plus 250GB NVMe M.2 SSD					|$30		|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#t=0&A=250000000000,22000000000000&f=122080&D=1&sort=price&page=1)	|ALT: WD Black SN5000 500 GB M.2 ($40)
 TOTAL	|								|$330	|	|
@@ -962,5 +963,5 @@ TOTAL		|											|$801			|	|
 
 ---
  
-*This page was last updated on 2026-03-02*
+*This page was last updated on 2026-03-13*
 
