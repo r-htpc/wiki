@@ -379,6 +379,7 @@ In media applications, the most popular ones will have the codecs to decode up t
    - Use one of the upmixing listening mode(s) on your sound system (e.g. Dolby Surround/Dolby Pro Logic/DTS Neural), if available.
    - Configure the speaker configuration in your media applications to the speakers you want to upmix to, e.g. 5.1. This varies. Each app usually has their own audio mixing filter, but may also include LAV audio decoder filters to do normalize/DRC/etc...
    - Use a system-wide upmixer, such as [Equalizer APO + Peace Equalizer GUI](/wiki/audio#audio-software), with Stereo Effect *OR* [Voicemeter Banana](https://vb-audio.com/Voicemeeter/banana.htm) with [Stereo Repeat](https://voicemeeter.com/mix-down-and-mix-up-the-voicemeeter-bus-modes/)
+   - To virtualize sound for headphones, use [HeSuVi](https://sourceforge.net/p/hesuvi/wiki/Help/). 
    - If available, set your window's sound device to use the 'Speaker fill' enhancement.
    - Install Dolby Access and configure Dolby Atmos for Home Theater in your sound device's speaker config
 
@@ -893,26 +894,27 @@ If you want to re-encode audio down to Dolby Digital for your games:
 - If you're going through a display, make sure your display is set to passthrough/bitstream digital audio
 - Download and extract the "APO Driver" install from [here](https://puresoftapps.blogspot.com/2018/04/realtek-apo-driver.html)
   - *If on Windows 11*, install the AC-3 codec from [here](https://www.majorgeeks.com/files/details/dolby_ac_3ac_4_installer.html). You may also have to  [Disable Driver Signature Enforcement](https://www.youtube.com/watch?v=IpKDOTmiug4) first if the instructions don't work.
+  - Temporarily disable any anti-virus software you have installed. This software is safe to install, but will trigger AV and corrupt the install. 
   - Run the extracted x64 apo driver .exe
-  - Antivirus may be triggered. The software is safe to install. 
   - Enable the "Dolby DS1" feature
 - Reboot
 - Download and extract the "FX Configurator" install from [here](https://github.com/alanfox2000software/FXConfigurator/releases)
   - Extract to any folder you want
-  - Run the extracted Launcher.exe
-    - Select your active HDMI/Optical interface Endpoint from the top drop-down 
+  - Run the extracted Launcher.exe app
+    - Select your active HDMI/Optical interface Endpoint from the top drop-down box 
     - Click "Product Config Tool" 
-    - Choose the "Dolby Digital Plus Home Theater (HDMI/SPDIF)" product, then "Apply Product Settings.."  
+    - Choose the "Dolby Digital Plus Home Theater (HDMI/SPDIF)" product, then "Apply Product Settings..". Close the app.  
 <!-- - OPTIONAL: Install the [Dolby Home Theater](https://drive.google.com/uc?export=download&id=1BPtzJwj-3YNgEV7Jsyl5sMHb-McTvCBS) app for additional audio mixing. -->
+<!-- OPTIONAL: Windows is only sending stereo on 5.1 content: Read: https://www.reddit.com/r/Dolby/comments/1jfgij7/dolby_digital_ac3_eac3_audio_output_on_windows_10/ -->
 - OPTIONAL: Install the [Dolby Digital Plus Home Theater](https://drive.google.com/uc?export=download&id=1_5jBYSLE-fHbxPzDVxROIvvuzeYcXhIt) app for additional audio mixing. 
 - Open Windows Control Panel -> Sound -> \<your_sound_device\>
   - Configure -> Stereo
   - Properties -> Advanced tab, Default Format: Dolby Digital
 - Reboot
-- NOTE: Some audio delay is common in software-rencoding. To minimize the delay you can try:
-  - Run the "FX Configurator" launcher app, remove the values in the Local FX APO.. boxes, Click Apply Effect and Processing Modes.. and reboot
+- NOTE: Some audio delay/de-sync is common in the software-encoding used here. To minimize any that you notice, you can try one or more of the following:
+  - Run the "FX Configurator" Launcher.exe app, remove the values in the Local FX APO.. boxes, Click Apply Effect and Processing Modes.. and reboot
   - Use DTS Connect instead, as it has slightly lower latency. Uninstall and re-install the APO driver, and instead of choosing Dolby DS1/Dolby Digital Plus/Dolby Digital during Install/FX Configurator Product Config Tool/Sound device default format, choose DTS Connect/DTS Connect/DTS Interactive instead. 
-  - If you're going through a display, run Optical from your HTPC instead, using either a simple [USB->Optical adapter](https://www.amazon.com/Cubilux-TOSLINK-Converter-Compatible-Computer/dp/B0B2DBGKL3) or a soundcard that supports DDL in hardware as per the Alternativee sub-section above. 
+  - If you're sending the audio through a display, run Optical directly from your HTPC instead, using either a simple [USB->Optical adapter](https://www.amazon.com/Cubilux-TOSLINK-Converter-Compatible-Computer/dp/B0B2DBGKL3) or a soundcard that supports DDL in hardware as per the Alternativee sub-section above. 
 
 <!-- Sub-Section -->
 
@@ -1184,5 +1186,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2026-02-28*
+ *This page was last updated on 2026-03-14*
 
