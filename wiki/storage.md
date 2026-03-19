@@ -63,7 +63,7 @@ SSDs are good for smaller app, metadata and cache storage as they have more read
 External media storage can come in the format of USB drives or USB/Thunderbolt Direct Attached Storage enclosures (DAS); drives in a DAS can act as individual drives or as one drive. These USB-based storage devices are o.k. for beginner setups, but anything attached by **USB is at risk of being disconnected at random**, so **internal or network storage is preferred** to external, for reliability and stability. That said, if a DAS is PCIe SAS-based instead of USB, this is just as good as internal/network storage.  
 **Never** do Software RAID or drive pooling over USB.  
 
-Recommended DASes are bolded in the Hardware section below. PCIe solutions being preferred. 
+Recommended DASes are bolded in the [Hardware section below](/wiki/storage#direct-attach-storage-das). PCIe solutions being preferred. 
 
 Attach to a DiY or Ad-Hoc solution below  
 
