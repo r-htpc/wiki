@@ -676,7 +676,7 @@ The following things may fix and/or help you identify your problem:
 3. Test with your Video driver's power management set to maximum performance; If Nvidia, also set Low Latency Mode to Ultra
 4. If you're using HDMI/DP for your audio, test with the generic "High Definition Audio Device" Windows driver for your Display/HD audio device under Device manager->Sound, video, and game controllers->\<Display/HD audio device\>->Update Driver->Browse..->Let me pick..-->High Definition Audio Device
 5. If the content is coming from over a network, copy it to local storage on the HTPC. Test again.
-6. Your HDMI port may be going to an idle, power-saving state. Use [Sound Keeper](https://github.com/vrubleg/soundkeeper) to keep it alive.
+6. Your HDMI port may be going to an idle, power-saving state. See [here](/wiki/audio#when-i-play-my-content-why-does-the-audio-start-playing-with-a-delay) for solutions to keep it alive.
 7. If you're bitstreaming an audio codec in your media player, disable it to decode the codec to PCM. Test again. If you usually are decoding the codec, enable bitstreaming for it, where possible. Test different audio codecs to see if the issue is specific to certain codecs.
 8. Test with a different media player
 9. If you're using HDMI/DP for your audio, try newer or older versions of your GPU drivers.
@@ -726,6 +726,7 @@ The following things may fix and/or help you identify your problem:
 You could be encountering a "feature" that causes a digital audio connection (SPDIF or HDMI) to go to sleep, [into a power saving D3 state](https://www.intel.com/content/dam/www/public/us/en/documents/product-specifications/high-definition-audio-specification.pdf), when audio stops playing for a period of time. It takes some time for the connection to come back to an active D0 power state, causing the delay. To workaround this use a program to keep the connection active, such as:
  - Windows: [Sound Keeper](https://github.com/vrubleg/soundkeeper) or [SPDIF KA](https://github.com/handruin/spdif-ka)
  - Linux: [This method](https://destinmoulton.com/notes/howto/linux-usb-audio-keep-alive-service/) which will play inaudible audio over the connection at all times and is more universal, [this method](https://wiki.scanframe.com/en/Configuration/Linux/audio-suspend-disable) if you're using Alsa/Wireplumber, or [this method](https://wiki.archlinux.org/title/PulseAudio/Troubleshooting#Pops_when_starting_and_stopping_playback) if you're using Pulseaudio.
+ - Player: mpv (standalone/IINA/Plex): mpv.conf: audio-wait-open=1, audio-buffer=0.4, audio-stream-silence=yes
 
 You can also reference [this post](https://www.reddit.com/r/htpc/comments/vn3iuy/fixing_the_delay_when_starting_audio_from_windows/) for user experiences. 
 
