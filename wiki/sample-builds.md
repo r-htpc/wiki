@@ -122,7 +122,7 @@ $150-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB+ RAM, 256GB ssd/1TB hdd
   - $350-400: High (<= PS3)
     - [GMKtec M7](https://www.gmktec.com/products/amd-ryzen-7-pro-6850h-mini-pc-nucbox-m7?variant=bac9d62f-94ff-42ba-9102-f9d0e12ad9fc)/[Minisforum UM773](https://www.amazon.com/MINISFORUM-UM690-6900HX-Threads-Bluetooth5-2/dp/B0BYDF63TT/?th=1) (680M)  
   - $500+: Ultra (<= Xbox 360)
-    - [GMKTec K12](https://www.amazon.com/GMKtec_gaming_mini_pc_ryzen_h_255/dp/B0FK2BLV7J/) / Minisforum [UM870](https://www.amazon.com/MINISFORUM-Desktop-Computer-Barebone-Graphics/dp/B093V18HKB/?th=1) / [UM790 Pro](https://store.minisforum.com/collections/game-mini-pc/products/minisforum-um790-pro?variant=44134865731829) (780M) 
+    - [GMKTec K12](https://www.amazon.com/GMKtec_gaming_mini_pc_ryzen_h_255/dp/B0FK2BLV7J/) / Minisforum [UM870](https://www.amazon.com/MINISFORUM-Desktop-Computer-Barebone-Graphics/dp/B093V18HKB/?th=1) / [UM790 Pro](https://store.minisforum.com/products/minisforum-um790-pro-mini-pc) (780M) 
 
    - See [ETA PRIME](https://www.youtube.com/@ETAPRIME) YT channel for Emulation device reviews  
 - Medium Gaming:
@@ -144,6 +144,7 @@ Intel Core 7th gen i3+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDM
 - New: [Asus ExpertCenter PN42+](https://www.asus.com/us/displays-desktops/mini-pcs/pn-series/filter?Series=PN-series) ($250+RAM+SSD)
 - New: [Asus](https://www.asus.com/us/displays-desktops/nucs/nuc-mini-pcs/filter?Category=NUC-Performance,NUC-Pro&Series=NUC-Kits) NUCs ($350+RAM+SSD) 
 - New: ASRock [NUC/4x4 Box](https://www.newegg.com/ASRock-Industrial-Mini-PC-Barebone/BrandSubCat/ID-223387-309?Order=1) ($425+RAM+SSD)
+- New: Minisforum [MS-A1/MS-A2](https://store.minisforum.com/products/minisforum-ms-a1-workstation?variant=46761918824693) ($440+RAM+SSD)
  
   
 <!--
@@ -154,7 +155,7 @@ Intel Core 7th gen i3+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDM
 
 ### Specialized: 4K@120Hz
 
-- **[UM750L](https://store.minisforum.com/products/minisforum-um750l-slim)/[UM680/UM760 Slim](https://store.minisforum.com/products/minisforum-um760-slim)**, [SER6 Max](https://www.google.com/search?q=ser6+max&oq=ser6+max), [Gigabyte Brix Extreme](https://www.newegg.com/p/pl?d=gigabyte+brix+extreme), [Venus UM790](https://store.minisforum.com/collections/amd-%C2%AE-ryzen-%C2%AE/products/minisforum-um790-pro), [ASRock 4x4 7535U/8640U](https://www.newegg.com/p/pl?N=50223387&d=4x4&Order=1)
+- **[UM750L](https://store.minisforum.com/products/minisforum-um750l-slim)/[UM680/UM760 Slim](https://store.minisforum.com/products/minisforum-um760-slim)**, [SER6 Max](https://www.google.com/search?q=ser6+max&oq=ser6+max), [MS-A1/MS-A2](https://store.minisforum.com/products/minisforum-ms-a1-workstation?variant=46761918824693), [Venus UM790](https://store.minisforum.com/products/minisforum-um790-pro-mini-pc), [ASRock 4x4 7535U/8640U](https://www.newegg.com/p/pl?N=50223387&d=4x4&Order=1), [Gigabyte Brix Extreme](https://www.newegg.com/p/pl?d=gigabyte+brix+extreme)
 - [Asus Nuc 14 Pro](https://shop.asus.com/us/asus-nuc-14-pro.html)/[Intel NUC 11+](https://www.newegg.com/p/pl?N=100008345%2050001157%20601331497%2050001315&Order=1) + [Cable Matters Thunderbolt->HDMI 2.1 Cable](https://www.amazon.com/Cable-Matters-48Gbps-Adapter-Supporting/dp/B08QDV5H4M) + Display w/HDMI DSC support
 - [What options are there for 4k @ 120 Hz video output?](/wiki/video#what-options-are-there-for-4k--120-hz-video-output)  
 
