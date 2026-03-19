@@ -56,6 +56,8 @@ If quick, no-delay access is required, APM/power management should be disabled s
 
 SSDs are good for smaller app, metadata and cache storage as they have more read/write performance and are quieter than HDDs. The value is not quite there for mass storage, so avoid for that use. 2.5" SATA SSD drives are good value for ephemeral space that doesn't need the best performance, while M.2 drives are better for higher IO performance and endurance.  
 
+Recommended drives are bolded in the [Hardware section below](/wiki/storage#hard-drives) 
+
 <!-- Section -->
 
 ## External Storage
@@ -74,6 +76,8 @@ Attach to a DiY or Ad-Hoc solution below
 You should keep your network storage away from your listening environments/clients, both logically and physically, where at all possible. Logically because of it having a specialized OS different from front-ends makes it hard to combine tasks into a single system, Physically because of potential, combined noise and temperatures. Basements/media closets are ideal, but any space without drastic temperature fluctuations is fine.  
 
 If you have the money to spend on a pre-built NAS and your requirements will not shift drastically, you should do that. Otherwise, looks at the other alternate options.  
+
+Recommended NASes are bolded in the [Hardware section below](/wiki/storage#pre-built-nas) 
 
 <!-- Section -->
 
