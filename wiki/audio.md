@@ -446,13 +446,13 @@ These steps assume you have the latest version of [MPC-HC clsid2](https://github
    - Bitstreaming->Formats->Enable the codecs your sound system supports decoding.
    - Enable System Tray Icon: checked
 5. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
-6. If configured correctly, you should see the blue LAV Audio icon in the system tray. Click on it and then on the Status Tab to see the audio being bitstreamed. Confirm the codec you're playing is the same as is on your sound system.  
+6. If configured correctly, you should see the blue LAV Audio icon in the system tray. Click on it and then on the Status Tab to see the audio being bitstreamed. Confirm the codec you're playing is the same as is shown on your sound system.  
 
 MPC-BE:  
 These steps assume you have the latest version of [MPC-BE](https://sourceforge.net/projects/mpcbe/files/MPC-BE/)  
 1. View->Options->Audio->Audio Renderer: MPC Audio Renderer->Properties->WASAPI Mode: Exclusive->Allow bit-exact output: checked  
 2. View->Options->Internal Filters->Audio Decoders (tab)->Audio decoder configuration (button)->Pass-through->Enable the codecs your sound system supports decoding  
-3. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below. Confirm the codec you're playing is the same as is on your sound system. 
+3. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below. Confirm the codec you're playing is the same as is shown on your sound system. 
 
 POTPLAYER:  
 1. F5 key->Audio
@@ -460,7 +460,7 @@ POTPLAYER:
      - Use exclusive mode: checked, Device: \<audio device you will be using for bitstreaming\> 
    - Set Built-In Audio Decoder->Pass Through->Set "Default Pass-through Muxer" for the codecs your sound system supports decoding
 2. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.
-3. If not playing correctly, check the Playback/System Information screen (Cntrl-F1) that the Audio Info decoder is using "Built-In WASAPI.." and not something else. Confirm the codec you're playing is the same as is on your sound system.  
+3. If not playing correctly, check the Playback/System Information screen (Cntrl-F1) that the Audio Info decoder is using "Built-In WASAPI.." and not something else. Confirm the codec you're playing is the same as is shown on your sound system.  
 
 VLC:  
 1. Tools->Preferences->Show Settings (All)->Audio
@@ -468,7 +468,7 @@ VLC:
    - Output modules->Audio output module: Windows Multimedia Device output  
    - MMDevice->Output back-end: Windows Audio Session API output, HDMI/SPDIF Audio Passthrough: Enabled - for all codecs, or Enabled (AC3/DTS only) - for if your sound system only supports decoding regular DD/DTS. Output Device: \<audio device you will be using for bitstreaming\>
    - *Linux*: Audio->Output modules->ALSA. Audio Output Device: \<audio device you will be using for bitstreaming\>, Audio Channels: 7.1
-2. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below. Confirm the codec you're playing is the same as is on your sound system. 
+2. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below. Confirm the codec you're playing is the same as is shown on your sound system. 
 
 KODI:  
 1. Make sure audio output device is connected
@@ -476,7 +476,7 @@ KODI:
 3. Change settings view on bottom-left to "Expert"
 4. Settings->System->Audio->Allow Passthrough: On, Passthrough Output Device: <HDMI/Optical Device>  
 5. Settings->System->Audio->XXX capable receiver: Enable the codecs your sound system supports decoding  
-6. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below. Confirm the codec you're playing is the same as is on your sound system.
+6. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below. Confirm the codec you're playing is the same as is shown on your sound system.
 7. *Linux*: [https://forum.kodi.tv/showthread.php?tid=356360](https://forum.kodi.tv/showthread.php?tid=356360)
 
 PLEX HTPC/PLEX MEDIA PLAYER:  
@@ -485,7 +485,7 @@ PLEX HTPC/PLEX MEDIA PLAYER:
 3. Settings->Audio->Device: Auto/<HDMI/SPDIF Device>  
 4. Settings->Audio->Exclusive Mode: Enable  
 5. Settings->Audio->Passthrough: xxx: Enable the codecs your sound system supports decoding  
-6. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below. Confirm the codec you're playing is the same as is on your sound system.  
+6. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below. Confirm the codec you're playing is the same as is shown on your sound system.  
 
 PLEX FOR WINDOWS:  
 1. Settings->Player->Exclusive Mode: Enable  
@@ -493,14 +493,14 @@ PLEX FOR WINDOWS:
 3. Settings->Player->Audio Device Kind: <HDMI/SPDIF>  
 4. Settings->Player->Channels: Auto (or 2.0 if spdif)  
 5. Settings->Player->Passthrough xxx: Enable the codecs your sound system supports decoding  
-6. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below. Confirm the codec you're playing is the same as is on your sound system.  
+6. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below. Confirm the codec you're playing is the same as is shown on your sound system.  
 
 EXTERNAL: OPTIONAL: If you need/want an advanced/specialized audio decoder/filter external to your app/player:  
 1. Install the external [LAV Filters](https://github.com/Nevcairiel/LAVFilters/releases) software.  
 2. Run the "LAV Audio Configuration" app. Under Audio Settings->Bitstreaming, enable/check the codecs you want to bitstream. Check "Enable System Tray Icon".    
 3. Configure your media player app to use an external filter (e.g. MPC-HC/BE->View->Options->External Filters->Add Filter->LAV Audio Decoder->Prefer)  
 4. Restart your media player app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.  
-5. If configured correctly, you should see the blue LAV Audio icon in the system tray. Click on it and then on the Status Tab to see the audio being bitstreamed. Confirm the codec you're playing is the same as is on your sound system.  
+5. If configured correctly, you should see the blue LAV Audio icon in the system tray. Click on it and then on the Status Tab to see the audio being bitstreamed. Confirm the codec you're playing is the same as is shown on your sound system.  
 
 <!-- Section -->
 
