@@ -243,6 +243,7 @@ While media devices are great frontends that are easy to use and navigate, they'
 5. Buy a movie from a content service (Fandango at Home, Prime Video, Apple iTunes, Google Play/Youtube, Comcast/Verizon/DirectTV) via Movies Anywhere, then follow playback in #3.
 6. Buy a [Kaleidescape](https://www.kaleidescape.com/) closed eco-system, buy/download lossless content from them for your system, or use their disc-to-digital service with your own physical discs.
 7. Pull live TV broadcasts from "Over the Air" [via an antenna, cable provider's service, streaming service, or the TVEverywhere service](/wiki/faq#can-i-watch-live-tv-or-record-it-and-play-it-back-on-my-htpc).
+8. Public Domain [Movies](https://archive.org/details/publicmovies212) and [Feature Films, shorts, etc..](https://archive.org/details/feature_films?and%5B%5D=mediatype%3A%22movies%22) from the Internet Archive. [Open Content](https://opencontent.netflix.com/) from Netflix. [AV Demos](https://www.demolandia.net/) from Demolandia.
 
 
 ## What software will I need and how do I set it up?
