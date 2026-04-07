@@ -628,12 +628,12 @@ The following are the current capabilities of the major streaming services as we
 
 - [PEACOCK TV](https://www.peacocktv.com/help/article/what-devices-and-platforms-are-supported-by-peacock)  
 
-  - *Windows:* (Edge) 1080p? SDR, AAC Stereo
+  - *Windows:* (Edge) Unknown, but will not be higher than 720p SDR, AAC Stereo
   - *Linux:* Not supported
 
 - [PARAMOUNT+](https://help.paramountplus.com/s/article/PD-Supported-Devices)  
 
-  - *Windows:* Unknown, but will not be higher than 1080p
+  - *Windows:* Unknown, but will not be higher than 720p
   - *Linux:* (Chrome/Firefox) 576p SDR, Stereo?
 
 - [DISCOVERY+](https://help.discoveryplus.com/hc/en-us/articles/1500000101182-Browsers-and-devices-supported-by-discovery-)  
@@ -889,5 +889,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2026-01-30*
+*This page was last updated on 2026-04-06*
 
