@@ -309,11 +309,13 @@ To confuse things even more, sometimes Full and Limited are called by other name
  - Change your renderer to a Range of Full (0-255). This is the default for all renderers (madVR/MPC VR/EVR CP) unless otherwise changed.
  - Change Bit Depth to Auto or the max color bit depth of your content 
 2. Change your Display:
- - If for 4k >= 60Hz, set a HDMI signal format of *UHD Deep Color/Input Signal Plus/Enhanced*
+ - If for 4k >= 60Hz, set a HDMI signal format of *UHD Deep Color/Input Signal Plus/Enhanced*. If >= 120 Hz, use *Enhanced (Advanced)/(4k120)*, where available
  - Set a color space of RGB/Native (where available) or Auto. Change the input range/black level to Full/High/Normal. If you can't find these settings, as a last resort, put your Display in PC or Game Mode. FYI, this will remove a lot of Display processing options, so if this is not desired, you may want to use Scenario #2's Limited settings in these steps instead
+ - Read your display's manual for available settings/resolutions
 3. Change your Sound System (if between PC and Display):
  - If for 4k@60Hz, set a HDMI signal/video format of *4K Enhanced/4K Mode*
  - If for 4k@120Hz/8K@60Hz, set a HDMI signal/video format of *8K Enhanced/8K mode*  
+ - Read your sound systems's manual for available settings/resolutions
 4. Change your GPU driver
  - Set a Resolution, Refresh Rate, Color/Pixel Format, Color Depth, and Dynamic Range based on the below for your video interface. Check you GPU/mobo specs for what the max supported is.
    - HDMI 2.2 FRL: 3840x2160, 240 Hz, RGB, 10-bit, Full
