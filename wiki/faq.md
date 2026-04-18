@@ -365,7 +365,8 @@ Yes, you can. There are many already-built devices out there. Media devices from
 
 Beware of cheap no-name android boxes on obscure websites. They likely will have no or poor support and very little documentation if you run into trouble.  
 
-If you're looking for the best Plex client, watch [this](https://www.youtube.com/watch?v=qLxjL2NxZy8) video for tests on loading/scrolling/playing/audio/remotes/etc..  
+<!-- If you're looking for the best Plex client, watch [this](https://www.youtube.com/watch?v=qLxjL2NxZy8) video for tests on loading/scrolling/playing/audio/remotes/etc..  -->
+See the next section for a TL;DR of the best devices for your use-case  
 
 If you want a traditional standalone HTPC see the Mini PCs at the end of the list or our [Sample Builds](/wiki/sample-builds) page for more extensive options.  
 
@@ -412,7 +413,7 @@ BRAND/MODEL|PRICE|RESOLUTION|4k NETFLIX|HDR|WLAN/LAN|VOICE|USB|RATING|NOTES
 [Raspberry Pi 4b](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) / [5](https://www.raspberrypi.com/products/raspberry-pi-5/) ([buy](https://www.pishop.us/product/raspberry-pi-4-model-b-1gb/)/[buy](https://www.pishop.us/product/raspberry-pi-5-4gb/))|$36/$60|4k@60 (2,4)|No|10/HLG (2)|ac/1000M|No|YES (8b)|V:Good A:**Best**|HDR10/HLG, LL DA/DTSX w/LibreElec, BT 5.0
 [Odroid C4](https://www.hardkernel.com/shop/odroid-c4/) ([buy](https://www.hardkernel.com/shop/odroid-c4/))|$55|4k@60|No|10/+ (6a)|Opt/1000M|No|YES (8b)|V:Good A: **Best**|S905X3/4GB RAM. PT:**LL DA/DTSX** w/CoreElec
 [Odroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ([buy](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/))|$66|4k@60|No|10/+ (6a)|Opt/1000M|No|YES (8b)|V:Good A:**Best**|S922x/2GB RAM/8 GB SD. PT:**LL DA/DTSX** w/CoreElec
-[Dune HD Box R 4K Plus](https://www.dune-hd.com/products/homatics-box-r-4k-plus) ([buy](https://www.dune-hd.com/products/homatics-box-r-4k-plus))|$150|4k@60|YES (5a)|10/+/DV (6b)|ax/1000M|No|YES (8b)|V:**Best** A:**Best**|AV1, S905X4-K/4GB RAM/32 GB SD. **DV-5/7F/8**, PT:**LL DA/DTSX**
+[Dune HD Box R 4K Plus](https://www.dune-hd.com/products/homatics-box-r-4k-plus) ([buy](https://www.dune-hd.com/products/homatics-box-r-4k-plus))|$200|4k@60|YES (5a)|10/+/DV (6b)|ax/1000M|No|YES (8b)|V:**Best** A:**Best**|AV1, S905X4-K/4GB RAM/32 GB SD. **DV-5/7F/8**, PT:**LL DA/DTSX**
 [Xiaomi TV Box S](https://www.mi.com/global/product/xiaomi-tv-box-s-3rd-gen/) ([buy](https://www.amazon.com/Xiaomi-TV-Box-3rd-Gen/dp/B0F3JWFL56))|$75|4k@60|YES|10/+/DV|ax/Opt (9c)|YES|YES (8c)|V:Better A:**Best**|3rd gen, AV1, DV-5, PT:**LL DA/DTSX**, S905X5M/2GB/32GB, BT 5.2
 **[Apple TV 4k (2022)](https://www.apple.com/apple-tv-4k/)** ([buy](https://www.apple.com/shop/buy-tv/apple-tv-4k))|**$129/$149**|4k@60|YES|10/+/DV|ax/1000M (7)|YES|No|V:Better A:Better|3rd gen, A15, 3GB, DV-5/8, DC:DTHD/DTSHD->PCM, PT:LS DA, BT 5.0
 [Onn 4K Box (2023)](https://www.walmart.com/ip/onn-Google-TV-4K-Streaming-Box-New-2023-4K-UHD-resolution/2835618394) ([buy](https://www.walmart.com/ip/onn-Google-TV-4K-Streaming-Box-New-2023-4K-UHD-resolution/2835618394))|$25|4k@60|YES|10/+|ac/Opt (9a)|YES|Opt (8a)|V:Good A:Good|2nd Gen. AV1, DC:NA, PT:LS DD/DTS, S905Y4/2GB/8GB
@@ -480,18 +481,21 @@ The Amazon FireTV sticks, Roku and Google TV products all work very similarly at
 
 Your choice may come down to a particular ecosystem you're already tied to or want to get into.  
 
-If you use/want to use Amazon Alexa a lot you may want to go with a FireTV device.  
+If you use/want to use Amazon Alexa a lot you may want to go with a FireTV device, like a 4K Max.  
 
 If you use/want to use Google Assistant a lot or want an Android TV experience, you may want to go with a Onn 4k Pro.  
 
-If you want something ad-free, then an Apple TV 4K or an Onn 4k Pro + Projectivy/ATV Launcher.  
+If you want something ad-free, then an Apple TV 4K or an Onn 4k Pro + Projectivy/ATV/AT4k Launcher.  
 
-If you want something to just play files off a USB exfat drive with Kodi/VLC/etc.., then an Onn 4k Pro + Projectivy/ATV Launcher.  
+If you want something to just play files off a USB exfat drive with Kodi/VLC/etc.., then an Onn 4k Plus/Pro.  
 
 If you want something more content provider-agnostic that searches across them well and has a lot of curated/free content, you may want to go with a Roku device.  
 
-Once you start looking for advanced features, like external storage, gigabit ethernet, lossless audio or better performance for game streaming/emulation, you should start looking at pricier devices like the Nvidia Shield Pro, Fire TV Cube, Dune HD, and Odroid N2+  
-
+Once you start looking for advanced features, like advanced external storage, proper gigabit ethernet, all DV profiles, lossless audio or better performance for game streaming/emulation, you should start looking at pricier devices @ >= $100. See list above for specifics.  
+ - Gigabit Ethernet: Nvidia Shield Pro, Dune HD
+ - Emulation/Game Streaming: Nvidia Shield Pro, Fire TV Cube
+ - Dolby Vision all profiles: Dune HD
+ - Lossless Audio: Nvidia Shield Pro, Dune HD
 
 ## Can I watch live TV or record it and play it back on my HTPC?
 
