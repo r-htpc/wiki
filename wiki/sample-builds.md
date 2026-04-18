@@ -169,7 +169,7 @@ Intel Core 7th gen i3+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDM
 ### Specialized: Dolby Vision / HDR10+
 
 - *Local Content:* Ugoos AM6B Plus/Dune HD Box R Plus + CoreElec NG (8K: Ugoos AM8 Pro)
-- *Local Content+Streaming:* Ugoos AM6B Plus (local) + Apple TV 4K (streaming). If you must have only one box, [Homatics Box R 4K Plus](https://www.homatics.com/products/box-r-4k-plus) or Nvidia Shield Pro (no P7 FEL/HDR10+/YT HDR)
+- *Local Content+Streaming:* Ugoos AM6B Plus (local) + Apple TV 4K (streaming). If you must have only one box, [Dune-HD Box R 4K Plus](https://www.dune-hd.com/products/homatics-box-r-4k-plus) or Nvidia Shield Pro (no P7 FEL/HDR10+/YT HDR)
 - **No passthrough on a traditional/DiY HTPC**  
 
 <!-- Sub-Section -->
@@ -969,5 +969,5 @@ TOTAL		|											|$801			|	|
 
 ---
  
-*This page was last updated on 2026-04-03*
+*This page was last updated on 2026-04-18*
 
