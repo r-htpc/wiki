@@ -455,8 +455,9 @@ RF and Bluetooth (BT) are the most used connection technologies. Use either with
 
 KEYBOARD						|	PRICE	|	SIZE	|	INT		|	BACKLIT	|	POINT	|	BATTERY	|	NOTES
 :--|:--|:--|:--|:--|:--|:--|:--|
-**[Kinesis Form](https://kinesis-ergo.com/keyboards/form/)**				|	[$200](https://kinesis-ergo.com/shop/form/)	|	Full	|	BT/USB	|	Yes		|	Pad		|	Int/USBC		|	16", Split, KS-33 Sw, Prog. Keys, Multi-device				
-[Magic Board](https://www.etsy.com/shop/HandofSeluhmet?ref=shop-header-name&listing_id=1188765679&from_page=listing&section_id=35460823)				|	[$30](https://www.etsy.com/shop/HandofSeluhmet?ref=shop-header-name&listing_id=1188765679&from_page=listing&section_id=35460823)+[$95](https://www.google.com/search?q=apple+a1535)+KB	|	Full	|	BT	|	Yes		|	Pad		|	Int		|	18", KB: MX Keys Mini/Magic Keyboard/Satechi Slim X1. ALT: [Magic Tray](https://www.etsy.com/shop/HandofSeluhmet?ref=shop-header-name&listing_id=1188765679&from_page=listing&section_id=35514339)				
+[Magic Board](https://www.etsy.com/shop/HandofSeluhmet?ref=shop-header-name&listing_id=1188765679&from_page=listing&section_id=35460823)				|	[$30](https://www.etsy.com/shop/HandofSeluhmet?ref=shop-header-name&listing_id=1188765679&from_page=listing&section_id=35460823)+[$95](https://www.google.com/search?q=apple+a1535)+KB	|	Full	|	BT	|	Yes		|	Pad		|	Int		|	18", KB: MX Keys Mini/Magic Keyboard/Satechi Slim X1. ALT: [Magic Tray](https://www.etsy.com/shop/HandofSeluhmet?ref=shop-header-name&listing_id=1188765679&from_page=listing&section_id=35514339)	
+[Clevetura CLVX 1](https://clevetura.com/product/clvx1/) | [$249](https://clevetura.com/product/clvx1/) | Full | BT | Yes | Prop | Int/USBC | 17.2". Keybrd touch, Scis Mech Switch, Primary Media/Mute keys, Custom Fn keys
+**[Kinesis Form](https://kinesis-ergo.com/keyboards/form/)**				|	[$200](https://kinesis-ergo.com/shop/form/)	|	Full	|	BT/USB	|	Yes		|	Pad		|	Int/USBC		|	16", Split, KS-33 Mech Switch, Prog. Keys, Multi-device		
 [Logitech K830](https://support.logi.com/hc/en-us/articles/360024153134--Getting-Started-Illuminated-Living-Room-Keyboard-K830) |	[Disc (1) (Ebay)](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=logitech+k830&_sacat=0)	|	Full	|	BT/RF	|	Yes		|	Pad		|	Int/mUSB		|	14.4"
 [Logitech K400](https://m.media-amazon.com/images/I/A1-V3Jgn7ZL.pdf)				|	[$30](https://www.amazon.com/Logitech-Wireless-Keyboard-Multi-Touch-Touchpad/dp/B005DKZTMG)		|	Full	|	RF		|	No		|	Pad		|	AA		|	14". Primary Volume keys. Simple, popular
 **[Logitech K400 Plus](https://www.logitech.com/en-us/products/keyboards/k400-plus-touchpad-keyboard.html)**		|	[$25](https://www.amazon.com/Logitech-Wireless-Keyboard-Touchpad-PC-connected/dp/B014EUQOGK)		|	Full	|	RF		|	No		|	Pad		|	AA		|	14", Primary Volume/Media keys, dual Fn keys. Simple, popular.
@@ -471,6 +472,7 @@ KEYBOARD						|	PRICE	|	SIZE	|	INT		|	BACKLIT	|	POINT	|	BATTERY	|	NOTES
 [Lenovo TrackPoint II](https://www.lenovo.com/us/en/p/accessories-and-software/keyboards-and-mice/keyboards/4y40x49493)		|	[$65](https://www.lenovo.com/us/en/p/accessories-and-software/keyboards-and-mice/keyboards/4y40x49493)	|	Compact	|	RF/BT	|	No		|	Nub		|	Int/USBC		|	12". Primary Volume keys, Custom Fn key
 [Logitech MX Keys Mini](https://www.logitech.com/en-us/products/keyboards/mx-keys-mini.920-010388.html) | [$85](https://www.amazon.com/Logitech-Minimalist-Illuminated-Bluetooth-Compatible/dp/B098JPSVKY) | Compact | BT | Yes | None | Int/USBC | 11.6". Prox. light. Primary Volume/Pause keys, Custom Fn keys
 [Brydge 12.3 Pro](https://www.amazon.com/Brydge-Wireless-Precision-Compatible-Microsoft/dp/B08CWTKZQV) | [$20](https://www.amazon.com/Brydge-Wireless-Precision-Compatible-Microsoft/dp/B08CWTKZQV) | Compact | BT | Yes | Pad | Int | 11.5". Primary Volume/Pause keys
+[Clevetura CLVX S](https://clevetura.com/product/clvx-s/) | [$200](https://clevetura.com/product/clvx-s/) | Compact | BT | Yes | Prop | Int/USBC | 11.4". Keybrd touch, Scis Mech Switch, Primary Media/Mute keys, Custom Fn keys
 Rii [K12+](https://www.amazon.com/Rii-K12-Portable-Stainless-Rechargeable/dp/B011KPIZ9G)					|	[$30](https://www.amazon.com/Rii-K12-Portable-Stainless-Rechargeable/dp/B011KPIZ9G)		|	Compact	|	RF		|	No		|	Pad		|	Int/mUSB		|	10". Primary Volume/Media keys
 [Macally BTTVKEY](https://www.amazon.com/Macally-BTTVKEY/dp/B08S3S6ZDV)				|	[$30](https://www.amazon.com/Macally-BTTVKEY/dp/B08S3S6ZDV)		|	Compact	|	BT		|	No		|	Pad		|	AAA		|	9.7". Primary Volume/Media keys 
 [Rii K06](http://www.riitek.com/product/257.html)				|	[$30](https://www.amazon.com/Rii-Bluetooth-Keyboard-Lightweight-Compatible/dp/B0BML42L6X)		|	Mini	|	RF/BT/IR		|	Yes		|	Pad		|	Int/USBC		|	6.1", IR Learn. Primary Volume/Media keys
@@ -545,5 +547,5 @@ MX3 Pro			|	$20	|	RF		|	Yes	|	YES  | AAA	|	Remote, Mini keyboard, and Air Mouse
 
 ---
 
-*This page was last updated on 2026-03-30*
+*This page was last updated on 2026-04-20*
 
