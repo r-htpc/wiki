@@ -511,9 +511,15 @@ If you don't have ethernet access, you can either use a wifi-capable tuner, like
 
 For Antennas, stick to well-known brands like Channel Master, Antennas Direct, Winegard and Televés. For reception signal maps check [here](https://www.fcc.gov/media/engineering/dtvmaps), [here](https://www.antennasdirect.com/transmitter-locator.html) and [here](https://rabbitears.info/searchmap.php)  
 
-If you don't want to use Plex to interface with your tuner, but want similar simplicity, you can install the [Channels](https://getchannels.com/) DVR server somewhere ($$) (they support a range of PC-like hardware), point it to a networked [HDHomerun](https://www.silicondust.com/) (and ONLY HDHomerun) tuner with an antenna or your provider's [TVEverywhere](https://getchannels.com/tv-everywhere/) feed and then access it with the Channels client app on a media device, Kodi with the [Channels add-on](https://kodi.tv/addons/omega/plugin.video.channelsdvr/) or the [Feral HTPC](https://github.com/nuken/Feral-HTPC) windows client.  
+If you don't want to use Plex to interface with your tuner, but want similar simplicity, you can:
+ - Use Channels. install the [Channels](https://getchannels.com/) DVR server somewhere ($$) (they support a range of PC-like hardware), point it to a networked [HDHomerun](https://www.silicondust.com/) (and ONLY HDHomerun) tuner with an antenna or your provider's [TVEverywhere](https://getchannels.com/tv-everywhere/) feed and then access it with the Channels client app on a media device, Kodi with the [Channels add-on](https://kodi.tv/addons/omega/plugin.video.channelsdvr/) or the [Feral HTPC](https://github.com/nuken/Feral-HTPC) windows client.
+ - Use HDHomerun's [DVR service](https://shop.silicondust.com/shop/product-category/software/) ($$) with their tuner/server and the client app on a media device/windows client.
 
-A more involved, but free, setup would be connecting a [tuner](https://linuxtv.org/wiki/index.php/ATSC_USB_devices) to a Raspberry PI 4 and using the TVHeadend PVR backend ([included in the LibreElec OS](https://techlory.com/blog/2025/01/22/use-tvheadend-raspberry-pi-and-kodi-to-stream-tv-in-your-home/)) with tvhProxy to get the tuner into Plex. Again, if you don't want to use Plex, skip tvhProxy and simply use Kodi with the TVHeadend client add-on on your frontends to access the TVHeadend backend. If you need to do video transcoding for your clients, replace the Pi with a used intel 7th gen+ PC off ebay. You can also import M3U playlists into a [Channels](https://getchannels.com/) server. 
+For more involved, but freer setups, you can:
+ - Connect a [tuner](https://linuxtv.org/wiki/index.php/ATSC_USB_devices) to a Raspberry PI 4 (or Intel 7th+ gen PC for transcoding) and
+   - Use the TVHeadend PVR backend ([included in the LibreElec OS](https://techlory.com/blog/2025/01/22/use-tvheadend-raspberry-pi-and-kodi-to-stream-tv-in-your-home/)) with tvhProxy to get the tuner into Plex. Again, if you don't want to use Plex, skip tvhProxy and simply use Kodi with the TVHeadend client add-on on your frontends to access the TVHeadend backend. You can also import M3U playlists into a [Channels](https://getchannels.com/) server. 
+   - Use free DVR software like [NextPVR](https://www.nextpvr.com/) or [MediaPortal](https://www.team-mediaportal.com/mediaportal-features/television) and their respective clients or Kodi add-on
+   - You should subscribe to a EPG service, like [SchedulesDirect](https://schedulesdirect.org/) ($$)
 
 You can use MCEBuddy to remove commercials and convert your recorded programming to other file formats.  
 
@@ -898,5 +904,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2026-04-18*
+*This page was last updated on 2026-04-20*
 
