@@ -108,6 +108,7 @@ $150-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB+ RAM, 256GB ssd/1TB hdd
 **Anything using a dGPU will have noticeably better performance, so is recommended, but be larger and draw more power**
 
 - Game Streaming:
+  - <= 1080p@60Hz: [NUC 8i3](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=nuc+%288i3%2C8i5%2C8109u%2C8130u%2C8th%2C8259u%29&_sacat=179&LH_TitleDesc=1&_odkw=nuc+%288i3%2C8i5%2C8109u%2C8130u%2C8th%29&_osacat=179&_sop=15&LH_PrefLoc=2) / [HP/Dell/Lenovo uSFF](https://www.ebay.com/sch/i.html?_nkw=%28hp%2Cdell%2Clenovo%29+%28i3-8100T%2Ci5-8400T%2Ci5-8500T%29&_sacat=179&_from=R40&_trksid=m570.l1313&_blrs=recall_filtering&_odkw=%28hp%2Cdell%2Clenovo%29+%28i3-8100%2Ci5-8400%2Ci5-8500%29&_osacat=179&LH_BIN=1&_sop=15&_udhi=150), [ODroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/)
   - <= 4K@60Hz: GMKTec G3 Plus (N150)
   - 4K@120Hz: See "Specialized: 4K@120Hz" section
 - Emulation/Light Gaming:
