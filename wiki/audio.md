@@ -919,6 +919,26 @@ If you want to re-encode audio down to Dolby Digital for your games:
 
 <!-- Sub-Section -->
 
+### What are the available options for processing or creating spatial audio metadata from content?
+
+Creating "fake" spatial audio:  
+
+- Decode content from any number of media players configured with DirectSound or WASAPI shared-mode output. Follow decode setup instructions above.
+  - Combined with the Dolby Access app and Dolby Atmos for Home Theater (HDMI) or Dolby Atmos for Headphones (headphones) ($$) 
+  - Combined with the [DTS Sound Unbound](https://consumer.dts.com/dts-sound-unbound/) app and DTS:X Home Theater or headphones supporting DTS Headphone:X ($$) 
+  - Combined with the [HeSuVi](https://sourceforge.net/p/hesuvi/wiki/Help/) app 
+
+Processing content containing spatial audio medatata:  
+
+- Bitstream Dolby Digital+/TrueHD Atmos or DTS:X content from any number of media players to your sound system which can decode/render it. e.g. MPC-BE -> AVR. Follow bitstreaming setup instructions above. 
+- Using an official app, that supports Atmos and Microsoft's spatial sound API 
+  - Netflix app/Edge browser with Dolby Digital+ Atmos, combined with the Dolby Access app and Dolby Atmos for Home Theater (HDMI) or Dolby Atmos for Headphones (headphones) ($$) 
+  - Windows 11 Media Player / Movies & TV with Dolby Digital+ Atmos, combined with the Dolby Access app and Dolby Atmos for Home Theater (HDMI) or Dolby Atmos for Headphones (headphones) ($$) 
+  - Games supporting Dolby MAT Atmos, combined with the Dolby Access app and Dolby Atmos for Home Theater (HDMI) or Dolby Atmos for Headphones (headphones) ($$) 
+  - [Games supporting DTS](https://consumer.dts.com/dts-sound-unbound/) combined with the [DTS Sound Unbound](https://consumer.dts.com/dts-sound-unbound/) app and DTS:X Home Theater or headphones supporting DTS Headphone:X ($$) 
+
+<!-- Sub-Section -->
+
 ### How can I send 4k video to my TV and HD audio to my old AVR without cloning/extending my display?
 
 1. <= 4K@60Hz: You can use a good HDMI 2.0 splitter to send 4k/60hz video to a display and HD audio (TrueHD/DTS:X/etc..) to an old AVR that only supports HDMI 1.3/1.4.  
@@ -1187,5 +1207,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2026-03-19*
+ *This page was last updated on 2026-04-24*
 
