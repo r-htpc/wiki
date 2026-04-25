@@ -428,7 +428,7 @@ COMMON REQUIREMENTS (Linux):
 BROWSERS/STREAMING SERVICES:  
 1. Make sure your service supports a bitstreamable codec (Dolby/DD). See: [Wiki:FAQ:What resolution and audio is supported on streaming service X?](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x)
 2. Install the app for your service from the Microsoft store or use the Microsoft Edge browser.
-3. If Netflix DD 5.1+, install and configure Dolby Access as per [Netflix's help page](https://help.netflix.com/en/node/14163) and reboot.
+3. If Netflix 5.1+, Apple Music or Tidal, install and configure Dolby Access as per [Netflix's help page](https://help.netflix.com/en/node/14163) and reboot.
 4. DD 5.1 on streaming services does not work natively over Optical directly from an HTPC. If you must use Optical, either encode system-wide audio to Dolby Digital per the alternatives instructions of [this section of the wiki](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system) or run HDMI to your display and then Optical to your sound system.
 5. Test your browser's audio capabilities with [Dolby's capabilities test website](https://ott.dolby.com/codec_test/index.html)
 
@@ -932,10 +932,10 @@ Processing content containing spatial audio medatata:
 
 - Bitstream Dolby Digital+/TrueHD Atmos or DTS:X content from any number of media players to your sound system which can decode/render it. e.g. MPC-BE -> AVR. Follow bitstreaming setup instructions above. 
 - Using an official app, that supports Atmos and Microsoft's spatial sound API 
-  - Netflix app/Edge browser, Apple Music app or Tidal app with streamed Dolby Digital+ Atmos content, combined with the Dolby Access app and Dolby Atmos for Home Theater (HDMI) or Dolby Atmos for Headphones (headphones) ($$) 
+  - Netflix app/Edge browser, Apple Music app or Tidal app with streamed Dolby Digital+ Atmos content, combined with the Dolby Access app and Dolby Atmos for Home Theater (HDMI) or Dolby Atmos for Headphones (headphones) ($$). Follow bitstreaming setup instructions above. 
   - Windows 11 Media Player / Movies & TV with local Dolby Digital+ Atmos content, combined with the Dolby Access app and Dolby Atmos for Home Theater (HDMI) or Dolby Atmos for Headphones (headphones) ($$) 
-  - [Games supporting Dolby MAT Atmos](https://www.pcgamingwiki.com/wiki/List_of_games_that_support_Dolby_Atmos), combined with the Dolby Access app and Dolby Atmos for Home Theater (HDMI) or Dolby Atmos for Headphones (headphones) ($$) 
-  - [Games supporting DTS](https://consumer.dts.com/dts-sound-unbound/) combined with the [DTS Sound Unbound](https://consumer.dts.com/dts-sound-unbound/) app and DTS:X Home Theater or headphones supporting DTS Headphone:X ($$)
+  - [Games supporting Dolby MAT Atmos](https://www.pcgamingwiki.com/wiki/List_of_games_that_support_Dolby_Atmos), combined with the Dolby Access app and Dolby Atmos for Home Theater (HDMI) or Dolby Atmos for Headphones (headphones) ($$). Follow gaming setup instructions above. 
+  - [Games supporting DTS](https://consumer.dts.com/dts-sound-unbound/) combined with the [DTS Sound Unbound](https://consumer.dts.com/dts-sound-unbound/) app and DTS:X Home Theater or headphones supporting DTS Headphone:X ($$) 
   - NOTE: For Windows 11 and Dolby Access, install the [AC-3/Dolby Digital codec](https://www.majorgeeks.com/files/details/dolby_ac_3ac_4_installer.html) first.
 
 <!-- Sub-Section -->
