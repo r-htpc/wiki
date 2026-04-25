@@ -932,10 +932,11 @@ Processing content containing spatial audio medatata:
 
 - Bitstream Dolby Digital+/TrueHD Atmos or DTS:X content from any number of media players to your sound system which can decode/render it. e.g. MPC-BE -> AVR. Follow bitstreaming setup instructions above. 
 - Using an official app, that supports Atmos and Microsoft's spatial sound API 
-  - Netflix app/Edge browser with Dolby Digital+ Atmos, combined with the Dolby Access app and Dolby Atmos for Home Theater (HDMI) or Dolby Atmos for Headphones (headphones) ($$) 
-  - Windows 11 Media Player / Movies & TV with Dolby Digital+ Atmos, combined with the Dolby Access app and Dolby Atmos for Home Theater (HDMI) or Dolby Atmos for Headphones (headphones) ($$) 
-  - Games supporting Dolby MAT Atmos, combined with the Dolby Access app and Dolby Atmos for Home Theater (HDMI) or Dolby Atmos for Headphones (headphones) ($$) 
-  - [Games supporting DTS](https://consumer.dts.com/dts-sound-unbound/) combined with the [DTS Sound Unbound](https://consumer.dts.com/dts-sound-unbound/) app and DTS:X Home Theater or headphones supporting DTS Headphone:X ($$) 
+  - Netflix app/Edge browser, Apple Music app or Tidal app with streamed Dolby Digital+ Atmos content, combined with the Dolby Access app and Dolby Atmos for Home Theater (HDMI) or Dolby Atmos for Headphones (headphones) ($$) 
+  - Windows 11 Media Player / Movies & TV with local Dolby Digital+ Atmos content, combined with the Dolby Access app and Dolby Atmos for Home Theater (HDMI) or Dolby Atmos for Headphones (headphones) ($$) 
+  - [Games supporting Dolby MAT Atmos](https://www.pcgamingwiki.com/wiki/List_of_games_that_support_Dolby_Atmos), combined with the Dolby Access app and Dolby Atmos for Home Theater (HDMI) or Dolby Atmos for Headphones (headphones) ($$) 
+  - [Games supporting DTS](https://consumer.dts.com/dts-sound-unbound/) combined with the [DTS Sound Unbound](https://consumer.dts.com/dts-sound-unbound/) app and DTS:X Home Theater or headphones supporting DTS Headphone:X ($$)
+  - NOTE: For Windows 11 and Dolby Access, install the [AC-3/Dolby Digital codec](https://www.majorgeeks.com/files/details/dolby_ac_3ac_4_installer.html) first.
 
 <!-- Sub-Section -->
 
