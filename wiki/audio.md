@@ -455,10 +455,12 @@ These steps assume you have the latest version of [MPC-BE](https://sourceforge.n
 3. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below. Confirm the codec you're playing is the same as is shown on your sound system. 
 
 POTPLAYER:  
-1. F5 key->Audio
-   - Audio Renderer: Built-in WASAPI Audio Renderer -> "..." button
+1. Preferences/F5 key->Audio
+   - Audio Renderer: Select "Built-in WASAPI Audio Renderer" from drop-down
+     - Click "..." button
      - Use exclusive mode: checked, Device: \<audio device you will be using for bitstreaming\> 
-   - Set Built-In Audio Decoder->Pass Through->Set "Default Pass-through Muxer" for the codecs your sound system supports decoding
+   - Click "Set Built-In Audio Decoder" button
+     - Pass Through (S/PDIF/HDMI)->Select "Default Pass-through Muxer" from drop-down for each Codec your sound system supports decoding
 2. Restart the app and play test channel-callout content from the [sample audio](/wiki/audio#where-do-i-find-sample-audio-files-to-test) section below.
 3. If not playing correctly, check the Playback/System Information screen (Cntrl-F1) that the Audio Info decoder is using "Built-In WASAPI.." and not something else. Confirm the codec you're playing is the same as is shown on your sound system.  
 
