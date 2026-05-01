@@ -662,7 +662,7 @@ The following are the current capabilities of the major streaming services as we
 
 ## How can i rip my DVD/Blu-ray discs and what are some good quality settings to use?
 
-For DVDs and regular HD blu-ray any optical drive that can read the discs will do, internal or external, and you can spend <= $75 on one. For UHD discs, you should have a UHD or UHD-Friendly compatible drive with locked-in firmware. Check our [optical drives section](/wiki/components#optical-drives).  
+For DVDs and regular HD blu-ray any optical drive that can read the discs will do, internal or external, and you can spend <= $75 on one. For UHD/4k discs, you should have a UHD drive with proper firmware. Check our [optical drives section](/wiki/components#optical-drives).  
 
 You will then use software to rip the content off the disc. It's recommended to do this process in two stages, especially if you need content re-encoded for compatibility or space-saving..  
 
@@ -904,5 +904,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2026-04-20*
+*This page was last updated on 2026-05-01*
 
