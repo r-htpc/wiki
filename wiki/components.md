@@ -285,7 +285,7 @@ HDDs: Ultrastar, Seagate Exos, WD Red
 
   - UHD/4k blu-ray Official **disc** playback is not recommended due to hardware restrictions. See [here](https://www.cyberlink.com/support/faq-content.do?id=19144) and [here](/wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility) for more information.  
 
-    - If you **can't or dont't want to** meet the restrictions, then either (in order of preference):  
+    - If you **can't or don't want to** meet the restrictions, then either:  
 
       1. Buy a pre/own-flashed UHD drive per above, and [rip the discs to files with MakeMKV](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use) or follow our [Playback](/wiki/video#how-can-i-play-my-dvdblu-ray-discs-on-my-htpc) section.
 
