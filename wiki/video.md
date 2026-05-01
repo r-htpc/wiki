@@ -546,7 +546,7 @@ Ideally, you shouldn't try to play physical discs; especially for UHD/4K, as the
 You should rip your discs to digital files per [Wiki:How can i rip my DVD/Blu-ray discs and what are some good quality settings to use?](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use). If you must have Dolby Vision/HDR10+, send them over the network via network share or [media server software](/wiki/video#video-software) to a [capable client device](/wiki/sample-builds#specialized-dolby-vision--hdr10). Read [this](/wiki/faq#can-i-streamhow-do-i-serve-my-content-from-another-computer-or-a-networked-storage-device) for details on streaming content over your local network.  
 
 If you must have disc menus, which is presumably the reason you want disc playback, create an unencrypted ISO of it.  
- 1. If UHD Blu-Ray, make sure you have a [UHD Friendly drive](/wiki/components#optical-drives)
+ 1. If UHD Blu-Ray, make sure you have a [UHD drive](/wiki/components#optical-drives) with proper firmware
  2. Install and run [MakeMKV](https://www.makemkv.com/)
  3. Insert your disc
  4. Create the backup
@@ -868,5 +868,5 @@ Dolby Vision Tests - [P5](https://drive.google.com/uc?export=download&id=1u5T0NM
 
 ---
 
-*This page was last updated on 2026-03-04*
+*This page was last updated on 2026-05-01*
 
