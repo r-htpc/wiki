@@ -268,30 +268,30 @@ HDDs: Ultrastar, Seagate Exos, WD Red
 
 ### Optical Drives
 
-See our [Playback](/wiki/video#how-can-i-play-my-dvdblu-ray-discs-on-my-htpc) section for how to do disc/ISO playback and our [Ripping](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use) section for advice on ripping. 
-
 *DVD/FHD Blu-Ray:*  
  - Internal: LG WH14NS40, ASUS BW-16D1HT, Pioneer BDR 212  
  - External, Slim: Archgon MD-3102S, LG WP50NB40/BP60NB10/BP50NB40  
  - Internal, Slot: Panasonic UJ-265/UJ-267 (FHD Blu-Ray), Streacom ST-OB2 (FHD Blu-Ray), Silverstone SOB03 (FHD Blu-Ray), HL CA30N/40N (FHD Blu-Ray), LG GS40N (DVD), HL GA30N/31N (DVD), Silverstone SOD04 (DVD)  
 
 *UHD/4k Blu-Ray:*  
-  - For Official or Xreveal playback/ripping
-    - Internal: LG WH16NS60  
-    - Internal, Slim: LG BU40N  
-    - External, Slim: Archgon MD-8107S, Buffalo BRUHD-PU3, LG BP60NB10, Internal drive with [SATA->USB adapter](https://www.amazon.com/dp/B0785PPR3M)  
-  - See [MakeMKV forum post for other drives, firmware, and flashing your drive](https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634)  
+  - For Official/Xreveal playback or MakeMKV ripping
+    - Buy a drive that you will flash 
+      - Internal: LG WH16NS60  
+      - Internal, Slim: LG BU40N  
+      - External, Slim: Archgon MD-8107S, Buffalo BRUHD-PU3, LG BP60NB10, Internal drive with [SATA->USB adapter](https://www.amazon.com/dp/B0785PPR3M)
+      - [Other flashable drives](https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634)
+      - Flash your drive with SDFTool Flasher and LibreDrive firmware per the [MakeMKV forum post](https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634)  
+    - Buy a pre-flashed drive from [here](https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634)
 
-UHD/4k blu-ray official **disc** playback is not recommended due to hardware restrictions. See [here](https://www.cyberlink.com/support/faq-content.do?id=19144) and [here](/wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility) for more information.  
+  - UHD/4k blu-ray Official **disc** playback is not recommended due to hardware restrictions. See [here](https://www.cyberlink.com/support/faq-content.do?id=19144) and [here](/wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility) for more information.  
 
-- If you **can't or dont't want to** meet the restrictions, then either (in order of preference):  
+    - If you **can't or dont't want to** meet the restrictions, then either (in order of preference):  
 
-  1. Buy a pre-flashed UHD drive from the forum link above, and [Rip the discs to digital with MakeMKV](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use)
+      1. Buy a pre/own-flashed UHD drive per above, and [rip the discs to files with MakeMKV](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use) or follow our [Playback](/wiki/video#how-can-i-play-my-dvdblu-ray-discs-on-my-htpc) section.
 
-  2. Buy a UHD drive, flash it with firmware as per forum link above, and follow our [Playback](/wiki/video#how-can-i-play-my-dvdblu-ray-discs-on-my-htpc) section.
+      2. Buy a [standalone player](https://www.google.com/search?q=panasonic+ub420+ub820&oq=panasonic+ub420+ub820) for your HT system.  
 
-  3. Buy a [standalone player](https://www.google.com/search?q=panasonic+ub420+ub820&oq=panasonic+ub420+ub820) for your HT system.  
-
+See our [Playback](/wiki/video#how-can-i-play-my-dvdblu-ray-discs-on-my-htpc) section for how to do disc/ISO playback and our [Ripping](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use) section for advice on ripping. 
 
 <!-- Sub-Section -->
 
