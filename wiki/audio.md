@@ -597,7 +597,7 @@ Else,
  - [Encode your PCM 5.1 audio into Dolby Digital bitstreamed audio](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital) 
  - Upgrade your display/[sound system components](/wiki/audio#what-kind-of-sound-system-should-i-get) that have the [limited interface(s)](/wiki/audio#audio-transportsinterfaces).
 
-If you're confident [your display](https://www.rtings.com/tv/tests/inputs/5-1-surround-audio-passthrough) and sound system interfaces support PCM above 2 channels or support the codecs you want to bitstream, and you have configured them and your devices as such, this is possibly solved by exporting the forementioned EDID data coming from the Display and then editing the Audio Block portion of it to add the audio formats supported by your sound system (**Way #2/#3**).  
+If you're confident [your display](https://www.rtings.com/tv/tests/inputs/5-1-surround-audio-passthrough) and sound system interfaces support PCM above 2 channels or support the codecs you want to bitstream, and you have configured them and your devices as such, this can possibly be solved by exporting the EDID data coming from the Display and then editing the Audio Block portion of it to add the audio formats supported by your sound system (**Way #2/#3** below).  
 
 **If you're connecting your HTPC directly to a Sound System first**
 
