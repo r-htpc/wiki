@@ -866,11 +866,11 @@ Finish the basic setup by following the [Decoding / Channelization software setu
 *ALTERNATIVES*  
 If you can't support the above hardware methods, but have plain **ARC** support or even only **Optical**, you can use that, but **you will only get PCM 2.0/Stereo sound by default**. The only way around this to still get 5.1 sound is to encode the game audio with a tech called **Dolby Digital Live**. To do this, you can either:  
 
- 1. Buy an internal/external sound card with Dolby Digital Live encoding support (e.g. Sound Blaster [SB1500/Z SE](https://www.ebay.com/sch/44980/i.html?_nkw=%28Z+SE%2CSB1500%29&_from=R40&LH_BIN=1&_sop=15)/X4/X3/AE-5+) and connect it via **Optical** to your Sound System. This is the least complicated, without messy 3rd-party software driver workarounds.  
+ 1. Buy an internal/external sound card for your HTPC with Dolby Digital Live encoding support (e.g. Sound Blaster [SB1500/Z SE](https://www.ebay.com/sch/44980/i.html?_nkw=%28Z+SE%2CSB1500%29&_from=R40&LH_BIN=1&_sop=15)/X4/X3/AE-5+) and connect it via **Optical** to your Sound System. This is the least complicated, without messy 3rd-party software driver workarounds.  
 
- 2. For **HDMI ARC**: Install the APO driver to encode everything into Dolby Digital for over HDMI ARC from your PC. Read the *APO DRIVER SETUP* sub-section below for instructions.  
+ 2. For **HDMI ARC/OPTICAL FROM TV**: Install the APO driver to encode everything from your PC into Dolby Digital. Read the *APO DRIVER SETUP* sub-section below for instructions.  
 
- 3. For **OPTICAL/SPDIF**: For Realtek motherboard-based Optical/SPDIF check if your motherboard's audio driver includes the Dolby Digital Live/DTS Connect feature. If not, on Windows, use the [patched drivers](https://github.com/Loliconera/Unlocked-Dolby-Digital-Live-DTS-Interactive-for-Realtek-HD-Audio-Drivers-for-Windows-10-and-11) to unlock the feature. If it doesn't work or you are using non-Realtek or non-Motherboard based optical, use the *APO DRIVER* way below. On Linux, install the *alsa-plugins-a52* plugin and reboot. 
+ 3. For **OPTICAL/SPDIF FROM HTPC**: For Realtek motherboard-based Optical/SPDIF check if your motherboard's audio driver includes the Dolby Digital Live/DTS Connect feature. If not, on Windows, use the [patched drivers](https://github.com/Loliconera/Unlocked-Dolby-Digital-Live-DTS-Interactive-for-Realtek-HD-Audio-Drivers-for-Windows-10-and-11) to unlock the feature. If it doesn't work or you are using non-Realtek or non-Motherboard based optical, use the *APO DRIVER* way below. On Linux, install the *alsa-plugins-a52* plugin and reboot. 
 
  4. Use an [analog surround sound speaker system](/wiki/audio#what-kind-of-sound-system-should-i-get) connected directly to the PC, if your motherboard supports it or a [USB analog sound card](https://www.amazon.com/Cubilux-Surround-48KHz-384KHz-Headphones-PC-Supports/dp/B0CKPL5HXZ).  
 
