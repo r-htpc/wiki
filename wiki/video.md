@@ -597,11 +597,11 @@ If you set your GPU to output the **same** resolution as your display, your HTPC
    - AMD: [Radeon Image Sharpening/RIS](https://www.amd.com/en/resources/support-articles/faqs/DH3-034.html)
    - Intel: Stretched/Aspect
  - Your GPU's proprietary hardware scaling method, usually configured in the GPU driver and/or in your video player's renderer, where supported (Better Quality)
-   - Nvidia: RTX Video Super Resolution/VSR, enable [Super Resolution in Nvidia control panel/app](https://nvidia.custhelp.com/app/answers/detail/a_id/5448). and in your video render (supported in PotPlayer, [MPC VR](https://github.com/Aleksoid1978/VideoRenderer/releases), VLC)
+   - Nvidia: RTX Video Super Resolution/VSR, enable [Super Resolution in Nvidia control panel/app](https://nvidia.custhelp.com/app/answers/detail/a_id/5448). and in your video renderer (supported in PotPlayer, [MPC VR](https://github.com/Aleksoid1978/VideoRenderer/releases), VLC)
    - AMD: [Radeon Super Resolution/RSR](https://www.amd.com/en/products/software/adrenalin/radeon-super-resolution.html). Video support unknown
    - Intel: [Retro Scaling](https://www.intel.com/content/www/us/en/support/articles/000057030/graphics.html). Video support unknown
  - Your player's video renderer ([MPC VR](https://github.com/Aleksoid1978/VideoRenderer/releases) or madVR) using GPU processing power (Best quality)
-   - Even the lowest algorithms (like DXVA2/Cubic) are good for use with iGPUs where proprietary methods are not supported.
+   - Even the lowest algorithms (like DXVA2/Cubic) are good for use with iGPUs where proprietary methods are not supported. More complex algorithms, like NGU, use more processing power and will require better GPUs, else will drop video frames and create higher render times.
 
 If you set your GPU to output a **different** resolution than your display's native resolution, your display will do the upscaling.  
 
