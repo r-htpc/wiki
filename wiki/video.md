@@ -36,8 +36,8 @@ AVI: An old video container supporting a single video/audio stream. No subtitle 
 DIVX: An old video container extension of AVI. Used on some old DVDs. Usually used with Xvid/Divx codec.  
 VOB: A video container for DVDs using MPEG-2 or MPEG-1.  
 TS: Also known as MPEG-TS. Used with MPEG-2 codec for tv broadcasts.  
-M2TS: An extension of MPEG-TS. Used with old HD blu-ray discs and MPEG-2.  
-BDMV/BDAV: Used in HD/UHD blu-ray discs. BDMV has menu capability, BDAV does not and is a modified MPEG-2 TS container using x264, MPEG-2 or VC-1.  
+M2TS: An extension of MPEG-TS. Used with FHD/UHD blu-ray discs and with MPEG-2.  
+BDMV/BDAV: A format used in FHD/UHD blu-ray discs with M2TS. BDMV has menu capability, BDAV does not and is a modified M2TS container using x264, MPEG-2 or VC-1.  
 
 <!-- Sub-Section -->
 
