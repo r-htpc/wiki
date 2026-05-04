@@ -359,7 +359,7 @@ To do this, you should
   - Ideal 4K HEVC test - Represents the max bitrate (120 Mbps) and frame rate (30 fps) you're likely to see from local content
   - Ideal Youtube tests - Represents the max bitrates and frame rate (60 fps) you're likely to see from Youtube content
   - Jellyfin Video Bitrate Tests - Represents the max frame rate (60 fps) you're likely to see for Cameras/0.1% movie/Broadcast/Sports content, at varying bitrates. These would be rare and niche depending on use-case.
-10. If you're dropping frames from the content, consult the [dropping frames](/wiki/video#why-is-my-video-playback-stuttering-andor-dropping-frames) question below before moving on.
+10. If you're dropping frames from the content, consult the [dropping frames](/wiki/video#why-is-my-video-playback-dropping-frames) question below before moving on.
 11. Return to the Software/OS Setup section above for additional testing.
 
 <!-- Sub-Section -->
@@ -376,7 +376,7 @@ You will first run a test for the presence of motion problems like stutter. You 
 4. Play test content and look for any observable motion problems.
    - Local: [Test Files -> Frame Rate Tests](/wiki/video#where-do-i-find-additional-sample-video-files-to-test) 
    - Youtube: [24p content](https://www.youtube.com/watch?v=oy8wNzOGVmc)/[25p content](https://www.youtube.com/watch?v=Ou3QXsTro7A)/[60p content](https://www.youtube.com/watch?v=RgGwWN9EC8g) 
-5. If you see a motion "problem", it's not judder, and likely some form of [stuttering](https://www.youtube.com/watch?v=CuEZIJDEQyo&t=1s). Some stutter is not necessarily something that needs to be solved as it can just be a time-consistent symptom of low frame rate content. If it looks like more than that, see [this section](/wiki/video#why-is-my-video-playback-stuttering-andor-dropping-frames) below before you move on; then repeat the tests.  
+5. If you see a motion "problem", it's not judder, and likely some form of [stuttering](https://www.youtube.com/watch?v=CuEZIJDEQyo&t=1s). Some stutter is not necessarily something that needs to be solved as it can just be a time-consistent symptom of low frame rate content. If it looks like more than that, see [this section](/wiki/video#why-is-my-video-playback-stuttering) below before you move on; then repeat the tests.  
 6. If you don't see a motion problem, and you plan to play content on a refresh rate that's NOT a multiple of your content frame rate (e.g 24p/25p on 60 Hz, 24p on 25Hz/50Hz), you should continue on to test for [judder](https://www.rtings.com/tv/tests/motion/24p).  
 7. Set your display (through the GPU driver) to the desired non-multiple refresh rate. e.g. 60 Hz for 24 fps content.  
 8. Test that the refresh rate is set correctly and consistently using [this page](https://www.testufo.com/refreshrate).  
@@ -622,27 +622,33 @@ If you have an Nvidia RTX 20+ series GPU you can also use RTX Super Resolution i
 
 <!-- Sub-Section -->
 
-### Why is my video playback stuttering and/or dropping frames?
+### Why is my video playback dropping frames?
+
+1. Your content is poorly encoded. Test with [known-good test files](/wiki/video#where-do-i-find-additional-sample-video-files-to-test).
+2. You haven't configured your video player to use your GPU to hardware decode video. See [application-specific setup for hw decoding](/wiki/video#application-specific-setup-for-hardware-decoding) above.
+3. If you have an Nvidia GPU, in Nvidia Control Panel -> Manage 3D Settings, Set Vertical Sync: ON, Low Latency Mode:OFF, Power Management Mode: Prefer Maximum.
+4. If you have an AMD GPU: In Radeon Settings, Display -> Radeon FreeSync: OFF, Graphics -> Enhanced Sync: OFF, Wait for Vertical Refresh: ON, either globally or create a app profile for your video player  
+5. You've configured your Windows power plan or Video driver power settings to balanced/power saving. Test with your Windows power plan set to High Performance. Test with your Video driver power management set to maximum performance.
+6. You're using a dGPU in Windows and have Hardware-Accelerated GPU Scheduling enabled. Test with it disabled.
+7. Your GPU doesn't support hardware decoding for the video codecs you're trying to play and your CPU isn't powerful enough to software decode them. In your OS's task manager/system monitor check for high CPU usage and/or no GPU decoder usage that confirms this. Determine what video codec you're attempting to decode (using something like [MediaInfo](https://mediaarea.net/en/MediaInfo)) and then see the GPU section of the Hardware Components Guide for what codecs are supported by your GPU. Buy a better [CPU](/wiki/components#cpus) or [GPU](/wiki/components#gpusgraphics).
+8. You're running on the edge of what your CPU/GPU can do performance-wise for the video bitrates you're trying to play. The higher the video bitrate, the more stress put on your CPU/GPU. Audit GPU usage in your OS's task manager/system monitor. Set your video player's process priority/Nice to Above Normal, where possible. Play lower bitrate videos. Buy a better [CPU](/wiki/components#cpus) or [GPU](/wiki/components#gpusgraphics).
+9. You're doing too much post-proccessing with your video renderer (MadVR, MPCVR, EVR, SVP, etc..). Do less post-processing - Lower/Disable upscaling/downscaling/dithering techniques.  Use a more efficient renderer. Buy a better [GPU](/wiki/components#gpusgraphics).
+10. You're running your RAM in single-channel mode or haven't dedicated enough RAM to your iGPU. Run 2+ sticks of RAM in dual-channel mode for the best performance. If using an iGPU, dedicate as much RAM to it, in your BIOS, where possible.
+11. Your CPU/GPU is doing too much work in the background. Audit Task Manager (Windows)/System Monitor (Linux) and disable background tasks and/or processes using the CPU/GPU (updates, antivirus, disk indexing).
+12. Your video driver is out of date. Update it and/or re-install the driver clean after running [DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html).
+13. Your video player isn't good/good at playing the video codec(s) you're trying to play. Try a different one (MPC-BE, MPC-HC, Kodi, VLC, Jriver, MPV)
+
+<!-- Sub-Section -->
+
+### Why is my video playback stuttering?
 
 First, make sure what you're experiencing is actually stutter and not judder. Watch [this](https://www.youtube.com/watch?v=CuEZIJDEQyo&t=1s) video.  
 
-1. Your content is poorly encoded. Test with [known-good test files](/wiki/video#where-do-i-find-additional-sample-video-files-to-test).
-2. Your content has a frame-rate that is mis-matched from your display's refresh-rate (like 24 fps on 60 Hz). Test with [known-good test files](/wiki/video#where-do-i-find-additional-sample-video-files-to-test) of varying frame-rates and/or make sure your refresh-rate is equal to, or a whole number multiple of, the frame-rate.
-3. You're using an OLED TV, which can cause stutter due to the nature of the tech. Test with [Motion Interpolation enabled](https://www.rtings.com/tv/tests/motion/motion-interpolation-soap-opera-effect#related-settings) on it at various levels. 
-4. You haven't configured your video player to use your GPU to hardware decode video. See [application-specific setup for hw decoding](/wiki/video#application-specific-setup-for-hardware-decoding) above.
-5. If you have an Nvidia GPU, in Nvidia Control Panel -> Manage 3D Settings, Set Vertical Sync: ON, Low Latency Mode:OFF, Power Management Mode: Prefer Maximum.
-6. If you have an AMD GPU: In Radeon Settings, Display -> Radeon FreeSync: OFF, Graphics -> Enhanced Sync: OFF, Wait for Vertical Refresh: ON, either globally or create a app profile for your video player  
-7. You've configured your Windows power plan or Video driver power settings to balanced/power saving. Test with your Windows power plan set to High Performance. Test with your Video driver power management set to maximum performance.
-8. You're using a dGPU in Windows and have Hardware-Accelerated GPU Scheduling enabled. Test with it disabled.
-9. Your GPU doesn't support hardware decoding for the video codecs you're trying to play and your CPU isn't powerful enough to software decode them. In your OS's task manager/system monitor check for high CPU usage and/or no GPU decoder usage that confirms this. Determine what video codec you're attempting to decode (using something like [MediaInfo](https://mediaarea.net/en/MediaInfo)) and then see the GPU section of the Hardware Components Guide for what codecs are supported by your GPU. Buy a better [CPU](/wiki/components#cpus) or [GPU](/wiki/components#gpusgraphics).
-10. You're running on the edge of what your CPU/GPU can do performance-wise for the video bitrates you're trying to play. The higher the video bitrate, the more stress put on your CPU/GPU. Audit GPU usage in your OS's task manager/system monitor. Set your video player's process priority/Nice to Above Normal, where possible. Play lower bitrate videos. Buy a better [CPU](/wiki/components#cpus) or [GPU](/wiki/components#gpusgraphics).
-11. You're doing too much post-proccessing with your video renderer (MadVR, MPCVR, EVR, etc..). Do less post-processing - Lower/Disable upscaling/downscaling/dithering techniques.  Use a more efficient renderer. Buy a better [GPU](/wiki/components#gpusgraphics).
-12. You're running your RAM in single-channel mode or haven't dedicated enough RAM to your iGPU. Run 2+ sticks of RAM in dual-channel mode for the best performance. If using an iGPU, dedicate as much RAM to it, in your BIOS, where possible.
-13. Your CPU/GPU is doing too much work in the background. Audit Task Manager (Windows)/System Monitor (Linux) and disable background tasks and/or processes using the CPU/GPU (updates, antivirus, disk indexing).
-14. Your video driver is out of date. Update it and/or re-install the driver clean after running [DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html).
-15. You have Dynamic Refresh Rate enabled in Windows. Disable it.
-16. Your video player isn't good/good at playing the video codec(s) you're trying to play. Try a different one (MPC-BE, MPC-HC, Kodi, VLC, Jriver, MPV)
-17. Use the [SVP (Smooth Video Project)](https://www.svp-team.com/) filter to up-convert the content's fps (e.g. 23.976 fps to 60 fps) before it gets to the display; this is Motion Interpolation, and its effect is unliked by some. Alternatively, you can try madVR's frame blending feature in the rendering->smooth motion section of its settings. 
+1. Your content has a frame-rate that is mis-matched from your display's refresh-rate (like 24 fps on 60 Hz). Test with [known-good test files](/wiki/video#where-do-i-find-additional-sample-video-files-to-test) of varying frame-rates and/or make sure your refresh-rate is equal to, or a whole number multiple of, the frame-rate.
+2. You're using an OLED TV, which can cause stutter due to the nature of the tech. Test with [Motion Interpolation enabled](https://www.rtings.com/tv/tests/motion/motion-interpolation-soap-opera-effect#related-settings) on it at various levels, starting with the lowest custom levels first. 
+3. Your content has a frame-rate that is mis-matched from your display's refresh-rate (like 24 fps on 60 Hz). Test with [known-good test files](/wiki/video#where-do-i-find-additional-sample-video-files-to-test) of varying frame-rates and/or make sure your refresh-rate is equal to, or a whole number multiple of, the frame-rate.
+4. You have Dynamic Refresh Rate enabled in Windows. Disable it.
+5. Use the [SVP (Smooth Video Project)](https://www.svp-team.com/) filter to up-convert the content's fps (e.g. 23.976 fps to 60 fps) before it gets to the display; this is Motion Interpolation, and its effect is unliked by some. Alternatively, you can try madVR's frame blending feature in the rendering->smooth motion section of its settings. 
 
 <!-- Sub-Section -->
 
@@ -868,5 +874,5 @@ Dolby Vision Tests - [P5](https://drive.google.com/uc?export=download&id=1u5T0NM
 
 ---
 
-*This page was last updated on 2026-05-01*
+*This page was last updated on 2026-05-04*
 
