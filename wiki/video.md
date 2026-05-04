@@ -591,7 +591,7 @@ See our [Optical Drive](/wiki/components#optical-drives) section of the Hardware
 
 ### What are the best ways for scaling video?
 
-If you set your GPU to output the same resolution as your display, your HTPC will do the upscaling on lower-resolution content. This can be handled by:
+If you set your GPU to output the **same** resolution as your display, your HTPC will do the upscaling on lower-resolution content. This can be handled by:
  - Your GPU driver's default or proprietary scaling method (Good quality)
    - Nvidia: Aspect scaling (Default), [Integer Scaling/NIS](https://nvidia.custhelp.com/app/answers/detail/a_id/5280/~/how-to-enable-nvidia-image-scaling)
    - AMD: [Radeon Image Sharpening/RIS](https://www.amd.com/en/resources/support-articles/faqs/DH3-034.html)
@@ -603,7 +603,9 @@ If you set your GPU to output the same resolution as your display, your HTPC wil
  - Your player's video renderer ([MPC VR](https://github.com/Aleksoid1978/VideoRenderer/releases) or madVR) using GPU processing power (Best quality)
    - Even the lowest algorithms (like DXVA2/Cubic) are good for use with iGPUs where proprietary methods are not supported.
 
-If you set your GPU to output a resolution that is different than your display's native resolution, your display will do the upscaling. For instance, if you have a 4K TV and set your GPU to output 1080p, your TV will upscale the 1080p signal to 4K using its own upscaling algorithims. The quality of this upscaling will vary based on the quality of the display.  
+If you set your GPU to output a **different** resolution than your display's native resolution, your display will do the upscaling.  
+
+For instance, if you have a 4K TV and set your GPU to output 1080p, your TV will upscale the 1080p signal to 4K using its own upscaling algorithims. The quality of this upscaling will vary based on the quality of the display.  
 The best TV upscalers (e.g. Sony) will fall somewhere in between the Better and Best Quality methods above.  
 
 Video scaling algorithms are available to configure in the [MPC VR](/wiki/hdr#mpc-be--mpc-video-renderer) and [madVR](/wiki/hdr#mpc-hcmpc-be--madvr) video renderers. Our HDR setup guide has basic instructions for player/renderer combos.
