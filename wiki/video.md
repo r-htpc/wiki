@@ -317,7 +317,7 @@ To confuse things even more, sometimes Full and Limited are called by other name
  - If for 4k@120Hz/8K@60Hz, set a HDMI signal/video format of *8K Enhanced/8K mode*  
  - Read your sound systems's manual for available settings/resolutions
 4. Change your GPU driver
- - Set a Resolution, Refresh Rate, Color/Pixel Format, Color Depth, and Dynamic Range based on the below for your video interface. Check you GPU/mobo specs for what the max supported is.
+ - Set a Resolution, Refresh Rate, Color/Pixel Format, Color Depth, and Dynamic Range based on the below for your video interface. Check your GPU/mobo specs for what the max supported is.
    - HDMI 2.2 FRL: 3840x2160, 240 Hz, RGB, 10-bit, Full
    - HDMI 2.1 FRL: 3840x2160, 120 Hz, RGB, 10-bit, Full
    - HDMI 2.0/2.1 TMDS: 3840x2160, 60 Hz, RGB, 8-bit, Full
@@ -582,7 +582,7 @@ See our [Optical Drive](/wiki/components#optical-drives) section of the Hardware
 4. Your Display and/or GPU is not supporting the full HDMI version spec you're asking for. Read your manuals/specs for what is supported.
 5. You may have a bad HDMI port on your Display, GPU, or an in-between Sound System. Try a different port.
 6. You're using too many cable segments in the HDMI cable run from the HTPC to Display. You should limit the amount of segments to 2. HTPC->TV would be 1. HTPC->AVR->TV would be 2. HTPC->AVR->Wall jack->TV would be 3. If you have a wall jack behind the TV AND behind the AVR, that's 4. You can *usually* make up for using more segments with shorter/better cables or brush plates instead of wall jacks.
-7. You GPU driver may be corrupted. Run [DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) to remove it fully and then re-install the driver.
+7. Your GPU driver may be corrupted. Run [DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) to remove it fully and then re-install the driver.
 8. You have your display/screen set to go to off after X amount of time in the OS. Disable this. Your display or sound system is turning your video port off after X amount of time. If there's no setting in the device to disable this, use [Unified Remote to configure a button to turn your monitor on/off](https://www.unifiedremote.com/remotes/monitor).
 9. You're overclocking your GPU or have a bad GPU.
  
@@ -722,7 +722,7 @@ Way 2: Direct (PtP Ethernet)
 Way 3: Direct (LAN)
  - Use a HDBaseT KVM Extender which does HDMI and USB control over a LAN (point to point ethernet or via a switch)
  - Good solution if you already have a wired network with a central switch
- - If you using a LAN switch, you should consider a separate switch, hub or VLAN for this traffic, esp. on a busy or latency-sensitive network.
+ - If you're using a LAN switch, you should consider a separate switch, hub or VLAN for this traffic, esp. on a busy or latency-sensitive network.
  - *Coax Variation*: If you don't have ethernet access in the relevant rooms, but have coax, use [MOCA adapters](https://www.amazon.com/Actiontec-Bonded-Ethernet-Adapter-ECB6200K02/dp/B013J7O3X0) between wall and Extender
 
 Way 4: Remote (separate client + software)
