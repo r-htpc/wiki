@@ -413,6 +413,7 @@ BRAND/MODEL|PRICE|RESOLUTION|4k NETFLIX|HDR|WLAN/LAN|VOICE|USB|RATING|NOTES
 [Raspberry Pi 4b](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) / [5](https://www.raspberrypi.com/products/raspberry-pi-5/) ([buy](https://www.pishop.us/product/raspberry-pi-4-model-b-1gb/)/[buy](https://www.pishop.us/product/raspberry-pi-5-4gb/))|$36/$60|4k@60 (2,4)|No|10/HLG (2)|ac/1000M|No|YES (8b)|V:Good A:**Best**|HDR10/HLG, LL DA/DTSX w/LibreElec, BT 5.0
 [Odroid C4](https://www.hardkernel.com/shop/odroid-c4/) ([buy](https://www.hardkernel.com/shop/odroid-c4/))|$55|4k@60|No|10/+ (6a)|Opt/1000M|No|YES (8b)|V:Good A: **Best**|S905X3/4GB RAM. PT:**LL DA/DTSX** w/CoreElec
 [Odroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ([buy](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/))|$66|4k@60|No|10/+ (6a)|Opt/1000M|No|YES (8b)|V:Good A:**Best**|S922x/2GB RAM/8 GB SD. PT:**LL DA/DTSX** w/CoreElec
+[Vero V](https://osmc.tv/vero/) ([buy](https://osmc.tv/store/))|$150|4k@60|No|10/+/DV|ac/1000M|No|YES (**8b**)|V:Better A:**Best**|OSMC, AV1, **DV-5/7F/8**, PT:**LL DA/DTSX**, 4GB/32GB, NTFS
 [Dune HD Box R 4K Plus](https://www.dune-hd.com/products/homatics-box-r-4k-plus) ([buy](https://www.dune-hd.com/products/homatics-box-r-4k-plus))|$200|4k@60|YES (5a)|10/+/DV (6b)|ax/1000M|No|YES (8b)|V:**Best** A:**Best**|AV1, S905X4-K/4GB RAM/32 GB SD. **DV-5/7F/8**, PT:**LL DA/DTSX**
 [Xiaomi TV Box S](https://www.mi.com/global/product/xiaomi-tv-box-s-3rd-gen/) ([buy](https://www.amazon.com/Xiaomi-TV-Box-3rd-Gen/dp/B0F3JWFL56))|$75|4k@60|YES|10/+/DV|ax/Opt (9c)|YES|YES (8c)|V:Better A:**Best**|3rd gen, AV1, DV-5, PT:**LL DA/DTSX**, S905X5M/2GB/32GB, BT 5.2
 **[Apple TV 4k (2022)](https://www.apple.com/apple-tv-4k/)** ([buy](https://www.apple.com/shop/buy-tv/apple-tv-4k))|**$129/$149**|4k@60|YES|10/+/DV|ax/1000M (7)|YES|No|V:Better A:Better|3rd gen, A15, 3GB, DV-5/8, DC:DTHD/DTSHD->PCM, PT:LS DA, BT 5.0
@@ -435,7 +436,6 @@ BRAND/MODEL|PRICE|RESOLUTION|4k NETFLIX|HDR|WLAN/LAN|VOICE|USB|RATING|NOTES
 **[Roku Streaming 4K](https://www.roku.com/products/roku-streaming-stick-4k)** ([buy](https://www.amazon.com/Roku-Streaming-Device-Vision-Controls/dp/B09BKCDXZC))|**$50**|4k@60|YES|10/+/DV|ac/No|YES|No|V:Better A:Good|1GB, DC:DD/PT:LS DTS/DA. Model: 3820R2
 [Roku Ultra](https://www.roku.com/products/roku-ultra) ([buy](https://www.amazon.com/Roku-Ultra-2024-Streaming-Rechargeable/dp/B0DF44RTTP))|$100|4k@60|YES|10/+/DV|ax/100M|YES|YES (**8b**)|V:Better A:Good|2GB RAM, DC:DA, PT:LS DTS/DA, AV1, NTFS. Model: 4850R
 [Roku Ultra LT](https://www.roku.com/products/roku-ultra-lt) ([buy](https://www.walmart.com/ip/Roku-Ultra-LT-Streaming-Media-Player-2019/857445471))|$80|4k@60|YES|10|ac/100M|YES|No|V:Good A:Good|2GB RAM, DC:DD+, PT:LS DTS/DA. Model: 4801RW
-[Vero V](https://osmc.tv/vero/) ([buy](http://buy.getvero.tv/))|$150|4k@60|No|10/+|ac/1000M|No|YES (**8b**)|V:Good A:**Best**|OSMC, PT:**LL DA**/DTSX, 4GB/32GB, NTFS
 [Nvidia Shield TV Tube](https://www.nvidia.com/en-us/shield/shield-tv/) ([buy](https://smile.amazon.com/NVIDIA-Shield-Streaming-Player-Performance/dp/B07YP94PBJ))|$150|4k@60|YES|10/DV|ac/1000M|YES|No|V:Better A:**Best**|DV-5/7M/8, PT:LL DA/DTSX DC:DA, 2GB/8GB, NTFS, microSD
 **[Nvidia Shield TV Pro](https://www.nvidia.com/en-us/shield/shield-tv-pro/)** ([buy](https://smile.amazon.com/NVIDIA-Shield-Streaming-Player-Performance/dp/B07YP9FBMM))|**$199**|4k@60|YES|10/DV|ac/1000M|YES|YES (**8b**)|V:Better A:**Best**|**DV-5/7M/8**, PT:**LL DA/DTSX** DC:DA, 3GB/16GB, NTFS
 [Nvidia Shield TV (2017)](https://www.nvidia.com/en-us/shield/shield-tv/) ([buy](https://smile.amazon.com/NVIDIA-SHIELD-Gaming-Streaming-GeForce/dp/B075RXV2VR))|$179|4k@60|YES|10|ac/1000M|YES|YES (8b)|V:Better A:**Best**|PT:**LL DA/DTSX**, 16GB, NTFS
@@ -454,7 +454,7 @@ Mini PC: NUC i3/i5/i7 ([buy](/wiki/sample-builds#4k-hdr-players))|$300-$700|4k@6
 
 (5a) Running Android
 
-(6a) Running CoreELEC/Libreelec, (6b) Running CoreELEC-NG or Android+DV comp. model for DV 7 FEL
+(6a) Running CoreELEC/Libreelec, (6b) Running CoreELEC-NG or Android+Kodi DV compatability mode for DV 7 FEL
 
 (7) 128GB model 
 
