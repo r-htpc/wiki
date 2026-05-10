@@ -219,6 +219,9 @@ See also: [Audio Software](/wiki/audio#audio-software)
  - MadVR integration  
  - 4K/HDR support (via MadVR)  
  - Closed source  
+10. SFVIP by Salezli ([x64](https://drive.google.com/uc?export=download&id=1qBLSXpWhbz0YwjEFFP6BAT4ZnvoEDEdC) / [x86](https://drive.google.com/uc?export=download&id=1b_HjNVe4iTkNWZM2F6dxLxnpi-RXlER7) )
+ - IPTV, M3U
+ - Windows
 
 **Utilities/Other**
 
@@ -239,7 +242,7 @@ See also: [Audio Software](/wiki/audio#audio-software)
 9. Virtual CloneDrive - Mount ISO files for disc playback support
 10. [ImgBurn](https://www.imgburn.com/index.php?act=download) - Burn ISOs and files to CD/DVD/Blu-Ray discs
 11. [DVDStyler](https://www.dvdstyler.org/en/) - DVD Authoring software
-12. SVP - Used to upscale frate-rates for video smoothing  
+12. SVP - Used to upscale frate-rates for video smoothing
 13. [Xreveal](https://www.xreveal.com/) - Disc region/protection removal  
 
 <!-- Section -->
