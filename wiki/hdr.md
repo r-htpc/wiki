@@ -195,7 +195,7 @@ Advanced, more powerful dynamic tonemapping, high-end upscaling and processing t
   * MPC-HC/MPC-BE: 
     * MPC-HC: Install MPC-HC from exe ([download](https://github.com/clsid2/mpc-hc/releases))
     * MPC-BE: Install MPC-BE from installer: ([download](https://github.com/Aleksoid1978/MPC-BE/releases))
-  * MadVR: Install madVR from stable zip ([download](http://madshi.net/madVR.zip))
+  * MadVR: Install madVR from stable zip ([download](https://madshi.net/madVR.zip))
     * Extract/copy madVR directory in zip to directory: %USERPROFILE%\
     * Go into extracted directory %USERPROFILE%\madVR, right-click on 'install.bat' script and click on Run as administrator option to install.
 * *madVR settings:*  
@@ -708,7 +708,7 @@ AMD RX >= 67xx|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Dif
   * MPC-HC/MPC-BE: 
     * MPC-HC: Install MPC-HC from exe ([download](https://github.com/clsid2/mpc-hc/releases))
     * MPC-BE: Install MPC-BE from installer: ([download](https://github.com/Aleksoid1978/MPC-BE/releases))
-  * MadVR: Install madVR from stable zip ([download](http://madshi.net/madVR.zip))
+  * MadVR: Install madVR from stable zip ([download](https://madshi.net/madVR.zip))
     * Extract/copy madVR directory in zip to directory: %USERPROFILE%\
     * Go into extracted directory %USERPROFILE%\madVR, right-click on 'install.bat' script and click on Run as administrator option to install.
 * *madVR settings:*  
