@@ -650,8 +650,8 @@ If you have an Nvidia RTX 20+ series GPU you can also use RTX Super Resolution i
 First, make sure what you're experiencing is actually stutter and not judder. Watch [this](https://www.youtube.com/watch?v=CuEZIJDEQyo&t=1s) video.  
 
 1. Your content has a frame-rate that is mis-matched from your display's refresh-rate (like 24 fps on 60 Hz). Test with [known-good test files](/wiki/video#where-do-i-find-additional-sample-video-files-to-test) of varying frame-rates and/or make sure your refresh-rate is equal to, or a whole number multiple of, the frame-rate.
-2. You're using an OLED TV, which can cause stutter due to the nature of the tech. Test with [Motion Interpolation enabled](https://www.rtings.com/tv/tests/motion/motion-interpolation-soap-opera-effect#related-settings) on it at various levels, starting with the lowest custom levels first. 
-3. Your content has a frame-rate that is mis-matched from your display's refresh-rate (like 24 fps on 60 Hz). Test with [known-good test files](/wiki/video#where-do-i-find-additional-sample-video-files-to-test) of varying frame-rates and/or make sure your refresh-rate is equal to, or a whole number multiple of, the frame-rate.
+2. You're using an OLED TV, which can cause stutter due to the nature of the tech. Test with [Motion Interpolation enabled](https://www.rtings.com/tv/tests/motion/motion-interpolation-soap-opera-effect#related-settings) on it at various levels, starting with the lowest custom levels first.
+3. Your CPU/GPU is dropping frames. See question above.
 4. You have Dynamic Refresh Rate enabled in Windows. Disable it.
 5. Use the [SVP (Smooth Video Project)](https://www.svp-team.com/) filter to up-convert the content's fps (e.g. 23.976 fps to 60 fps) before it gets to the display; this is Motion Interpolation, and its effect is unliked by some. Alternatively, you can try madVR's frame blending feature in the rendering->smooth motion section of its settings. 
 
@@ -667,7 +667,7 @@ If you do have judder, then do one or more of the following..
 2. Configure your video players to switch the video card refresh rate automatically to match the content being played. See [section above](/wiki/video#application-specific-setup-for-resolutionrefresh-rate-switching)
 3. Configure your video card settings to run at a refresh rate that matches the bulk of the content you play. e.g. 23 Hz for 23.976 fps content.
 4. If you can't/won't do #2 or #3. Set your refresh rate to a number that divides equally into the fps of the bulk of the content you play. e.g. 120 Hz (for 24/30/60 fps).
-5. If #3/#4 doesn't work, configure Judder reduction in your TV settings. Some TVs do this automatically. This may be called ["Cinema Screen", "Motion Flow/CineMotion", "Judder Reduction" or "Film Mode"](https://www.rtings.com/tv/tests/motion/24p#related-settings). As a worst case, test with Motion Interpolation enabled at various levels. 
+5. If #3/#4 doesn't work, configure Judder reduction in your TV settings, starting with the lowest custom level. Some TVs do this automatically. This may be called other things like [Motion Enhancement/Real Cinema/CineMotion/Cinema Screen/Motion Clarity/Motion Flow/Film Mode](https://www.rtings.com/tv/tests/motion/24p#related-settings). As a worst case, test with Motion Interpolation enabled at various levels. 
 6. If you have an Nvidia GPU, in Nvidia Control Panel -> Manage 3D Settings, Set Vertical Sync: ON, Low Latency Mode:OFF, Power Management Mode: Prefer Max/Adaptive/Normal.
 7. If you have an AMD GPU: In Radeon Settings, Display -> Radeon FreeSync: OFF, Graphics -> Enhanced Sync: OFF, Wait for Vertical Refresh: ON, either globally or create a app profile for your video player  
 8. Use the [SVP (Smooth Video Project)](https://www.svp-team.com/) filter to up-convert the content's fps (e.g. 23.976 fps to 60 fps) before it gets to the display; this is Motion Interpolation, and its effect is unliked by some. Alternatively, you can try madVR's frame blending feature in the rendering->smooth motion section of its settings. 
@@ -879,5 +879,5 @@ Dolby Vision Tests - [P5](https://drive.google.com/uc?export=download&id=1u5T0NM
 
 ---
 
-*This page was last updated on 2026-05-04*
+*This page was last updated on 2026-05-16*
 
