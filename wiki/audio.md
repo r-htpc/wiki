@@ -124,7 +124,7 @@ See also: [Video Software](/wiki/video#video-software)
 
 1. [Foobar2000](https://www.foobar2000.org/) - Audio Player
  - Support for Windows, Mac, Mobile
- - Remote control apps: [MonkeyMote](https://www.monkeymote.com/home),  [fbremote](https://hydrogenaudio.org/index.php/topic,126264.msg1064965.html#msg1064965) (web), [foodbar2000 controller](https://foobar2000controller.blogspot.com/p/how-to-start.html)
+ - Remote control apps: [MonkeyMote](https://www.monkeymote.com/home), [DACP remote](https://en.wikipedia.org/wiki/Digital_Audio_Control_Protocol), [fbremote](https://hydrogenaudio.org/index.php/topic,126264.msg1064965.html#msg1064965) (web)
 2. [Lyrion Music Server](https://lyrion.org) - Audio Server / Player
  - Support for Windows, Linux, Mac
  - Streaming service support
