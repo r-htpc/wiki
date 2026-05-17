@@ -120,43 +120,58 @@ SCART: Old European standard for AV equipment audio and video. Analog: 2 channel
 
 See also: [Video Software](/wiki/video#video-software)  
 
-**Players/Utilities**
+**Players**
 
 1. [Foobar2000](https://www.foobar2000.org/) - Audio Player
- - Support for Windows, Mac, Mobile  
-2. [Exact Audio Copy](https://www.exactaudiocopy.de/)/[Fre:ac](https://www.freac.org/) - Audio CD Ripper/converter. Burner (EAC)
- - Support for Windows, Mac, Linux
-3. [CDBurnerXP](https://cdburnerxp.se/en/home) - Audio CD Burner
- - Support for Windows
-4. [MusicBrainz Picard](https://picard.musicbrainz.org/) - Audio ID tagger
- - Support for Windows, Mac, Linux
-5. [JRiver Media Center](https://jriver.com/) - A commercial media player/center
+ - Support for Windows, Mac, Mobile
+ - Remote control apps: [MonkeyMote](https://www.monkeymote.com/home),  [fbremote](https://hydrogenaudio.org/index.php/topic,126264.msg1064965.html#msg1064965) (web), [foodbar2000 controller](https://foobar2000controller.blogspot.com/p/how-to-start.html)
+2. [Lyrion Music Server](https://lyrion.org) - Audio Server / Player
+ - Support for Windows, Linux, Mac
+ - Streaming service support
+ - Mobile apps
+ - Remote control apps
+3. [Spotify](https://www.spotify.com/de-en/download) - Audio Player
+ - Support for [Windows](https://www.spotify.com/de-en/download/windows/), [Linux](https://www.spotify.com/de-en/download/linux/), [Mac](https://www.spotify.com/de-en/download/mac/)
+ - [Local library](https://support.spotify.com/us/article/local-files/) support
+ - Remote control app with [Spotify Connect](https://support.spotify.com/us/article/spotify-connect/)
+4. [JRiver Media Center](https://jriver.com/) - A commercial media player/center
  - Support for Windows, Mac, Linux  
- - Extensive plug-in support  
+ - Extensive plug-in support
+ - Remote control app
+5. [Plex Media Server](https://plex.tv) - Media Server / Player
+ - Support for Windows, Linux, Mac, Android
+ - Plexamp mobile app
 6. [Kodi](https://kodi.tv) - An open source media player/center.  
  - Support for Windows, Linux, Mac, Android  
- - Extensive plug-in support  
+ - Extensive plug-in support
+ - Remote control apps: Yatse, Kore  
 7. [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases)/[MPC-HC](https://github.com/clsid2/mpc-hc/releases/) - A popular media player 
  - Support for Windows  
  - Extensive feature-set
-8. [Plex](https://plex.tv) - A media player that interfaces with the Plex Media Server and plex.tv video content  
- - Support for Windows, Linux, Mac, Android  
-9. [VLC](https://www.videolan.org/vlc/) - A simple media player 
+8. [VLC](https://www.videolan.org/vlc/) - A simple media player 
  - Support for Windows, Linux, Mac, Android  
 
-**3rd Party**
+**Utilities**
 
-1. [MediaInfo](https://mediaarea.net/en/MediaInfo) - Extremely useful tool for getting various video & audio information (codecs, formats, etc..) on media files  
-2. [K-lite](https://codecguide.com/download_kl.htm) - Codec pack including various video software  
+1. [Exact Audio Copy](https://www.exactaudiocopy.de/)/[Fre:ac](https://www.freac.org/) - Audio CD Ripper/converter. Burner (EAC)
+ - Support for Windows, Mac, Linux
+2. [CDBurnerXP](https://cdburnerxp.se/en/home) - Audio CD Burner
+ - Support for Windows
+3. [MusicBrainz Picard](https://picard.musicbrainz.org/) - Audio ID tagger
+ - Support for Windows, Mac, Linux
+4. [MediaInfo](https://mediaarea.net/en/MediaInfo) - Extremely useful tool for getting various video & audio information (codecs, formats, etc..) on media files  
+5. [K-lite](https://codecguide.com/download_kl.htm) - Codec pack including various video software  
  - Video/audio codecs  
  - Video/audio filters/splitters/mixers  
-3. [LAV Filters](https://github.com/Nevcairiel/LAVFilters/releases) - ffmpeg based DirectShow media software including:  
+6. [LAV Filters](https://github.com/Nevcairiel/LAVFilters/releases) - ffmpeg based DirectShow media software including:  
   - Splitters, Decoders, Filters, Mixers and Compressors  
   - Automatic stream selection  
-4. [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) - Parametric / graphic equalizer. 
-5. [Peace Equalizer GUI](https://sourceforge.net/projects/peace-equalizer-apo-extension/) - GUI for Equalizer APO. 
-6. [APO Driver](https://puresoftapps.blogspot.com/2018/04/realtek-apo-driver.html) - Audio Enhancements, re-encoders. 
-7. [ffdshow](https://sourceforge.net/projects/ffdshow-tryout/files/Official%20releases/) - Defunct. Audio codecs/filters/splitters/mixers.
+7. [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) - Parametric / graphic equalizer. 
+8. [Peace Equalizer GUI](https://sourceforge.net/projects/peace-equalizer-apo-extension/) - GUI for Equalizer APO. 
+9. [APO Driver](https://puresoftapps.blogspot.com/2018/04/realtek-apo-driver.html) - Audio Enhancements, re-encoders. 
+10. [Sound Keeper](https://github.com/vrubleg/soundkeeper) - Keep audio deivce from going to sleep
+11. [HTPC AVR Sync](https://github.com/nunocordeiro/HTPC-AVR-sync) - Control volume of your AVR from your HTPC
+12. [ffdshow](https://sourceforge.net/projects/ffdshow-tryout/files/Official%20releases/) - Defunct. Audio codecs/filters/splitters/mixers.
 
 <!-- Section -->
 
@@ -727,7 +742,7 @@ The following things may fix and/or help you identify your problem:
 ### When I play my content, why does the audio start playing with a delay?
 
 You could be encountering a "feature" that causes a digital audio connection (SPDIF or HDMI) to go to sleep, [into a power saving D3 state](https://www.intel.com/content/dam/www/public/us/en/documents/product-specifications/high-definition-audio-specification.pdf), when audio stops playing for a period of time. It takes some time for the connection to come back to an active D0 power state, causing the delay. To workaround this use a program to keep the connection active, such as:
- - Windows: [Sound Keeper](https://github.com/vrubleg/soundkeeper) or [SPDIF KA](https://github.com/handruin/spdif-ka)
+ - Windows: [Sound Keeper](https://github.com/vrubleg/soundkeeper), [HTPC AVR Sync](https://github.com/nunocordeiro/HTPC-AVR-sync), or [SPDIF KA](https://github.com/handruin/spdif-ka)
  - Linux: [This method](https://destinmoulton.com/notes/howto/linux-usb-audio-keep-alive-service/) which will play inaudible audio over the connection at all times and is more universal, [this method](https://wiki.scanframe.com/en/Configuration/Linux/audio-suspend-disable) if you're using Alsa/Wireplumber, or [this method](https://wiki.archlinux.org/title/PulseAudio/Troubleshooting#Pops_when_starting_and_stopping_playback) if you're using Pulseaudio.
  - Player: mpv (standalone/IINA/Plex): mpv.conf: audio-wait-open=1, audio-buffer=0.4, audio-stream-silence=yes
 
@@ -1211,5 +1226,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2026-04-24*
+ *This page was last updated on 2026-05-17*
 
