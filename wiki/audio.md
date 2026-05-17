@@ -125,30 +125,35 @@ See also: [Video Software](/wiki/video#video-software)
 1. [Foobar2000](https://www.foobar2000.org/) - Audio Player
  - Support for Windows, Mac, Mobile
  - Remote control apps: [MonkeyMote](https://www.monkeymote.com/home), [DACP remote](https://en.wikipedia.org/wiki/Digital_Audio_Control_Protocol), [fbremote](https://hydrogenaudio.org/index.php/topic,126264.msg1064965.html#msg1064965) (web)
-2. [Lyrion Music Server](https://lyrion.org) - Audio Server / Player
- - Support for Windows, Linux, Mac
+2. [Lyrion Music Server](https://lyrion.org) - A free Audio Server / Player
+ - Support for Windows, Linux, Mac, Android, Docker
  - Streaming service support
  - Mobile apps
  - Remote control apps
 3. [Spotify](https://www.spotify.com/de-en/download) - Audio Player
- - Support for [Windows](https://www.spotify.com/de-en/download/windows/), [Linux](https://www.spotify.com/de-en/download/linux/), [Mac](https://www.spotify.com/de-en/download/mac/)
+ - Support for [Windows](https://www.spotify.com/de-en/download/windows/), [Linux](https://www.spotify.com/de-en/download/linux/), [Mac](https://www.spotify.com/de-en/download/mac/), Android
  - [Local library](https://support.spotify.com/us/article/local-files/) support
  - Remote control app with [Spotify Connect](https://support.spotify.com/us/article/spotify-connect/)
 4. [JRiver Media Center](https://jriver.com/) - A commercial media player/center
  - Support for Windows, Mac, Linux  
  - Extensive plug-in support
  - Remote control app
-5. [Plex Media Server](https://plex.tv) - Media Server / Player
- - Support for Windows, Linux, Mac, Android
+5. [roon music server](https://roon.app/) - A commercial Audio Server / Player
+ - Support for Windows, Linux, Mac, Android, Docker
+ - Server on commericial, commodity hardware. Dedicated [ROCK OS](https://help.roonlabs.com/portal/en/kb/articles/roon-optimized-core-kit)
+ - Mobile apps
+ - Remote control apps
+6. [Plex Media Server](https://plex.tv) - A free/commercial Media Server / Player
+ - Support for Windows, Linux, Mac, Android, Docker
  - Plexamp mobile app
-6. [Kodi](https://kodi.tv) - An open source media player/center.  
+7. [Kodi](https://kodi.tv) - An open source media player/center.  
  - Support for Windows, Linux, Mac, Android  
  - Extensive plug-in support
  - Remote control apps: Yatse, Kore  
-7. [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases)/[MPC-HC](https://github.com/clsid2/mpc-hc/releases/) - A popular media player 
+8. [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases)/[MPC-HC](https://github.com/clsid2/mpc-hc/releases/) - A popular media player 
  - Support for Windows  
  - Extensive feature-set
-8. [VLC](https://www.videolan.org/vlc/) - A simple media player 
+9. [VLC](https://www.videolan.org/vlc/) - A simple media player 
  - Support for Windows, Linux, Mac, Android  
 
 **Utilities**
