@@ -248,6 +248,8 @@ While media devices are great frontends that are easy to use and navigate, they'
 
 ## What software will I need and how do I set it up?
 
+See also: [Video Software](/wiki/video#video-software) / [Audio Software](/wiki/audio#audio-software)  
+
 For the software side of things, there are various tools you may need to take advantage of your HTPC. An OS, media player, media server, ripper, downloader, file renamer, etc.. 
 
 **Operating Systems:** 
@@ -904,5 +906,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2026-05-09*
+*This page was last updated on 2026-05-17*
 
