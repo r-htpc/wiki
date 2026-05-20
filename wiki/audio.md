@@ -990,7 +990,7 @@ If you're using an **ACTIVE** DisplayPort->HDMI adapter or cable, you **CAN'T** 
 
 *USB-C*  
 
-If you have a USB-C port (that supports DP Alt Mode video out) you can use a [USB-C to HDMI cable/adapter](/wiki/components#video-cablesadapters) but will have the same audio limitations as the Displayport active scenario above, as all USB-C cables/adapters are active.  
+If you have a USB-C port (that supports DP Alt Mode video out) you can use a [USB-C to HDMI cable/adapter](/wiki/components#video-cablesadapters) but will have the same audio limitations as the Displayport **ACTIVE** scenario above, as all USB-C cables/adapters are active.  
 
 Keep in mind that any audio passed over HDMI/DisplayPort/USB-C requires a video signal to be active on the connection as well. You can't get audio without video, so you will either have to use an extended or cloned display for it to work, though the resolution required is minimal (720p).  
 
