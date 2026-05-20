@@ -980,25 +980,30 @@ If your display supports eARC but your sound system doesn't, use an [eARC extrac
 
 ### Can I get HD audio from a non-HDMI connector?
 
-Yes.  
+It depends.  
 
-*DISPLAYPORT/USB-C*  
+*DISPLAYPORT*  
+
 If you have a spare DisplayPort port (either on a dGPU or on your motherboard with a CPU iGPU) you can use a simple, **PASSIVE** [DisplayPort to HDMI cable/adapter](/wiki/components#video-cablesadapters) to get HD audio (up to TrueHD Atmos/DTS:X) to an HDMI port on a sound system.  
 
-If you have a USB-C port (that supports DP Alt Mode video out) you can use a [USB-C to HDMI cable/adapter](/wiki/components#video-cablesadapters) to do the same thing. Your mileage may vary depending on the adapter and source device, so use a recommended adapter/cable.  
+If you're using an **ACTIVE** DisplayPort->HDMI adapter or cable, you **CAN'T** bitstream **HD** audio over it. The max you can do, depending on the quality of the adapter, is DD+ Atmos, DTS and PCM 7.1 audio.  
+
+*USB-C*  
+
+If you have a USB-C port (that supports DP Alt Mode video out) you can use a [USB-C to HDMI cable/adapter](/wiki/components#video-cablesadapters) but will have the same audio limitations as the Displayport active scenario above, as all USB-C cables/adapters are active.  
 
 Keep in mind that any audio passed over HDMI/DisplayPort/USB-C requires a video signal to be active on the connection as well. You can't get audio without video, so you will either have to use an extended or cloned display for it to work, though the resolution required is minimal (720p).  
 
-Also keep in mind that if you're using an **ACTIVE** DisplayPort/USB-C->HDMI adapter or cable, you **CAN'T** bitstream **HD** audio over it. The max you can do, depending on the quality of the adapter, is DD+ Atmos, DTS and PCM 7.1 audio.  
 If you need to bitstream HD audio:  
 
 - Use a PASSIVE cable/adapter. Using a passive adapter will limit video output to 4k@30hz (A HDMI 1.4-capable connection)  
-- Use multiple video outputs; audio over a passive cable/adapter to your sound system, video over an straight HDMI cable or active adapter to your display  
+- Use multiple video outputs; with Audio over a passive cable/adapter to your sound system and Video over an straight HDMI cable or active adapter to your display.  
 
 See the [Video Cables/Adapters](/wiki/components#video-cablesadapters) section of the Hardware Components Guide for more recommendations.  
 
 *ANALOG/OPTICAL*  
-If you decode HD audio on your HTPC and use analog output jacks then technically you're getting HD audio.  
+
+If you decode HD audio on your HTPC and use analog output jacks then technically you're getting HD audio, just not bitstreaming it.  
 If you decode and re-encode HD audio to a non-HD codec for bandwidth reasons (such as TrueHD->PCM->DD) you can output it over Optical. See gaming audio question above for how to do this.  
 
 <!-- Sub-Section -->
