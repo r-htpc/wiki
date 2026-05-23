@@ -613,7 +613,7 @@ This is configured below with 24TB of usable space with protection (12TBx3 = 36T
 
 If you want to bulk up past 6 drives, look at the Node 804 or Jonsbo N4 for up to 10 drives, with the uATX motherboard and the optional HBA in the parts list.  
 
-If used as a Plex server, you can [Direct Play](https://support.plex.tv/articles/200430303-streaming-overview/) a couple dozen stream and [transcode](https://support.plex.tv/articles/200430303-streaming-overview/) 6 concurrent 1080p streams with software transcoding. If you need more transcodes than that, do [hardware igpu transcoding](https://support.plex.tv/articles/115002178853-using-hardware-accelerated-streaming/) with a purchased Plex Pass and a linux docker/VM in Unraid. That'll get you 6x4k/20x1080p AV1/HEVC/H264 transcodes. Alternatively, if you didn't want to buy a Plex Pass, use JellyFin. 
+If used as a Plex server, you can [Direct Play](https://support.plex.tv/articles/200430303-streaming-overview/) a couple dozen stream and [transcode](https://support.plex.tv/articles/200430303-streaming-overview/) 6 concurrent 1080p streams with software transcoding. If you need more transcodes than that, do [hardware igpu transcoding](https://support.plex.tv/articles/115002178853-using-hardware-accelerated-streaming/) with a purchased Plex Pass and a linux docker/VM in Unraid. That'll get you 6x4k/20x1080p AV1/HEVC/H264 transcodes. Alternatively, if you didn't want to buy a Plex Pass, use JellyFin. For a similar AMD build, use a Ryzen 5500 paired with a used Nvidia P1000/GTX 1050 Ti 
 
 PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
@@ -970,5 +970,5 @@ TOTAL		|											|$801			|	|
 
 ---
  
-*This page was last updated on 2026-05-09*
+*This page was last updated on 2026-05-22*
 
