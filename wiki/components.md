@@ -515,7 +515,7 @@ Logitech Harmony One	|	Disc (1)	|	RF/BT/IR	|	Yes	|	No  | Int	|	IR Blaster, Hub
 **[Flirc](https://flirc.tv/more/flirc-usb)**  | $20 | USB/IR | NA | NA  |  NA | USB IR Receiver for remotes. Wake/Sleep
 [Dune HD R4](https://www.dune-hd.com/collections/accessories/products/dune-hd-bt-backlit-remote-r4)		|	$20	|	BT/IR		|	YES	| YES  | 	AAA	|	Remote and Air Mouse, IR Learn
 WeChip G20S Pro/Plus		|	$20	|	RF/BT		|	YES	|	YES | AAA	|	Remote and Air Mouse
-MX3 Pro			|	$20	|	RF		|	Yes	|	YES  | AAA	|	Remote, Mini keyboard, and Air Mouse
+[MX3 Pro](https://www.amazon.com/Keyboard-Backlight-Learning-Wireless-Box-HTPC-IPTV-Pad-PS3/dp/B09QL7G37S)			|	$20	|	RF/IR		|	Yes	|	YES  | AAA	|	Remote, IR Learn, Mini keyboard, and Air Mouse
 [HTWebRemote](https://github.com/nicko88/HTWebRemote)	|	Free	|	LAN		|	NA	| NA | 	NA	|	Software to create web-accessible remote on Windows/[Linux](https://github.com/nicko88/HTWebRemoteHost) HTPC to control multiple devices. [Contact](https://www.reddit.com/message/compose/?to=SirMaster)
 [Unified Remote](https://www.unifiedremote.com/)	|	Free/$5	|	LAN		|	NA	|	NA | NA	|	Software to create app-accessible remote on Windows/Linux HTPC to control multiple devices. Use phone to control PC as mouse/remote.
 [Netflix Remote Controller](http://sticky-ux.com/apps/NetflixRemoteController/)		|	Free	|	NA | NA	|	NA 	|	NA	| Software to control Windows Netflix app from keyboard/remote
