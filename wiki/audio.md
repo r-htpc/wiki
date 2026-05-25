@@ -575,7 +575,7 @@ You can read more about Normalization [here](https://www.realhd-audio.com/?p=674
 7. If you're NOT bitstreaming, Use an Equalizer in your media player or system-wide middleware to emphasize or de-emphasize the relevant frequencies. For better voice emphasis, start by lowering the < 100Hz range and boosting the 1000Hz-4000Hz range. The JRiver and VLC players have equalizers.  
 For system-wide, use [FXSound](https://www.fxsound.com/) or something more advanced, like [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) middleware plus the [Peace Equalizer GUI](https://sourceforge.net/projects/peace-equalizer-apo-extension/).  
 
-9. If you're using a sound system or TV, check for a volume leveling/boost mode on it. This may be called Auto Volume, Night Mode or Volume Leveling for leveling out frequencies or Clear Voice to boost center channel frequencies on voices.  
+9. If you're using a sound system or TV, check for a volume leveling/boost mode on it. This may be called Auto Volume, Night Mode, Dynamic Range or Volume Leveling for leveling out frequencies or Clear Voice to boost center channel frequencies on voices.  
 
 10. If you're playing local content, re-encode the audio stream in the content to your speaker configuration. For example, to fix 5.1 for stereo you might use FFMpeg's [dynamic audio normalization](https://ffmpeg.org/ffmpeg-filters.html#dynaudnorm) with the flag "-af dynaudnorm" to level out the audio, or [downmix](https://trac.ffmpeg.org/wiki/AudioChannelManipulation) with the flag "-ac 2" to downmix the channels. Alternatively, use [eac3to](https://en.wikibooks.org/wiki/Eac3to/How_to_Use) with the flag "-downtoStereo" or "-downDPL". This is more work up front, but if you want the audio consistent across a wide range of media players/clients, which may or may not have audio normalization functionality, this becomes a more feasible option. If you need to change content on a mass scale, look at the [Tdarr](https://tdarr.io/) server software. It can watch a number of folders and then use plugins to re-encode your audio streams based on conditions you specify.  
 
@@ -1236,5 +1236,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2026-05-17*
+ *This page was last updated on 2026-05-25*
 
