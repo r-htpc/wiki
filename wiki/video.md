@@ -631,7 +631,7 @@ If you have an Nvidia RTX 20+ series GPU you can also use RTX Super Resolution i
 
 1. Your content is poorly encoded. Test with [known-good test files](/wiki/video#where-do-i-find-additional-sample-video-files-to-test).
 2. You haven't configured your video player to use your GPU to hardware decode video. See [application-specific setup for hw decoding](/wiki/video#application-specific-setup-for-hardware-decoding) above.
-3. If you have an Nvidia GPU, in Nvidia Control Panel -> Manage 3D Settings, Set Vertical Sync: ON, Low Latency Mode:OFF, Power Management Mode: Prefer Maximum.
+3. If you have an Nvidia GPU, in your Driver settings (Nvidia App -> Graphics -> Global/Nvidia Control Panel -> Manage 3D Settings), Set Vertical Sync: ON, Low Latency Mode:OFF, Power Management Mode: Prefer Maximum.
 4. If you have an AMD GPU: In Radeon Settings, Display -> Radeon FreeSync: OFF, Graphics -> Enhanced Sync: OFF, Wait for Vertical Refresh: ON, either globally or create a app profile for your video player  
 5. You've configured your Windows power plan or Video driver power settings to balanced/power saving. Test with your Windows power plan set to High Performance. Test with your Video driver power management set to maximum performance.
 6. You're using a dGPU in Windows and have Hardware-Accelerated GPU Scheduling enabled. Test with it disabled.
@@ -668,7 +668,7 @@ If you do have judder, then do one or more of the following..
 3. Configure your video card settings to run at a refresh rate that matches the bulk of the content you play. e.g. 23 Hz for 23.976 fps content.
 4. If you can't/won't do #2 or #3. Set your refresh rate to a number that divides equally into the fps of the bulk of the content you play. e.g. 120 Hz (for 24/30/60 fps).
 5. If #3/#4 doesn't work, configure Judder reduction in your TV settings, starting with the lowest custom level. Some TVs do this automatically. This may be called other things like [Motion Enhancement/Real Cinema/CineMotion/Cinema Screen/Motion Clarity/Motion Flow/Film Mode](https://www.rtings.com/tv/tests/motion/24p#related-settings). As a worst case, test with Motion Interpolation enabled at various levels. 
-6. If you have an Nvidia GPU, in Nvidia Control Panel -> Manage 3D Settings, Set Vertical Sync: ON, Low Latency Mode:OFF, Power Management Mode: Prefer Max/Adaptive/Normal.
+6. If you have an Nvidia GPU, in your Driver settings (Nvidia App -> Graphics -> Global/Nvidia Control Panel -> Manage 3D Settings), Set Vertical Sync: ON, Low Latency Mode:OFF, Power Management Mode: Prefer Max/Adaptive/Normal.
 7. If you have an AMD GPU: In Radeon Settings, Display -> Radeon FreeSync: OFF, Graphics -> Enhanced Sync: OFF, Wait for Vertical Refresh: ON, either globally or create a app profile for your video player  
 8. Use the [SVP (Smooth Video Project)](https://www.svp-team.com/) filter to up-convert the content's fps (e.g. 23.976 fps to 60 fps) before it gets to the display; this is Motion Interpolation, and its effect is unliked by some. Alternatively, you can try madVR's frame blending feature in the rendering->smooth motion section of its settings. 
 9. Use a media device instead that can do automatic Refresh Rate Switching. Fire TV (Prime Video), Nvidia Shield (Netflix, Prime Video), Android TV+[SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) (Youtube)  
@@ -879,5 +879,5 @@ Dolby Vision Tests - [P5](https://drive.google.com/uc?export=download&id=1u5T0NM
 
 ---
 
-*This page was last updated on 2026-05-16*
+*This page was last updated on 2026-05-28*
 
