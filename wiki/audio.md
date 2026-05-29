@@ -928,14 +928,14 @@ If you want to re-encode audio down to Dolby Digital for your games:
     - Select your active HDMI/Optical interface Endpoint from the top drop-down box 
     - Click "Product Config Tool" 
     - Choose the "Dolby Digital Plus Home Theater (HDMI/SPDIF)" product, then "Apply Product Settings..". Close the app.  
-<!-- - OPTIONAL: Install the [Dolby Home Theater](https://drive.google.com/uc?export=download&id=1BPtzJwj-3YNgEV7Jsyl5sMHb-McTvCBS) app for additional audio mixing. -->
-<!-- OPTIONAL: Windows is only sending stereo on 5.1 content: Read: https://www.reddit.com/r/Dolby/comments/1jfgij7/dolby_digital_ac3_eac3_audio_output_on_windows_10/ -->
-- OPTIONAL: Install the [Dolby Digital Plus Home Theater](https://drive.google.com/uc?export=download&id=1_5jBYSLE-fHbxPzDVxROIvvuzeYcXhIt) app for additional audio mixing. 
 - Open Windows Control Panel -> Sound -> \<your_sound_device\>
   - Configure -> Stereo
   - Properties -> Advanced tab, Default Format: Dolby Digital
     - If you get an Unsupported error or you only receive Dolby Digital 2.0 on your sound system, you may need to edit the EDID coming from your display to add the LPCM 5.1 and AC-3 Audio Formats (see [Way #2 here](/wiki/audio#why-does-my-operating-system-only-show-stereo2-channels-in-the-sound-control-panel-when-i-have-a-surround-sound-system)), then change your sound device above from Stereo to 5.1.
 - Reboot
+<!-- - OPTIONAL: Install the [Dolby Home Theater](https://drive.google.com/uc?export=download&id=1BPtzJwj-3YNgEV7Jsyl5sMHb-McTvCBS) app for additional audio mixing. -->
+<!-- OPTIONAL: Windows is only sending stereo on 5.1 content: Read: https://www.reddit.com/r/Dolby/comments/1jfgij7/dolby_digital_ac3_eac3_audio_output_on_windows_10/ -->
+- OPTIONAL: Install the [Dolby Digital Plus Home Theater](https://drive.google.com/uc?export=download&id=1_5jBYSLE-fHbxPzDVxROIvvuzeYcXhIt) app for additional audio mixing. 
 - NOTE: Some audio delay/de-sync is common in the software-encoding used here. To minimize any that you notice, you can try one or more of the following:
   - Run the "FX Configurator" Launcher.exe app, remove the values in the Local FX APO.. boxes, Click Apply Effect and Processing Modes.. and reboot
   - Use DTS Connect instead, as it has slightly lower latency. Uninstall and re-install the APO driver, and instead of choosing Dolby DS1/Dolby Digital Plus/Dolby Digital during Install/FX Configurator Product Config Tool/Sound device default format, choose DTS Connect/DTS Connect/DTS Interactive instead. 
@@ -1237,5 +1237,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2026-05-25*
+ *This page was last updated on 2026-05-28*
 
