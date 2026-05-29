@@ -645,7 +645,7 @@ Way #2
 3. Download the appropriate file "hdmi2-bitstream.dat" (for HDMI 2.0)/"hdmi-bitstream.dat" (for HDMI 1.x) from the link above. Import it into CRU. 
 4. Double-click on the CTA-861 block in the "Extension blocks" section.
 5. Double-click on the "Audio formats" block in the "Data blocks" section.
-6. Add/Delete/Edit any formats in there as per what your sound system supports (if necessary).
+6. Add/Delete/Edit any additional formats and data blocks in there (such as Speaker Setup) as per what your sound system supports (if necessary).
 7. Double-click on the "HDMI support" block in the "Data blocks" section.
 8. Enable any Color formats in there as per what your display supports (if necessary).
 9. "Ok" out
@@ -657,7 +657,7 @@ Way #3
 2. Export the EDID data to a .bin file
 3. Download and run [Analog Way EDID Editor](https://www.analogway.com/emea/products/software-tools/aw-edid-editor/)
 4. Import the .bin file
-5. Add your audio formats, speaker config, etc.. (add CTA extension if necessary)
+5. Add your audio formats, speaker allocation config, etc.. (add the CTA extension if necessary)
 6. Save the .bin file
 7. Download and run [Custom Resolution Utility](http://www.monitortests.com/forum/thread-custom-resolution-utility-cru)
 8. Import the .bin file
@@ -934,6 +934,7 @@ If you want to re-encode audio down to Dolby Digital for your games:
 - Open Windows Control Panel -> Sound -> \<your_sound_device\>
   - Configure -> Stereo
   - Properties -> Advanced tab, Default Format: Dolby Digital
+    - If you get an Unsupported error or you only receive Dolby Digital 2.0 on your sound system, you may need to edit the EDID coming from your display to add the LPCM 5.1 and AC-3 Audio Formats (see [Way #2 here](/wiki/audio#why-does-my-operating-system-only-show-stereo2-channels-in-the-sound-control-panel-when-i-have-a-surround-sound-system)), then change your sound device above from Stereo to 5.1.
 - Reboot
 - NOTE: Some audio delay/de-sync is common in the software-encoding used here. To minimize any that you notice, you can try one or more of the following:
   - Run the "FX Configurator" Launcher.exe app, remove the values in the Local FX APO.. boxes, Click Apply Effect and Processing Modes.. and reboot
