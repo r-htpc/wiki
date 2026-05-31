@@ -594,6 +594,8 @@ Simple, HDR Passthrough or Tonemapping
    *  Create/Edit file: ~/snap/mpv/current/.config/mpv/mpv.conf
       * Add:  
      `fullscreen=yes`<br>
+     `# UPSCALING/DOWNSCALING - good balance - uncomment if you have a good igpu/dgpu`<br>
+     `#profile=gpu-hq`<br>
      `[HDR]`<br>
      `profile-cond=p["video-params/primaries"] == "bt.2020"`<br>
      `vo=gpu-next`<br>
