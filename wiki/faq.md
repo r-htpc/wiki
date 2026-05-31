@@ -79,32 +79,30 @@ Once you build/buy your solution, you can then follow the recommendations in the
 
 Here are recommendations for the most common scenarios, if you don't want to read our whole wiki and/or build something..
 
-Streaming services only: Fire TV 4K stick (Amazon ecosystem) ($40), [Onn 4k Plus](https://www.walmart.com/ip/4K-PLUS-STREAMING/13577404044) (Google ecosystem) ($30)  
+Streaming services only: Fire TV 4K Plus stick (Amazon ecosystem) ($40), [Onn 4k Plus](https://www.walmart.com/ip/4K-PLUS-STREAMING/13577404044) (Google ecosystem) ($30)  
 
-Streaming services + 4K local content, no HD audio: Fire TV 4K Max stick ($55), [Onn 4k Pro](https://www.walmart.com/ip/4K-Pro-Streaming-Device/5193222892) (Google ecosystem) ($50). If poor wifi env, add [micro-USB](https://www.amazon.com/Cable-Matters-Streaming-Including-Chromecast/dp/B07N2ZHFY9) or [usb-a](https://www.amazon.com/gp/product/B00BBD7NFU/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) ethernet adapter.  
+Streaming services + 4K local content, no HD audio: Fire TV 4K MAX stick ($55), [Onn 4k Pro](https://www.walmart.com/ip/4K-Pro-Streaming-Device/5193222892) (Google ecosystem) ($50). If poor wifi env, add [micro-USB](https://www.amazon.com/Cable-Matters-Streaming-Including-Chromecast/dp/B07N2ZHFY9) or [usb-a](https://www.amazon.com/gp/product/B00BBD7NFU/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) ethernet adapter.  
 
-4K HDR10/Dolby Vision local content + streaming services, HD audio: Nvidia Shield Pro ($200).  
+4K HDR10/Dolby Vision local content + streaming services, HD audio: Nvidia Shield Pro ($200) / [Dune HD Box R 4K Plus](https://www.dune-hd.com/products/homatics-box-r-4k-plus) ($230).  
 
-4K HDR local content, HD audio: HDR10: Odroid [N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ($65/$80) / [N150](https://www.amazon.com/s?k=beelink+n150&crid=3CMH2TA4O87KZ&sprefix=beelink+n15%2Caps%2C148&ref=nb_sb_noss_2) ($170) Mini PC. HDR10+/Dolby Vision: Ugoos AM6B Plus (4K)/AM8 Pro (8K) ($200/$250). Both running CoreELEC  
+4K HDR local content, HD audio: *HDR10*: Odroid [N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ($65/$80) / [N150](https://www.amazon.com/s?k=beelink+n150&crid=3CMH2TA4O87KZ&sprefix=beelink+n15%2Caps%2C148&ref=nb_sb_noss_2) ($170) Mini PC. *HDR10+/Dolby Vision*: [Vero V](https://osmc.tv/vero/) / [Dune HD Box R 4K Plus](https://www.dune-hd.com/products/homatics-box-r-4k-plus) / Ugoos AM6B Plus ($175-$250)  
 
 4K HDR10 local content + streaming services + Web Browsing (standard), Windows: Used: Intel i5 8th Gen [NUC (NUC8I5)](https://www.ebay.com/sch/i.html?_nkw=nuc+%288i5%2C8i7%29+-8260u+-8265u&_sacat=179&_from=R40&LH_TitleDesc=1&_sop=15&LH_PrefLoc=2&_blrs=recall_filtering) ($125) OR New: [Asus NUC 14 Essential](https://www.google.com/search?q=nuc+14+essential&oq=nuc+14+essential) ($225) Mini PC 
 
-Cheap Emulation Gaming: Odroid [N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ($80) + EmuElec/Batocera OR Used: >= 
-[SFF/USFF PC - CPU >= i5-8500T, 8GB RAM, SSD](https://www.ebay.com/sch/i.html?_nkw=%28hp%2Cdell%2Clenovo%29+%28i5-8400%2Ci5-8500%2Ci5-8600%2Ci7-8700%29+%28sff%2Cdt%2Cmt%2Cusff%2Cmicro%2Ctiny%2Cmini%29+ssd&_sacat=179&_from=R40&_fsrp=1&LH_BIN=1&_sop=15&_udhi=175&_blrs=recall_filtering) ($75)
+Cheap Emulation Gaming: EmuElec/Batocera + USED: >= 
+[SFF/USFF PC - CPU >= i5-8500T, 8GB RAM, SSD](https://www.ebay.com/sch/i.html?_nkw=%28hp%2Cdell%2Clenovo%29+%28i5-8400%2Ci5-8500%2Ci5-8600%2Ci7-8700%29+%28sff%2Cdt%2Cmt%2Cusff%2Cmicro%2Ctiny%2Cmini%29+ssd&_sacat=179&_from=R40&_fsrp=1&LH_BIN=1&_sop=15&_udhi=175&_blrs=recall_filtering) ($75) or NEW: Odroid [N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ($80)
 
-1080p Casual Gaming: [Beelink SER5 Max (6800U) mini pc](https://www.amazon.com/Beelink-Pro%EF%BC%8CAMD-powerful-Computer-Fingerprint/dp/B0CBTBJWHG?th=1) ($300)
+1080p Casual Gaming: [Beelink SER5 Max/EQR7 (7735HS) mini pc](https://www.amazon.com/Beelink-4-75GHz-Computer-Display-1000Mbps/dp/B0GFVMZYQJ/) ($300+)
 
 <!-- [Orange Pi 3 LTS 2GB](https://www.aliexpress.us/item/3256804341645667.html) -->
 
-1080p local content, HD audio: **[Odroid C4](https://www.hardkernel.com/shop/odroid-c4/)** / [RPI 4 2GB](https://www.google.com/search?q=raspberry+pi+4+2gb&oq=raspberry+pi+4+2gb) ($50)  
+1080p local content, HD audio: **[Odroid C4](https://www.hardkernel.com/shop/odroid-c4with2gbyteram/)** / [RPI 4 2GB](https://www.google.com/search?q=raspberry+pi+4+2gb&oq=raspberry+pi+4+2gb) ($50)  
 
-1080p local content + Web Browsing (minimal), Linux: **[Odroid C4](https://www.hardkernel.com/shop/odroid-c4/)** / [ROCK64-4GB](https://pine64.com/product/rock64-4gb-single-board-computer/) ($50)  
+1080p local content + Web Browsing (minimal), Linux: **[Odroid C4](https://www.hardkernel.com/shop/odroid-c4with2gbyteram/)** / [ROCK64-4GB](https://pine64.com/product/rock64-4gb-single-board-computer/) ($50)  
 
 1080p local/streaming content + Web Browsing (standard), Windows: Used: >= [SFF/USFF PC - CPU >= i5-8x00T, 8GB RAM, SSD](https://www.ebay.com/sch/i.html?_nkw=%28hp%2Cdell%2Clenovo%29+%28i5-8400%2Ci5-8500%2Ci5-8600%2Ci7-8700%29+%28sff%2Cdt%2Cmt%2Cusff%2Cmicro%2Ctiny%2Cmini%29+ssd&_sacat=179&_from=R40&_fsrp=1&LH_BIN=1&_sop=15&_udhi=175&_blrs=recall_filtering) ($75) OR New: >= [N100 Mini PC](https://www.amazon.com/dp/B0CX14YPTN/ref=twister_B0DC6D6QP7?_encoding=UTF8&th=1) ($150)   
 
-Media Server (no/1080p transcoding): Used: [SFF/USFF PC - CPU >= i5-8x00T, 8GB RAM, SSD](https://www.ebay.com/sch/i.html?_nkw=%28hp%2Cdell%2Clenovo%29+%28i5-8400%2Ci5-8500%2Ci5-8600%2Ci7-8700%29+%28sff%2Cdt%2Cmt%2Cusff%2Cmicro%2Ctiny%2Cmini%29+ssd&_sacat=179&_from=R40&_fsrp=1&LH_BIN=1&_sop=15&_udhi=175&_blrs=recall_filtering) ($75) OR New: >= [N100 Mini PC](https://www.amazon.com/dp/B0CX14YPTN/ref=twister_B0DC6D6QP7?_encoding=UTF8&th=1) ($150)  
-
-Media Server (4k transcoding):  Used: [SFF/USFF PC - CPU >= i5-8x00T, 8GB RAM, SSD](https://www.ebay.com/sch/i.html?_nkw=%28hp%2Cdell%2Clenovo%29+%28i5-8400%2Ci5-8500%2Ci5-8600%2Ci7-8700%29+%28sff%2Cdt%2Cmt%2Cusff%2Cmicro%2Ctiny%2Cmini%29+ssd&_sacat=179&_from=R40&_fsrp=1&LH_BIN=1&_sop=15&_udhi=175&_blrs=recall_filtering) ($75) OR New: >= [N150 Mini PC](https://www.amazon.com/s?k=beelink+n150&crid=3CMH2TA4O87KZ&sprefix=beelink+n15%2Caps%2C148&ref=nb_sb_noss_2) ($170)   
+Media Server: Used: [SFF/USFF PC - CPU >= i5-8x00T, 8GB RAM, SSD](https://www.ebay.com/sch/i.html?_nkw=%28hp%2Cdell%2Clenovo%29+%28i5-8400%2Ci5-8500%2Ci5-8600%2Ci7-8700%29+%28sff%2Cdt%2Cmt%2Cusff%2Cmicro%2Ctiny%2Cmini%29+ssd&_sacat=179&_from=R40&_fsrp=1&LH_BIN=1&_sop=15&_udhi=175&_blrs=recall_filtering) ($75) OR New: >= [N95 Mini PC](https://www.amazon.com/dp/B0CX14YPTN/ref=twister_B0DC6D6QP7?_encoding=UTF8&th=1) ($200)  
 
 Network Storage: [Storage Setup Guide](/wiki/storage)
 
@@ -908,5 +906,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2026-05-17*
+*This page was last updated on 2026-05-31*
 
