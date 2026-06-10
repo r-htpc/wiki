@@ -998,7 +998,7 @@ Keep in mind that any audio passed over HDMI/DisplayPort/USB-C requires a video 
 If you need to bitstream HD audio:  
 
 - Use a PASSIVE cable/adapter. Using a passive adapter will limit video output to 4k@30hz (A HDMI 1.4-capable connection)  
-- Use multiple video outputs; with Audio over a passive cable/adapter to your sound system and Video over an straight HDMI cable or active adapter to your display.  
+- Use multiple video outputs; with Audio over a passive cable/adapter to your sound system and Video over an straight HDMI cable or active adapter to your display. If you need an additional, cheap video output, buy a used Nvidia GT 730  
 
 See the [Video Cables/Adapters](/wiki/components#video-cablesadapters) section of the Hardware Components Guide for more recommendations.  
 
