@@ -508,7 +508,7 @@ Logitech Harmony One	|	Disc (1)	|	RF/BT/IR	|	Yes	|	No  | Int	|	IR Blaster, Hub
 [Sofabaton X1](https://sofabaton.com/products/x1)		|	$130	|	BT/IR/WiFi	|	YES	| No  | 	Int	(60hr) |	60 devices, adv macros, hub, IR blaster, voice/alexa/google
 **[Pepper Jobs W10](https://www.pepper-jobs.com/products/w10-gyro-smart-remote)**		|	$30	|	RF/IR	|	YES	|	YES  | AAA	|	Mini keyboard, Air Mouse, IR Learn, Made for Windows, Linux ok
 **[OSMC Remote](https://osmc.tv/store/product/osmc-remote-control/)**		|	$20	|	RF		|	No	|	No  | CR-2032	|	Good simple remote for Kodi
-[8bitdo Media Remote](https://www.amazon.com/8Bitdo-Media-Remote-Xbox-One-Infrared/dp/B0BXSV78R6) |	$20	|	IR    |  YES  | No  | AAA | Use w/Flirc, **Motion-active** backlight
+[8bitdo Media Remote](https://www.amazon.com/8Bitdo-Media-Remote-Xbox-One-Infrared/dp/B0BXSV78R6) / [Xbox remote](https://www.ebay.com/sch/i.html?_nkw=xbox+remote+1577) |	$20	|	IR    |  YES  | No  | AAA | Use w/Flirc or over CEC, **Motion-active** backlight
 [Skip 1s](https://flirc.tv/products/skip1s-remote-universal-remote-control)    | $45  | IR  | No | No  | AAA | Use w/Flirc, **Macros**, learning, mobile app
 [MCE](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw=mce+remote&_sacat=0) / [Inteset](https://www.amazon.com/Inteset-Universal-Backlit-Learning-Streamers/dp/B00M4I1BAY) Remote | $20-30 | IR | Some | No  |  AA/AAA | Use w/an included IR hub, Flirc USB adap, or HDMI-CEC. Good for Kodi/Plex
 **[Vista MCE](https://www.ebay.com/sch/i.html?_nkw=vista+mce+remote)** | $40 | IR | No | YES | AAA | Use w/included IR hub, Flirc USB adap. **Built-in phy. trackpad**. [VRC-1100 clone](https://kodi.wiki/view/Archive:VRC-1100).
