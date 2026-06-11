@@ -96,7 +96,7 @@ Cheap Emulation Gaming: EmuElec/Batocera + USED: >=
 
 <!-- [Orange Pi 3 LTS 2GB](https://www.aliexpress.us/item/3256804341645667.html) -->
 
-1080p local content, HD audio: **[Odroid C4](https://www.hardkernel.com/shop/odroid-c4with2gbyteram/)** / [RPI 4 2GB](https://www.google.com/search?q=raspberry+pi+4+2gb&oq=raspberry+pi+4+2gb) ($50) + [OSMC remote](https://osmc.tv/store/product/osmc-remote-control/)  
+1080p local content, HD audio: **[Odroid C4](https://www.hardkernel.com/shop/odroid-c4with2gbyteram/)** + CoreElec / [RPI 4 2GB](https://www.google.com/search?q=raspberry+pi+4+2gb&oq=raspberry+pi+4+2gb) + LibreElec ($60). [OSMC remote](https://osmc.tv/store/product/osmc-remote-control/)  
 
 1080p local content + Web Browsing (minimal), Linux: **[Odroid C4](https://www.hardkernel.com/shop/odroid-c4with2gbyteram/)** / [ROCK64-4GB](https://pine64.com/product/rock64-4gb-single-board-computer/) ($50)  
 
