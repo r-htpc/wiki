@@ -507,7 +507,7 @@ Logitech Harmony One	|	Disc (1)	|	RF/BT/IR	|	Yes	|	No  | Int	|	IR Blaster, Hub
 [Sofabaton U2](https://sofabaton.com/products/u2) / [U2 BL](https://sofabaton.com/products/u2-backlit)		|	$60/$70	|	BT/IR		|	No/YES	|	No  | AA (30hr)	|	15 devices, macros, IR Learn, mobile app
 [Sofabaton X1](https://sofabaton.com/products/x1)		|	$130	|	BT/IR/WiFi	|	YES	| No  | 	Int	(60hr) |	60 devices, adv macros, hub, IR blaster, voice/alexa/google
 **[Pepper Jobs W10](https://www.pepper-jobs.com/products/w10-gyro-smart-remote)**		|	$30	|	RF/IR	|	YES	|	YES  | AAA	|	Mini keyboard, Air Mouse, IR Learn, Made for Windows, Linux ok
-**[OSMC Remote](https://osmc.tv/store/product/osmc-remote-control/)**		|	$20	|	RF		|	YES	|	No  | CR-2032	|	Good simple remote for Kodi
+**[OSMC Remote](https://osmc.tv/store/product/osmc-remote-control/)**		|	$20	|	RF		|	No	|	No  | CR-2032	|	Good simple remote for Kodi
 [8bitdo Media Remote](https://www.amazon.com/8Bitdo-Media-Remote-Xbox-One-Infrared/dp/B0BXSV78R6) |	$20	|	IR    |  YES  | No  | AAA | Use w/Flirc, **Motion-active** backlight
 [Skip 1s](https://flirc.tv/products/skip1s-remote-universal-remote-control)    | $45  | IR  | No | No  | AAA | Use w/Flirc, **Macros**, learning, mobile app
 [MCE](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw=mce+remote&_sacat=0) / [Inteset](https://www.amazon.com/Inteset-Universal-Backlit-Learning-Streamers/dp/B00M4I1BAY) Remote | $20-30 | IR | Some | No  |  AA/AAA | Use w/an included IR hub, Flirc USB adap, or HDMI-CEC. Good for Kodi/Plex
