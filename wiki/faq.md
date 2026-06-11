@@ -104,9 +104,9 @@ Cheap Emulation Gaming: EmuElec/Batocera + USED: >=
 
 Media Server: Used: [SFF/USFF PC - CPU >= i5-8x00T, 8GB RAM, SSD](https://www.ebay.com/sch/i.html?_nkw=%28hp%2Cdell%2Clenovo%29+%28i5-8400%2Ci5-8500%2Ci5-8600%2Ci7-8700%29+%28sff%2Cdt%2Cmt%2Cusff%2Cmicro%2Ctiny%2Cmini%29+ssd&_sacat=179&_from=R40&_fsrp=1&LH_BIN=1&_sop=15&_udhi=175&_blrs=recall_filtering) ($75) OR New: >= [N95 Mini PC](https://www.amazon.com/dp/B0CX14YPTN/ref=twister_B0DC6D6QP7?_encoding=UTF8&th=1) ($200)  
 
-Network Storage: [Storage Setup Guide](/wiki/storage)
+Complete recs: [Media Devices](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) / [HTPC Sample Builds/Pre-builts](/wiki/sample-builds)  
 
-Everything else: [Sample Builds/Pre-builts](/wiki/sample-builds)  
+Network Storage: [Storage Setup Guide](/wiki/storage)
 
 *HD Audio means Dolby TrueHD, DTS-HD, DTS:X, and/or Lossless version of Dolby Atmos*
 
