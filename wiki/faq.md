@@ -90,13 +90,13 @@ Streaming services + 4K local content, no HD audio: Fire TV 4K MAX stick ($55), 
 4K HDR10 local content + streaming services + Web Browsing (standard), Windows: Used: Intel i5 8th Gen [NUC (NUC8I5)](https://www.ebay.com/sch/i.html?_nkw=nuc+%288i5%2C8i7%29+-8260u+-8265u&_sacat=179&_from=R40&LH_TitleDesc=1&_sop=15&LH_PrefLoc=2&_blrs=recall_filtering) ($125) OR New: [Asus NUC 14 Essential](https://www.google.com/search?q=nuc+14+essential&oq=nuc+14+essential) ($225) Mini PC 
 
 Cheap Emulation Gaming: EmuElec/Batocera + USED: >= 
-[SFF/USFF PC - CPU >= i5-8500T, 8GB RAM, SSD](https://www.ebay.com/sch/i.html?_nkw=%28hp%2Cdell%2Clenovo%29+%28i5-8400%2Ci5-8500%2Ci5-8600%2Ci7-8700%29+%28sff%2Cdt%2Cmt%2Cusff%2Cmicro%2Ctiny%2Cmini%29+ssd&_sacat=179&_from=R40&_fsrp=1&LH_BIN=1&_sop=15&_udhi=175&_blrs=recall_filtering) ($75) or NEW: Odroid [N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ($80)
+[SFF/USFF PC - CPU >= i5-8500T, 8GB RAM, SSD](https://www.ebay.com/sch/i.html?_nkw=%28hp%2Cdell%2Clenovo%29+%28i5-8400%2Ci5-8500%2Ci5-8600%2Ci7-8700%29+%28sff%2Cdt%2Cmt%2Cusff%2Cmicro%2Ctiny%2Cmini%29+ssd&_sacat=179&_from=R40&_fsrp=1&LH_BIN=1&_sop=15&_udhi=175&_blrs=recall_filtering) ($75) or NEW: Odroid [N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ($80) + 8bitdo Ultimate 2C controller
 
 1080p Casual Gaming: [Beelink SER5 Max/EQR7 (7735HS) mini pc](https://www.amazon.com/Beelink-4-75GHz-Computer-Display-1000Mbps/dp/B0GFVMZYQJ/) ($300+)
 
 <!-- [Orange Pi 3 LTS 2GB](https://www.aliexpress.us/item/3256804341645667.html) -->
 
-1080p local content, HD audio: **[Odroid C4](https://www.hardkernel.com/shop/odroid-c4with2gbyteram/)** / [RPI 4 2GB](https://www.google.com/search?q=raspberry+pi+4+2gb&oq=raspberry+pi+4+2gb) ($50)  
+1080p local content, HD audio: **[Odroid C4](https://www.hardkernel.com/shop/odroid-c4with2gbyteram/)** / [RPI 4 2GB](https://www.google.com/search?q=raspberry+pi+4+2gb&oq=raspberry+pi+4+2gb) ($50) + [OSMC remote](https://osmc.tv/store/product/osmc-remote-control/)  
 
 1080p local content + Web Browsing (minimal), Linux: **[Odroid C4](https://www.hardkernel.com/shop/odroid-c4with2gbyteram/)** / [ROCK64-4GB](https://pine64.com/product/rock64-4gb-single-board-computer/) ($50)  
 
