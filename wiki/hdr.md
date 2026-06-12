@@ -587,7 +587,7 @@ Simple, HDR Passthrough or Tonemapping
    * Common settings above
    * Install [MPV](https://github.com/zhongfly/mpv-winbuild/releases) (mpv-x86_64-v3)
 * *MPV settings:*  
-   *  Create/Edit file: %APPDATA%\mpv\mpv.conf
+   *  Create/Edit file: %APPDATA%\mpv\mpv.conf (work by [Carlos](https://carlosfelic.io/misc/best-mpv-config-2026/))
      ````
      # GENERAL
      vo=gpu-next
@@ -618,7 +618,7 @@ Simple, HDR Passthrough or Tonemapping
      target-prim=bt.2020
      target-gamut=dci-p3
      target-contrast=inf
-     # CHANGE IF DISPLAY IS BETTER OR WORSE THAN THIS
+     # CHANGE IF DISPLAY'S PEAK IS MORE OR LESS CAPABLE THAN THIS. A LOWER NUMBER WILL BE BRIGHTER, BUT REDUCE HDR CAPABILITIES
      target-peak=800
      [HDR-HDR10-FALLBACK]
      profile-cond=(p["video-params/gamma"] == "pq" or p["video-params/gamma"] == "hlg") and (get("video-params/scene-max-r", 0) <= 0) and (get("video-params/scene-max-g", 0) <= 0) and (get("video-params/scene-max-b", 0) <= 0) and (get("current-tracks/video/dolby-vision-profile", 0) ~= 5) and (get("current-tracks/video/dolby-vision-profile", 0) ~= 7) and (get("current-tracks/video/dolby-vision-profile", 0) ~= 8) and (get("current-tracks/video/dolby-vision-profile", 0) ~= 9)
