@@ -579,7 +579,70 @@ Simple, HDR Passthrough or Tonemapping
 
 &nbsp;
 
-### **MPV (Linux) EXPERIMENTAL/DRAFT**
+### **MPV (Windows) (EXPERIMENTAL/DRAFT)**
+
+Simple, HDR Passthrough or Tonemapping  
+
+* *Requirements:*  
+   * Common settings above
+   * Install [MPV](https://github.com/zhongfly/mpv-winbuild/releases) (mpv-x86_64-v3)
+* *MPV settings:*  
+   *  Create/Edit file: %APPDATA%\mpv\mpv.conf
+     ````
+     # GENERAL
+     vo=gpu-next
+     gpu-api=d3d11
+     gpu-context=d3d11
+     hwdec=d3d11va
+     d3d11-output-format=rgb10_a2
+     # AUDIO
+     ao=wasapi
+     audio-exclusive=yes
+     audio-channels=7.1,5.1,stereo
+     audio-spdif=ac3,eac3,dts,dts-hd,truehd
+     # VIDEO
+     video-sync=audio
+     dither-depth=10
+     target-colorspace-hint=auto
+     deband=yes
+     # HDR
+     [HDR]
+     profile-cond=p["video-params/gamma"] == "pq" or p["video-params/gamma"] == "hlg"
+     profile-restore=copy
+     gamut-mapping-mode=perceptual
+     hdr-peak-percentile=99.995
+     hdr-contrast-recovery=0.30
+     target-colorspace-hint=yes
+     target-colorspace-hint-mode=source-dynamic
+     target-trc=pq
+     target-prim=bt.2020
+     target-gamut=dci-p3
+     target-contrast=inf
+     # CHANGE IF DISPLAY IS BETTER OR WORSE THAN THIS
+     target-peak=800
+     [HDR-HDR10-FALLBACK]
+     profile-cond=(p["video-params/gamma"] == "pq" or p["video-params/gamma"] == "hlg") and (get("video-params/scene-max-r", 0) <= 0) and (get("video-params/scene-max-g", 0) <= 0) and (get("video-params/scene-max-b", 0) <= 0) and (get("current-tracks/video/dolby-vision-profile", 0) ~= 5) and (get("current-tracks/video/dolby-vision-profile", 0) ~= 7) and (get("current-tracks/video/dolby-vision-profile", 0) ~= 8) and (get("current-tracks/video/dolby-vision-profile", 0) ~= 9)
+     profile-restore=copy
+     hdr-compute-peak=yes
+     [HDR-DV]
+     profile-cond=(get("current-tracks/video/dolby-vision-profile", 0) == 5) or (get("current-tracks/video/dolby-vision-profile", 0) == 7) or (get("current-tracks/video/dolby-vision-profile", 0) == 8) or (get("current-tracks/video/dolby-vision-profile", 0) == 9)
+     profile-restore=copy
+     hdr-compute-peak=no
+     [HDR-HDR10PLUS]
+     profile-cond=(get("video-params/scene-max-r", 0) > 0) or (get("video-params/scene-max-g", 0) > 0) or (get("video-params/scene-max-b", 0) > 0)
+     profile-restore=copy
+     tone-mapping=st2094-40
+     hdr-compute-peak=no
+     #
+     fullscreen=yes
+     ````
+* *Test*
+  * *MPV app*  
+    * Play a [test HDR video](/wiki/hdr#hdr-tests). [If the colors in your video are washed out](https://i.imgur.com/AD6lOIS.jpg), either you don't have proper hardware support for HDR, aren't using HDMI 2.x ports, or don't have TV deep color configured.
+
+&nbsp;
+
+### **MPV (Linux) (EXPERIMENTAL/DRAFT)**
 
 Simple, HDR Passthrough or Tonemapping  
 
@@ -784,5 +847,5 @@ Do one or more of the following..
 
 ---
 
-*This page was last updated on 2026-03-12*
+*This page was last updated on 2026-06-11*
 
