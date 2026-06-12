@@ -52,7 +52,7 @@ keywords: [hdr, hdr10, madvr, mpc, tonemapping, kodi, plex, upscaling]
         * Display -> General -> Display Settings
           * Resolution: 3840x2160  
           * Refresh: 24/30/60Hz  
-        * Display -> Genenal / Display -> Color/Color Settings  
+        * Display -> General / Display -> Color/Color Settings  
           * Color Depth: BPC_8 (HDMI 2.0), BPC_10 (HDMI 2.1) / Highest (32-bit)
           * Color Format: [RGB](/wiki/video#setup-for-color-reproduction) 
         * Video -> Color Enhancement -> Input Range -> Driver Settings -> [Full Range](/wiki/video#setup-for-color-reproduction)  
