@@ -656,7 +656,6 @@ Simple, HDR Passthrough or Tonemapping
 * *MPV settings:*  
    *  Create/Edit file: ~/snap/mpv/current/.config/mpv/mpv.conf
       * Add:  
-     `fullscreen=yes`<br>
      `# UPSCALING/DOWNSCALING - good balance - uncomment if you have a good igpu/dgpu`<br>
      `#profile=gpu-hq`<br>
      `[HDR]`<br>
@@ -666,8 +665,8 @@ Simple, HDR Passthrough or Tonemapping
      `target-colorspace-hint=yes`<br>
      `target-trc=pq`<br>
      `target-prim=dci-p3`<br>
-     `fullscreen=yes`<br>
      `dolbyvision=no`<br>
+     `fullscreen=yes`<br>
      <!--
      MISC
      `target-contrast=inf ##inf is for OLED, for LCD get the contrast value from rtings or similar`<br>
