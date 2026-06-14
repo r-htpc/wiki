@@ -113,7 +113,7 @@ QNAP	|	TS-264				|	2	|	$425	|	4k (1a)			|	x64 (Celeron N5095) 2.0GHz		|		4125	|	
 BRAND		|	MODEL				|	DRIVES	|COST	|	TRANSCODING		|	CPU								|	PASSMARK	|	PM/$|	RAID MODES	| NOTES
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--
 Terramaster	|	F4-424 Pro				|	4	|	$700	|	4k (0a)	|	x64 (i3-N305) 3.8 Ghz	|		10060	|	14.37	|RAID 0/1/5/6/10,JBOD,Single|ext4/btrfs, 32GB RAM, 2x2.5 Gb/s
-**UGREEN**	|	**DXP4800**				|	4	|	$470	|	4k (0a)	|	x64 (Celeron N100) 3.4 Ghz	|		5400	|	11.49	|RAID 0/1/5/6/10,JBOD,Single|ext4/btrfs, 8GB RAM, 2x2.5 Gb/s
+**Lincstation**	|	**[S1](https://store.lincplustech.com/products/lincstation-s1-network-attached-storage)**				|	4	|	$460	|	4k (0a)	|	x64 (Celeron N97) 3.6 Ghz	|		5828	|	12.67	|RAID 0/1/5/6/10,JBOD,Single|xfs/btrfs, 8GB RAM, 2x2.5 Gb/s, Unraid
 **Terramaster**		|	**[F4-423](https://www.terra-master.com/us/f4-4607.html)**				|	4	|	$370	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094	|	 11.0	|RAID 0/1/5/6/10, JBOD, Single|ext4/btrfs, 4GB RAM , 2.5 Gb/s
 **Terramaster**	|	**F4-424**				|	4	|	$500	|	4k (1a)	|	x64 (Celeron N95) 3.4 Ghz	|		5419	|	10.83	|RAID 0/1/5/6/10,JBOD,Single|ext4/btrfs, 8GB RAM, 2x2.5 Gb/s
 Terramaster	|	[F6-424](https://www.terra-master.com/us/products/homesoho-nas/f6-424.html?page=menu&mid=1588)				|	6	|	$600	|	4k (1a)	|	x64 (Celeron N95) 3.4 Ghz	|		5419	|	9.03	|RAID 0/1/5/6/10,JBOD,Single|ext4/btrfs, 8GB RAM, 2x2.5 Gb/s
@@ -157,6 +157,7 @@ Transcoding = Plex transcoding ability, referenced in [plex's transcoding spread
 Terramaster	|	F2-423				|	2	|	$280	|	4k (1a)	|	x64 (Celeron N5105) 2.0 Ghz	|		4094	|	14.6	|RAID 0/1,JBOD,Single|4GB RAM, 2.5 Gb/s
 QNAP		|	TS-453D-4G				|	4	|	$500	|	Some/4k (1b)			|	x64 (Celeron J4125) 2.0 GHz		|		3035	|	6.07	|RAID 0/1/5/6/10,JBOD,Single|ext4, 4GB RAM
 Terramaster	|	F2-223				|	2	|	$260	|	Some/4k (1b)	|	x64 (Celeron N4505)	|		2241	|	8.62	|RAID 0/1,JBOD,Single|4GB RAM, 2x2.5 Gb/s
+**UGREEN**	|	**DXP4800**				|	4	|	$470	|	4k (0a)	|	x64 (Celeron N100) 3.4 Ghz	|		5400	|	11.49	|RAID 0/1/5/6/10,JBOD,Single|ext4/btrfs, 8GB RAM, 2x2.5 Gb/s
 -->
 
 ### Ad-Hoc  
