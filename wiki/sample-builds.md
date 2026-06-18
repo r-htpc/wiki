@@ -45,7 +45,7 @@ Some of these are: **Intel (NUC), [Lenovo (ThinkCentre/IdeaCentre)](https://www.
 
 <!-- [Orange Pi 3](https://www.aliexpress.us/item/3256804341645667.html) -->
 
- $35-$55: SMALLEST: SBC: (Coreelec/Libreelec only): [ROCK64-2GB](https://pine64.com/product/rock64-2gb-single-board-computer/) / [RPI 4 2GB](https://www.seeedstudio.com/Raspberry-Pi-4-Computer-Model-B-2GB-V1-2-p-4299.html) / [Odroid C5](https://www.hardkernel.com/shop/odroid-c5/). Just good enough for local content, small and cheap.  
+ $35-$65: SMALLEST: SBC: (Coreelec/Libreelec only): [ROCK64-2GB](https://pine64.com/product/rock64-2gb-single-board-computer/) / [RPI 4 2GB](https://www.seeedstudio.com/Raspberry-Pi-4-Computer-Model-B-2GB-V1-2-p-4299.html) / [Odroid C5](https://www.hardkernel.com/shop/odroid-c5/). Just good enough for local content, small and cheap.  
 
  $80-100: SMALL/MEDIUM: Used: HP/Dell/Lenovo - Intel - i3/i5-8100T/8400T/8500T, >= 8GB RAM, >= 120GB disk. [[Ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28hp%2Cdell%2Clenovo%29+%28i3-8100%2Ci5-8400%2Ci5-8500%29&_sacat=179&LH_TitleDesc=0&LH_BIN=1&_sop=15&_udhi=150&_blrs=recall_filtering)]  
 
@@ -62,11 +62,11 @@ Some of these are: **Intel (NUC), [Lenovo (ThinkCentre/IdeaCentre)](https://www.
 **TL;DR: A $300+ option is ideal, if new. If you're on a budget, then an Intel [N95](https://www.amazon.com/s?k=intel+n95+pc&rh=n%3A13896591011&ref=nb_sb_noss) for the bare minimum ($200+). A used Optiplex or ThinkCentre is a great option . For reliability/support, choose a name brand option (Asus/MSI/Lenovo/Dell)**  
 **If you're looking for 4K Netflix/HDCP support, look at [name brand options](/wiki/sample-builds#specialized-4k-netflix)**
 
-$55-$80: SMALLEST: SBC: w/**CoreELEC** OS, 32GB MicroSD, AC Adapter 
+$65-$85: SMALLEST: SBC: w/**CoreELEC** OS, 32GB MicroSD, AC Adapter 
 
  - *Used for:* H264/H265, VP9, HDR10+ **local** content, Kodi-based interface, ext. storage, lowest power 
-   - [Odroid C5](https://www.hardkernel.com/shop/odroid-c5/) ($55) 
-   - **[Odroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ($80)** 
+   - [Odroid C5](https://www.hardkernel.com/shop/odroid-c5/) ($65) 
+   - **[Odroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ($85)** 
 
 <!-- Optiplex [3000-7000](https://www.ebay.com/sch/i.html?_nkw=%28optiplex+3000%29+%28i3%2Ci5%2Ci7%29&_sacat=171957&_from=R40&_trksid=m570.l1313&_odkw=%28optiplex+3000%29+%28i3%2Ci5%2Ci7%29+%28sff%2Cmt%29&_osacat=171957&LH_BIN=1&_sop=15&LH_PrefLoc=2) + [HDMI 2.0 card](https://www.dell.com/en-us/shop/dell-daughterboard-i-o-hdmi-card/apd/3v9n2/controller-cards) ($300+) -->
 
