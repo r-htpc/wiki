@@ -59,7 +59,7 @@ Some of these are: **Intel (NUC), [Lenovo (ThinkCentre/IdeaCentre)](https://www.
 
 ### 4K HDR PLAYERS
 
-**TL;DR: A $300+ option is ideal, if new. If you're on a budget, then an Intel [N150](https://www.amazon.com/s?k=intel+n95+pc&rh=n%3A13896591011&ref=nb_sb_noss) for the bare minimum ($200+). A used Optiplex or ThinkCentre is a great option . For reliability/support, choose a name brand option (Asus/MSI/Lenovo/Dell)**  
+**TL;DR: A $300+ option is ideal, if new. If you're on a budget, then an Intel [N95](https://www.amazon.com/s?k=intel+n95+pc&rh=n%3A13896591011&ref=nb_sb_noss) for the bare minimum ($200+). A used Optiplex or ThinkCentre is a great option . For reliability/support, choose a name brand option (Asus/MSI/Lenovo/Dell)**  
 **If you're looking for 4K Netflix/HDCP support, look at [name brand options](/wiki/sample-builds#specialized-4k-netflix)**
 
 $55-$80: SMALLEST: SBC: w/**CoreELEC** OS, 32GB MicroSD, AC Adapter 
@@ -76,7 +76,7 @@ $150-$400: SMALLER: Intel/AMD Mini PC, 8GB+ RAM, 256GB+ SSD
 - *Used for:* H264/H265, VP9, AV1, local content, HDR10, 4k YT, 4k Netflix **([name brand options](/wiki/sample-builds#specialized-4k-netflix))**, browsing, **ssd** storage (int), lower power.
   - Intel: USED: [Dell Optiplex 3000-7000](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%28optiplex+3000%29+%28i3%2Ci5%2Ci7%29&_sacat=171957&_odkw=%28optiplex%29+%283000%29+%28i3%2Ci5%2Ci7%29&_osacat=171957&LH_BIN=1&_sop=15&LH_PrefLoc=2) (**AV1**) + [HDMI 2.0 card](https://www.dell.com/en-us/shop/dell-daughterboard-i-o-hdmi-card/apd/cpx-3v9n2/controller-cards) ($250+) / [xx60-xx90](https://www.ebay.com/sch/i.html?_nkw=%28optiplex%29+%283060%2C3070%2C3080%2C5060%2C5070%2C5080%2C7060%2C7070%2C7080%29+%28i3-8100%2Ci3-9100%2Ci3-10100%2Ci5-8400%2C8500%2Ci5-8600%2Ci5-9400%2C9500%2C9600%29&_sacat=179&_from=R40&_trksid=m570.l1313&_fsrp=1&_blrs=recall_filtering&rt=nc&_odkw=%28optiplex%29+%283060%2C3070%2C3080%2C5060%2C5070%2C5080%2C7060%2C7070%2C7080%29+%28i3-8100%2Ci3-9100%2Ci3-10100%2Ci5-8400%2C8500%2Ci5-8600%2Ci5-9400%2C9500%2C9600%29+%28sff%2Cmt%29&_osacat=179&LH_BIN=1&_sop=15&LH_ItemCondition=3000%7C2030%7C2020%7C1500%7C1000%7C2010) (**no AV1**) + [HDMI 2.0 card](https://www.ebay.com/sch/i.html?_from=R40&_nkw=dell+hdmi+2.0+%28HXPK2%2C1KNYY%2CR07CP%2C5N1NY%29&_sacat=0&_sop=12) ($100+) 
   - Intel: [GMKtec G3 S](https://www.amazon.com/GMKtec-Computer-Business-Ethernet-G3S/dp/B0GD7NRS93) (N95) ($200+)
-  - **Intel: USED: Lenovo ThinkCentre [Neo Gen 3+](https://www.ebay.com/sch/i.html?_nkw=lenovo+neo+-50a+-30a+-celeron+-pentium&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=lenovo+neo+-50a+-30a&_osacat=179&_sop=15) / [M70q Gen 3+](https://www.ebay.com/sch/i.html?_nkw=lenovo+m70q+%2812100%2C12300%2C12400%2C12500%2C12600%2C12700%2C12900%2C13100%2C13400%2C13500%2C13600%2C13700%29&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=lenovo+m70q+%2812100%2C12300%2C12400%2C12500%2C12600%2C12700%2C12900%2C13100%2C13300%2C13400%2C13500%2C13600%2C13700%2C13900%29&_osacat=179&_sop=15) ($300+)**
+  - **Intel: USED: Lenovo ThinkCentre [Neo Gen 3+](https://www.ebay.com/sch/i.html?_nkw=lenovo+neo+-50a+-30a+-celeron+-pentium&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=lenovo+neo+-50a+-30a&_osacat=179&_sop=15) / [M70q Gen 3+](https://www.ebay.com/sch/i.html?_nkw=lenovo+m70q+%2812100%2C12300%2C12400%2C12500%2C12600%2C12700%2C12900%2C13100%2C13400%2C13500%2C13600%2C13700%29&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=lenovo+m70q+%2812100%2C12300%2C12400%2C12500%2C12600%2C12700%2C12900%2C13100%2C13300%2C13400%2C13500%2C13600%2C13700%2C13900%29&_osacat=179&_sop=15) ($250+)**
   - **AMD: [GMKTec NucBox M8](https://www.gmktec.com/products/gmktec-m8-amd-ryzen-5-pro-6650h-mini-pc?spm=..product_4ab503e5-bb5b-4d4b-9952-36de613b5e59.header_1.1&spm_prev=..product_c7f93fd8-490e-41ae-bb4a-b29b63d14794.header_1.1) (6650H) ($360)** 
   - Intel: [Asus NUC 15 Pro](https://www.amazon.com/s?k=nuc+15+pro&i=electronics&s=price-asc-rank&crid=28E5CFCHJSEC7&qid=1777851603&sprefix=nuc+1+pro%2Celectronics%2C191&ref=sr_st_price-asc-rank&ds=v1%3ARUBRqD8%2FXuWkTMYzYJ0DtfosCKz9J%2BgcpbJch3H9Cu8) ($375+[RAM](https://pcpartpicker.com/products/memory/#xcx=0&Z=8192001,16384001,16384002,32768002&ff=ddr5_sodimm&sort=price&m=11,17,23,462,28,29,30,31,32,444,341)+[SSD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&t=0&D=1&A=240000000000,1000000000000&sort=price&page=1))  
   - AMD: [Minisforum UM690L](https://www.amazon.com/MINISFORUM-UM690-Slim-PCIe4-0-Computer/dp/B0F386YJSS/?th=1) (6900HX) ($400)
@@ -970,5 +970,5 @@ TOTAL		|											|$801			|	|
 
 ---
  
-*This page was last updated on 2026-06-08*
+*This page was last updated on 2026-06-18*
 
