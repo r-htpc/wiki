@@ -884,8 +884,8 @@ MOBO	|	ASRock B550M-ITX/ac				|	$80	|[pcpartpicker](https://pcpartpicker.com/pro
 MEM	|	Corsair Vengeance 16GB 2x8GB DDR4-3200	|	$100	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr4&S=2933,3733&Z=16384002,32768002&sort=price)	|ALT: 32 GB 2x16GB ($170)
 STORAGE	|	WD SN5000 1TB M.2 (OS/GAMES)	|	$80	| [pcpartpicker](https://pcpartpicker.com/product/JFjRsY/western-digital-wd-blue-sn5000-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds100t4b0e)	| ALT: WD SN7100 1TB M.2 (OS/GAMES)
 PSU	|	ASRock Steel Legend SL-650G 650W ATX	|	$70	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=1&e=4,2&p=1,3,2&sort=price&m=1,52,7,8,337,50,11,14,106,101,17,18,763,62,824,27,94,229,51,71,63,441,113,56,39)	| ALT: ML-07: [SFX Semi/Full-Modular](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&p=1,3,2&A=550000000000,2050000000000&sort=price&e=5,4,2)
-COOL		|Thermalright AXP90-X53 CPU Cooler, 53mm			|	$25		|[pcpartpicker](https://pcpartpicker.com/product/3g7G3C/thermalright-axp90-x53-4258-cfm-cpu-cooler-axp90-x53)	|ALT: [Thermalright AIO](https://pcpartpicker.com/product/hTqrxr/thermalright-aqua-elite-v3-6617-cfm-liquid-cpu-cooler-aqua-elite-120-v3) *ML-07*: [AXP120-X67](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=66500000,72600000&sort=price&m=113)
-TOTAL	|						|	**$870**	|	
+COOL		|Thermalright AXP90-X53 CPU Cooler, 53mm			|	$25		|[pcpartpicker](https://pcpartpicker.com/product/3g7G3C/thermalright-axp90-x53-4258-cfm-cpu-cooler-axp90-x53)	|OPT: ALT: [Thermalright AIO](https://pcpartpicker.com/product/hTqrxr/thermalright-aqua-elite-v3-6617-cfm-liquid-cpu-cooler-aqua-elite-120-v3) *ML-07*: [AXP120-X67](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=66500000,72600000&sort=price&m=113)
+TOTAL	|						|	**$865**	|	
 
 <!-- Sub-Section -->
 
