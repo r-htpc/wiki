@@ -504,8 +504,8 @@ If you want built-in macro support and can't afford the Sofabatons, look at a Sk
 REMOTE			|	PRICE	|	INT		|	BACKLIT	|	POINT | BATTERY	|	NOTES
 :--|:--|:--|:--|:--|:--|:--|
 Logitech Harmony One	|	Disc (1)	|	RF/BT/IR	|	Yes	|	No  | Int	|	IR Blaster, Hub
-[Sofabaton U2](https://sofabaton.com/products/u2) / [U2 BL](https://sofabaton.com/products/u2-backlit)		|	$60/$70	|	BT/IR		|	No/YES	|	No  | AA (30hr)	|	15 devices, macros, IR Learn, mobile app
-[Sofabaton X1](https://sofabaton.com/products/x1)		|	$130	|	BT/IR/WiFi	|	YES	| No  | 	Int	(60hr) |	60 devices, adv macros, hub, IR blaster, voice/alexa/google
+[Sofabaton U2](https://sofabaton.com/products/u2) / [U2 BL](https://sofabaton.com/products/u2-backlit)		|	[$60](https://www.amazon.com/SofaBaton-Universal-Customizable-Compatible-Streaming/dp/B0BY8P1HZM)/[$70](https://www.amazon.com/SofaBaton-U2-Universal-Backlight-Customized/dp/B0DQSJN72G)	|	BT/IR		|	No/YES	|	No  | AA (30hr)	|	15 devices, macros, IR Learn, mobile app
+[Sofabaton X1S](https://sofabaton.com/products/x1s)		|	[$150](https://www.amazon.com/SofaBaton-X1S-Universal-Customize-Activities/dp/B0CTGX2LCY)	|	BT/IR/WiFi	|	YES	| No  | 	Int	(60hr) |	60 devices, adv macros, hub, IR blaster, voice/alexa/google
 **[Pepper Jobs W10](https://www.pepper-jobs.com/products/w10-gyro-smart-remote)**		|	$30	|	RF/IR	|	YES	|	YES  | AAA	|	Mini keyboard, Air Mouse, IR Learn, Made for Windows, Linux ok
 **[OSMC Remote](https://osmc.tv/store/product/osmc-remote-control/)**		|	$20	|	RF		|	No	|	No  | CR-2032	|	Good simple remote for Kodi
 [8bitdo](https://www.amazon.com/8Bitdo-Media-Remote-Xbox-One-Infrared/dp/B0BXSV78R6) / [Xbox](https://www.ebay.com/sch/i.html?_nkw=xbox+remote+1577) Media Remote |	$20	|	IR    |  YES  | No  | AAA | Use w/Flirc or over CEC, **Motion-active** backlight
