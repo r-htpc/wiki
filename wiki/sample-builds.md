@@ -873,7 +873,7 @@ TOTAL			|															|	**$237**	|			|
 
 This is a straight up gaming build for 1080p with High settings, averaging about 80+ fps which is good for a 120 Hz TV.  
 Use Windows w/PlayNite or Bazzite for your OS. Use a [8bitdo Ultimate 2c](https://www.amazon.com/dp/B0DB4LXDP7) controller w/[Controller Companion](https://store.steampowered.com/app/367670/Controller_Companion/)  
-If you want a low profile case or support longer gpus, look at the ALT: config with a Silverstone ML-07 case instead.  
+If you want a low profile case or support longer gpus, look at the ALT: config with a Silverstone ML-07/08 or RVZ case instead.  
 
 PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
 :--|:--|:--|:--|:--
@@ -898,7 +898,7 @@ If you want to use cheaper DDR4 memory, look at a Intel 12600KF based system.
 
 PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
 :--|:--|:--|:--|:--
-CASE	|	Silverstone Milo Z/ML-07		|	$110	|[pcpartpicker](https://pcpartpicker.com/product/MtV48d/silverstone-case-ml07b)	|15" (W)x4.1" (H)x13.8" (D). ALT: Silverstone GD-11 (6.9" (H), 30L)
+CASE	|	Silverstone ML-07/08/RVZ		|	$110	|[pcpartpicker](https://pcpartpicker.com/product/MtV48d/silverstone-case-ml07b)	|15" (W)x4.1" (H)x13.8" (D). ALT: Silverstone GD-11 (6.9" (H), 30L)
 CPU	|	AMD Ryzen 7600X	    	    	|	$160	|[pcpartpicker](https://pcpartpicker.com/product/66C48d/amd-ryzen-5-7600x-47-ghz-6-core-processor-100-100000593wof)	|ALT: AMD Ryzen 7700X
 GPU	|	AMD RX 9060 XT 16GB				|	$370	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&sort=price&c=596&P=17179869184,51539607552)	|ALT: AMD RX 9070 16GB
 MOBO	|	ASRock B650I Lightning Wifi ITX		|	$170	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&sort=price&s=41)	|ALT: GD-11: Gigabyte B650 GAMING X AX ATX
