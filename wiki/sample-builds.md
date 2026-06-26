@@ -894,7 +894,7 @@ TOTAL	|						|	**$895**	|
 This is a straight up gaming build for 1440p with High settings, averaging about 80+ fps which is good for a 120 Hz TV.  
 Use Windows w/PlayNite or Bazzite for your OS. Use a [8bitdo Ultimate 2c](https://www.amazon.com/dp/B0DB4LXDP7) controller w/[Controller Companion](https://store.steampowered.com/app/367670/Controller_Companion/)  
 It's low profile so is good for a media cabinet. If you can handle more height or want to beef up the perf, look at the ALT: notes.  
-If you want to use cheaper DDR4 memory, look at a Intel 12600KF based system. 
+If you want to use cheaper DDR4 memory to save money, look at an Intel 12/13th/14th gen cpu/mobo, >= i5-12600KF 
 
 PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
 :--|:--|:--|:--|:--
@@ -902,12 +902,12 @@ CASE	|	Silverstone ML-07/08/RVZ		|	$110	|[pcpartpicker](https://pcpartpicker.com
 CPU	|	AMD Ryzen 7600X	    	    	|	$160	|[pcpartpicker](https://pcpartpicker.com/product/66C48d/amd-ryzen-5-7600x-47-ghz-6-core-processor-100-100000593wof)	|ALT: AMD Ryzen 7700X
 GPU	|	AMD RX 9060 XT 16GB				|	$370	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&sort=price&c=596&P=17179869184,51539607552)	|ALT: AMD RX 9070 16GB
 MOBO	|	ASRock B650I Lightning Wifi ITX		|	$170	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&sort=price&s=41)	|ALT: GD-11: Gigabyte B650 GAMING X AX ATX
-MEM	|	Crucial Pro 32GB 2x16GB DDR5-6000	|	$260	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr5&Z=32768002&sort=price&S=5200,8400)	|ALT: G.Skill Flare X5 2x16GB 32GB DDR5-6000
+MEM	|	Crucial Pro 32GB 2x16GB DDR5-6000	|	$310	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr5&Z=32768002&sort=price&S=5200,8400)	|ALT: Patriot Viper **1x16GB** DDR5-6000 ($190)
 STORAGE	|	Samsung 980 500GB M.2 (OS)	|	$70	|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#D=1&A=480000000000,36000000000000&sort=price&page=1)	|ALT: WD SN7100 1TB M.2 (OS)
-STORAGE	|	MSI Spatium 2TB M.2 (GAMES)	|	$120	|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#D=1&A=1920000000000,36000000000000&sort=price&page=1)	|
+STORAGE	|	MSI Spatium 2TB M.2 (GAMES)	|	$170	|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#D=1&A=1920000000000,36000000000000&sort=price&page=1)	|
 PSU	|	Cooler Master V 750W SFX		|	$110	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&p=1,3,2&A=550000000000,2050000000000&sort=price&e=5,4,2)	|ALT: GD-11: Corsair RM750e ATX
-COOL	|	Thermalright AXP120-X67	CPU Cooler	|	$35	|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,82000000&c=33,41&sort=price&page=1)	|ALT: GD-11: Peerless Assassin Mini (Air) / Arctic Liquid Freezer II 240 (AIO)
-TOTAL	|						|	**$1400**	|	
+COOL	|	Thermalright AXP120-X67	CPU Cooler	|	$30	|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,82000000&c=33,41&sort=price&page=1)	|ALT: GD-11: Peerless Assassin Mini (Air) / Arctic Liquid Freezer II 240 (AIO)
+TOTAL	|						|	**$1500**	|	
 
 <!-- Section -->
 
