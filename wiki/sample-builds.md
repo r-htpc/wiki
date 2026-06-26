@@ -877,13 +877,13 @@ If you want a low profile case or support longer gpus, look at the ALT: config w
 
 PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
 :--|:--|:--|:--|:--
-CASE		|Silverstone SG13b					|$70	|[pcpartpicker](https://pcpartpicker.com/product/WG2bt6/silverstone-sg13-v2-mini-itx-tower-case-sg13b-usa)	|8.74" (W) x 11.22" (D) x 7.13" (H), [specs](https://www.silverstonetek.com/en/product/info/computer-chassis/SG13/). ALT: Silverstone ML-07
-CPU	|	Ryzen 5600 (65W)				|	$145	|[pcpartpicker](https://pcpartpicker.com/product/PgcG3C/amd-ryzen-5-5600-36-ghz-6-core-processor-100-100000927box)	|ALT: ML-07: AMD Ryzen 5800XT
-GPU	|	AMD RX 9060 XT 8GB			|	$320	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&sort=price&c=596)	|<= 270 mm (L). ALT: RTX 5060 8GB
+CASE		|Silverstone **SG13B**					|$70	|[pcpartpicker](https://pcpartpicker.com/product/WG2bt6/silverstone-sg13-v2-mini-itx-tower-case-sg13b-usa)	|8.74" (W) x 11.22" (D) x 7.13" (H), [specs](https://www.silverstonetek.com/en/product/info/computer-chassis/SG13/). ALT: Silverstone ML-07
+CPU	|	Ryzen **5600** (65W)				|	$145	|[pcpartpicker](https://pcpartpicker.com/product/PgcG3C/amd-ryzen-5-5600-36-ghz-6-core-processor-100-100000927box)	|ALT: ML-07: AMD Ryzen 5800XT
+GPU	|	AMD RX **9060 XT 8GB**			|	$320	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&sort=price&c=596)	|<= 270 mm (L). ALT: RTX 5060 8GB
 MOBO	|	ASRock B550M-ITX/ac				|	$80	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#s=33&f=8&sort=price&page=1)	|ALT: ML-07: ASRock B550M-ITX/ac
-MEM	|	Corsair Vengeance 16GB 2x8GB DDR4-3200	|	$100	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr4&S=2933,3733&Z=16384002,32768002&sort=price)	|ALT: 32 GB 2x16GB ($170)
-STORAGE	|	Patriot Pxxx 1TB M.2 (OS/GAMES)	|	$110	| [pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#D=1&A=960000000000,36000000000000&sort=price&page=1)	| ALT: MSI Spatium 1TB M.2 (OS/GAMES)
-PSU	|	ASRock Steel Legend SL-650G 650W ATX	|	$70	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=1&e=4,2&p=1,3,2&sort=price&m=1,52,7,8,337,50,11,14,106,101,17,18,763,62,824,27,94,229,51,71,63,441,113,56,39)	| ALT: ML-07: [SFX Semi/Full-Modular](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&p=1,3,2&A=550000000000,2050000000000&sort=price&e=5,4,2)
+MEM	|	Corsair Vengeance **16GB** 2x8GB DDR4-3200	|	$100	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr4&S=2933,3733&Z=16384002,32768002&sort=price)	|ALT: 32 GB 2x16GB ($170)
+STORAGE	|	Patriot Pxxx **1TB** M.2 (OS/GAMES)	|	$110	| [pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#D=1&A=960000000000,36000000000000&sort=price&page=1)	| ALT: MSI Spatium 1TB M.2 (OS/GAMES)
+PSU	|	ASRock Steel Legend SL-650G **650W** ATX	|	$70	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=1&e=4,2&p=1,3,2&sort=price&m=1,52,7,8,337,50,11,14,106,101,17,18,763,62,824,27,94,229,51,71,63,441,113,56,39)	| ALT: ML-07: [SFX Semi/Full-Modular](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&p=1,3,2&A=550000000000,2050000000000&sort=price&e=5,4,2)
 COOL		|Thermalright AXP90-X53 CPU Cooler, 53mm			|	$25		|[pcpartpicker](https://pcpartpicker.com/product/3g7G3C/thermalright-axp90-x53-4258-cfm-cpu-cooler-axp90-x53)	|OPTIONAL. ALT: [Thermaltake AIO](https://pcpartpicker.com/products/cpu-cooler/#c=33&W=10120&sort=price) *ML-07*: [AXP120-X67](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=66500000,72600000&sort=price&m=113)
 TOTAL	|						|	**$895**	|	
 
@@ -898,14 +898,14 @@ If you want to use cheaper DDR4 memory to save money, look at an Intel 12/13th/1
 
 PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
 :--|:--|:--|:--|:--
-CASE	|	Silverstone ML-07/08/RVZ		|	$110	|[pcpartpicker](https://pcpartpicker.com/product/MtV48d/silverstone-case-ml07b)	|15" (W)x4.1" (H)x13.8" (D). ALT: Silverstone GD-11 (6.9" (H), 30L)
-CPU	|	AMD Ryzen 7600X	    	    	|	$160	|[pcpartpicker](https://pcpartpicker.com/product/66C48d/amd-ryzen-5-7600x-47-ghz-6-core-processor-100-100000593wof)	|ALT: AMD Ryzen 7700X
-GPU	|	AMD RX 9060 XT 16GB				|	$370	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&sort=price&c=596&P=17179869184,51539607552)	|ALT: AMD RX 9070 16GB
+CASE	|	Silverstone **ML-07**/08/RVZ		|	$110	|[pcpartpicker](https://pcpartpicker.com/product/MtV48d/silverstone-case-ml07b)	|15" (W)x4.1" (H)x13.8" (D). ALT: Silverstone GD-11 (6.9" (H), 30L)
+CPU	|	AMD Ryzen **7600X**	    	    	|	$160	|[pcpartpicker](https://pcpartpicker.com/product/66C48d/amd-ryzen-5-7600x-47-ghz-6-core-processor-100-100000593wof)	|ALT: AMD Ryzen 7700X
+GPU	|	AMD RX **9060 XT 16GB**				|	$370	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&sort=price&c=596&P=17179869184,51539607552)	|ALT: AMD RX 9070 16GB
 MOBO	|	ASRock B650I Lightning Wifi ITX		|	$170	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&sort=price&s=41)	|ALT: GD-11: Gigabyte B650 GAMING X AX ATX
-MEM	|	Crucial Pro 32GB 2x16GB DDR5-6000	|	$310	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr5&Z=32768002&sort=price&S=5200,8400)	|ALT: Patriot Viper **1x16GB** DDR5-6000 ($190)
-STORAGE	|	Samsung 980 500GB M.2 (OS)	|	$70	|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#D=1&A=480000000000,36000000000000&sort=price&page=1)	|ALT: WD SN7100 1TB M.2 (OS)
-STORAGE	|	MSI Spatium 2TB M.2 (GAMES)	|	$170	|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#D=1&A=1920000000000,36000000000000&sort=price&page=1)	|
-PSU	|	Cooler Master V 750W SFX		|	$110	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&p=1,3,2&A=550000000000,2050000000000&sort=price&e=5,4,2)	|ALT: GD-11: Corsair RM750e ATX
+MEM	|	Crucial Pro **32GB** 2x16GB DDR5-6000	|	$310	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr5&Z=32768002&sort=price&S=5200,8400)	|ALT: Patriot Viper 1x16GB **16GB** DDR5-6000 ($190)
+STORAGE	|	Samsung 980 **500GB** M.2 (OS)	|	$70	|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#D=1&A=480000000000,36000000000000&sort=price&page=1)	|ALT: WD SN7100 1TB M.2 (OS)
+STORAGE	|	MSI Spatium **2TB** M.2 (GAMES)	|	$170	|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#D=1&A=1920000000000,36000000000000&sort=price&page=1)	|
+PSU	|	Cooler Master V **750W** SFX		|	$110	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&p=1,3,2&A=550000000000,2050000000000&sort=price&e=5,4,2)	|ALT: GD-11: Corsair RM750e ATX
 COOL	|	Thermalright AXP120-X67	CPU Cooler	|	$30	|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,82000000&c=33,41&sort=price&page=1)	|ALT: GD-11: Peerless Assassin Mini (Air) / Arctic Liquid Freezer II 240 (AIO)
 TOTAL	|						|	**$1500**	|	
 
