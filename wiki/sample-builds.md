@@ -830,7 +830,7 @@ PART|BRAND/MODEL|PRICE|VENDOR|NOTES
 :--|:--|:--|:--|:--
 CASE|Fractal Design Node 304|$100|[newegg](https://www.newegg.com/black-fractal-design-node-304-mini-itx-tower/p/N82E16811352027)|ITX, 14.7"x9.8"x8.3" ALT: Thermaltake Core V1 ($51)
 MOBO		|Asrock B760M-ITX/D4				|$150	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&s=40&f=8&sort=price&page=1)		|DDR4. ALT: ASRock B550M-ITX/ac ($135)
-CPU			|Intel i5-12400F								|$120	|[pcpartpicker](https://pcpartpicker.com/product/pQNxFT/intel-core-i5-12400f-25-ghz-6-core-processor-bx8071512400f)		|ALT: AMD Ryzen 5700x ($130)
+CPU			|Intel i5-12400F								|$120	|[pcpartpicker](https://pcpartpicker.com/product/pQNxFT/intel-core-i5-12400f-25-ghz-6-core-processor-bx8071512400f)		|ALT: AMD Ryzen 5600x
 GPU			|Nvidia RTX 2060				|$160	|[ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=rtx+2060&_sacat=0&_sop=15&rt=nc&LH_BIN=1)		|ALT: AMD RX 5700 XT (Used:$150) / RTX 5050 (New:$250)
 MEM			|G.Skill Ripjaws V 16GB 2x8GB DDR4-3600 CL18				|$40		|[pcpartpicker](https://pcpartpicker.com/product/n6RgXL/gskill-ripjaws-v-16-gb-2-x-8-gb-ddr4-3600-memory-f4-3600c18d-16gvk)		|ALT: Corsair Vengeance LPX 2x8GB DDR4-3600
 STORAGE		|WD SN7100 1TB NVMe M.2 SSD TLC			|$70	| [pcpartpicker](https://pcpartpicker.com/product/MYP8TW/western-digital-wd_black-sn7100-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds100t4x0e-00cja0)		|
@@ -878,7 +878,7 @@ If you want a low profile case or support longer gpus, look at the ALT: config w
 PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
 :--|:--|:--|:--|:--
 CASE		|Silverstone SG13b					|$70	|[pcpartpicker](https://pcpartpicker.com/product/WG2bt6/silverstone-sg13-v2-mini-itx-tower-case-sg13b-usa)	|8.74" (W) x 11.22" (D) x 7.13" (H), [specs](https://www.silverstonetek.com/en/product/info/computer-chassis/SG13/). ALT: Silverstone ML-07
-CPU	|	Ryzen 5600 (65W)				|	$145	|[pcpartpicker](https://pcpartpicker.com/product/PgcG3C/amd-ryzen-5-5600-36-ghz-6-core-processor-100-100000927box)	|ALT: ML-07: AMD Ryzen 5700X
+CPU	|	Ryzen 5600 (65W)				|	$145	|[pcpartpicker](https://pcpartpicker.com/product/PgcG3C/amd-ryzen-5-5600-36-ghz-6-core-processor-100-100000927box)	|ALT: ML-07: AMD Ryzen 5800XT
 GPU	|	AMD RX 9060 XT 8GB			|	$320	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&sort=price&c=596)	|<= 270 mm (L). ALT: RTX 5060 8GB
 MOBO	|	ASRock B550M-ITX/ac				|	$80	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#s=33&f=8&sort=price&page=1)	|ALT: ML-07: ASRock B550M-ITX/ac
 MEM	|	Corsair Vengeance 16GB 2x8GB DDR4-3200	|	$100	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr4&S=2933,3733&Z=16384002,32768002&sort=price)	|ALT: 32 GB 2x16GB ($170)
