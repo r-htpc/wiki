@@ -264,7 +264,7 @@ There are some specialized linux-based distros out there, like [LibreElec (x86)]
 <!-- For Android ports to PC look at [Android x86](https://www.android-x86.org/) or [Bliss OS](https://blissos.org/), but do not expect a TV-like interface, 4K  -->
 For Android ports to PC look at [LineageOS TV](https://github.com/LineageOS-TV-x86), [Android x86](https://www.android-x86.org/), or [WayDroid ATV](https://github.com/WayDroid-ATV/waydroid-androidtv-builds) inside a [WayDroid container](https://docs.waydro.id/), but do not expect 4K streaming services, extensive HD audio support, or a consistent TV interface across apps. You can also run Android apps under Windows with [WSABuilds](https://github.com/MustardChef/WSABuilds). 
 
-For a gaming-centric OS, look at the SteamOS-like [Bazzite](https://docs.bazzite.gg/General/Installation_Guide/Installing_Bazzite_for_HTPC_Setups/) or [ChimeraOS](https://chimeraos.org/). You can combine this with [EmuDeck](https://www.emudeck.com) for emulation or Plex/Kodi/VLC for media.  
+For a console-like gaming/media OS, look at the SteamOS-like [Bazzite](https://docs.bazzite.gg/General/Installation_Guide/Installing_Bazzite_for_HTPC_Setups/) or [ChimeraOS](https://chimeraos.org/). You can combine this with [EmuDeck](https://www.emudeck.com) for emulation or Plex/Kodi/VLC for local media. Like other Linux-based distros, do not expect 4K/FHD quality or controller support on the commercial streaming service webapps, you will be forced to use your controller sticks for pointer-based navigation; this is not a viable replacement for dedicated media devices.  
 
 **Launchers:** 
 
@@ -906,5 +906,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2026-05-31*
+*This page was last updated on 2026-06-27*
 
