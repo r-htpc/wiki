@@ -313,7 +313,7 @@ To confuse things even more, sometimes Full and Limited are called by other name
  - Change Bit Depth to Auto or the max color bit depth of your content 
 2. Change your Display:
  - If for 4k >= 60Hz, set a HDMI signal format of *UHD Deep Color/Input Signal Plus/Enhanced*. If >= 120 Hz, use *Enhanced (Advanced)/(4k120)*, where available
- - Set a color space of RGB/Native (where available) or Auto. Change the input range/black level to Full/High/Normal. If you can't find these settings, as a last resort, put your Display in PC or Game Mode. FYI, this will remove a lot of Display processing options, so if this is not desired, you may want to use Scenario #2's Limited settings in these steps instead
+ - Set a color space of RGB/Native (where available) or Auto. Change the input range/black level to Full/High/Normal. If you can't find these settings, as a last resort, put your Display in PC/4:4:4 passthrough/Game Mode. FYI, this will remove a lot of Display processing options, so if this is not desired, you may want to use Scenario #2's Limited settings in these steps instead
  - Read your display's manual for available settings/resolutions
 3. Change your Sound System (if between PC and Display):
  - If for 4k@60Hz, set a HDMI signal/video format of *4K Enhanced/4K Mode*
