@@ -88,7 +88,7 @@ Below are the minimum CPUs required for each scenario and a recommendation. **Al
 
 - Casual gaming (iGPU): AMD >= Ryzen 3 3400G APU (REC: Used: Ryzen 5600G, New: Ryzen 5700G/8600G)  
 
-- Medium gaming w/dGPU below: AMD >= Intel i3-12400F, AMD >= Ryzen 5 5600 (REC: Intel i5-12400F/Ryzen 5600)  
+- Medium gaming w/dGPU below: AMD >= Intel i3-12400F, AMD >= Ryzen 5 5600 (REC: Intel i5-14400F/Ryzen 5600XT)  
 
 - 4K HDR: Intel >= i3/i5/i7-7xxx iGPU, AMD Athlon 3000G, AMD >= Ryzen 3 2200G APU (REC: Used: Ryzen 3400G, New: Ryzen 5500GT)  
 
