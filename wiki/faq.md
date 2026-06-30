@@ -420,10 +420,10 @@ BRAND/MODEL|PRICE|RESOLUTION|4k NETFLIX|HDR|WLAN/LAN|VOICE|USB|RATING|NOTES
 [Xiaomi TV Box S](https://www.mi.com/global/product/xiaomi-tv-box-s-3rd-gen/) ([buy](https://www.amazon.com/Xiaomi-TV-Box-3rd-Gen/dp/B0F3JWFL56))|$75|4k@60|YES|10/+/DV|ax/Opt (9c)|YES|YES (8c)|V:Better A:**Best**|3rd gen, AV1, DV-5, PT:**LL DA/DTSX**, S905X5M/2GB/32GB, BT 5.2
 [Apple TV 4k (2022)](https://www.apple.com/apple-tv-4k/) ([buy](https://www.apple.com/shop/buy-tv/apple-tv-4k))|$199/$249|4k@60|YES|10/+/DV|ax/1000M (7)|YES|No|V:Better A:Better|3rd gen, A15, 3GB, DV-5/8, DC:DTHD/DTSHD->PCM, PT:LS DA, BT 5.0
 [Onn 4K Box (2023)](https://www.walmart.com/ip/onn-Google-TV-4K-Streaming-Box-New-2023-4K-UHD-resolution/2835618394) ([buy](https://www.walmart.com/ip/onn-Google-TV-4K-Streaming-Box-New-2023-4K-UHD-resolution/2835618394))|$25|4k@60|YES|10/+|ac/Opt (9a)|YES|Opt (8a)|V:Good A:Good|2nd Gen. AV1, DC:NA, PT:LS DD/DTS, S905Y4/2GB/8GB
-[Onn 4K Stick (2026)](https://www.walmart.com) ([buy](https://www.walmart.com))|$30|4k@60|YES|10/+|ac/Opt (9b)|YES|Opt (8a)|V:Good A:Good|1st Gen. AV1, DC:NA, PT:LS DA/DTS, RTD1325/2GB/8GB
+[Onn 4K Stick (2026)](https://www.walmart.com/ip/ONN-4K-STREAMING/18355665352) ([buy](https://www.walmart.com/ip/ONN-4K-STREAMING/18355665352))|$35|4k@60|YES|10/+|ac/Opt (9b)|YES|Opt (8a)|V:Good A:Good|1st Gen. AV1, DC:NA, PT:LS DA/DTS, RTD1325/2GB/8GB
 [Onn 4K Plus (2025)](https://www.walmart.com/ip/4K-PLUS-STREAMING/13577404044) ([buy](https://www.walmart.com/ip/4K-PLUS-STREAMING/13577404044))|$40|4k@60|YES|10/+/DV|ax/Opt (9a)|YES|Opt (8c)|V:Better A:Good|1st Gen. AV1, DC:NA, PT:LS DA/DTS, S905X5M/2GB/16GB
-[Onn 4K Pro (2026)](https://www.walmart.com) ([buy](https://www.walmart.com))|$60|4k@60|YES|10/+/DV|ax/100M, Opt (9c)|YES|YES (8c)|V:Better A:Good|2nd Gen. AV1, DC:NA, PT:LS DA/DTS, S905X5M/3GB/32GB
-**[Onn 4K Pro (2024)](https://www.walmart.com/ip/4K-Pro-Streaming-Device/5193222892)** ([buy](https://www.walmart.com/ip/4K-Pro-Streaming-Device/5193222892))|**$50**|4k@60|YES|10/+/DV|ax/100M, Opt (9c)|YES|YES (8c)|V:Better A:Good|1st Gen. AV1, DC:NA, PT:LS DA/DTS, S905X4/3GB/32GB
+[Onn 4K Pro (2026)](https://www.walmart.com/ip/4K-PRO-STREAMING/18382213962) ([buy](https://www.walmart.com/ip/4K-PRO-STREAMING/18382213962))|$60|4k@60|YES|10/+/DV|ax/100M, Opt (9c)|YES|YES (8c)|V:Better A:Good|2nd Gen. AV1, DC:NA, PT:LS DA/DTS, S905X5M/3GB/32GB
+**[Onn 4K Pro (2024)](https://www.walmart.com/ip/4K-Pro-Streaming-Device/5193222892)** ([buy](https://www.walmart.com/ip/4K-Pro-Streaming-Device/5193222892))|**$45**|4k@60|YES|10/+/DV|ax/100M, Opt (9c)|YES|YES (8c)|V:Better A:Good|1st Gen. AV1, DC:NA, PT:LS DA/DTS, S905X4/3GB/32GB
 [ChromeCast w/Google TV 4k](https://store.google.com/product/chromecast_google_tv) (EOL)|$50|4k@60|YES|10/+/DV|ac/Opt (9b)|YES|Opt (8a)|V:Better A:Good|2nd gen. AV1, DV-5/8, DC:DD+, PT:LS DA/DTS, S905D3/2GB/8GB
 [Google TV Streamer 4k](https://store.google.com/us/product/google_tv_streamer?hl=en-US) ([buy](https://store.google.com/us/product/google_tv_streamer?hl=en-US))|$100|4k@60|YES|10/+/DV|ac/1000M|YES|Opt (8c)|V:Better A:Good|3rd/latest gen. AV1, DV-5/8, DC:LS DA/DTHD/DTSHD->PCM, PT:LS DA/DTS, MT8696/4GB/32GB
 **[Amazon Fire TV stick 4K MAX (2023)](https://developer.amazon.com/docs/device-specs/device-specifications-fire-tv-streaming-media-player.html?v=ftvstick4kmax_gen2_16)** ([buy](https://www.amazon.com/dp/B0BP9SNVH9))|**$60**|4K@60|YES|10/+/DV|ax(E)/Opt (9a)|YES|Opt (8a)|V:Better A:Better|2nd gen, AV1, DV-5/8, PT:**LL DA**/DTSHD, MT8696T/2GB/16GB
@@ -906,5 +906,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2026-06-27*
+*This page was last updated on 2026-06-30*
 
