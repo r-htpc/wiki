@@ -535,7 +535,7 @@ WeChip G20S Pro/Plus		|	$20	|	RF/BT		|	YES	|	YES | AAA	|	Remote and Air Mouse
   - To transmit IR from your HTPC to other devices, use a [USB-UIRT](http://www.usbuirt.com/).  
 
 - CEC
-  - CEC can be used to send/receive commands from your TV to your PC over HDMI using your TV's remote. This is not standard on a PC. Either get a [HDMI-CEC enabled HTPC](/wiki/sample-builds#specialized-hdmi-cec) or to get [CEC](https://kodi.wiki/view/CEC) functionality where none exists, use a [Pulse Eight](https://www.pulse-eight.com/p/104/usb-hdmi-cec-adapter) adapter.
+  - CEC can be used to send/receive commands from your TV to your PC over HDMI using your TV's remote. This is not standard on a PC. Either get a [HDMI-CEC enabled HTPC](/wiki/sample-builds#specialized-hdmi-cec) or to get [CEC](https://kodi.wiki/view/CEC) functionality where none exists, use a [Pulse Eight](https://www.pulse-eight.com/p/104/usb-hdmi-cec-adapter) adapter or a [compatible Displayport to HDMI adapter](https://docs.kernel.org/admin-guide/media/cec.html#displayport-to-hdmi-adapters-with-working-cec)
 
 - Software support
   - [Plex HTPC](https://support.plex.tv/articles/plex-htpc-input-maps/), [Kodi](https://kodi.wiki/view/Remote_controls), and [Jriver Media Center](https://wiki.jriver.com/index.php/Remotes) all support multiple remote types. You can alternatively use [AutoHotKey](https://www.autohotkey.com/), FLIRC, and [EventGhost](https://github.com/EventGhost/EventGhost/releases) (Windows), [Input-Mapper](https://github.com/sezanzeb/input-remapper) and [LIRC](https://www.lirc.org/) (Linux), and Pulse Eight's [libCEC Tray w/HDMI-CEC](https://github.com/Pulse-Eight/libcec/releases) to re-map buttons/automate keyboard tasks.  
