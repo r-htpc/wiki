@@ -178,7 +178,7 @@ Do NOT ask for help with playing media on [laptop screens or PC monitors](/wiki/
 
 You may want to wake your HTPC from sleep (S3) or have the ability to power it on (S5) or off from your remote control or a mobile app. There are a few ways to do this. Each has its own pros and cons. Keep in mind, turning PCs off and on lowers the life of the components due to thermal and electrical stress.  
 
-1. Wake/Power On/Off: Use HDMI CEC with another HT device. Wake: [Pulse-Eight USB CEC adapter](https://www.pulse-eight.com/p/104/usb-hdmi-cec-adapter), Wake/Power On/Off: [Intel NUC 7+](https://www.intel.com/content/www/us/en/support/articles/000023500/intel-nuc/intel-nuc-kits.html); add HTPC Control: NUC 7/8/10 + [Pulse-Eight Int. CEC](https://www.pulse-eight.com/p/154/intel-nuc-hdmi-cec-adapter).
+1. *Wake/Power On/Off:* Use HDMI CEC with another HT device. *Wake:* [Pulse-Eight USB CEC adapter](https://www.pulse-eight.com/p/104/usb-hdmi-cec-adapter)/[Displayport to HDMI adapter](https://docs.kernel.org/admin-guide/media/cec.html#displayport-to-hdmi-adapters-with-working-cec), *Wake/Power On/Off:* [Intel NUC 7+](https://www.intel.com/content/www/us/en/support/articles/000023500/intel-nuc/intel-nuc-kits.html); add HTPC Control: NUC 7/8/10 + [Pulse-Eight Int. CEC](https://www.pulse-eight.com/p/154/intel-nuc-hdmi-cec-adapter).
 
 2. Wake: Use a [Flirc USB](https://flirc.tv/more/flirc-usb) device plugged into your HTPC and an IR remote
 
