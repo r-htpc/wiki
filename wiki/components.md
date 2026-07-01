@@ -512,7 +512,7 @@ Logitech Harmony One	|	Disc (1)	|	RF/BT/IR	|	Yes	|	No  | Int	|	IR Blaster, Hub
 [Skip 1s](https://flirc.tv/products/skip1s-remote)    | $45  | IR  | No | No  | AAA | Use w/Flirc, **Macros**, learning, mobile app
 [MCE](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw=mce+remote&_sacat=0) / [Inteset](https://www.amazon.com/Inteset-Universal-Backlit-Learning-Streamers/dp/B00M4I1BAY) Remote | $20-30 | IR | Some | No  |  AA/AAA | Use w/an included IR hub, Flirc USB adap, or HDMI-CEC. Good for Kodi/Plex
 **[Vista MCE](https://www.ebay.com/sch/i.html?_nkw=vista+mce+remote)** | $40 | IR | No | YES | AAA | Use w/included IR hub, Flirc USB adap. **Built-in phy. trackpad**. [VRC-1100 clone](https://kodi.wiki/view/Archive:VRC-1100).
-**[Flirc](https://flirc.tv/more/flirc-usb)**  | $20 | USB/IR | NA | NA  |  NA | USB IR Receiver for remotes. Wake/Sleep
+**[Flirc](https://flirc.tv/more/flirc-usb)**  | $20 | USB/IR | NA | NA  |  NA | USB IR Receiver for remotes. Wake/Sleep. [ALT: OEM MCE receivers](https://www.ebay.com/sch/i.html?_nkw=%28hp%2Cdell%2Clenovo%2Cphillips%29+%28kodi%2Chtpc%2Cmce%2Cmedia%29+ir+receiver&_sacat=0&_from=R40&_trksid=m570.l1313&_odkw=%28hp%2Cdell%2Clenovo%2Cphillips%29+%28kodi%2Chtpc%2Cmce%29+ir+receiver&_osacat=0&_sop=15)
 [Dune HD R4](https://www.dune-hd.com/collections/accessories/products/dune-hd-bt-backlit-remote-r4)		|	$20	|	BT/IR		|	YES	| YES  | 	AAA	|	Remote and Air Mouse, IR Learn
 WeChip G20S Pro/Plus		|	$20	|	RF/BT		|	YES	|	YES | AAA	|	Remote and Air Mouse
 [MX3 Pro](https://www.amazon.com/Keyboard-Backlight-Learning-Wireless-Box-HTPC-IPTV-Pad-PS3/dp/B09QL7G37S)			|	$20	|	RF/IR		|	Yes	|	YES  | AAA	|	Remote, IR Learn, Mini keyboard, and Air Mouse
