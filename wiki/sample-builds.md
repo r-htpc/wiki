@@ -206,7 +206,8 @@ Intel Core 7th gen i3+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDM
 - [RPI4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) / [ROCK64-2GB](https://pine64.com/product/rock64-2gb-single-board-computer/) (full)
 - [Intel branded NUCs](https://www.intel.com/content/www/us/en/support/articles/000023500/intel-nuc/intel-nuc-kits.html) (just power states, or full with [pulse8 adapter](https://www.pulse-eight.com/c/59))
 - MSI Cubi NUC 1M/1MG
-- [Asus PN41](https://www.asus.com/us/displays-desktops/mini-pcs/pn-series/mini-pc-pn41/) / PN42 / PN43 / [PN50](https://www.asus.com/us/displays-desktops/mini-pcs/pn-series/mini-pc-pn50/) / PN51 / PN53 / PN64 / [PL64](https://www.asus.com/displays-desktops/mini-pcs/pl-series/mini-pc-pl64/) (just wake state) / PN65 
+- [Asus PN41](https://www.asus.com/us/displays-desktops/mini-pcs/pn-series/mini-pc-pn41/) / PN42 / PN43 / [PN50](https://www.asus.com/us/displays-desktops/mini-pcs/pn-series/mini-pc-pn50/) / PN51 / PN53 / PN64 / [PL64](https://www.asus.com/displays-desktops/mini-pcs/pl-series/mini-pc-pl64/) (just wake state) / PN65
+- Intel/AMD based mini PC (GMKtec M5/M6, etc..) with full DP 1.4 port + [DP 1.4->HDMI 2.1 active adapter](https://www.amazon.com/UGREEN-Unidirectional-Aluminum-Converter-Compatible/dp/B0FQCGSWW3)
 
 <!-- Sub-Section -->
 
