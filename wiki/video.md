@@ -792,7 +792,7 @@ Media content (HDR/10-bit/4:2:2) is technically possible without DSC support. Ga
 6. Hybrid/DiY: An Intel 11th+ gen CPU and motherboard w/a USB-C Display Out and a USB-C->HDMI adapter/cable. e.g. ASRock Deskmini B660 + 
 [USB-C->HDMI 2.1 Cable](https://www.amazon.com/Cable-Matters-48Gbps-Adapter-Supporting/dp/B08QDV5H4M). 
 7. DiY: Intel 12th+ Gen CPU and respective motherboard with a Displayport 1.4 connector and an Active DP->HDMI adapter. This tends to be the least stable option, so we don't recommend it at all.
-8. Pre-Built: Ryzen 4000+ Mini PC with a Displayport 1.4 connector and an Active DP->HDMI adapter. e.g. Beelink SER5 5560U. This tends to be the least stable option, so we don't recommend it at all.
+8. Pre-Built: Intel 11th+/Ryzen 4000+ Mini/Micro PC with a Displayport 1.4 HBR3 (32 Gbps) connector and an Active DP 1.4->HDMI 2.1 adapter. e.g. Beelink SER5, Gmktec M5, OEM HP Prodesk 400/405, Dell Optiplex 3000-7000 with displayport HBR3 add-in card. Stability will be dependent on quality of DP->HDMI adapter/cable.
 9. Headless Moonlight/Sunshine Streaming Host: [DP 1.4->HDMI 2.1 adapter](https://www.amazon.com/Cable-Matters-102101-BLK-Computer-Adapter/dp/B08XFSLWQF) + [VDD](https://github.com/itsmikethetech/Virtual-Display-Driver)/[IddSampleDriver](https://github.com/roshkins/IddSampleDriver) to create a virtual display. Alternatively, for a hardware solution use a [HDMI dummy plug](https://www.amazon.com/Headless-Display-Emulator-Generation-Single/dp/B07FB8GJ1Z) + Nvidia custom res/CRU res mod OR a [EDID Emulator](https://www.gofanco.com/prophecy-edid-emulator-pro-edidemul.html) to copy the host display's EDID.
 
 
