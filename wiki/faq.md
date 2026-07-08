@@ -548,7 +548,7 @@ Youtube TV, Fubo, DirectTV Stream, or Hulu Live TV  on the premium end. Philo or
 
 **From your own media content:**
 
-If you want to make virtual TV channels out of your own content, look at [ersatztv](https://ersatztv.org) in combination with either a Plex/Jellyfin/Channels DVR-type server or directly with clients like VLC or TiviMate through m3u playlist files.  
+If you want to make virtual TV channels out of your own content, look at [ErsatzTV](https://ersatztv.org) or [Tunarr](https://tunarr.com/) in combination with either a Plex/Jellyfin/Channels DVR-type server or directly with clients like VLC or TiviMate through m3u playlist files.  
 
 ## Can I stream/how do I serve my content from another computer or a networked storage device?
 
