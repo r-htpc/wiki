@@ -121,14 +121,14 @@ $150-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB+ RAM, 256GB ssd/1TB hdd
     - [HP EliteDesk 805 G6](https://www.ebay.com/sch/i.html?_nkw=%285600g%2C5650g%2C4600g%2C4650g%29&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=%285600g%2C5650g%29&_osacat=179&LH_BIN=1&_sop=15&_udhi=150%29+%28%24100%29+OR+%3E%3D+%5BJ4125+Mini+PC%5D%28https%3A%2F%2Fwww.amazon.com%2FNucBox-Windows-Computer-Intel-J4125%2Fdp%2FB092JFVX2Z) (AMD 4650G) (ebay)
     - [Minisforum UN300](https://www.amazon.com/MINISFORUM-LPDDR5-i3-N300-Threads-USB3-2/dp/B0CQYW121V) (N300)  
   - $300: Med+ (<= Switch)
-    - [GMKTec M6 Ultra](https://www.gmktec.com/products/amd-ryzen-5-7640hs-mini-pc-nucbox-m6-ultra?variant=9b66d3ad-91a1-4f84-bfcc-f0e919102f1a) / [Minisforum UM750L](https://www.amazon.com/MINISFORUM-UM690Pro-6900HX-Desktop-Computer/dp/B0CTTPPZQS?th=1) (760/740M)
     - [HP Elitedesk 800 G5/G6 i5 16GB](https://www.ebay.com/sch/i.html?_nkw=hp+elitedesk+800+sff+%28g5%2Cg6%29+i5+%2816gb%2C32gb%29&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=hp+elitedesk+800+sff+%28g5%2Cg6%29+i5+16gb&_osacat=179&_sop=15) + GTX 1050 TI LP dGPU (ebay)
+    - [GMKTec M6 Ultra](https://www.gmktec.com/products/amd-ryzen-5-7640hs-mini-pc-nucbox-m6-ultra?variant=9b66d3ad-91a1-4f84-bfcc-f0e919102f1a) / [Minisforum UM750L](https://www.amazon.com/MINISFORUM-UM690Pro-6900HX-Desktop-Computer/dp/B0CTTPPZQS?th=1) (760/740M)
   - $350-400: High (<= PS3)
-    - [GMKtec M7](https://www.gmktec.com/products/amd-ryzen%E2%84%A2-7-pro-6850u-mini-pc-gmktec-m7-ultra?variant=47330575220890)/[Minisforum UM773](https://www.amazon.com/MINISFORUM-UM690-6900HX-Threads-Bluetooth5-2/dp/B0BYDF63TT/?th=1) (680M)
     - [HP Elitedesk 800 G5/G6 i5 16GB](https://www.ebay.com/sch/i.html?_nkw=hp+elitedesk+800+sff+%28g5%2Cg6%29+i5+%2816gb%2C32gb%29&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=hp+elitedesk+800+sff+%28g5%2Cg6%29+i5+16gb&_osacat=179&_sop=15) + GTX 1650 LP dGPU (ebay)
-  - $500+: Ultra (<= Xbox 360)
-    - [GMKTec K12](https://www.amazon.com/GMKtec_gaming_mini_pc_ryzen_h_255/dp/B0FK2BLV7J/) / Minisforum [UM870](https://www.amazon.com/MINISFORUM-Desktop-Computer-Barebone-Graphics/dp/B093V18HKB/?th=1) / [UM790 Pro](https://store.minisforum.com/products/minisforum-um790-pro-mini-pc) (780M)
-    - [HP Elitedesk 800 G6 i5 16GB](https://www.ebay.com/sch/i.html?_nkw=hp+elitedesk+800+sff+%28g6%29+i5+%2816gb%2C32gb%29&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=hp+elitedesk+800+sff+%28g5%2Cg6%29+i5+16gb&_osacat=179&_sop=15) + RTX 3050 LP dGPU 
+     - [GMKtec M7](https://www.gmktec.com/products/amd-ryzen%E2%84%A2-7-pro-6850u-mini-pc-gmktec-m7-ultra?variant=47330575220890)/[Minisforum UM773](https://www.amazon.com/MINISFORUM-UM690-6900HX-Threads-Bluetooth5-2/dp/B0BYDF63TT/?th=1) (680M)
+   - $500+: Ultra (<= Xbox 360)
+     - [HP Elitedesk 800 G6 i5 16GB](https://www.ebay.com/sch/i.html?_nkw=hp+elitedesk+800+sff+%28g6%29+i5+%2816gb%2C32gb%29&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=hp+elitedesk+800+sff+%28g5%2Cg6%29+i5+16gb&_osacat=179&_sop=15) + RTX 3050 LP dGPU
+     - [GMKTec K12](https://www.amazon.com/GMKtec_gaming_mini_pc_ryzen_h_255/dp/B0FK2BLV7J/) / Minisforum [UM870](https://www.amazon.com/MINISFORUM-Desktop-Computer-Barebone-Graphics/dp/B093V18HKB/?th=1) / [UM790 Pro](https://store.minisforum.com/products/minisforum-um790-pro-mini-pc) (780M)
 
    - See [ETA PRIME](https://www.youtube.com/@ETAPRIME) YT channel for Emulation device reviews  
 - Medium Gaming:
