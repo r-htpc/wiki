@@ -166,7 +166,7 @@ If you can't afford a pre-built NAS you can buy one of these options and add ext
 
 - Single Board Computer (SBC) or Pre-owned OEM PC
 
-  - 1 drive: USB: [NanoPi R2S](https://www.friendlyelec.com/index.php?route=product/product&path=69&product_id=282&sort=p.price&order=ASC) (USB2x1) $27, [Orange Pi Zero 3](https://www.aliexpress.us/w/wholesale-Orange-pi-zero-3.html?spm=a2g0o.productlist.search.0) (USB2x1) $25  
+  - 1 drive: USB: [NanoPi R3S/NEO3 Plus](https://www.friendlyelec.com/index.php?route=product/category&path=69&sort=p.price&order=ASC) (USB3x1) $30, [Radxa Cubie A5E](https://www.amazon.com/Radxa-Cubie-A5E-1GB-A527/dp/B0DX6W7QXR) (USB3x1) $40  
 
   - 2-4 drives:
     - USB-based: [Orange Pi 3 LTS](https://www.aliexpress.com/w/wholesale-orange-pi-3-lts.html) (USB3x1,USB2x2) $40, [RPI 4b](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) (USB3x2,USB2x2) $35, [Rock64-2GB](https://pine64.com/product/rock64-2gb-single-board-computer/) (USB3x1,USB2x2) $35, [Pine H64](https://ameridroid.com/collections/pine) (USB3x1,USB2x2) $45, [Odroid C4](https://www.hardkernel.com/shop/odroid-c4/) (USB3x4) $60, PC: **[Dell/Lenovo i3-41x0t](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%28i3-4130t%2Ci3-4160t%2Ci3-4150t%2Ci3-4170t%29&_sacat=171957&rt=nc&_odkw=%28i3-4130t%2Ci3-4160t%29&_osacat=171957&LH_BIN=1&_sop=15) (USB3x2-4,USB2x2)** $50. Optionally, add a [single enclosure DAS](/wiki/storage#direct-attach-storage-das) over USB.
@@ -423,5 +423,5 @@ If your storage is on a windows-based OS, [follow these instructions](https://su
 
 ---
 
-*This page was last updated on 2026-06-14*
+*This page was last updated on 2026-07-18*
 
