@@ -118,7 +118,7 @@ Zotac|2200G/2400G|NA|MA551|NA|UPCOMING (Not in U.S.A). 45W/65W, 4 core, LANx1 (1
 
 BRAND|CPU|COST|MODEL|PASSMARK|GPU|SPECS/NOTES
 :--|:--|:--|:--|:--|:--|:--
-Asus|Core5/X7/X9|$NA+|NUC 16 Pro|NA*|NA|Cougar Cove. Xe/Arc B370/B390 GPU. 96GB-DDR5x-9600-LP, HDMI 2.1x2 (4K@60), USB32G2-Ax4, USB32G1-Cx1, USB4-Cx2 (TB4), ILANx2 (2.5G), WLAN (be), BT 6, CEC
+Asus|Core 5 325-335,7 356H-366H,X7 358H,X9 388H|$550-1600|NUC 16 Pro|19400-36800*|2350-7680|Cougar Cove. Xe 4/Arc B390 GPU. 96GB-DDR5x-9600-LP/64GB-DDR5-7200-CSODIMMx2, M.2x2 (5.0x4), HDMI 2.1x2 (4K@60)/DP 2.1 (8K@60), USB32G2-Ax4, USB32G1-Cx1, USB4-Cx2 (TB4), ILANx2 (2.5G), WLAN (be), BT 6, CEC. [specs](https://dlcdnwebimgs.asus.com/files/media/202512/61637bcb-4aaa-4a1f-a35d-ba97011a86c9/asus-nuc-16-pro-datasheet.pdf)
 
 ### Intel Lunar Lake (15th gen/3nm/8K HW) ###
 
@@ -126,8 +126,8 @@ NOTES: Good for VVC/H266 decoding.
 
 BRAND|CPU|COST|MODEL|PASSMARK|GPU|SPECS/NOTES
 :--|:--|:--|:--|:--|:--|:--
-Asus|i5-226V/228V,i7-256V/258V,i9-288V|$NA|NUC 14 Pro AI+|18900-20700*|5000+|Lunar Canyon. Kit/Mini PC. Arc 130V-140V GPU. HDMI 2.1x1 (4K@60), CEC
-Asus|i5-226V,i7-258V,i9-288V|$850+|NUC 14 Pro AI|18900-20700*|5000+|Lunar Canyon. Kit/Mini PC. Arc 130V-140V GPU. HDMI 2.1x1 (4K@60), CEC
+Asus|i5-226V/228V,i7-256V/258V,i9-288V|$1300+|NUC 14 Pro AI+|18900-20700*|3300-4000|Lunar Canyon. Kit/Mini PC. Arc 130V-140V GPU. HDMI 2.1x1 (4K@60), CEC
+Asus|i5-226V,i7-258V,i9-288V|$850+|NUC 14 Pro AI|18900-20700*|3300-4000|Lunar Canyon. Kit/Mini PC. Arc 130V-140V GPU. HDMI 2.1x1 (4K@60), CEC
 
 ### Intel Arrow Lake (15th gen/4nm/8K HW) ###
 
@@ -167,8 +167,7 @@ NOTES: Good for 4k HDR, AV1 decoding, emulation
 
 BRAND|CPU|COST|MODEL|PASSMARK|GPU|SPECS/NOTES
 :--|:--|:--|:--|:--|:--|:--
-Intel|i3-1315U|$350|NUC13ANHi3|13900*|1240|Arena Canyon. Pro. 15W. 6C/8T, UHD13-64 GPU, HDMI 2.1x2 (4K@60), USB32G2-Ax3, USB2-Ax1, USB4-Cx2 (TB4), ILANx1 (2.5G), WLAN (ax), 64GB DDR4-3200 (SODIMMx2), M.2x1 (4.0x4), 2.5"x1, BT 5.2, 3.5mmx1, CEC
-Intel|i5-1340P/i7-1360P|$500-600|NUC13ANHi5/I7|21000*|1750/2230|Arena Canyon. Pro. 28W. 12C/16T, Xe-80/96 GPU, HDMI 2.1x2 (4K@60), USB32G2-Ax3, USB2-Ax1, USB4-Cx2 (TB4), ILANx1 (2.5G), WLAN (ax), 64GB DDR4-3200 (SODIMMx2), M.2x1 (4.0x4), 2.5"x1, BT 5.2, 3.5mmx1, CEC
+Asus|i3-1315U/i5-1340P/i7-1360P/13420H/13620H|$350+|Nuc 13 Pro NUC13ANH-B (Tall)/ANK-B (Slim)|11000-23000*|1240-2300|Arena Canyon. Pro. 15W-45W. 6-12C/8-16T, UHD13-64 - Iris Xe96 GPU, HDMI 2.1x2 (4K@60), USB32G2-Ax3, USB2-Ax1, USB4-Cx2 (TB4), ILANx1 (2.5G), WLAN (ax), 32GB-DDR4-3200-SODIMMx2, M.2x1 (4.0x4), M.2x1 (SATA) (Slim), 2.5"x1 (Tall), BT 5.2, 3.5mmx1, CEC. [specs](https://dlcdnwebimgs.asus.com/files/media/3b6e584c-2f2c-42f2-8714-aaea89ae020d/asus-nuc-13-pro-datasheet.pdf)
 
 ### Intel Alder Lake (ADL) (12th gen/7nm/8K HW) ###
 
@@ -504,5 +503,5 @@ Zotac
 
 ---
 
-*This page was last updated on 2026-01-10*
+*This page was last updated on 2026-07-23*
 
