@@ -906,12 +906,12 @@ PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
 CASE	|	Silverstone **ML-07**		|	$110	|[pcpartpicker](https://pcpartpicker.com/product/MtV48d/silverstone-case-ml07b)	|15" (W)x4.1" (H)x13.8" (D). ALT: Silverstone GD-11 (6.9" (H), 30L)
 CPU	|	AMD Ryzen **7600X**	    	    	|	$160	|[pcpartpicker](https://pcpartpicker.com/product/66C48d/amd-ryzen-5-7600x-47-ghz-6-core-processor-100-100000593wof)	|ALT: AMD Ryzen 7700X
 GPU	|	AMD RX **9060 XT 16GB**				|	$370	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&sort=price&c=596&P=17179869184,51539607552)	|ALT: AMD RX 9070 16GB
-MOBO	|	ASRock A620AI WiFi ITX		|	$132	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&sort=price&s=41)	|ALT: GD-11: Gigabyte B650 GAMING X AX ATX
+MOBO	|	ASRock A620AI WiFi ITX		|	$130	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&sort=price&s=41)	|ALT: GD-11: Gigabyte B650 GAMING X AX ATX
 MEM	|	Crucial Pro **32GB** 2x16GB DDR5-6000	|	$310	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr5&Z=32768002&sort=price&S=5200,8400)	|ALT: Patriot Viper 1x16GB **16GB** DDR5-6000 ($190)
 STORAGE	|	MSI Spatium **2TB** M.2 (OS/GAMES)	|	$200	|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#D=1&A=1920000000000,36000000000000&sort=price&page=1)	| ALT: Patriot Pxxx 1TB M.2
 PSU	|	Cooler Master V **750W** SFX		|	$110	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&p=1,3,2&A=550000000000,2050000000000&sort=price&e=5,4,2)	|ALT: GD-11: Corsair RM750e ATX
 COOL	|	Thermalright AXP120-X67	CPU Cooler	|	$30	|[pcpartpicker](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=14000000,82000000&c=33,41&sort=price&page=1)	|ALT: GD-11: Peerless Assassin Mini (Air) / Arctic Liquid Freezer II 240 (AIO)
-TOTAL	|						|	**$1422**	|	
+TOTAL	|						|	**$1420**	|	
 
 <!-- Section -->
 
@@ -974,5 +974,5 @@ TOTAL		|											|$801			|	|
 
 ---
  
-*This page was last updated on 2026-07-08*
+*This page was last updated on 2026-07-23*
 
