@@ -41,8 +41,8 @@ CPU/PASSMARK refers to Passmark's [CPU Mark performance benchmark](https://www.c
 
 BRAND|CPU|COST|MODEL|PASSMARK|GPU|SPECS/NOTES
 :--|:--|:--|:--|:--|:--|:--
-Asus|Ryzen AI 4xx|$NA+|PN55|NA*|NA|RDNA3.5 Radeon 8xxM GPU. HDMI 2.1x1 (4K@60), DP1.4x2, 96GB-DDR5-9600-SODIMMx2, 2xPCIe 4.0 M.2x4, USB32G2-Ax3, USB2-Ax1, USB32G1-Cx1, USB4-Cx1, ILANx2 (2.5G), WLAN (be), BT 5.4, CEC
-Asus|Ryzen AI 3xx|$590+|PN54|19600-24800*|NA|RDNA3.5 Radeon 840M/880M GPU. HDMI 2.1x1 (4K@60), DP1.4x1, 32GB-DDR5-5600-SODIMMx2, 2xPCIe 4.0 M.2x4, USB32G2-Ax3, USB2-Ax1, USB32G1-Cx1, USB4-Cx1, ILANx2 (2.5G), WLAN (be), BT 5.4, CEC
+Asus|Ryzen AI 330-470|$550+|PN55|12800-36800*|710-5900|RDNA3.5 Radeon 820M-890M GPU. HDMI 2.1x1 (4K@60), DP1.4x2, 96GB-DDR5-9600-SODIMMx2, 2xPCIe 4.0 M.2x4, USB32G2-Ax3, USB2-Ax1, USB32G1-Cx1, USB4-Cx1, ILANx2 (2.5G), WLAN (be), BT 5.4, CEC. [specs](https://dlcdnwebimgs.asus.com/files/media/202512/ea005cb0-ae16-464d-ba4d-1d0ae54ba395/asus-expertcenter-pn55-datasheet.pdf)
+Asus|Ryzen AI 5/7 340/350|$590+|PN54|19600-24800*|860-1300|RDNA3.5 Radeon 840M/860M GPU. HDMI 2.1x1 (4K@60), DP1.4x1, 32GB-DDR5-5600-SODIMMx2, 2xPCIe 4.0 M.2x4, USB32G2-Ax3, USB2-Ax1, USB32G1-Cx1, USB4-Cx1, ILANx2 (2.5G), WLAN (be), BT 5.4, CEC. [specs](https://dlcdnwebimgs.asus.com/files/media/8ad2c5d4-af59-4d75-9642-71bbf097e829/asus-expertcenter-pn54-datasheet.pdf)
 
 ### AMD Zen 4 (4nm/8K HW) ###
 
