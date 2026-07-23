@@ -127,7 +127,7 @@ NOTES: Good for VVC/H266 decoding.
 BRAND|CPU|COST|MODEL|PASSMARK|GPU|SPECS/NOTES
 :--|:--|:--|:--|:--|:--|:--
 Asus|i5-226V/228V,i7-256V/258V,i9-288V|$1300+|NUC 14 Pro AI+|18900-20700*|3300-4000|Lunar Canyon. Kit/Mini PC. Arc 130V-140V GPU. HDMI 2.1x1 (4K@60), CEC
-Asus|i5-226V,i7-258V,i9-288V|$850+|NUC 14 Pro AI|18900-20700*|3300-4000|Lunar Canyon. Kit/Mini PC. Arc 130V-140V GPU. HDMI 2.1x1 (4K@60), CEC
+Asus|i5-226V,i7-258V,i9-288V|$850+|NUC 14 Pro AI|18900-20700*|3300-4000|Lunar Canyon. Kit/Mini PC. Arc 130V-140V GPU. HDMI 2.1x1 (4K@60), CEC. [specs](https://dlcdnwebimgs.asus.com/files/media/5cd27890-fcf9-43c0-b7ba-de8ca2ac9302/asus-nuc-14-pro-ai-datasheet.pdf)
 
 ### Intel Arrow Lake (15th gen/4nm/8K HW) ###
 
@@ -136,9 +136,9 @@ NOTES: i3-100U and i5-2x0H CPUs are Raptor Lake Refresh
 BRAND|CPU|COST|MODEL|PASSMARK|GPU|SPECS/NOTES
 :--|:--|:--|:--|:--|:--|:--
 Asus|i5-225H,i7-255h,i9-285H|$700+|NUC 15 Pro+/NUC15CRK|27900-32600*|5300-5700|Cyber Canyon. Mini PC. Arc 130T-140T GPU. HDMI 2.1x2 (4K@60). 48GB-DDR5-6400-CSODIMM. M.2x2 (2280,2242). ILANx1 (2.5), 2xTB4, WLAN (be),BT 5.4, CEC
-Asus|i5-225H,i7-255h,i9-285H|$560+|NUC 15 Pro+/NUC15CRS-B|27900-32600*|5300-5700|Cyber Canyon. Kit. Arc 130T-140T GPU. HDMI 2.1x2 (4K@60). 48GB-DDR5-6400-CSODIMM. M.2x2 (2280,2242). ILANx1 (2.5), 2xTB4, WLAN (be), BT 5.4, CEC
-Asus|i3-100U/i5-210H-255H|$450+|NUC 15 Pro/NUC15CRK/CRH|14400-28800*|1240-5400|Cyber Canyon. Mini PC. UHD14-64/UHD14-48-Arc 140T GPU. HDMI 2.1x2 (4K@60), CEC
-Asus|i3-100U/i5-210H-265H|$390+|NUC 15 Pro/NUC15CRK-B/CRH-B|14400-29500*|1240-5500|Cyber Canyon. Kit. UHD14-64/UHD14-48-Arc 140T GPU. HDMI 2.1x2 (4K@60), CEC
+Asus|i5-225H,i7-255h,i9-285H|$560+|NUC 15 Pro+/NUC15CRS-B|27900-32600*|5300-5700|Cyber Canyon. Kit. Arc 130T-140T GPU. HDMI 2.1x2 (4K@60). 48GB-DDR5-6400-CSODIMM. M.2x2 (2280,2242). ILANx1 (2.5), 2xTB4, WLAN (be), BT 5.4, CEC. [specs](https://dlcdnwebimgs.asus.com/files/media/40609964-a362-471d-8f7f-34d1e566dbea/asus-nuc-15-pro-plus-datasheet.pdf)
+Asus|i3-100U/i5-210H-255H|$450+|NUC 15 Pro/NUC15CRK/CRH|14400-28800*|1240-5400|Cyber Canyon. Mini PC. UHD14-64/UHD14-48-Arc 140T GPU. HDMI 2.1x2 (4K@60), CEC. [specs](https://dlcdnwebimgs.asus.com/files/media/ef89b937-72e3-45f7-b501-faef1c4d27ad/asus-nuc-15-pro-datasheet.pdf)
+Asus|i3-100U/i5-210H-265H|$390+|NUC 15 Pro/NUC15CRK-B/CRH-B|14400-29500*|1240-5500|Cyber Canyon. Kit. UHD14-64/UHD14-48-Arc 140T GPU. HDMI 2.1x2 (4K@60), CEC. [specs](https://dlcdnwebimgs.asus.com/files/media/ef89b937-72e3-45f7-b501-faef1c4d27ad/asus-nuc-15-pro-datasheet.pdf)
 
 ### Intel Meteor Lake / Raptor Lake Refresh (RPL) (14th gen/4-7nm/8K HW) ###
 
@@ -146,11 +146,11 @@ NOTES: Good for 4k HDR, AV1 decoding, emulation. Now designed, built and sold by
 
 BRAND|CPU|COST|MODEL|PASSMARK|GPU|SPECS/NOTES
 :--|:--|:--|:--|:--|:--|:--
-Asus|i5-155H-185H|$1200+|NUC 14 Performance/NUC14SRK|24900-29400*|11600-15600|Revel Canyon. Mini PC. RTX 4060/4070 GPU. HDMI 2.1x1 (4K@120), CEC
-Asus|i5-125H-185H|$725+|NUC 14 Pro+/NUC14RVS|21200-29400*|4000-4600|Revel Canyon. Mini PC. HDMI 2.1x2 (4K@60), CEC
-Asus|i5-125H-185H|$550+|NUC 14 Pro+/NUC14RVS-B|21200-29400*|4000-4600|Revel Canyon. Kit. HDMI 2.1x2 (4K@60), CEC
-Asus|i5-125H-165H|$450+|Nuc 14 Pro/NUC14RVH/RVK|21200-26300*|4000-4500|Revel Canyon. Mini PC. HDMI 2.1x2 (4K@60), CEC
-Asus|i3-100U/i5-125H-165H|$350+|Nuc 14 Pro/NUC14RVH-B/RVK-B|14400-26300*|1240-4500|Revel Canyon. Kit. HDMI 2.1x2 (4K@60), CEC
+Asus|i5-155H-185H|$1200+|NUC 14 Performance/NUC14SRK|24900-29400*|11600-15600|Revel Canyon. Mini PC. RTX 4060/4070 GPU. HDMI 2.1x1 (4K@120), CEC. [specs](https://dlcdnwebimgs.asus.com/files/media/1ac81861-ef0a-4ea2-a259-e947e4bf9420/asus-nuc-14-performance-datasheet.pdf)
+Asus|i5-125H-185H|$725+|NUC 14 Pro+/NUC14RVS|21200-29400*|4000-4600|Revel Canyon. Mini PC. HDMI 2.1x2 (4K@60), CEC. [specs](https://dlcdnwebimgs.asus.com/files/media/4c4cc2ec-f3e9-4d35-b413-29c8524857a3/asus-nuc-14-pro-plus-datasheet.pdf)
+Asus|i5-125H-185H|$550+|NUC 14 Pro+/NUC14RVS-B|21200-29400*|4000-4600|Revel Canyon. Kit. HDMI 2.1x2 (4K@60), CEC. [specs](https://dlcdnwebimgs.asus.com/files/media/4c4cc2ec-f3e9-4d35-b413-29c8524857a3/asus-nuc-14-pro-plus-datasheet.pdf)
+Asus|i5-125H-165H|$450+|Nuc 14 Pro/NUC14RVH/RVK|21200-26300*|4000-4500|Revel Canyon. Mini PC. HDMI 2.1x2 (4K@60), CEC. [specs](https://dlcdnwebimgs.asus.com/files/media/20fd2cff-eccf-44c0-b5bd-5c804fa396a3/asus-nuc-14-pro-datasheet.pdf)
+Asus|i3-100U/i5-125H-165H|$350+|Nuc 14 Pro/NUC14RVH-B/RVK-B|14400-26300*|1240-4500|Revel Canyon. Kit. HDMI 2.1x2 (4K@60), CEC. [specs](https://dlcdnwebimgs.asus.com/files/media/20fd2cff-eccf-44c0-b5bd-5c804fa396a3/asus-nuc-14-pro-datasheet.pdf)
 
 ### Intel Alder Lake-N / Twin Lake (14th gen/7nm/8K HW) ###
 
