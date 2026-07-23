@@ -1140,7 +1140,7 @@ HDMI 2.1 (4k@120Hz)
 
 **[OREI](https://www.amazon.com/OREI-Extractor-Converter-Support-48Gbps/dp/B0D4C5YWDH) - $75 - HDMI - Extracts HD audio from HTPC to Sound System with normal HDMI In**
 
-[Cable Matters w/eARC](https://www.amazon.com/Cable-Matters-Extractor-Amplifier-Soundbars/dp/B0D32BKL2J) - $95 - eARC HDMI+HDMI+Optical+3.5mm - Extracts HD Audio from HTPC and/or TV to eARC Soundbar or non-eARC AVR. ALT: [J-tech](https://www.amazon.com/J-Tech-Digital-Extractor-Converter-JTECH-8KAE/dp/B0FGKVF9ZS) 
+[Cable Matters w/eARC](https://www.amazon.com/Cable-Matters-Extractor-Amplifier-Soundbars/dp/B0GBZJ34CX) - $95 - eARC HDMI+HDMI+Optical+3.5mm - Extracts HD Audio from HTPC and/or TV to eARC Soundbar or non-eARC AVR. ALT: [J-tech](https://www.amazon.com/J-Tech-Digital-Extractor-Converter-JTECH-8KAE/dp/B0FGKVF9ZS) 
 
 [Navceker](https://www.navceker.com/products/hdmi-2-1-audio-extractor) - HDMI+Optical+Coax+3.5mm Stereo - Extracts HD audio from HTPC to non-eARC AVR  
 
