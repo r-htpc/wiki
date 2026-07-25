@@ -889,6 +889,7 @@ MEM	|	Corsair Vengeance **16GB** 2x8GB DDR4-3200	|	$100	|[pcpartpicker](https://
 STORAGE	|	Patriot Pxxx **1TB** M.2 (OS/GAMES)	|	$110	| [pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#D=1&A=960000000000,36000000000000&sort=price&page=1)	| ALT: MSI Spatium 1TB M.2 (OS/GAMES)
 PSU	|	ASRock Steel Legend SL-650G **650W** ATX	|	$70	|[pcpartpicker](https://pcpartpicker.com/products/power-supply/#xcx=0&th=1&e=4,2&p=1,3,2&sort=price&m=1,52,7,8,337,50,11,14,106,101,17,18,763,62,824,27,94,229,51,71,63,441,113,56,39)	| ALT: ML-07: [SFX Semi/Full-Modular](https://pcpartpicker.com/products/power-supply/#xcx=0&th=5&p=1,3,2&A=550000000000,2050000000000&sort=price&e=5,4,2)
 COOL		|Thermalright AXP90-X53 CPU Cooler, 53mm			|	$25		|[pcpartpicker](https://pcpartpicker.com/product/3g7G3C/thermalright-axp90-x53-4258-cfm-cpu-cooler-axp90-x53)	|OPTIONAL. ALT: [Thermaltake AIO](https://pcpartpicker.com/products/cpu-cooler/#c=33&W=10120&sort=price) *ML-07*: [AXP120-X67](https://pcpartpicker.com/products/cpu-cooler/#xcx=0&H=66500000,72600000&sort=price&m=113)
+COOL		|Arctic P12 Pro PST Fan, 120mm			|	$7		|[pcpartpicker](https://pcpartpicker.com/product/NX3WGX/arctic-p12-pro-pst-77-cfm-120-mm-fan-acfan00306a)	|OPTIONAL. Front case fan
 TOTAL	|						|	**$895**	|	
 
 <!-- Sub-Section -->
