@@ -532,7 +532,8 @@ WeChip G20S Pro/Plus		|	$20	|	RF/BT		|	YES	|	YES | AAA	|	Remote and Air Mouse
 
 - IR
   - If you already have an IR remote, you can use a [Flirc](https://flirc.tv/more/flirc-usb) adapter to allow it to be used with your HTPC and/or Nvidia Shield. Use software below to remap keys.
-  - To transmit IR from your HTPC to other devices, use a [USB-UIRT](http://www.usbuirt.com/).  
+  - To transmit IR from your HTPC to other devices, use a [USB-UIRT](http://www.usbuirt.com/).
+  - For other IR equipment (receivers/emitters/repeaters), check out [EZmation](https://ezmation.com/3-infrared)  
 
 - CEC
   - CEC can be used to send/receive commands from your TV to your PC over HDMI using your TV's remote. This is not standard on a PC. Either get a [HDMI-CEC enabled HTPC](/wiki/sample-builds#specialized-hdmi-cec) or to get [CEC](https://kodi.wiki/view/CEC) functionality where none exists, use a [Pulse Eight](https://www.pulse-eight.com/p/104/usb-hdmi-cec-adapter) adapter or a [compatible Displayport to HDMI adapter](https://docs.kernel.org/admin-guide/media/cec.html#displayport-to-hdmi-adapters-with-working-cec)
