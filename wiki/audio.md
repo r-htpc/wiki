@@ -1176,11 +1176,13 @@ HDMI 1.4 (1080p/4k@30)
 
 [Muxlab 500439](https://www.bhphotovideo.com/c/product/1403012-REG/muxlab_500439_hdmi_audio_extractor_with.html) (Dolby TrueHD/DTS-HD MA Decoder) (RCA 2.0) - HDMI 2.0  
 
-**eARC/ARC -> HDMI/Optical Extractors**  
+**eARC/ARC -> HDMI/Optical/Analog Extractors**  
 
 [ViewHD u9](https://www.amazon.com/ViewHD-Adapter-Audio-Receiver-Application/dp/B08ZHCS5D9) ($35) - Extracts audio from display's HDMI eARC port to regular, non-ARC HDMI input of Sound Systems - "Input" not required  
 
 Orei - [Optical](https://www.amazon.com/Optical-Coaxial-Audio-Extractor-OREI/dp/B00F4ORUDM) / [Analog](https://www.amazon.com/dp/B00F4ORTZ6) - Extracts audio from display's HDMI ARC/eARC port to Optical/Analog input
+
+Southsky - ARC (Stereo) to [Optical/Analog](https://www.amazon.com/dp/B087N4K7KK) - Supports volume control from TV to analog.  
 
 **Optical to Analog converters (DACs)**  
 
