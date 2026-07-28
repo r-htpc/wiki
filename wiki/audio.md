@@ -1050,11 +1050,11 @@ $800 : Polk Magnifi MAX AX SR soundbar
 $600: $300 Yamaha [RX-V385](https://www.google.com/search?q=rx+v385+receiver) receiver, $300 speakers/sub - Dayton Audio ([B40x4](https://www.parts-express.com/Dayton-Audio-Classic-B40-Bookshelf-Speaker-Pair-Black-300-250?quantity=2) FL/FR/SL/SR + [C40x1](https://www.parts-express.com/Dayton-Audio-Classic-C40-Center-Channel-Speaker-Pair-Black-300-252?quantity=1) C) + Dayton Audio SUB-800/Used Polk PSW108 SUB <!-- [Dayton Audio B652 5.1 bundle](https://www.parts-express.com/B652-5.1-Home-Theater-Surround-Sound-Speaker-System-with-10-300-689?quantity=1) -->  
 *- HDMI 2.0, 5.1 channels, TrueHD/DTS-HD MA lossless sound, eARC*  
 $1000: $550 Denon [S760H](https://www.denon.com/en-us/product/av-receivers/avr-s760h) receiver, $500 speakers/sub - Neumi (BS5x4 FL/FR/SL/SR + CS5x1 C) + Dayton Sub-1000 <!-- [Dayton Audio MK442T 5.1 bundle](https://www.parts-express.com/Dayton-Audio-MK442T-5.1-Home-Theater-Bundle-10-Powered-Subwoofer-300-705) -->  
-$2000: $550 Denon [S760H](https://www.denon.com/en-us/product/av-receivers/avr-s760h) receiver, $1450 5.1 speakers/sub - [Kef Q150](https://international.kef.com/products/q150-bookshelf-speaker?variant=18646999302217) (2-pair) (FL/FR/SL/SR) $600 + [Kef Q150](https://international.kef.com/products/q150-bookshelf-speaker?variant=18646999302217) (C) $250 + [SVS PB-2000](https://www.svsound.com/collections/outlet-specials/outlet-subwoofer) (S) $600 
+$2000: $550 Denon [S760H](https://www.denon.com/en-us/product/av-receivers/avr-s760h) receiver, $1450 5.1 speakers/sub - [Kef Q150](https://international.kef.com/products/q150-bookshelf-speaker?variant=18646999302217) (2-pair) (FL/FR/SL/SR) $600 + [Kef Q150](https://international.kef.com/products/q150-bookshelf-speaker?variant=18646999302217) (C) $250 + [SVS PB-2000](https://www.svsound.com/collections/outlet-specials/outlet-subwoofer) (S) $600  
 *- HDMI 2.1, 5.1.2/7.2 channels, Dolby Atmos/DTS:X lossless sound, eARC*  
 
 5. If you have unlimited space and an unlimited budget:  
-$8000: $1800 Denon [AVR-X3800H](https://www.denon.com/en-us/product/av-receivers/avr-x3800h) receiver, $6200 Kef 7.1.2 speakers/subs - Kef Q11 (FL/FR) + Kef Q6 (C) + Kef Q3 (SL/SR) + Kef Q150 (RL/RR) + Kef Q8 (H) + RSL Speedwoofer 12S x2 (S) 
+$8000: $1800 Denon [AVR-X3800H](https://www.denon.com/en-us/product/av-receivers/avr-x3800h) receiver, $6200 Kef 7.1.2 speakers/subs - Kef Q11 (FL/FR) + Kef Q6 (C) + Kef Q3 (SL/SR) + Kef Q150 (RL/RR) + Kef Q8 (H) + RSL Speedwoofer 12S x2 (S)  
 *- HDMI 2.1, 11.4 channels (9.4 powered), Dolby Atmos/DTS:X lossless sound, eARC*  
 
 HTBuyingGuides' [Speaker recommendations](https://www.reddit.com/r/HTBuyingGuides/search/?q=speakers&restrict_sr=1&sr_nsfw=)
@@ -1239,5 +1239,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2026-05-28*
+ *This page was last updated on 2026-07-28*
 
