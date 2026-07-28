@@ -1054,8 +1054,8 @@ $2000: $550 Denon [S760H](https://www.denon.com/en-us/product/av-receivers/avr-s
 *- HDMI 2.1, 5.1.2/7.2 channels, Dolby Atmos/DTS:X lossless sound, eARC*  
 
 5. If you have unlimited space and an unlimited budget:  
-$10000: $1200 Denon [AVR-X3700H](https://www.denon.com/en-us/product/av-receivers/avr-x3700h) receiver, $8800 Monitor Audio Silver 300 7G 7.1.2 + W-12 6G Sub  
-*- HDMI 2.1, 11.2 channels (9.2 powered), Dolby Atmos/DTS:X lossless sound, eARC*  
+$8000: $1800 Denon [AVR-X3800H](https://www.denon.com/en-us/product/av-receivers/avr-x3800h) receiver, $2000 Kef 7.1.2 - Kef Q11 (FL/FR) + Kef Q6 (C) + Kef Q3 (SL/SR) + Kef Q150 (RL/RR) + Kef Q8 (H) + RSL Speedwoofer 12S x2 (S)
+*- HDMI 2.1, 11.4 channels (9.4 powered), Dolby Atmos/DTS:X lossless sound, eARC*  
 
 HTBuyingGuides' [Speaker recommendations](https://www.reddit.com/r/HTBuyingGuides/search/?q=speakers&restrict_sr=1&sr_nsfw=)
  / 
