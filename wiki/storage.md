@@ -186,7 +186,7 @@ Reference the DiY case list below, and the example builds under the [Wiki Sample
 
 If you want to skirt the line between a pre-built NAS and DiY, look at the following, as these can provide the same CPU/GPU performance as a pre-built NAS, but give you more OS support with Windows, Linux or Unraid/TrueNAS/OMV compatibility and DiY-like flexibility:  
 - **Intel-based [Seeed Studio reServer (2 drives)](https://www.seeedstudio.com/catalogsearch/result/?q=reserver&warehouse=CN+Warehouse+In+Stock%2CCN+or+US+Warehouse+In+Stock%2CCN+or+DE+Warehouse+In+Stock)**  
-- **Intel-based [AOOSTAR WTR PRO (4 drives)](https://aoostar.com/products/aoostar-wtr-pro-intel-n150-4-bays-nas-mini-pc?variant=50145480835370) / [AOOSTAR R1 (2 drives)](https://aoostar.com/products/aoostar-r1-2-bay-40t-storage-nas-intel-n100-mini-pc-black?variant=49817168806186)**  
+- **Intel/AMD-based AOOSTAR [R7 (2 drives), WTR PRO (4 drives), WTR MAX (11 drives)](https://aoostar.com/collections/nas11-12)**  
 
 <!-- Sub-Section -->
 
