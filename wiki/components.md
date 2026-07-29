@@ -395,7 +395,7 @@ Any of the options below are fine for general use, though the HT10DBS is preferr
 
 **[Furman PST-8/PST-8D](https://furmanpower.com/collections/power-station-series)** - 8 plug, 4320 Joules, Tele/coax, Noise suppression, Extreme Voltage Shutoff >137V ($150)  
 
-**[Nice MR5100](https://panamax.com/product/mr5100-power-management/)** - 11 plug, 2025 Joules, Tele/coax, Noise suppression, Extreme Voltage Shutoff <95V >135V ($450)  
+**[Nice Panamax MR5100](https://panamax.com/product/mr5100-power-management/)** - 11 plug, 2025 Joules, Tele/coax, Noise suppression, Extreme Voltage Shutoff <95V >135V ($450)  
 
 [Tripp Lite HT10DBS](https://assets.tripplite.com/product-pdfs/en/ht10dbs.pdf) - 10 plug, 3840 Joules, 1440W, $500k protection, Tele/coax/LAN ($120)  
 
