@@ -851,10 +851,10 @@ TOTAL		|											|$760	|		|
 ### 1080p Gaming Steam Box - USED
 
 This budget gaming build runs on Manjaro Linux w/Steam. Bazzite is also possible.  
-It's good for 1080p, High @ 60 fps+ on normal games, Medium @ 45-60 fps on AAA games.  
+It's good for 1080p, High @ 60 fps+ on normal/casual games, Medium @ 45-60 fps on AAA games.  
 It uses a Pre-built PC and GPU from Ebay.  
-Make sure you pick a GPU with a 6-pin (not 8) power connector and a PC with 2 sata connectors free for GPU power. Any Dell/HP/Lenovo MT/tower from the search with an i7-6700 - i5-8500 is fine. You can usually find one with an M.2 SSD so you don't have to purchase one separately like listed below.  
-Manjaro linux OS is free and fine for Steam use and comes pre-installed with it. Simply download the Manjaro KDE Plasma iso, write it to the USB flash drive with Etcher, boot from it and install to your SSD. Install the nvidia non-free/proprietary drivers at install or [later](https://wiki.manjaro.org/index.php/Configure_Graphics_Cards#Identifying_Available_Drivers), then Enable Steam Play and Proton in the Compatability preferences of the Steam client.  
+Make sure you pick a GPU with a 6-pin (not 8) power connector and a PC with 2 sata connectors free for GPU power. Any Dell/HP/Lenovo MT/tower from the search with an i7-6700 - i5-8500 is fine. Something like a Dell Optiplex 7060 MT or HP EliteDesk 800 G4 TWR. You can usually find one with an SSD so you don't have to purchase one separately like listed below.  
+Manjaro linux OS is free and fine for installing the Steam client on it. Simply download the Manjaro KDE Plasma iso, write it to the USB flash drive with Etcher, boot from it and install to your SSD. Install the nvidia non-free/proprietary drivers at install or [later](https://wiki.manjaro.org/index.php/Configure_Graphics_Cards#Identifying_Available_Drivers), then Install Steam, Enable Steam Play and Proton in the Compatability preferences of the Steam client.  
 Alternatively, you can run Windows if you want to play games not supported on Linux, such as Fortnite, PUBG, Warzone, Rainbow Six, etc..  
 Use a [8bitdo Ultimate 2c](https://www.amazon.com/dp/B0DB4LXDP7) controller w/[Controller Companion](https://store.steampowered.com/app/367670/Controller_Companion/)  
 
