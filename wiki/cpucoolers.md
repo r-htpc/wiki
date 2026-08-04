@@ -117,7 +117,7 @@ Thermalright AXP120-X67, Noctua NH-L12Sx77
 
 **CASE: Silverstone GD07-GD08**  
 - AIR: 
-  - [Thermalright Peerless Assassin Mini](https://www.reddit.com/r/htpc/comments/1ccjsrn/put_a_dualtower_air_cooler_in_a_silverstone_gd09/), Thermalright Silver Soul 135, [Noctua NH-U9S](https://www.reddit.com/r/htpc/comments/1ccjsrn/put_a_dualtower_air_cooler_in_a_silverstone_gd09/), Noctua NH-D9L, Noctua NH-L12s.  
+  - [Thermalright Peerless Assassin Mini](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Ff57pkedntehh1.jpeg%3Fwidth%3D3000%26format%3Dpjpg%26auto%3Dwebp%26s%3D8a6a04da98153f268c65d13c4f63cd07a4379aa5), Thermalright Silver Soul 135, [Noctua NH-U9S](https://www.reddit.com/r/htpc/comments/1ccjsrn/put_a_dualtower_air_cooler_in_a_silverstone_gd09/), Noctua NH-D9L, Noctua NH-L12s.  
 
 **CASE: Silverstone GD09-GD10**  
 - AIR: 
