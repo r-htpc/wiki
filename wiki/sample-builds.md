@@ -851,7 +851,7 @@ TOTAL		|											|$760	|		|
 ### 1080p Gaming Steam Box - USED
 
 This budget gaming build runs on Manjaro Linux w/Steam. Bazzite is also possible.  
-It's good for 1080p, High @ 90+ fps on normal/casual games, Medium @ 60+ fps on AAA games.  
+It's good for 1080p, High @ 90+ fps on normal/casual games, Medium @ 45-60 fps on AAA games.  
 It uses a Pre-built PC and GPU from Ebay.  
 Any Dell/HP/Lenovo MT/tower from the search with an i7-7700 - i5-8500 is fine. Something like a Dell Optiplex 7060 MT or HP EliteDesk 800 G4 TWR. If you're not comfortable using SATA power for your GPU, find a Dell XPS 8920/8930/8940 that has a GPU power connector. You can also find the XPSes with a GTX 1660 included, but you'll pay a little more. You can usually find a system with an SSD so you don't have to purchase one separately like listed below.  
 Manjaro linux OS is free and fine for installing the Steam client on it. Simply download the Manjaro KDE Plasma iso, write it to the USB flash drive with Etcher, boot from it and install to your SSD. Install the nvidia non-free/proprietary drivers at install or [later](https://wiki.manjaro.org/index.php/Configure_Graphics_Cards#Identifying_Available_Drivers), then Install Steam, Enable Steam Play and Proton in the Compatability preferences of the Steam client.  
