@@ -853,7 +853,7 @@ TOTAL		|											|$760	|		|
 This budget gaming build runs on Manjaro Linux w/Steam. Bazzite is also possible.  
 It's good for 1080p, High @ 60 fps+ on normal/casual games, Medium @ 45-60 fps on AAA games.  
 It uses a Pre-built PC and GPU from Ebay.  
-Make sure you pick a GPU with a 6-pin (not 8) power connector and a PC with 2 sata connectors free for GPU power. Any Dell/HP/Lenovo MT/tower from the search with an i7-6700 - i5-8500 is fine. Something like a Dell Optiplex 7060 MT or HP EliteDesk 800 G4 TWR. You can usually find one with an SSD so you don't have to purchase one separately like listed below.  
+Any Dell/HP/Lenovo MT/tower from the search with an i7-7700 - i5-8500 is fine. Something like a Dell Optiplex 7060 MT or HP EliteDesk 800 G4 TWR. If you're not comfortable using SATA power find a Dell XPS 8920/8930/8940 that has a GPU power connector. You can also find the XPSes with a GTX 1660 included, but you'll pay a little more. You can usually find a system with an SSD so you don't have to purchase one separately like listed below.  
 Manjaro linux OS is free and fine for installing the Steam client on it. Simply download the Manjaro KDE Plasma iso, write it to the USB flash drive with Etcher, boot from it and install to your SSD. Install the nvidia non-free/proprietary drivers at install or [later](https://wiki.manjaro.org/index.php/Configure_Graphics_Cards#Identifying_Available_Drivers), then Install Steam, Enable Steam Play and Proton in the Compatability preferences of the Steam client.  
 Alternatively, you can run Windows if you want to play games not supported on Linux, such as Fortnite, PUBG, Warzone, Rainbow Six, etc..  
 Use a [8bitdo Ultimate 2c](https://www.amazon.com/dp/B0DB4LXDP7) controller w/[Controller Companion](https://store.steampowered.com/app/367670/Controller_Companion/)  
@@ -861,15 +861,15 @@ Use a [8bitdo Ultimate 2c](https://www.amazon.com/dp/B0DB4LXDP7) controller w/[C
 PART			|BRAND/MODEL												|	PRICE	|	VENDOR	|	NOTES
 :--|:--|:--|:--|:--
 CASE/CPU/MEM	|Dell/HP/Lenovo Mini Tower pre-built w/8GB RAM	|	$100	|	[Ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=%28dell%2Chp%2Clenovo%29+%28mt%2Ctower%29+%28i7-6700%2Ci7-7700%2Ci5-8500%2Ci5-8400%29&_sacat=179&LH_TitleDesc=0&_sop=15&rt=nc&LH_All=1)	|	ALT: [i5-10400](https://www.ebay.com/sch/i.html?_nkw=%28dell%2Chp%2Clenovo%29+%28mt%2Ctower%29+%2810400%2C11400%2C12400%29&_sacat=179&_from=R40&_sop=15&rt=nc&LH_BIN=1) ($150)
-GPU				|Nvidia GTX 1060 6GB w/6-pin								|	$75	|	[Ebay](https://www.ebay.com/sch/27386/i.html?_fsrp=1&rt=nc&_from=R40&_nkw=gtx+1060+%226GB%22&LH_BIN=1&_sacat=27386&_sop=15&LH_ItemCondition=1000%7C1500%7C2020%7C3000)	|	ALT: Nvidia GTX 1650 Super 6-pin ($90)
-STORAGE		|512GB M.2 NVMe SSD										|	$40		|	[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&sort=price&A=450000000000,525000000000&D=1&f=122080)	|	ALT: [2.5" Version](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&sort=price&A=450000000000,525000000000&f=3&t=0) ($35)
+GPU				|Nvidia GTX 1660 Super								|	$95	|	[Ebay](https://www.ebay.com/sch/i.html?_fsrp=1&rt=nc&_from=R40&_nkw=gtx+1660+super+%226GB%22&_sacat=27386&LH_BIN=1&_sop=15&LH_ItemCondition=1500%7C2010%7C3000%7C2030)	|	ALT: Nvidia GTX 1660 ($90)
+STORAGE		|512GB M.2 NVMe/SATA SSD										|	$60		|	[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#t=0&A=450000000000,36000000000000&sort=price&page=1)	|	ALT: [1 TB](https://pcpartpicker.com/products/internal-hard-drive/#t=0&A=900000000000,36000000000000&sort=price&page=1) ($100)
 STORAGE		|16GB+ USB flash drive												|	$8		|	[Amazon](https://www.amazon.com/SanDisk-Ultra-Flair-Flash-Drive/dp/B015CH1JIW)	|	For Linux install
-ADAPTER			|SATA dual to pcie 6-pin adapter							|	$7		|	[Amazon](https://www.amazon.com/Power-Express-Video-Cable-Adapter/dp/B007Y91B80)	|	
+ADAPTER			|SATA dual to pcie 8-pin adapter							|	$9		|	[Amazon](https://www.amazon.com/Cable-Matters-2-Pack-SATA-Power/dp/B01DV1Z4X2/)	|	
 ACCESSORY	|HDMI to HDMI Cable						|$7			|	[Amazon](https://www.amazon.com/Monoprice-115428-Certified-Premium-18Gbps/dp/B01GCGKI3O)	| HDMI 2.0 - 6 Ft
 OS				|Manjaro Linux w/KDE Plasma									|	$0		|	[Download](https://manjaro.org/products/download/x86)	|	
 SOFTWARE		|Etcher ISO writer											|	$0		|	[Download](https://www.balena.io/etcher/)	|	
 SOFTWARE		|Steam + Proton Experimental								|	$0		|	NA		|	
-TOTAL			|															|	**$237**	|			|	
+TOTAL			|															|	**@$280**	|			|	
 
 <!-- Sub-Section -->
 
