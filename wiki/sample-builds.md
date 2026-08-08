@@ -80,7 +80,7 @@ $150-$400: SMALLER: Intel/AMD Mini PC, 8GB+ RAM, 256GB+ SSD
   - **AMD: [GMKTec NucBox M8](https://www.gmktec.com/products/gmktec-m8-amd-ryzen-5-pro-6650h-mini-pc?spm=..product_4ab503e5-bb5b-4d4b-9952-36de613b5e59.header_1.1&spm_prev=..product_c7f93fd8-490e-41ae-bb4a-b29b63d14794.header_1.1) (6650H) ($360)** 
   - Intel: [Asus NUC 15 Pro](https://www.amazon.com/s?k=nuc+15+pro&i=electronics&s=price-asc-rank&crid=28E5CFCHJSEC7&qid=1777851603&sprefix=nuc+1+pro%2Celectronics%2C191&ref=sr_st_price-asc-rank&ds=v1%3ARUBRqD8%2FXuWkTMYzYJ0DtfosCKz9J%2BgcpbJch3H9Cu8) ($375+[RAM](https://pcpartpicker.com/products/memory/#xcx=0&Z=8192001,16384001,16384002,32768002&ff=ddr5_sodimm&sort=price&m=11,17,23,462,28,29,30,31,32,444,341)+[SSD](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&t=0&D=1&A=240000000000,1000000000000&sort=price&page=1))  
   - AMD: [Minisforum UM690L](https://www.amazon.com/MINISFORUM-UM690-Slim-PCIe4-0-Computer/dp/B0F386YJSS/?th=1) (6900HX) ($400)
-  - Intel: [MSI PRO DP21 iX](https://www.amazon.com/s?k=msi+pro+dp21&i=electronics&s=price-asc-rank) / [Lenovo IdeaCentre Mini](https://www.lenovo.com/us/en/desktops/results/?visibleDatas=698%3AIdeaCentre%3B790%3AIdeaCentre%2520Mini%2520Series) ($400-$600)
+  - Intel: [MSI PRO DP21 iX](https://www.amazon.com/s?k=msi+pro+dp21&i=electronics&s=price-asc-rank) / [Lenovo IdeaCentre Mini](https://www.amazon.com/dp/B0DTY4L95B?lv=shuf&channelId=500&plpRedirect=mhFallback&th=1) ($400-$600)
     
 <!--  - [Morefine M9S](https://www.amazon.com/MOREFINE-M9S-AlderLake-Desktop-Computers/dp/B0DHZP1B4M) (N305) ($220) -->
 <!--  - Intel: [Beelink SEI 11/12](https://www.amazon.com/s?k=sei11%7Csei12%7C11320h%7C1235u%7C12450h&rh=n%3A13896591011&ref=nb_sb_noss) ($320) -->
