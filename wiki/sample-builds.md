@@ -142,7 +142,7 @@ $150-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB+ RAM, 256GB ssd/1TB hdd
 
 ### Specialized: 4K Netflix
 
-Intel Core 8th gen i3+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDMI 2.0 port + Windows 10+. Prices may reflect cost before ram/ssd.  
+Intel Core 8th gen i3+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDMI 2.0 port + Windows 11+. Prices may reflect cost before ram/ssd.  
 
 - Used: [Intel](https://www.ebay.com/sch/i.html?_fsrp=1&rt=nc&_from=R40&_nkw=intel+nuc+(nuc8%2Cnuc11%2Cnuc12%2Cnuc13)+(i5%2Ci7)&_sacat=179&_sop=15&LH_ItemCondition=1000%7C1500%7C2010%7C3000) NUCs ($150+)
 - Used: Dell Optiplex [3000-7000](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%28optiplex+3000%29+%28i3%2Ci5%2Ci7%29&_sacat=171957&_odkw=%28optiplex%29+%283000%29+%28i3%2Ci5%2Ci7%29&_osacat=171957&LH_BIN=1&_sop=15&LH_PrefLoc=2) + [HDMI 2.0 card](https://www.dell.com/en-us/shop/dell-daughterboard-i-o-hdmi-card/apd/cpx-3v9n2/controller-cards) ($250+) (**AV1**) / [xx60-xx90](https://www.ebay.com/sch/i.html?_fsrp=1&_blrs=recall_filtering&rt=nc&_from=R40&_nkw=(optiplex)+(3060%2C3070%2C3080%2C5060%2C5070%2C5080%2C7060%2C7070%2C7080)+(i3-8100%2Ci3-9100%2Ci3-10100%2Ci5-8400%2C8500%2Ci5-8600%2Ci5-9400%2C9500%2C9600)&_sacat=179&LH_BIN=1&_sop=15&LH_ItemCondition=3000%7C2030%7C2020%7C1500%7C1000%7C2010) + [HDMI 2.0 card](https://www.ebay.com/sch/i.html?_from=R40&_nkw=dell+hdmi+2.0+%28HXPK2%2C1KNYY%2CR07CP%2C5N1NY%29&_sacat=0&_sop=12) ($120+) (**no AV1**) 
@@ -975,5 +975,5 @@ TOTAL		|											|$801			|	|
 
 ---
  
-*This page was last updated on 2026-07-23*
+*This page was last updated on 2026-08-09*
 
