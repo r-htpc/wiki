@@ -714,7 +714,7 @@ Simple, Tonemapping
 
 * *Requirements:*
   * Common settings above
-  * Netflix: ALL displays have HDCP 2.2 support and are recognized. Check Nvidia/AMD/Intel graphics control panel for HDCP status. Required software is installed: Microsoft Store [HEVC Extension](https://www.microsoft.com/en-us/p/hevc-video-extensions/9nmzlz57r3t7), Intel MEI driver/ME firmware (Intel iGPU). Required [Premium Plan](https://help.netflix.com/en/node/24926) subscription. 
+  * Netflix: ALL displays have HDCP 2.2 support and are recognized. Check Nvidia/AMD/Intel graphics control panel for HDCP status. Required software is installed: Windows 11+, Microsoft Store [HEVC Extension](https://www.microsoft.com/en-us/p/hevc-video-extensions/9nmzlz57r3t7), Intel MEI driver/ME firmware (Intel iGPU). Required [Premium Plan](https://help.netflix.com/en/node/24926) subscription. 
   * Supported Web Browsers/Apps: Microsoft Edge (Netflix/Youtube), Microsoft Store app (Netflix), Google Chrome (Youtube)  
 * *Windows settings:*  
   * Activate HDR
@@ -846,5 +846,5 @@ Do one or more of the following..
 
 ---
 
-*This page was last updated on 2026-07-29*
+*This page was last updated on 2026-08-09*
 
