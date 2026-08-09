@@ -607,8 +607,8 @@ The following are the current capabilities of the major streaming services as we
  
 - [YOUTUBE](https://support.google.com/youtube/answer/78358?hl=en#:~:text=To%20watch%20YouTube%20videos%2C%20make,Internet%20connection%20with%20500%2B%20Kbps)  
 
-  - *Windows:* 4k HDR10, Stereo
-  - *Linux:* 4k SDR, Stereo
+  - *Windows:* [4k](/wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility) [HDR10](/wiki/faq#what-is-hdr-video-and-what-do-i-need-to-take-advantage-of-it), Stereo
+  - *Linux:* [4k](/wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility) SDR, Stereo
 
 - [YOUTUBE TV](https://support.google.com/youtubetv/answer/7129767?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Cmobile-devices-computers%2Cstreaming-media-players-smart-tvs-game-consoles)  
 
@@ -723,7 +723,7 @@ See the DiY section of our [Sample Builds](/wiki/sample-builds#htpc-diy-builds) 
 
 4k youtube: [HDMI 2.0 motherboard](/wiki/hdmi20) + >= [Intel 7th Gen/Gemini Lake/Athlon 200GE/Ryzen 2200G CPU](/wiki/components#cpus) **OR** CPU (>= circa 2008) + dGPU >= [Nvidia GT1030 GDDR5/AMD RX 5x00](/wiki/components#gpusgraphics) **(REC: Ryzen 5500GT+B550 mobo)**.  
 
-4k netflix: HDCP 2.2 display(s), [HDMI 2.0 motherboard](/wiki/hdmi20) + >= [Ryzen 3200G/3400G/Intel 7th Gen/Gemini Lake CPU](/wiki/components#cpus) **OR** CPU (>= circa 2008) + dGPU >= [Nvidia GTX 1050 3GB/AMD RX 550/5x00](/wiki/components#gpusgraphics) **(REC: Ryzen 5500GT+B550 mobo)**. Windows 10+. Microsoft [HEVC Video Extensions](https://www.microsoft.com/en-us/p/hevc-video-extensions/9nmzlz57r3t7). Netflix app/Microsoft Edge browser. Intel MEI driver/ME firmware (Intel iGPU). Netflix [Premium Plan](https://help.netflix.com/en/node/24926). Netflix [Test Patterns](https://www.netflix.com/title/80018499).  
+4k netflix: HDCP 2.2 display(s), [HDMI 2.0 motherboard](/wiki/hdmi20) + >= [Ryzen 3200G/3400G/Intel 7th Gen/Gemini Lake CPU](/wiki/components#cpus) **OR** CPU (>= circa 2008) + dGPU >= [Nvidia GTX 1050 3GB/AMD RX 550/5x00](/wiki/components#gpusgraphics) **(REC: Ryzen 5500GT+B550 mobo)**. Windows 11+. Microsoft [HEVC Video Extensions](https://www.microsoft.com/en-us/p/hevc-video-extensions/9nmzlz57r3t7). Netflix app/Chrome/Microsoft Edge browser. Intel MEI driver/ME firmware (Intel iGPU). Netflix [Premium Plan](https://help.netflix.com/en/node/24926). Netflix [Test Patterns](https://www.netflix.com/title/80018499).  
 
 4k/UHD Blu-Ray disc playing: HDCP 2.2 display, [HDMI 2.0 motherboard w/SGX support](/wiki/hdmi20), [Intel i3/5/7/9](/wiki/components#cpus) **7th-10th Gen CPU w/iGPU ONLY** **(REC: Intel i5-8xxx+Gigabyte H370N mobo)**. Windows 10+. Use of a dedicated GPU (dGPU) is **not** supported.  
 
