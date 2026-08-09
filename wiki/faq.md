@@ -591,7 +591,7 @@ The following are the current capabilities of the major streaming services as we
 
 - [NETFLIX](https://help.netflix.com/en/node/30081)  
 
-  - *Windows 11:* (MS Edge/MS Store App) [4k HDR10](/wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility) [DD+ 5.1 Atmos](https://help.netflix.com/en/node/14163). (Chrome) [4k](/wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility) SDR Stereo. (Firefox/Opera) 1080p SDR Stereo
+  - *Windows 11:* (MS Edge/MS Store App) [4k](/wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility) [HDR10](/wiki/faq#what-is-hdr-video-and-what-do-i-need-to-take-advantage-of-it) [DD+ 5.1 Atmos](https://help.netflix.com/en/node/14163). (Chrome) [4k](/wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility) SDR Stereo. (Firefox/Opera) 1080p SDR Stereo
   - *Windows 7/10:* (MS Edge/MS Store App) 1080p SDR [DD+ 5.1 Atmos](https://help.netflix.com/en/node/14163). (Chrome/Firefox/Opera) 1080p SDR Stereo.
   - *Linux:* (Opera) 1080p SDR, (Other Browsers) 720p SDR
 
