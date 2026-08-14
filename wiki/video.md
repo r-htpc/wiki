@@ -408,12 +408,14 @@ If configured correctly, in your OS system monitor, CPU Usage should be low duri
 
 BROWSERS/STREAMING SERVICES:  
 1. Make sure your service supports the video codec/resolution you want to play. See: [Wiki:FAQ:What resolution and audio is supported on streaming service X?](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x)
-2. If 4k, make sure you have the proper hardware and dependency software. See [here](/wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility).
+2. If >= 1080p desired for commercial streaming service, make sure:
+ - If 1080p, you support HDCP 1.4 in all parts of your video chain
+ - If 4k, you support HDCP 2.2 in all parts of your video chain and have the proper hardware and dependency software. See [here](/wiki/faq#what-do-i-need-for-4k-ultrahd-compatibility). You have graphics acceleration enabled in your browser. You have the [HEVC](https://www.microsoft.com/en-us/p/hevc-video-extensions/9nmzlz57r3t7) and/or [AV1](https://apps.microsoft.com/detail/9mvzqvxjbq9v?hl=en-US&gl=US) extensions installed
+ - You're using Windows/Mac and DRM support is enabled. Look for terms like "Widevine" or "Playready" in your browser. In Edge (preferred), look in: edge://flags/#edge-widevine-drm (Enabled), edge://gpu (playready disabled false), edge://components (widevine module), edge://media-internals -> CDMs (status enabled).
 3. If applicable, install the app for your service from the Microsoft store or use a browser listed in step 1's link for the desired res/audio.
-4. Make sure Graphics accleration and DRM is enabled in your browser. Search for "acceleration" or "performance" in your browser's settings page for acceleration. "DRM" or "Widevine" for DRM. Restart your browser after any change.
-5. Set up Audio bitstreaming. See [Wiki:Audio Setup Guide:Application Specific Setup for Bitstreaming](https://r-htpc.github.io/wiki/audio#application-specific-setup-for-bitstreaming).
-6. If HDR, see: [Wiki:HDR Setup Guide:Streaming Content (Netflix, Youtube, etc..)](/wiki/hdr#streaming-content-netflix-youtube-etc)  
-7. Test your browser's video capabilities with [Dolby's capabilities test website](https://ott.dolby.com/codec_test/index.html)  
+4. Set up Audio bitstreaming. See [Wiki:Audio Setup Guide:Application Specific Setup for Bitstreaming](/wiki/audio#application-specific-setup-for-bitstreaming).
+5. If HDR, see: [Wiki:HDR Setup Guide:Streaming Content (Netflix, Youtube, etc..)](/wiki/hdr#streaming-content-netflix-youtube-etc)  
+6. Test your browser's video capabilities with [Dolby's capabilities test website](https://ott.dolby.com/codec_test/index.html)  
 
 [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases):  
 1. View->Options->Internal Filters->Video Decoders->Video Decoder Configuration
