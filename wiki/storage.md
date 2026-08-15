@@ -62,7 +62,7 @@ Recommended drives are bolded in the [Hardware section below](/wiki/storage#hard
 
 ## External Storage
 
-External media storage can come in the format of USB drives or USB/Thunderbolt Direct Attached Storage enclosures (DAS); drives in a DAS can act as individual drives or as one drive. These USB-based storage devices are o.k. for beginner setups, but anything attached by **USB is at risk of being disconnected at random**, so **internal or network storage is preferred** to external, for reliability and stability. That said, if a DAS is PCIe SAS-based instead of USB, this is just as good as internal/network storage.  
+External media storage can come in the format of USB drives or USB/Thunderbolt/PCIe Direct Attached Storage enclosures (DAS); drives in a DAS can act as individual drives or as one drive. These USB-based storage devices are o.k. for beginner setups, but anything attached by **USB is at risk of being disconnected at random**, so **internal or network storage is preferred** to external, for reliability and stability. If you must, use a PCIe SAS-based DAS instead, as this is just as good as internal storage reliability.  
 **Never** do Software RAID or drive pooling over USB.  
 
 Recommended DASes are bolded in the [Hardware section below](/wiki/storage#direct-attach-storage-das). PCIe solutions being preferred. 
@@ -387,8 +387,6 @@ If you're looking for a software storage solution for your DiY hardware, [Unraid
 
 OS: [Unraid](https://unraid.net), [TrueNAS](https://www.truenas.com/truenas-scale/), [Openmediavault](https://www.openmediavault.org/), [Ubuntu Server](https://ubuntu.com/download/server), [Rockstor](http://rockstor.com)  
 
-Software Management: Docker
-
 Volume Management:
   - Windows: [Windows Storage Spaces](https://support.microsoft.com/en-us/windows/storage-spaces-in-windows-10-b6c8b540-b8d8-fb8a-e7ab-4a75ba11f9f2), [StableBit DrivePool](https://stablebit.com/DrivePool), [snapraid](https://www.snapraid.it/), [Elucidate (snapraid GUI)](https://github.com/Smurf-IV/Elucidate)
   - Linux: mdadm, [snapraid](https://www.snapraid.it/), [mergerFS](https://github.com/trapexit/mergerfs/wiki), BTRFS, ZFS
@@ -403,9 +401,11 @@ Disk Management:
 Data Sync:
   - rsync / freefilesync / syncthing
 
+Software Management: Docker, podman
+
 Benchmarking:
   - Windows: [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/), [hdtune](https://www.hdtune.com/)
-  - Linux: dd / hdparm
+  - Linux: dd / hdparm, [DiskSpeed](https://hub.docker.com/r/jbartlett777/diskspeed/tags)
 
 <!-- Section -->
 
@@ -423,5 +423,5 @@ If your storage is on a windows-based OS, [follow these instructions](https://su
 
 ---
 
-*This page was last updated on 2026-08-14*
+*This page was last updated on 2026-08-15*
 
