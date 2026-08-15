@@ -135,7 +135,7 @@ Below are the minimum requirements for each scenario and a recommendation. The r
 
 - UHD Blu-Ray disc playing: Not supported. Intel iGPU only. 
 
-- Plex Transcoding: [Elpamsoft GPU transcode tables](https://www.elpamsoft.com/?p=Plex-Hardware-Transcoding) (REC: Intel A3x0/Quadro P600/GTX 1650) 
+- Plex Transcoding: [Elpamsoft GPU transcode tables](https://www.elpamsoft.com/?p=Plex-Hardware-Transcoding) (REC: Quadro P1000/Intel A3x0/GTX 1650) 
 
 - Low Profile (4K Netflix+Youtube+Local HDR/Gaming): AMD RX 6400, Intel A380, Nvidia GTX 1050 Ti/1650, RTX 3050/5050/5060 LP (REC: Used: GTX 1050 Ti LP, New: Gaming/Upscaling: RTX LP, Media no-upscaling: Intel A380/Yeston GTX 1050 Ti LP) 
 
