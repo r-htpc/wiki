@@ -551,5 +551,5 @@ WeChip G20S Pro/Plus		|	$20	|	RF/BT		|	YES	|	YES | AAA	|	Remote and Air Mouse
 
 ---
 
-*This page was last updated on 2026-07-29*
+*This page was last updated on 2026-08-15*
 
