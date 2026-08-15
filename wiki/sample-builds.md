@@ -218,7 +218,7 @@ Intel Core 8th gen i3+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDM
 
 - Light: GMKtec G3 Plus N150, [Pre-built NAS](/wiki/storage#pre-built-nas) (Nxx-based) - ~3x 4k transcodes
 - Medium: Beelink EQI12 i5-1235U - ~6x 4k transcodes
-- Heavy: Minisforum i5-12600H, GMKTec i7-12700H/Minisforum i7-12800H, [Intel NUC 12/13 i7](https://www.newegg.com/p/pl?N=100008345%2050001157%20601398019%20601412544%20601398041%20601412545%2050001315%20601412542%20601398044%20601441281&Order=1) - ~12x 4k transcodes.
+- Heavy: Minisforum i5-12600H, GMKTec i7-12700H/Minisforum i7-12800H, [Intel NUC 12/13 i7](https://www.newegg.com/p/pl?N=100008345%2050001157%20601398019%20601412544%20601398041%20601412545%2050001315%20601412542%20601398044%20601441281&Order=1) - ~10x 4k transcodes.
 <!-- - [DiY NAS/Media Server Build w/i5-12500+](https://r-htpc.github.io/wiki/sample-builds#nasmedia-server-builds) - ~18 4k transcodes -->
 
 <!-- Sub-Section -->
@@ -665,7 +665,7 @@ Lots of DDR5 RAM for VMs, Dockers and, if you so choose, Plex media transcoding 
 
 If you want a system with ECC memory and a workstation mobo, see our [pcpartpicker part list](https://pcpartpicker.com/list/yvMQ6Q).  
 
-As a Plex server, with the purchased Plex Pass, you can transcode ~12x4k or 25x1080p transcodes concurrently on the CPU's iGPU. Without a Plex Pass, 
+As a Plex server, with the purchased Plex Pass, you can transcode ~10x4k or 25x1080p transcodes concurrently on the CPU's iGPU. Without a Plex Pass, 
 expect 8x1080p streams with CPU software transcoding. <!-- For more transcodes, add a used [Quadro P5000](https://www.elpamsoft.com/?p=Plex-Hardware-Transcoding) dGPU (11x4k,22x1080p) ($300). -->
 
 The LSI HBA adapter has 8 ports for SATA drives. You can use the SATA ports on the motherboard for your HDDs, then add on the HBA when you outgrow those, or vice-versa.  
