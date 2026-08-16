@@ -115,11 +115,12 @@ Some features like HDR, 4K and protected content will restrict you to certain dG
 Below are the minimum requirements for each scenario and a recommendation. The recommendations are generalized and may change depending on your budget, regional availability, space/power requirements, and whether you want new or second-hand parts. If you're not sure, post and ask us for a rec based on your detailed use-case.  
 
 - **Best All-Rounder: Intel Arc A310/A380**
-  - Will run 4k@60Hz, HDR, AV1, has low-profile versions and only requires PCIe slot power. Its weakness is it doesn't do [4k@120Hz](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output). To get that, look at the Nvidia RTX 3050 6GB or ARC B570. If you don't need AV1, the [GTX 1050 Ti 4GB LP](https://yestonstore.com/collections/gtx-10-series).
+  - Will run 4k@60Hz, HDR, AV1, has low-profile versions and only requires PCIe slot power
+  - If you don't need AV1, then a used GTX 1050 Ti 4GB is fine for $50. If you need [4k@120Hz](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output), look at the Nvidia RTX 3050 6GB or ARC B570. 
 
 - 1080p H264, 4k@30Hz video out or for DP/HDMI HD audio only: [Nvidia GT 730](https://www.ebay.com/sch/i.html?_nkw=gt+730&_sacat=0&_from=R40&_trksid=p4624852.m570.l1313) 
 
-- 4K Local HDR+4K Youtube HDR: Nvidia >= GT 1030 GDDR5, AMD >= 5x00/6x00 (REC: Used: GTX 1650, New: Intel A3x0/Yeston GTX 1050 Ti 4GB LP) 
+- 4K Local HDR+4K Youtube HDR: Nvidia >= GT 1050 GDDR5, AMD >= 5x00/6x00 (REC: Used: GTX 1650, New: Intel A3x0/Yeston GTX 1050 Ti 4GB LP) 
 
 - 4K Netflix: Nvidia >= GTX 1050 3GB, AMD >= RX 550/5x00/6x00 (REC: Used: GTX 1650, New: Intel A3x0/Yeston GTX 1050 Ti 4GB LP) 
 
