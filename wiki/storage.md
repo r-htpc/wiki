@@ -334,6 +334,7 @@ Silverstone CS382				|8+1		|2		|$215		| 8.54 x 15.94 x 17.76							|**YES**	|39.
 Silverstone CS380B				|8+2/3	|NA		|$190		|8.48 x 16.79 x 19.19		|**YES**	|44.7			|ATX/uATX/ITX			|ATX PSU, SATAx2 (12Gbps), 146mm CPU, 2x5.25"
 Phanteks P400A			|2+4+2	|2		|$85		|8.3 x 18.5 x 18.3		|No		|46	|ATX/uATX/ITX		|2x3.5 (std)+4x3.5" (sleds)+2x3.5" (psu shroud top) 
 Fractal Design Define R5			|8+2/3	|2		|$120		|9.1 x 17.7 x 20.5		|No		|47.3	|ATX/uATX/ITX		|8x3.5",2x5.25", +2x3.5" in 5.25" (+3 w/[Evercool adapter](https://www.amazon.com/EverCool-Dual-Drive-Triple-Cooling/dp/B0032UUGF4)) + 2x3.5 on top (unofficially)? could fit 13 total?
+Jonsbo N5				|12		|4		|$245		|13.98 x 13.78 x 15.86 		|No		|50.0			|E-ATX/ATX/uATX/ITX		|ATX PSU. 160mm CPU. [link](https://www.jonsbo.com/en/products/N5Black.html)
 Silverstone TJ04B-E				|9+4/6		|NA		|$245		|8.43 x 19.25 x 19.25		|No		|51.2			|CEB/ATX/uATX		|9x3.5",4x5.25"
 **Rosewill Helium NAS**			|10		|3		|$90		|9 in x 19 in x 18.7 in		|No		|52.4	|EATX/ATX/uATX/ITX		|4 fans included - [link](https://www.rosewill.com/p/9SIA072KE80547)
 Fractal Design Define 7		|13		|4		|$160		|9.4 x 18.7 x 21.5		|No		|57.7	|EATX/ATX/uATX/ITX		|13x3.5,1x5.25"
