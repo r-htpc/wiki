@@ -116,7 +116,7 @@ Below are the minimum requirements for each scenario and a recommendation. The r
 
 - **Best All-Rounder: Intel Arc A310/A380**
   - Will run 4k@60Hz, HDR, AV1, has low-profile versions and only requires PCIe slot power
-  - If you don't need AV1, then a used GTX 1050 Ti 4GB is fine for $50. If you need [4k@120Hz](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output), look at the Nvidia RTX 3050 6GB or ARC B570. 
+  - If you don't need AV1, then a used [GTX 1050 Ti 4GB](https://www.ebay.com/sch/i.html?_fsrp=1&rt=nc&_from=R40&_nkw=gtx+1050+ti&_sacat=0&LH_BIN=1&_sop=15&LH_ItemCondition=1000%7C2010%7C2020%7C2030%7C3000%7C1500) is fine for $50. If you need [4k@120Hz](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output), look at the [Nvidia RTX 3050 6GB](https://pcpartpicker.com/products/video-card/#xcx=0&c=572,518&sort=price&page=1) or [ARC B570](https://pcpartpicker.com/products/video-card/#xcx=0&c=586,585&sort=price). 
 
 - 1080p H264, 4k@30Hz video out or for DP/HDMI HD audio only: [Nvidia GT 730](https://www.ebay.com/sch/i.html?_nkw=gt+730&_sacat=0&_from=R40&_trksid=p4624852.m570.l1313) 
 
