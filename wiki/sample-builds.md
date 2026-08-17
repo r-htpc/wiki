@@ -33,7 +33,7 @@ You can use [PCPartPicker](http://www.pcpartpicker.com/) to help you select part
 
 Pre-builts come in all shapes and sizes. The smallest options are tempting, but usually this means less performance, higher price, and/or more noise. Things like the [SBC](https://en.wikipedia.org/wiki/Single-board_computer) options below will have the highest power efficiency, but also lowest performance, usualy just good enough to get the job done. Intel N/AMD U CPUs (e.g. N150/5560U) have high efficiency. Intel T/AMD GE CPUs (e.g. i3-8100T) medium efficiency. Non-T/non-GE desktop CPUs, low efficiency.  
 
-**Choosing the least expensive option is attractive, but not always the best course of action.** While we recommend some lower-cost chinese vendors below (like Beelink and Minisforum), these may not be for you. With low cost comes limitations like operating system/BIOS support, HDCP, warranty/tech support, quality control, security and reliability. If you're not comfortable giving up on those things, spend more to purchase similar speced hardware from other, reputable vendors.  
+**Choosing the least expensive option is attractive, but not always the best course of action.** With low cost comes limitations like operating system/BIOS support, HDCP, warranty/tech support, quality control, security and reliability. If you're not comfortable giving up on those things, spend more to purchase similar speced hardware from other, reputable vendors.  
 
 Some of these are: **Intel (NUC), [Lenovo (ThinkCentre/IdeaCentre)](https://www.amazon.com/dp/B0DTY4L95B?lv=shuf&channelId=500&plpRedirect=mhFallback&th=1), [MSI (NUC/DP)](https://www.amazon.com/s?k=msi+pro+dp&i=electronics&crid=3CSHSKNEPR78X&sprefix=msi+pro+dp%2Celectronics%2C145&ref=nb_sb_noss_2), Asus (NUC/PNxx), ASRock (NUC Box, DeskMini/Meet), HP (Prodesk/Elitedesk), Dell (Optiplex), Gigabyte (Brix)**. We're fond of the Lenovo IdeaCentre Mini and MSI DP series.  
 
@@ -102,7 +102,7 @@ $100-$500: SMALL/MEDIUM: Intel - i3/i5-7xxx+ 8GB+ RAM, 256GB ssd/1TB hdd:
 
 $150-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB+ RAM, 256GB ssd/1TB hdd
 
- - *Used for:* H264/H265, VP9, local content, HDR10, 4k Netflix/YT, web browsing, 3.5" **HDD/ODD** storage (SFF/MT models)**, **light gaming**, low power (xxxxGE cpu models).  
+ - *Used for:* H264/H265, VP9, local content, HDR10, 4k Netflix/YT, web browsing, 3.5" **HDD/ODD** storage (SFF/MT models), **light gaming**, low power (xxxxGE cpu models).  
    - USED: [HP EliteDesk 705 G5](https://www.ebay.com/sch/179/i.html?_from=R40&_nkw=hp+705+g5+%283200g%2C3400g%29&LH_TitleDesc=1&_sop=15&LH_PrefLoc=2&rt=nc&LH_BIN=1) + [HDMI 2.0 card - 3TK75AA](https://www.ebay.com/sch/i.html?_from=R40&_nkw=hdmi+705+%283TK75AA%2CL25757%29&_sacat=0&_odkw=hdmi+%283TK75AA%2CL25757%29&_osacat=0&_nls=2&_dmd=1) ($140-$300)
    - NEW: [MSI DP20](https://www.ebay.com/sch/179/i.html?_from=R40&_nkw=msi+dp20&_sop=15&LH_BIN=1&rt=nc&LH_ItemCondition=1000%7C1500) / [Lenovo M75s Gen 2 SFF](https://www.ebay.com/sch/i.html?_from=R40&_nkw=lenovo+m75s+gen+2&_sacat=179&LH_TitleDesc=0&_sop=15&rt=nc&LH_ItemCondition=1500%7C1000) + [CableCreation Active DP 1.4->HDMI Cable](https://www.amazon.com/CableCreation-Unidirectional-DisplayPort-Eyefinity-Multi-Display/dp/B082CXMBCQ) ($300-$600)
 
@@ -149,6 +149,8 @@ $150-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB+ RAM, 256GB ssd/1TB hdd
 
 Intel Core 8th gen i3+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDMI 2.0 port + Windows 11+. Prices may reflect cost before ram/ssd.  
 
+<!-- - New: Minisforum [MS-A1/MS-A2](https://store.minisforum.com/products/minisforum-ms-a1-workstation?variant=46761918824693) ($440+RAM+SSD) -->
+
 - Used: [Intel](https://www.ebay.com/sch/i.html?_fsrp=1&rt=nc&_from=R40&_nkw=intel+nuc+(nuc8%2Cnuc11%2Cnuc12%2Cnuc13)+(i5%2Ci7)&_sacat=179&_sop=15&LH_ItemCondition=1000%7C1500%7C2010%7C3000) NUCs ($150+)
 - Used: Dell Optiplex [3000-7000](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%28optiplex+3000%29+%28i3%2Ci5%2Ci7%29&_sacat=171957&_odkw=%28optiplex%29+%283000%29+%28i3%2Ci5%2Ci7%29&_osacat=171957&LH_BIN=1&_sop=15&LH_PrefLoc=2) + [HDMI 2.0 card](https://www.dell.com/en-us/shop/dell-daughterboard-i-o-hdmi-card/apd/cpx-3v9n2/controller-cards) ($250+) (**AV1**) / [xx60-xx90](https://www.ebay.com/sch/i.html?_fsrp=1&_blrs=recall_filtering&rt=nc&_from=R40&_nkw=(optiplex)+(3060%2C3070%2C3080%2C5060%2C5070%2C5080%2C7060%2C7070%2C7080)+(i3-8100%2Ci3-9100%2Ci3-10100%2Ci5-8400%2C8500%2Ci5-8600%2Ci5-9400%2C9500%2C9600)&_sacat=179&LH_BIN=1&_sop=15&LH_ItemCondition=3000%7C2030%7C2020%7C1500%7C1000%7C2010) + [HDMI 2.0 card](https://www.ebay.com/sch/i.html?_from=R40&_nkw=dell+hdmi+2.0+%28HXPK2%2C1KNYY%2CR07CP%2C5N1NY%29&_sacat=0&_sop=12) ($120+) (**no AV1**) 
 - **Used: Lenovo [Neo Gen 3+](https://www.ebay.com/sch/i.html?_nkw=lenovo+neo+-50a+-30a+-celeron+-pentium&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=lenovo+neo+-50a+-30a&_osacat=179&_sop=15) / [M70q Gen 3+](https://www.ebay.com/sch/i.html?_nkw=lenovo+m70q+%2812100%2C12300%2C12400%2C12500%2C12600%2C12700%2C12900%2C13100%2C13400%2C13500%2C13600%2C13700%29&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=lenovo+m70q+%2812100%2C12300%2C12400%2C12500%2C12600%2C12700%2C12900%2C13100%2C13300%2C13400%2C13500%2C13600%2C13700%2C13900%29&_osacat=179&_sop=15) / [Ideacentre Mini](https://www.ebay.com/sch/i.html?_nkw=lenovo+ideacentre+mini+%28i5%2Ci7%2Ci3%29+-01IMH05+-510A&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=lenovo+ideacentre+mini+%28i5%2Ci7%2Ci3%29+510&_osacat=179&_sop=15) ($275+)**
@@ -157,9 +159,7 @@ Intel Core 8th gen i3+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDM
 - New: [Asus ExpertCenter PN42+](https://www.asus.com/us/displays-desktops/mini-pcs/pn-series/filter?Series=PN-series) ($250+RAM+SSD)
 - New: [Asus](https://www.asus.com/us/displays-desktops/nucs/nuc-mini-pcs/filter?Category=NUC-Performance,NUC-Pro&Series=NUC-Kits) NUCs ($350+RAM+SSD) 
 - New: ASRock [NUC/4x4 Box](https://www.newegg.com/ASRock-Industrial-Mini-PC-Barebone/BrandSubCat/ID-223387-309?Order=1) ($425+RAM+SSD)
-- New: Minisforum [MS-A1/MS-A2](https://store.minisforum.com/products/minisforum-ms-a1-workstation?variant=46761918824693) ($440+RAM+SSD)
- 
-  
+   
 <!--
  [Intel/Asus NUC 7+ (i3-i9)](https://www.newegg.com/p/pl?N=100008345%2050001315%2050001157%20601450721%20601435127%20601435126%20601398031%20601407140%20601412543%20601398018%20601398044%20601412542%20601398043%20601398019%20601412544%20601398020%20601398041%20601441281%20600045203%20600414452&Order=1) ($300+)
 -->
@@ -168,7 +168,9 @@ Intel Core 8th gen i3+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDM
 
 ### Specialized: 4K@120Hz
 
-- HDMI 2.1: **[UM750L](https://store.minisforum.com/products/minisforum-um750l-slim)/[UM680/UM760 Slim](https://store.minisforum.com/products/minisforum-um760-slim)**, [GMKtec M7](https://www.gmktec.com/products/amd-ryzen-7-pro-6850h-mini-pc-nucbox-m7?variant=bac9d62f-94ff-42ba-9102-f9d0e12ad9fc)/[Minisforum UM773](https://www.amazon.com/MINISFORUM-UM690-6900HX-Threads-Bluetooth5-2/dp/B0BYDF63TT/?th=1), [SER6 Max](https://www.google.com/search?q=ser6+max&oq=ser6+max), [MS-A1/MS-A2](https://store.minisforum.com/products/minisforum-ms-a1-workstation?variant=46761918824693), [Venus UM790](https://store.minisforum.com/products/minisforum-um790-pro-mini-pc), [ASRock 4x4 7535U/8640U](https://www.newegg.com/p/pl?N=50223387&d=4x4&Order=1), [Gigabyte Brix Extreme](https://www.newegg.com/p/pl?d=gigabyte+brix+extreme)
+<!-- - HDMI 2.1: **[UM750L](https://store.minisforum.com/products/minisforum-um750l-slim)/[UM680/UM760 Slim](https://store.minisforum.com/products/minisforum-um760-slim)**, [GMKtec M7](https://www.gmktec.com/products/amd-ryzen-7-pro-6850h-mini-pc-nucbox-m7?variant=bac9d62f-94ff-42ba-9102-f9d0e12ad9fc)/[Minisforum UM773](https://www.amazon.com/MINISFORUM-UM690-6900HX-Threads-Bluetooth5-2/dp/B0BYDF63TT/?th=1), [SER6 Max](https://www.google.com/search?q=ser6+max&oq=ser6+max), [MS-A1/MS-A2](https://store.minisforum.com/products/minisforum-ms-a1-workstation?variant=46761918824693), [Venus UM790](https://store.minisforum.com/products/minisforum-um790-pro-mini-pc), [ASRock 4x4 7535U/8640U](https://www.newegg.com/p/pl?N=50223387&d=4x4&Order=1), [Gigabyte Brix Extreme](https://www.newegg.com/p/pl?d=gigabyte+brix+extreme) -->
+
+- HDMI 2.1: **[ASRock 4x4 BOX 7535U/8640U](https://www.newegg.com/p/pl?N=50223387&d=4x4&Order=1)**, [Gigabyte Brix Extreme](https://www.newegg.com/p/pl?d=gigabyte+brix+extreme)
 - Thunderbolt->HDMI 2.1: [Asus Nuc 14 Pro](https://shop.asus.com/us/asus-nuc-14-pro.html)/[Intel NUC 11+](https://www.newegg.com/p/pl?N=100008345%2050001157%20601331497%2050001315&Order=1)/[MSI Cubi 1MG](https://us.msi.com/Business-Productivity-PC/Cubi-NUC-1MX/Specification) + [Cable Matters Thunderbolt->HDMI 2.1 Cable](https://www.amazon.com/Cable-Matters-48Gbps-Adapter-Supporting/dp/B08QDV5H4M) + Display w/HDMI DSC support
 - Displayport->HDMI 2.1: *Used:* HP Prodesk/Elitedesk [400 G9](https://www.ebay.com/sch/i.html?_nkw=hp+400+g9&_sacat=171957&_from=R40&_trksid=p2334524.m570.l1313&_odkw=hp+405+g8&_osacat=171957&_sop=15)/[405 G6+](https://www.ebay.com/sch/i.html?_nkw=hp+405+%28g6%2Cg8%2Cg9%29+ryzen&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=hp+405+g9+ryzen&_osacat=179&LH_BIN=1&_sop=15) or Dell [Optiplex 3000-7000](https://www.ebay.com/sch/i.html?_nkw=optiplex+%283000%2C5000%2C7000%29+%28i3%2Ci5%2Ci7%29+%2812100%2C12400%2C12500%2C12600%2C12700%2C13100%2C13400%2C13500%2C13600%2C13700%29&_sacat=171957&_from=R40&_trksid=m570.l1313&_odkw=optiplex+%283000%2C5000%29+%28i3%2Ci5%2Ci7%29+%2812100%2C12400%2C12500%2C12600%2C12700%2C13100%2C13400%2C13500%2C13600%2C13700%29&_osacat=171957&LH_BIN=1&_sop=15&LH_PrefLoc=2) + Displayport Flex IO HBR3 add-on card. *New:* MSI Pro DP21, GMKtec M5/M6, UM750L. DP 1.4 -> HDMI 2.1 active adapter/cable.
 - [What options are there for 4k @ 120 Hz video output?](/wiki/video#what-options-are-there-for-4k--120-hz-video-output)  
@@ -198,7 +200,9 @@ Intel Core 8th gen i3+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDM
 
 ### Specialized: Fanless
 
-- [MSI Cubi N ADL S](https://us.msi.com/Business-Productivity-PC/Cubi-N-ADL/Specification), [Mele Cyber X1](https://www.amazon.com/s?k=mele+cyber&i=electronics), [MiniX Z150-0db](https://www.amazon.com/s?k=minix+z150&i=electronics), [Mele Quieter](https://www.amazon.com/s?k=mele+quieter&i=electronics), [Odroid H4](https://www.hardkernel.com/shop/odroid-h4/), [Asus PN42](https://www.asus.com/us/displays-desktops/mini-pcs/pn-series/asus-expertcenter-pn42/), [Zotac CI6xx](https://www.zotac.com/us/product/mini_pcs/all?field_filter_m_series_tid%5B%5D=2229&field_filter_m_processor_tid%5B%5D=2241&field_filter_m_processor_tid%5B%5D=2242&field_filter_m_processor_tid%5B%5D=2243&field_filter_m_processor_tid%5B%5D=2510), [Asus PL64](https://www.asus.com/displays-desktops/mini-pcs/pl-series/mini-pc-pl64/), Intel/Asus NUC+[Akasa Case](https://www.akasa.co.uk/update.php?tpl=list%2FCHASSIS+POWER.tpl&type=CHASSIS+POWER&type_sub=FANLESS+CASES&fval=all), [SimplyNUC PorCoolPine](https://simplynuc.com/embedded-industrial/), [OnLogic NUCs](https://www.onlogic.com/computers/nuc/)  
+<!-- [Mele Cyber X1](https://www.amazon.com/s?k=mele+cyber&i=electronics), [MiniX Z150-0db](https://www.amazon.com/s?k=minix+z150&i=electronics), [Mele Quieter](https://www.amazon.com/s?k=mele+quieter&i=electronics) -->
+
+- [MSI Cubi N ADL S](https://us.msi.com/Business-Productivity-PC/Cubi-N-ADL/Specification), [Odroid H4](https://www.hardkernel.com/shop/odroid-h4/), [Asus PN42](https://www.asus.com/us/displays-desktops/mini-pcs/pn-series/asus-expertcenter-pn42/), [Zotac CI6xx](https://www.zotac.com/us/product/mini_pcs/all?field_filter_m_series_tid%5B%5D=2229&field_filter_m_processor_tid%5B%5D=2241&field_filter_m_processor_tid%5B%5D=2242&field_filter_m_processor_tid%5B%5D=2243&field_filter_m_processor_tid%5B%5D=2510), [Asus PL64](https://www.asus.com/displays-desktops/mini-pcs/pl-series/mini-pc-pl64/), Intel/Asus NUC+[Akasa Case](https://www.akasa.co.uk/update.php?tpl=list%2FCHASSIS+POWER.tpl&type=CHASSIS+POWER&type_sub=FANLESS+CASES&fval=all), [SimplyNUC PorCoolPine](https://simplynuc.com/embedded-industrial/), [OnLogic NUCs](https://www.onlogic.com/computers/nuc/)  
 
 <!-- Sub-Section -->
 
@@ -215,33 +219,33 @@ Intel Core 8th gen i3+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDM
 - [Intel branded NUCs](https://www.intel.com/content/www/us/en/support/articles/000023500/intel-nuc/intel-nuc-kits.html) (just power states, or full with [pulse8 adapter](https://www.pulse-eight.com/c/59))
 - [MSI Cubi NUC 1M/1MG](https://us.msi.com/Business-Productivity-PC/Cubi-NUC-1MX/Specification)
 - [Asus PN41](https://www.asus.com/us/displays-desktops/mini-pcs/pn-series/mini-pc-pn41/) / PN42 / PN43 / [PN50](https://www.asus.com/us/displays-desktops/mini-pcs/pn-series/mini-pc-pn50/) / PN51 / PN53 / PN64 / [PL64](https://www.asus.com/displays-desktops/mini-pcs/pl-series/mini-pc-pl64/) (just wake state) / PN65
-- Intel/AMD based mini PC (GMKtec M5/M6, UM750L, etc..) with full DP 1.4 port + [DP 1.4->HDMI 2.1 active adapter](https://www.amazon.com/UGREEN-Unidirectional-Aluminum-Converter-Compatible/dp/B0FQCGSWW3)
+- Intel/AMD based mini PC with full DP 1.4 port + [DP 1.4->HDMI 2.1 active adapter](https://www.amazon.com/UGREEN-Unidirectional-Aluminum-Converter-Compatible/dp/B0FQCGSWW3)
 
 <!-- Sub-Section -->
 
 ### Specialized: Media Server w/Transcoding
 
-- Light: GMKtec G3 Plus N150, [Pre-built NAS](/wiki/storage#pre-built-nas) (Nxx-based) - ~3x 4k transcodes
-- Medium: Beelink EQI12 i5-1235U - ~6x 4k transcodes
-- Heavy: Minisforum i5-12600H, GMKTec i7-12700H/Minisforum i7-12800H, [Intel NUC 12/13 i7](https://www.newegg.com/p/pl?N=100008345%2050001157%20601398019%20601412544%20601398041%20601412545%2050001315%20601412542%20601398044%20601441281&Order=1) - ~10x 4k transcodes.
+- Light: MSI Cubi N100, [Pre-built NAS](/wiki/storage#pre-built-nas) (Nxx-based) - ~3x 4k transcodes
+- Medium: ASRock NUC BOX-12xxP-13xxP, Intel NUC 11/12 - ~6x 4k transcodes
+- Heavy: ASRock NUC BOX-1xxH/2xxH, ASUS NUC 14, [Intel NUC 13 i7](https://www.newegg.com/p/pl?N=100008345%2050001157%20601398019%20601412544%20601398041%20601412545%2050001315%20601412542%20601398044%20601441281&Order=1) - ~10x 4k transcodes.
 <!-- - [DiY NAS/Media Server Build w/i5-12500+](https://r-htpc.github.io/wiki/sample-builds#nasmedia-server-builds) - ~18 4k transcodes -->
 
 <!-- Sub-Section -->
 
 ### Specialized: Media client, server, storage system combos
 
-- $400 - 1080p, low-medium 4k content, Light Transcoding: Fire TV 4k Max (client) + GMKtec G3 Plus (server) + Terramaster F2-212 (storage)
+- $400 - 1080p, low-medium 4k content, Light Transcoding: Fire TV 4k Max (client) + MSI Cubi N100 (server) + Terramaster F2-212 (storage)
 
   - 4k HDR10+/DV-5/8, Dolby TrueHD Atmos, DTS, 3x4k,10x1080p transcodes, 2xHDDs (WD Ultrastar/Seagate Exos), Ubuntu/Windows, Plex Pass/Jellyfin
 
-- $600 - 4k, high-bitrate, Light Transcoding: Nvidia Shield Pro (client) + GMKtec G3 Plus (server) + Terramaster F4-212 (storage)
+- $600 - 4k, high-bitrate, Light Transcoding: Nvidia Shield Pro (client) + MSI Cubi N100 (server) + Terramaster F4-212 (storage)
 
   - 4k HDR10/DV-5/7/8, Dolby TrueHD Atmos, DTS:X, 3x4k,10x1080p transcodes, 4xHDDs (WD Ultrastar/Seagate Exos), Ubuntu/Windows, Plex Pass/Jellyfin
 
-- $800 - 4k, high-bitrate, Medium Transcoding: Nvidia Shield Pro (client) + Beelink EQI12 i5 (server) + Terramaster F4-212 (storage)
+- $800 - 4k, high-bitrate, Medium Transcoding: Nvidia Shield Pro (client) + Intel NUC 11 i5 (server) + Terramaster F4-212 (storage)
 
   - 4k HDR10/DV-5/7/8, Dolby TrueHD Atmos, DTS:X, 6x4k,20x1080p transcodes, 4xHDDs (WD Ultrastar/Seagate Exos), Ubuntu, Plex Pass/Jellyfin
-  - For more transcodes, switch server to [Minisforum NAB8 Plus](https://www.amazon.com/MINISFORUM-NAB6-Lite-i5-12600H-Computer/dp/B0BYZC4SMW?th=1)
+  - For more transcodes, switch server to ASRock NUC BOX-125H 
 
 - [DiY Media Server Builds](/wiki/sample-builds#nasmedia-server-builds)
 
