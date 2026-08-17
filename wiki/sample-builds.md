@@ -114,7 +114,7 @@ $150-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB+ RAM, 256GB ssd/1TB hdd
 
 - Game Streaming:
   - <= 1080p@60Hz: [NUC 8i3](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=nuc+%288i3%2C8i5%2C8109u%2C8130u%2C8th%2C8259u%29&_sacat=179&LH_TitleDesc=1&_odkw=nuc+%288i3%2C8i5%2C8109u%2C8130u%2C8th%29&_osacat=179&_sop=15&LH_PrefLoc=2) / [HP/Dell/Lenovo uSFF](https://www.ebay.com/sch/i.html?_nkw=%28hp%2Cdell%2Clenovo%29+%28i3-8100T%2Ci5-8400T%2Ci5-8500T%29&_sacat=179&_from=R40&_trksid=m570.l1313&_blrs=recall_filtering&_odkw=%28hp%2Cdell%2Clenovo%29+%28i3-8100%2Ci5-8400%2Ci5-8500%29&_osacat=179&LH_BIN=1&_sop=15&_udhi=150), [ODroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/)
-  - <= 4K@60Hz: GMKTec G3 Plus (N150)
+  - <= 4K@60Hz: Asus NUC 14 Essential (N150)
   - 4K@120Hz: See "Specialized: 4K@120Hz" section
 - Emulation/Light Gaming:
   - $85-100: Low (<= Gamecube/PS1)
@@ -174,7 +174,7 @@ Intel Core 8th gen i3+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDM
 
 - HDMI 2.1: **[ASRock 4x4 BOX 7535U/8640U](https://www.newegg.com/p/pl?N=50223387&d=4x4&Order=1)**, [Gigabyte Brix Extreme](https://www.newegg.com/p/pl?d=gigabyte+brix+extreme)
 - Thunderbolt->HDMI 2.1: [Asus Nuc 14 Pro](https://shop.asus.com/us/asus-nuc-14-pro.html)/[Intel NUC 11+](https://www.newegg.com/p/pl?N=100008345%2050001157%20601331497%2050001315&Order=1)/[MSI Cubi 1MG](https://us.msi.com/Business-Productivity-PC/Cubi-NUC-1MX/Specification) + [Cable Matters Thunderbolt->HDMI 2.1 Cable](https://www.amazon.com/Cable-Matters-48Gbps-Adapter-Supporting/dp/B08QDV5H4M) + Display w/HDMI DSC support
-- Displayport->HDMI 2.1: *Used:* HP Prodesk/Elitedesk [400 G9](https://www.ebay.com/sch/i.html?_nkw=hp+400+g9&_sacat=171957&_from=R40&_trksid=p2334524.m570.l1313&_odkw=hp+405+g8&_osacat=171957&_sop=15)/[405 G6+](https://www.ebay.com/sch/i.html?_nkw=hp+405+%28g6%2Cg8%2Cg9%29+ryzen&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=hp+405+g9+ryzen&_osacat=179&LH_BIN=1&_sop=15) or Dell [Optiplex 3000-7000](https://www.ebay.com/sch/i.html?_nkw=optiplex+%283000%2C5000%2C7000%29+%28i3%2Ci5%2Ci7%29+%2812100%2C12400%2C12500%2C12600%2C12700%2C13100%2C13400%2C13500%2C13600%2C13700%29&_sacat=171957&_from=R40&_trksid=m570.l1313&_odkw=optiplex+%283000%2C5000%29+%28i3%2Ci5%2Ci7%29+%2812100%2C12400%2C12500%2C12600%2C12700%2C13100%2C13400%2C13500%2C13600%2C13700%29&_osacat=171957&LH_BIN=1&_sop=15&LH_PrefLoc=2) + Displayport Flex IO HBR3 add-on card. *New:* MSI Pro DP21, GMKtec M5/M6, UM750L. DP 1.4 -> HDMI 2.1 active adapter/cable.
+- Displayport->HDMI 2.1: *Used:* HP Prodesk/Elitedesk [400 G9](https://www.ebay.com/sch/i.html?_nkw=hp+400+g9&_sacat=171957&_from=R40&_trksid=p2334524.m570.l1313&_odkw=hp+405+g8&_osacat=171957&_sop=15)/[405 G6+](https://www.ebay.com/sch/i.html?_nkw=hp+405+%28g6%2Cg8%2Cg9%29+ryzen&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=hp+405+g9+ryzen&_osacat=179&LH_BIN=1&_sop=15) or Dell [Optiplex 3000-7000](https://www.ebay.com/sch/i.html?_nkw=optiplex+%283000%2C5000%2C7000%29+%28i3%2Ci5%2Ci7%29+%2812100%2C12400%2C12500%2C12600%2C12700%2C13100%2C13400%2C13500%2C13600%2C13700%29&_sacat=171957&_from=R40&_trksid=m570.l1313&_odkw=optiplex+%283000%2C5000%29+%28i3%2Ci5%2Ci7%29+%2812100%2C12400%2C12500%2C12600%2C12700%2C13100%2C13400%2C13500%2C13600%2C13700%29&_osacat=171957&LH_BIN=1&_sop=15&LH_PrefLoc=2) + Displayport Flex IO HBR3 add-on card. *New:* MSI Pro DP21. DP 1.4 -> HDMI 2.1 active adapter/cable.
 - [What options are there for 4k @ 120 Hz video output?](/wiki/video#what-options-are-there-for-4k--120-hz-video-output)  
 
 <!-- Sub-Section -->
@@ -548,7 +548,7 @@ There are many tiers of builds depending on what tasks you want to accomplish, h
 
 ### $100 Small Media Server (1.2L) - Used
 
-This is a good setup to get your feet wet in media serving in a very small package. A used pre-built is cheaper and easier to get going if you're new to this. If you're not comfortable buying used, [this](https://www.amazon.com/GMKtec-G3-Plus-Upgraded-Computer/dp/B0DM25BD7Y) is comparable.  
+This is a good setup to get your feet wet in media serving in a very small package. A used pre-built is cheaper and easier to get going if you're new to this. If you're not comfortable buying used, [this](https://www.asus.com/displays-desktops/nucs/nuc-mini-pcs/asus-nuc-14-essential/) is comparable.  
 
 Most people will use it with Plex Media Server to serve media up to clients, but you can serve media up to Kodi clients over a network/samba share just as well.  
 
