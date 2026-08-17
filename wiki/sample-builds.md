@@ -124,20 +124,20 @@ $150-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB+ RAM, 256GB ssd/1TB hdd
     - [Odroid H4](https://www.hardkernel.com/shop/odroid-h4/) (N97) (Fanless)
     - [HP EliteDesk 705 G5](https://www.ebay.com/sch/179/i.html?_from=R40&_nkw=hp+705+g5+%283200g%2C3400g%29&LH_TitleDesc=1&_sop=15&LH_PrefLoc=2&rt=nc&LH_BIN=1) (AMD 3400G) (ebay)
     - [HP EliteDesk 805 G6](https://www.ebay.com/sch/i.html?_nkw=%285600g%2C5650g%2C4600g%2C4650g%29&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=%285600g%2C5650g%29&_osacat=179&LH_BIN=1&_sop=15&_udhi=150%29+%28%24100%29+OR+%3E%3D+%5BJ4125+Mini+PC%5D%28https%3A%2F%2Fwww.amazon.com%2FNucBox-Windows-Computer-Intel-J4125%2Fdp%2FB092JFVX2Z) (AMD 4650G) (ebay)
-    - [Minisforum UN300](https://www.amazon.com/MINISFORUM-LPDDR5-i3-N300-Threads-USB3-2/dp/B0CQYW121V) (N300)  
+    - [ASRock NUC BOX-N97](https://www.asrockind.com/en-gb/NUC%20BOX-N97) (N97)  
   - $300: Med+ (<= Switch)
     - [HP Elitedesk 800 G5/G6 i5 16GB](https://www.ebay.com/sch/i.html?_nkw=hp+elitedesk+800+sff+%28g5%2Cg6%29+i5+%2816gb%2C32gb%29&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=hp+elitedesk+800+sff+%28g5%2Cg6%29+i5+16gb&_osacat=179&_sop=15) + GTX 1050 TI LP dGPU (ebay)
-    - [GMKTec M6 Ultra](https://www.gmktec.com/products/amd-ryzen-5-7640hs-mini-pc-nucbox-m6-ultra?variant=9b66d3ad-91a1-4f84-bfcc-f0e919102f1a) / [Minisforum UM750L](https://www.amazon.com/MINISFORUM-UM690Pro-6900HX-Desktop-Computer/dp/B0CTTPPZQS?th=1) (760/740M)
+    - [ASRock 4x4 BOX-76xxU](https://www.asrockind.com/en-gb/faned-embedded-box-pc) (760M)
   - $350-400: High (<= PS3)
     - [HP Elitedesk 800 G5/G6 i5 16GB](https://www.ebay.com/sch/i.html?_nkw=hp+elitedesk+800+sff+%28g5%2Cg6%29+i5+%2816gb%2C32gb%29&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=hp+elitedesk+800+sff+%28g5%2Cg6%29+i5+16gb&_osacat=179&_sop=15) + GTX 1650 LP dGPU (ebay)
-     - [GMKtec M7](https://www.gmktec.com/products/amd-ryzen%E2%84%A2-7-pro-6850u-mini-pc-gmktec-m7-ultra?variant=47330575220890)/[Minisforum UM773](https://www.amazon.com/MINISFORUM-UM690-6900HX-Threads-Bluetooth5-2/dp/B0BYDF63TT/?th=1) (680M)
+     - [ASRock 4x4 BOX-7735U/8840U](https://www.asrockind.com/en-gb/faned-embedded-box-pc) (680M/780M)
    - $500+: Ultra (<= Xbox 360)
      - [HP Elitedesk 800 G6 i5 16GB](https://www.ebay.com/sch/i.html?_nkw=hp+elitedesk+800+sff+%28g6%29+i5+%2816gb%2C32gb%29&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=hp+elitedesk+800+sff+%28g5%2Cg6%29+i5+16gb&_osacat=179&_sop=15) + RTX 3050 LP dGPU
-     - [GMKTec K12](https://www.amazon.com/GMKtec_gaming_mini_pc_ryzen_h_255/dp/B0FK2BLV7J/) / Minisforum [UM870](https://www.amazon.com/MINISFORUM-Desktop-Computer-Barebone-Graphics/dp/B093V18HKB/?th=1) / [UM790 Pro](https://store.minisforum.com/products/minisforum-um790-pro-mini-pc) (780M)
+     - [Asus NUC 14/15 Pro](https://www.asus.com/us/displays-desktops/nucs/nuc-mini-pcs/asus-nuc-14-pro/) (1xxH/2xxH)
 
    - See [ETA PRIME](https://www.youtube.com/@ETAPRIME) YT channel for Emulation device reviews  
 - Medium Gaming:
-  - Tiny (<10L): Asus NUC 14 Performance (RTX 4060/4070), Asus ROG NUC 760/970 (RTX 4060/4070), [Minisforum 790S7](https://store.minisforum.com/products/minisforum-mini-itx-pc-790s7-129i7?variant=46620053864693) (RTX 4060), Minisforum AtomMan G1 Pro (RTX 5060), Minisforum HX99G (RX 6600M)
+  - Tiny (<10L): Asus NUC 14 Performance (RTX 4060/4070), Asus ROG NUC 760/970 (RTX 4060/4070), Asus ROG GR70/ROG NUC 16 (RTX 5060/5070 Ti).
   - Small (10-12L): **USED: [HP Elitedesk 800 G5/G6 i5 16GB ($200)](https://www.ebay.com/sch/i.html?_nkw=hp+elitedesk+800+sff+%28g5%2Cg6%29+i5+%2816gb%2C32gb%29&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=hp+elitedesk+800+sff+%28g5%2Cg6%29+i5+16gb&_osacat=179&_sop=15) + RTX 3050 LP dGPU ($200)**, [MSI PRO DP80](https://www.newegg.com/p/N82E16883151735?item=N82E16883151735) (RTX 3050 dGPU) ($850)
   - Medium (15-20L): [Lenovo LOQ](https://www.amazon.com/Lenovo-LOQ-Computer-i5-14400F-Earphones/dp/B0GL3KLQM8/?th=1) (RTX 3050 dGPU) ($800+)
   - Large (30L+): [ABS Cyclone Aqua](https://www.newegg.com/p/pl?N=100897483%2050008484&Order=1) (RTX 5060 dGPU) ($1000+)
@@ -980,5 +980,5 @@ TOTAL		|											|$801			|	|
 
 ---
  
-*This page was last updated on 2026-08-09*
+*This page was last updated on 2026-08-17*
 
