@@ -113,7 +113,6 @@ QNAP	|	TS-264				|	2	|	$425	|	4k (1a)			|	x64 (Celeron N5095) 2.0GHz		|		4125	|	
 BRAND		|	MODEL				|	DRIVES	|COST	|	TRANSCODING		|	CPU								|	PASSMARK	|	PM/$|	RAID MODES	| NOTES
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--
 Terramaster	|	F4-424 Pro				|	4	|	$700	|	4k (0a)	|	x64 (i3-N305) 3.8 Ghz	|		10060	|	14.37	|RAID 0/1/5/6/10,JBOD,Single|ext4/btrfs, 32GB RAM, 2x2.5 Gb/s
-**Lincstation**	|	**[S1](https://store.lincplustech.com/products/lincstation-s1-network-attached-storage)**				|	4	|	$460	|	4k (0a)	|	x64 (Celeron N97) 3.6 Ghz	|		5828	|	12.67	|RAID 0/1/5/6/10,JBOD,Single|xfs/btrfs, 8GB RAM, 2x2.5 Gb/s, Unraid
 **Terramaster**		|	**[F4-423](https://www.terra-master.com/us/f4-4607.html)**				|	4	|	$370	|	4k (1a)			|	x64 (Celeron N5105) 2.0 GHz		|		4094	|	 11.0	|RAID 0/1/5/6/10, JBOD, Single|ext4/btrfs, 4GB RAM , 2.5 Gb/s
 **Terramaster**	|	**F4-424**				|	4	|	$500	|	4k (1a)	|	x64 (Celeron N95) 3.4 Ghz	|		5419	|	10.83	|RAID 0/1/5/6/10,JBOD,Single|ext4/btrfs, 8GB RAM, 2x2.5 Gb/s
 Terramaster	|	[F6-424](https://www.terra-master.com/us/products/homesoho-nas/f6-424.html?page=menu&mid=1588)				|	6	|	$600	|	4k (1a)	|	x64 (Celeron N95) 3.4 Ghz	|		5419	|	9.03	|RAID 0/1/5/6/10,JBOD,Single|ext4/btrfs, 8GB RAM, 2x2.5 Gb/s
@@ -153,6 +152,9 @@ Transcoding = Plex transcoding ability, referenced in [plex's transcoding spread
 (3) HW Transcoding: 2x 1080p. SW Transcoding: 2x 720p  
 (4) HW Transcoding: 1x 1080p. SW Transcoding: 1x 720p  
 
+<!-- NO-NAME
+**Lincstation**	|	**[S1](https://store.lincplustech.com/products/lincstation-s1-network-attached-storage)**				|	4	|	$460	|	4k (0a)	|	x64 (Celeron N97) 3.6 Ghz	|		5828	|	12.67	|RAID 0/1/5/6/10,JBOD,Single|xfs/btrfs, 8GB RAM, 2x2.5 Gb/s, Unraid
+-->
 <!-- DISCONTINUED
 Terramaster	|	F2-423				|	2	|	$280	|	4k (1a)	|	x64 (Celeron N5105) 2.0 Ghz	|		4094	|	14.6	|RAID 0/1,JBOD,Single|4GB RAM, 2.5 Gb/s
 QNAP		|	TS-453D-4G				|	4	|	$500	|	Some/4k (1b)			|	x64 (Celeron J4125) 2.0 GHz		|		3035	|	6.07	|RAID 0/1/5/6/10,JBOD,Single|ext4, 4GB RAM
@@ -171,7 +173,7 @@ If you can't afford a pre-built NAS you can buy one of these options and add ext
   - 2-4 drives:
     - USB-based: [Orange Pi 3 LTS](https://www.aliexpress.com/w/wholesale-orange-pi-3-lts.html) (USB3x1,USB2x2) $40, [RPI 4b](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) (USB3x2,USB2x2) $35, [Rock64-2GB](https://pine64.com/product/rock64-2gb-single-board-computer/) (USB3x1,USB2x2) $35, [Pine H64](https://ameridroid.com/collections/pine) (USB3x1,USB2x2) $45, [Odroid C4](https://www.hardkernel.com/shop/odroid-c4/) (USB3x4) $60, PC: **[Dell/Lenovo i3-41x0t](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%28i3-4130t%2Ci3-4160t%2Ci3-4150t%2Ci3-4170t%29&_sacat=171957&rt=nc&_odkw=%28i3-4130t%2Ci3-4160t%29&_osacat=171957&LH_BIN=1&_sop=15) (USB3x2-4,USB2x2)** $50. Optionally, add a [single enclosure DAS](/wiki/storage#direct-attach-storage-das) over USB.
     - **SATA-based**: [HP Elitedesk 800 G3 SFF](https://www.ebay.com/sch/i.html?_nkw=hp+elitedesk+g3+sff&_sacat=0&_from=R40&_sop=15&rt=nc&LH_BIN=1&_blrs=recall_filtering) (**SATAx3**) $70, [Odroid HC4](https://www.hardkernel.com/shop/odroid-hc4/) (**SATAx2**) $75, [Odroid H4+](https://www.hardkernel.com/shop/odroid-h4-plus/) + [Case](https://www.hardkernel.com/product-category/cases/) (**SATAx4**) $150.
-    - PCIe SAS-based: ThinkCentre m920q/m90q, ThinkStation P320/P330 Tiny, Minisforum MS-01. Add a [single enclosure DAS](/wiki/storage#direct-attach-storage-das) over PCIe SAS.
+    - PCIe SAS-based: ThinkCentre m920q/m90q, ThinkStation P320/P330 Tiny. Add a [single enclosure DAS](/wiki/storage#direct-attach-storage-das) over PCIe SAS.
 
   - Install Linux or [Openmediavault](https://www.openmediavault.org/) as your OS, optionally create a storage pool under [mergerFS](https://github.com/trapexit/mergerfs/wiki) if more than one drive, and share your storage out [over the network with Samba](/wiki/storage#how-do-i-share-htpc-storage-on-my-network).  
 
@@ -424,5 +426,5 @@ If your storage is on a windows-based OS, [follow these instructions](https://su
 
 ---
 
-*This page was last updated on 2026-08-15*
+*This page was last updated on 2026-08-17*
 
