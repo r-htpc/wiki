@@ -119,12 +119,14 @@ $150-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB+ RAM, 256GB ssd/1TB hdd
 - Emulation/Light Gaming:
   - $85-100: Low (<= Gamecube/PS1)
     - [Odroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-4gbyte-ram-2/) (S922X) (Fanless)
-    - [Intel NUC 8i3/8i5](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=nuc+%288i3%2C8i5%2C8109u%2C8130u%2C8th%2C8259u%29&_sacat=179&LH_TitleDesc=1&_odkw=nuc+%288i3%2C8i5%2C8109u%2C8130u%2C8th%29&_osacat=179&_sop=15&LH_PrefLoc=2) (ebay)
-  - $150-200: Med (<= Wii/PS2)
     - [Odroid H4](https://www.hardkernel.com/shop/odroid-h4/) (N97) (Fanless)
+    - [ASRock NUC BOX-N97](https://www.asrockind.com/en-gb/NUC%20BOX-N97) (N97)
+
+  - $150-200: Med (<= Wii/PS2)
+    - [Intel NUC 8i5](https://www.ebay.com/sch/i.html?_nkw=nuc+%288i5%2C8259u%29&_sacat=179&_from=R40&_trksid=m570.l1313&LH_TitleDesc=1&_odkw=nuc+%288i3%2C8i5%2C8109u%2C8130u%2C8th%2C8259u%29&_osacat=179&_sop=15&LH_PrefLoc=2) (8259U) (ebay)
     - [HP EliteDesk 705 G5](https://www.ebay.com/sch/179/i.html?_from=R40&_nkw=hp+705+g5+%283200g%2C3400g%29&LH_TitleDesc=1&_sop=15&LH_PrefLoc=2&rt=nc&LH_BIN=1) (AMD 3400G) (ebay)
     - [HP EliteDesk 805 G6](https://www.ebay.com/sch/i.html?_nkw=%285600g%2C5650g%2C4600g%2C4650g%29&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=%285600g%2C5650g%29&_osacat=179&LH_BIN=1&_sop=15&_udhi=150%29+%28%24100%29+OR+%3E%3D+%5BJ4125+Mini+PC%5D%28https%3A%2F%2Fwww.amazon.com%2FNucBox-Windows-Computer-Intel-J4125%2Fdp%2FB092JFVX2Z) (AMD 4650G) (ebay)
-    - [ASRock NUC BOX-N97](https://www.asrockind.com/en-gb/NUC%20BOX-N97) (N97)  
+
   - $300: Med+ (<= Switch)
     - [HP Elitedesk 800 G5/G6 i5 16GB](https://www.ebay.com/sch/i.html?_nkw=hp+elitedesk+800+sff+%28g5%2Cg6%29+i5+%2816gb%2C32gb%29&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=hp+elitedesk+800+sff+%28g5%2Cg6%29+i5+16gb&_osacat=179&_sop=15) + GTX 1050 TI LP dGPU (ebay)
     - [ASRock 4x4 BOX-76xxU](https://www.asrockind.com/en-gb/faned-embedded-box-pc) (760M)
