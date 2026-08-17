@@ -11,19 +11,19 @@
 
 ## NUC Recs
 
-**4K HDR: Beelink/Minisforum Ryzen 6600U+, Intel NUC [11-15 i3-i5](https://www.newegg.com/p/pl?N=100008345%20601398031%20601407140%20601398018%20601398044%20601398043%20601398019%2050001157%2050001315%20601412543%20601412542%20601435126%20601435127%20601450721%20601412544%20601449818%20601460386%20601449820%20601471952%20601471951%20601453984%20601469340%20601471954%20601805630&Order=1). On the cheap: Used Intel NUC8i5BEH**
+**4K HDR: Intel/Asus NUC [11th-15th i3-i5](https://www.newegg.com/p/pl?N=100008345%20601398031%20601407140%20601398018%20601398044%20601398043%20601398019%2050001157%2050001315%20601412543%20601412542%20601435126%20601435127%20601450721%20601412544%20601449818%20601460386%20601449820%20601471952%20601471951%20601453984%20601469340%20601471954%20601805630&Order=1), Asrock NUC Box 11xx-13xx, MSI Cubi 100U. On the cheap: Used Intel NUC8i5BEH**
 
-**1080p: Beelink Mini S12 N95, Intel NUC11ATK, On the cheap: Intel NUC7i3BEH/NUC7PJYH**
+**1080p: Asrock NUC BOX N97, MSI Cubi N100, Asus NUC Essential, Intel NUC11ATK. On the cheap: Intel NUC7i3BEH/NUC7PJYH**
 
-**Plex Server Transcoding: Less: Beelink Mini S12 Pro/Intel NU8i5, More: Minisforum NAB6 Lite. On the cheap: Used Intel NUC8i3BEH**
+**Plex Server Transcoding: Less: MSI Cubi N100, More: Asrock NUC Box 12xx-13xx. On the cheap: Used Intel NUC8i3BEH**
 
-**Fanless: Intel NUC/Asus PNxx + [Akasa Turing/Plato/Newton](https://www.akasa.com.tw/index.php?lang=en) chassis**
+**Fanless: Intel NUC/Asus PNxx + [Akasa Turing/Plato/Newton](https://www.akasa.com.tw/index.php?lang=en) chassis, ASRock iBox, MSI Cubi N ADL S**
 
-**Emulation/Light Gaming: Minisforum NAB6 Lite, Intel NUC 11 (i5/i7), Beelink EQR6**
+**Emulation/Light Gaming: Intel/Asus NUC 11th-15th (i5/i7), ASRock 4x4 BOX-7xxx-8xxx**
 
-**Medium Gaming: Minisforum UM773 Lite, Minisforum EliteMini UM690 Pro, Beelink GTR6**
+**Medium Gaming: ASUS PN55 Ryzen AI 9 HX 470, Asus NUC 16 Pro, MSI Cubi NUC AI+ 3MG 3xxH**
 
-**High Gaming: GMKTec Evo X2, Asus NUC 14 Perf/ROG NUC 760/970 (dGPU), Minisforum HX99G (dGPU), Minisforum AtomMan G1 Pro (dGPU)**
+**High Gaming: Asus NUC 14 Perf/ROG NUC 760/970/ROG GR70/ROG NUC 16 Gaming (dGPU)**
 
 ## NUC List
 
@@ -503,5 +503,5 @@ Zotac
 
 ---
 
-*This page was last updated on 2026-07-23*
+*This page was last updated on 2026-08-17*
 
