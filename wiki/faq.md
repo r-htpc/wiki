@@ -194,7 +194,7 @@ You may want to wake your HTPC from sleep (S3) or have the ability to power it o
 
 8. Power On/Off: Plug your HTPC into a [power strip with a master/control](https://www.google.com/search?q=sunbeam+advance+7&oq=sunbeam+advance+7) plus and configure your BIOS to set Power On for AC after power loss. Plug master/initial power-on device (like TV) into control port.
 
-9. Wake/Power On: [Configure Wake-on-Lan](https://www.gearrice.com/update/turn-on-a-pc-remotely-with-wake-on-lan-or-remote-control/) in your BIOS and on your network card. Use with a mobile app like Unified Remote to trigger the Wake. For voice w/Google Assisatant or Alexa, use Google/Alexa->IFTTT->Webhook->TriggerCMD (on Raspberry Pi/Odroid)->WoL->PC
+9. Wake/Power On: [Configure Wake-on-Lan](https://gse.kz/en/blog/wake-on-lan-corporate-network-bios-switches-vlan) in your BIOS and on your network card. Use with a mobile app like Unified Remote to trigger the Wake. For voice w/Google Assisatant or Alexa, use Google/Alexa->IFTTT->Webhook->TriggerCMD (on Raspberry Pi/Odroid)->WoL->PC
 
 10. Wake: Using a Keyboard/Mouse/Gamepad with a USB dongle/support, Enable Wake/Resume-on-USB and Disable ErP (if available) in your BIOS. In Windows, Disable Fast Startup and Enable Allow Device to Wake Computer under the USB device properties in Device Manager.
 
