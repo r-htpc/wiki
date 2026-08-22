@@ -659,6 +659,11 @@ The following are the current capabilities of the major streaming services as we
   - *Windows:* Unknown, but will not be higher than 1080p
   - *Linux:* Unknown, but will not be higher than 1080p
 
+- [BBC iPlayer](https://www.bbc.co.uk/iplayer/help/questions/features/hd-information)
+  
+  - *Windows:* 720p SDR, Stereo
+  - *Linux:* Unknown, but will not be higher than 720p, Stereo
+  
 ## How can i play my DVD/Blu-ray discs on my HTPC?
 
 [See our separate wiki page here](/wiki/video#how-can-i-play-my-dvdblu-ray-discs-on-my-htpc)
