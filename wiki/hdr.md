@@ -20,7 +20,7 @@ keywords: [hdr, hdr10, madvr, mpc, tonemapping, tone mapping, kodi, plex, upscal
   - *Simple Tone Mapping* refers to modifying the HDR metadata on the source device to fit inside the brightness and color range of the display. This is usually done for SDR or poorly-capable HDR displays. By default, this is done to SDR levels with a target brightness of 100 nits and the Rec. 709 [color space](https://r-htpc.github.io/wiki/video#video-metadatacolor-technologies). On some renderers below (like madVR/MPC VR) this nits value is configurable.
   - *Dynamic Tone Mapping* here can refer to one of two ways of producing a per-frame/scense brightness/contrast signal, in an attempt to simulate passing through the original HDR10+/Dolby Vision metadata. The first is by using the basic *Metadata* inside HDR10+/DV to modify the outputted [HDR10](/wiki/video#video-metadatacolor-technologies) signal. The second is by using a GPU to *Compute* each frame/scene's brightness to modify the signal; this way requires a lot of processing and at least a mid-range GPU (see our [Components Guide](/wiki/components#gpusgraphics)). 
 * **Dolby Vision/HDR10+ is not discussed here as no stable passthrough options exist on a PC due to licensing and proprietary tech**
-  - We **strongly** urge you not to go down the rabbit hole of diminishing returns and complexity with these technologies as it's more trouble than it's worth and the HDR10 base layer gets your **95%** of the way there. If you follow Hype or have the Fear Of Missing Out, then you have a different problem.
+  - We **strongly** urge you not to go down the rabbit hole of diminishing returns and complexity with these technologies on a PC as it's more trouble than it's worth and the HDR10 base layer gets your **95%** of the way there. If you follow Hype or have the Fear Of Missing Out, then you have a different problem.
   - For dynamic tone mapping mentioned above, either use [JRiver Media Center's JRVR](https://wiki.jriver.com/index.php/JRVR_-_JRiver_Video_Renderer/Configuration) (Compute/Metadata), [madVR betas](/wiki/video#video-software) (Advanced Compute) or [MPV](https://carlosfelic.io/misc/best-mpv-config-2026/) (Compute/Metadata). 
   - Else, buy a specialized [Media Device](/wiki/sample-builds#specialized-dolby-vision--hdr10) to pass-through the original signal.  
 * For static tone mapping, use MPC Video Renderer or [madVR](/wiki/video#video-software) in [MPC-HC/MPC-BE](/wiki/video#video-software) 
@@ -850,5 +850,5 @@ Do one or more of the following..
 
 ---
 
-*This page was last updated on 2026-08-09*
+*This page was last updated on 2026-08-26*
 
