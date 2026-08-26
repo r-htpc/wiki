@@ -1,6 +1,6 @@
 ---
 description: Information on configuring HDR and Upscaling on your HTPC, for multiple platforms and media players (MPC VR, MPC-HC, MPC-BE, madVR, Kodi, Plex, VLC, Potplayer)
-keywords: [hdr, hdr10, madvr, mpc, tonemapping, kodi, plex, upscaling]
+keywords: [hdr, hdr10, madvr, mpc, tonemapping, tone mapping, kodi, plex, upscaling]
 ---
 
 # HDR Setup Guide
@@ -15,15 +15,15 @@ keywords: [hdr, hdr10, madvr, mpc, tonemapping, kodi, plex, upscaling]
 -->
  
 ## Overview
-* This setup guide is only for HDR10 passthrough and simple tonemapping.
+* This setup guide is only for HDR10 passthrough and simple tone mapping.
   - *Passthrough* refers to sending the HDR metadata to the display as-is, resulting in the display showing an HDR logo and doing its own brightness level tonemapping of the content based on the displays capabilities. This is ideal. 
-  - *Simple tonemapping* refers to modifying the HDR metadata on the source device to fit inside the brightness and color range of the display. This is usually done for SDR or poorly-capable HDR displays. By default, this is done to SDR levels with a target brightness of 100 nits and the Rec. 709 [color space](https://r-htpc.github.io/wiki/video#video-metadatacolor-technologies). On some renderers below (like madVR/MPC VR) this nits value is configurable.
-  - *Dynamic Tonemapping* refers to modifying the HDR metadata on the source device to adjust the brightness levels on a per-scene basis in an attempt to simulate HDR10+/Dolby Vision metadata. This requires a lot of processing and at least a mid-range GPU (see our [Components Guide](/wiki/components#gpusgraphics)). This method is not covered here.
+  - *Simple Tone Mapping* refers to modifying the HDR metadata on the source device to fit inside the brightness and color range of the display. This is usually done for SDR or poorly-capable HDR displays. By default, this is done to SDR levels with a target brightness of 100 nits and the Rec. 709 [color space](https://r-htpc.github.io/wiki/video#video-metadatacolor-technologies). On some renderers below (like madVR/MPC VR) this nits value is configurable.
+  - *Dynamic Tone Mapping* here can refer to one of two ways of producing a per-frame/scense brightness/contrast signal, in an attempt to simulate passing through the original HDR10+/Dolby Vision metadata. The first is by using the basic *Metadata* inside HDR10+/DV to modify the outputted [HDR10](/wiki/video#video-metadatacolor-technologies) signal. The second is by using a GPU to *Compute* each frame/scene's brightness to modify the signal; this way requires a lot of processing and at least a mid-range GPU (see our [Components Guide](/wiki/components#gpusgraphics)). 
 * **Dolby Vision/HDR10+ is not discussed here as no stable passthrough options exist on a PC due to licensing and proprietary tech**
   - We **strongly** urge you not to go down the rabbit hole of diminishing returns and complexity with these technologies as it's more trouble than it's worth and the HDR10 base layer gets your **95%** of the way there. If you follow Hype or have the Fear Of Missing Out, then you have a different problem.
-  - If you must, for dynamic tonemapping, either use [JRiver Media Center's JRVR](https://wiki.jriver.com/index.php/JRVR_-_JRiver_Video_Renderer/Configuration) or [MPV](https://carlosfelic.io/misc/best-mpv-config-2026/) with their own basic support of [HDR10+/DV Profile 5/7M/8](/wiki/video#video-metadatacolor-technologies) per-scene trim metadata tonemapping to [HDR10](/wiki/video#video-metadatacolor-technologies).
-  - For static tonemapping, use MPC Video Renderer in [MPC-BE](https://github.com/Aleksoid1978/MPC-BE/releases) with tonemapping to [HDR10](/wiki/video#video-metadatacolor-technologies)
-  - Else, buy a specialized [Media Device](/wiki/sample-builds#specialized-dolby-vision--hdr10).  
+  - For dynamic tone mapping mentioned above, either use [JRiver Media Center's JRVR](https://wiki.jriver.com/index.php/JRVR_-_JRiver_Video_Renderer/Configuration) (Compute/Metadata), [madVR betas](/wiki/video#video-software) (Advanced Compute) or [MPV](https://carlosfelic.io/misc/best-mpv-config-2026/) (Compute/Metadata). 
+  - Else, buy a specialized [Media Device](/wiki/sample-builds#specialized-dolby-vision--hdr10) to pass-through the original signal.  
+* For static tone mapping, use MPC Video Renderer or [madVR](/wiki/video#video-software) in [MPC-HC/MPC-BE](/wiki/video#video-software) 
 * Read our [HDR section](/wiki/faq#what-is-hdr-video-and-what-do-i-need-to-take-advantage-of-it) of the Wiki FAQ for detailed information on PC hardware requirements.  
 * This guide is for HT displays only. Neither monitors, nor multiple displays are officially supported here.  
 * We assume your display, video chain and media player have already been configured/calibrated properly for **SDR/non-HDR** content before you venture into a **HDR** setup below. If not, you are urged to follow the setup sections in the [Video Setup Guide](/wiki/video) of the Wiki first.  
