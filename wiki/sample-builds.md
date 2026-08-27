@@ -62,8 +62,7 @@ Some of these are: **Intel (NUC), [Lenovo (ThinkCentre/IdeaCentre)](https://www.
 
 ### 4K HDR PLAYERS
 
-**TL;DR: A $300+ option is ideal, if new. If you're on a budget, then an Intel [N95](https://www.amazon.com/s?k=intel+n95+pc&rh=n%3A13896591011&ref=nb_sb_noss) for the bare minimum ($200+). A used Optiplex or ThinkCentre is a great option**  
-**If you're looking for 4K Netflix/HDCP support, look at [our name brand options](/wiki/sample-builds#specialized-4k-netflix)**
+**TL;DR: A $300+ option is ideal. An Intel N100-based mini should be the bare minimum. A used 11th gen+ Optiplex or ThinkCentre is the best option with high price/performance**  
 
 $65-$85: SMALLEST: SBC: w/**CoreELEC** OS, 32GB MicroSD, AC Adapter 
 
@@ -79,7 +78,7 @@ $65-$85: SMALLEST: SBC: w/**CoreELEC** OS, 32GB MicroSD, AC Adapter
 
 $150-$400: SMALLER: Intel/AMD Mini PC, 8GB+ RAM, 256GB+ SSD
 
-- *Used for:* H264/H265, VP9, AV1, local content, HDR10, 4k YT, 4k Netflix **([name brand options](/wiki/sample-builds#specialized-4k-netflix))**, browsing, **ssd** storage (int), lower power.
+- *Used for:* H264/H265/VP9/AV1, local content, HDR10, 4k Netflix/YT, browsing, **ssd** storage (int), lower power.
   - Intel: USED: [Dell Optiplex 3000-7000](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%28optiplex+3000%29+%28i3%2Ci5%2Ci7%29&_sacat=171957&_odkw=%28optiplex%29+%283000%29+%28i3%2Ci5%2Ci7%29&_osacat=171957&LH_BIN=1&_sop=15&LH_PrefLoc=2) (**AV1**) + [HDMI 2.0 card](https://www.dell.com/en-us/shop/dell-daughterboard-i-o-hdmi-card/apd/cpx-3v9n2/controller-cards) ($250+) / [xx60-xx90](https://www.ebay.com/sch/i.html?_nkw=%28optiplex%29+%283060%2C3070%2C3080%2C5060%2C5070%2C5080%2C7060%2C7070%2C7080%29+%28i3-8100%2Ci3-9100%2Ci3-10100%2Ci5-8400%2C8500%2Ci5-8600%2Ci5-9400%2C9500%2C9600%29&_sacat=179&_from=R40&_trksid=m570.l1313&_fsrp=1&_blrs=recall_filtering&rt=nc&_odkw=%28optiplex%29+%283060%2C3070%2C3080%2C5060%2C5070%2C5080%2C7060%2C7070%2C7080%29+%28i3-8100%2Ci3-9100%2Ci3-10100%2Ci5-8400%2C8500%2Ci5-8600%2Ci5-9400%2C9500%2C9600%29+%28sff%2Cmt%29&_osacat=179&LH_BIN=1&_sop=15&LH_ItemCondition=3000%7C2030%7C2020%7C1500%7C1000%7C2010) (**no AV1**) + [HDMI 2.0 card](https://www.ebay.com/sch/i.html?_from=R40&_nkw=dell+hdmi+2.0+%28HXPK2%2C1KNYY%2CR07CP%2C5N1NY%29&_sacat=0&_sop=12) ($100+) 
   - **Intel: USED: Lenovo ThinkCentre [Neo Gen 3+](https://www.ebay.com/sch/i.html?_nkw=lenovo+neo+-50a+-30a+-celeron+-pentium&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=lenovo+neo+-50a+-30a&_osacat=179&_sop=15) / [M70q Gen 3+](https://www.ebay.com/sch/i.html?_nkw=lenovo+m70q+%2812100%2C12300%2C12400%2C12500%2C12600%2C12700%2C12900%2C13100%2C13400%2C13500%2C13600%2C13700%29&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=lenovo+m70q+%2812100%2C12300%2C12400%2C12500%2C12600%2C12700%2C12900%2C13100%2C13300%2C13400%2C13500%2C13600%2C13700%2C13900%29&_osacat=179&_sop=15) ($250+)**
   - Intel: [MSI Cubi N](https://us.msi.com/Business-Productivity-PC/Cubi-N-ADL/Specification) (N100/N200) ($350)
@@ -95,8 +94,8 @@ $150-$400: SMALLER: Intel/AMD Mini PC, 8GB+ RAM, 256GB+ SSD
 
 $100-$500: SMALL/MEDIUM: Intel - i3/i5-7xxx+ 8GB+ RAM, 256GB ssd/1TB hdd: 
 
- - *Used for:* H264/H265, VP9, AV1 local content, HDR10, 4k Netflix/YT, browsing, 3.5" **HDD/ODD** storage (int), low power (xxxxT cpu models).  
-   - USED: [Dell Opiplex 3000-7000 SFF](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%28optiplex+3000%29+%28i3%2Ci5%2Ci7%29&_sacat=171957&_odkw=%28optiplex%29+%283000%29+%28i3%2Ci5%2Ci7%29&_osacat=171957&LH_BIN=1&_sop=15&LH_PrefLoc=2) (**AV1**) + [HDMI 2.0 card](https://www.dell.com/en-us/shop/dell-daughterboard-i-o-hdmi-card/apd/cpx-3v9n2/controller-cards) ($250+) / [xx60-xx90 SFF](https://www.ebay.com/sch/i.html?_nkw=%28optiplex%29+%283060%2C3070%2C3080%2C5060%2C5070%2C5080%2C7060%2C7070%2C7080%29+%28i3-8100%2Ci3-9100%2Ci3-10100%2Ci5-8400%2C8500%2Ci5-8600%2Ci5-9400%2C9500%2C9600%29+%28sff%2Cmt%29&_sacat=179&_from=R40&_trksid=m570.l1313&_fsrp=1&_blrs=recall_filtering&rt=nc&_odkw=%28optiplex%29+%283060%2C3070%2C3080%2C5060%2C5070%2C5080%2C7060%2C7070%2C7080%29+%28i3-8100%2Ci3-9100%2Ci3-10100%2Ci5-8400%2C8500%2Ci5-8600%2Ci5-9400%2C9500%2C9600%29&_osacat=179&LH_BIN=1&_sop=15&LH_ItemCondition=3000%7C2030%7C2020%7C1500%7C1000%7C2010) (**no AV1**) + [HDMI 2.0 card](https://www.ebay.com/sch/i.html?_from=R40&_nkw=dell+hdmi+2.0+%28HXPK2%2C1KNYY%2CR07CP%2C5N1NY%29&_sacat=0&_sop=12) ($100+)
+ - *Used for:* H264/H265/VP9/AV1 local content, HDR10, 4k Netflix/YT, browsing, 3.5" **HDD/ODD** storage (int), low power (xxxxT cpu models).  
+   - USED: [Dell Optiplex 3000-7000 SFF](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%28optiplex+3000%29+%28i3%2Ci5%2Ci7%29&_sacat=171957&_odkw=%28optiplex%29+%283000%29+%28i3%2Ci5%2Ci7%29&_osacat=171957&LH_BIN=1&_sop=15&LH_PrefLoc=2) (**AV1**) + [HDMI 2.0 card](https://www.dell.com/en-us/shop/dell-daughterboard-i-o-hdmi-card/apd/cpx-3v9n2/controller-cards) ($250+) / [xx60-xx90 SFF](https://www.ebay.com/sch/i.html?_nkw=%28optiplex%29+%283060%2C3070%2C3080%2C5060%2C5070%2C5080%2C7060%2C7070%2C7080%29+%28i3-8100%2Ci3-9100%2Ci3-10100%2Ci5-8400%2C8500%2Ci5-8600%2Ci5-9400%2C9500%2C9600%29+%28sff%2Cmt%29&_sacat=179&_from=R40&_trksid=m570.l1313&_fsrp=1&_blrs=recall_filtering&rt=nc&_odkw=%28optiplex%29+%283060%2C3070%2C3080%2C5060%2C5070%2C5080%2C7060%2C7070%2C7080%29+%28i3-8100%2Ci3-9100%2Ci3-10100%2Ci5-8400%2C8500%2Ci5-8600%2Ci5-9400%2C9500%2C9600%29&_osacat=179&LH_BIN=1&_sop=15&LH_ItemCondition=3000%7C2030%7C2020%7C1500%7C1000%7C2010) (**no AV1**) + [HDMI 2.0 card](https://www.ebay.com/sch/i.html?_from=R40&_nkw=dell+hdmi+2.0+%28HXPK2%2C1KNYY%2CR07CP%2C5N1NY%29&_sacat=0&_sop=12) ($100+)
    - **USED: [Lenovo ThinkCentre m70s Gen3+ SFF](https://www.ebay.com/sch/i.html?_nkw=lenovo+%28m70s%2Cm80s%2Cm90s%29+%2812100%2C12300%2C12400%2C12500%2C12600%2C12700%2C12900%2C13100%2C13400%2C13500%2C13600%2C13700%29&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=lenovo+%28m70s%2Cm90s%29+%2812100%2C12300%2C12400%2C12500%2C12600%2C12700%2C12900%2C13100%2C13400%2C13500%2C13600%2C13700%29&_osacat=179&_sop=15) ($300+)** 
    - NEW: [Lenovo ThinkCentre Neo 50s Gen 3+ SFF](https://www.ebay.com/sch/i.html?_nkw=lenovo+neo+50s&_sacat=179&_from=R40&_trksid=p2334524.m570.l1313&_odkw=neo+50s&_osacat=179&_sop=15) ($400+) 
 
@@ -104,7 +103,7 @@ $150-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB+ RAM, 256GB ssd/1TB hdd
 
  - *Used for:* H264/H265, VP9, local content, HDR10, 4k Netflix/YT, web browsing, 3.5" **HDD/ODD** storage (SFF/MT models), **light gaming**, low power (xxxxGE cpu models).  
    - USED: [HP EliteDesk 705 G5](https://www.ebay.com/sch/179/i.html?_from=R40&_nkw=hp+705+g5+%283200g%2C3400g%29&LH_TitleDesc=1&_sop=15&LH_PrefLoc=2&rt=nc&LH_BIN=1) + [HDMI 2.0 card - 3TK75AA](https://www.ebay.com/sch/i.html?_from=R40&_nkw=hdmi+705+%283TK75AA%2CL25757%29&_sacat=0&_odkw=hdmi+%283TK75AA%2CL25757%29&_osacat=0&_nls=2&_dmd=1) ($140-$300)
-   - NEW: [MSI DP20](https://www.ebay.com/sch/179/i.html?_from=R40&_nkw=msi+dp20&_sop=15&LH_BIN=1&rt=nc&LH_ItemCondition=1000%7C1500) / [Lenovo M75s Gen 2 SFF](https://www.ebay.com/sch/i.html?_from=R40&_nkw=lenovo+m75s+gen+2&_sacat=179&LH_TitleDesc=0&_sop=15&rt=nc&LH_ItemCondition=1500%7C1000) + [CableCreation Active DP 1.4->HDMI Cable](https://www.amazon.com/CableCreation-Unidirectional-DisplayPort-Eyefinity-Multi-Display/dp/B082CXMBCQ) ($300-$600)
+   - NEW: [MSI DP20Z](https://www.ebay.com/sch/179/i.html?_from=R40&_nkw=msi+dp20&_sop=15&LH_BIN=1&rt=nc&LH_ItemCondition=1000%7C1500) / [Lenovo M75s Gen 5 SFF](https://www.ebay.com/sch/i.html?_nkw=m75s+%22gen+5%22&_sacat=179&_from=R40&_trksid=p2334524.m570.l1313&_odkw=m75s+gen+5&_osacat=179&_sop=15) ($500-$650)
 
 <!-- Sub-Section -->
 
