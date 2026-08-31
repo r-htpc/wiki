@@ -171,7 +171,7 @@ Intel Core 8th gen i3+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDM
 
 <!-- - HDMI 2.1: **[UM750L](https://store.minisforum.com/products/minisforum-um750l-slim)/[UM680/UM760 Slim](https://store.minisforum.com/products/minisforum-um760-slim)**, [GMKtec M7](https://www.gmktec.com/products/amd-ryzen-7-pro-6850h-mini-pc-nucbox-m7?variant=bac9d62f-94ff-42ba-9102-f9d0e12ad9fc)/[Minisforum UM773](https://www.amazon.com/MINISFORUM-UM690-6900HX-Threads-Bluetooth5-2/dp/B0BYDF63TT/?th=1), [SER6 Max](https://www.google.com/search?q=ser6+max&oq=ser6+max), [MS-A1/MS-A2](https://store.minisforum.com/products/minisforum-ms-a1-workstation?variant=46761918824693), [Venus UM790](https://store.minisforum.com/products/minisforum-um790-pro-mini-pc), [ASRock 4x4 7535U/8640U](https://www.newegg.com/p/pl?N=50223387&d=4x4&Order=1), [Gigabyte Brix Extreme](https://www.newegg.com/p/pl?d=gigabyte+brix+extreme) -->
 
-- HDMI 2.1: **[ASRock 4x4 BOX 7535U/8640U](https://www.newegg.com/p/pl?N=50223387&d=4x4&Order=1)**, [Gigabyte Brix Extreme](https://www.newegg.com/p/pl?d=gigabyte+brix+extreme)
+- HDMI 2.1: **[ASRock 4x4 BOX 7535U/8640U](https://www.newegg.com/p/pl?N=50223387&d=4x4&Order=1)**, [Gigabyte Brix Extreme](https://www.newegg.com/p/pl?d=gigabyte+brix+extreme), [Asus PN55](https://www.asus.com/us/displays-desktops/mini-pcs/pn-series/asus-expertcenter-pn55/techspec/)
 - Thunderbolt->HDMI 2.1: [Asus Nuc 14 Pro](https://shop.asus.com/us/asus-nuc-14-pro.html)/[Intel NUC 11+](https://www.newegg.com/p/pl?N=100008345%2050001157%20601331497%2050001315&Order=1)/[MSI Cubi 1MG](https://us.msi.com/Business-Productivity-PC/Cubi-NUC-1MX/Specification) + [Cable Matters Thunderbolt->HDMI 2.1 Cable](https://www.amazon.com/Cable-Matters-48Gbps-Adapter-Supporting/dp/B08QDV5H4M) + Display w/HDMI DSC support
 - Displayport->HDMI 2.1: *Used:* HP Prodesk/Elitedesk [400 G9](https://www.ebay.com/sch/i.html?_nkw=hp+400+g9&_sacat=171957&_from=R40&_trksid=p2334524.m570.l1313&_odkw=hp+405+g8&_osacat=171957&_sop=15)/[405 G6+](https://www.ebay.com/sch/i.html?_nkw=hp+405+%28g6%2Cg8%2Cg9%29+ryzen&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=hp+405+g9+ryzen&_osacat=179&LH_BIN=1&_sop=15) or Dell [Optiplex 3000-7000](https://www.ebay.com/sch/i.html?_nkw=optiplex+%283000%2C5000%2C7000%29+%28i3%2Ci5%2Ci7%29+%2812100%2C12400%2C12500%2C12600%2C12700%2C13100%2C13400%2C13500%2C13600%2C13700%29&_sacat=171957&_from=R40&_trksid=m570.l1313&_odkw=optiplex+%283000%2C5000%29+%28i3%2Ci5%2Ci7%29+%2812100%2C12400%2C12500%2C12600%2C12700%2C13100%2C13400%2C13500%2C13600%2C13700%29&_osacat=171957&LH_BIN=1&_sop=15&LH_PrefLoc=2) + Displayport Flex IO HBR3 add-on card. *New:* MSI Pro DP21. DP 1.4 -> HDMI 2.1 active adapter/cable.
 - [What options are there for 4k @ 120 Hz video output?](/wiki/video#what-options-are-there-for-4k--120-hz-video-output)  
@@ -985,5 +985,5 @@ TOTAL		|											|$801			|	|
 
 ---
  
-*This page was last updated on 2026-08-27*
+*This page was last updated on 2026-08-31*
 
