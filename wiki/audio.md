@@ -612,17 +612,16 @@ If you're using an audio interface in the chain that only supports Stereo PCM au
 
 If you're connecting your HTPC directly to a Display first, it can detect it as Stereo in the sound device configuration, per either the Display's internal speakers or older **HDMI ARC and Optical ports, which only support 2-channel PCM audio**.  
 Make sure you have eARC and CEC enable on both your Display and Sound System and that your display is configured to bitstream/passthrough audio.  
+Make sure to update the firmware on your TV and/or Sound System and that you're using [certified HDMI cables](/wiki/components#video-cablesadapters), straight through, of the recommended max lengths
 
-Else, 
+If you're confident [your display](https://www.rtings.com/tv/tests/inputs/5-1-surround-audio-passthrough) and sound system interfaces support PCM above 2 channels or support the codecs you want to bitstream, and you have configured them and your devices as such, this can possibly be solved by exporting the EDID data coming from the Display and then editing the Audio Block portion of it to add the audio formats supported by your sound system (**Way #2/#3** below). This should be considered a last resort.
+
+Else, your options are..  
  - Change to a different HW setup to get around the audio interface limitation ([as per the setup scenarios above](/wiki/audio#hardware-setup))
- - Update the firmware on your TV and/or Sound System
- - Make sure you're using [certified HDMI cables](/wiki/components#video-cablesadapters) straight through, of the recommended lengths
  - Configure your media applications to use only bistreamed 5.1 codecs supported by your [audio interfaces](/wiki/audio#audio-transportsinterfaces) and TV. See the [Application-Specific Setup For Bitstreaming](/wiki/audio#application-specific-setup-for-bitstreaming) section.
  - [Encode your PCM 5.1 audio into Dolby Digital bitstreamed audio](/wiki/audio#my-sound-system-only-supports-decoding-dolby-digital-but-i-want-to-play-content-with-varying-formats-how-do-i-re-encode-it-all-to-dolby-digital)
  - Upgrade your display/[sound system components](/wiki/audio#what-kind-of-sound-system-should-i-get) that have the [limited interface(s)](/wiki/audio#audio-transportsinterfaces).
-
-If you're confident [your display](https://www.rtings.com/tv/tests/inputs/5-1-surround-audio-passthrough) and sound system interfaces support PCM above 2 channels or support the codecs you want to bitstream, and you have configured them and your devices as such, this can possibly be solved by exporting the EDID data coming from the Display and then editing the Audio Block portion of it to add the audio formats supported by your sound system (**Way #2/#3** below).  
-
+  
 **If you're connecting your HTPC directly to a Sound System first**
 
 If you're using Optical/SPDIF, this only supports Stereo PCM audio. Bitstream Dolby Digital or DTS instead [for media](/wiki/audio#application-specific-setup-for-bitstreaming) or Dolby Digital Live [for gaming](/wiki/audio#how-do-i-configure-my-htpc-to-output-sound-for-games-to-my-sound-system).  
@@ -654,6 +653,7 @@ Way #2
 8. Enable any Color formats in there as per what your display supports (if necessary).
 9. "Ok" out
 10. Run restart.exe to restart the graphics driver
+11. Test playback of surround audio. If it doesn't play or play in all channels desired, then you didn't have an EDID problem and have a hardware compatibility one.
 
 Way #3  
 
@@ -667,6 +667,7 @@ Way #3
 8. Import the .bin file
 9. Export to a .exe file. Exit CRU.
 10. Run the exported .exe
+11. Test playback of surround audio. If it doesn't play or play in all channels desired, then you didn't have an EDID problem and have a hardware compatibility one.
 
 <!-- Sub-Section -->
 
