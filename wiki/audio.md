@@ -612,7 +612,7 @@ If you're using an audio interface in the chain that only supports Stereo PCM au
 
 If you're connecting your HTPC directly to a Display first, it can detect it as Stereo in the sound device configuration, per either the Display's internal speakers or older **HDMI ARC and Optical ports, which only support 2-channel PCM audio**.  
 Make sure you have eARC and CEC enable on both your Display and Sound System and that your display is configured to bitstream/passthrough audio.  
-Make sure to update the firmware on your TV and/or Sound System and that you're using [certified HDMI cables](/wiki/components#video-cablesadapters), straight through, of the recommended max lengths
+Make sure to update the firmware/drivers on your TV, Sound System and GPU. and that you're using [certified HDMI cables](/wiki/components#video-cablesadapters), straight through, of the recommended max lengths
 
 If you're confident [your display](https://www.rtings.com/tv/tests/inputs/5-1-surround-audio-passthrough) and sound system interfaces support PCM above 2 channels or support the codecs you want to bitstream, and you have configured them and your devices as such, this can possibly be solved by exporting the EDID data coming from the Display and then editing the Audio Block portion of it to add the audio formats supported by your sound system (**Way #2/#3** below). This should be considered a last resort.
 
