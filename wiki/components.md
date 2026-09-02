@@ -270,8 +270,9 @@ HDDs: Ultrastar, Seagate Exos, WD Red
 ### Optical Drives
 
 *DVD/FHD Blu-Ray:*  
- - Internal: LG WH14NS40, ASUS BW-16D1HT, Pioneer BDR 212  
- - External, Slim: Archgon MD-3102S, LG WP50NB40/BP60NB10/BP50NB40  
+ - Internal, Full: LG WH14NS40, ASUS BW-16D1HT, Pioneer BDR 212 
+ - External, Slim: Archgon MD-3102S, LG WP50NB40/BP60NB10/BP50NB40
+ - Internal, Slim: LG BU40N, Toshiba/Samsung SN-506
  - Internal, Slot: Panasonic UJ-265/UJ-267 (FHD Blu-Ray), Streacom ST-OB2 (FHD Blu-Ray), Silverstone SOB03 (FHD Blu-Ray), HL CA30N/40N (FHD Blu-Ray), LG GS40N (DVD), HL GA30N/31N (DVD), Silverstone SOD04 (DVD)
  - Others: Most any name-brand (LG, Asus, Pioneer, Archgon, Buffalo, Panasonic, HL) drives will be fine if none of the recommended models are available. 
 
