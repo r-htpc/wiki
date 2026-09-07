@@ -652,7 +652,7 @@ If you have an Nvidia RTX 20+ series GPU you can also use RTX Super Resolution i
 
 First, make sure what you're experiencing is actually stutter and not judder. Watch [this](https://www.youtube.com/watch?v=CuEZIJDEQyo&t=1s) video.  
 
-1. Your content has a frame-rate that is mis-matched from your display's refresh-rate (like 24 fps on 60 Hz). Test with [known-good test files](/wiki/video#where-do-i-find-additional-sample-video-files-to-test) of varying frame-rates and/or make sure your refresh-rate is equal to, or a whole number multiple of, the frame-rate.
+1. Your content has a frame-rate that is mis-matched from your display's refresh-rate (like 24 fps on 60 Hz). Test with [known-good test files](/wiki/video#where-do-i-find-additional-sample-video-files-to-test) of varying frame-rates and/or make sure your refresh-rate is equal to, or a whole number multiple of, the frame-rate. You can set up auto refresh rate switching in your media player by reading [this](/wiki/video#application-specific-setup-for-resolutionrefresh-rate-switching). 
 2. You're using an OLED TV, which can cause stutter due to the nature of the tech. Test with [Motion Interpolation enabled](https://www.rtings.com/tv/tests/motion/motion-interpolation-soap-opera-effect#related-settings) on it at various levels, starting with the lowest custom levels first.
 3. Your CPU/GPU is dropping frames. See question above.
 4. You have Dynamic Refresh Rate enabled in Windows. Disable it.
