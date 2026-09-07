@@ -507,7 +507,7 @@ If the media you're watching does not have a framerate that's a multiple of your
    ---- Change display mode before starting playback: ON  
 
 
-3. MPC-HC/MPC-BE w/madVR  
+3. MPC-HC/MPC-BE/Potplayer w/madVR  
 
    *We assume you've already installed madVR first. If not, see the instructions in the HDR Setup Guide instead*
 
