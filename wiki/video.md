@@ -655,7 +655,7 @@ First, make sure what you're experiencing is actually stutter and not judder. Wa
 1. Your content has a frame-rate that is mis-matched from your display's refresh-rate (like 24 fps on 60 Hz). Test with [known-good test files](/wiki/video#where-do-i-find-additional-sample-video-files-to-test) of varying frame-rates and/or make sure your refresh-rate is equal to, or a whole number multiple of, the frame-rate. You can set up auto refresh rate switching in your media player by reading [this](/wiki/video#application-specific-setup-for-resolutionrefresh-rate-switching). 
 2. You're using an OLED TV, which can cause stutter due to the nature of the tech. Test with [Motion Interpolation enabled](https://www.rtings.com/tv/tests/motion/motion-interpolation-soap-opera-effect#related-settings) on it at various levels, starting with the lowest custom levels first.
 3. Your CPU/GPU is dropping frames. See question above.
-4. You have Dynamic Refresh Rate enabled in Windows. Disable it.
+4. You have Dynamic Refresh Rate enabled in Windows advanced display settings. Disable it.
 5. Use the [SVP (Smooth Video Project)](https://www.svp-team.com/) filter to up-convert the content's fps (e.g. 23.976 fps to 60 fps) before it gets to the display; this is Motion Interpolation, and its effect is unliked by some. Alternatively, you can try madVR's frame blending feature in the rendering->smooth motion section of its settings. 
 
 <!-- Sub-Section -->
