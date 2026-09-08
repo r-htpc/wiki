@@ -256,7 +256,7 @@ Windows and Linux are the most popular choices.
 
 If you want to get the highest resolution from [streaming services](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x) (esp. DRMed ones), use HDR, video upscaling like madVR, or are combining with a gaming solution, you would use Windows.  
 
-Linux, alternatively, is free and good for local and emulation content, but you will be limited to [lower resolution streaming services](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x) and no stable HDR yet. mpv is available for upscaling. Kubuntu and Fedora are good distros to start with.
+Linux, alternatively, is free and good for local and emulation content, but you will be limited to [lower resolution streaming services](/wiki/faq#what-resolution-and-audio-is-supported-on-streaming-service-x) and no stable HDR yet. Kubuntu and Fedora KDE (optionally paired with Plasma Bigscreen below) are good distros to start with. The mpv player is available for powerful upscaling and playback.
 
 There are some specialized linux-based distros out there, like [LibreElec (x86)](https://libreelec.tv/)/[CoreElec (ARM)](https://coreelec.org) which are OSes designed for running Kodi as the OS's exclusive, plugin-capable front interface. They're very good for local content, emulation/game streaming, HDR and work well with a [simple remote/controller](/wiki/components#keyboardsremotesgamepads). Like stock linux, they also suffer from lower resolutions on streaming services.  
 
@@ -273,7 +273,7 @@ For a launcher interface to open multiple apps, look at:
  - [Steam Big Picture mode](https://store.steampowered.com/bigpicture) (Windows/Linux/Mac)
  - [Kodi](https://kodi.wiki/view/Archive:HOW-TO:Make_Windows_boot_directly_to_Kodi_(as_a_shell)) with [add-ons](https://kodi.wiki/view/Category:All_add-ons) for pvr, emulators, etc..
  - [Omnimo for Rainmeter](https://omnimo.info/) (Windows)
- - [Plasma Bigscreen](https://plasma-bigscreen.org/) (Linux)
+ - [Plasma Bigscreen](https://plasma-bigscreen.org/) (Fedora KDE Linux)
  - [Windows 10 start menu in full screen mode](https://www.reddit.com/r/htpc/comments/92ek4d/homescreen_for_htpc_and_ideas_for_what_i_can_put/e356duu/)
  - [Windows tablet mode](https://www.tenforums.com/tutorials/3755-turn-off-tablet-mode-windows-10-a.html)
 
@@ -912,5 +912,5 @@ Notes:
 
 ---
 
-*This page was last updated on 2026-08-09*
+*This page was last updated on 2026-09-08*
 
