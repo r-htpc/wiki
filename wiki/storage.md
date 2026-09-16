@@ -404,6 +404,9 @@ Disk Management:
 Data Sync:
   - rsync / freefilesync / syncthing
 
+Data Recovery:
+  - [ddrescue](https://www.gnu.org/software/ddrescue/) / [Ontrack EasyRecovery](https://www.ontrack.com/en-us/software/easyrecovery) / [Klennet Recovery](https://www.klennet.com/klennet-recovery/)
+
 Software Management: Docker, podman
 
 Benchmarking:
@@ -426,5 +429,5 @@ If your storage is on a windows-based OS, [follow these instructions](https://su
 
 ---
 
-*This page was last updated on 2026-08-17*
+*This page was last updated on 2026-09-16*
 
