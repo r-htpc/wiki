@@ -376,7 +376,7 @@ See the next section for a TL;DR of the best devices for your use-case
 
 If you want a traditional standalone HTPC see the Mini PCs at the end of the list or our [Sample Builds](/wiki/sample-builds) page for more extensive options.  
 
-Legend: PT: Passthrough, DC: Decode, LS: Lossy, LL: LossLess, DD: Dolby Digital, DV: Dolby Vision, DA: Dolby Atmos, DTHD: Dolby TrueHD, DV-5: Dolby Vision - Streaming Services, DV-7M/7F: Dolby Vision Disc Rips - 7M (MEL)/7F (FEL), EOL: End of Life, V: Video, A: Audio
+Legend: PT: Passthrough, DC: Decode, LS: Lossy, LL: LossLess, DD: Dolby Digital, DV: Dolby Vision, DA: Dolby Atmos, DTHD: Dolby TrueHD, DV-5: Dolby Vision - Streaming Services, DV-7M/7F: Dolby Vision Disc Rips - 7M (MEL/RPU)/7F (FEL), EOL: End of Life, V: Video, A: Audio
 
 <!--
 BRAND/MODEL|PRICE|RESOLUTION|4k NETFLIX?|HDR?|WIFI?|LAN?|VOICE SEARCH?|USB?|NOTES
