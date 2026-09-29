@@ -65,6 +65,7 @@ Arctic Alpine 12 Passive (DC)		| 69mm | $18 | 47W | NA | LGA115x | 4 | NA
 Arctic Alpine 12 AM4 Passive	| 69mm | $18 | 47W | NA | AMx | 4 | NA
 **\*Noctua NH-L12s**			| 70mm | $75 | 95W | 120mm | LGA115x/1200/1700/201x/2066/FMx/AMx (seperate FM kit) | **5** | 23.9 dBA 
 beQuiet Shadow Rock LP			| 75mm | $50 | 130W | 120mm | LGA115x/1200/1700/201x/AMx | 4 | 25.5 dBA 
+**\*Thermalright AXP120-X77**		| 77mm | $30 | 150W? | 120mm | LGA115x/1200/1700/1851/201x/2066/AMx | **5** | 37.0 dBA 
 Noctua NH-L12sx77			| 77mm | $75 | 107W | 120mm | LGA115x/1200/1700/1851/AMx | 4 | 23.9 dBA 
 AMD Wraith Max Stock		| 85mm | $60 | 140W | NA | AM4/AM3+/FM2+ | 4 | -3mm shroud removed
 Thermalright SI-100			| 99.8mm | $60 | 140W? | 120mm | LGA115x/1200/1700/201x/AMx | 4 | 27.7 dBA 
