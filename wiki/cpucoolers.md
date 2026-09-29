@@ -69,6 +69,8 @@ Noctua NH-L12sx77			| 77mm | $75 | 107W | 120mm | LGA115x/1200/1700/1851/AMx | 4
 AMD Wraith Max Stock		| 85mm | $60 | 140W | NA | AM4/AM3+/FM2+ | 4 | -3mm shroud removed
 Thermalright SI-100			| 99.8mm | $60 | 140W? | 120mm | LGA115x/1200/1700/201x/AMx | 4 | 27.7 dBA 
 AMD Prism Stock			| 93 / 96.3mm | NA | 140W | 92mm | AM4 | 4 | -3mm shroud removed - 2700X/3700X/3800X/3900X
+Thermalright Silver Soul 110			| 110mm | $28 | 150W? | 92mm | LGA115x/1200/1700/201x/AMx | 4 | 23 dBA 
+Thermalright Peerless Assassin Mini			| 135mm | $35 | 200W? | 120mm | LGA115x/1200/1700/1851/201x/AMx | 4 | 25.6 dBA 
 
 (1) G.Skill Aegis/Patriot Signature/Crucial Green (31.25), Teamgroup Elite (31.5), Teamgroup Vulcan Z (31.6), Vengeance LPX (34), HyperX Fury (34.1)  
 (DC) Discontinued  
@@ -183,5 +185,5 @@ AIR: [Noctua NH-D12L](https://www.reddit.com/r/htpc/comments/y7vpr0/fyi_the_noct
 
 --- 
 
-*This page was last updated on 2025-12-23*
+*This page was last updated on 2026-09-29*
 
