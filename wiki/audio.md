@@ -677,12 +677,13 @@ If you can't bitstream Netflix Dolby Digital+ over a single, fully HDMI compatib
 This workaround only works if your Windows sound device shows as supporting 5.1/7.1 Surround in the sound device configuration/speaker setup. It is not clear how long this workaround keeps effect. It may revert back to Stereo after closing the Netflix app/site or after a OS reboot.  
 
 1. Download and install the Dolby Access app from the Microsoft Store
-2. Set your preferred sound device configuration/speaker setup/spatial setup to "Dolby Atmos for Headphones"
-3. Open Netflix via the app or supported web browser
-4. Find a Netflix title that supports Dolby Digital/5.1
-5. Play the title and set the audio to 5.1
-6. Set your preferred sound device configuration/speaker setup to 5.1 or 7.1
-7. Play desired Netflix Dolby Digital/5.1 title
+2. Set your preferred sound device's configuration/speaker setup/spatial sound to "Dolby Atmos for Headphones"
+3. Open the Dolby Access app and check the Dolby Atmos for Headphones status shows 'Ready to use'
+4. Open Netflix via the app or supported web browser
+5. Find a Netflix title that shows as supporting Dolby Digital/Dolby Atmos/Spatial Sound
+6. Play the title and set the audio to 5.1
+7. Set your preferred sound device's configuration/speaker setup to 5.1 or 7.1. This may be in Control Panel->Sound or Sound Device->Advanced->More Sound Settings
+8. Play desired Netflix Dolby Digital/5.1 title
 
 <!-- Sub-Section -->
 
@@ -1259,5 +1260,5 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 
 ---
 
- *This page was last updated on 2026-07-28*
+ *This page was last updated on 2026-09-30*
 
