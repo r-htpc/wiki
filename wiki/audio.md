@@ -671,6 +671,21 @@ Way #3
 
 <!-- Sub-Section -->
 
+### How do I get Netflix 5.1 surround sound working on a sound system without bitstreaming support?
+
+If you can't bitstream Netflix Dolby Digital+ over a single, fully HDMI compatible chain, but you have an analog pcie/usb sound card or multi-HDMI setup, you can work-around the limitation.  
+This workaround only works if your Windows sound device shows as supporting 5.1/7.1 Surround in the sound device configuration/speaker setup. It is not clear how long this workaround keeps effect. It may revert back to Stereo after closing the Netflix app/site or after a OS reboot.  
+
+1. Download and install the Dolby Access app from the Microsoft Store
+2. Set your preferred sound device configuration/speaker setup/spatial setup to "Dolby Atmos for Headphones"
+3. Open Netflix via the app or supported web browser
+4. Find a Netflix title that supports Dolby Digital/5.1
+5. Play the title and set the audio to 5.1
+6. Set your preferred sound device configuration/speaker setup to 5.1 or 7.1
+7. Play desired Netflix Dolby Digital/5.1 title
+
+<!-- Sub-Section -->
+
 ### Why does my HTPC change audio/display settings when switching inputs or waking from Sleep/Power up?
 ### Why does my sound system not work unless the display is on?
 
