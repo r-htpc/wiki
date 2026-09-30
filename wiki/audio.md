@@ -680,7 +680,7 @@ This workaround only works if your Windows sound device shows as supporting 5.1/
 2. Set your preferred sound device's configuration/speaker setup/spatial sound to "Dolby Atmos for Headphones"
 3. Open the Dolby Access app and check the Dolby Atmos for Headphones status shows 'Ready to use'
 4. Open Netflix via the app or supported web browser
-5. Find a Netflix title that shows as supporting Dolby Digital/Dolby Atmos/Spatial Sound
+5. Find a Netflix title that shows as supporting Dolby Digital/Dolby Atmos/Spatial Audio
 6. Play the title and set the audio to 5.1
 7. Set your preferred sound device's configuration/speaker setup to 5.1 or 7.1. This may be in Control Panel->Sound or Sound Device->Advanced->More Sound Settings
 8. Play desired Netflix Dolby Digital/5.1 title
