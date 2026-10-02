@@ -349,7 +349,7 @@ Video/audio support for streaming services in general is limited on a traditiona
 Using Windows Store apps for some of these services may be better than using a web browser in terms of video/audio support. 
 
 For example, the Netflix Windows Store app does support 4k/1080p streaming and Dolby Digital/Dolby Digital Plus soundtracks. Browser-based solutions other than Microsoft Edge tend not to support DD/DD+ audio and some content will only be available in 720p.  
-The app/site still does not have remote control support, but you can try adding 3rd party [remote control](https://r-htpc.github.io/wiki/components#keyboardsremotesgamepads) support using the [Netflix Remote Controller](http://sticky-ux.com/apps/NetflixRemoteController/) or by using your mobile phone combined with a [Unified Remote](https://www.unifiedremote.com/remotes/netflix-web) setup.  
+The app/site still does not have remote control support, but you can try adding 3rd party [remote control](https://r-htpc.github.io/wiki/components#keyboardsremotesgamepads) support using the [Netflix Remote Controller](http://sticky-ux.com/apps/NetflixRemoteController/) or by using your mobile phone combined with a [Netflix remote](https://www.unifiedremote.com/remotes/all) in [Unified Remote](https://www.unifiedremote.com).  
 
 Support for the higher resolutions and audio is way more prevalent on pre-built media devices, so if you use a lot of these services, it's better NOT to use a PC. See our [media device](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) section below for options.  
 
