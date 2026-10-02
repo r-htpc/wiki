@@ -733,6 +733,8 @@ Simple, Tonemapping
             * (Use) HDR: Off  
               * Allow HDR video streaming even when HDR is off: On  
             * HDR video streaming..: On  
+* *Browser settings (Netflix):*  
+  * In Microsoft Edge, Enable "Experimental Web Platform features" in edge://flags/#enable-experimental-web-platform-features
 * *Test*
   * Netflix: Check edge://gpu in Microsoft Edge for: HDCP 2.2 support, HEVC installed/activable, and HEVC - HDR10 support set true. Check [Netflix HDR10 test pattern](https://www.netflix.com/title/80018499) looks correct.
   * Youtube: <!-- Check edge://flags in Microsoft Edge for: Media Foundation for Clear set to Enabled. --> Check [HDR content](https://www.youtube.com/watch?v=njX2bu-_Vw4) looks correct.
@@ -850,5 +852,5 @@ Do one or more of the following..
 
 ---
 
-*This page was last updated on 2026-08-26*
+*This page was last updated on 2026-10-02*
 
