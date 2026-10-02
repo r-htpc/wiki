@@ -140,7 +140,7 @@ $150-$500: SMALL/MEDIUM: AMD - Ryzen 3x00G-5x00G, 8GB+ RAM, 256GB ssd/1TB hdd
 - Medium Gaming:
   - Tiny (<10L): Asus NUC 14 Performance (RTX 4060/4070), Asus ROG NUC 760/970 (RTX 4060/4070), Asus ROG GR70/ROG NUC 16 (RTX 5060/5070 Ti).
   - Small (10-12L): **USED: [HP Elitedesk 800 G5/G6 i5 16GB ($200)](https://www.ebay.com/sch/i.html?_nkw=hp+elitedesk+800+sff+%28g5%2Cg6%29+i5+%2816gb%2C32gb%29&_sacat=179&_from=R40&_trksid=m570.l1313&_odkw=hp+elitedesk+800+sff+%28g5%2Cg6%29+i5+16gb&_osacat=179&_sop=15) + RTX 3050 LP dGPU ($200)**, [MSI PRO DP80](https://www.newegg.com/p/N82E16883151735?item=N82E16883151735) (RTX 3050 dGPU) ($850)
-  - Medium (15-20L): [Lenovo LOQ](https://www.amazon.com/Lenovo-LOQ-Computer-i5-14400F-Earphones/dp/B0GL3KLQM8/?th=1) (RTX 3050 dGPU) ($800+)
+  - Medium (15-20L): [Lenovo LOQ](https://www.ebay.com/sch/171957/i.html?_nkw=lenovo+loq+3050&_from=R40&_sop=15&rt=nc&LH_BIN=1) (RTX 3050 dGPU) ($600+)
   - Large (30L+): [ABS Cyclone Aqua](https://www.newegg.com/p/pl?N=100897483%2050008484&Order=1) (RTX 5060 dGPU) ($1000+)
   - Various (5-26L): [Monsoon PCS SFF](https://monsoonpcs.com/prebuilt-sff/) ($1500+)
  
