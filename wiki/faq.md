@@ -4,6 +4,8 @@ date: 2026-10-02 00:00:00 -0700
 
 # Frequently Asked Questions
 
+<div align="right"><em>Last updated on 2026-10-02</em></div><br>
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--
 <style>
@@ -12,8 +14,6 @@ date: 2026-10-02 00:00:00 -0700
     }
 </style>
 -->
-
-*This page is best viewed with a PC web browser.*  
 
 If you're new to HTPCs, you should work your way through this page before moving on to other, more specific pages in our Wiki.  
 
@@ -922,5 +922,4 @@ Notes:
 
 ---
 
-*This page was last updated on 2026-10-02*
 
