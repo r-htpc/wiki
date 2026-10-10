@@ -6,6 +6,8 @@ date: 2026-09-29 00:00:00 -0700
 
 # CPU Coolers
 
+<div align="right"><em>Last updated on 2026-09-29</em></div><br>
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--
 <style>
@@ -187,5 +189,4 @@ AIR: [Noctua NH-D12L](https://www.reddit.com/r/htpc/comments/y7vpr0/fyi_the_noct
 
 --- 
 
-*This page was last updated on 2026-09-29*
 
