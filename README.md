@@ -1,7 +1,3 @@
----
-description: /r/htpc sub-reddit's wiki page
-keywords: [HTPC, home theater, PC]
----
 
 <!-- ## Overview -->
 <!-- noop -->
