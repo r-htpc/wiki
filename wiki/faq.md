@@ -1,3 +1,7 @@
+---
+date: 2026-10-02
+---
+
 # Frequently Asked Questions
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
