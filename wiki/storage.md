@@ -1,3 +1,7 @@
+---
+date: 2026-10-10
+---
+
 # Storage Setup Guide
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
