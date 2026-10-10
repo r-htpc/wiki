@@ -6,6 +6,8 @@ date: 2026-08-15 00:00:00 -0700
 
 # Hardware Components Guide
 
+<div align="right"><em>Last updated on 2026-08-15</em></div><br>
+
 <meta name="description" content="Information on hardware components to use in your HTPC. Cases, CPUs, GPUs, Motherboards, Memory, Storage, HDMI Video cables/adapters, Optical drives, etc..">
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -16,8 +18,6 @@ date: 2026-08-15 00:00:00 -0700
     }
 </style>
 -->
-
-*This page is best viewed with a PC web browser.*  
 
 <!-- Section -->
 
@@ -555,5 +555,4 @@ WeChip G20S Pro/Plus		|	$20	|	RF/BT		|	YES	|	YES | AAA	|	Remote and Air Mouse
 
 ---
 
-*This page was last updated on 2026-08-15*
 
