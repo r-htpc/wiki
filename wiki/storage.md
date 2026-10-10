@@ -270,8 +270,13 @@ TBW = Total Bytes Written, Workload
 
 <!-- Sub-Section -->
 
-### Hard Drive Prices (as of 2025-03-07)
-Prices: [PCPartPicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=8000000000000,22000000000000&sort=price&page=1) (new). Recertified/refurbished/new pull prices are about 20% less than new quoted below from [Disctech](https://www.disctech.com), [Serverpartdeals](https://serverpartdeals.com).
+### Hard Drive Prices 
+
+**Not currently updated due to significant price increase and flux single Q3 2025. Follow price links below**
+
+Prices: [PCPartPicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=8000000000000,22000000000000&sort=price&page=1) (new) or [Diskprices](https://diskprices.com/?locale=us&condition=new,used&capacity=8-30&disk_types=internal_hdd,internal_sas) / [Serverpartdeals](https://serverpartdeals.com) (new/refurb). Recertified/refurbished/new pull prices are about 20% less than new.
+
+Last Update: 2025-03-07  
 
 BRAND						|8TB	|12TB	|14TB	|18TB
 :--|:--|:--|:--|:--
@@ -429,5 +434,5 @@ If your storage is on a windows-based OS, [follow these instructions](https://su
 
 ---
 
-*This page was last updated on 2026-09-16*
+*This page was last updated on 2026-10-10*
 
