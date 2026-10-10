@@ -6,7 +6,7 @@ date: 2026-10-10 14:30:00 -0700
 
 # HDR Setup Guide
 
-<div align="right">_Last updated on 2026-10-10_</div>
+<div align="right">*Last updated on 2026-10-10*</div>
 <meta name="viewport" content="width=625, initial-scale=0.8">
 <!--
 <style>
