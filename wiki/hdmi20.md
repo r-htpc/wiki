@@ -1,3 +1,7 @@
+---
+date: 2025-01-21
+---
+
 # HDMI 2.0 Motherboards
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
