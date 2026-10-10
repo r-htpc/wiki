@@ -6,8 +6,7 @@ date: 2026-10-10 14:30:00 -0700
 
 # HDR Setup Guide
 
-<div style="text-align: right;">*This page was last updated on 2026-10-10*</div>
-
+<div style="text-align: right;">_Last updated on 2026-10-10_</div>
 <meta name="viewport" content="width=625, initial-scale=0.8">
 <!--
 <style>
