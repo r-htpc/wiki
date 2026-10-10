@@ -31,6 +31,9 @@
 ### [HDR Setup Guide](/wiki/hdr)
 - How to configure **HDR** and **Upscaling** settings for multiple platforms and players
 
+### [3D Setup Guide](/wiki/3d)
+- How to configure 3D playback for multiple platforms and players
+
 ### [STORAGE Setup Guide](/wiki/storage)
 - Information on storage for your HTPC/media devices. Pre-built NASes, HDDs, SSDs, DIY NAS cases
 
