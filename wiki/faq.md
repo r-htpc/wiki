@@ -1,5 +1,5 @@
 ---
-date: 2026-10-02
+date: 2026-10-02 00:00:00 -0700
 ---
 
 # Frequently Asked Questions
