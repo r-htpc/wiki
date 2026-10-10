@@ -5,7 +5,7 @@ date: 2026-09-30 00:00:00 -0700
 
 # Audio Setup Guide
 
-**This page is best viewed with a PC web browser.**  
+<div align="right"><em>Last updated on 2026-10-10</em></div><br>
 
 ## Technologies
 
