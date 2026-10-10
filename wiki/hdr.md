@@ -855,5 +855,4 @@ Do one or more of the following..
 
 ---
 
-*This page was last updated on 2026-10-10*
 
