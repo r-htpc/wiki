@@ -1,6 +1,7 @@
 ---
 description: A list of terms found on the /r/htpc subreddit and what they mean
 keywords: [htpc reference]
+date: 2026-01-14
 ---
 
 # HTPC Term Reference
