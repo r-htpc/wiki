@@ -4,6 +4,8 @@ date: 2026-10-10 12:00:00 -0700
 
 # Storage Setup Guide
 
+<div align="right"><em>Last updated on 2026-10-10</em></div><br>
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--
 <style>
@@ -437,6 +439,4 @@ If your storage is on a windows-based OS, [follow these instructions](https://su
 &nbsp;
 
 ---
-
-*This page was last updated on 2026-10-10*
 
