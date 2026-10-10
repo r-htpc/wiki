@@ -3,9 +3,10 @@ description: Information on configuring HDR and Upscaling on your HTPC, for mult
 keywords: [hdr, hdr10, madvr, mpc, tonemapping, tone mapping, kodi, plex, upscaling]
 date: 2026-10-10 14:30:00 -0700
 ---
-<div style="text-align: right;">*This page was last updated on 2026-10-10*</div>
 
 # HDR Setup Guide
+
+<div style="text-align: right;">*This page was last updated on 2026-10-10*</div>
 
 <meta name="viewport" content="width=625, initial-scale=0.8">
 <!--
