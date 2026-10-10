@@ -1,6 +1,6 @@
 ---
 description: Information on the best ways to connect your HTPC to a sound system and/or HT display.
-date: 2025-07-05
+date: 2025-07-05 00:00:00 -0700
 ---
 
 # Connection Setup Guide
