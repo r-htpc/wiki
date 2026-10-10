@@ -272,7 +272,7 @@ TBW = Total Bytes Written, Workload
 
 ### Hard Drive Prices 
 
-**Not currently updated due to significant price increase and flux single Q3 2025. Follow price links below**
+**Our table is not currently updated due to significant price flux/increases since Q3 2025. Follow the links below for updated pricing**
 
 Prices: [PCPartPicker](https://pcpartpicker.com/products/internal-hard-drive/#xcx=0&A=8000000000000,22000000000000&sort=price&page=1) (new) or [Diskprices](https://diskprices.com/?locale=us&condition=new,used&capacity=8-30&disk_types=internal_hdd,internal_sas) / [Serverpartdeals](https://serverpartdeals.com) (new/refurb). Recertified/refurbished/new pull prices are about 20% less than new.
 
