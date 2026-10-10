@@ -5,7 +5,7 @@ date: 2026-09-30 00:00:00 -0700
 
 # Audio Setup Guide
 
-<div align="right"><em>Last updated on 2026-10-10</em></div><br>
+<div align="right"><em>Last updated on 2026-09-30</em></div><br>
 
 ## Technologies
 
@@ -1260,6 +1260,4 @@ Analog: Custom lengths/high quality: [Blue Jeans](https://www.bluejeanscable.com
 &nbsp;
 
 ---
-
- *This page was last updated on 2026-09-30*
 
