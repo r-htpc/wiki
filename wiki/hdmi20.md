@@ -4,6 +4,8 @@ date: 2025-01-21 00:00:00 -0700
 
 # HDMI 2.0 Motherboards
 
+<div align="right"><em>Last updated on 2025-01-21</em></div><br>
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--
 <style>
@@ -264,4 +266,3 @@ Obviously a board that lists the compatibility in its specs or any board that ha
 
 ---
 
-*This page was last updated on 2025-01-21*
