@@ -915,8 +915,8 @@ If you want to save money, either use 1x16GB mem w/X3D CPU or switch to a CPU/mo
 PART			|BRAND/MODEL			|	PRICE	|	VENDOR	|	NOTES
 :--|:--|:--|:--|:--
 CASE	|	Silverstone **ML-07**		|	$110	|[pcpartpicker](https://pcpartpicker.com/product/MtV48d/silverstone-case-ml07b)	|15" (W)x4.1" (H)x13.8" (D). ALT: Silverstone GD-11 (6.9" (H), 30L)
-CPU	|	AMD Ryzen **7600X**	    	    	|	$160	|[pcpartpicker](https://pcpartpicker.com/product/66C48d/amd-ryzen-5-7600x-47-ghz-6-core-processor-100-100000593wof)	|ALT: AMD Ryzen 7700X
-GPU	|	AMD RX **9060 XT 16GB**				|	$500	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&sort=price&c=596&P=17179869184,51539607552)	|ALT: AMD RX 9070 16GB
+CPU	|	AMD Ryzen **7600X**	    	    	|	$160	|[pcpartpicker](https://pcpartpicker.com/product/66C48d/amd-ryzen-5-7600x-47-ghz-6-core-processor-100-100000593wof)	|ALT: AMD Ryzen 7700X/7600X3D
+GPU	|	AMD RX **9060 XT 16GB**				|	$500	|[pcpartpicker](https://pcpartpicker.com/products/video-card/#xcx=0&sort=price&c=596&P=17179869184,51539607552)	|ALT: AMD RX 9070 16GB/9070 GRE 12GB/ARC B580 12GB
 MOBO	|	ASRock A620AI WiFi ITX		|	$130	|[pcpartpicker](https://pcpartpicker.com/products/motherboard/#xcx=0&f=8&sort=price&s=41)	|ALT: GD-11: Gigabyte B650 GAMING X AX ATX
 MEM	|	Crucial Pro **32GB** 2x16GB DDR5-6000	|	$400	|[pcpartpicker](https://pcpartpicker.com/products/memory/#xcx=0&ff=ddr5&Z=32768002&sort=price&S=5200,8400)	|ALT: Patriot Viper 1x16GB **16GB** DDR5-6000 ($200)
 STORAGE	|	MSI Spatium **2TB** M.2 (OS/GAMES)	|	$200	|[pcpartpicker](https://pcpartpicker.com/products/internal-hard-drive/#D=1&A=1920000000000,36000000000000&sort=price&page=1)	| ALT: Patriot Pxxx 1TB M.2
