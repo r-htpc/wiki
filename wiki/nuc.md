@@ -1,3 +1,7 @@
+---
+date: 2026-08-17
+---
+
 # NUCs
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
