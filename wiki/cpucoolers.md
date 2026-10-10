@@ -1,7 +1,7 @@
 ---
 description: A list of CPU coolers for HTPCs
 keywords: [htpc coolers]
-date: 2026-09-29
+date: 2026-09-29 00:00:00 -0700
 ---
 
 # CPU Coolers
