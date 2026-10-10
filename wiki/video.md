@@ -5,7 +5,7 @@ date: 2026-09-28 00:00:00 -0700
 
 # Video Setup Guide
 
-*This page is best viewed with a PC web browser.*  
+<div align="right"><em>Last updated on 2026-09-28</em></div><br>
 
 <!-- Section -->
 
@@ -889,6 +889,3 @@ Dolby Vision Tests - [P5](https://drive.google.com/uc?export=download&id=1u5T0NM
 &nbsp;
 
 ---
-
-*This page was last updated on 2026-09-28*
-
