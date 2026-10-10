@@ -6,7 +6,7 @@ date: 2026-10-10 13:00:00 -0700
 
 # HTPC Builds - Pre-Built / DiY
 
-<div align="right"><em>Last updated on 2026-10-10</em></div>
+<div align="right"><em>Last updated on 2026-10-10</em></div><br>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--
