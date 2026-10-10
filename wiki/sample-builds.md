@@ -1,7 +1,7 @@
 ---
 description: Information on pre-builts and DiY builds to help you get started with a HTPC, media server, NAS, gaming or specialized setup
 keywords: [htpc build, diy htpc, mini pc, pre-builts, media server, emulation, madvr, hdr, all-in-one]
-date: 2026-10-10 13:00:00
+date: 2026-10-10 13:00:00 -0700
 ---
 
 # HTPC Builds - Pre-Built / DiY 
