@@ -1,10 +1,10 @@
 ---
-date: 2026-10-10 12:00:00 -0700
+date: 2026-10-11 12:00:00 -0700
 ---
 
 # Storage Setup Guide
 
-<div align="right"><em>Last updated on 2026-10-10</em></div><br>
+<div align="right"><em>Last updated on 2026-10-11</em></div><br>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--
@@ -397,7 +397,11 @@ Coolermaster NR600P		|6+2		|12		|Disc		|8.66 x 19.92 x 19.41		|YES		|54.9	|EATX/
 
 ## Software
 
-If you're looking for a software storage solution for your DiY hardware, [Unraid](https://unraid.net) is highly suggested. If you can't afford it, then use  [Openmediavault](https://www.openmediavault.org/) with [mergerfs+snapraid](https://www.networkshinobi.com/snapraid-and-mergerfs-on-openmediavault/) or, if all disks will be the same size, RAID5 w/mdadm. If you only need RAID0/1, Rockstor w/BTRFS is good. If you need to use Windows, [StableBit DrivePool](https://stablebit.com/DrivePool) ($)+[snapraid](https://www.snapraid.it/). If you can't afford it, then Windows Storage Spaces.  
+If you're looking for a software storage solution for your DiY hardware, choose based on data array protection methods first, then tech support, interface, app support (VMs/Dockers), and cost. Anything you choose, beyond a beginner setup, should be either based around some sort of parity-protected array tech (i.e. RAID5/6-like), for example Unraid's own parity method, ZFS, MDADM; OR a non-protected pooled array (i.e. RAID0-like) backed by separate parity protection, for exmaple Snapraid sitting behind mergerfs or Drivepool.  
+[Unraid](https://unraid.net) is highly suggested as a platform. You get parity protected arrays, cache support, VM, Docker, good support, and a nice interface.  
+If you can't afford Unraid, then use [Openmediavault](https://www.openmediavault.org/) with your data on [mergerfs combined with snapraid](https://www.networkshinobi.com/snapraid-and-mergerfs-on-openmediavault/). The interface and experience will just be less polished vs Unraid. If all your array disks will be the same size, BTRFS on top of a RAID5'd mdadm is the tried and true solution.  
+If you only need RAID0/1, straight up BTRFS is good. [Rockstor](https://rockstor.com/) as a platform is built around it and is a fine place to start.  
+If you need to use Windows, [StableBit DrivePool](https://stablebit.com/DrivePool) ($) combined with [snapraid](https://www.snapraid.it/) is suggested. If you can't afford it, then Windows Storage Spaces.  
 
 OS: [Unraid](https://unraid.net), [TrueNAS](https://www.truenas.com/truenas-scale/), [Openmediavault](https://www.openmediavault.org/), [Ubuntu Server](https://ubuntu.com/download/server), [Rockstor](http://rockstor.com)  
 
