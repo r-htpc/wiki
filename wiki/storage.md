@@ -1,10 +1,10 @@
 ---
-date: 2026-10-11 12:00:00 -0700
+date: 2026-10-14 12:00:00 -0700
 ---
 
 # Storage Setup Guide
 
-<div align="right"><em>Last updated on 2026-10-11</em></div><br>
+<div align="right"><em>Last updated on 2026-10-14</em></div><br>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--
@@ -68,7 +68,7 @@ Recommended drives are bolded in the [Hardware section below](/wiki/storage#hard
 
 ## External Storage
 
-External media storage can come in the format of USB drives or USB/Thunderbolt/PCIe Direct Attached Storage enclosures (DAS); drives in a DAS can act as individual drives or as one drive. These USB-based storage devices are o.k. for beginner setups, but anything attached by **USB is at risk of being disconnected at random**, so **internal or network storage is preferred** to external, for reliability and stability. If you must, use a PCIe SAS-based DAS instead, as this is just as good as internal storage reliability.  
+External media storage can come in the format of single USB HDD drives or USB/Thunderbolt/PCIe Direct Attached Storage enclosures (DAS); drives in a DAS can act as individual drives or as one drive. The USB-based storage devices are o.k. for beginner setups, but anything attached by **USB is at risk of being disconnected at random**, so **internal or network storage is preferred** to external, for reliability and stability. If you must, use a PCIe SAS-based DAS instead, as this is just as good as internal storage reliability. You can build one for cheap to connect directly to your compute.  
 **Never** do Software RAID or drive pooling over USB.  
 
 Recommended DASes are bolded in the [Hardware section below](/wiki/storage#direct-attach-storage-das). PCIe solutions being preferred. 
@@ -178,8 +178,8 @@ If you can't afford a pre-built NAS you can buy one of these options and add ext
 
   - 2-4 drives:
     - USB-based: [Orange Pi 3 LTS](https://www.aliexpress.com/w/wholesale-orange-pi-3-lts.html) (USB3x1,USB2x2) $40, [RPI 4b](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) (USB3x2,USB2x2) $35, [Rock64-2GB](https://pine64.com/product/rock64-2gb-single-board-computer/) (USB3x1,USB2x2) $35, [Pine H64](https://ameridroid.com/collections/pine) (USB3x1,USB2x2) $45, [Odroid C4](https://www.hardkernel.com/shop/odroid-c4/) (USB3x4) $60, PC: **[Dell/Lenovo i3-41x0t](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%28i3-4130t%2Ci3-4160t%2Ci3-4150t%2Ci3-4170t%29&_sacat=171957&rt=nc&_odkw=%28i3-4130t%2Ci3-4160t%29&_osacat=171957&LH_BIN=1&_sop=15) (USB3x2-4,USB2x2)** $50. Optionally, add a [single enclosure DAS](/wiki/storage#direct-attach-storage-das) over USB.
-    - **SATA-based**: [HP Elitedesk 800 G3 SFF](https://www.ebay.com/sch/i.html?_nkw=hp+elitedesk+g3+sff&_sacat=0&_from=R40&_sop=15&rt=nc&LH_BIN=1&_blrs=recall_filtering) (**SATAx3**) $70, [Odroid HC4](https://www.hardkernel.com/shop/odroid-hc4/) (**SATAx2**) $75, [Odroid H4+](https://www.hardkernel.com/shop/odroid-h4-plus/) + [Case](https://www.hardkernel.com/product-category/cases/) (**SATAx4**) $150.
-    - PCIe SAS-based: ThinkCentre m920q/m90q, ThinkStation P320/P330 Tiny. Add a [single enclosure DAS](/wiki/storage#direct-attach-storage-das) over PCIe SAS.
+    - **SATA-based**: [HP Elitedesk 800 G3 SFF](https://www.ebay.com/sch/i.html?_nkw=hp+elitedesk+g3+sff&_sacat=0&_from=R40&_sop=15&rt=nc&LH_BIN=1&_blrs=recall_filtering) (HDD**x3**) $70, [Odroid HC4](https://www.hardkernel.com/shop/odroid-hc4/) (HDD**x2**) $75, [Odroid H4+](https://www.hardkernel.com/shop/odroid-h4-plus/) + [Case](https://www.hardkernel.com/product-category/cases/) (HDD**x4**) $150.
+    - **PCIe SAS-based**: ThinkCentre m920q/m90q/m920s, ThinkStation P320/P330 Tiny with [single, external enclosure DAS](/wiki/storage#direct-attach-storage-das) (HDD**<=x16**)over PCIe SAS.
 
   - Install Linux or [Openmediavault](https://www.openmediavault.org/) as your OS, optionally create a storage pool under [mergerFS](https://github.com/trapexit/mergerfs/wiki) if more than one drive, and share your storage out [over the network with Samba](/wiki/storage#how-do-i-share-htpc-storage-on-my-network).  
 
@@ -200,8 +200,9 @@ If you want to skirt the line between a pre-built NAS and DiY, look at the follo
 
 ### Direct Attach Storage (DAS)
 
+External storage directly connected to your PC/server.  
 As stated above, **avoid USB based DASes**. PCIe SAS is much more reliable.  
-You can fit the [low-profile HBA cards](https://www.ebay.com/sch/i.html?_nkw=hba+%289201%2C9202%2C9207%2C9300%29+%288e%2C16e%29&_sacat=56091&_from=R40&LH_BIN=1&_sop=15) into SFF sized servers (m920s) and even in a number of pre-built Micros (m920q/m90q, P320/P330 Tiny, MS-01) and DiY your own solution for the same cost of the USB solutions. Yes, it's more work, but it's not hard and it will be more reliable and flexible. A whole 8-16 DAS solution can be had for $250-$400.  
+You can fit the [low-profile HBA cards](https://www.ebay.com/sch/i.html?_nkw=hba+%289201%2C9202%2C9207%2C9300%29+%288e%2C16e%29&_sacat=56091&_from=R40&LH_BIN=1&_sop=15) into SFF sized servers (m920s) and even in a number of pre-built Micros (m920q/m90q, P320/P330 Tiny, MS-01) and DiY your own solution for the same cost of the USB solutions. Yes, it's more work, but it's not hard and it will be more reliable, flexible/expandble and use common hardware. A whole 8-16 DAS solution can be made for $250-$400.  
 For a smaller, simpler version, look at the TL-D400S.
 
 <!--
@@ -218,7 +219,7 @@ OLD VERSION
 BRAND		|	MODEL				|	DRIVES|	COST	|	NOTES
 :--|:--|:--|:--|:--
 **QNAP**		|	**[TL-D400S](https://www.qnapworks.com/TL-D400S.asp)**		|	4	|	$300	| **PCIe SAS**, JBOD, Single
-**Various**              | DiY. 10-11 drive solution example |       8-16   |       $260 | Host: [PCIe SAS](https://www.ebay.com/sch/i.html?_nkw=%289300-8e%2C9202-16e%29+-bracket&_sacat=56091&_from=R40&_trksid=p2334524.m570.l1313&_udlo=0&rt=nc&_odkw=%289300-8e%2C9202-16e%29+-china&_osacat=56091&LH_BIN=1&_sop=15)+[CAB1](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=8644+to+8644+cable+-sata+-8087+-8088+-8643+-8436&_sacat=58058&_odkw=8644+cable+-sata+-8087+-8088+-8643+-8436&_osacat=58058&_sop=15) + DAS: [CASE](https://www.amazon.com/Cooler-Master-NSE-400-KKN2-Mid-Tower-Computer/dp/B00DKXXBU0)+[EXPAND](https://www.ebay.com/sch/i.html?_nkw=%2882885T%2CRES3FV288%29&_sacat=90715&_from=R40&_trksid=m570.l1313&_blrs=recall_filtering&_odkw=%2882885T%2C3fv288%29&LH_BIN=1&_osacat=90715&_sop=15)+[CAB2](https://www.ebay.com/sch/i.html?_from=R40&_nkw=8643+sata+cable&_sacat=58058&_odkw=8643+sata+cable&_osacat=58058)+[PSU](https://pcpartpicker.com/products/power-supply/#xcx=0&D=8,20&sort=price&page=1)+[FANS](https://www.amazon.com/Thermalright-TL-C12C-Computer-Included-Quantities%EF%BC%89/dp/B0BKKG1ZND)+[SPLIT](https://www.amazon.com/GELRHONR-Adapter-Cable%EF%BC%8C15-Splitter-Computer/dp/B09CGZQ2XF). [More](https://www.rosewill.com/rosewill-rsv-l4500u-black/p/9SIA072GJ92805?seoLink=server-components&seoName=Server%20Chassis)
+**Various**              | DiY DAS. 10-11 drive solution example |       8-16   |       $260 | Host: [PCIe SAS](https://www.ebay.com/sch/i.html?_nkw=%289300-8e%2C9202-16e%29+-bracket&_sacat=56091&_from=R40&_trksid=p2334524.m570.l1313&_udlo=0&rt=nc&_odkw=%289300-8e%2C9202-16e%29+-china&_osacat=56091&LH_BIN=1&_sop=15)+[CAB1](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=8644+to+8644+cable+-sata+-8087+-8088+-8643+-8436&_sacat=58058&_odkw=8644+cable+-sata+-8087+-8088+-8643+-8436&_osacat=58058&_sop=15) + DAS: [CASE](https://pcpartpicker.com/products/case/#J=4,20&sort=price&page=1&X=132,228623)+[EXPAND](https://www.ebay.com/sch/i.html?_nkw=%2882885T%2CRES3FV288%29&_sacat=90715&_from=R40&_trksid=m570.l1313&_blrs=recall_filtering&_odkw=%2882885T%2C3fv288%29&LH_BIN=1&_osacat=90715&_sop=15)+[CAB2](https://www.ebay.com/sch/i.html?_from=R40&_nkw=8643+sata+cable&_sacat=58058&_odkw=8643+sata+cable&_osacat=58058)+[PSU](https://pcpartpicker.com/products/power-supply/#xcx=0&D=8,20&sort=price&page=1)+[FANS](https://www.amazon.com/Thermalright-TL-C12C-Computer-Included-Quantities%EF%BC%89/dp/B0BKKG1ZND)+[SPLIT](https://www.amazon.com/GELRHONR-Adapter-Cable%EF%BC%8C15-Splitter-Computer/dp/B09CGZQ2XF). [ALT: CASE (RM)](https://www.rosewill.com/rosewill-rsv-l4500u-black/p/9SIA072GJ92805?seoLink=server-components&seoName=Server%20Chassis)
 Mediasonic	|	Probox - HF2/HF7	|	4	|	$100/$150	|	HF2: USB 3.0/eSATA, HF7: USB31G2
 Mediasonic	|	Proraid - HFR2/HFR7     	|	4	|	$150/$180	|	USB30/USB31G2, HW RAID 0/1/10/3/5, JBOD, Single
 Mediasonic	|	Probox - H82		|	8	|	$270-$350	|	USB30/USB31G2, Single
