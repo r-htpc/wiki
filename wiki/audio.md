@@ -1,11 +1,11 @@
 ---
 description: Information on the best ways to connect your HTPC to a sound system and/or display, configuring the software, along with information on audio concepts, formats and interfaces. (PCM 5.1 Gaming audio, DD/DTS/DTS-HD/TrueHD/Atmos/Bitstreaming)
-date: 2026-09-30 00:00:00 -0700
+date: 2026-10-25 00:00:00 -0700
 ---
 
 # Audio Setup Guide
 
-<div align="right"><em>Last updated on 2026-09-30</em></div><br>
+<div align="right"><em>Last updated on 2026-10-25</em></div><br>
 
 ## Technologies
 
@@ -29,12 +29,12 @@ There are many digital forms that audio can take. The two main ones we will be d
  - Whether you can play a particular codec will depend on the support by the Interfaces and Sound System you use. An Interface may pose a bandwidth limitation for a codec or a Sound System/Display may not be feature-rich enough to support a codec. 
 2. Audio encoded in a common, uncompressed, non-specific format. i.e. what's called PCM. 
  - PCM is a base form of digital audio and as such, is the most compatible format
- - It's usually something a codec is converted into for compatibility reasons. For instance, if the DTS codec isn't supported by your Sound System, your HTPC can decode it into individual PCM channels before sending it to the Sound System
+ - It's usually something a codec is converted/decoded into for compatibility reasons. For instance, if the DTS codec isn't supported by your Sound System, your HTPC can decode it into individual PCM channels before sending it to the Sound System
  - While it's the most compatible format across equipment, since it's uncompressed it requires a lot more bandwidth from audio interfaces than its compressed codec counterparts. So while a particular interface may be able to carry a lossy, compressed 5.1 codec like Dolby Digital, it may only be able to carry lossless, uncompressed 2.0 PCM (e.g. HDMI ARC)
  - PCM is the **DEFAULT** output of the operating system, web browsers and typical gaming audio 
 
 **In practice, an HTPC can support ALL codecs by either passing them through to a sound system or decoding them.  
-Display and Sound System equipment are what complicate what's possible, as their support for formats is wide and varied. When researching your digital equipment (such as your a AV Receiver, sound bar, and/or TV for passthrough), make sure it supports the codec(s) you want to decode or passthrough over the interfaces you want. If one piece of equipment in the audio workflow doesn't support a codec, you may have to settle for conversion to PCM, or no sound at all, when playing that codec. Read spec pages, user manuals, [rtings.com](https://www.rtings.com) reviews, [flatpanelshd.com](https://www.flatpanelshd.com/), and/or [displayspecifications.com](https://www.displayspecifications.com/) to determine what audio interfaces you have and find the least common denominators/bottlenecks in the entire system**  
+Display and Sound System equipment are what complicate what's possible, as their support for formats is wide and varied. When researching your digital equipment (such as your a AV Receiver, sound bar, and/or TV for passthrough), make sure it supports the codec(s) you want to decode or passthrough over the interfaces you want. If one piece of equipment in the audio workflow doesn't support a codec, you may have to settle for conversion/decoding to PCM, or no sound at all, when playing that codec. Read spec pages, user manuals, [rtings.com](https://www.rtings.com) reviews, [flatpanelshd.com](https://www.flatpanelshd.com/), and/or [displayspecifications.com](https://www.displayspecifications.com/) to determine what audio interfaces you have and find the least common denominators/bottlenecks in the entire system**  
 
 You should know which formats you want to use based on the type of content you want to play. If you're playing local media content, you probably want Dolby Digital/DTS, perhaps all the way up to Dolby TrueHD Atmos/DTS:X. If you want commercial streaming services, you want Dolby Digital up to Dolby Digital+ Atmos. If you want gaming, you want PCM and/or Dolby MAT Atmos  
 
@@ -338,10 +338,13 @@ If you have only an ARC/eARC port on your sound system (like a cheaper soundbar)
 
 ### **Software/OS Setup**  
 
-There are 2 separate ways to audio can be processed between your HTPC and your sound system, Decoding and Bitstreaming.  
+There are 2 separate ways to audio can be processed between your HTPC and your sound system, **Decoding** and **Bitstreaming**.  
+
 Depending on your use-case **you may be using one or both**.  
-A use-case where you'd use both is where you want to bitstream Dolby/DTS codecs from a media player(s), but send decoded PCM for games and other non-encoded content (music, youtube, etc..);  
-You should **configure Scenario #1 for decoded PCM first and then, optionally, configure Scenario #2 for bitstreaming Dolby/DTS encoded content in your OS and media players**.  
+
+A use-case where you'd use both is where you want to bitstream Dolby/DTS codecs from a media player(s), but send decoded PCM for games or other non-encoded content (music, youtube, etc..), or codecs that can't be bitstreamed.  
+
+You should **configure Scenario #1 for any decoded PCM first and then, optionally, configure Scenario #2 for bitstreaming Dolby/DTS encoded content in your OS and media players**.  
 **Do NOT continue on until you know what codecs your sound system, display and related audio interfaces support (per above research/setup) and [which you want to use](/wiki/audio#what-kind-of-audio-is-supported-on-a-htpc)**
 
 **Scenario #1: DECODING/CHANNELIZATION**  
