@@ -1,11 +1,11 @@
 ---
 description: Information on how to configure, calibrate, and explanation of VIDEO between your HTPC and Display
-date: 2026-09-28 00:00:00 -0700
+date: 2026-10-25 00:00:00 -0700
 ---
 
 # Video Setup Guide
 
-<div align="right"><em>Last updated on 2026-09-28</em></div><br>
+<div align="right"><em>Last updated on 2026-10-25</em></div><br>
 
 <!-- Section -->
 
@@ -741,7 +741,8 @@ Way 3: Direct (LAN)
 
 Way 4: Remote (separate client + software)
  - Gaming
-   - Use a seperate client device + specialized software on the client and server
+   - Use a separate client device + specialized software on the client and server (gaming pc)
+   - [Moonlight](https://moonlight-stream.org/) on Windows/Linux/CoreELEC/LibreELEC, [Artemis](https://github.com/ClassicOldSong/moonlight-android) / [Moonlight](https://play.google.com/store/apps/details?id=com.limelight&hl=en_US) on Android for the client. [Sunshine](https://app.lizardbyte.dev/Sunshine/) / [Apollo](https://github.com/ClassicOldSong/Apollo) for the server
    - Streaming resolution and refresh rate is determined by capabilities of display connected to the remote PC. If a different resolution/refresh rate is needed, use fix linked below.
  - Media: [Wiki:FAQ:Can I stream/how do I serve my content from another computer or a networked storage device?](https://r-htpc.github.io/wiki/faq#can-i-streamhow-do-i-serve-my-content-from-another-computer-or-a-networked-storage-device)
 
@@ -755,8 +756,8 @@ Way 4: Remote (separate client + software)
  - Direct (LAN)
    - Cat 5e-7 LAN + [J-Tech KVM Extender](https://www.amazon.com/J-Tech-Digital-Extender-Ethernet-Supports/dp/B091D6ZDDC)
  - Remote
-   - Client: Software: Moonlight or Steam Link + Hardware: Device w/Wifi 5 or 100 Mbps LAN (N95 Mini PC, Onn 4K Pro)
-   - Server: Software: Sunshine or Steam w/Remote Play enabled + Hardware: Gaming PC
+   - Client: Software: Moonlight, Artemis or Steam Link + Hardware: Device w/Wifi 5 or 100 Mbps LAN ([1080p Mini PC, Odroid C4](/wiki/sample-builds#1080p-players), [Onn 4K Pro](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc))
+   - Server: Software: Sunshine, Apollo or Steam w/Remote Play enabled + Hardware: Gaming PC
 
  4K @ 60 Hz:
  - Direct (specialized)
@@ -766,8 +767,8 @@ Way 4: Remote (separate client + software)
  - Direct (LAN)
    - Cat 6-7 LAN + [Monoprice 4K+USB 2 Blackbird Extender](https://www.monoprice.com/product?p_id=44570) or [OREI 4K+USB 2 KVM Extender](https://www.amazon.com/Extender-Single-CAT5e-RS-232-Remote/dp/B07BC83WPM)
  - Remote
-   - Client: Software: Moonlight + Device w/1 Gbps LAN (N100 Mini PC, Google TV Streamer, ODroid N2+)
-   - Server: Software: Sunshine + Hardware: Gaming PC. OPTIONAL: [Headless Moonlight/Sunshine Streaming Host fix (#9)](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output)
+   - Client: Software: Moonlight or Artemis + Device w/1 Gbps LAN ([4K Mini PC, Odroid N2+](/wiki/sample-builds#4k-hdr-players), [Google TV Streamer/Nvidia Shield](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc))
+   - Server: Software: Sunshine or Apollo + Hardware: Gaming PC. OPTIONAL: [Headless Moonlight/Sunshine Streaming Host fix (#9)](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output)
 
 4K @ 120 Hz:
 - Direct (specialized)
