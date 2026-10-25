@@ -344,7 +344,7 @@ Depending on your use-case **you may be using one or both**.
 
 A use-case where you'd use both is where you want to bitstream Dolby/DTS codecs from a media player(s), but send decoded PCM for games or other non-encoded content (music, youtube, etc..), or codecs that can't be bitstreamed.  
 
-You should **configure Scenario #1 for any decoded PCM first and then, optionally, configure Scenario #2 for bitstreaming Dolby/DTS encoded content in your OS and media players**.  
+You should **configure Scenario #1 for any decoded PCM first and then, optionally, configure Scenario #2 for bitstreaming Dolby/DTS encoded content**.  
 **Do NOT continue on until you know what codecs your sound system, display and related audio interfaces support (per above research/setup) and [which you want to use](/wiki/audio#what-kind-of-audio-is-supported-on-a-htpc)**
 
 **Scenario #1: DECODING/CHANNELIZATION**  
