@@ -351,7 +351,7 @@ You should **configure Scenario #1 for any decoded PCM first and then, optionall
 
 The first way is decoding and channelization. This means the media application playing your content converts the audio to the common PCM format you read about above and sends it to your sound system through the OS mixer/renderer (e.g. Windows DirectSound), for use over a digital or analog audio interface. The target sound system has no knowledge of the codec being played, if there was one.  
 
-This scenario applies for such things as **Gaming**, analog audio interfaces, sound systems/displays where specific encoded codecs, like Dolby/DTS/AAC/etc, are not supported, streaming services that only support Stereo, and/or when you want to modify the audio using middleware (upmixing, equalizing, creating fake spatial audio).
+This scenario applies for such things as **Gaming**, analog audio interfaces, non-bitstreamable codecs (AAC/FLAC/AC4), sound system/display hw where bitstreamed codecs are not supported, streaming services that only support Stereo, and/or when you want to modify the audio using middleware (upmixing, equalizing, creating fake spatial audio).
 
 **On a Windows HTPC, this is the DEFAULT scenario for audio and Stereo is the default output unless configured below!**  
 
