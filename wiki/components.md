@@ -1,12 +1,12 @@
 ---
 description: Information on components you should consider for a HTPC build. Cases/CPUs/GPUs/Motherboards/Memory/Storage/PSUs/Cooling, Video Cables/Adapters, Remotes, Keyboards
 keywords: [htpc, htpc components, htpc remote, htpc keyboard, htpc case, htpc cpu, htpc gpu, htpc odd, htpc hdmi]
-date: 2026-08-15 00:00:00 -0700
+date: 2026-10-31 00:00:00 -0700
 ---
 
 # Hardware Components Guide
 
-<div align="right"><em>Last updated on 2026-08-15</em></div><br>
+<div align="right"><em>Last updated on 2026-10-31</em></div><br>
 
 <meta name="description" content="Information on hardware components to use in your HTPC. Cases, CPUs, GPUs, Motherboards, Memory, Storage, HDMI Video cables/adapters, Optical drives, etc..">
 
@@ -131,9 +131,9 @@ Below are the minimum requirements for each scenario and a recommendation. The r
 
 - [HDMI 2.1 4K@120Hz (>= 32Gbps)](https://r-htpc.github.io/wiki/video#what-options-are-there-for-4k--120-hz-video-output): >= Nvidia RTX 3050/Intel ARC B570/AMD RX 6400 (REC: RTX 3050 6GB/ARC B570) 
 
-- Emulation/Casual Gaming: Nvidia >= GT 1030 GDDR5, AMD >= 5xx/5x00/6x00 (REC: Used: GTX 1650, New: RTX 3050) 
+- Emulation/Casual Gaming: Nvidia >= GT 1030 GDDR5, AMD >= 5xx/5x00/6x00 (REC: Used: GTX 1660, New: RTX 3050) 
 
-- Medium Gaming: (REC: Used: RX 5700 XT, New: RTX 5060 LP) 
+- Medium Gaming: (REC: Used: RX 5700 XT/RTX 2070, New: RTX 5060 LP) 
 
 - UHD Blu-Ray disc playing: Not supported. Intel iGPU only. 
 
