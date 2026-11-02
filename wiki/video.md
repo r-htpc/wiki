@@ -1,11 +1,11 @@
 ---
 description: Information on how to configure, calibrate, and explanation of VIDEO between your HTPC and Display
-date: 2026-10-25 00:00:00 -0700
+date: 2026-11-02 00:00:00 -0700
 ---
 
 # Video Setup Guide
 
-<div align="right"><em>Last updated on 2026-10-25</em></div><br>
+<div align="right"><em>Last updated on 2026-11-02</em></div><br>
 
 <!-- Section -->
 
@@ -234,7 +234,7 @@ See also: [Audio Software](/wiki/audio#audio-software)
 **Utilities/Other**
 
 1. [MediaInfo](https://mediaarea.net/en/MediaInfo) - Extremely useful tool for getting various video & audio information (codecs, formats, etc..) on media files  
-2. [MPC VR](https://github.com/Aleksoid1978/VideoRenderer) - Simple video renderer used to enable HDR passthrough, HDR tonemapping, Resolution/Chroma upscaling, Dithering  
+2. [MPC Video Renderer/MPC VR](https://github.com/Aleksoid1978/VideoRenderer) - Simple video renderer used to enable HDR passthrough, HDR tonemapping, Resolution/Chroma upscaling, Dithering  
 3. [MadVR](https://wiki.jriver.com/index.php/MadVR_Expert_Guide) - Advanced video renderer for HDR passthrough, [HDR tonemapping](https://madshi.net/madVRhdrMeasure113.zip), Resolution/Chroma upscaling, Dithering, Resolution/Refresh Rate Switching.
  - [Stable base install](https://madshi.net/madVR.zip) / [Non-expiring beta add-on](https://madshi.net/madVRhdrMeasure113.zip) / [Expiring beta test build add-on](https://www.videohelp.com/software/madVR)
 4. [MakeMKV](https://www.makemkv.com/) - Video disc ripper. See Also: [FAQ:How can i rip my DVD/Blu-ray discs and what are some good quality settings to use?](/wiki/faq#how-can-i-rip-my-dvdblu-ray-discs-and-what-are-some-good-quality-settings-to-use)  
