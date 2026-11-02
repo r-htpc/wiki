@@ -1,12 +1,12 @@
 ---
 description: Information on configuring HDR and Upscaling on your HTPC, for multiple platforms and media players (MPC VR, MPC-HC, MPC-BE, madVR, Kodi, Plex, VLC, Potplayer)
 keywords: [hdr, hdr10, madvr, mpc, tonemapping, tone mapping, kodi, plex, upscaling]
-date: 2026-10-10 14:30:00 -0700
+date: 2026-11-02 14:30:00 -0700
 ---
 
 # HDR Setup Guide
 
-<div align="right"><em>Last updated on 2026-10-10</em></div><br>
+<div align="right"><em>Last updated on 2026-11-02</em></div><br>
 
 <meta name="viewport" content="width=625, initial-scale=0.8">
 <!--
@@ -26,7 +26,7 @@ date: 2026-10-10 14:30:00 -0700
   - We **strongly** urge you not to go down the rabbit hole of diminishing returns and complexity with DV/10+ technologies on a PC as it's more trouble than it's worth and the HDR10 base layer gets your **95%** of the way there. If you follow Hype or have the Fear Of Missing Out, then you have a different problem.
   - For dynamic tone mapping mentioned above, either use [JRiver Media Center's JRVR MC36+](https://wiki.jriver.com/index.php/JRVR_-_JRiver_Video_Renderer/Configuration) or [MPV](https://github.com/zhongfly/mpv-winbuild/releases) for Compute/Metadata up to [DV P7 FEL](/wiki/video#video-metadatacolor-technologies) decoding. Use [madVR betas](/wiki/video#video-software) for Advanced Compute on the HDR10 base layer, with a dGPU and pixel shaders to get per-scene brightness.
   - Else, buy a specialized [Media Device](/wiki/sample-builds#specialized-dolby-vision--hdr10) to pass-through the original signal.  
-* For static tone mapping, use MPC Video Renderer or [madVR](/wiki/video#video-software) in [MPC-HC/MPC-BE](/wiki/video#video-software) 
+* For static tone mapping, use [MPC Video Renderer](https://github.com/Aleksoid1978/VideoRenderer) or [madVR](/wiki/video#video-software) in [MPC-HC/MPC-BE](/wiki/video#video-software) 
 * Read our [HDR section](/wiki/faq#what-is-hdr-video-and-what-do-i-need-to-take-advantage-of-it) of the Wiki FAQ for detailed information on PC hardware requirements.  
 * This guide is for HT displays only. Neither monitors, nor multiple displays are officially supported here.  
 * We assume your display, video chain and media player have already been configured/calibrated properly for **SDR/non-HDR** content before you venture into a **HDR** setup below. If not, you are urged to follow the setup sections in the [Video Setup Guide](/wiki/video) of the Wiki first.  
