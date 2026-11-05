@@ -1,12 +1,12 @@
 ---
 description: Information on configuring HDR and Upscaling on your HTPC, for multiple platforms and media players (MPC VR, MPC-HC, MPC-BE, madVR, Kodi, Plex, VLC, Potplayer)
 keywords: [hdr, hdr10, madvr, mpc, tonemapping, tone mapping, kodi, plex, upscaling]
-date: 2026-11-02 14:30:00 -0700
+date: 2026-11-05 14:30:00 -0700
 ---
 
 # HDR Setup Guide
 
-<div align="right"><em>Last updated on 2026-11-02</em></div><br>
+<div align="right"><em>Last updated on 2026-11-05</em></div><br>
 
 <meta name="viewport" content="width=625, initial-scale=0.8">
 <!--
@@ -773,7 +773,7 @@ Nvidia GTX 970/1060|Jinc|NGU Standard Luma Med|SSIM 1D+LL+AR|NGU Standard Low|Er
 Nvidia GTX 980/1660 (Reg/Ti/Super)/3050 6GB|Jinc|NGU Standard Luma High|SSIM 1D+LL+AR|NGU Standard Low|Error Diff. #2
 Nvidia GTX >= 1070/RTX 2060/3050 8GB|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Low|Error Diff. #2
 AMD RX 56xx - 66xx|Jinc|NGU Standard Luma High|SSIM 1D+LL+AR|NGU Standard Low|Error Diff. #2
-AMD RX >= 67xx|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Diff. #2
+AMD RX >= 67xx|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Low|Error Diff. #2
 
 ### Alternate MPC-HC/MPC-BE + madVR Install Method
 
