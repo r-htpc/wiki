@@ -762,17 +762,17 @@ Related: [What are the best ways for scaling video?](/wiki/video#what-are-the-be
 
 GPU|IMAGE UPSCALING|IMAGE DOUBLING|IMAGE DOWNSCALING|CHROMA UPSCALING|DITHERING
 :--|:--|:--|:--|:--|:--
-Intel UHD >= 6xx|DXVA2|NA|DXVA2|BiCubic 75+AR|random
-AMD Ryzen Vega xx|Cubic/Lanczos|NA|Cubic/Lanczos|BiCubic 75+AR|random
+Intel UHD >= 6xx|DXVA2|NA|DXVA2|BiCubic 60+AR|random
+AMD Ryzen Vega xx|Cubic/Lanczos|NA|Cubic/Lanczos|BiCubic 60+AR|random
 Nvidia GT 1030/Ryzen RDNA 6xxM/740M|Lanczos 3-tap+AR|NA|Lanczos 3-tap+AR|BiCubic 75+AR|random
-Nvidia GTX 960/1050/1050 Ti/Ryzen RDNA 760-780M|Lanczos 4-tap+AR|NA|SSIM 1D+LL+AR|Jinc+AR|random
-Nvidia GTX 1650|Lanczos 4-tap+AR|NGU Standard Luma Low|SSIM 1D+LL+AR|NGU Standard Low|random
-Nvidia GTX 1650 Super|Lanczos 4-tap+AR|NGU Standard Luma Low|SSIM 1D+LL+AR|NGU Standard Low|Error Diff. #1
+Nvidia GTX 960/1050/1050 Ti/Ryzen RDNA 760-780M|Lanczos 4-tap+AR|NA|SSIM 1D+LL+AR|BiCubic 75+AR|random
+Nvidia GTX 1650|Lanczos 4-tap+AR|NGU Standard Luma Low|SSIM 1D+LL+AR|Jinc+AR|random
+Nvidia GTX 1650 Super|Lanczos 4-tap+AR|NGU Standard Luma Low|SSIM 1D+LL+AR|Jinc+AR|Error Diff. #1
 AMD RX 5xx|Jinc|NGU Standard Luma Low (Med: 570/580)|SSIM 1D+LL+AR|super-xbr 100+AR|Error Diff. #2
 Nvidia GTX 970/1060|Jinc|NGU Standard Luma Med|SSIM 1D+LL+AR|NGU Standard Low|Error Diff. #1
-Nvidia GTX 980/1660 (Reg/Ti/Super)/3050 6GB|Jinc|NGU Standard Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Diff. #2
-Nvidia GTX >= 1070/RTX 2060/3050 8GB|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Diff. #2
-AMD RX 56xx - 66xx|Jinc|NGU Standard Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Diff. #2
+Nvidia GTX 980/1660 (Reg/Ti/Super)/3050 6GB|Jinc|NGU Standard Luma High|SSIM 1D+LL+AR|NGU Standard Low|Error Diff. #2
+Nvidia GTX >= 1070/RTX 2060/3050 8GB|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Low|Error Diff. #2
+AMD RX 56xx - 66xx|Jinc|NGU Standard Luma High|SSIM 1D+LL+AR|NGU Standard Low|Error Diff. #2
 AMD RX >= 67xx|Jinc|NGU Sharp Luma High|SSIM 1D+LL+AR|NGU Standard Med|Error Diff. #2
 
 ### Alternate MPC-HC/MPC-BE + madVR Install Method
