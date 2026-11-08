@@ -1,10 +1,10 @@
 ---
-date: 2026-10-02 00:00:00 -0700
+date: 2026-11-08 00:00:00 -0700
 ---
 
 # Frequently Asked Questions
 
-<div align="right"><em>Last updated on 2026-10-02</em></div><br>
+<div align="right"><em>Last updated on 2026-11-08</em></div><br>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--
@@ -359,7 +359,7 @@ Support for the higher resolutions and audio is way more prevalent on pre-built 
 
 In regards to internet bandwidth required, you should have 6 Mbps downstream to stream 1080p services. 25 Mbps for 4k.  
 
-If you don't plan on using a [keyboard/mouse-like device](/wiki/components#keyboardsremotesgamepads), then streaming services on a PC will be painful. There are some good workarounds like [software](/wiki/components#keyboardsremotesgamepads) to emulate a mouse on game controllers/mobile, like Controller Companion with an 8bitdo Ultimate 2c controller.  
+If you don't plan on using a [keyboard/mouse-like device](/wiki/components#keyboardsremotesgamepads), then streaming services on a PC will be **painful**. There are some good workarounds like [software](/wiki/components#keyboardsremotesgamepads) to emulate a mouse on game controllers/mobile, like [Unified Remote or Controller Companion](/wiki/components#keyboardsremotesgamepads) with an 8bitdo Ultimate 2c controller.  
 
 Other possible solutions are:  
 * Youtube: [VacuumTube](https://github.com/shy1132/VacuumTube) OR <code>"%PROGRAMFILES%\Google\Chrome\Application\chrome.exe" --kiosk --enable-extensions --user-agent=Xbox https://www.youtube.com/tv</code> OR [Leanback interface](https://redd.it/y5o7mi)
