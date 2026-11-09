@@ -1,12 +1,12 @@
 ---
 description: Information on components you should consider for a HTPC build. Cases/CPUs/GPUs/Motherboards/Memory/Storage/PSUs/Cooling, Video Cables/Adapters, Remotes, Keyboards
 keywords: [htpc, htpc components, htpc remote, htpc keyboard, htpc case, htpc cpu, htpc gpu, htpc odd, htpc hdmi]
-date: 2026-10-31 00:00:00 -0700
+date: 2026-11-08 00:00:00 -0700
 ---
 
 # Hardware Components Guide
 
-<div align="right"><em>Last updated on 2026-10-31</em></div><br>
+<div align="right"><em>Last updated on 2026-11-08</em></div><br>
 
 <meta name="description" content="Information on hardware components to use in your HTPC. Cases, CPUs, GPUs, Motherboards, Memory, Storage, HDMI Video cables/adapters, Optical drives, etc..">
 
@@ -163,7 +163,11 @@ Intel N45xx/N51xx/N55xx/N6xxx (EM)				|	Y		|	Y		|	N	|	Y		|2.0		|1.2	|	Y	|	Y		|	Y
 Intel 10xxG/10xxxU/10xxxH (EM)					|	Y		|	Y		|	N	|	Y		|2.0		|1.2	|	Y	|	Y		|	Y		|Ice Lake
 Intel 11xxG/11xxxU/11xxxH (EM)					|	Y		|	Y		|	Y	|	Y		|2.1 (7)		|1.4	|	Y	|	Y		|	Y		|Tiger Lake
 Intel 12xx(U/P/H)/13xx(U/P/H)/Nxxx (EM)					|	Y		|	Y		|	Y	|	Y		|2.1 (7,8)		|1.4	|	Y	|	Y		|	Y		|Alder/Raptor Lake
-Intel 1xx(U/H) (EM)					|	Y		|	Y		|	Y	|	Y		|2.1 (8)		|2.1	|	Y	|	Y		|	Y		|Meteor Lake
+Intel 1xx(U/H) (EM)					|	Y		|	Y		|	Y	|	Y		|2.1 (8)		|2.1	|	Y	|	Y		|	Y		|Raptor/Meteor Lake
+Intel Ultra 2xx(V) (EM)					|	Y		|	Y		|	Y	|	Y		|2.1 (8)		|2.1	|	Y	|	Y		|	Y		|Lunar Lake
+Intel 2xx(H) (EM)					|	Y		|	Y		|	Y	|	Y		|2.1 (8)		|2.1	|	Y	|	Y		|	Y		|Arrow Lake
+Intel Ultra 3xx(H) (EM)					|	Y		|	Y		|	Y	|	Y		|2.1 (8) 		|2.1	|	Y	|	Y		|	Y		|Panther Lake
+Intel 3xx (EM)					|	Y		|	Y		|	Y	|	Y		|2.0 		|2.1	|	Y	|	Y		|	Y		|Wildcat Lake
 Intel ARC Axxx					|	Y		|	Y		|	Y	|	Y		|2.0 (8)		|2.0	|	Y	|	Y		|	Y		|Alchemist
 Intel ARC Bxxx					|	Y		|	Y		|	Y	|	Y		|2.1		|2.1	|	Y	|	Y		|	Y		|Battlemage
 AMD Ryzen 2xxxG-3xxxG/2x0G-3x0G (DT)			|	Y		|	Y		|	N	|	Y (4)	|2.0		|1.2	|	Y	|	Y		|	Y		|Raven Ridge/Picasso & Vega
