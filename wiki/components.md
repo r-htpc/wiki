@@ -163,6 +163,7 @@ Intel N45xx/N51xx/N55xx/N6xxx (EM)				|	Y		|	Y		|	N	|	Y		|2.0		|1.2	|	Y	|	Y		|	Y
 Intel 10xxG/10xxxU/10xxxH (EM)					|	Y		|	Y		|	N	|	Y		|2.0		|1.2	|	Y	|	Y		|	Y		|Ice Lake
 Intel 11xxG/11xxxU/11xxxH (EM)					|	Y		|	Y		|	Y	|	Y		|2.1 (7)		|1.4	|	Y	|	Y		|	Y		|Tiger Lake
 Intel 12xx(U/P/H)/13xx(U/P/H)/Nxxx (EM)					|	Y		|	Y		|	Y	|	Y		|2.1 (7,8)		|1.4	|	Y	|	Y		|	Y		|Alder/Raptor Lake
+Intel Nxx (EM)					|	Y		|	Y		|	Y	|	Y		|2.1 (7)		|1.4	|	Y	|	Y		|	Y		|Alder-N/Twin Lake
 Intel 1xx(U/H) (EM)					|	Y		|	Y		|	Y	|	Y		|2.1 (8)		|2.1	|	Y	|	Y		|	Y		|Raptor/Meteor Lake
 Intel Ultra 2xx(V) (EM)					|	Y		|	Y		|	Y	|	Y		|2.1 (8)		|2.1	|	Y	|	Y		|	Y		|Lunar Lake
 Intel 2xx(H) (EM)					|	Y		|	Y		|	Y	|	Y		|2.1 (8)		|2.1	|	Y	|	Y		|	Y		|Arrow Lake
