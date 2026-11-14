@@ -1,10 +1,10 @@
 ---
-date: 2026-11-08 00:00:00 -0700
+date: 2026-11-14 00:00:00 -0700
 ---
 
 # Frequently Asked Questions
 
-<div align="right"><em>Last updated on 2026-11-08</em></div><br>
+<div align="right"><em>Last updated on 2026-11-14</em></div><br>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--
@@ -41,7 +41,7 @@ An example would be the Nvidia Shield TV. It is a powerful integrated device tha
 
 **This can be confusing**; it's not a traditional HTPC per-se, but performs the functions of one. Both traditional HTPCs and media devices have their place. Each is better at different things. Media devices are better as a front-end, as things like ease of navigation and streaming service video/audio support is king. A traditional HTPC is better at being flexible; running wide-ranging programs and utility, high-end gaming, web browsing, doing high-end video and audio processing or transcoding, and the ability to be a server and holds large amounts of storage. For more arguments for/against, read our [section](/wiki/faq#why-would-i-use-a-pc-over-a-media-device-roku-firetv-shield-etc-for-a-htpc) below. 
 
-Below we'll advise you on how to get started with a HTPC.
+Below we'll advise you on how to get started with a HTPC; Note that we'll only support a traditional HTPC on the subreddit.
 
 What is NOT a HTPC: Playing media just on your laptop. Playing media at your desk. Playing media on a computer monitor(s).
 
