@@ -1,12 +1,12 @@
 ---
 description: Information on pre-builts and DiY builds to help you get started with a HTPC, media server, NAS, gaming or specialized setup
 keywords: [htpc build, diy htpc, mini pc, pre-builts, media server, emulation, madvr, hdr, all-in-one]
-date: 2026-10-27 13:00:00 -0700
+date: 2026-11-14 13:00:00 -0700
 ---
 
 # HTPC Builds - Pre-Built / DiY
 
-<div align="right"><em>Last updated on 2026-10-27</em></div><br>
+<div align="right"><em>Last updated on 2026-11-14</em></div><br>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--
@@ -219,7 +219,7 @@ Intel Core 8th gen i3+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDM
 
 ### Specialized: HDMI-CEC
 
-- [RPI4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) / [ROCK64-2GB](https://pine64.com/product/rock64-2gb-single-board-computer/) (full)
+- [RPI4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) / [ROCK64-2GB](https://pine64.com/product/rock64-2gb-single-board-computer/) / [Odroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) (full)
 - [Intel branded NUCs](https://www.intel.com/content/www/us/en/support/articles/000023500/intel-nuc/intel-nuc-kits.html) (just power states, or full with [pulse8 adapter](https://www.pulse-eight.com/c/59))
 - [MSI Cubi NUC 1M/1MG](https://us.msi.com/Business-Productivity-PC/Cubi-NUC-1MX/Specification)
 - [Asus PN41](https://www.asus.com/us/displays-desktops/mini-pcs/pn-series/mini-pc-pn41/) / PN42 / PN43 / [PN50](https://www.asus.com/us/displays-desktops/mini-pcs/pn-series/mini-pc-pn50/) / PN51 / PN53 / PN64 / [PL64](https://www.asus.com/displays-desktops/mini-pcs/pl-series/mini-pc-pl64/) (just wake state) / PN65
@@ -989,6 +989,5 @@ TOTAL		|											|$801			|	|
 &nbsp;
 
 ---
- 
-*This page was last updated on 2026-10-10*
+
 
