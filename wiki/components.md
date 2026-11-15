@@ -1,12 +1,12 @@
 ---
 description: Information on components you should consider for a HTPC build. Cases/CPUs/GPUs/Motherboards/Memory/Storage/PSUs/Cooling, Video Cables/Adapters, Remotes, Keyboards
 keywords: [htpc, htpc components, htpc remote, htpc keyboard, htpc case, htpc cpu, htpc gpu, htpc odd, htpc hdmi]
-date: 2026-11-08 00:00:00 -0700
+date: 2026-11-15 00:00:00 -0700
 ---
 
 # Hardware Components Guide
 
-<div align="right"><em>Last updated on 2026-11-08</em></div><br>
+<div align="right"><em>Last updated on 2026-11-15</em></div><br>
 
 <meta name="description" content="Information on hardware components to use in your HTPC. Cases, CPUs, GPUs, Motherboards, Memory, Storage, HDMI Video cables/adapters, Optical drives, etc..">
 
@@ -437,12 +437,12 @@ You should not run normal High Speed cables over **7 meters**. If you need to go
 For <= **4K@144Hz**, always get a "Ultra High Speed" cable that supports "48 Gbps" and is "[Ultra Certified](https://hdmi.org/spec21sub/ultrahighspeedcable)". Cables currently meeting this spec that we can recommend are [Zeskit Maya/X-Tech](https://www.amazon.com/48Gbps-Compatible-Netflix-Playstation-Samsung/dp/B07S1CGQ9Z?ref_=ast_sto_dp), [Club3D 1372](https://www.amazon.com/Club3D-CAC-1372-Ultra-Speed-Male-Male/dp/B07H5Y5N55), [RUIPRO 8K](https://www.amazon.com/RUIPRO-Certified-Dynamic-Suitable-Samsung/dp/B08QTNNRS4), [Monoprice 8K Normal](https://www.monoprice.com/product?p_id=42674) / [Braided](https://www.monoprice.com/product?p_id=42682).  
 You should not run normal Ultra High Speed cables over **3 meters**. If you try, you must have one with a wire thickness of less than or equal to 26 AWG (lower is better), such as the 4.5 meter [Zeskit Maya](https://www.amazon.com/48Gbps-Compatible-Netflix-Playstation-Samsung/dp/B07S1BNM7K) or 6 meter [Monoprice 8K](https://www.monoprice.com/product?p_id=42674) (these will be super stiff to keep signal integrity at that distance). Ideally though, you should look at HDMI-over-fiber cables. We recommend [RUIPro UHS 8K HDMI Fiber](https://www.amazon.com/RUIPRO-Dynamic-Flexible-Projector-Theatre/dp/B081SHJJ3C?ref_=ast_sto_dp&th=1&psc=1), [Monoprice 43328/44328 8K Fiber](https://www.monoprice.com/product?p_id=43328), [Zeskit Optical](https://www.amazon.com/Zeskit-Optical-48Gbps-Compatible-Samsung/dp/B09MMS2B1B), or [Phoossno 8K Fiber](https://www.amazon.com/Certified-Fiber-Optical-Cable-phoossno/dp/B09LYZQW93?th=1).  
 
-For <= **4K@240Hz**, always get a "Ultra96" cable that supports "96 Gbps" and is "[Ultra96 Certified](https://hdmi.org/spec2sub/ultrahdmicables)". There are **NO** certified Ultra96 cables on the market yet.  
-You should not run normal Ultra96 cables over **2 meters**.  
-
+For <= **4K@240Hz**, always get a "Ultra96" cable that supports "96 Gbps" and is "[Ultra96 Certified](https://hdmi.org/spec2sub/ultrahdmicables)". Cables currently meeting this spec that we can recommend are [Cable Matters](https://www.amazon.com/Cable-Matters-Ultra96-Certified-96Gbps/dp/B0GWLTQCNC?ref_=ast_sto_dp&th=1).  
+You should not run normal Ultra96 cables over **2 meters**. There are **NO** HDMI 2.2 devices on the market yet.  
+ 
 Resolution and refresh rates possible may be higher for any particular bandwidth cable if Display Stream Compression (DSC) is supported by all devices in the HDMI chain. Reference the [HDMI article on Wikipedia](https://en.wikipedia.org/wiki/HDMI#Refresh_frequency_limits_for_standard_video) for charts.  
 
-For **ARC/eARC** connections, get at least a "High Speed with Ethernet" cable that supports "10 Gbps"  
+For **ARC/eARC** connections, get at least a "High Speed with Ethernet" HDMI cable that supports "10 Gbps"  
 
 **Adapters/Adapter Cables**
 
