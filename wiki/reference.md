@@ -6,6 +6,8 @@ date: 2026-01-14 00:00:00 -0700
 
 # HTPC Term Reference
 
+<div align="right"><em>Last updated on 2026-01-14</em></div><br>
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--
 <style>
@@ -172,6 +174,3 @@ ARCH|GEN|RELEASED|NOTES
 &nbsp;
 
 ---
-
-*This page was last updated on 2026-01-14*
-
