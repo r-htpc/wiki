@@ -1,10 +1,10 @@
 ---
-date: 2026-11-14 00:00:00 -0700
+date: 2026-11-16 00:00:00 -0700
 ---
 
 # Frequently Asked Questions
 
-<div align="right"><em>Last updated on 2026-11-14</em></div><br>
+<div align="right"><em>Last updated on 2026-11-16</em></div><br>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--
@@ -426,7 +426,7 @@ BRAND/MODEL|PRICE|RESOLUTION|4k NETFLIX|HDR|WLAN/LAN|VOICE|USB|RATING|NOTES
 [Odroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ([buy](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/))|$66|4k@60|No|10/+ (6a)|Opt/1000M|No|YES (8b)|V:Good A:**Best**|S922x/2GB RAM/8 GB SD. PT:**LL DA/DTSX** w/CoreElec
 **[Vero V](https://osmc.tv/vero/)** ([buy](https://osmc.tv/store/))|**$150**|4k@60|No|10/+/DV|ac/1000M|No|YES (**8b**)|V:Better A:**Best**|OSMC, AV1, **DV-5/7F/8**, PT:**LL DA/DTSX**, 4GB/32GB, NTFS
 [Dune HD Box R 4K Plus](https://www.dune-hd.com/products/homatics-box-r-4k-plus) ([buy](https://www.dune-hd.com/products/homatics-box-r-4k-plus))|$200|4k@60|YES (5a)|10/+/DV (6b)|ax/1000M|No|YES (8b)|V:**Best** A:**Best**|AV1, S905X4-K/4GB RAM/32 GB SD. **DV-5/7F/8**, PT:**LL DA/DTSX**
-[Xiaomi TV Box S](https://www.mi.com/global/product/xiaomi-tv-box-s-3rd-gen/) ([buy](https://www.amazon.com/Xiaomi-TV-Box-3rd-Gen/dp/B0F3JWFL56))|$75|4k@60|YES|10/+/DV|ax/Opt (9c)|YES|YES (8c)|V:Better A:**Best**|3rd gen, AV1, DV-5, PT:**LL DA/DTSX**, S905X5M/2GB/32GB, BT 5.2
+[Xiaomi TV Box S](https://www.mi.com/global/product/xiaomi-tv-box-s-3rd-gen/) ([buy](https://www.amazon.com/Xiaomi-TV-Box-3rd-Gen/dp/B0F3JWFL56))|$75|4k@60|YES|10/+/DV|ax/Opt (9c)|YES|YES (8c)|V:Better A:**Best**|3rd gen, AV1, DV-5/8, PT:**LL DA/DTSX**, S905X5M/2GB/32GB, BT 5.2
 [Apple TV 4k (2022)](https://www.apple.com/apple-tv-4k/) ([buy](https://www.apple.com/shop/buy-tv/apple-tv-4k))|$199/$249|4k@60|YES|10/+/DV|ax/1000M (7)|YES|No|V:Better A:Better|3rd gen, A15, 3GB, DV-5/8, DC:DTHD/DTSHD->PCM, PT:LS DA, BT 5.0
 [Onn 4K Box (2023)](https://www.walmart.com/ip/onn-Google-TV-4K-Streaming-Box-New-2023-4K-UHD-resolution/2835618394) ([buy](https://www.walmart.com/ip/onn-Google-TV-4K-Streaming-Box-New-2023-4K-UHD-resolution/2835618394))|$25|4k@60|YES|10/+|ac/Opt (9a)|YES|Opt (8a)|V:Good A:Good|2nd Gen. AV1, DC:NA, PT:LS DD/DTS, S905Y4/2GB/8GB
 [Onn 4K Stick (2026)](https://www.walmart.com/ip/ONN-4K-STREAMING/18355665352) ([buy](https://www.walmart.com/ip/ONN-4K-STREAMING/18355665352))|$35|4k@60|YES|10/+|ac/Opt (9b)|YES|Opt (8a)|V:Good A:Good|1st Gen. AV1, DC:NA, PT:LS DA/DTS, RTD1325/2GB/8GB
