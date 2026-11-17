@@ -1,12 +1,12 @@
 ---
 description: Information on components you should consider for a HTPC build. Cases/CPUs/GPUs/Motherboards/Memory/Storage/PSUs/Cooling, Video Cables/Adapters, Remotes, Keyboards
 keywords: [htpc, htpc components, htpc remote, htpc keyboard, htpc case, htpc cpu, htpc gpu, htpc odd, htpc hdmi]
-date: 2026-11-15 00:00:00 -0700
+date: 2026-11-17 00:00:00 -0700
 ---
 
 # Hardware Components Guide
 
-<div align="right"><em>Last updated on 2026-11-15</em></div><br>
+<div align="right"><em>Last updated on 2026-11-17</em></div><br>
 
 <meta name="description" content="Information on hardware components to use in your HTPC. Cases, CPUs, GPUs, Motherboards, Memory, Storage, HDMI Video cables/adapters, Optical drives, etc..">
 
@@ -473,6 +473,7 @@ KEYBOARD						|	PRICE	|	SIZE	|	INT		|	BACKLIT	|	POINT	|	BATTERY	|	NOTES
 **[Logitech K830](https://support.logi.com/hc/en-us/articles/360024153134--Getting-Started-Illuminated-Living-Room-Keyboard-K830)** |	[Disc (1) (Ebay)](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=logitech+k830&_sacat=0)	|	Full	|	BT/RF	|	Yes		|	Pad		|	Int/mUSB		|	14.4"
 [Logitech K400](https://m.media-amazon.com/images/I/A1-V3Jgn7ZL.pdf)				|	[$30](https://www.amazon.com/Logitech-Wireless-Keyboard-Multi-Touch-Touchpad/dp/B005DKZTMG)		|	Full	|	RF		|	No		|	Pad		|	AA		|	14". Primary Volume keys. Simple, popular
 **[Logitech K400 Plus](https://www.logitech.com/en-us/products/keyboards/k400-plus-touchpad-keyboard.html)**		|	[$25](https://www.amazon.com/Logitech-Wireless-Keyboard-Touchpad-PC-connected/dp/B014EUQOGK)		|	Full	|	RF		|	No		|	Pad		|	AA		|	14", Primary Volume/Media keys, dual Fn keys. Simple, popular.
+[Framework Wireless Touch](https://frame.work/products/framework-wireless-touchpad-keyboard)		|	[$100](https://frame.work/products/framework-wireless-touchpad-keyboard)		|	Full	|	BT/RF		|	No		|	Pad		|	Int/USBC		|	14", Primary Volume/Media keys, dual Fn keys, remap, Win/Linux/Mac
 [Logitech K600](https://support.logi.com/hc/en-us/articles/360023300214-Getting-Started-K600-TV)				|	[Disc (1)](https://www.google.com/search?sca_esv=9f8463f094060b86&sxsrf=ANbL-n40uBS5TWkL9IElieqSgKQo5ZpBNQ:1777228526664&udm=28&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mMGVXS0bCMe2eDZOQ2MOTwmdSduEdP1lcK-3UDyorIbYkF4w9ksckliRqNmnEiwdZqtGc9kojr1tGIT0NroV-rcnGoRdQe2VGb_XBWmIcEXaz0fESamVKURLwG1M74lWZpci0z_AMgW_OsZ68pyLe52cCFgNphqiZwlaDkZ091SERRxIsA&q=logitech+k600&ved=1t:220175&ictx=111&biw=1698&bih=785&dpr=1.13)		|	Full	|	BT/RF	|	No		|	Pad		|	AAA		|	14.4". Primary Volume/Media keys, D-pad
 [Microsoft All-In-One Media](https://www.amazon.com/s?k=microsoft+all+in+one+keyboard&rh=n%3A172282%2Cp_89%3AMicrosoft)	|	[$40](https://www.amazon.com/s?k=microsoft+all+in+one+keyboard&rh=n%3A172282%2Cp_89%3AMicrosoft)		|	Full	|	RF		|	No		|	Pad		|	AAA		|	14.4". Primary Volume/Media keys, dual Fn keys
 [Arteck HD197](https://www.google.com/search?q=arteck+hd197)	|	[$30](https://www.amazon.com/dp/B08SK8D38P)		|	Full	|	BT		|	No		|	Pad		|	Int/mUSB		|	14.6". Primary Volume/Media keys. Multi-connex (HW197 uses 2xAAA)
