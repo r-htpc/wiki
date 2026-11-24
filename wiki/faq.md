@@ -1,10 +1,10 @@
 ---
-date: 2026-11-23 00:00:00 -0700
+date: 2026-11-24 00:00:00 -0700
 ---
 
 # Frequently Asked Questions
 
-<div align="right"><em>Last updated on 2026-11-23</em></div><br>
+<div align="right"><em>Last updated on 2026-11-24</em></div><br>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--
