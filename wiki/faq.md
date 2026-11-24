@@ -89,24 +89,24 @@ Streaming services + 4K local content, no HD audio: Fire TV 4K MAX stick ($55), 
 
 4K HDR10/Dolby Vision local content + streaming services, HD audio: Nvidia Shield Pro ($200) / [Dune HD Box R 4K Plus](https://www.dune-hd.com/products/homatics-box-r-4k-plus) ($230).  
 
-4K HDR local content, HD audio: *HDR10*: Odroid [N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ($65/$80) / [N150](https://www.amazon.com/s?k=beelink+n150&crid=3CMH2TA4O87KZ&sprefix=beelink+n15%2Caps%2C148&ref=nb_sb_noss_2) ($170) Mini PC. *HDR10+/Dolby Vision*: [Vero V](https://osmc.tv/vero/) / [Dune HD Box R 4K Plus](https://www.dune-hd.com/products/homatics-box-r-4k-plus) / Ugoos AM6B Plus ($175-$250)  
+4K HDR local content, HD audio: *HDR10*: Odroid [N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ($70) / Used: Intel i5 8th Gen [NUC (NUC8I5)](https://www.ebay.com/sch/i.html?_nkw=nuc+%288i5%2C8i7%29+-8260u+-8265u&_sacat=179&_from=R40&LH_TitleDesc=1&_sop=15&LH_PrefLoc=2&_blrs=recall_filtering) ($125) Mini PC. *HDR10+/Dolby Vision*: [Vero V](https://osmc.tv/vero/) / [Dune HD Box R 4K Plus](https://www.dune-hd.com/products/homatics-box-r-4k-plus) / Ugoos AM6B Plus ($175-$250)  
 
-4K HDR10 local content + streaming services + Web Browsing (standard), Windows: Used: Intel i5 8th Gen [NUC (NUC8I5)](https://www.ebay.com/sch/i.html?_nkw=nuc+%288i5%2C8i7%29+-8260u+-8265u&_sacat=179&_from=R40&LH_TitleDesc=1&_sop=15&LH_PrefLoc=2&_blrs=recall_filtering) ($125) OR New: [Asus NUC 14 Essential](https://www.google.com/search?q=nuc+14+essential&oq=nuc+14+essential) ($225) Mini PC 
+4K HDR10 local content + streaming services + Web Browsing (standard), Windows: Used: Intel i5 8th Gen [NUC (NUC8I5)](https://www.ebay.com/sch/i.html?_nkw=nuc+%288i5%2C8i7%29+-8260u+-8265u&_sacat=179&_from=R40&LH_TitleDesc=1&_sop=15&LH_PrefLoc=2&_blrs=recall_filtering) ($125) OR New: [Asus NUC 14 Essential](https://www.google.com/search?q=nuc+14+essential&oq=nuc+14+essential) ($325) Mini PC 
 
 Cheap Emulation Gaming: EmuElec/Batocera + USED: >= 
-[SFF/USFF PC - CPU >= i5-8500T, 8GB RAM, SSD](https://www.ebay.com/sch/i.html?_nkw=%28hp%2Cdell%2Clenovo%29+%28i5-8400%2Ci5-8500%2Ci5-8600%2Ci7-8700%29+%28sff%2Cdt%2Cmt%2Cusff%2Cmicro%2Ctiny%2Cmini%29+ssd&_sacat=179&_from=R40&_fsrp=1&LH_BIN=1&_sop=15&_udhi=175&_blrs=recall_filtering) ($75) or NEW: Odroid [N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ($80) + 8bitdo Ultimate 2C controller
+[SFF/USFF PC - CPU >= i5-8500T, 8GB RAM, SSD](https://www.ebay.com/sch/i.html?_nkw=%28hp%2Cdell%2Clenovo%29+%28i5-8400%2Ci5-8500%2Ci5-8600%2Ci7-8700%29+%28sff%2Cdt%2Cmt%2Cusff%2Cmicro%2Ctiny%2Cmini%29+ssd&_sacat=179&_from=R40&_fsrp=1&LH_BIN=1&_sop=15&_udhi=175&_blrs=recall_filtering) ($90) or NEW: Odroid [N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ($70) + 8bitdo Ultimate 2C controller
 
 1080p Casual Gaming: [Beelink SER5 Max/EQR7 (7735HS) mini pc](https://www.amazon.com/Beelink-4-75GHz-Computer-Display-1000Mbps/dp/B0GFVMZYQJ/) ($300+)
 
 <!-- [Orange Pi 3 LTS 2GB](https://www.aliexpress.us/item/3256804341645667.html) -->
 
-1080p local content, HD audio: **[Odroid C4](https://www.hardkernel.com/shop/odroid-c4with2gbyteram/)** + CoreElec / [RPI 4 2GB](https://www.google.com/search?q=raspberry+pi+4+2gb&oq=raspberry+pi+4+2gb) + LibreElec ($60). [OSMC remote](https://osmc.tv/store/product/osmc-remote-control/)  
+1080p local content, HD audio: **[Odroid C4](https://www.hardkernel.com/shop/odroid-c4with2gbyteram/)** + CoreElec / [RPI 4 2GB](https://www.google.com/search?q=raspberry+pi+4+2gb&oq=raspberry+pi+4+2gb) + LibreElec ($75). [OSMC remote](https://osmc.tv/store/product/osmc-remote-control/)  
 
-1080p local content + Web Browsing (minimal), Linux: **[Odroid C4](https://www.hardkernel.com/shop/odroid-c4with2gbyteram/)** / [ROCK64-4GB](https://pine64.com/product/rock64-4gb-single-board-computer/) ($50)  
+1080p local content + Web Browsing (minimal), Linux: **[Odroid C4](https://www.hardkernel.com/shop/odroid-c4with2gbyteram/)** / [ROCK64-4GB](https://pine64.com/product/rock64-4gb-single-board-computer/) ($75/$50)  
 
-1080p local/streaming content + Web Browsing (standard), Windows: Used: >= [SFF/USFF PC - CPU >= i5-8x00T, 8GB RAM, SSD](https://www.ebay.com/sch/i.html?_nkw=%28hp%2Cdell%2Clenovo%29+%28i5-8400%2Ci5-8500%2Ci5-8600%2Ci7-8700%29+%28sff%2Cdt%2Cmt%2Cusff%2Cmicro%2Ctiny%2Cmini%29+ssd&_sacat=179&_from=R40&_fsrp=1&LH_BIN=1&_sop=15&_udhi=175&_blrs=recall_filtering) ($75) OR New: >= [N100 Mini PC](https://www.amazon.com/dp/B0CX14YPTN/ref=twister_B0DC6D6QP7?_encoding=UTF8&th=1) ($150)   
+1080p local/streaming content + Web Browsing (standard), Windows: Used: >= [SFF/USFF PC - CPU >= i5-8x00T, 8GB RAM, SSD](https://www.ebay.com/sch/i.html?_nkw=%28hp%2Cdell%2Clenovo%29+%28i5-8400%2Ci5-8500%2Ci5-8600%2Ci7-8700%29+%28sff%2Cdt%2Cmt%2Cusff%2Cmicro%2Ctiny%2Cmini%29+ssd&_sacat=179&_from=R40&_fsrp=1&LH_BIN=1&_sop=15&_udhi=175&_blrs=recall_filtering) ($90) OR New: >= [MSI Cubi N N150](https://us.msi.com/Business-Productivity-PC/Cubi-N-ADL/Specification) ($300)   
 
-Media Server: Used: [SFF/USFF PC - CPU >= i5-8x00T, 8GB RAM, SSD](https://www.ebay.com/sch/i.html?_nkw=%28hp%2Cdell%2Clenovo%29+%28i5-8400%2Ci5-8500%2Ci5-8600%2Ci7-8700%29+%28sff%2Cdt%2Cmt%2Cusff%2Cmicro%2Ctiny%2Cmini%29+ssd&_sacat=179&_from=R40&_fsrp=1&LH_BIN=1&_sop=15&_udhi=175&_blrs=recall_filtering) ($75) OR New: >= [N95 Mini PC](https://www.amazon.com/dp/B0CX14YPTN/ref=twister_B0DC6D6QP7?_encoding=UTF8&th=1) ($200)  
+Media Server: Used: [SFF/USFF PC - CPU >= i5-8x00T, 8GB RAM, SSD](https://www.ebay.com/sch/i.html?_nkw=%28hp%2Cdell%2Clenovo%29+%28i5-8400%2Ci5-8500%2Ci5-8600%2Ci7-8700%29+%28sff%2Cdt%2Cmt%2Cusff%2Cmicro%2Ctiny%2Cmini%29+ssd&_sacat=179&_from=R40&_fsrp=1&LH_BIN=1&_sop=15&_udhi=175&_blrs=recall_filtering) ($90) OR New: >= [MSI Cubi N N150](https://us.msi.com/Business-Productivity-PC/Cubi-N-ADL/Specification) ($300)  
 
 Complete recs: [Media Devices](/wiki/faq#can-i-use-a-pre-built-media-device-for-my-htpc) / [HTPC Sample Builds/Pre-builts](/wiki/sample-builds)  
 
@@ -423,8 +423,8 @@ Mini PC: [Intel NUC i3/i5/i7](https://www.intel.com/content/www/us/en/products/b
 BRAND/MODEL|PRICE|RESOLUTION|4k NETFLIX|HDR|WLAN/LAN|VOICE|USB|RATING|NOTES
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--
 [Raspberry Pi 4b](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) / [5](https://www.raspberrypi.com/products/raspberry-pi-5/) ([buy](https://www.pishop.us/product/raspberry-pi-4-model-b-1gb/)/[buy](https://www.pishop.us/product/raspberry-pi-5-4gb/))|$36/$60|4k@60 (2,4)|No|10/HLG (2)|ac/1000M|No|YES (8b)|V:Good A:**Best**|HDR10/HLG, LL DA/DTSX w/LibreElec, BT 5.0
-[Odroid C4](https://www.hardkernel.com/shop/odroid-c4/) ([buy](https://www.hardkernel.com/shop/odroid-c4/))|$55|4k@60|No|10/+ (6a)|Opt/1000M|No|YES (8b)|V:Good A: **Best**|S905X3/4GB RAM. PT:**LL DA/DTSX** w/CoreElec
-[Odroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ([buy](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/))|$66|4k@60|No|10/+ (6a)|Opt/1000M|No|YES (8b)|V:Good A:**Best**|S922x/2GB RAM/8 GB SD. PT:**LL DA/DTSX** w/CoreElec
+[Odroid C4](https://www.hardkernel.com/shop/odroid-c4with2gbyteram/) ([buy](https://www.hardkernel.com/shop/odroid-c4/))|$75|4k@60|No|10/+ (6a)|Opt/1000M|No|YES (8b)|V:Good A: **Best**|S905X3/4GB RAM. PT:**LL DA/DTSX** w/CoreElec
+[Odroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) ([buy](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/))|$70|4k@60|No|10/+ (6a)|Opt/1000M|No|YES (8b)|V:Good A:**Best**|S922x/2GB RAM/8 GB SD. PT:**LL DA/DTSX** w/CoreElec
 **[Vero V](https://osmc.tv/vero/)** ([buy](https://osmc.tv/store/))|**$150**|4k@60|No|10/+/DV|ac/1000M|No|YES (**8b**)|V:Better A:**Best**|OSMC, AV1, **DV-5/7F/8**, PT:**LL DA/DTSX**, 4GB/32GB, NTFS
 [Dune HD Box R 4K Plus](https://www.dune-hd.com/products/homatics-box-r-4k-plus) ([buy](https://www.dune-hd.com/products/homatics-box-r-4k-plus))|$200|4k@60|YES (5a)|10/+/DV (6b)|ax/1000M|No|YES (8b)|V:**Best** A:**Best**|AV1, S905X4-K/4GB RAM/32 GB SD. **DV-5/7F/8**, PT:**LL DA/DTSX**
 [Xiaomi TV Box S](https://www.mi.com/global/product/xiaomi-tv-box-s-3rd-gen/) ([buy](https://www.amazon.com/Xiaomi-TV-Box-3rd-Gen/dp/B0F3JWFL56))|$75|4k@60|YES|10/+/DV|ax/Opt (9c)|YES|YES (8c)|V:Better A:**Best**|3rd gen, AV1, DV-5/8, PT:**LL DA/DTSX**, S905X5M/2GB/32GB, BT 5.2
