@@ -1,10 +1,10 @@
 ---
-date: 2026-11-16 00:00:00 -0700
+date: 2026-11-23 00:00:00 -0700
 ---
 
 # Frequently Asked Questions
 
-<div align="right"><em>Last updated on 2026-11-16</em></div><br>
+<div align="right"><em>Last updated on 2026-11-23</em></div><br>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--
@@ -209,7 +209,8 @@ If you want to control other devices from your HTPC, there are a number of ways 
 
 ## Why would I use a PC over a media device (roku, firetv, shield, etc..) for a HTPC?
 
-While media devices are great frontends that are easy to use and navigate, they're not for every scenario. They are best when your usage profile is limited, esp. in terms of the software and hardware you want to use. These are a lot of the reasons you may want to use a PC for your HTPC instead of a media device.  
+While media devices are great frontends that are easy to use and navigate, they're not for every scenario. They are best when your usage profile is limited, you want the easiest navigation, the best resolution for commercial streaming services, and/or want to pass-through Dolby Vision/HDR10+ as-is.  
+The following are reasons you may want to use a PC for your HTPC instead of a media device.  
 
 1. You want to run apps/services on windows or linux, or use a specific, customizable interface, that is/are not available on media device operating systems.  
 
@@ -372,7 +373,7 @@ If those things aren't good enough for you, then you should buy a remote-based [
 
 ## Can I use a pre-built media device for my HTPC?
 
-Yes, you can. There are many already-built devices out there. Media devices from major brands like Roku/Amazon/Google/Apple/Nvidia/Roku will have better support for video resolutions/HDR than a traditional HTPC. See the next section/question for why you would choose one device or brand over another. <!-- There is also a list of popular devices at [wikipedia](https://en.wikipedia.org/wiki/Comparison_of_digital_media_players) which gives further information like supported streaming apps. -->  
+Yes, you can. There are many already-built devices out there. Media devices from major brands like Roku/Amazon/Google/Apple/Nvidia will have better support for commercial streaming services, advanced HDR tech (Dolby Vision/HDR10+) and be easier to navigate than a traditional HTPC. See the next section/question for why you would choose one device or brand over another. <!-- There is also a list of popular devices at [wikipedia](https://en.wikipedia.org/wiki/Comparison_of_digital_media_players) which gives further information like supported streaming apps. -->  
 
 Beware of cheap no-name android boxes on obscure websites. They likely will have no or poor support and very little documentation if you run into trouble.  
 
