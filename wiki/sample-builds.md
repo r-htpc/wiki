@@ -1,12 +1,12 @@
 ---
 description: Information on pre-builts and DiY builds to help you get started with a HTPC, media server, NAS, gaming or specialized setup
 keywords: [htpc build, diy htpc, mini pc, pre-builts, media server, emulation, madvr, hdr, all-in-one]
-date: 2026-11-14 13:00:00 -0700
+date: 2026-11-26 13:00:00 -0700
 ---
 
 # HTPC Builds - Pre-Built / DiY
 
-<div align="right"><em>Last updated on 2026-11-14</em></div><br>
+<div align="right"><em>Last updated on 2026-11-26</em></div><br>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--
@@ -219,11 +219,12 @@ Intel Core 8th gen i3+ or AMD 3200+ G/U/H/HX APUs + HDCP 2.2+ implemented on HDM
 
 ### Specialized: HDMI-CEC
 
-- [RPI4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) / [ROCK64-2GB](https://pine64.com/product/rock64-2gb-single-board-computer/) / [Odroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) (full)
-- [Intel branded NUCs](https://www.intel.com/content/www/us/en/support/articles/000023500/intel-nuc/intel-nuc-kits.html) (just power states, or full with [pulse8 adapter](https://www.pulse-eight.com/c/59))
-- [MSI Cubi NUC 1M/1MG](https://us.msi.com/Business-Productivity-PC/Cubi-NUC-1MX/Specification)
-- [Asus PN41](https://www.asus.com/us/displays-desktops/mini-pcs/pn-series/mini-pc-pn41/) / PN42 / PN43 / [PN50](https://www.asus.com/us/displays-desktops/mini-pcs/pn-series/mini-pc-pn50/) / PN51 / PN53 / PN64 / [PL64](https://www.asus.com/displays-desktops/mini-pcs/pl-series/mini-pc-pl64/) (just wake state) / PN65
-- Intel/AMD based mini PC with full DP 1.4 port + [DP 1.4->HDMI 2.1 active adapter](https://www.amazon.com/UGREEN-Unidirectional-Aluminum-Converter-Compatible/dp/B0FQCGSWW3)
+- ARM: [RPI4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) / [RPI5](https://www.raspberrypi.com/products/raspberry-pi-5/?variant=raspberry-pi-5-2gb) / [ROCK64-2GB](https://pine64.com/product/rock64-2gb-single-board-computer/) / [Odroid N2+](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram-2/) / [Homatics Box R 4K Plus](https://www.dune-hd.com/products/homatics-box-r-4k-plus) (power states+control)
+- [Intel branded NUCs](https://www.intel.com/content/www/us/en/support/articles/000023500/intel-nuc/intel-nuc-kits.html) (power states; add control with [7th-10th gen](https://www.ebay.com/sch/179/i.html?_nkw=intel+%28nuc8i3%2Cnuc8i5%2Cnuc8i7%29+%28beh%2Cbek%29&_from=R40&_fsrp=1&_sop=15&LH_ItemCondition=3000%7C2030%7C2010%7C1500) + [pulse8 header](https://www.pulse-eight.com/p/154/intel-nuc-hdmi-cec-adapter))
+- [Dell Optiplex 70xx](https://www.ebay.com/sch/179/i.html?_nkw=dell+optiplex+%287060%2C7070%2C7080%2C7090%29+%28mff%2Csff%2Cmicro%29&_from=R40&_fsrp=1&_sop=15) + [HDMI 2.0 board](https://www.ebay.com/sch/i.html?_from=R40&_nkw=dell+hdmi+2.0+%28HXPK2%2C1KNYY%2CR07CP%2C5N1NY%29&_sacat=0&_sop=12) + [LibreELEC](https://libreelec.tv) (power states+control)
+- [MSI Cubi NUC 1M/1MG](https://us.msi.com/Business-Productivity-PC/Cubi-NUC-1MX/Specification) (power states)
+- [Asus PN41](https://www.asus.com/us/displays-desktops/mini-pcs/pn-series/mini-pc-pn41/) / PN42 / PN43 / [PN50](https://www.asus.com/us/displays-desktops/mini-pcs/pn-series/mini-pc-pn50/) / PN51 / PN53 / PN64 / [PL64](https://www.asus.com/displays-desktops/mini-pcs/pl-series/mini-pc-pl64/) (just wake state) / PN65 (power states)
+- Intel/AMD based mini PC with full DP 1.4 port + [DP 1.4->HDMI 2.1 active adapter](https://www.amazon.com/UGREEN-Unidirectional-Aluminum-Converter-Compatible/dp/B0FQCGSWW3) OR HDMI + [pulse8 USB adapter](https://www.pulse-eight.com/p/104/usb-hdmi-cec-adapter) (power states+control) 
 
 <!-- Sub-Section -->
 
