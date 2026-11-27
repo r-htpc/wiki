@@ -1,11 +1,11 @@
 ---
 description: Information on the best ways to connect your HTPC to a sound system and/or display, configuring the software, along with information on audio concepts, formats and interfaces. (PCM 5.1 Gaming audio, DD/DTS/DTS-HD/TrueHD/Atmos/Bitstreaming)
-date: 2026-10-25 00:00:00 -0700
+date: 2026-11-26 00:00:00 -0700
 ---
 
 # Audio Setup Guide
 
-<div align="right"><em>Last updated on 2026-10-25</em></div><br>
+<div align="right"><em>Last updated on 2026-11-26</em></div><br>
 
 ## Technologies
 
