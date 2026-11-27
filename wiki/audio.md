@@ -1012,7 +1012,7 @@ It depends.
 
 If you have a spare DisplayPort port (either on a dGPU or on your motherboard with a CPU iGPU) you can use a simple, **PASSIVE** [DisplayPort to HDMI cable/adapter](/wiki/components#video-cablesadapters) to get HD audio (up to TrueHD Atmos/DTS:X) to an HDMI port on a sound system.  
 
-If you're using an **ACTIVE** DisplayPort->HDMI adapter or cable, you **CAN'T** bitstream **HD** audio over it. The max you can do, depending on the quality of the adapter, is DD+ Atmos, DTS and PCM 7.1 audio.  
+If you're using an **ACTIVE** DisplayPort->HDMI adapter or cable, you **CAN'T** bitstream **HD** audio over almost all of them. The max you can do, depending on the quality of the adapter, is DD+ Atmos, DTS and PCM 7.1 audio. There is *tentative* HD support on a [Club 3D CAC-1088](https://www.club-3d.com/shop/cac-1088-1223#attr=162,163,164,165,2160,167,2637,166,3141,3144) adapter cable.  
 
 *USB-C*  
 
